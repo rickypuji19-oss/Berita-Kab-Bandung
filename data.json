@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:07:15.376843+07:00",
+ "updated": "2026-10-07T12:07:52.297194+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   24
   ],
   [
    "RRI.co.id",
@@ -23,10 +23,6 @@
    7
   ],
   [
-   "Galamedia News",
-   6
-  ],
-  [
    "Radio PRFM",
    6
   ],
@@ -35,11 +31,15 @@
    6
   ],
   [
+   "Galamedia News",
+   5
+  ],
+  [
    "Koran Gala",
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "jabarekspres.com",
    4
   ],
   [
@@ -51,11 +51,11 @@
    4
   ],
   [
-   "bandungraya.net",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
-   "jabarekspres.com",
+   "bandungraya.net",
    3
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Tegaskan Penyelesaian PT BDS Tunggu Proses Hukum - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTVXY0JCbFFqcmhSMWNOLXpXcnpGNmYzTHVEdnNmbTNJYUFIaWNpVzNtOWUyQlFOR3VULXkydnpDME1jVVk0Wm5Lb1M0N0xzZVNvX2U0YzA0SkNibHdEdl8xLXpQaVRXdnhDU0JCRGxqYjZDTWJVaDgtMVRpUmhGSVVETnJWME9zcW1BdWFKSXNjbEt0?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
+     "t": "BAZNAS Kabupaten Bandung Dorong UPZ SDN Pameungpeuk Tanamkan Budaya Infak Sejak Dini - BAZNAS Kab. Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm8tQlFNSl9wU3UtTzFnTzJIck8zZ3RNWWlCa09FQUVXVUZjTkZicTc5amJhWS0yU1FSY29sVy0zcTh2dmlwTFhZVmpVdnVkTDJqTTlhWTNveS1Vc2dCZmNRSjVBZ1ZtT3RiSEZDSV9xZkd1LUtaWEVKZlA1c0NOR0h3Qmh5Y2tzVVZ0cVBpb0x4V2FsYjd4aGgtblFuSzB3cE1lenNYcXZ1S3ZYVHlCc2g4VEphMHozVjlKaVZaQlRxai10Mmdpb2FQSUl3TzREY18tR2FR?oc=5",
+     "r": "BAZNAS Kab. Bandung"
+    },
+    {
      "t": "Korban PT BDS, Saklahsahiji Perumda Milik Pemkab Bandung, Ngontrog Bupati, Pemkab Nolak Tanggung Jawab - Galura - Galura",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMnVodWZsYnZPLUlfbUVMWWl0REIwbmYwY0dsRFk4NlFYdEFVV3Nrbi1WNy1DblRDZHR3UWc3ZWZSdkxiQzBBclVqRjFPVndxcFBNalNTczJTRzFRVXlMaHBHRVYxTEZRb1d5elM4clFXSkw3NGRuWjVkVHpILUh5V2M0VmRFN2JpY2V0LU9aTzloN29sYk5LYll1MGpQUGJidkhRSEU2Z1UyOXV4bTBQb0VramVFYlNES0RJdF9yN2RWWmJMb3JLNm1LSmpETjN4RzhIcnNwUEltSXZwUkNRMjIxQzNyd0xhVEkzU0FB0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
      "r": "Galura"
-    },
-    {
-     "t": "Perekaman KTP-el di RSUD Welas Asih - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0I0QUg0V0FQRWExU0xhQWpIWHNoa3dCVFRfQkJNeHVDb1FudG1UYnc0ak5VVGd0bjBHRi1fZXBjSUthQ205dUlqa2tsZ214d2ZOUFVFQmtiN2tmaXhGVkkyYWVUdDVHMFJzZ04xWnVZMEttZjlDM0s0eXhUQkZRd3ZiY1hYRllNVUVzRGM4WHBhVG5FNTNkVw?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Implementasi Program E-Learning ASN Berintegritas - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5zOUttZVZudTNCMjg5RGJqd1VEMVJKV0VVQThELWkxX1pla3RXNXhKMFNieHptci1KUHFtMEpsZ1NLWG55cjJfeVI4a2ttNWpoTl9EUlNsQ3VkSmx6LVQ5NWxPalVGR3hNaVlkaHhVVDN1bzlNRzNIaDZMTnFwaUVzYVpKTXlNM1N3WGN3TFVoU2dneUFYQ2h4YkRGUm54UUFScEVGbGpyNEk?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -117,8 +117,8 @@
     ],
     "w": [
      13,
-     23,
-     4
+     25,
+     2
     ]
    },
    "trend": {
@@ -136,9 +136,9 @@
      0,
      0,
      0,
-     1,
+     0,
      12,
-     1
+     2
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     3,
+     1,
      1
     ]
    }
@@ -319,22 +319,22 @@
    ],
    "h": [
     {
+     "t": "Pinjam Motor Teman Tak Dikembalikan, Polisi Tangkap Pelaku dan 2 Penadah - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcy1QU0ZiejZPSUJsVmhTR29XM2hybGVvNFptT0pzWFdDWnVCaGxfcWI2eDZjamVtN2l3S3Q4NTZxa0VWR0VIcnlNVXd0RlgxdHo4dnNpdVF3SG9GVEpxYVFLRmEzNDYyRkcxTlpIczFzcnlkX3M1VnJWTE9FQ3JEQ3dNVDF3U3NyWkM2U1RmZ3d4S19uU0FTcndnVGZOSC01VUFTUnRNYjF2LVRJYkN4QnUwbm56UQ?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Viral Aksi Perusakan Pagar Kedai Kopi di Katapang Bandung, 3 Pelaku Ditangkap - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3BJdURWSXNUbWpLTjhMMGpDMGFnYnZfbGxwaWhUTDBiU0ctUDJCVU11TXFxOHMtcFF5MElIaW5la0pWcURRSWVvbkVVVEItbDU1SHhDRDlremN0alVtbkN3QzZfVS1waTJjUlJXODR1bGpqdGxiTGNhSFB1ZEU2clVkdjViREdLcFNiVWtHS3BsNkNhd1pncHVqZ0FXMnNxQUJGNGtDZ1o3dWYtNVFsNUNtWHZjYV9rRDZPUS1zSkFHNTFfSktmaA?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Aksi Nekat Maling Kabel Tower di Cicalengka Berakhir Ditangkap Polisi - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU1sWFVmRXB0SGFOaXdKZk1oUFhOUWFaRXFBOXk1Zng2Zmg5XzJBWFhLeWpZTGdSVjFmWXFIbTJ2bzVRdm0wbnN6SUJFb0RFSmI0MUN0Ymw5SXJRRkEtYktCcEZQR2tDbGEzN3pJOVVab05rTmNLN05pWmw1Sll4eGtCYVNkLXlUa3FVbmNpYlJscHVGWFByRWJZbkI5aUhXODVjUW50UGdLeEUtaHNROVR4bXV3Qm5NX3BjWEM1Ynd4ZmdI0gHKAUFVX3lxTE5mSW9QVjJ3T2Q0REJKYnotVi1UakxXdTI0aEJZWTRfdkxHdmJPSzRBVWpwTmxYdTUxa1NPR0xBQjZFMHQ1OEY3NWprZlhTQ1Qyc1RPOVMwVmdMYzIyRkZxdGVUdE9ZYzVSalY3LUM4T3ZCWU4yTlZpRjBCRHEyNUJyVjlKZzBZMmxtc1NDSnpqMm45VUt0VUpmSnVwZTNWSlBtZVRoSnRVRnZYMF9nSHBjQUhKX2xZS0VsLWtCSU12YXF5LVRXUU5kT1E?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Tiga Laga Persib Oktober Ini Digelar di Stadion Si Jalak Harupat, Polisi Siapkan Pengamanan All Out - PRFM News - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc3hvSmUyZjJYT1A2LXduaDNHN1NkbFh5WVk2a1NkOG9zLUFjYXJPelFsU19MSlc2UGNEakVhMDlXUFNVNThCQnZ6dUhabHJLNXBuS0M0ZWRwb0xmWDFsWFNxYmxONU5hMGtrY01QV1cyQ0JBT3JCVXpRZUJZZHZZalB5TGpPQmhjZ0kwOS1uSXBWY3V2di1HTlVFYjJZMDkxandDaGZKTFVfdGZSdGUtWnlURHVyT0lMQkVwQzRDb3A0QWFpczh0aEoyYzBlRGx2YjhVdkMtX2lLVmNRWWNON0l5U294NEIyS1l4TXEybGR6aXfSAfgBQVVfeXFMUHY0S2NjYW81a0sxN0ozbDNnb3VfNkxJZV9scW1YUU9MSzd6MmxOZ2NGX3RKWXJ3Z1lGeEhnM2dlQXV3bnoxSl9iMFlGVmxuWXpYVWZSdWtKTGFtZ3FUdV9xZk5BbEtndkRNSWozSmo2S1QyZ3BnM1pYV1p6akY5S1czbDc4UVNlcFdiQlpWRFdwM3hzd2paYkRvSFd6aldrT0tRbVZFNEdNb1I2Sk9oSEdMVVN0Q3lSNXBudVRHTjZjaWNqWDZ4dkpGbk8xUVdMU1lVbGxfZ0paQUtKdURaNUJjcmJNbzl5cGpkVmFrNnpQYzFEQkZudDY?oc=5",
-     "r": "Radio PRFM"
-    },
-    {
-     "t": "Pemkab Bandung Tegaskan Penggantian Dana BDS Menunggu Proses Hukum - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzE0aUNQbFZTQnRpUVpqeXE5UDBLTlVITjVacmMxYmx2YUc5NHpFbGotNnZtdE96VEY2RkFES2k1a3N4ZlpUcFlJZDZ0RGUtR09FN1pQNjNac3NweER3X18wQUEzMUo5UE5LNXhOLUdlUTYzQ1g3MXF3UDdVVW1EU1RhT2ZEQzJscXhuS2dsVFViMl9nemdIM2lrYlpMemVic2ZsbjdjRGlDa0djZzBRM2lLb2N4MFln0gG-AUFVX3lxTE9sQ2o3dEhfSUdROTkzdjBTRGlfSENiUjBfUktWSkRxalhwVjBzSXNZajBBaUYza05NRWxhOXI0TTJwbDRDR21MMGdsWTl0X092Q0Rzc0FDTm9IQVVpQ0QxNHFlSlpHckdUV2JjLVZndWtsQ2wyMnBONWJvbzhPWkNSdGo1dlhmYmdDbG82Z2ozVmRzZXpjQi11VnVOZ3R2enZtdGllSlhhTHZTXzAtYnB6R3JyZUNYVWpfcV9kR0E?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -357,8 +357,8 @@
     ],
     "w": [
      2,
-     25,
-     5
+     24,
+     6
     ]
    },
    "trend": {
@@ -387,7 +387,7 @@
      1,
      2,
      1,
-     1
+     2
     ]
    }
   },
@@ -521,7 +521,7 @@
     ],
     "w": [
      4,
-     11,
+     10,
      3
     ]
    },

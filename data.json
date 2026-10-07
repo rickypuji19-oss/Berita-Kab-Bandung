@@ -1,0 +1,411 @@
+{
+ "updated": "2026-10-07T09:46:03.269396+07:00",
+ "sources": [
+  "Google News RSS"
+ ],
+ "method": "model IndoRoBERTa, gratis",
+ "topics": [
+  {
+   "n": "Pemkab",
+   "d": "Pemerintah Kabupaten Bandung",
+   "k": [
+    "pelayanan publik",
+    "APBD",
+    "bupati",
+    "ASN"
+   ],
+   "h": [
+    {
+     "t": "Program E-Learning ASN Berintegritas: Upaya Pemkab Bandung dengan Menggandeng KPK untuk Tekan Potensi Korupsi - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOFpRSHlubWxnNWM2TEJrM2sxSEloTE5iZGpRTkpxNzhyNDFIelVoZ1hCWDB0QlNHekV6UW9SMmNPeUZjTEd2S25ZT0dIS0drdlNMd0p0LV9yVlJjUnVTckk0OU1ITjJYVTgwQlVjOHJDV2pJZGdzMnNtTmRQNzFwekF4eGE2dGtURTUzU2hnaEJKV3BnLWhYeEpXY19JZEkxbHp0b3pna080UnU5SVdzQ19lY3B0eHhrZ2MzOGxmbWswc2haTzYyVVZpWm9SNUdKOWFXN3pyc2ZpY3Fxekt6REdTT2ZpTWhfUTNGM1RFS0hRbFdOU01J?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Komitmen Bersama, Pemkab Bandung Gandeng KPK Perkuat Integritas ASN Lewat E-Learning SIMALABAR - Jurnal Soreang | PRMN - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcVV3VnB1YnZWcFdMSDFTcEU5cDNYaE9DZDhPZXFPa0lKcFlNT1FGZHItWmZJdFZXMm9mQm9vNXBDaG45R1llcTdKbEJCTXBFSmVMUnoxYmJtc0Z3YXNfTXFBWnc5VFBTdlVqSnhIeS1XWkJDNEhIeHB6UC1URlRIZXhJdG9hZS1LQ0VqVEhyUlZheGVGV0E3Q1U0YjdmUzc4cGZFUFdpTmFvZHFLSHJjNGl4STgyd2l3NXhldVNJRjlud2Rncm9SUnRyUXpqeHRRanZIVlFVU2dJWGJ1dmZaNEp1MGNMbV9tRnh2dU1BTFXSAfABQVVfeXFMUHFVd1ZwdWJ2VnBXTEgxU3BFOXAzWGhPQ2Q4T2VxT2tJSnBZTU9RRmRyLVpmSXRWVzJvZkJvbzVwQ2huOUdZZXE3SmxCQk1wRUplTFJ6MWJibXNGd2FzX01xQVp3OVRQU3ZVakp4SHktV1pCQzRISHhwelAtVEZUSGV4SXRvYWUtS0NFalRIclJWYXhlRldBN0NVNGI3ZlM3OHBmRVBXaU5hb2RxS0hyYzRpeEk4MndpdzV4ZXVTSUY5bndkZ3JvUlJ0clF6anh0UWp2SFZRVVNnSVhidXZmWjRKdTBjTG1fbUZ4dnVNQUxV?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
+     "t": "Siap Kirim 1.200 Kontingen, Pemkab Bandung Targetkan 100 Medali pada Porprov XV Jabar 2026 - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
+     "r": "Galamedia News"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     0,
+     16,
+     2
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "n": "Politik",
+   "d": "Situasi politik",
+   "k": [
+    "DPRD",
+    "partai",
+    "pilkada"
+   ],
+   "h": [
+    {
+     "t": "Siap Kirim 1.200 Kontingen, Pemkab Bandung Targetkan 100 Medali pada Porprov XV Jabar 2026 - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Peredaran Narkoba Kian Marak, DPRD Dorong Pembentukan BNN Kabupaten Bandung Direalisasikan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTklnaXYtVzJCZTZJLTJvMXFxUVFmWjBqQ3dteElObExNM3dmNDM4b1hxWl9wMWZVZWd6QWxoX0YtaHBSSFNvVXZFRmtqNm5CZmJUTjIwOWhscVVPUjkxdHpTRUpSX2tqZ0N5YmlEOUo1aGo2OFM1dnVWYW5ZMTl0X1BXbEc4RVlqMjhWTTNnYmlmMUNYZldzQnJfYmJ3eE9NQmJRUDlrTmV5Z05FaGEwSHNpR2JFMGJJMHd0VjdqSENpTzNiWWRkcWVYbFRLVV8tSnA3T0U5dnB0dV9S?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "DPRD Dorong BNN Kabupaten Bandung Segera Terbentuk, Peredaran OKT Jadi Sorotan - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0FZQnoxR2RwbVk4bTJJcEFacE51dFl0amx6dUNJUktNekJIOThkejdzdEQyeVVyMlhJbk9HUV9yRDN3cHpYRFlhVDlJWmx3clM2NEpIemtQYmpiUy1aZFEwYjljNVNSbE1TZHNXWXVDemJvcG5WcGZZM01pOFo1aVNSRE04VEMtNFVJWlRGRXMtQktkTURkVHJWak1relFjSnNEUUxmTzRIdm1OU2RjRGpkQnphU3hZZXY2M19R?oc=5",
+     "r": "jabarekspres.com"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     0,
+     16,
+     0
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  {
+   "n": "Ekonomi",
+   "d": "Situasi ekonomi",
+   "k": [
+    "UMKM",
+    "inflasi",
+    "investasi"
+   ],
+   "h": [
+    {
+     "t": "Pemkab Bandung Siapkan Tambahan Kuota BBM Subsidi, Pertalite Diprediksi Habis 9 Desember - Sekitar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQkZkX0ZzeEZUeHlqdzFjNDVPaGRYV1dlU2l4bjNNTjFpTDB4X080SkluT1NxSWpRUFItTG5vd1JsNEFHUEMtTE0xcXpBZ0ZBekxGUHJFTHVMazkyMWNnY0x4VUNRU0hHYndFcUoyRXh5Zw?oc=5",
+     "r": "Sekitar Bandung"
+    },
+    {
+     "t": "Ada Pameran Alutsista di Soreang, Warga Bisa Lihat hingga Naik Kendaraan Tempur TNI - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbi1leHhVRjhrZWFlcFFOeThJbTg1aEZtVnJjQUk4ck9Zdi1vNmU3LXc5ekdpdng1NVpRRnR1M2pwLUk2VjdJMjI2YUZLYy1nS25PYU9HT2pzMWllY2hHUHd3amtXTjlUel9fU3RwZ1FEM1c4STlNbXlrSnc5X2xHbGlzZE1ZM3c4aFZ1aUtNdmR4S2dWb3UxUDZhSkFBd2VSTmROZTM2STNvdUxJWFpNS1M4RWhpN0RoUTh3?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "HP Wartawan Diduga Dirampas dan Diancam Usai Bupati Bersaksi dalam Sidang - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdXJueGt0aVRpRWhkazhMVHNCM3lDMEpfSUVXN1AtbWpIcXNkZ1NSX1drSzh0LUM3UXdEeDd1c215S1o1RkVnMEJuRU5OSWdIWGd6VzdoSXhsWU4tT1p4U0lWNHpKMHpaX1ZtZDdmMXQxQXMzQzVXNW10cU92eHl4cXhmSTFDT1R1SERrQ01xUTctdFpCenZkNjRfX2lHRlVHaHhoYXdpSUltbWkwTUk2bWxNaS1CbzdqWV9ZbTVuNk9nd9IBxwFBVV95cUxNNjZpeEtrM2cxU3d5bklhLTlLczh5T211Sjh0eWRFdk1WYzBKU1o5aVNZQmRPbDhBYzRXWmlqT3pJY1JuakdxUUhjWFpSUHhIOURINW0zRjdmclZNMkJTZUxMdWFPTHAtSzR3WWNaVHR2NWMtb21Ib0M4LW1lNy1DSXBzSFNFWklVeENCekd1SURUSjhtSjBnM3k5SzUzZ1BycDdZbzhMd2NOVVhEWko0R1Z3c0g4YjJhVVV6OXZkSlpJTkM1eTF3?oc=5",
+     "r": "Ayo Bandung"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     0,
+     3,
+     0
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  {
+   "n": "Hukum",
+   "d": "Situasi hukum",
+   "k": [
+    "korupsi",
+    "kejaksaan",
+    "pungli"
+   ],
+   "h": [],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     0,
+     0,
+     0
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  {
+   "n": "Infrastruktur",
+   "d": "Jalan, banjir, transportasi",
+   "k": [
+    "banjir",
+    "jalan rusak",
+    "Baleendah"
+   ],
+   "h": [
+    {
+     "t": "Gubernur Jabar KDM Soroti Izin dan AMDAL Pembangunan Pusat Data AI Jatiluhur - Liputan Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWg1U0dyZzdSVTQ0YUgzTnBLREc2SWt6SFRGQVlaQmlmaXNNdVZsMV9BN0FmV0lSSTZpLTVXckxYUXBkQ3VoOUg2cWc2MHljdFRzSXhHU0JVbGVabXJsaFl6ZWlZSUROeG1DUDl5cVFETENkT2YzaENtQXp5RzJ6M2ZZU0QxdVEzSUg4NHB5d1l4Y0pIaEhNeF9EUWtaSzFldXU1ZmdPRE9XSmtUQkJrcmtISjBlMXNTTEJHQXJ3dFFDMm9i?oc=5",
+     "r": "Liputan Bandung"
+    },
+    {
+     "t": "KDM Tegaskan Tak Resmikan Proyek DBx Data Centers, Melainkan Cek Perizinan - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzZUejBSOFNSeWxndjRLeU55MHNYd2tUTllZeEZQYUNtaWVXclNic2lXNDdTWVNSWnYzZWM4ZUZDQ0VOdFhVRVhjeVFQbHc3bmZ3SHpjblhBTGJHYkxFelpxMjM4UDY1aTFLQ1l6TFlSMEVIbnV0eGFCanIteC1WREltamsyelFzenVnZ3lUWUlMSVUxTzdRQ1BTYUszNVFKcERWRUJYX09wbVM3ckg1VU1FWHNrZmPSAbwBQVVfeXFMUERTMk8wa3NpLXlHX3R4bFA5MTBQNnFLbnNRY003UTRtYURpRFVVNldWdzNLRjZkR1RPX2pKdkhiMFhjVjY4TXFYZEVXZlZsVkJ6alphM00tN21HR2ZMS0R0UXBlemJZdkxab0pyY2pUNHFVWmJyNllLX0NtcHNWR2szNWp0X2dRRW0xV2lMQlc3aGVodFNNcm5aUlhvUk1lZnhBVDN6dEdMeXJEbkFZVEllVldVRXVMSXFZSTA?oc=5",
+     "r": "Koran Gala"
+    },
+    {
+     "t": "Curah Hujan Bandung Raya Naik pada September, Kemarau Masih Dominan - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVVlZW5ONWU4aU1KbEVnODhNeU5lYTVmQXZwckNsNC02N3BUaGl5d0FXakJCT3g1UVJCQXd2VXpYUFllOTJzcEY2TTN4eGo4UXc0QWIzcXBGYXpZVDM3ZWRKSk04bXZLYzRRWVRxd2NsbUlSbmJUMmtHUlJWUUpMVmo5VG1IZ3paVFduRmVlWWxSQ18ydTh5NUQ1ME42VndSUDhfN0RvdzZSX3VueWJjbXh1ejI1UEdkS05R?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     0,
+     3,
+     0
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  {
+   "n": "Sosial",
+   "d": "Pendidikan, kesehatan, kebencanaan",
+   "k": [
+    "pendidikan",
+    "stunting",
+    "bansos"
+   ],
+   "h": [
+    {
+     "t": "Peringati Maulid Nabi, Yayasan Darul Falah Assalyan Gandeng DPD PPSI Kab. Bandung Gelar Khitanan Massal - bandungraya.net",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDEwbXI3aVZBSjF6bE40TWlZa2pqOHZjUUhZdjMweklyZFRCeXVfNXR4MkZ4WWFFcGpMMi0wUWVCNkdfY1k5T3U5X0dPNDZzMzhaenVuME91dUs3bGpXUEg5am1oQU5ETmlydkhlNmZvWU1sbEtVQ2JDXzdiVkNtcjVxbzc1UHFob0Nod2paRXVQUFExVzJTc05ZTmtyVnBfbHB4RzluX0lkSVZCLU4xbFJTMEt2alc0eEE0d0RYTDhqTk5GM1FRcmFHOGpBQQ?oc=5",
+     "r": "bandungraya.net"
+    },
+    {
+     "t": "Prestasi Membanggakan SMPN 5 Lembang Bangun Kesadaran Kependudukan - Mudanesia - Mudanesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTHllUDNiTTJrcmJWWS0zdVpvNVRvYjE1dnFrU2pKanY0RHBPWWNQSTEyeXBlMENUSjd0N0tVd0JBUW5OOUMtSjRIS2huUVRzOWFmLXJKOERpZ21GRW5LTngxYVFKZ05ZYW1IQmZCWlU4eFAzMzdBb0F1c3FVb09KcHNDUE9JdTVmNTdycDJRWFBQUkY4V0MwV0VHcDJZeEpJQlVKTUNtTi1fcVRTVzgwaHlkNnFldTVURVRqdHA4anRFYWlucF9rRi1HZWFkRy01TWVHall30gHWAUFVX3lxTE9MeWVQM2JNMmtyYlZZLTN1Wm81VG9iMTV2cWtTakpqdjREcE9ZY1BJMTJ5cGUwQ1RKN3Q3S1V3QkFRbk45Qy1KNEhLaG5RVHM5YWYtcko4RGlnbUZFbktOeDFhUUpnTllhbUhCZkJaVTh4UDMzN0FvQXVzcVVvT0pwc0NQT0l1NWY1N3JwMlFYUFBSRjhXQzBXRUdwMll4SklCVUpNQ21OLV9xVFNXODBoeWQ2cWV1NVRFVGp0cDhqdEVhaW5wX2tGLUdlYWRHLTVNZUdqWXc?oc=5",
+     "r": "Mudanesia"
+    },
+    {
+     "t": "KDS Dorong 5 RSUD BEDAS Mandiri Secara Finansial - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUtkWnU2cFoyWGNBQ3dnQlZOdmdxOXZ1YUc0emFXcXl4RTJQY3ZVTGNSWUZTYlA0QmtKaHdVVnhoWW5pTEdWa2tzT3hwR1JzZEFTLTJ1UXhqdGZtcGpRUWFiSllNZGNiUDdCVlhqdEY5YVRUNmszMnV0dDFUMFVHSnFLQmNNc2NyRk9NRVczNjR4cWlrbmln?oc=5",
+     "r": "RRI.co.id"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     1,
+     3,
+     0
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "g": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  }
+ ]
+}

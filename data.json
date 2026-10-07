@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T02:08:58.704393+07:00",
+ "updated": "2026-10-08T03:06:53.234595+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   25
   ],
   [
    "Ayo Bandung",
@@ -23,15 +23,11 @@
    9
   ],
   [
-   "Galamedia News",
-   7
+   "Koran Gala",
+   8
   ],
   [
    "PPID Kab. Bandung",
-   7
-  ],
-  [
-   "Koran Gala",
    7
   ],
   [
@@ -41,6 +37,10 @@
   [
    "Kompas.com",
    7
+  ],
+  [
+   "Galamedia News",
+   6
   ],
   [
    "jabarekspres.com",
@@ -112,11 +112,11 @@
    "v": {
     "s": [
      1,
-     3,
+     2,
      0
     ],
     "w": [
-     10,
+     9,
      34,
      3
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      4,
-     7,
+     6,
      0
     ],
     "g": [
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "DPRD Bandung Kaitkan Banjir dengan Alih Fungsi Lahan Bandung Utara, Usulkan Kanal Selatan Jadi Pengendali Air - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeXZES2NYLXBYblFFN0kxcGR1aFZLb09Za3huc2NIOVBHWVJoQTd5dU01SXRILXMzdW1qY0x1ZC0zQTljZVFwWk9xc3VwZnlCMm44ektIYmh6bWhyeU9hWXg2STIwRmlIQldRQ2dPWUc5X0RkNGZSZFlJOWdxa041YkIwUlRmTDZtWFo2X0RBcXdmR2RmREZOX09IM05uazFpWlEzY084WmJHTkp4SmpmZ0U4UDcxbkNNbFBoU1VEbk9WZHRqVmo0a1ZVMFZXOVh1ay1SMUtiS0I0eVN2eGxtaDZIVUVWbDNJZnVYYThpNWfSAfYBQVVfeXFMUHRzSlk2cTh5QmwtN3htN21rT0hvaDYtY2lrcHdxdXJ1TDNNeWFVelppQVFPemxYWFJyM3ZHeGpvWDJRQ0FqV0p6WHFWdWU2dGFmak9NUnhLMDJrcjFQNU5mWlZkc1JYSkI1NzRjNVhSMnpnb20zNUlFS3V6LU9LWmtWb0daSmNxdHRLZEZlb2t3SEI5ZDFac2dlczEtNmM3Q19zSVVtRFgxSUFNOG1xWEtaUGE0aWkwNmhBMlJlVVkxN04xc3hsYl9DdTBiNFpBcm1ER2hoQ2tDcXZfbVVWaEYydG5NQU1sRHRzbFN0NmQyaUNJYlNB?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Terjerat Kasus Penganiayaan, Oknum Anggota DPRD Sumbawa Terancam 2 Tahun 6 Bulan Penjara - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0ZwQXJMTWZwa2dlVFprWURYYUd2WHVWZVVQSlpzOGctcmxkQ05oYS00ZnFtUkhlejRtZHZBaWdRNGdnTzlxUWQ0cXFHYzItQ29ZdjBITWpwd2FlYzh5VFNGeWVmR0FSRTlsaGlWM2doemtUcnk1ODVmLUJLR2djOHh1T3VJMW02ZlRNSE1TNlZrMUFLVU5lTXI0bm9PME9ULWE4VVVGUHhwOWZtXzlxNTJJcU12TzhvVDNCUmZBU1dTR3V6akdFM3hPZy1UUFV6MTZidm1lR2JsTXFCYk9aOENiQXo?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Peredaran Narkoba Kian Marak, DPRD Dorong Pembentukan BNN Kabupaten Bandung Direalisasikan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTklnaXYtVzJCZTZJLTJvMXFxUVFmWjBqQ3dteElObExNM3dmNDM4b1hxWl9wMWZVZWd6QWxoX0YtaHBSSFNvVXZFRmtqNm5CZmJUTjIwOWhscVVPUjkxdHpTRUpSX2tqZ0N5YmlEOUo1aGo2OFM1dnVWYW5ZMTl0X1BXbEc4RVlqMjhWTTNnYmlmMUNYZldzQnJfYmJ3eE9NQmJRUDlrTmV5Z05FaGEwSHNpR2JFMGJJMHd0VjdqSENpTzNiWWRkcWVYbFRLVV8tSnA3T0U5dnB0dV9S?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      0,
      10,
-     2
+     3
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      1,
      1,
      0,
-     0,
+     1,
      0
     ]
    }
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     2,
-     29,
-     11
+     1,
+     27,
+     12
     ]
    },
    "trend": {
@@ -364,14 +364,14 @@
      0,
      0,
      0,
-     2,
+     1,
      0,
      0
     ],
     "g": [
      0,
      0,
-     0,
+     1,
      2,
      1,
      8,
@@ -391,7 +391,7 @@
     {
      "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor, Ini Wilayahnya - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGRRZEg5STNpeFA5UjlWYTNZZlBZck41REd4bEdXZ0tlWUlyTVJRRGNreFdHbmNlcFhhSUxSNGtrYzdEaGE1V20tWG8tNU9naFZKV1FMcVRBazJmYnAwaTh4TnVzdDNaVFpQeWE3V3pXZ3Jmb0pfMnRHSjRFRmN2NHBnd3F3TnZMcVg2OUljODdHMmNYY0RLWnhDQUNFeWZneHo1U0JUeWNnaEc4am9QblFDVHh1ZTdsbjFvRFZpTlJSeDJxeHFMUndhdGg0dmZYWU00NnNmbVYxRWZBSXZqdUpraw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVFVUnBEZ1VCOFdhd09FMU5wZU1lZjZGQll5QVFuYXIzdlpWSlpaMDZucWgwcWEzMUIzcGlFakpUUi1HQ2hieWNmWVdBa09VWFlCemJwUmN4QmZaTEVEYUhzejlfY1Fia0E2Sjhwd1dBVEhOektnYndfT1lBZzBOR3E3ak5xc2Vja0d0ZzV2bi1SQnVQbEpsT3cyWmpzNFpTcE9TekFuZzM3N00tU1RZMmFscnA1dmV1Rkt3dTZQaHFsTDBMWFE?oc=5",
      "r": "Kompas.com"
     },
     {

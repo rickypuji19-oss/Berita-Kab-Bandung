@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:08:46.690814+07:00",
+ "updated": "2026-10-07T16:08:18.853459+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
@@ -20,10 +20,6 @@
   ],
   [
    "Jurnal Soreang",
-   8
-  ],
-  [
-   "Koran Gala",
    7
   ],
   [
@@ -31,7 +27,7 @@
    7
   ],
   [
-   "jabarekspres.com",
+   "Koran Gala",
    6
   ],
   [
@@ -43,12 +39,20 @@
    5
   ],
   [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
   [
    "Radar Bandung",
    4
+  ],
+  [
+   "Bedanews",
+   3
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -60,10 +64,6 @@
   ],
   [
    "Disway",
-   2
-  ],
-  [
-   "PPID Kab. Bandung",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      12,
-     29,
+     28,
      3
     ]
    },
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     11,
-     2
+     10,
+     3
     ],
     "g": [
      0,
@@ -319,6 +319,12 @@
    ],
    "h": [
     {
+     "t": "Pastikan Tak Ada Aturan Rancu, Kemenkum Jabar Bedah Tuntas Empat Raperbup KBB via Rapat Harmonisasi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbU0tYkJVQWhzamZVeFBRY2RpTmtYNTBiWVZrZ0NmeUhMcFlnN0tQWlFxUF9ScU4teVktNWw4UDZVeG1DYldmT243M1RQa0E1ZFlqeG9ZU21rUmcyODROZlRpcHpUNmt4NENsb01pUlJNdG9KN3hndGo2S2lORVBTUXljZzljQURQd0ZrSjlsUV82X0sxbkJ4SHpjVEkyNGdzODNRdTFDMDZPWkY2eExzdm5CWFBucFl5YURBTGhMZDZWTktTeUhfT1ZGc2J3dzZzZmtzZ3pvb0tRVkRnR1RNSw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Viral Perusakan Kafe di Katapang Bandung, 3 Pemuda Jadi Tersangka - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU5Kdm5IQnp2YzdqUV9LMlpZRTFTWEhJbVR2S1hUX3BMZWg1S0pMX0d4V0lsTERjNHJNLWhPTENKX3JCQnJudXI2bWJENXZXcHZaSHpLMXNoWmxramtPQThzNE96emJURmo3QUV6bFlRamhUbVNNM2pVRkdxZHkzcGdHOU9TT0pKazE0cWRzQ2pieUQ5aDNMWkFjMzJKSGw4N243ejQxMVBkYzdJN0ZjelBhZzMydHVVUTVoeWtB0gHDAUFVX3lxTFBQTklCaHhIX1lld011VmJMbDc5V2xpNFh1dkdLTWVtSTFVNW9OR3dUdUcxZVRSM2tBXzE5Q2RrN0wyX2tObDFiaWtQQ2NaWFpLbkdrSUJxQ2hDMW5mUmdVVUlQbkc4aWV1bG5rbG5HS29jc3RJb0JTZUhwcXBtdUhuRHRQRXNoekw4TTNINmxMVXNFejV0NWRuZzZqZXh4UW93UXlGOGhJeFlFMl9yajZGdWk1Xzdyc3o5UVZzcTA4Qm1pRQ?oc=5",
@@ -329,12 +335,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEpmcmxEWU81MFBvbDhna2tSMFZnS0dTNFlxREprSDFsUlBUMkROVExpbW85VU1LdXRad1g1dkNrMHNhQUhzYWpYNzQ3VGdWTjNoTUMzV25nZ3hwSFZkQjZkVTFoNEhNOHVOaldURGRNSy13TjlpTXN5blZSelZPb0JhTWlZMXFHbmg3WUFZUkVVV1dlX0xETjFpNzhyalhsYUVMT0JwN0xsYVd2NmptdGNYblFPUDNpOUxDLUJXcTVGMUlKSl9vMXlOYk1FUE90VXlDNnh3?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Tiga Pelaku Penyerangan dan Perusakan Kafe di Katapang Akhirnya Ditangkap Polisi! - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWtBcFRlNl91dF9MQ2ZWTndaRnA2Y01VWjIzMk9mVTg3dnhxZ1E2a1ZybXF3d3FtWXZ3MEZ2QmFEZmVIREhJc3ZlNDFlMW9iSTk0VXA3N2J0RUJJTE10cVBON3plT3N0OHp4YXcwT0t6NW45YkV4ZEYyYVFZVUFXcmdMT3BSOFBRbjhla2ZBUldoY1NUVXhFZ3d6b3NQME5TUVJiaU9HOG9nT3VreUlYWE5nMkc5dEFTNW4yT3ROZEdvdw?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -356,7 +356,7 @@
      1
     ],
     "w": [
-     2,
+     3,
      25,
      9
     ]
@@ -377,7 +377,7 @@
      0,
      0,
      0,
-     2,
+     3,
      0
     ],
     "g": [

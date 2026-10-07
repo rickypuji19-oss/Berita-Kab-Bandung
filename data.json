@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:08:20.182290+07:00",
+ "updated": "2026-10-08T02:08:58.704393+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   14
+   13
   ],
   [
    "RRI.co.id",
@@ -23,15 +23,15 @@
    9
   ],
   [
-   "Koran Gala",
-   8
-  ],
-  [
    "Galamedia News",
    7
   ],
   [
    "PPID Kab. Bandung",
+   7
+  ],
+  [
+   "Koran Gala",
    7
   ],
   [
@@ -243,10 +243,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Menko Muhaimin berpesan Kopi Pesan Trend berpotensi tingkatkan ekonomi warga - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRW5ic0lzbnN4UTVoNGZsUDJ6UlViZ0JtNUxnNVRUMW5yVUYxR2ZmSjdIaG1QRV9MVGlkeUtmbjNWYUFCZnphSWZkNGp0b1V6SmNGRUphYXhqY1dWekQ0dGJkVDQ2Nm40XzdTdm44YlJvNllqc3FrV2VJNm9mUDR6WnUxemNtM1c1VEItS1Z4cGJGRHp5YmVHWUwxcUYxS3JDR2E0RmZQbWxwR3IzMzh5bzd0MHVVZ1NlNzhZ0gHAAUFVX3lxTE5KeEdqZGhhUzk5aGJhNjF2TlphS2FCMG92OHl0QW9ZbDZMaVZFY3UwMGN2LTQ1QTZ6RWwxN0ZiZko3cFhQN0t0NU9FRFQzNFFFSlRXUFVUOUxTQlZEZ2JKZnhnUkRyQ2FQNUZoMUs5cE1qYkd0Z0tYSGZNYTV3WThabGg0WDU3VHFFal80Qzg3X0R1d3pIanU5YXZjd3MtOG4tX3hwNFNMSGtRVDVZdE0ybGdSYTBnT1FPbXk4emI0Ug?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "t": "Tiket Persib vs The Cong Viettel ACL Two 2026/27 Mulai Dijual di PERSIB App, Harga Rp125 Ribu hingga Rp400 Ribu - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZnBUVFF1QkQxem1ySDYzLWpkVjlQMWJ3WmhQaktDai12a25LSjhjNnN0TFpyZnRnQk5aWFFtNy1WeE9Ody1TbGR6RTRRcWpkWU5ya0FjUDZDUXEtNlBwV25aYWFBbXdlZ2o2SEdPSmdxMThRUG44T0lpUHA1ZnFoRTg1RnlON0NxbVdNb192a1RSVnRXbDJJSXBPQXdjUjdKNENkNlZXXzFJYlVkaWVMSkhtdXZEdG9melRRTmM2T3Mzc0IzY0tYWEtyVzZkN2V2dndEekZlT2JxZFRPTXB3U0JqMVNHTmdmOEdPLUJVbDdTd9IB9wFBVV95cUxNaWxvTzBDYVRseExmUE56bDNKanpDYXI4MlJCbTRJUFV3bzJUNkEtM1VYcXFpVjF6STlxeGswUHFFdm1PM3IzcnpvNUc4akNTRlB2VjJ4RWRLUldVTldNLWlKZmNINXpXT1B1UXBzY25ibXlkMlVPVnkzVG5CcUtock80TTIzZjRtSWRYQXNMNlNSOWlVNGVqR2dRTXBMQmprdVhSa3ZpZ2ZPQlV5OEszRFhBUXhlNWI1N0tyeXltalhzbFB3YjlKcDh4d3RLbUhMSkdYUkJ0S2JVSWNLNnZaU21DVkROX0d5LVh6M0dwQWw4bm9qNmpJ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
@@ -263,7 +263,7 @@
     ],
     "w": [
      4,
-     11,
+     12,
      1
     ]
    },
@@ -428,7 +428,7 @@
     "w": [
      2,
      8,
-     11
+     10
     ]
    },
    "trend": {
@@ -453,7 +453,7 @@
     "g": [
      4,
      2,
-     1,
+     0,
      2,
      1,
      3,
@@ -510,7 +510,7 @@
     "w": [
      4,
      11,
-     3
+     2
     ]
    },
    "trend": {
@@ -536,7 +536,7 @@
      0,
      1,
      0,
-     1,
+     0,
      1,
      1,
      0

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tata Surya Berita Kabupaten Bandung</title>
+<style>
+:root{box-sizing:border-box;color-scheme:dark;--bg:#070b1a;--ink:#e8ecf8;--mute:#8d97b8;--pos:#4fd1a5;--neg:#ff6b6b;--neu:#f5c451;--line:#24305a;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:radial-gradient(ellipse at 50% 30%,#121a40 0,var(--bg) 65%);color:var(--ink);font-family:"Space Grotesk","Segoe UI",system-ui,sans-serif;min-height:100vh}
+body:before{content:"";position:fixed;inset:0;background-image:radial-gradient(1px 1px at 20px 30px,#fff8,transparent),radial-gradient(1px 1px at 120px 90px,#fff6,transparent),radial-gradient(1.5px 1.5px at 200px 160px,#fff9,transparent);background-size:240px 200px;opacity:.5;pointer-events:none}
+header{padding:20px 20px 0;max-width:1100px;margin:auto;position:relative}
+h1{margin:0;font-size:clamp(1.4rem,4vw,2.2rem);font-weight:600;letter-spacing:-.01em}
+header p{margin:6px 0 0;color:var(--mute);max-width:60ch;font-size:.95rem;line-height:1.5}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.bar button{background:#10173a;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:7px 14px;font:inherit;font-size:.85rem;cursor:pointer}
+.bar button[aria-pressed=true]{background:#2b3a8c;border-color:#5b6cff}
+.bar button:focus-visible,.planet:focus-visible{outline:2px solid #fff;outline-offset:2px}
+main{max-width:1100px;margin:auto;display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:16px;padding:10px 20px 30px;position:relative}
+@media(max-width:860px){main{grid-template-columns:1fr}}
+#sys{position:relative;width:100%;aspect-ratio:1;max-width:640px;margin:auto}
+.orbit{position:absolute;top:50%;left:50%;border:1px dashed #2a3770;border-radius:50%;animation:spin linear infinite}
+.orbit:hover{animation-play-state:paused}
+@keyframes spin{to{transform:translate(-50%,-50%) rotate(360deg)}}
+.orbit{transform:translate(-50%,-50%)}
+.planet{position:absolute;top:0;left:50%;border-radius:50%;border:0;cursor:pointer;transform:translate(-50%,-50%);display:grid;place-items:center;color:#06101a;font:600 11px/1 inherit;box-shadow:0 0 18px var(--c),inset -6px -6px 12px #0005;background:radial-gradient(circle at 30% 30%,#fff9,var(--c) 55%)}
+.planet span{animation:unspin linear infinite;animation-duration:inherit;pointer-events:none;text-align:center}
+.planet[aria-pressed=true]{outline:2px solid #fff}
+@keyframes unspin{to{transform:rotate(-360deg)}}
+#sun{position:absolute;top:50%;left:50%;width:19%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;display:grid;place-items:center;text-align:center;color:#2a1600;background:radial-gradient(circle,#fff3b0,#ffb938 60%,#ff7a18);box-shadow:0 0 60px 10px #ff9d2e66;font-weight:600;line-height:1.1}
+#sun small{display:block;font-weight:500;font-size:.62rem;margin-top:3px}
+#sun b{font-size:1.25rem}
+aside{background:#0d1431cc;border:1px solid var(--line);border-radius:14px;padding:18px;align-self:start}
+aside h2{margin:0 0 4px;font-size:1.25rem}
+.meta{color:var(--mute);font-size:.85rem}
+.sent{display:flex;height:12px;border-radius:6px;overflow:hidden;margin:14px 0 6px}
+.sent i{display:block}
+.leg{display:flex;gap:14px;font-size:.8rem;color:var(--mute)}
+.leg em{font-style:normal;color:var(--ink)}
+ul{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:8px}
+li{border-left:3px solid var(--c);padding:6px 10px;background:#ffffff08;border-radius:0 8px 8px 0;font-size:.9rem;line-height:1.35}
+li small{display:block;color:var(--mute);margin-top:2px}
+.kw{margin-top:14px;display:flex;gap:6px;flex-wrap:wrap}
+.kw span{font-size:.78rem;border:1px solid var(--line);border-radius:999px;padding:3px 10px;color:var(--mute)}
+.note{max-width:1100px;margin:0 auto;padding:0 20px 28px;color:var(--mute);font-size:.8rem;line-height:1.5;position:relative}
+section{max-width:1100px;margin:0 auto;padding:6px 20px 24px;position:relative}
+section h2{font-size:1.15rem;margin:0 0 10px}
+.card{background:#0d1431cc;border:1px solid var(--line);border-radius:14px;padding:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.card h3{margin:0 0 6px;font-size:.95rem}
+.card p,.card li{font-size:.85rem;color:var(--mute);line-height:1.45;margin:0}
+.card ul{margin:6px 0 0;gap:4px}
+.card li{border:0;background:none;padding:0}
+.card li:before{content:"• "}
+.chart{width:100%;height:auto;display:block}
+.chart text{fill:var(--mute);font-size:11px}
+.lg{display:flex;gap:16px;font-size:.8rem;color:var(--mute);margin-top:6px}
+.lg b{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px}
+@media(prefers-reduced-motion:reduce){.orbit,.planet span{animation:none}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Tata Surya Berita Kabupaten Bandung</h1>
+  <p>Setiap planet adalah satu topik. Ukuran planet menunjukkan jumlah pemberitaan, warnanya menunjukkan sentimen dominan. Klik planet untuk melihat rinciannya.</p>
+  <div class="bar" id="bar" role="group" aria-label="Filter sumber"></div>
+</header>
+<main>
+  <div id="sys" aria-label="Peta topik berita"></div>
+  <aside id="det" aria-live="polite"></aside>
+</main>
+<section><h2 id="trT">Tren 7 hari</h2><div class="card"><div id="tr"></div><div class="lg"><span><b style="background:var(--pos)"></b>Positif</span><span><b style="background:var(--neg)"></b>Negatif</span></div></div></section>
+<section><h2>Sumber yang dipantau</h2><div class="grid">
+<div class="card"><h3>Berita online</h3><ul><li>Antara Jabar</li><li>Detik Jabar</li><li>Kompas Regional</li><li>Pikiran Rakyat</li><li>Tribun Jabar</li></ul></div>
+<div class="card"><h3>Media sosial</h3><ul><li>X</li><li>Instagram</li><li>TikTok</li><li>YouTube</li><li>Facebook</li></ul></div>
+<div class="card"><h3>Sumber resmi</h3><ul><li>Situs Pemkab Bandung</li><li>Kanal Kejaksaan dan pengadilan</li><li>Rilis BPS</li><li>Risalah DPRD</li></ul></div>
+</div></section>
+<section><h2>Cara sistem bekerja</h2><div class="grid">
+<div class="card"><h3>1. Kumpulkan</h3><p>RSS, API resmi, dan crawler yang memburu kata kunci seperti "Kabupaten Bandung", "Pemkab Bandung", dan nama pejabat.</p></div>
+<div class="card"><h3>2. Bersihkan</h3><p>Hapus duplikat, saring berita di luar wilayah, dan beri bobot lebih pada media terverifikasi.</p></div>
+<div class="card"><h3>3. Nilai sentimen</h3><p>Model bahasa Indonesia (IndoBERT) atau Claude API memberi label positif, netral, atau negatif dan menentukan topik.</p></div>
+<div class="card"><h3>4. Tampilkan</h3><p>Hasil disimpan di database, dikirim lewat API, lalu digambar ulang di tata surya ini secara berkala.</p></div>
+</div></section>
+<p class="note" id="nt">Data di halaman ini adalah contoh ilustrasi, bukan hasil pengambilan berita sebenarnya. Untuk data nyata, tampilan ini perlu dihubungkan ke layanan yang mengumpulkan berita dan media sosial lalu menghitung sentimennya.</p>
+<script>
+// pos, neu, neg: [media sosial, berita online]
+let LIVE=false;
+let T=[
+{n:"Pemkab",d:"Pemerintah Kabupaten Bandung",v:{s:[220,140,90],w:[180,160,60]},k:["pelayanan publik","APBD","bupati","ASN"],h:["Contoh: Layanan perizinan daring dinilai makin cepat","Contoh: Warga keluhkan lambatnya respons aduan"]},
+{n:"Politik",d:"Situasi politik",v:{s:[160,210,130],w:[110,190,80]},k:["DPRD","partai","pilkada","koalisi"],h:["Contoh: DPRD bahas rancangan perda prioritas","Contoh: Dinamika partai jelang kontestasi daerah"]},
+{n:"Ekonomi",d:"Situasi ekonomi",v:{s:[190,120,70],w:[200,150,50]},k:["UMKM","inflasi","industri tekstil","investasi"],h:["Contoh: Sentra UMKM catat kenaikan penjualan","Contoh: Pelaku industri soroti biaya produksi"]},
+{n:"Hukum",d:"Situasi hukum",v:{s:[60,110,230],w:[50,120,170]},k:["korupsi","kejaksaan","pungli","penegakan perda"],h:["Contoh: Kasus dugaan penyimpangan anggaran diusut","Contoh: Operasi penertiban pungli diapresiasi warga"]},
+{n:"Infrastruktur",d:"Jalan, banjir, transportasi",v:{s:[130,100,260],w:[90,110,190]},k:["banjir","jalan rusak","Baleendah","Dayeuhkolot"],h:["Contoh: Perbaikan jalan kabupaten dikebut","Contoh: Banjir langganan kembali rendam permukiman"]},
+{n:"Sosial",d:"Pendidikan, kesehatan, kebencanaan",v:{s:[240,130,80],w:[170,140,70]},k:["pendidikan","stunting","bansos","kesehatan"],h:["Contoh: Program pencegahan stunting diperluas","Contoh: Warga keluhkan penyaluran bantuan"]}
+];
+const SRC={all:"Semua sumber",s:"Media sosial",w:"Berita online"};
+let src="all",sel=0;
+const C={pos:"#4fd1a5",neu:"#f5c451",neg:"#ff6b6b"};
+function get(t){const a=src==="all"?[0,1,2].map(i=>t.v.s[i]+t.v.w[i]):t.v[src];return{p:a[0],u:a[1],g:a[2],tot:a[0]+a[1]+a[2]}}
+function color(x){const m=Math.max(x.p,x.u,x.g);return m===x.p?C.pos:m===x.g?C.neg:C.neu}
+function draw(){
+ const sys=document.getElementById("sys");const W=sys.clientWidth;
+ const all=T.map(get),mx=Math.max(1,...all.map(a=>a.tot));
+ let sp=0,sn=0,st=0;all.forEach(a=>{sp+=a.p;sn+=a.g;st+=a.tot});
+ const idx=st?Math.round((sp-sn)/st*100):0;
+ let h=`<div id="sun"><div><small>Skor sentimen</small><b>${idx>0?"+":""}${idx}</b><small>Kab. Bandung</small></div></div>`;
+ T.forEach((t,i)=>{
+  const r=W*(0.2+i*0.075)*2/1, size=W*(0.055+0.05*all[i].tot/mx), dur=40+i*18;
+  h+=`<div class="orbit" style="width:${r}px;height:${r}px;animation-duration:${dur}s;animation-delay:-${i*7}s"><button class="planet" aria-pressed="${i===sel}" aria-label="${t.d}" data-i="${i}" style="--c:${color(all[i])};width:${size}px;height:${size}px;animation-duration:${dur}s"><span>${t.n}</span></button></div>`;
+ });
+ sys.innerHTML=h;
+ sys.querySelectorAll(".planet").forEach(b=>b.onclick=()=>{sel=+b.dataset.i;draw()});
+ const t=T[sel],x=all[sel],pc=v=>x.tot?Math.round(v/x.tot*100):0;
+ document.getElementById("det").innerHTML=`<h2>${t.d}</h2><div class="meta">${x.tot} pemberitaan · ${SRC[src]}</div>
+ <div class="sent"><i style="width:${pc(x.p)}%;background:${C.pos}"></i><i style="width:${pc(x.u)}%;background:${C.neu}"></i><i style="width:${pc(x.g)}%;background:${C.neg}"></i></div>
+ <div class="leg"><span>Positif <em>${pc(x.p)}%</em></span><span>Netral <em>${pc(x.u)}%</em></span><span>Negatif <em>${pc(x.g)}%</em></span></div>
+ <ul>${t.h.length?t.h.map((s,j)=>{const o=typeof s==="string"?{t:s,s:j?"neg":"pos"}:s;const L={pos:"positif",neg:"negatif",neu:"netral"}[o.s];return `<li style="--c:${C[o.s]}">${o.u?`<a href="${o.u}" target="_blank" rel="noopener" style="color:inherit">${o.t}</a>`:o.t}<small>Sentimen ${L}${o.r?" · "+o.r:""}</small></li>`}).join(""):"<li style='--c:#555'>Belum ada berita untuk topik ini.</li>"}</ul>
+ <div class="kw">${t.k.map(k=>`<span>${k}</span>`).join("")}</div>`;
+ trend();
+}
+function trend(){
+ const t=T[sel],x=get(t),D=(t.trend&&t.trend.d)||["Sen","Sel","Rab","Kam","Jum","Sab","Min"],w=640,h=190,p=28;
+ const ser=k=>D.map((_,d)=>Math.round(x[k]/7*(1+.35*Math.sin(d*1.3+sel*2+(k==="g"?2:0)))));
+ const P=t.trend?t.trend.p:ser("p"),G=t.trend?t.trend.g:ser("g"),m=Math.max(1,...P,...G)*1.15;
+ const X=i=>p+i*(w-2*p)/6,Y=v=>h-p-v/m*(h-2*p);
+ const L=(a,c)=>`<polyline fill="none" stroke="${c}" stroke-width="2.5" points="${a.map((v,i)=>X(i)+","+Y(v)).join(" ")}"/>`+a.map((v,i)=>`<circle cx="${X(i)}" cy="${Y(v)}" r="3.5" fill="${c}"><title>${D[i]}: ${v}</title></circle>`).join("");
+ document.getElementById("trT").textContent="Tren 7 hari: "+t.d+(LIVE?"":" (contoh)");
+ document.getElementById("tr").innerHTML=`<svg class="chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Tren sentimen positif dan negatif">`+[0,.5,1].map(f=>`<line x1="${p}" x2="${w-p}" y1="${Y(m*f/1.15)}" y2="${Y(m*f/1.15)}" stroke="#24305a"/>`).join("")+L(P,C.pos)+L(G,C.neg)+D.map((d,i)=>`<text x="${X(i)}" y="${h-8}" text-anchor="middle">${d}</text>`).join("")+`</svg>`;
+}
+const bar=document.getElementById("bar");
+function bars(){bar.innerHTML=Object.keys(SRC).map(k=>`<button aria-pressed="${k===src}" data-k="${k}">${SRC[k]}</button>`).join("");bar.querySelectorAll("button").forEach(b=>b.onclick=()=>{src=b.dataset.k;bars();draw()})}
+async function load(){try{const r=await fetch("data.json?"+Date.now());if(!r.ok)throw 0;const d=await r.json();T=d.topics;LIVE=true;if(T.every(t=>t.v.s.every(n=>!n)))delete SRC.s;if(src==="s")src="all";document.getElementById("nt").textContent="Data nyata, diperbarui "+new Date(d.updated).toLocaleString("id-ID")+". Sumber: "+(d.sources||[]).join(", ")+". Sentimen dinilai otomatis ("+(d.method||"model AI")+") dari judul dan isi artikel.";}catch(e){}bars();draw()}
+load();setInterval(load,600000);
+let rt;addEventListener("resize",()=>{clearTimeout(rt);rt=setTimeout(draw,150)});
+</script>
+</body>
+</html>

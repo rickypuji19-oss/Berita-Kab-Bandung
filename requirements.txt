@@ -1,0 +1,6 @@
+feedparser
+requests
+trafilatura
+googlenewsdecoder
+transformers
+anthropic

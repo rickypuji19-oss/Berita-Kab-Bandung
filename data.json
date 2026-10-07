@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:20:01.689243+07:00",
+ "updated": "2026-10-07T11:07:15.376843+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,26 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
-   10
+   11
   ],
   [
    "Ayo Bandung",
-   10
+   11
   ],
   [
    "Jurnal Soreang",
+   7
+  ],
+  [
+   "Galamedia News",
+   6
+  ],
+  [
+   "Radio PRFM",
    6
   ],
   [
@@ -27,11 +35,11 @@
    6
   ],
   [
-   "Galamedia News",
+   "Koran Gala",
    5
   ],
   [
-   "Koran Gala",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -43,27 +51,19 @@
    4
   ],
   [
-   "Radio PRFM",
-   4
+   "bandungraya.net",
+   3
   ],
   [
    "jabarekspres.com",
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   2
+   "Kompas.com",
+   3
   ],
   [
    "opininews.com",
-   2
-  ],
-  [
-   "bandungraya.net",
-   2
-  ],
-  [
-   "Bedanews",
    2
   ]
  ],
@@ -81,7 +81,7 @@
     {
      "t": "Korban PT BDS, Saklahsahiji Perumda Milik Pemkab Bandung, Ngontrog Bupati, Pemkab Nolak Tanggung Jawab - Galura - Galura",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMVRlTkJfTUR4cEhPUkdRenBpZUM0R2JDZ0hJSHE0aC00SDBvNm8zZWNxTzRrNHMzYzhHbXVpUnB5UW05SkJQTk1xaVE3aG5qZEtLOU5QQW5EM2tHbkVHNm1ZQWNROWR5VVNYcVR0ekljcEZaR05TQWk1OHNrZVNiVUVZd0NTbDVBOE9QZnJQU0oxTnVlU3BCNFhSYk9VVDB5dHdXOHhwd2VXZ2tMUEJ5OWp1R1lZeDlNbWpOeTBLOHE2WFk5Ylc4czRqRWZjQ1djOVhtSGw3RjNQMVJvZGNhRE41dzlPZ0dX0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMnVodWZsYnZPLUlfbUVMWWl0REIwbmYwY0dsRFk4NlFYdEFVV3Nrbi1WNy1DblRDZHR3UWc3ZWZSdkxiQzBBclVqRjFPVndxcFBNalNTczJTRzFRVXlMaHBHRVYxTEZRb1d5elM4clFXSkw3NGRuWjVkVHpILUh5V2M0VmRFN2JpY2V0LU9aTzloN29sYk5LYll1MGpQUGJidkhRSEU2Z1UyOXV4bTBQb0VramVFYlNES0RJdF9yN2RWWmJMb3JLNm1LSmpETjN4RzhIcnNwUEltSXZwUkNRMjIxQzNyd0xhVEkzU0FB0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
      "r": "Galura"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     10,
-     19,
-     2
+     13,
+     23,
+     4
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      0,
      0,
-     0,
-     10,
+     1,
+     12,
      1
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     1,
+     3,
      1
     ]
    }
@@ -226,8 +226,8 @@
      0,
      0,
      0,
-     0,
-     2,
+     1,
+     1,
      0,
      0
     ]
@@ -357,8 +357,8 @@
     ],
     "w": [
      2,
-     23,
-     4
+     25,
+     5
     ]
    },
    "trend": {
@@ -384,7 +384,7 @@
      1,
      0,
      0,
-     0,
+     1,
      2,
      1,
      1
@@ -439,7 +439,7 @@
     ],
     "w": [
      2,
-     6,
+     8,
      8
     ]
    },

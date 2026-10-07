@@ -1,5 +1,6 @@
 """Kumpulkan berita + media sosial tentang Kabupaten Bandung, nilai sentimen dengan Claude, tulis data.json."""
-import os, re, json, html, datetime as dt, urllib.parse
+import os, re, json, html, time, datetime as dt, urllib.parse
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 import feedparser, requests
 
@@ -11,6 +12,27 @@ TOPICS = {
  "Infrastruktur": ("Jalan, banjir, transportasi", ["banjir Kabupaten Bandung", "jalan rusak Kabupaten Bandung"], ["banjir", "jalan rusak", "Baleendah"]),
  "Sosial": ("Pendidikan, kesehatan, kebencanaan", ["pendidikan Kabupaten Bandung", "stunting Kabupaten Bandung", "kesehatan Kabupaten Bandung"], ["pendidikan", "stunting", "bansos"]),
 }
+# Portal berita lokal/regional; dicari lewat Google News dengan operator site:
+PORTALS = ["jabar.antaranews.com", "detik.com/jabar", "kompas.com", "pikiran-rakyat.com", "jabar.tribunnews.com",
+           "prfmnews.id", "ayobandung.com", "radarbandung.id", "galamedianews.com", "jabarekspres.com",
+           "bandungbergerak.id", "rri.co.id", "bandungkab.go.id"]
+# Penentu topik untuk berita dari portal (berdasarkan kata di judul)
+TOPIC_KW = {
+ "Politik": r"dprd|politik|partai|pilkada|pemilu|pilbup|koalisi|legislatif|fraksi",
+ "Ekonomi": r"ekonomi|umkm|inflasi|industri|investasi|pajak|harga|pabrik|ekspor|petani|pertanian|upah|umk|pengangguran|pariwisata",
+ "Hukum": r"hukum|korupsi|kejari|kejaksaan|pengadilan|tersangka|polisi|polresta|pungli|penipuan|sidang|vonis|ditangkap",
+ "Infrastruktur": r"banjir|jalan|jembatan|macet|longsor|infrastruktur|drainase|irigasi|angkutan|perbaikan",
+ "Sosial": r"pendidikan|sekolah|siswa|guru|kesehatan|stunting|bansos|rumah sakit|puskesmas|kemiskinan|bencana|posyandu|ppdb",
+ "Pemkab": r"bupati|pemkab|pemerintah kabupaten|asn|pelayanan publik|apbd|sekda|perda|dinas",
+}
+
+
+def topic_of(title):
+    hits = {k: len(re.findall(v, title, re.I)) for k, v in TOPIC_KW.items()}
+    best = max(hits.values())
+    return next(k for k, v in hits.items() if v == best) if best else None
+
+
 HARI = ["Sen", "Sel", "Rab", "Kam", "Jum", "Sab", "Min"]
 WIB = dt.timezone(dt.timedelta(hours=7))
 MODEL = "claude-haiku-4-5-20251001"  # hanya dipakai bila USE_CLAUDE=1
@@ -29,8 +51,9 @@ def claude():
 
 
 def fetch_rss(q):
+    time.sleep(0.5)  # sopan terhadap Google News
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-        {"q": f'"{q}" when:7d', "hl": "id", "gl": "ID", "ceid": "ID:id"})
+        {"q": (q if "site:" in q else f'"{q}"') + " when:7d", "hl": "id", "gl": "ID", "ceid": "ID:id"})
     out = []
     for e in feedparser.parse(url).entries:
         if getattr(e, "published_parsed", None):
@@ -43,9 +66,12 @@ def fetch_rss(q):
 def excerpt(url):
     """Ambil isi artikel asli (tautan Google News dibuka dulu). Gagal -> kosong, sentimen pakai judul."""
     try:
-        from googlenewsdecoder import gnewsdecoder
         import trafilatura
-        real = gnewsdecoder(url, interval=1).get("decoded_url")
+        if "news.google.com" in url:
+            from googlenewsdecoder import gnewsdecoder
+            real = gnewsdecoder(url, interval=1).get("decoded_url")
+        else:
+            real = url
         return (trafilatura.extract(trafilatura.fetch_url(real)) or "")[:1200]
     except Exception as ex:
         global _warned
@@ -169,14 +195,22 @@ def main():
     yt, xt = os.getenv("YOUTUBE_API_KEY"), os.getenv("X_BEARER_TOKEN")
     last = cache.get("social_at")
     do_social = bool(yt or xt) and (not last or (now - dt.datetime.fromisoformat(last)).total_seconds() >= SOCIAL_EVERY_HOURS * 3600 - 300)
-    topics = []
+    topics, portals, counted = [], Counter(), set()
+    ds = [str(d) for d in days]
+    portal_items = {}
+    for dom in PORTALS:
+        for it in safe(fetch_rss, f'"Kabupaten Bandung" site:{dom}'):
+            portal_items.setdefault(it["u"], it)
     for name, (desc, qs, kw) in TOPICS.items():
         seen = {}
         for q in qs:
             for it in safe(fetch_rss, q):
                 seen.setdefault(it["u"], it)
+        for it in portal_items.values():
+            if topic_of(it["t"]) == name:
+                seen.setdefault(it["u"], it)
         web = sorted(seen.values(), key=lambda i: i["ts"], reverse=True)[:60]
-        new = [i for i in web if i["u"] not in labels][:20]  # hanya yang baru, agar hemat biaya
+        new = [i for i in web if i["u"] not in labels][:40]  # hanya yang baru, agar hemat biaya
         with ThreadPoolExecutor(4) as ex:
             for it, x in zip(new, ex.map(lambda i: excerpt(i["u"]), new)):
                 it["x"] = x
@@ -186,6 +220,9 @@ def main():
                 labels[it["u"]] = {"s": it["s"], "rel": it["rel"]}
         for it in web:
             it.update(labels.get(it["u"], {}))
+            if it.get("rel") and it["date"] in ds and it["r"] and it["u"] not in counted:
+                counted.add(it["u"])
+                portals[it["r"]] += 1
         if do_social:
             posts = (safe(youtube, qs[0], yt) if yt else []) + (safe(x_posts, qs[0], xt) if xt else [])
             label(posts)
@@ -205,7 +242,7 @@ def main():
             del labels[k]
     sources = ["Google News RSS"] + sorted({p["r"].split()[0] for ps in social.values() for p in ps})
     json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False)
-    json.dump({"updated": now.isoformat(), "sources": sources, "method": "Claude" if use_claude() else "model IndoRoBERTa, gratis", "topics": topics},
+    json.dump({"updated": now.isoformat(), "sources": sources, "method": "Claude" if use_claude() else "model IndoRoBERTa, gratis", "portals": portals.most_common(15), "topics": topics},
               open("data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 

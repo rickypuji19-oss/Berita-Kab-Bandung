@@ -20,14 +20,12 @@ header p{margin:6px 0 0;color:var(--mute);max-width:60ch;font-size:.95rem;line-h
 main{max-width:1100px;margin:auto;display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:16px;padding:10px 20px 30px;position:relative}
 @media(max-width:860px){main{grid-template-columns:1fr}}
 #sys{position:relative;width:100%;aspect-ratio:1;max-width:640px;margin:auto}
-.orbit{position:absolute;top:50%;left:50%;border:1px dashed #2a3770;border-radius:50%;animation:spin linear infinite}
-.orbit:hover{animation-play-state:paused}
-@keyframes spin{to{transform:translate(-50%,-50%) rotate(360deg)}}
-.orbit{transform:translate(-50%,-50%)}
-.planet{position:absolute;top:0;left:50%;border-radius:50%;border:0;cursor:pointer;transform:translate(-50%,-50%);display:grid;place-items:center;color:#06101a;font:600 11px/1 inherit;box-shadow:0 0 18px var(--c),inset -6px -6px 12px #0005;background:radial-gradient(circle at 30% 30%,#fff9,var(--c) 55%)}
-.planet span{animation:unspin linear infinite;animation-duration:inherit;pointer-events:none;text-align:center}
+.orbit{position:absolute;top:50%;left:50%;border:1px dashed #2a3770;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none}
+.planet{position:absolute;top:50%;left:50%;border-radius:50%;border:0;cursor:pointer;transform:translate(-50%,-50%);display:grid;place-items:center;color:#06101a;font:600 11px/1 inherit;box-shadow:0 0 18px var(--c),inset -6px -6px 12px #0005;background:radial-gradient(circle at 30% 30%,#fff9,var(--c) 55%)}
+.planet span{position:absolute;top:100%;margin-top:5px;color:var(--ink);white-space:nowrap;font-size:11px;font-weight:500;text-shadow:0 0 4px #000,0 0 8px #000;pointer-events:none}
+.planet:hover{z-index:2}
 .planet[aria-pressed=true]{outline:2px solid #fff}
-@keyframes unspin{to{transform:rotate(-360deg)}}
+li a{text-decoration:none}li a:hover{text-decoration:underline}
 #sun{position:absolute;top:50%;left:50%;width:19%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;display:grid;place-items:center;text-align:center;color:#2a1600;background:radial-gradient(circle,#fff3b0,#ffb938 60%,#ff7a18);box-shadow:0 0 60px 10px #ff9d2e66;font-weight:600;line-height:1.1}
 #sun small{display:block;font-weight:500;font-size:.62rem;margin-top:3px}
 #sun b{font-size:1.25rem}
@@ -85,7 +83,10 @@ section h2{font-size:1.15rem;margin:0 0 10px}
 <p class="note" id="nt">Data di halaman ini adalah contoh ilustrasi, bukan hasil pengambilan berita sebenarnya. Untuk data nyata, tampilan ini perlu dihubungkan ke layanan yang mengumpulkan berita dan media sosial lalu menghitung sentimennya.</p>
 <script>
 // pos, neu, neg: [media sosial, berita online]
-let LIVE=false;
+let LIVE=false,paused=false,last=0;
+const ang=[0.4,1.45,2.5,3.55,4.6,5.65],RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
+function place(){document.querySelectorAll('.planet').forEach(b=>{const i=+b.dataset.i,r=+b.dataset.r;b.style.transform=`translate(-50%,-50%) translate(${Math.cos(ang[i])*r}px,${Math.sin(ang[i])*r}px)`})}
+function tick(ts){const d=Math.min(.05,(ts-last)/1000||0);last=ts;if(!paused&&!RM)ang.forEach((_,i)=>ang[i]+=d*.5/(1+i*.55));place();requestAnimationFrame(tick)}
 let T=[
 {n:"Pemkab",d:"Pemerintah Kabupaten Bandung",v:{s:[220,140,90],w:[180,160,60]},k:["pelayanan publik","APBD","bupati","ASN"],h:["Contoh: Layanan perizinan daring dinilai makin cepat","Contoh: Warga keluhkan lambatnya respons aduan"]},
 {n:"Politik",d:"Situasi politik",v:{s:[160,210,130],w:[110,190,80]},k:["DPRD","partai","pilkada","koalisi"],h:["Contoh: DPRD bahas rancangan perda prioritas","Contoh: Dinamika partai jelang kontestasi daerah"]},
@@ -106,16 +107,18 @@ function draw(){
  const idx=st?Math.round((sp-sn)/st*100):0;
  let h=`<div id="sun"><div><small>Skor sentimen</small><b>${idx>0?"+":""}${idx}</b><small>Kab. Bandung</small></div></div>`;
  T.forEach((t,i)=>{
-  const r=W*(0.2+i*0.075)*2/1, size=W*(0.055+0.05*all[i].tot/mx), dur=40+i*18;
-  h+=`<div class="orbit" style="width:${r}px;height:${r}px;animation-duration:${dur}s;animation-delay:-${i*7}s"><button class="planet" aria-pressed="${i===sel}" aria-label="${t.d}" data-i="${i}" style="--c:${color(all[i])};width:${size}px;height:${size}px;animation-duration:${dur}s"><span>${t.n}</span></button></div>`;
+  const r=W*(0.2+i*0.075)*2, size=W*(0.06+0.05*all[i].tot/mx);
+  h+=`<div class="orbit" style="width:${r}px;height:${r}px"></div><button class="planet" aria-pressed="${i===sel}" aria-label="${t.d}" data-i="${i}" data-r="${r/2}" style="--c:${color(all[i])};width:${size}px;height:${size}px"><span>${t.n}</span></button>`;
  });
  sys.innerHTML=h;
- sys.querySelectorAll(".planet").forEach(b=>b.onclick=()=>{sel=+b.dataset.i;draw()});
+ paused=false;
+ sys.querySelectorAll(".planet").forEach(b=>{b.onclick=()=>{sel=+b.dataset.i;draw()};b.onmouseenter=()=>paused=true;b.onmouseleave=()=>paused=false});
+ place();
  const t=T[sel],x=all[sel],pc=v=>x.tot?Math.round(v/x.tot*100):0;
  document.getElementById("det").innerHTML=`<h2>${t.d}</h2><div class="meta">${x.tot} pemberitaan · ${SRC[src]}</div>
  <div class="sent"><i style="width:${pc(x.p)}%;background:${C.pos}"></i><i style="width:${pc(x.u)}%;background:${C.neu}"></i><i style="width:${pc(x.g)}%;background:${C.neg}"></i></div>
  <div class="leg"><span>Positif <em>${pc(x.p)}%</em></span><span>Netral <em>${pc(x.u)}%</em></span><span>Negatif <em>${pc(x.g)}%</em></span></div>
- <ul>${t.h.length?t.h.map((s,j)=>{const o=typeof s==="string"?{t:s,s:j?"neg":"pos"}:s;const L={pos:"positif",neg:"negatif",neu:"netral"}[o.s];return `<li style="--c:${C[o.s]}">${o.u?`<a href="${o.u}" target="_blank" rel="noopener" style="color:inherit">${o.t}</a>`:o.t}<small>Sentimen ${L}${o.r?" · "+o.r:""}</small></li>`}).join(""):"<li style='--c:#555'>Belum ada berita untuk topik ini.</li>"}</ul>
+ <ul>${t.h.length?t.h.map((s,j)=>{const o=typeof s==="string"?{t:s,s:j?"neg":"pos"}:s;const L={pos:"positif",neg:"negatif",neu:"netral"}[o.s];return `<li style="--c:${C[o.s]}">${o.u?`<a href="${o.u}" target="_blank" rel="noopener" style="color:inherit">${o.t}</a>`:o.t}<small>Sentimen ${L}${o.r?" · "+o.r:""}</small></li>`}).join(""):"<li style='--c:#555'>Belum ada berita untuk topik ini.</li>"}</ul>${LIVE?"":'<p class="meta" style="margin:10px 0 0">Ini data contoh, jadi judulnya belum bisa dibuka. Setelah data nyata termuat, judul menjadi tautan ke berita asli.</p>'}
  <div class="kw">${t.k.map(k=>`<span>${k}</span>`).join("")}</div>`;
  trend();
 }
@@ -131,7 +134,7 @@ function trend(){
 const bar=document.getElementById("bar");
 function bars(){bar.innerHTML=Object.keys(SRC).map(k=>`<button aria-pressed="${k===src}" data-k="${k}">${SRC[k]}</button>`).join("");bar.querySelectorAll("button").forEach(b=>b.onclick=()=>{src=b.dataset.k;bars();draw()})}
 async function load(){try{const r=await fetch("data.json?"+Date.now());if(!r.ok)throw 0;const d=await r.json();T=d.topics;LIVE=true;if(T.every(t=>t.v.s.every(n=>!n)))delete SRC.s;if(src==="s")src="all";document.getElementById("nt").textContent="Data nyata, diperbarui "+new Date(d.updated).toLocaleString("id-ID")+". Sumber: "+(d.sources||[]).join(", ")+". Sentimen dinilai otomatis ("+(d.method||"model AI")+") dari judul dan isi artikel.";}catch(e){}bars();draw()}
-load();setInterval(load,600000);
+load();setInterval(load,600000);requestAnimationFrame(tick);
 let rt;addEventListener("resize",()=>{clearTimeout(rt);rt=setTimeout(draw,150)});
 </script>
 </body>

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:07:59.996414+07:00",
+ "updated": "2026-10-07T19:10:13.968496+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -337,22 +337,22 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=HAx6SCO7VZw",
+     "r": "YouTube UTV Televisi Indonesia"
+    },
+    {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
      "r": "YouTube RUANG JEJAK KASUS "
-    },
-    {
-     "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=V8c_64mnipc",
-     "r": "YouTube UTV Televisi Indonesia"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      1
     ],
     "w": [
@@ -419,21 +419,21 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=sHodnMadkm8",
+     "r": "YouTube AZZAHRA VLOG"
+    },
+    {
      "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=bTJJjKMHLwU",
      "r": "YouTube AZZAHRA VLOG"
-    },
-    {
-     "t": "Jalur Alternatif Banjir Cipicung via Jalan Situ Sipatahunan Baleendah Bandung #shorts #banjirbandung",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=AOT4Jrdyp8s",
-     "r": "YouTube Nesia Evergreen "
     }
    ],
    "v": {
     "s": [
-     3,
+     4,
      0,
      2
     ],
@@ -460,7 +460,7 @@
      0,
      1,
      1,
-     0
+     1
     ],
     "g": [
      0,

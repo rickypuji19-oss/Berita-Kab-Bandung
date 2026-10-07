@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T00:16:41.268436+07:00",
+ "updated": "2026-10-08T01:08:20.182290+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   13
+   14
   ],
   [
    "RRI.co.id",
@@ -64,7 +64,7 @@
   ],
   [
    "Antarwaktu.com",
-   2
+   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Kapolresta Bandung Kombes Pol Suhartono Akan Terapkan Konsep Jawara - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHVPWGFFTUZqUjgteFlNTVhMR0lDalUtZ2VMVXNQOVltZHBqVkVvY0VKNWtvM295dzBXMWRqZDN1cV9LMjZ5QmtLZFZPalNzcHJUTDJxX3IwaHhtTHRDTFZfbzA1ZGNtQnczUDc2VmVfbEg3RnNrRnc2T25MYnNtM2ZEdk9Xb0wtVlFER19WWktPUGJkemdKbHM4Snc3N1MyLTYyNw?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
      "t": "Pemkab Bandung dan Polresta Bandung Perkuat Sinergi Jaga Harkamtibmas - jurnalpolisi.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQay1selVyaDZuZDJmZkpIWk05ZWt5S3ZZbHc2OVRCcndsc0k0UHZNVUk4LThyamZGSzhuTmI4MHpucW5OUnJGNWhKdERLSm1VYWVKWU41anl6R2tITmNpbXp3MWctZnJTVElxbTJDRjFlTWwyVWo4MXk4dU9DZGdPbDYtaDJJcnQ2MlNLVmRYb1pjemFVT2RmdnVHWUw4dw?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1JXS3pYNmNUSGV3ZEh2ZjVfSk00SEE5YjZCVjVPSG5hUllGdFAxZGlJb1FwUnIxTXRRaGFkT0wzU25SQy1HcHRDdkdEN2Ztd2ZpRTRUMFZrY0dyTVFzU2JhNVVENnh4TE1rdEVUNjU0RzNnR0hUd1RpWFVJT25XVDd6SXhxNDlpOFZhbUd2c1NldUZIRW1fTUxHclFVNEdmb3U3ZzRhMkJUZklpTklxMUZNSnltdzFQYlhwS1pYVHBmZ3JrU1Rv?oc=5",
      "r": "Antarwaktu.com"
-    },
-    {
-     "t": "KDS Beri Jaminan BPJS Ketenagakerjaan bagi 1.216 Orang Kontingen Porprov XV Jabar 2026 Asal Kabupaten Bandung - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQU5xQ0NXVzQzWndzRzlTeFdlcUh3a1lISUxXWXd1M3lvZ21aX0gzZlY0c2hwcUhlOC1DbEFlQXRSSjVxems4Q1NCdmRBaEVmMlRCOXZKUVFfRk1TVnEwSmo5bTdrUHROZk5FbFk1UEMxY3RDbE5DbG0tY2Z6OUdtYTJaY2I3dTVnM0QzVWpTb3d3Nm1waUZ2SGdLQzhQQzhCZ2dOVGFMV0JjaVZkSFU0UFRnMVhkUVlVcG12X05mRksxOVZMYjhTSUpQZTlkQzVCTXRmaW0zMmZ0YTlYR1Z2UWlvWlRObk8tdFlNTm01alMxQ1JGNFNj?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     33,
+     34,
      3
     ]
    },
@@ -313,16 +313,16 @@
      "r": "Radio PRFM"
     },
     {
+     "t": "Gedung Indonesia Menggugat Bandung Jadi Ruang Belajar Sejarah, Siswa Telusuri Jejak Persidangan Soekarno - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWXVOVDhNdndIcld6N3pJUTQ3aEw4X1Z1aDJUeV9Odkp1bVk4b3RjeEVnMTNUYkphcGM3NVd1dEMwWXEwVlBRTk9MUVV0UllaTE4tcjJxVE5zQ3liN1lUWVhwQUJJRVB0NUtMZVpoRm8xbWJMZ1EwRGk1NUgzTGZ2ZzFGU3BRNm5JcFRBaEdNbWdtRWlURHdva2hVUUtCSnJiVlVrTUFCeVp4WVhzcUVvX1V0cndnYklnUmJOaERjd2JaTkh3YjBHWHdlazNrQVRSOHdlTjcxMFFHX1BKTkJwbFkxdHY4M3hEV0HSAe8BQVVfeXFMT1MxcEdGOERYYV9QYTJnQU9Gcm4tQnRmZWo5Uk5JbVM1dHhmUjlJbzE4WTN4UDdTcjA0SXFMT0lleExFQ2IwWmQ4Mmt6NkdpTF9oQXc3Y3pXTTl3SGFYSllGT2FCVVVQS3dnZVR2RzItMUZXdEZRS015R1cyUGxBMEt2a2V3aEtQakFHdHp6b0VGMlZBQ09yUlJ4dk5XeHdjaEhCT0IyMVBkMlZuTXE1dHFpYXg5UnRZcVRuVnQ0NmEyNW5Jcnl0dGdBTXUxUzNDYnVZOWFjRDdBZXNLSWlDRTk0WjlIS0c4c2ZnQjRHOEE?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Ajukan Eksepsi Tim Penasehat Hukum Taufik Hidayat Minta Perkara Dipindah ke PN Bandung - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdV9wUk84NDdFVGxvY282QUhDTTctSlk5dVVleDYyT3o1VmItMDF6M0k0RnBIRDJUZURFdlhJMFlZQlFrYUg1eFFiSjFPYXo1UzNsWF9lQXdzM045aXpUS29vMU9mWk9GbWpEdmlTQU5HS0xQbS1RUW1LbUIwYWF6UzJraXBnRWUtSzRMeWcwOW9pdWdNX0VJSDdVc2dNYUdQZ3RQZmExOFBkMmdRN0oxOHJXa1lwWC02RTBrNDdja3M1d3RTM3FB?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Viral Kafe di Katapang Bandung Dirusak, 3 Pelaku Ditangkap - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakRoNktKQ09QX3E4aG00NmtabjgxRUtyQzIxdmh0bFNBMTJXcU8tWjg4MFBPeWJZbHRLMmROdW1mc3R6WmNldkpzRmZ4VWlRVkp4b19lOWp3ejlWN1FIWnlidVpkQXpYVmpmSWVfcUpfOUR0ZVFFYkJCZURZaVdZNzVuYVdfOHBvYnNOcWt6UU9xQlVYMXNTallBX3ptOGY0Z2fSAacBQVVfeXFMTU1TNGJGZV84X2s1d2MzejZzQnAtUEVJQWhOTW9SbUppX0htUEJHdVFKX05tYld5R21kTE84MGljNVFLbGhXNF9yaUpwYk9BOU90cWtjMUFhMVQ3eDg2RUZmUF9ZaTFBUlMtUnVYZXdSWThERnpsSk00SzNKczJDUWo2cTBXbUFyYnByck9TVUk4azRUSE11cFBoa3FqYV94amtqUlN0Qk0?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     28,
+     29,
      11
     ]
    },

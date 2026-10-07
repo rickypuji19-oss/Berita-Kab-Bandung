@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:07:52.297194+07:00",
+ "updated": "2026-10-07T13:07:46.325389+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,64 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   24
-  ],
-  [
    "RRI.co.id",
-   11
-  ],
-  [
-   "Ayo Bandung",
-   11
-  ],
-  [
-   "Jurnal Soreang",
-   7
-  ],
-  [
-   "Radio PRFM",
-   6
+   1
   ],
   [
    "ANTARA News Jawa Barat",
-   6
-  ],
-  [
-   "Galamedia News",
-   5
-  ],
-  [
-   "Koran Gala",
-   5
-  ],
-  [
-   "jabarekspres.com",
-   4
-  ],
-  [
-   "Radar Bandung",
-   4
-  ],
-  [
-   "detikcom",
-   4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
-   "bandungraya.net",
-   3
-  ],
-  [
-   "Kompas.com",
-   3
-  ],
-  [
-   "opininews.com",
-   2
+   1
   ]
  ],
  "topics": [
@@ -78,24 +26,6 @@
     "ASN"
    ],
    "h": [
-    {
-     "t": "Pemkab Bandung Tegaskan Penyelesaian PT BDS Tunggu Proses Hukum - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTVXY0JCbFFqcmhSMWNOLXpXcnpGNmYzTHVEdnNmbTNJYUFIaWNpVzNtOWUyQlFOR3VULXkydnpDME1jVVk0Wm5Lb1M0N0xzZVNvX2U0YzA0SkNibHdEdl8xLXpQaVRXdnhDU0JCRGxqYjZDTWJVaDgtMVRpUmhGSVVETnJWME9zcW1BdWFKSXNjbEt0?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "BAZNAS Kabupaten Bandung Dorong UPZ SDN Pameungpeuk Tanamkan Budaya Infak Sejak Dini - BAZNAS Kab. Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm8tQlFNSl9wU3UtTzFnTzJIck8zZ3RNWWlCa09FQUVXVUZjTkZicTc5amJhWS0yU1FSY29sVy0zcTh2dmlwTFhZVmpVdnVkTDJqTTlhWTNveS1Vc2dCZmNRSjVBZ1ZtT3RiSEZDSV9xZkd1LUtaWEVKZlA1c0NOR0h3Qmh5Y2tzVVZ0cVBpb0x4V2FsYjd4aGgtblFuSzB3cE1lenNYcXZ1S3ZYVHlCc2g4VEphMHozVjlKaVZaQlRxai10Mmdpb2FQSUl3TzREY18tR2FR?oc=5",
-     "r": "BAZNAS Kab. Bandung"
-    },
-    {
-     "t": "Korban PT BDS, Saklahsahiji Perumda Milik Pemkab Bandung, Ngontrog Bupati, Pemkab Nolak Tanggung Jawab - Galura - Galura",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMnVodWZsYnZPLUlfbUVMWWl0REIwbmYwY0dsRFk4NlFYdEFVV3Nrbi1WNy1DblRDZHR3UWc3ZWZSdkxiQzBBclVqRjFPVndxcFBNalNTczJTRzFRVXlMaHBHRVYxTEZRb1d5elM4clFXSkw3NGRuWjVkVHpILUh5V2M0VmRFN2JpY2V0LU9aTzloN29sYk5LYll1MGpQUGJidkhRSEU2Z1UyOXV4bTBQb0VramVFYlNES0RJdF9yN2RWWmJMb3JLNm1LSmpETjN4RzhIcnNwUEltSXZwUkNRMjIxQzNyd0xhVEkzU0FB0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
-     "r": "Galura"
-    },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
      "s": "neu",
@@ -116,9 +46,9 @@
      0
     ],
     "w": [
-     13,
-     25,
-     2
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -137,8 +67,8 @@
      0,
      0,
      0,
-     12,
-     2
+     1,
+     0
     ],
     "g": [
      0,
@@ -146,8 +76,8 @@
      0,
      0,
      0,
-     1,
-     1
+     0,
+     0
     ]
    }
   },
@@ -160,24 +90,6 @@
     "pilkada"
    ],
    "h": [
-    {
-     "t": "Siap Kirim 1.200 Kontingen, Pemkab Bandung Targetkan 100 Medali pada Porprov XV Jabar 2026 - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Peredaran Narkoba Kian Marak, DPRD Dorong Pembentukan BNN Kabupaten Bandung Direalisasikan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTklnaXYtVzJCZTZJLTJvMXFxUVFmWjBqQ3dteElObExNM3dmNDM4b1hxWl9wMWZVZWd6QWxoX0YtaHBSSFNvVXZFRmtqNm5CZmJUTjIwOWhscVVPUjkxdHpTRUpSX2tqZ0N5YmlEOUo1aGo2OFM1dnVWYW5ZMTl0X1BXbEc4RVlqMjhWTTNnYmlmMUNYZldzQnJfYmJ3eE9NQmJRUDlrTmV5Z05FaGEwSHNpR2JFMGJJMHd0VjdqSENpTzNiWWRkcWVYbFRLVV8tSnA3T0U5dnB0dV9S?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "DPRD Dorong BNN Kabupaten Bandung Segera Terbentuk, Peredaran OKT Jadi Sorotan - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0FZQnoxR2RwbVk4bTJJcEFacE51dFl0amx6dUNJUktNekJIOThkejdzdEQyeVVyMlhJbk9HUV9yRDN3cHpYRFlhVDlJWmx3clM2NEpIemtQYmpiUy1aZFEwYjljNVNSbE1TZHNXWXVDemJvcG5WcGZZM01pOFo1aVNSRE04VEMtNFVJWlRGRXMtQktkTURkVHJWak1relFjSnNEUUxmTzRIdm1OU2RjRGpkQnphU3hZZXY2M19R?oc=5",
-     "r": "jabarekspres.com"
-    },
     {
      "t": "Anggota DPRD Kab. Bandung Ketua Fraksi Demokrat H. Asep Ikhsan SE.S.Pd.MM., Ketua YPPGMI Stikindo",
      "s": "neu",
@@ -198,9 +110,9 @@
      0
     ],
     "w": [
-     1,
-     11,
-     2
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -214,7 +126,7 @@
      "Rab"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -226,8 +138,8 @@
      0,
      0,
      0,
-     1,
-     1,
+     0,
+     0,
      0,
      0
     ]
@@ -243,24 +155,6 @@
    ],
    "h": [
     {
-     "t": "Menko Muhaimin berpesan Kopi Pesan Trend berpotensi tingkatkan ekonomi warga - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRW5ic0lzbnN4UTVoNGZsUDJ6UlViZ0JtNUxnNVRUMW5yVUYxR2ZmSjdIaG1QRV9MVGlkeUtmbjNWYUFCZnphSWZkNGp0b1V6SmNGRUphYXhqY1dWekQ0dGJkVDQ2Nm40XzdTdm44YlJvNllqc3FrV2VJNm9mUDR6WnUxemNtM1c1VEItS1Z4cGJGRHp5YmVHWUwxcUYxS3JDR2E0RmZQbWxwR3IzMzh5bzd0MHVVZ1NlNzhZ0gHAAUFVX3lxTE5KeEdqZGhhUzk5aGJhNjF2TlphS2FCMG92OHl0QW9ZbDZMaVZFY3UwMGN2LTQ1QTZ6RWwxN0ZiZko3cFhQN0t0NU9FRFQzNFFFSlRXUFVUOUxTQlZEZ2JKZnhnUkRyQ2FQNUZoMUs5cE1qYkd0Z0tYSGZNYTV3WThabGg0WDU3VHFFal80Qzg3X0R1d3pIanU5YXZjd3MtOG4tX3hwNFNMSGtRVDVZdE0ybGdSYTBnT1FPbXk4emI0Ug?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "KDS Ingatkan ASN Bayar Pajak dan Peduli Tetangga - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW1McHZwTzZpWFNuSFFBSjF1SVdNc3BkOFpxQlRDYTk3U3F0TFk2bll1dlNDOFRvVVZ6SG1ldDFOV0ozU1l1ZktxRG1aQ2FEY0NsS3FBUDJCVzliaTVkcWRoQXgyZFg0RURKZF9nSkxsUTE2cXNWUUJLMlYxVWlXWldnMjNpR0VEdU1uMllwblo4NzBtSVBlUUxHNFBlOXdN?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Tambahan Kuota BBM Subsidi, Pertalite Diprediksi Habis 9 Desember - Sekitar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQkZkX0ZzeEZUeHlqdzFjNDVPaGRYV1dlU2l4bjNNTjFpTDB4X080SkluT1NxSWpRUFItTG5vd1JsNEFHUEMtTE0xcXpBZ0ZBekxGUHJFTHVMazkyMWNnY0x4VUNRU0hHYndFcUoyRXh5Zw?oc=5",
-     "r": "Sekitar Bandung"
-    },
-    {
      "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=eVu6AEZ2s-g",
@@ -274,9 +168,9 @@
      0
     ],
     "w": [
-     4,
-     10,
-     1
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -291,11 +185,11 @@
     ],
     "p": [
      0,
-     1,
-     1,
      0,
-     1,
-     1,
+     0,
+     0,
+     0,
+     0,
      0
     ],
     "g": [
@@ -304,7 +198,7 @@
      0,
      0,
      0,
-     1,
+     0,
      0
     ]
    }
@@ -318,24 +212,6 @@
     "pungli"
    ],
    "h": [
-    {
-     "t": "Pinjam Motor Teman Tak Dikembalikan, Polisi Tangkap Pelaku dan 2 Penadah - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcy1QU0ZiejZPSUJsVmhTR29XM2hybGVvNFptT0pzWFdDWnVCaGxfcWI2eDZjamVtN2l3S3Q4NTZxa0VWR0VIcnlNVXd0RlgxdHo4dnNpdVF3SG9GVEpxYVFLRmEzNDYyRkcxTlpIczFzcnlkX3M1VnJWTE9FQ3JEQ3dNVDF3U3NyWkM2U1RmZ3d4S19uU0FTcndnVGZOSC01VUFTUnRNYjF2LVRJYkN4QnUwbm56UQ?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Viral Aksi Perusakan Pagar Kedai Kopi di Katapang Bandung, 3 Pelaku Ditangkap - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3BJdURWSXNUbWpLTjhMMGpDMGFnYnZfbGxwaWhUTDBiU0ctUDJCVU11TXFxOHMtcFF5MElIaW5la0pWcURRSWVvbkVVVEItbDU1SHhDRDlremN0alVtbkN3QzZfVS1waTJjUlJXODR1bGpqdGxiTGNhSFB1ZEU2clVkdjViREdLcFNiVWtHS3BsNkNhd1pncHVqZ0FXMnNxQUJGNGtDZ1o3dWYtNVFsNUNtWHZjYV9rRDZPUS1zSkFHNTFfSktmaA?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Aksi Nekat Maling Kabel Tower di Cicalengka Berakhir Ditangkap Polisi - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU1sWFVmRXB0SGFOaXdKZk1oUFhOUWFaRXFBOXk1Zng2Zmg5XzJBWFhLeWpZTGdSVjFmWXFIbTJ2bzVRdm0wbnN6SUJFb0RFSmI0MUN0Ymw5SXJRRkEtYktCcEZQR2tDbGEzN3pJOVVab05rTmNLN05pWmw1Sll4eGtCYVNkLXlUa3FVbmNpYlJscHVGWFByRWJZbkI5aUhXODVjUW50UGdLeEUtaHNROVR4bXV3Qm5NX3BjWEM1Ynd4ZmdI0gHKAUFVX3lxTE5mSW9QVjJ3T2Q0REJKYnotVi1UakxXdTI0aEJZWTRfdkxHdmJPSzRBVWpwTmxYdTUxa1NPR0xBQjZFMHQ1OEY3NWprZlhTQ1Qyc1RPOVMwVmdMYzIyRkZxdGVUdE9ZYzVSalY3LUM4T3ZCWU4yTlZpRjBCRHEyNUJyVjlKZzBZMmxtc1NDSnpqMm45VUt0VUpmSnVwZTNWSlBtZVRoSnRVRnZYMF9nSHBjQUhKX2xZS0VsLWtCSU12YXF5LVRXUU5kT1E?oc=5",
-     "r": "detikcom"
-    },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
      "s": "neu",
@@ -356,9 +232,9 @@
      1
     ],
     "w": [
-     2,
-     24,
-     6
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -377,17 +253,17 @@
      0,
      0,
      0,
-     2,
+     0,
      0
     ],
     "g": [
      1,
      0,
      0,
-     1,
-     2,
-     1,
-     2
+     0,
+     0,
+     0,
+     0
     ]
    }
   },
@@ -400,24 +276,6 @@
     "Baleendah"
    ],
    "h": [
-    {
-     "t": "Banjir Berulang, Warga Dayeuhkolot-Baleendah Siapkan Mitigasi Mandiri - Radar Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG0zOHVISkdlb3NsVFdEbjFsS1dObFl5TmoyRW04bHM2N0FJZjNUeTlRMmRqa21FeUVYZkZUdEUzU2pZOEpsS2pjazZwZkROeHpfaC1sVTRVTDJ3Q0FLa0RtUFBHMHROdW1KQ05GT1E5eGZnbnNSRERuUmROLXdZRXBJX2RFdmdzUndabXFWdkplTXdQX1ZGOE9uTnhFaHltUm1xd3FBQ0g3WFk3?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "Sempat Ditolak Warga, Pembangunan Sekolah Pengganti SDN 026 Bojongloa Bandung Mulai Berjalan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNWJLRTVxZ3RJWmoyN2ZwWmFRQk9PcWFoSkEzTnZTMGExV1p2UkJPTUNXSVFnY05zN3F2Z3dRSGw2OExwUDhISGdwWGFaU2JEakhUNU5iaXAzZ1ZZdE1fRFBicXdmOXpucmdFbDNZSGJjU3JNeW9XMGNGbHE1Q243ZDdTYzlnQ2F1YndyT0tKc19peXFBemRpYzBiMHZ3aFVSV0wzODZTYnoxWU5wVWNKWnZjN3NIWkRzc1JKXzF4YlJRSERxN2pTZ25EWWwtUVRWbEExZDF1RENZQQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Wisata Jawa Barat Menggeliat, Kunjungan Wisnus Tembus 149,69 Juta Perjalanan - ayobandung.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONl9QNExKYzBMem51MERSNXdQM3Y4NkY4NkstN2pEWTVtdFRRTG0wTTEzdXJjNGhNUFhYdFkxWDRzLWIyVkFiU2pyZHhjSHk1YzNpSmNFVjk1X05FWHk2LUVKM2hCVGN5S01mam16Mzg5MFIyNjVjaVRXVWRTVWtSZFdMU3hyd3FEZlppMHZjaFo1UTJ6TFhJNHFFZk9xdHdOcnBEVC1UUnNrM2ctemJRSWh4NXM1cmp5cVFwQw?oc=5",
-     "r": "ayobandung.com"
-    },
     {
      "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
      "s": "neg",
@@ -438,9 +296,9 @@
      2
     ],
     "w": [
-     2,
-     8,
-     8
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -458,17 +316,17 @@
      0,
      1,
      0,
-     1,
-     1,
+     0,
+     0,
      0
     ],
     "g": [
      0,
-     4,
-     2,
      1,
-     2,
+     0,
+     0,
      1,
+     0,
      0
     ]
    }
@@ -483,22 +341,16 @@
    ],
    "h": [
     {
-     "t": "Peringati Maulid Nabi, Yayasan Darul Falah Assalyan Gandeng DPD PPSI Kab. Bandung Gelar Khitanan Massal - bandungraya.net",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDEwbXI3aVZBSjF6bE40TWlZa2pqOHZjUUhZdjMweklyZFRCeXVfNXR4MkZ4WWFFcGpMMi0wUWVCNkdfY1k5T3U5X0dPNDZzMzhaenVuME91dUs3bGpXUEg5am1oQU5ETmlydkhlNmZvWU1sbEtVQ2JDXzdiVkNtcjVxbzc1UHFob0Nod2paRXVQUFExVzJTc05ZTmtyVnBfbHB4RzluX0lkSVZCLU4xbFJTMEt2alc0eEE0d0RYTDhqTk5GM1FRcmFHOGpBQQ?oc=5",
-     "r": "bandungraya.net"
-    },
-    {
-     "t": "Pemprov Jabar Libatkan 25.000 Mahasiswa Tekan Timbulan Sampah Bandung Raya hingga 20 Persen - Tribunjabar.id",
+     "t": "KDS Dorong 5 RSUD BEDAS Mandiri Secara Finansial - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUXd1MjhHQXNOS3hWcXdyUHBPU2RXYkdLeHpmRERLYThKcXBmNmZGUVN6eTVnSDgzM1VUV3dRbWZVaHJhOF8wQTJVc2hzb0JSX19OMkNSVEJnV3M4SkY3dzJIdEU3LTFiRjFtRUhzdjdna3pVMzdBdGxGT05fOThZcXBvQ1lDMDJpQ1J1eFRVLWphWmdnRlZSWjBoYUJOUTNkLVBDNUtFSG5YeHNUdW1RUURqX1NxWHk5TXVWWHFrY295a3NBcm1XWHl3Mms4bFpMMnV1cWRZZDQ?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUtkWnU2cFoyWGNBQ3dnQlZOdmdxOXZ1YUc0emFXcXl4RTJQY3ZVTGNSWUZTYlA0QmtKaHdVVnhoWW5pTEdWa2tzT3hwR1JzZEFTLTJ1UXhqdGZtcGpRUWFiSllNZGNiUDdCVlhqdEY5YVRUNmszMnV0dDFUMFVHSnFLQmNNc2NyRk9NRVczNjR4cWlrbmln?oc=5",
+     "r": "RRI.co.id"
     },
     {
-     "t": "Potret Buram Saluran Air Ciguruwik: Tersumbat Sampah dan Bau - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTBXbmwtRDlndGVOSmZmUTZaVkhoN3Q4NjRGV0VNZUlZRlZqTGpRUmlvZ1JhTmJnLWwzbjVELWlzczQ2NVNCMmQzLUZqTldxUGxCWEw2YzNpU21ENGFyQS1NbFE1SWJRN0haSWJfRkdlc1N0a0VDMjg0eW9aT1NId3ZkcU4wcWhyQjVjUFpGVi15eHlYWFJOSl9GMEd4N0NfYlI3RVNHd9IBrAFBVV95cUxPeXpERkpIOEVwWnVkZkhaNGRuS25DUFpEM2N0ZWJhVFZQd2syMGhucmI1Z2ZMSHNUZjMwY3ZOblRrdGlCandUSWhsMk10azVZUGZad05CdmFqN0lZSzlFbzBoekw1TEZ2LWlIYUVaZjRENWpjeWhRMHd2bEluQlJXTUtNRllTMEVsd19qa0pTbU1falNYbkIzcGh5a3FIaldZMkF3eFhpR1g4QkRp?oc=5",
-     "r": "detikcom"
+     "t": "Pemkab Bandung Targetkan 5 RSUD BEDAS Mandiri Finansial Tanpa Subsidi - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGdCSEVVZFRzNHVYUTVDRXo1S05NM09TRTlyWWxfWFg0MzV1c2tKelN5NGx4RFR4VkhQZHFrQ01Bd3ppVnZ1VzVXQnBtdExVWnpHRTlDcU42blFhM1V2R2NjNERiU0lnV28xbHFObW40TzA2S0g2WGRlaWJ2dkdqRk5IQzdTaWhUVEhyeU4waHpSNTVnZmFpOUh4M2FoNHZvMkpxaWpscTBJRUt2SUEzZFV30gG3AUFVX3lxTE5RQXpyQmJLcTZ2NjFtMHJCdm5WVHFxZXV1VVRyMm05aFVOdGxZd1FFTW9tdjBLU09sVmU2NjFEbFczUHA5YXpjR0NtZl9ZYnJRdC14MkJGTXVIZ1FZQ00xRU1HZ1VWRjgyRVNFX2EzRFA1a0tQcU1JWjZ2NmwzS3hISG5zeHlPS1pzV1c2T1J1X3Bwcmg4Q3lCSFVuSnNCMVoxUWdlb2U5UXBYRXRxUHQ3NEp1RUs5WQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -520,9 +372,9 @@
      1
     ],
     "w": [
-     4,
-     10,
-     3
+     0,
+     2,
+     0
     ]
    },
    "trend": {
@@ -538,20 +390,20 @@
     "p": [
      0,
      0,
-     1,
      0,
-     2,
      0,
-     1
+     0,
+     0,
+     0
     ],
     "g": [
      0,
      0,
      1,
      0,
-     1,
-     1,
-     1
+     0,
+     0,
+     0
     ]
    }
   }

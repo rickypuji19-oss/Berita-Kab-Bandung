@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T14:09:17.203694+07:00",
+ "updated": "2026-10-07T15:08:46.690814+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,11 +23,15 @@
    8
   ],
   [
-   "Radio PRFM",
-   8
+   "Koran Gala",
+   7
   ],
   [
-   "Koran Gala",
+   "Radio PRFM",
+   7
+  ],
+  [
+   "jabarekspres.com",
    6
   ],
   [
@@ -39,15 +43,11 @@
    5
   ],
   [
-   "jabarekspres.com",
+   "detikcom",
    5
   ],
   [
    "Radar Bandung",
-   4
-  ],
-  [
-   "detikcom",
    4
   ],
   [
@@ -97,27 +97,27 @@
      "r": "Inilahkoran.id"
     },
     {
+     "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=_E4dKp0IAgo",
+     "r": "YouTube Radio PRFM 107,5 News Channel"
+    },
+    {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
      "r": "YouTube RUANG JEJAK KASUS "
-    },
-    {
-     "t": "HANGTUAH BASKETBALL DAN PEMERINTAH KABUPATEN BANDUNG JAJAKI KOLABORASI STRATEGIS",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=LPiviJy-H-8",
-     "r": "YouTube Jangkar Media"
     }
    ],
    "v": {
     "s": [
      1,
-     2,
+     3,
      0
     ],
     "w": [
      12,
-     28,
+     29,
      3
     ]
    },
@@ -319,22 +319,22 @@
    ],
    "h": [
     {
+     "t": "Viral Perusakan Kafe di Katapang Bandung, 3 Pemuda Jadi Tersangka - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU5Kdm5IQnp2YzdqUV9LMlpZRTFTWEhJbVR2S1hUX3BMZWg1S0pMX0d4V0lsTERjNHJNLWhPTENKX3JCQnJudXI2bWJENXZXcHZaSHpLMXNoWmxramtPQThzNE96emJURmo3QUV6bFlRamhUbVNNM2pVRkdxZHkzcGdHOU9TT0pKazE0cWRzQ2pieUQ5aDNMWkFjMzJKSGw4N243ejQxMVBkYzdJN0ZjelBhZzMydHVVUTVoeWtB0gHDAUFVX3lxTFBQTklCaHhIX1lld011VmJMbDc5V2xpNFh1dkdLTWVtSTFVNW9OR3dUdUcxZVRSM2tBXzE5Q2RrN0wyX2tObDFiaWtQQ2NaWFpLbkdrSUJxQ2hDMW5mUmdVVUlQbkc4aWV1bG5rbG5HS29jc3RJb0JTZUhwcXBtdUhuRHRQRXNoekw4TTNINmxMVXNFejV0NWRuZzZqZXh4UW93UXlGOGhJeFlFMl9yajZGdWk1Xzdyc3o5UVZzcTA4Qm1pRQ?oc=5",
+     "r": "detikcom"
+    },
+    {
+     "t": "Sekelompok Pemuda Rusak Kafe di Katapang Kabupaten Bandung, Berakhir Diringkus Polisi - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEpmcmxEWU81MFBvbDhna2tSMFZnS0dTNFlxREprSDFsUlBUMkROVExpbW85VU1LdXRad1g1dkNrMHNhQUhzYWpYNzQ3VGdWTjNoTUMzV25nZ3hwSFZkQjZkVTFoNEhNOHVOaldURGRNSy13TjlpTXN5blZSelZPb0JhTWlZMXFHbmg3WUFZUkVVV1dlX0xETjFpNzhyalhsYUVMT0JwN0xsYVd2NmptdGNYblFPUDNpOUxDLUJXcTVGMUlKSl9vMXlOYk1FUE90VXlDNnh3?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Tiga Pelaku Penyerangan dan Perusakan Kafe di Katapang Akhirnya Ditangkap Polisi! - jabarekspres.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWtBcFRlNl91dF9MQ2ZWTndaRnA2Y01VWjIzMk9mVTg3dnhxZ1E2a1ZybXF3d3FtWXZ3MEZ2QmFEZmVIREhJc3ZlNDFlMW9iSTk0VXA3N2J0RUJJTE10cVBON3plT3N0OHp4YXcwT0t6NW45YkV4ZEYyYVFZVUFXcmdMT3BSOFBRbjhla2ZBUldoY1NUVXhFZ3d6b3NQME5TUVJiaU9HOG9nT3VreUlYWE5nMkc5dEFTNW4yT3ROZEdvdw?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Pinjam Motor Teman Tak Dikembalikan, Polisi Tangkap Pelaku dan 2 Penadah - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcy1QU0ZiejZPSUJsVmhTR29XM2hybGVvNFptT0pzWFdDWnVCaGxfcWI2eDZjamVtN2l3S3Q4NTZxa0VWR0VIcnlNVXd0RlgxdHo4dnNpdVF3SG9GVEpxYVFLRmEzNDYyRkcxTlpIczFzcnlkX3M1VnJWTE9FQ3JEQ3dNVDF3U3NyWkM2U1RmZ3d4S19uU0FTcndnVGZOSC01VUFTUnRNYjF2LVRJYkN4QnUwbm56UQ?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Viral Aksi Perusakan Pagar Kedai Kopi di Katapang Bandung, 3 Pelaku Ditangkap - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNDhneEtrUTRwclNpMWxVcHJLLV9pVlFpbnFXWkhydnVUakF1cXhka256Y3FsVjkzcHRxZFRYbUJXd2dRX1VvcW9CWU1uaGZLWExnQ3ZmWkU5MlVySTBlcUNmV19nMVpMMGFzZzUzTFdITjBJN2t3cktsY1lLaWVMd0M0QkhtQjJGVzdwQUJQd3hEODZ3Q3ZXeldVOUZkM1JaVVZSYVRQSUtnMEJNQmJZTkM2VDEzaWxFZFczNlFqVXU1QWJnUG1mWFVMNjZlZFB1a0dTbkVWMjAzWElBRDFBRExOSEprajQ?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -356,9 +356,9 @@
      1
     ],
     "w": [
-     3,
+     2,
      25,
-     7
+     9
     ]
    },
    "trend": {
@@ -377,7 +377,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0
     ],
     "g": [
@@ -387,7 +387,7 @@
      1,
      2,
      1,
-     3
+     5
     ]
    }
   },
@@ -433,7 +433,7 @@
    ],
    "v": {
     "s": [
-     2,
+     3,
      0,
      2
     ],
@@ -455,7 +455,7 @@
     ],
     "p": [
      1,
-     0,
+     1,
      1,
      0,
      1,

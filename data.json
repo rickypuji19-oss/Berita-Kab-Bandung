@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:10:13.968496+07:00",
+ "updated": "2026-10-07T20:11:45.188364+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    26
   ],
   [
-   "Ayo Bandung",
+   "RRI.co.id",
    13
   ],
   [
-   "RRI.co.id",
-   10
+   "Ayo Bandung",
+   13
   ],
   [
    "ANTARA News Jawa Barat",
@@ -24,10 +24,14 @@
   ],
   [
    "Koran Gala",
-   7
+   8
   ],
   [
    "Jurnal Soreang",
+   7
+  ],
+  [
+   "Kompas.com",
    7
   ],
   [
@@ -43,10 +47,6 @@
    5
   ],
   [
-   "Kompas.com",
-   5
-  ],
-  [
    "detikcom",
    5
   ],
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Bedanews",
-   3
+   "Satumedia.id",
+   2
   ],
   [
-   "PPID Kab. Bandung",
+   "Bedanews",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Targetkan 17.630 ASN Ikuti E-Learning Integritas hingga November - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcW9WYzZHRnJSYTQ3S05hUmcybmV5NE9WZVFWakNTUm5sdVFHbGlYQlZ2M2tXN1lMV1c1TlBEZjNqNVB0elBRTVlWOF8tcVV2NlUyOXBYbWNiUHZQOU5xVERna3QtSW03Uk55T3ZwNkRPMGotYm1OYlgzQTlVXzNIWlhES0k5cmVrSmtMamdnM1JmVU55RXpsUlpaOGkxUTR0MWlrOV9mX2NKak5MbV8xQ1JQNmFTWnc?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "Wabup Bandung, Ali Syakieb: PMI Gerakan Kemanusiaan yang Dibutuhkan Masyarakat - deJurnal.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbURrTWVqMFRlTlEyLUFodGloU0VtMWxRajUwLVJTd2JxaFBQRkVzUDNlUWZhZGw3S1l0MGZLMXZRbGI3YnNoel9DYUgtR3d6WnFUZDFfcVRvcVZoV0NScGVsRDlJLWRQNW1YUXNpTVB4bHd1U1NZM3JDTW9sX1dwZEJXQ3k2Q3dQemZIN0J0bG5URy1PdEtaWFZYWFg1UTVHZDdRcmpjaU1Edw?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Delapan Tahun Menanti, Irsyad Akhirnya Dapat Kursi Roda dari Wabup Bandung - Reformasi Aktual",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkFnZzhzNHphQzl3WF8yN2l2MXM4Z2MtNjFmSFBrYVFFbldQT01XWGtnTWRReWt4akQxdUxiY1ZCckRHNUxDcnlhRGFjaGhPSHg0RTRYUnREaGV6RVFoeDBzSUYwLWg3NDJlUXYyRTdOeENWUVlGalRScXRRb1dXcXVJUjFMN0JVcDR6RERJaHpTTnUtTEo0QWhsZ2xRN1d4clBzU3Zob25sVnM4TUFKeDFPZw?oc=5",
      "r": "Reformasi Aktual"
-    },
-    {
-     "t": "Sosialisasi Corporate University ASN - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUk2MUZJekN0NUx5MzNTSHByR3lKWlpYZlpoTlZIc254YVpXeXZwU0UtTjR4N0pDQ3JJRHRwU2hjT0U2TGZ0R2hXdkxmUGc2cm9UXzNKNjMxN0NDRWN3eno1eERDOW0zRkhrRTQtR3U2R0VhS3ZOMm85VnNSeGVjZDJZRmtzcUhiV212TVo5S18xY2g0YzdFSzNR?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Pemkab Bandung dan KPK Wajibkan Seluruh ASN Ikuti E-Learning Integritas untuk Cegah Korupsi dan Pungli - Gerbang Patriot",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUZpTUJyeG9tWXNlam93M0pPX3o2ODhjTlJFZEdEZFJRYVhlMDBtM21GSlU4anVyLWxWZFZLSTVJODZTWk5TVUhVZFRCWmFNem05RUhHN2pZNVBvYmw0bUFrejNkc0s2SDhxcnlfZEc2cUd1QVBhbm9FemNNOHFKSWdiTlJUSnlJTlhSWEJsQlc1YnVXaVFFTXR5eFhWaDJMU0VLYmtEZEVHMEhIRTRpR01MV3laZEpiVi1xOTdZMG9CWWc2V0hkbWdfWVVSVDJteEJSR3pUQlM?oc=5",
-     "r": "Gerbang Patriot"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     13,
+     12,
      27,
      3
     ]
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     9,
-     5
+     7,
+     6
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Terjerat Kasus Penganiayaan, Oknum Anggota DPRD Sumbawa Terancam 2 Tahun 6 Bulan Penjara - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0ZwQXJMTWZwa2dlVFprWURYYUd2WHVWZVVQSlpzOGctcmxkQ05oYS00ZnFtUkhlejRtZHZBaWdRNGdnTzlxUWQ0cXFHYzItQ29ZdjBITWpwd2FlYzh5VFNGeWVmR0FSRTlsaGlWM2doemtUcnk1ODVmLUJLR2djOHh1T3VJMW02ZlRNSE1TNlZrMUFLVU5lTXI0bm9PME9ULWE4VVVGUHhwOWZtXzlxNTJJcU12TzhvVDNCUmZBU1dTR3V6akdFM3hPZy1UUFV6MTZidm1lR2JsTXFCYk9aOENiQXo?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Siap Kirim 1.200 Kontingen, Pemkab Bandung Targetkan 100 Medali pada Porprov XV Jabar 2026 - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTklnaXYtVzJCZTZJLTJvMXFxUVFmWjBqQ3dteElObExNM3dmNDM4b1hxWl9wMWZVZWd6QWxoX0YtaHBSSFNvVXZFRmtqNm5CZmJUTjIwOWhscVVPUjkxdHpTRUpSX2tqZ0N5YmlEOUo1aGo2OFM1dnVWYW5ZMTl0X1BXbEc4RVlqMjhWTTNnYmlmMUNYZldzQnJfYmJ3eE9NQmJRUDlrTmV5Z05FaGEwSHNpR2JFMGJJMHd0VjdqSENpTzNiWWRkcWVYbFRLVV8tSnA3T0U5dnB0dV9S?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "DPRD Dorong BNN Kabupaten Bandung Segera Terbentuk, Peredaran OKT Jadi Sorotan - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0FZQnoxR2RwbVk4bTJJcEFacE51dFl0amx6dUNJUktNekJIOThkejdzdEQyeVVyMlhJbk9HUV9yRDN3cHpYRFlhVDlJWmx3clM2NEpIemtQYmpiUy1aZFEwYjljNVNSbE1TZHNXWXVDemJvcG5WcGZZM01pOFo1aVNSRE04VEMtNFVJWlRGRXMtQktkTURkVHJWak1relFjSnNEUUxmTzRIdm1OU2RjRGpkQnphU3hZZXY2M19R?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Anggota DPRD Kab. Bandung Ketua Fraksi Demokrat H. Asep Ikhsan SE.S.Pd.MM., Ketua YPPGMI Stikindo",
@@ -199,7 +199,7 @@
     ],
     "w": [
      1,
-     11,
+     12,
      2
     ]
    },
@@ -255,10 +255,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Siapkan Tambahan Kuota BBM Subsidi, Pertalite Diprediksi Habis 9 Desember - Sekitar Bandung",
+     "t": "RUU Kawasan Industri, DPR Dorong Hapus Batasan Usia Rekrutmen - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQkZkX0ZzeEZUeHlqdzFjNDVPaGRYV1dlU2l4bjNNTjFpTDB4X080SkluT1NxSWpRUFItTG5vd1JsNEFHUEMtTE0xcXpBZ0ZBekxGUHJFTHVMazkyMWNnY0x4VUNRU0hHYndFcUoyRXh5Zw?oc=5",
-     "r": "Sekitar Bandung"
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2NGREdYNDd6a2VpRVB6M0U2djVXZGo2MjJmNHA4WTlPVEIzOExvS0s5OVcyOHJ0ZGdueHJCVjVHZnhfdUllVWlLbGdWeVNHVGR2MHZRa00tdTBTazBRT24xcFdEd083cHRUTnNJRVZZN0JqVFdIWkVwcGxIenFIMmhXT2JuMm00VlV6U1o0ZUhZdVJBblR6Wk13M2FKdzBjMG9nLTNn?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
@@ -275,8 +275,8 @@
     ],
     "w": [
      4,
-     10,
-     1
+     11,
+     2
     ]
    },
    "trend": {
@@ -303,7 +303,7 @@
      0,
      0,
      0,
-     0,
+     1,
      1,
      0
     ]
@@ -357,7 +357,7 @@
     ],
     "w": [
      3,
-     25,
+     26,
      12
     ]
    },
@@ -403,7 +403,7 @@
     {
      "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor, Ini Wilayahnya - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVFVUnBEZ1VCOFdhd09FMU5wZU1lZjZGQll5QVFuYXIzdlpWSlpaMDZucWgwcWEzMUIzcGlFakpUUi1HQ2hieWNmWVdBa09VWFlCemJwUmN4QmZaTEVEYUhzejlfY1Fia0E2Sjhwd1dBVEhOektnYndfT1lBZzBOR3E3ak5xc2Vja0d0ZzV2bi1SQnVQbEpsT3cyWmpzNFpTcE9TekFuZzM3N00tU1RZMmFscnA1dmV1Rkt3dTZQaHFsTDBMWFE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGRRZEg5STNpeFA5UjlWYTNZZlBZck41REd4bEdXZ0tlWUlyTVJRRGNreFdHbmNlcFhhSUxSNGtrYzdEaGE1V20tWG8tNU9naFZKV1FMcVRBazJmYnAwaTh4TnVzdDNaVFpQeWE3V3pXZ3Jmb0pfMnRHSjRFRmN2NHBnd3F3TnZMcVg2OUljODdHMmNYY0RLWnhDQUNFeWZneHo1U0JUeWNnaEc4am9QblFDVHh1ZTdsbjFvRFZpTlJSeDJxeHFMUndhdGg0dmZYWU00NnNmbVYxRWZBSXZqdUpraw?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -521,7 +521,7 @@
     ],
     "w": [
      4,
-     10,
+     11,
      3
     ]
    },

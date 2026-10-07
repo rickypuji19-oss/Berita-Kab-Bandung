@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:08:18.853459+07:00",
+ "updated": "2026-10-07T17:09:20.879662+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
+  ],
+  [
+   "Ayo Bandung",
+   12
   ],
   [
    "RRI.co.id",
    11
   ],
   [
-   "Ayo Bandung",
-   11
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "Jurnal Soreang",
@@ -31,12 +35,8 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
-  ],
-  [
    "Galamedia News",
-   5
+   6
   ],
   [
    "jabarekspres.com",
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Disway",
+   "PPID Kab. Bandung",
    2
   ]
  ],
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     10,
-     3
+     9,
+     4
     ],
     "g": [
      0,
@@ -319,6 +319,12 @@
    ],
    "h": [
     {
+     "t": "Viral Kafe di Katapang Bandung Dirusak, 3 Pelaku Ditangkap - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakRoNktKQ09QX3E4aG00NmtabjgxRUtyQzIxdmh0bFNBMTJXcU8tWjg4MFBPeWJZbHRLMmROdW1mc3R6WmNldkpzRmZ4VWlRVkp4b19lOWp3ejlWN1FIWnlidVpkQXpYVmpmSWVfcUpfOUR0ZVFFYkJCZURZaVdZNzVuYVdfOHBvYnNOcWt6UU9xQlVYMXNTallBX3ptOGY0Z2fSAacBQVVfeXFMTU1TNGJGZV84X2s1d2MzejZzQnAtUEVJQWhOTW9SbUppX0htUEJHdVFKX05tYld5R21kTE84MGljNVFLbGhXNF9yaUpwYk9BOU90cWtjMUFhMVQ3eDg2RUZmUF9ZaTFBUlMtUnVYZXdSWThERnpsSk00SzNKczJDUWo2cTBXbUFyYnByck9TVUk4azRUSE11cFBoa3FqYV94amtqUlN0Qk0?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Pastikan Tak Ada Aturan Rancu, Kemenkum Jabar Bedah Tuntas Empat Raperbup KBB via Rapat Harmonisasi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbU0tYkJVQWhzamZVeFBRY2RpTmtYNTBiWVZrZ0NmeUhMcFlnN0tQWlFxUF9ScU4teVktNWw4UDZVeG1DYldmT243M1RQa0E1ZFlqeG9ZU21rUmcyODROZlRpcHpUNmt4NENsb01pUlJNdG9KN3hndGo2S2lORVBTUXljZzljQURQd0ZrSjlsUV82X0sxbkJ4SHpjVEkyNGdzODNRdTFDMDZPWkY2eExzdm5CWFBucFl5YURBTGhMZDZWTktTeUhfT1ZGc2J3dzZzZmtzZ3pvb0tRVkRnR1RNSw?oc=5",
@@ -329,12 +335,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU5Kdm5IQnp2YzdqUV9LMlpZRTFTWEhJbVR2S1hUX3BMZWg1S0pMX0d4V0lsTERjNHJNLWhPTENKX3JCQnJudXI2bWJENXZXcHZaSHpLMXNoWmxramtPQThzNE96emJURmo3QUV6bFlRamhUbVNNM2pVRkdxZHkzcGdHOU9TT0pKazE0cWRzQ2pieUQ5aDNMWkFjMzJKSGw4N243ejQxMVBkYzdJN0ZjelBhZzMydHVVUTVoeWtB0gHDAUFVX3lxTFBQTklCaHhIX1lld011VmJMbDc5V2xpNFh1dkdLTWVtSTFVNW9OR3dUdUcxZVRSM2tBXzE5Q2RrN0wyX2tObDFiaWtQQ2NaWFpLbkdrSUJxQ2hDMW5mUmdVVUlQbkc4aWV1bG5rbG5HS29jc3RJb0JTZUhwcXBtdUhuRHRQRXNoekw4TTNINmxMVXNFejV0NWRuZzZqZXh4UW93UXlGOGhJeFlFMl9yajZGdWk1Xzdyc3o5UVZzcTA4Qm1pRQ?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Sekelompok Pemuda Rusak Kafe di Katapang Kabupaten Bandung, Berakhir Diringkus Polisi - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEpmcmxEWU81MFBvbDhna2tSMFZnS0dTNFlxREprSDFsUlBUMkROVExpbW85VU1LdXRad1g1dkNrMHNhQUhzYWpYNzQ3VGdWTjNoTUMzV25nZ3hwSFZkQjZkVTFoNEhNOHVOaldURGRNSy13TjlpTXN5blZSelZPb0JhTWlZMXFHbmg3WUFZUkVVV1dlX0xETjFpNzhyalhsYUVMT0JwN0xsYVd2NmptdGNYblFPUDNpOUxDLUJXcTVGMUlKSl9vMXlOYk1FUE90VXlDNnh3?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -357,8 +357,8 @@
     ],
     "w": [
      3,
-     25,
-     9
+     26,
+     11
     ]
    },
    "trend": {
@@ -387,7 +387,7 @@
      1,
      2,
      1,
-     5
+     7
     ]
    }
   },
@@ -401,6 +401,12 @@
    ],
    "h": [
     {
+     "t": "DPRD Bandung Soroti Belum Adanya Rencana Induk Drainase, Penanganan Banjir Harus Libatkan Kabupaten Bandung hingga Jabar - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa0V2bEZjY0tCMWdDakJDMkZUeXVtVTcwaG1xTUpicWdYcEJjWTEwUWVEZ1BPN3R2dUpqVThwZXpBcVp0UzkyZktNek5oaHJfRHFWUGsyVzZIOHJjSzZ3bFRxV2Q1Z2FoeVFFVjQyN29rN3NFdEtVWENMVU9vbVhvOFVKZFpWS3pwRFdPbloxMzF3cGlSMWZKa0MzSlRJVHk4Wnh4SzNOdHRvRHEzQ08yRWV4czZOTElJU3V5YThzRmtoNV9OQVJlS0tZcUZRZEpTMVZHY3BYX2lCUnFsSFNFUktQQ2F0WXdJRGlkRzloYmlCcWo2em9Hd1M5MzB5S2pmNk9MX9IBhAJBVV95cUxQa0V2bEZjY0tCMWdDakJDMkZUeXVtVTcwaG1xTUpicWdYcEJjWTEwUWVEZ1BPN3R2dUpqVThwZXpBcVp0UzkyZktNek5oaHJfRHFWUGsyVzZIOHJjSzZ3bFRxV2Q1Z2FoeVFFVjQyN29rN3NFdEtVWENMVU9vbVhvOFVKZFpWS3pwRFdPbloxMzF3cGlSMWZKa0MzSlRJVHk4Wnh4SzNOdHRvRHEzQ08yRWV4czZOTElJU3V5YThzRmtoNV9OQVJlS0tZcUZRZEpTMVZHY3BYX2lCUnFsSFNFUktQQ2F0WXdJRGlkRzloYmlCcWo2em9Hd1M5MzB5S2pmNk9MXw?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Banjir Berulang, Warga Dayeuhkolot-Baleendah Siapkan Mitigasi Mandiri - Radar Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG0zOHVISkdlb3NsVFdEbjFsS1dObFl5TmoyRW04bHM2N0FJZjNUeTlRMmRqa21FeUVYZkZUdEUzU2pZOEpsS2pjazZwZkROeHpfaC1sVTRVTDJ3Q0FLa0RtUFBHMHROdW1KQ05GT1E5eGZnbnNSRERuUmROLXdZRXBJX2RFdmdzUndabXFWdkplTXdQX1ZGOE9uTnhFaHltUm1xd3FBQ0g3WFk3?oc=5",
@@ -411,12 +417,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNWJLRTVxZ3RJWmoyN2ZwWmFRQk9PcWFoSkEzTnZTMGExV1p2UkJPTUNXSVFnY05zN3F2Z3dRSGw2OExwUDhISGdwWGFaU2JEakhUNU5iaXAzZ1ZZdE1fRFBicXdmOXpucmdFbDNZSGJjU3JNeW9XMGNGbHE1Q243ZDdTYzlnQ2F1YndyT0tKc19peXFBemRpYzBiMHZ3aFVSV0wzODZTYnoxWU5wVWNKWnZjN3NIWkRzc1JKXzF4YlJRSERxN2pTZ25EWWwtUVRWbEExZDF1RENZQQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Wisata Jawa Barat Menggeliat, Kunjungan Wisnus Tembus 149,69 Juta Perjalanan - ayobandung.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONl9QNExKYzBMem51MERSNXdQM3Y4NkY4NkstN2pEWTVtdFRRTG0wTTEzdXJjNGhNUFhYdFkxWDRzLWIyVkFiU2pyZHhjSHk1YzNpSmNFVjk1X05FWHk2LUVKM2hCVGN5S01mam16Mzg5MFIyNjVjaVRXVWRTVWtSZFdMU3hyd3FEZlppMHZjaFo1UTJ6TFhJNHFFZk9xdHdOcnBEVC1UUnNrM2ctemJRSWh4NXM1cmp5cVFwQw?oc=5",
-     "r": "ayobandung.com"
     },
     {
      "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
@@ -440,7 +440,7 @@
     "w": [
      2,
      8,
-     8
+     9
     ]
    },
    "trend": {
@@ -469,7 +469,7 @@
      1,
      2,
      1,
-     0
+     1
     ]
    }
   },

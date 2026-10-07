@@ -18,6 +18,7 @@ LOCAL_MODEL = "w11wo/indonesian-roberta-base-sentiment-classifier"  # gratis, ja
 CACHE = "cache.json"
 SOCIAL_EVERY_HOURS = int(os.getenv("SOCIAL_EVERY_HOURS", "4"))  # hemat kuota YouTube
 _client = None
+_warned = False
 
 
 def claude():
@@ -47,7 +48,10 @@ def excerpt(url):
         real = gnewsdecoder(url, interval=1).get("decoded_url")
         return (trafilatura.extract(trafilatura.fetch_url(real)) or "")[:1200]
     except Exception as ex:
-        print("isi artikel gagal:", ex)
+        global _warned
+        if not _warned:  # cukup sekali, agar log tidak penuh
+            print("isi artikel gagal (hanya pesan pertama ditampilkan):", ex)
+            _warned = True
         return ""
 
 

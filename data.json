@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:07:48.709887+07:00",
+ "updated": "2026-10-07T23:11:20.729033+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   24
   ],
   [
    "RRI.co.id",
-   13
+   14
   ],
   [
    "Ayo Bandung",
@@ -31,7 +31,7 @@
    7
   ],
   [
-   "Jurnal Soreang",
+   "PPID Kab. Bandung",
    7
   ],
   [
@@ -44,6 +44,10 @@
   ],
   [
    "jabarekspres.com",
+   6
+  ],
+  [
+   "Jurnal Soreang",
    5
   ],
   [
@@ -59,11 +63,7 @@
    4
   ],
   [
-   "Satumedia.id",
-   2
-  ],
-  [
-   "PPID Kab. Bandung",
+   "Antarwaktu.com",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati Bandung Dadang Supriatna: Integritas Menjadi Fondasi Dalam Penyelenggaraan Pemerintahan - Antarwaktu.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1JXS3pYNmNUSGV3ZEh2ZjVfSk00SEE5YjZCVjVPSG5hUllGdFAxZGlJb1FwUnIxTXRRaGFkT0wzU25SQy1HcHRDdkdEN2Ztd2ZpRTRUMFZrY0dyTVFzU2JhNVVENnh4TE1rdEVUNjU0RzNnR0hUd1RpWFVJT25XVDd6SXhxNDlpOFZhbUd2c1NldUZIRW1fTUxHclFVNEdmb3U3ZzRhMkJUZklpTklxMUZNSnltdzFQYlhwS1pYVHBmZ3JrU1Rv?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
      "t": "KDS Beri Jaminan BPJS Ketenagakerjaan bagi 1.216 Orang Kontingen Porprov XV Jabar 2026 Asal Kabupaten Bandung - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQU5xQ0NXVzQzWndzRzlTeFdlcUh3a1lISUxXWXd1M3lvZ21aX0gzZlY0c2hwcUhlOC1DbEFlQXRSSjVxems4Q1NCdmRBaEVmMlRCOXZKUVFfRk1TVnEwSmo5bTdrUHROZk5FbFk1UEMxY3RDbE5DbG0tY2Z6OUdtYTJaY2I3dTVnM0QzVWpTb3d3Nm1waUZ2SGdLQzhQQzhCZ2dOVGFMV0JjaVZkSFU0UFRnMVhkUVlVcG12X05mRksxOVZMYjhTSUpQZTlkQzVCTXRmaW0zMmZ0YTlYR1Z2UWlvWlRObk8tdFlNTm01alMxQ1JGNFNj?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcW9WYzZHRnJSYTQ3S05hUmcybmV5NE9WZVFWakNTUm5sdVFHbGlYQlZ2M2tXN1lMV1c1TlBEZjNqNVB0elBRTVlWOF8tcVV2NlUyOXBYbWNiUHZQOU5xVERna3QtSW03Uk55T3ZwNkRPMGotYm1OYlgzQTlVXzNIWlhES0k5cmVrSmtMamdnM1JmVU55RXpsUlpaOGkxUTR0MWlrOV9mX2NKak5MbV8xQ1JQNmFTWnc?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Berita Acara Pemeriksaaan Hasil Pekerjaan Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPelJuNHlybXdjdm9iLUZRODlIZHdFSk5Ea195M0Z4NXRwTnJVMGhWRnZOSW83YndsbXc2MDBNczZSQmVIQ1RxOWExbTctdWppLXBFbU9DcFgtejhrNFNadl84NmVGdWVqcldsdmVvRUhZcWlCQThrTHJWSHI1cVljVEh1dFJNT1loVUNCTmYwS2otbVYyaXM2bnlhTUlNbWJ5RWdSckY3eXVUV3NNTjRhb2NPUGpLVkkwNU96SmZFUHBOMGRVN2NhcVVQd19Oc045TEVuQWxFZHBsY2FpWU05UHpVcXozenh3b2c?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     11,
-     29,
+     9,
+     34,
      3
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     6,
+     4,
      6
     ],
     "g": [
@@ -243,22 +243,22 @@
    ],
    "h": [
     {
+     "t": "Setelah Pemasangan Sambungan Listrik Gratis, Pengamat UPI Tegaskan Pentingnya Pemberdayaan Ekonomi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnllRmI2dy1kbjdEYW82UjBaOHA4OTFrSmlnbFZRNkdrc0RJeDIwX0VKUEJPUHJ3THRPNGtxQU55SUJBV1Q4ZXUzRDV4LVFYT0hhTXdqYTMyN1A1ZDJURC1wYUhyZ0J4ZUJzTmltMVJQTDlnallPTFl3Q2RZdmd4dmVvYUZTRTJPRzRLQjh5aXpBWUowTDBkVHEtaFZkVmNlcW9GSFNWZGxfaGFIRnJ2ZGtxVnZKRHR1Z3c1UjhkbTlSVkRKVFZ5YlVuRElhV2V2S2VBbDE2ZHFhUFlDVklkM1VR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Berita dan Informasi kolaborasi pentahelix pariwisata Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOVpCT1pvV1FxVnpKZE5tbC1YcTVKakhSazVTWHo0NVBlYnF3QjIxZlZZX1pDSnFiYmQ2Z3lYeXNPOWNjZkhERXA1SDJ1SjE0RkdSbkNscUxmTDZBUjlhU1lLdHBMT1VQaWprQg?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Menko Muhaimin berpesan Kopi Pesan Trend berpotensi tingkatkan ekonomi warga - ANTARA News Jawa Barat",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRW5ic0lzbnN4UTVoNGZsUDJ6UlViZ0JtNUxnNVRUMW5yVUYxR2ZmSjdIaG1QRV9MVGlkeUtmbjNWYUFCZnphSWZkNGp0b1V6SmNGRUphYXhqY1dWekQ0dGJkVDQ2Nm40XzdTdm44YlJvNllqc3FrV2VJNm9mUDR6WnUxemNtM1c1VEItS1Z4cGJGRHp5YmVHWUwxcUYxS3JDR2E0RmZQbWxwR3IzMzh5bzd0MHVVZ1NlNzhZ0gHAAUFVX3lxTE5KeEdqZGhhUzk5aGJhNjF2TlphS2FCMG92OHl0QW9ZbDZMaVZFY3UwMGN2LTQ1QTZ6RWwxN0ZiZko3cFhQN0t0NU9FRFQzNFFFSlRXUFVUOUxTQlZEZ2JKZnhnUkRyQ2FQNUZoMUs5cE1qYkd0Z0tYSGZNYTV3WThabGg0WDU3VHFFal80Qzg3X0R1d3pIanU5YXZjd3MtOG4tX3hwNFNMSGtRVDVZdE0ybGdSYTBnT1FPbXk4emI0Ug?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "KDS Ingatkan ASN Bayar Pajak dan Peduli Tetangga - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW1McHZwTzZpWFNuSFFBSjF1SVdNc3BkOFpxQlRDYTk3U3F0TFk2bll1dlNDOFRvVVZ6SG1ldDFOV0ozU1l1ZktxRG1aQ2FEY0NsS3FBUDJCVzliaTVkcWRoQXgyZFg0RURKZF9nSkxsUTE2cXNWUUJLMlYxVWlXWldnMjNpR0VEdU1uMllwblo4NzBtSVBlUUxHNFBlOXdN?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "RUU Kawasan Industri, DPR Dorong Hapus Batasan Usia Rekrutmen - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2NGREdYNDd6a2VpRVB6M0U2djVXZGo2MjJmNHA4WTlPVEIzOExvS0s5OVcyOHJ0ZGdueHJCVjVHZnhfdUllVWlLbGdWeVNHVGR2MHZRa00tdTBTazBRT24xcFdEd083cHRUTnNJRVZZN0JqVFdIWkVwcGxIenFIMmhXT2JuMm00VlV6U1o0ZUhZdVJBblR6Wk13M2FKdzBjMG9nLTNn?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
@@ -275,7 +275,7 @@
     ],
     "w": [
      4,
-     11,
+     12,
      2
     ]
    },
@@ -356,9 +356,9 @@
      1
     ],
     "w": [
-     3,
-     27,
-     12
+     2,
+     26,
+     11
     ]
    },
    "trend": {
@@ -377,7 +377,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0
     ],
     "g": [
@@ -385,7 +385,7 @@
      0,
      0,
      1,
-     2,
+     1,
      1,
      8
     ]

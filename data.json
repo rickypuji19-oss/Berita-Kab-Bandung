@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T17:09:20.879662+07:00",
+ "updated": "2026-10-07T18:07:59.996414+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,19 @@
   ],
   [
    "Ayo Bandung",
-   12
+   13
   ],
   [
    "RRI.co.id",
-   11
+   10
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   9
+  ],
+  [
+   "Koran Gala",
+   7
   ],
   [
    "Jurnal Soreang",
@@ -28,10 +32,6 @@
   ],
   [
    "Radio PRFM",
-   7
-  ],
-  [
-   "Koran Gala",
    6
   ],
   [
@@ -43,8 +43,16 @@
    5
   ],
   [
+   "Kompas.com",
+   5
+  ],
+  [
    "detikcom",
    5
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   4
   ],
   [
    "Radar Bandung",
@@ -52,14 +60,6 @@
   ],
   [
    "Bedanews",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
-   "Kompas.com",
    3
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Delapan Tahun Menanti, Irsyad Akhirnya Dapat Kursi Roda dari Wabup Bandung - Reformasi Aktual",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkFnZzhzNHphQzl3WF8yN2l2MXM4Z2MtNjFmSFBrYVFFbldQT01XWGtnTWRReWt4akQxdUxiY1ZCckRHNUxDcnlhRGFjaGhPSHg0RTRYUnREaGV6RVFoeDBzSUYwLWg3NDJlUXYyRTdOeENWUVlGalRScXRRb1dXcXVJUjFMN0JVcDR6RERJaHpTTnUtTEo0QWhsZ2xRN1d4clBzU3Zob25sVnM4TUFKeDFPZw?oc=5",
+     "r": "Reformasi Aktual"
+    },
+    {
+     "t": "Sosialisasi Corporate University ASN - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUk2MUZJekN0NUx5MzNTSHByR3lKWlpYZlpoTlZIc254YVpXeXZwU0UtTjR4N0pDQ3JJRHRwU2hjT0U2TGZ0R2hXdkxmUGc2cm9UXzNKNjMxN0NDRWN3eno1eERDOW0zRkhrRTQtR3U2R0VhS3ZOMm85VnNSeGVjZDJZRmtzcUhiV212TVo5S18xY2g0YzdFSzNR?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Pemkab Bandung dan KPK Wajibkan Seluruh ASN Ikuti E-Learning Integritas untuk Cegah Korupsi dan Pungli - Gerbang Patriot",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUZpTUJyeG9tWXNlam93M0pPX3o2ODhjTlJFZEdEZFJRYVhlMDBtM21GSlU4anVyLWxWZFZLSTVJODZTWk5TVUhVZFRCWmFNem05RUhHN2pZNVBvYmw0bUFrejNkc0s2SDhxcnlfZEc2cUd1QVBhbm9FemNNOHFKSWdiTlJUSnlJTlhSWEJsQlc1YnVXaVFFTXR5eFhWaDJMU0VLYmtEZEVHMEhIRTRpR01MV3laZEpiVi1xOTdZMG9CWWc2V0hkbWdfWVVSVDJteEJSR3pUQlM?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Lantik BPD Gununghalu dan Lembang, Jeje Minta Kawal Aspirasi dan Fokus Bangun Desa - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEx6OG9zRElnYmZtRHpUT3lhbHlyUzk4UzA4VzRfUTIxTmc3RUV3MmtySURERnB2UGhwbDdpYUYyckt6YmpMaURnZ05NVmR6RTh5VTJ2bVlZenRIa3Q3Rk5hTjVnRHU3eGFTRkN5d3JjNlNjbWZpcFdHLTM1dndNbTNqejB2SFl5NGlqckpnU0NuMkxTaDlnOFd3d19kLWxmUjljWGRBTElEQkdEVF9Ra0pzb0laTFFTOUtjNExITHZlZ9IBxwFBVV95cUxPNXdhOXpEUW5tZjYyVVlvSlB5ajlqVlQ0R1RVd1hVQ3RxSWFnYTVoVllVU3lsTG1IYmdGOTZ6QU9BS3F3X1E0c2JYcnNGYWVJWFpyalhfVjNNM1FYTnVEVUt1c1JQTDl0dVNZTlJKc0VWcWhGdk5WcjlrbmlkSUFiRUJ1SzZ2UVF6NFJWUUw5U1QyNW9Ma2t6bjhyTGpNZFlSY2lucm5YWm9lV003SjE3WHRxSGcxUnl3amFsUEd3elp0VVVPTWxr?oc=5",
-     "r": "Koran Gala"
-    },
-    {
-     "t": "Pemkab Bandung Tegaskan Penyelesaian PT BDS Tunggu Proses Hukum - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTVXY0JCbFFqcmhSMWNOLXpXcnpGNmYzTHVEdnNmbTNJYUFIaWNpVzNtOWUyQlFOR3VULXkydnpDME1jVVk0Wm5Lb1M0N0xzZVNvX2U0YzA0SkNibHdEdl8xLXpQaVRXdnhDU0JCRGxqYjZDTWJVaDgtMVRpUmhGSVVETnJWME9zcW1BdWFKSXNjbEt0?oc=5",
-     "r": "Inilahkoran.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     12,
-     28,
+     13,
+     27,
      3
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      9,
-     4
+     5
     ],
     "g": [
      0,
@@ -319,6 +319,12 @@
    ],
    "h": [
     {
+     "t": "Ajukan Eksepsi Tim Penasehat Hukum Taufik Hidayat Minta Perkara Dipindah ke PN Bandung - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdV9wUk84NDdFVGxvY282QUhDTTctSlk5dVVleDYyT3o1VmItMDF6M0k0RnBIRDJUZURFdlhJMFlZQlFrYUg1eFFiSjFPYXo1UzNsWF9lQXdzM045aXpUS29vMU9mWk9GbWpEdmlTQU5HS0xQbS1RUW1LbUIwYWF6UzJraXBnRWUtSzRMeWcwOW9pdWdNX0VJSDdVc2dNYUdQZ3RQZmExOFBkMmdRN0oxOHJXa1lwWC02RTBrNDdja3M1d3RTM3FB?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Viral Kafe di Katapang Bandung Dirusak, 3 Pelaku Ditangkap - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakRoNktKQ09QX3E4aG00NmtabjgxRUtyQzIxdmh0bFNBMTJXcU8tWjg4MFBPeWJZbHRLMmROdW1mc3R6WmNldkpzRmZ4VWlRVkp4b19lOWp3ejlWN1FIWnlidVpkQXpYVmpmSWVfcUpfOUR0ZVFFYkJCZURZaVdZNzVuYVdfOHBvYnNOcWt6UU9xQlVYMXNTallBX3ptOGY0Z2fSAacBQVVfeXFMTU1TNGJGZV84X2s1d2MzejZzQnAtUEVJQWhOTW9SbUppX0htUEJHdVFKX05tYld5R21kTE84MGljNVFLbGhXNF9yaUpwYk9BOU90cWtjMUFhMVQ3eDg2RUZmUF9ZaTFBUlMtUnVYZXdSWThERnpsSk00SzNKczJDUWo2cTBXbUFyYnByck9TVUk4azRUSE11cFBoa3FqYV94amtqUlN0Qk0?oc=5",
@@ -329,12 +335,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbU0tYkJVQWhzamZVeFBRY2RpTmtYNTBiWVZrZ0NmeUhMcFlnN0tQWlFxUF9ScU4teVktNWw4UDZVeG1DYldmT243M1RQa0E1ZFlqeG9ZU21rUmcyODROZlRpcHpUNmt4NENsb01pUlJNdG9KN3hndGo2S2lORVBTUXljZzljQURQd0ZrSjlsUV82X0sxbkJ4SHpjVEkyNGdzODNRdTFDMDZPWkY2eExzdm5CWFBucFl5YURBTGhMZDZWTktTeUhfT1ZGc2J3dzZzZmtzZ3pvb0tRVkRnR1RNSw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Viral Perusakan Kafe di Katapang Bandung, 3 Pemuda Jadi Tersangka - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU5Kdm5IQnp2YzdqUV9LMlpZRTFTWEhJbVR2S1hUX3BMZWg1S0pMX0d4V0lsTERjNHJNLWhPTENKX3JCQnJudXI2bWJENXZXcHZaSHpLMXNoWmxramtPQThzNE96emJURmo3QUV6bFlRamhUbVNNM2pVRkdxZHkzcGdHOU9TT0pKazE0cWRzQ2pieUQ5aDNMWkFjMzJKSGw4N243ejQxMVBkYzdJN0ZjelBhZzMydHVVUTVoeWtB0gHDAUFVX3lxTFBQTklCaHhIX1lld011VmJMbDc5V2xpNFh1dkdLTWVtSTFVNW9OR3dUdUcxZVRSM2tBXzE5Q2RrN0wyX2tObDFiaWtQQ2NaWFpLbkdrSUJxQ2hDMW5mUmdVVUlQbkc4aWV1bG5rbG5HS29jc3RJb0JTZUhwcXBtdUhuRHRQRXNoekw4TTNINmxMVXNFejV0NWRuZzZqZXh4UW93UXlGOGhJeFlFMl9yajZGdWk1Xzdyc3o5UVZzcTA4Qm1pRQ?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -357,8 +357,8 @@
     ],
     "w": [
      3,
-     26,
-     11
+     25,
+     12
     ]
    },
    "trend": {
@@ -387,7 +387,7 @@
      1,
      2,
      1,
-     7
+     8
     ]
    }
   },
@@ -401,22 +401,22 @@
    ],
    "h": [
     {
+     "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor, Ini Wilayahnya - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVFVUnBEZ1VCOFdhd09FMU5wZU1lZjZGQll5QVFuYXIzdlpWSlpaMDZucWgwcWEzMUIzcGlFakpUUi1HQ2hieWNmWVdBa09VWFlCemJwUmN4QmZaTEVEYUhzejlfY1Fia0E2Sjhwd1dBVEhOektnYndfT1lBZzBOR3E3ak5xc2Vja0d0ZzV2bi1SQnVQbEpsT3cyWmpzNFpTcE9TekFuZzM3N00tU1RZMmFscnA1dmV1Rkt3dTZQaHFsTDBMWFE?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir dan Longsor - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGJKN2RoUWpjemgzbHlfWl8yNTE0NE9tNVJxMDdxZlNpYUFyQUlTT3BndEJCX1FCTW9naEVIdnBEbkVSdUc5NmZvRVJvcFd4TWNsMGVGNTZiX2MxX2JaSHBwVFBXYVpCRjBzeFJnN1YwVzZuaGwzS1kzb3k1YjBORFU4cFlIOTY3Z29odm5OOTYxX01YNkRhSXhoelRmYmhESjUzeWtqNDTSAa4BQVVfeXFMT25TUTZBZUwtalp3MF9HYTZJQS0ybWx1VnBUUGJ2d3Z5NVhiemFIVFkySXBObFBickZETmRXWHY3dzhEQktNUm9IWkQtdnBpRTJtQ1ROdERrZ0NzSVJ2ZmRMcHdodDRmX18td0pXNTRtWmdsWHJneGZGWEhyLWdYR1BFMlhwWk95Y2RyRUd2clQwQV9TV2JKUVlzRndfZ3BUbGl3eGoxQ0x2Y3N5TmRn?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "DPRD Bandung Soroti Belum Adanya Rencana Induk Drainase, Penanganan Banjir Harus Libatkan Kabupaten Bandung hingga Jabar - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa0V2bEZjY0tCMWdDakJDMkZUeXVtVTcwaG1xTUpicWdYcEJjWTEwUWVEZ1BPN3R2dUpqVThwZXpBcVp0UzkyZktNek5oaHJfRHFWUGsyVzZIOHJjSzZ3bFRxV2Q1Z2FoeVFFVjQyN29rN3NFdEtVWENMVU9vbVhvOFVKZFpWS3pwRFdPbloxMzF3cGlSMWZKa0MzSlRJVHk4Wnh4SzNOdHRvRHEzQ08yRWV4czZOTElJU3V5YThzRmtoNV9OQVJlS0tZcUZRZEpTMVZHY3BYX2lCUnFsSFNFUktQQ2F0WXdJRGlkRzloYmlCcWo2em9Hd1M5MzB5S2pmNk9MX9IBhAJBVV95cUxQa0V2bEZjY0tCMWdDakJDMkZUeXVtVTcwaG1xTUpicWdYcEJjWTEwUWVEZ1BPN3R2dUpqVThwZXpBcVp0UzkyZktNek5oaHJfRHFWUGsyVzZIOHJjSzZ3bFRxV2Q1Z2FoeVFFVjQyN29rN3NFdEtVWENMVU9vbVhvOFVKZFpWS3pwRFdPbloxMzF3cGlSMWZKa0MzSlRJVHk4Wnh4SzNOdHRvRHEzQ08yRWV4czZOTElJU3V5YThzRmtoNV9OQVJlS0tZcUZRZEpTMVZHY3BYX2lCUnFsSFNFUktQQ2F0WXdJRGlkRzloYmlCcWo2em9Hd1M5MzB5S2pmNk9MXw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1JkWDN3Y3FuM1Q3MDJReEtvaWxtLTU2VWt1SmhZZ3JUbTJENFNLcF9xc281eEZRd3BFS0Fyd2EzVV9YM1lKdE5GaXZ5X2hQdE1YV0RqeWRReEplNVlWdTN5UzRfM0dUU3JZRnZqek9XYWc4S0Q5N3U2S3c0Tk1qLVF2alRZeml6WE9rMm1vRlpxS3dXdzBaMk8wanhHOE1DTjk3WThkSFQycXU3Tmp6ZjFEd2hkOWVRTG9LQ3IzRnM0Vjhia2Fwd0hyY3RmajhpQ0VPY0Z1M1Q2WWZBRmFaVFVnSk5yVXB1R2gyUUtqdzVPZUUwX1F5Y3prRjhPWmvSAYQCQVVfeXFMUGtFdmxGY2NLQjFnQ2pCQzJGVHl1bVU3MGhtcU1KYnFnWHBCY1kxMFFlRGdQTzd0dnVKalU4cGV6QXFadFM5MmZLTXpOaGhyX0RxVlBrMlc2SDhyY0s2d2xUcVdkNWdhaHlRRVY0MjdvazdzRXRLVVhDTFVPb21YbzhVSmRaVkt6cERXT25aMTMxd3BpUjFmSmtDM0pUSVR5OFp4eEszTnR0b0RxM0NPMkVleHM2TkxJSVN1eWE4c0ZraDVfTkFSZUtLWXFGUWRKUzFWR2NwWF9pQlJxbEhTRVJLUENhdFl3SURpZEc5aGJpQnFqNnpvR3dTOTMweUtqZjZPTF8?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Banjir Berulang, Warga Dayeuhkolot-Baleendah Siapkan Mitigasi Mandiri - Radar Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG0zOHVISkdlb3NsVFdEbjFsS1dObFl5TmoyRW04bHM2N0FJZjNUeTlRMmRqa21FeUVYZkZUdEUzU2pZOEpsS2pjazZwZkROeHpfaC1sVTRVTDJ3Q0FLa0RtUFBHMHROdW1KQ05GT1E5eGZnbnNSRERuUmROLXdZRXBJX2RFdmdzUndabXFWdkplTXdQX1ZGOE9uTnhFaHltUm1xd3FBQ0g3WFk3?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "Sempat Ditolak Warga, Pembangunan Sekolah Pengganti SDN 026 Bojongloa Bandung Mulai Berjalan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNWJLRTVxZ3RJWmoyN2ZwWmFRQk9PcWFoSkEzTnZTMGExV1p2UkJPTUNXSVFnY05zN3F2Z3dRSGw2OExwUDhISGdwWGFaU2JEakhUNU5iaXAzZ1ZZdE1fRFBicXdmOXpucmdFbDNZSGJjU3JNeW9XMGNGbHE1Q243ZDdTYzlnQ2F1YndyT0tKc19peXFBemRpYzBiMHZ3aFVSV0wzODZTYnoxWU5wVWNKWnZjN3NIWkRzc1JKXzF4YlJRSERxN2pTZ25EWWwtUVRWbEExZDF1RENZQQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
@@ -440,7 +440,7 @@
     "w": [
      2,
      8,
-     9
+     11
     ]
    },
    "trend": {
@@ -469,7 +469,7 @@
      1,
      2,
      1,
-     1
+     3
     ]
    }
   },

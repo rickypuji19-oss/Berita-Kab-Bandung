@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:14:38.938366+07:00",
+ "updated": "2026-10-07T10:20:01.689243+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,50 +8,34 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   24
   ],
   [
    "RRI.co.id",
-   14
+   10
   ],
   [
    "Ayo Bandung",
-   11
-  ],
-  [
-   "Radio PRFM",
-   8
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   8
+   10
   ],
   [
    "Jurnal Soreang",
-   7
+   6
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   6
   ],
   [
    "Galamedia News",
-   6
-  ],
-  [
-   "Kompas.com",
-   6
+   5
   ],
   [
    "Koran Gala",
-   5
-  ],
-  [
-   "Radar Bandung",
-   5
-  ],
-  [
-   "bandungraya.net",
    4
   ],
   [
-   "jabarekspres.com",
+   "Radar Bandung",
    4
   ],
   [
@@ -59,12 +43,28 @@
    4
   ],
   [
-   "Melansir",
+   "Radio PRFM",
+   4
+  ],
+  [
+   "jabarekspres.com",
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
+   "Pemerintah Kabupaten Bandung",
+   2
+  ],
+  [
+   "opininews.com",
+   2
+  ],
+  [
+   "bandungraya.net",
+   2
+  ],
+  [
+   "Bedanews",
+   2
   ]
  ],
  "topics": [
@@ -81,7 +81,7 @@
     {
      "t": "Korban PT BDS, Saklahsahiji Perumda Milik Pemkab Bandung, Ngontrog Bupati, Pemkab Nolak Tanggung Jawab - Galura - Galura",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMnVodWZsYnZPLUlfbUVMWWl0REIwbmYwY0dsRFk4NlFYdEFVV3Nrbi1WNy1DblRDZHR3UWc3ZWZSdkxiQzBBclVqRjFPVndxcFBNalNTczJTRzFRVXlMaHBHRVYxTEZRb1d5elM4clFXSkw3NGRuWjVkVHpILUh5V2M0VmRFN2JpY2V0LU9aTzloN29sYk5LYll1MGpQUGJidkhRSEU2Z1UyOXV4bTBQb0VramVFYlNES0RJdF9yN2RWWmJMb3JLNm1LSmpETjN4RzhIcnNwUEltSXZwUkNRMjIxQzNyd0xhVEkzU0FB0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMVRlTkJfTUR4cEhPUkdRenBpZUM0R2JDZ0hJSHE0aC00SDBvNm8zZWNxTzRrNHMzYzhHbXVpUnB5UW05SkJQTk1xaVE3aG5qZEtLOU5QQW5EM2tHbkVHNm1ZQWNROWR5VVNYcVR0ekljcEZaR05TQWk1OHNrZVNiVUVZd0NTbDVBOE9QZnJQU0oxTnVlU3BCNFhSYk9VVDB5dHdXOHhwd2VXZ2tMUEJ5OWp1R1lZeDlNbWpOeTBLOHE2WFk5Ylc4czRqRWZjQ1djOVhtSGw3RjNQMVJvZGNhRE41dzlPZ0dX0gHuAUFVX3lxTE0ydWh1Zmxidk8tSV9tRUxZaXREQjBuZjBjR2xEWTg2UVh0QVVXc2tuLVY3LUNuVENkdHdRZzdlZlJ2TGJDMEFyVWpGMU9Wd3FwUE1qU1NzMlNHMVFVeUxocEdFVjFMRlFvV3l6UzhyUVdKTDc0ZG5aNWRUekgtSHlXYzRWZEU3YmljZXQtT1pPOWg3b2xiTktiWXUwalBQYmJ2SFFIRTZnVTI5dXhtMFBvRWtqZUViU0RLREl0X3I3ZFZaYkxvcks2bUtKakROM3hHOEhyc3BQSW1JdnBSQ1EyMjFDM3J3TGFUSTNTQUE?oc=5",
      "r": "Galura"
     },
     {
@@ -91,10 +91,10 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Program E-Learning ASN Berintegritas: Upaya Pemkab Bandung dengan Menggandeng KPK untuk Tekan Potensi Korupsi - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOFpRSHlubWxnNWM2TEJrM2sxSEloTE5iZGpRTkpxNzhyNDFIelVoZ1hCWDB0QlNHekV6UW9SMmNPeUZjTEd2S25ZT0dIS0drdlNMd0p0LV9yVlJjUnVTckk0OU1ITjJYVTgwQlVjOHJDV2pJZGdzMnNtTmRQNzFwekF4eGE2dGtURTUzU2hnaEJKV3BnLWhYeEpXY19JZEkxbHp0b3pna080UnU5SVdzQ19lY3B0eHhrZ2MzOGxmbWswc2haTzYyVVZpWm9SNUdKOWFXN3pyc2ZpY3Fxekt6REdTT2ZpTWhfUTNGM1RFS0hRbFdOU01J?oc=5",
-     "r": "Galamedia News"
+     "t": "Implementasi Program E-Learning ASN Berintegritas - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5zOUttZVZudTNCMjg5RGJqd1VEMVJKV0VVQThELWkxX1pla3RXNXhKMFNieHptci1KUHFtMEpsZ1NLWG55cjJfeVI4a2ttNWpoTl9EUlNsQ3VkSmx6LVQ5NWxPalVGR3hNaVlkaHhVVDN1bzlNRzNIaDZMTnFwaUVzYVpKTXlNM1N3WGN3TFVoU2dneUFYQ2h4YkRGUm54UUFScEVGbGpyNEk?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     8,
-     31,
-     6
+     10,
+     19,
+     2
     ]
    },
    "trend": {
@@ -136,18 +136,18 @@
      0,
      0,
      0,
-     1,
-     8,
-     0
+     0,
+     10,
+     1
     ],
     "g": [
      0,
      0,
      0,
      0,
+     0,
      1,
-     3,
-     2
+     1
     ]
    }
   },
@@ -199,8 +199,8 @@
     ],
     "w": [
      1,
-     19,
-     1
+     11,
+     2
     ]
    },
    "trend": {
@@ -224,10 +224,10 @@
     ],
     "g": [
      0,
-     1,
      0,
      0,
      0,
+     2,
      0,
      0
     ]
@@ -250,7 +250,7 @@
     },
     {
      "t": "KDS Ingatkan ASN Bayar Pajak dan Peduli Tetangga - RRI.co.id",
-     "s": "neu",
+     "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW1McHZwTzZpWFNuSFFBSjF1SVdNc3BkOFpxQlRDYTk3U3F0TFk2bll1dlNDOFRvVVZ6SG1ldDFOV0ozU1l1ZktxRG1aQ2FEY0NsS3FBUDJCVzliaTVkcWRoQXgyZFg0RURKZF9nSkxsUTE2cXNWUUJLMlYxVWlXWldnMjNpR0VEdU1uMllwblo4NzBtSVBlUUxHNFBlOXdN?oc=5",
      "r": "RRI.co.id"
     },
@@ -274,9 +274,9 @@
      0
     ],
     "w": [
-     3,
-     13,
-     0
+     4,
+     10,
+     1
     ]
    },
    "trend": {
@@ -292,7 +292,7 @@
     "p": [
      0,
      1,
-     0,
+     1,
      0,
      1,
      1,
@@ -304,7 +304,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0
     ]
    }
@@ -356,9 +356,9 @@
      1
     ],
     "w": [
-     1,
-     24,
-     5
+     2,
+     23,
+     4
     ]
    },
    "trend": {
@@ -377,7 +377,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0
     ],
     "g": [
@@ -385,7 +385,7 @@
      0,
      0,
      0,
-     3,
+     2,
      1,
      1
     ]
@@ -425,22 +425,22 @@
      "r": "YouTube AZZAHRA VLOG"
     },
     {
-     "t": "#Travelling ke #Bandung lagi: #NasiPedesMertua yang banjir cabe!",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=UzeFDKSssCs",
-     "r": "YouTube jazzqual numpang memori"
+     "t": "Jalur Alternatif Banjir Cipicung via Jalan Situ Sipatahunan Baleendah Bandung #shorts #banjirbandung",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=AOT4Jrdyp8s",
+     "r": "YouTube Nesia Evergreen "
     }
    ],
    "v": {
     "s": [
      2,
      0,
-     3
+     2
     ],
     "w": [
      2,
-     11,
-     12
+     6,
+     8
     ]
    },
    "trend": {
@@ -464,9 +464,9 @@
     ],
     "g": [
      0,
-     6,
-     2,
      4,
+     2,
+     1,
      2,
      1,
      0
@@ -484,7 +484,7 @@
    "h": [
     {
      "t": "Peringati Maulid Nabi, Yayasan Darul Falah Assalyan Gandeng DPD PPSI Kab. Bandung Gelar Khitanan Massal - bandungraya.net",
-     "s": "neu",
+     "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDEwbXI3aVZBSjF6bE40TWlZa2pqOHZjUUhZdjMweklyZFRCeXVfNXR4MkZ4WWFFcGpMMi0wUWVCNkdfY1k5T3U5X0dPNDZzMzhaenVuME91dUs3bGpXUEg5am1oQU5ETmlydkhlNmZvWU1sbEtVQ2JDXzdiVkNtcjVxbzc1UHFob0Nod2paRXVQUFExVzJTc05ZTmtyVnBfbHB4RzluX0lkSVZCLU4xbFJTMEt2alc0eEE0d0RYTDhqTk5GM1FRcmFHOGpBQQ?oc=5",
      "r": "bandungraya.net"
     },
@@ -516,13 +516,13 @@
    "v": {
     "s": [
      0,
-     4,
+     3,
      1
     ],
     "w": [
-     6,
-     14,
-     4
+     4,
+     11,
+     3
     ]
    },
    "trend": {
@@ -536,17 +536,17 @@
      "Rab"
     ],
     "p": [
-     1,
+     0,
      0,
      1,
      0,
      2,
-     2,
-     0
+     0,
+     1
     ],
     "g": [
      0,
-     1,
+     0,
      1,
      0,
      1,

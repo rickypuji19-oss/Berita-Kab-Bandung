@@ -1,7 +1,8 @@
 {
- "updated": "2026-10-07T10:07:28.206961+07:00",
+ "updated": "2026-10-07T10:09:43.575440+07:00",
  "sources": [
-  "Google News RSS"
+  "Google News RSS",
+  "YouTube"
  ],
  "method": "model IndoRoBERTa, gratis",
  "topics": [
@@ -32,18 +33,30 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
      "r": "Galamedia News"
+    },
+    {
+     "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
+     "r": "YouTube RUANG JEJAK KASUS "
+    },
+    {
+     "t": "HANGTUAH BASKETBALL DAN PEMERINTAH KABUPATEN BANDUNG JAJAKI KOLABORASI STRATEGIS",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=LPiviJy-H-8",
+     "r": "YouTube Jangkar Media"
     }
    ],
    "v": {
     "s": [
-     0,
-     0,
+     1,
+     2,
      0
     ],
     "w": [
      8,
-     31,
-     7
+     32,
+     6
     ]
    },
    "trend": {
@@ -62,7 +75,7 @@
      0,
      0,
      1,
-     7,
+     8,
      0
     ],
     "g": [
@@ -70,7 +83,7 @@
      0,
      0,
      0,
-     3,
+     2,
      3,
      1
     ]
@@ -102,12 +115,24 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0FZQnoxR2RwbVk4bTJJcEFacE51dFl0amx6dUNJUktNekJIOThkejdzdEQyeVVyMlhJbk9HUV9yRDN3cHpYRFlhVDlJWmx3clM2NEpIemtQYmpiUy1aZFEwYjljNVNSbE1TZHNXWXVDemJvcG5WcGZZM01pOFo1aVNSRE04VEMtNFVJWlRGRXMtQktkTURkVHJWak1relFjSnNEUUxmTzRIdm1OU2RjRGpkQnphU3hZZXY2M19R?oc=5",
      "r": "jabarekspres.com"
+    },
+    {
+     "t": "Anggota DPRD Kab. Bandung Ketua Fraksi Demokrat H. Asep Ikhsan SE.S.Pd.MM., Ketua YPPGMI Stikindo",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=3DiJVePpMl8",
+     "r": "YouTube Ths Chanel TV "
+    },
+    {
+     "t": "Anggota DPRD Kab. Bandung Ketua Fraksi Demokrat H.Asep Ikhsan SE.S.Pd.MM., Ketua YPPGMI Ciparay",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=K3TtmUwL3m0",
+     "r": "YouTube Ths Chanel TV "
     }
    ],
    "v": {
     "s": [
      0,
-     0,
+     2,
      0
     ],
     "w": [
@@ -172,12 +197,18 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdXJueGt0aVRpRWhkazhMVHNCM3lDMEpfSUVXN1AtbWpIcXNkZ1NSX1drSzh0LUM3UXdEeDd1c215S1o1RkVnMEJuRU5OSWdIWGd6VzdoSXhsWU4tT1p4U0lWNHpKMHpaX1ZtZDdmMXQxQXMzQzVXNW10cU92eHl4cXhmSTFDT1R1SERrQ01xUTctdFpCenZkNjRfX2lHRlVHaHhoYXdpSUltbWkwTUk2bWxNaS1CbzdqWV9ZbTVuNk9nd9IBxwFBVV95cUxNNjZpeEtrM2cxU3d5bklhLTlLczh5T211Sjh0eWRFdk1WYzBKU1o5aVNZQmRPbDhBYzRXWmlqT3pJY1JuakdxUUhjWFpSUHhIOURINW0zRjdmclZNMkJTZUxMdWFPTHAtSzR3WWNaVHR2NWMtb21Ib0M4LW1lNy1DSXBzSFNFWklVeENCekd1SURUSjhtSjBnM3k5SzUzZ1BycDdZbzhMd2NOVVhEWko0R1Z3c0g4YjJhVVV6OXZkSlpJTkM1eTF3?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=eVu6AEZ2s-g",
+     "r": "YouTube Sandi Subara"
     }
    ],
    "v": {
     "s": [
      0,
-     0,
+     1,
      0
     ],
     "w": [
@@ -224,12 +255,25 @@
     "kejaksaan",
     "pungli"
    ],
-   "h": [],
+   "h": [
+    {
+     "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
+     "r": "YouTube RUANG JEJAK KASUS "
+    },
+    {
+     "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=V8c_64mnipc",
+     "r": "YouTube UTV Televisi Indonesia"
+    }
+   ],
    "v": {
     "s": [
      0,
-     0,
-     0
+     2,
+     1
     ],
     "w": [
      0,
@@ -257,7 +301,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
@@ -293,13 +337,25 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVVlZW5ONWU4aU1KbEVnODhNeU5lYTVmQXZwckNsNC02N3BUaGl5d0FXakJCT3g1UVJCQXd2VXpYUFllOTJzcEY2TTN4eGo4UXc0QWIzcXBGYXpZVDM3ZWRKSk04bXZLYzRRWVRxd2NsbUlSbmJUMmtHUlJWUUpMVmo5VG1IZ3paVFduRmVlWWxSQ18ydTh5NUQ1ME42VndSUDhfN0RvdzZSX3VueWJjbXh1ejI1UEdkS05R?oc=5",
      "r": "Pikiran Rakyat Koran"
+    },
+    {
+     "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=bTJJjKMHLwU",
+     "r": "YouTube AZZAHRA VLOG"
+    },
+    {
+     "t": "#Travelling ke #Bandung lagi: #NasiPedesMertua yang banjir cabe!",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=UzeFDKSssCs",
+     "r": "YouTube jazzqual numpang memori"
     }
    ],
    "v": {
     "s": [
+     2,
      0,
-     0,
-     0
+     3
     ],
     "w": [
      0,
@@ -318,9 +374,9 @@
      "Rab"
     ],
     "p": [
+     1,
      0,
-     0,
-     0,
+     1,
      0,
      0,
      0,
@@ -328,10 +384,10 @@
     ],
     "g": [
      0,
+     1,
      0,
-     0,
-     0,
-     0,
+     1,
+     1,
      0,
      0
     ]
@@ -363,13 +419,25 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUtkWnU2cFoyWGNBQ3dnQlZOdmdxOXZ1YUc0emFXcXl4RTJQY3ZVTGNSWUZTYlA0QmtKaHdVVnhoWW5pTEdWa2tzT3hwR1JzZEFTLTJ1UXhqdGZtcGpRUWFiSllNZGNiUDdCVlhqdEY5YVRUNmszMnV0dDFUMFVHSnFLQmNNc2NyRk9NRVczNjR4cWlrbmln?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=EnEPgz7iQTw",
+     "r": "YouTube pu_itjen"
+    },
+    {
+     "t": "belajar sambil bermain di Dinas Pemadam Kebakaran Kab. Bandung🤩",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=HlsMYsUaqNg",
+     "r": "YouTube TKIT PERSIS 443 AL-IKHLASH"
     }
    ],
    "v": {
     "s": [
      0,
-     0,
-     0
+     4,
+     1
     ],
     "w": [
      1,
@@ -399,7 +467,7 @@
     "g": [
      0,
      0,
-     0,
+     1,
      0,
      0,
      0,

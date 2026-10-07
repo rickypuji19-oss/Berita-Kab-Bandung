@@ -88,7 +88,7 @@ def youtube(q, key):
         "relevanceLanguage": "id", "publishedAfter": after, "key": key}).json()
     return [{"t": html.unescape(i["snippet"]["title"]), "x": html.unescape(i["snippet"]["description"])[:400],
              "u": "https://www.youtube.com/watch?v=" + i["id"]["videoId"],
-             "r": "YouTube " + html.unescape(i["snippet"]["channelTitle"]), "date": i["snippet"]["publishedAt"][:10]}
+             "r": "YouTube " + html.unescape(i["snippet"]["channelTitle"]), "date": i["snippet"]["publishedAt"][:10], "soc": True}
             for i in r.get("items", [])]
 
 
@@ -97,7 +97,7 @@ def x_posts(q, token):
                      headers={"Authorization": "Bearer " + token},
                      params={"query": f'"{q}" lang:id -is:retweet', "max_results": 30, "tweet.fields": "created_at"}).json()
     return [{"t": d["text"][:280], "x": "", "u": "https://x.com/i/web/status/" + d["id"], "r": "X",
-             "date": d["created_at"][:10]} for d in r.get("data", [])]
+             "date": d["created_at"][:10], "soc": True} for d in r.get("data", [])]
 
 
 def safe(fn, *a):
@@ -132,20 +132,29 @@ def label_claude(items):
 # ---------- Penilai gratis: model IndoRoBERTa + aturan tambahan ----------
 STRONG = re.compile(r"kabupaten bandung(?! barat)|kab\.? bandung(?! barat)|pemkab bandung(?! barat)|bupati bandung(?! barat)|kejari soreang|polresta bandung", re.I)
 WEAK = re.compile(r"soreang|baleendah|dayeuhkolot|banjaran|majalaya|ciparay|pangalengan|rancaekek|cileunyi|margahayu|katapang|cicalengka|bojongsoang|ciwidey|pasirjambu|kutawaringin|cangkuang|arjasari|pameungpeuk|paseh|kertasari|nagreg|cimenyan|cilengkrang|rancabali|margaasih|solokanjeruk|cimaung|cikancung", re.I)
-OTHER = re.compile(r"kota bandung|bandung barat|cimahi", re.I)
+OTHER = re.compile(r"kota bandung|bandung barat|\bcimahi|\bpurwakarta|jatiluhur|\bsubang|\bkarawang|\bsumedang|\bgarut|\bcianjur|tasikmalaya|\bbekasi|\bbogor|\bjakarta|\bdepok|\bcirebon|majalengka|indramayu|sukabumi|\bkuningan|\bciamis|pangandaran|\bbanjar\b", re.I)
+IDIOM = re.compile(r"banjir (cabe|cabai|diskon|promo|pujian|bonus|hadiah|order|pesanan|likes?|komentar|penonton)", re.I)
+LABEL_VER = 2  # naikkan angka ini untuk memaksa semua berita dinilai ulang
 NEG_CUE = re.compile(r"korupsi|tersangka|ditangkap|ditahan|tewas|meninggal|banjir|longsor|kecelakaan|pungli|protes|demo\b|keluhkan|mengeluh|rusak|macet|kebakaran|ricuh|penipuan|dugaan|kritik|kemiskinan", re.I)
 POS_CUE = re.compile(r"apresiasi|penghargaan|prestasi|juara|meningkat|sukses|diresmikan|meresmikan|berhasil|inovasi|terbaik|dukung|lancar|pulih", re.I)
 _clf = None
 
 
 def is_rel(it):
-    text = it["t"] + " " + it["x"]
-    if STRONG.search(text):
+    """Apakah benar-benar tentang Kabupaten Bandung (bukan Kota Bandung, Bandung Barat, atau daerah lain)."""
+    t, x = it["t"], it["x"]
+    if STRONG.search(t):
         return True
-    if WEAK.search(text):
-        return not OTHER.search(text)
-    # tanpa isi artikel: percayai kata kunci pencarian, kecuali jelas menyebut wilayah lain
-    return not it["x"] and not OTHER.search(text)
+    if OTHER.search(t):
+        return False
+    if WEAK.search(t):
+        return True
+    if it.get("soc"):  # media sosial: wajib ada penanda wilayah di judul/deskripsi
+        return bool(STRONG.search(x) or WEAK.search(x)) and not OTHER.search(x)
+    if x:  # berita dengan isi artikel: Kab. Bandung harus lebih dominan daripada wilayah lain
+        n = len(STRONG.findall(x)) + len(WEAK.findall(x))
+        return n >= 2 and len(OTHER.findall(x)) <= n
+    return True  # tanpa isi artikel: percayai kata kunci pencarian
 
 
 def label_local(items):
@@ -160,7 +169,8 @@ def label_local(items):
         l = res["label"].lower()
         s = "pos" if ("pos" in l or l == "label_0") else "neg" if ("neg" in l or l == "label_2") else "neu"
         if s == "neu":  # judul berita cenderung dianggap netral oleh model; pakai kata penanda
-            n, p = len(NEG_CUE.findall(it["t"])), len(POS_CUE.findall(it["t"]))
+            tt = IDIOM.sub("", it["t"])
+            n, p = len(NEG_CUE.findall(tt)), len(POS_CUE.findall(tt))
             s = "neg" if n > p else "pos" if p > n else "neu"
         it["s"], it["rel"] = s, is_rel(it)
 
@@ -189,6 +199,8 @@ def agg(items, days, limit):
 
 def main():
     cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
+    if cache.get("ver") != LABEL_VER:  # aturan penilaian berubah: buang hasil lama
+        cache = {"ver": LABEL_VER}
     labels, social = cache.setdefault("labels", {}), cache.setdefault("social", {})
     now = dt.datetime.now(WIB)
     days = [now.date() - dt.timedelta(days=6 - i) for i in range(7)]

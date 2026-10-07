@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T04:08:40.748411+07:00",
+ "updated": "2026-10-08T05:06:04.114828+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Sidang Taufik Hidayat, Kuasa Hukum Persoalkan Kewenangan PN Bale Bandung - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUFma3lGWUM0cjVWUjdsU01kaXhTbDFyTHFHRXJLVHZ5OEtSckxjNXhWbUV5aHdLOHFwMnhPUWVzbFRNSjQtbURMWnpJLUktM3dtdHk5MjBEeWpNc0Z3NXRwQkJzTVNZdzgtcEg4d1RKQXFVZ3NKaE1jREk5VlJrNDE5NVdsUlpvbGJHMjllLWdmU3J0SkY4b3JiN2VjX1Q4UVRhbm1IY3loZlVtMGV0TUl0UnFaWjZTaFUwMGdPR0xkZw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Polresta Bandung Bongkar Penyalahgunaan LPG 3 Kg yang Produksi 960 Tabung Portable Tiap Hari - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOUtKc05UX1pxM1dCQzhMbDVOTFNFX1hoVkFNbHVfOTRjVmctMDduRGxKemJ5eHV2b2pmcE5BeVN5N2lMTzk4dHlFaUxjV0NkVXJoZllMZm15azBNLUVGRWoyd1RFTWlTQ1lBWFJ0VG1INEM1UzJwN3VLZ0RuLUpUeEZ0QlczZUFZX3NfQWpFSUhSX0F1OGJNakItaUZHT2c5OUdxUFI0UjY4MEI0OXQ1c1FicVoyajVvQXpPX2htZjA0LTJJbFpTTU1iX3hVLTl0cnJWb1RWRlRRYjBYbzJ6T3k4WjFKN1IzbkVFQk5LMWjSAfABQVVfeXFMUDlLSnNOVF9acTNXQkM4TGw1TkxTRV9YaFZBTWx1Xzk0Y1ZnLTA3bkRsSnpieXh1dm9qZnBOQXlTeTdpTE85OHR5RWlMY1dDZFVyaGZZTGZteWswTS1FRkVqMndURU1pU0NZQVhSdFRtSDRDNVMycDd1S2dEbi1KVHhGdEJXM2VBWV9zX0FqRUlIUl9BdThiTWpCLWlGR09nOTlHcVBSNFI2ODBCNDl0NXNRYnFaMmo1b0F6T19obWYwNC0ySWxaU01NYl94VS05dHJyVm9UVkZUUWIwWG8yek95OFoxSjdSM25FRUJOSzFo?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWXVOVDhNdndIcld6N3pJUTQ3aEw4X1Z1aDJUeV9Odkp1bVk4b3RjeEVnMTNUYkphcGM3NVd1dEMwWXEwVlBRTk9MUVV0UllaTE4tcjJxVE5zQ3liN1lUWVhwQUJJRVB0NUtMZVpoRm8xbWJMZ1EwRGk1NUgzTGZ2ZzFGU3BRNm5JcFRBaEdNbWdtRWlURHdva2hVUUtCSnJiVlVrTUFCeVp4WVhzcUVvX1V0cndnYklnUmJOaERjd2JaTkh3YjBHWHdlazNrQVRSOHdlTjcxMFFHX1BKTkJwbFkxdHY4M3hEV0HSAe8BQVVfeXFMT1MxcEdGOERYYV9QYTJnQU9Gcm4tQnRmZWo5Uk5JbVM1dHhmUjlJbzE4WTN4UDdTcjA0SXFMT0lleExFQ2IwWmQ4Mmt6NkdpTF9oQXc3Y3pXTTl3SGFYSllGT2FCVVVQS3dnZVR2RzItMUZXdEZRS015R1cyUGxBMEt2a2V3aEtQakFHdHp6b0VGMlZBQ09yUlJ4dk5XeHdjaEhCT0IyMVBkMlZuTXE1dHFpYXg5UnRZcVRuVnQ0NmEyNW5Jcnl0dGdBTXUxUzNDYnVZOWFjRDdBZXNLSWlDRTk0WjlIS0c4c2ZnQjRHOEE?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Ajukan Eksepsi Tim Penasehat Hukum Taufik Hidayat Minta Perkara Dipindah ke PN Bandung - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdV9wUk84NDdFVGxvY282QUhDTTctSlk5dVVleDYyT3o1VmItMDF6M0k0RnBIRDJUZURFdlhJMFlZQlFrYUg1eFFiSjFPYXo1UzNsWF9lQXdzM045aXpUS29vMU9mWk9GbWpEdmlTQU5HS0xQbS1RUW1LbUIwYWF6UzJraXBnRWUtSzRMeWcwOW9pdWdNX0VJSDdVc2dNYUdQZ3RQZmExOFBkMmdRN0oxOHJXa1lwWC02RTBrNDdja3M1d3RTM3FB?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -389,9 +389,15 @@
    ],
    "h": [
     {
+     "t": "Musim Hujan Bandung, 8 Desa Rawan Longsor dan Banjir Bandang Jadi Perhatian - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0k0bkg0MURBTHVERG84SWhGT0s2LW1nQnY2cThrQV85VFpPY3ZIR2hXcHhxM2pzOUJsUzlJRDE2Y190WEVrcjBKeVltR2NKZjg5OHhXZGIyR1lPNUw1OGc1RFl6azd2R1lYNS1qeVAyR3VTRUE4RWR6TnRIU0dVTjdrREtoNlh6YlVtanZ5a2hiUjNfV2FBbzllbzJPSVM2Q20zbDNQVDV3UjZFNEpqVXNiQjZnOXotLW5sVXgxaVhPcVdvZlE?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor, Ini Wilayahnya - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVFVUnBEZ1VCOFdhd09FMU5wZU1lZjZGQll5QVFuYXIzdlpWSlpaMDZucWgwcWEzMUIzcGlFakpUUi1HQ2hieWNmWVdBa09VWFlCemJwUmN4QmZaTEVEYUhzejlfY1Fia0E2Sjhwd1dBVEhOektnYndfT1lBZzBOR3E3ak5xc2Vja0d0ZzV2bi1SQnVQbEpsT3cyWmpzNFpTcE9TekFuZzM3N00tU1RZMmFscnA1dmV1Rkt3dTZQaHFsTDBMWFE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGRRZEg5STNpeFA5UjlWYTNZZlBZck41REd4bEdXZ0tlWUlyTVJRRGNreFdHbmNlcFhhSUxSNGtrYzdEaGE1V20tWG8tNU9naFZKV1FMcVRBazJmYnAwaTh4TnVzdDNaVFpQeWE3V3pXZ3Jmb0pfMnRHSjRFRmN2NHBnd3F3TnZMcVg2OUljODdHMmNYY0RLWnhDQUNFeWZneHo1U0JUeWNnaEc4am9QblFDVHh1ZTdsbjFvRFZpTlJSeDJxeHFMUndhdGg0dmZYWU00NnNmbVYxRWZBSXZqdUpraw?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGJKN2RoUWpjemgzbHlfWl8yNTE0NE9tNVJxMDdxZlNpYUFyQUlTT3BndEJCX1FCTW9naEVIdnBEbkVSdUc5NmZvRVJvcFd4TWNsMGVGNTZiX2MxX2JaSHBwVFBXYVpCRjBzeFJnN1YwVzZuaGwzS1kzb3k1YjBORFU4cFlIOTY3Z29odm5OOTYxX01YNkRhSXhoelRmYmhESjUzeWtqNDTSAa4BQVVfeXFMT25TUTZBZUwtalp3MF9HYTZJQS0ybWx1VnBUUGJ2d3Z5NVhiemFIVFkySXBObFBickZETmRXWHY3dzhEQktNUm9IWkQtdnBpRTJtQ1ROdERrZ0NzSVJ2ZmRMcHdodDRmX18td0pXNTRtWmdsWHJneGZGWEhyLWdYR1BFMlhwWk95Y2RyRUd2clQwQV9TV2JKUVlzRndfZ3BUbGl3eGoxQ0x2Y3N5TmRn?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "DPRD Bandung Soroti Belum Adanya Rencana Induk Drainase, Penanganan Banjir Harus Libatkan Kabupaten Bandung hingga Jabar - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1JkWDN3Y3FuM1Q3MDJReEtvaWxtLTU2VWt1SmhZZ3JUbTJENFNLcF9xc281eEZRd3BFS0Fyd2EzVV9YM1lKdE5GaXZ5X2hQdE1YV0RqeWRReEplNVlWdTN5UzRfM0dUU3JZRnZqek9XYWc4S0Q5N3U2S3c0Tk1qLVF2alRZeml6WE9rMm1vRlpxS3dXdzBaMk8wanhHOE1DTjk3WThkSFQycXU3Tmp6ZjFEd2hkOWVRTG9LQ3IzRnM0Vjhia2Fwd0hyY3RmajhpQ0VPY0Z1M1Q2WWZBRmFaVFVnSk5yVXB1R2gyUUtqdzVPZUUwX1F5Y3prRjhPWmvSAYQCQVVfeXFMUGtFdmxGY2NLQjFnQ2pCQzJGVHl1bVU3MGhtcU1KYnFnWHBCY1kxMFFlRGdQTzd0dnVKalU4cGV6QXFadFM5MmZLTXpOaGhyX0RxVlBrMlc2SDhyY0s2d2xUcVdkNWdhaHlRRVY0MjdvazdzRXRLVVhDTFVPb21YbzhVSmRaVkt6cERXT25aMTMxd3BpUjFmSmtDM0pUSVR5OFp4eEszTnR0b0RxM0NPMkVleHM2TkxJSVN1eWE4c0ZraDVfTkFSZUtLWXFGUWRKUzFWR2NwWF9pQlJxbEhTRVJLUENhdFl3SURpZEc5aGJpQnFqNnpvR3dTOTMweUtqZjZPTF8?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -428,7 +428,7 @@
     "w": [
      2,
      8,
-     10
+     11
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      2,
      1,
      3,
-     0
+     1
     ]
    }
   },
@@ -508,7 +508,7 @@
      1
     ],
     "w": [
-     4,
+     3,
      11,
      2
     ]
@@ -525,7 +525,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      2,
      0,

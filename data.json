@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:07:07.410592+07:00",
+ "updated": "2026-10-08T10:07:28.327820+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    26
   ],
   [
-   "Ayo Bandung",
+   "RRI.co.id",
    13
   ],
   [
-   "RRI.co.id",
-   12
+   "Ayo Bandung",
+   13
   ],
   [
    "ANTARA News Jawa Barat",
@@ -39,7 +39,7 @@
    7
   ],
   [
-   "Jurnal Soreang",
+   "Pemerintah Kabupaten Bandung",
    6
   ],
   [
@@ -52,18 +52,18 @@
   ],
   [
    "detikcom",
+   6
+  ],
+  [
+   "Jurnal Soreang",
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Radar Bandung",
    4
   ],
   [
    "Antarwaktu.com",
-   3
-  ],
-  [
-   "Radar Bandung",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Layanan Jemput Bola Pelayanan Adminduk Desa Babakan Peuteuy - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTNaSmZwTk5XMTctSDRyZlR6T05iak55Njd4WUxsWC0xNUVVczRmSzRIRHd6ODV5Y283LVRrRXZ1NXo4U2Ffb0ZMalRhNnByeFZDZVVKd2I3OGRTWEk1TGV5dHp4akJwRDdCcXdMZmllWjdUQkIzclVDMVQ3UUNULUtTWVFGcHIxaW5XVWVyMXhWTmdvUUMybVdkUXNIeHVWc0xaRkVwX29RYkxlYVZLejFHWlQwMUwy?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Kapolresta Bandung Kombes Pol Suhartono Akan Terapkan Konsep Jawara - Antarwaktu.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHVPWGFFTUZqUjgteFlNTVhMR0lDalUtZ2VMVXNQOVltZHBqVkVvY0VKNWtvM295dzBXMWRqZDN1cV9LMjZ5QmtLZFZPalNzcHJUTDJxX3IwaHhtTHRDTFZfbzA1ZGNtQnczUDc2VmVfbEg3RnNrRnc2T25MYnNtM2ZEdk9Xb0wtVlFER19WWktPUGJkemdKbHM4Snc3N1MyLTYyNw?oc=5",
      "r": "Antarwaktu.com"
     },
     {
-     "t": "Pemkab Bandung dan Polresta Bandung Perkuat Sinergi Jaga Harkamtibmas - jurnalpolisi.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQay1selVyaDZuZDJmZkpIWk05ZWt5S3ZZbHc2OVRCcndsc0k0UHZNVUk4LThyamZGSzhuTmI4MHpucW5OUnJGNWhKdERLSm1VYWVKWU41anl6R2tITmNpbXp3MWctZnJTVElxbTJDRjFlTWwyVWo4MXk4dU9DZGdPbDYtaDJJcnQ2MlNLVmRYb1pjemFVT2RmdnVHWUw4dw?oc=5",
-     "r": "jurnalpolisi.co.id"
-    },
-    {
-     "t": "Bupati Bandung Dadang Supriatna: Integritas Menjadi Fondasi Dalam Penyelenggaraan Pemerintahan - Antarwaktu.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1JXS3pYNmNUSGV3ZEh2ZjVfSk00SEE5YjZCVjVPSG5hUllGdFAxZGlJb1FwUnIxTXRRaGFkT0wzU25SQy1HcHRDdkdEN2Ztd2ZpRTRUMFZrY0dyTVFzU2JhNVVENnh4TE1rdEVUNjU0RzNnR0hUd1RpWFVJT25XVDd6SXhxNDlpOFZhbUd2c1NldUZIRW1fTUxHclFVNEdmb3U3ZzRhMkJUZklpTklxMUZNSnltdzFQYlhwS1pYVHBmZ3JrU1Rv?oc=5",
-     "r": "Antarwaktu.com"
+     "t": "Bukti Kelulusan SPMB Tahun 2026 an. HABIBAH QIDZAMA ATHAYA ( 3143047941 ) - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82LXJ3ZmdnYTdSWXpRX2UzMHdpVXhnS2dxSW1SSkRQQ0htMEN4eU9pN2tnVU9vNlhVYlpNVnFkMlJDQnpiQWZzN1FCTmlpLXF4aTEycE5Qa1lNNmJXNVZqNGVBT3p6OE5IWnRJd1RSZnlxSWR1MXJSYQ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     34,
+     33,
      3
     ]
    },
@@ -136,9 +136,9 @@
      0,
      0,
      0,
-     4,
+     3,
      7,
-     0
+     1
     ],
     "g": [
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      4,
-     12,
+     13,
      2
     ]
    },
@@ -307,9 +307,15 @@
    ],
    "h": [
     {
+     "t": "Upaya Taufik Hidayat 'Melawan' Dakwaan dan Persoalan Lokasi Sidang - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGVuZVp0Q1p0WTJKRV8tNUgzczlEN1lhM2lVYng3VWNBU2x2WldDMXp2S01hTW9tMUZ2N3RwbXdMZm5jTlg5U19CelFqTC1ORmpsSDN2UkhUNnVUV0VmOUFhZGl3MDdVR1ZrQ0t5RU12NmFvdkNUdzZlUHJnd0lRUGVPaXVwNHAyMnl1OEoxc21RZlkyZFlWZEppbXVRTEFFZXlvVGRaakFXRTByZ1RQVVdMckJ5X1RWOTZCcFJn0gHDAUFVX3lxTE1Wb3FjOUNzLWk2NGh1N1NFamd5eVFpQUFyS25kUDJDcDRHd2k4NXk2WmNTeWgzT0JhU002Mm5rSktZSUpWMmthU0Z5MlBxQTJqTmIya1AtN2o5dDE2N1BmVEtxVFlKaGJkUDNjTTdWZkVrSE1UN19JYVZKYlJxQTlUV3F0REZVQXFIb0ZYaFM5aGFWUGRuVFYtNkpmTEJ4NzUxb0JDVzhLNmxvUTY0OXo0blBabDkyeWczbnlIQkZVZmo2MA?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Polresta Bandung Ungkap Praktik Pengoplosan LPG Subsidi - Warta Pontianak",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhiZm1ycFdXN1ZIZ2hUMHYzLWdfVDlOTW5CNFJ4dEFfT21tNUE4eWVGejhTRzNWM3BZN1JvSVpZMENENy1LTmlVNi1QaWtXY0ZtTmYwWkRZQXh0a3JjRG5aTllHRkhGeWNWMXJOdWFPNkdZZmxhS3RzdWh3ckxrRVktS2NaYUdyUjRQdEhNNGVVbTlENUVBalBCLWwxT3RxR2Q1YWNmNS1GeGI5dm91U0MydWpPellWMlZxM2FB?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhiZm1ycFdXN1ZIZ2hUMHYzLWdfVDlOTW5CNFJ4dEFfT21tNUE4eWVGejhTRzNWM3BZN1JvSVpZMENENy1LTmlVNi1QaWtXY0ZtTmYwWkRZQXh0a3JjRG5aTllHRkhGeWNWMXJOdWFPNkdZZmxhS3RzdWh3ckxrRVktS2NaYUdyUjRQdEhNNGVVbTlENUVBalBCLWwxT3RxR2Q1YWNmNS1GeGI5dm91U0MydWpPellWMlZxM2FB0gHDAUFVX3lxTE90aEVTWkFNRHYxV1luLWc3OHU2SndZZXRnSE1qcDZFVndlSEtuYlVoTFhscVhMQnpQSzhYRTVaSmdXMkhWY19pX2xPS1F1OVl5Y2tpOVRfNURRc3NUYzRqWEJZOFlRQUxqSDJoRUk1VnFGWjZVb3hfcHdISllVY0tUMzI5VnFzWUZWNGdqczBiM0t6ZUZpRFdPM1pFLV9aOTBXRjBoRTJDU3g3MXo2SmVGTVVKaEtVQVhZQVZUcDI5aDNaVQ?oc=5",
      "r": "Warta Pontianak"
     },
     {
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUFma3lGWUM0cjVWUjdsU01kaXhTbDFyTHFHRXJLVHZ5OEtSckxjNXhWbUV5aHdLOHFwMnhPUWVzbFRNSjQtbURMWnpJLUktM3dtdHk5MjBEeWpNc0Z3NXRwQkJzTVNZdzgtcEg4d1RKQXFVZ3NKaE1jREk5VlJrNDE5NVdsUlpvbGJHMjllLWdmU3J0SkY4b3JiN2VjX1Q4UVRhbm1IY3loZlVtMGV0TUl0UnFaWjZTaFUwMGdPR0xkZw?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Polresta Bandung Bongkar Penyalahgunaan LPG 3 Kg yang Produksi 960 Tabung Portable Tiap Hari - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOUtKc05UX1pxM1dCQzhMbDVOTFNFX1hoVkFNbHVfOTRjVmctMDduRGxKemJ5eHV2b2pmcE5BeVN5N2lMTzk4dHlFaUxjV0NkVXJoZllMZm15azBNLUVGRWoyd1RFTWlTQ1lBWFJ0VG1INEM1UzJwN3VLZ0RuLUpUeEZ0QlczZUFZX3NfQWpFSUhSX0F1OGJNakItaUZHT2c5OUdxUFI0UjY4MEI0OXQ1c1FicVoyajVvQXpPX2htZjA0LTJJbFpTTU1iX3hVLTl0cnJWb1RWRlRRYjBYbzJ6T3k4WjFKN1IzbkVFQk5LMWjSAfABQVVfeXFMUDlLSnNOVF9acTNXQkM4TGw1TkxTRV9YaFZBTWx1Xzk0Y1ZnLTA3bkRsSnpieXh1dm9qZnBOQXlTeTdpTE85OHR5RWlMY1dDZFVyaGZZTGZteWswTS1FRkVqMndURU1pU0NZQVhSdFRtSDRDNVMycDd1S2dEbi1KVHhGdEJXM2VBWV9zX0FqRUlIUl9BdThiTWpCLWlGR09nOTlHcVBSNFI2ODBCNDl0NXNRYnFaMmo1b0F6T19obWYwNC0ySWxaU01NYl94VS05dHJyVm9UVkZUUWIwWG8yek95OFoxSjdSM25FRUJOSzFo?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -344,8 +344,8 @@
      0
     ],
     "w": [
-     0,
-     29,
+     1,
+     30,
      11
     ]
    },
@@ -364,7 +364,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0
     ],
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     12,
+     11,
      2
     ]
    },

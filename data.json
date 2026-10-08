@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:07:28.327820+07:00",
+ "updated": "2026-10-08T11:07:40.651642+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,12 +23,8 @@
    9
   ],
   [
-   "Galamedia News",
-   7
-  ],
-  [
    "PPID Kab. Bandung",
-   7
+   8
   ],
   [
    "Koran Gala",
@@ -39,7 +35,7 @@
    7
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Jurnal Soreang",
    6
   ],
   [
@@ -55,7 +51,11 @@
    6
   ],
   [
-   "Jurnal Soreang",
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
+   "Galamedia News",
    5
   ],
   [
@@ -63,7 +63,7 @@
    4
   ],
   [
-   "Antarwaktu.com",
+   "Giwangkara",
    3
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Kapolresta Bandung Kombes Pol Suhartono Akan Terapkan Konsep Jawara - Antarwaktu.com",
+     "t": "Surat Perintah Mulai Kerja Dinas Perpustakaan dan Arsip Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHVPWGFFTUZqUjgteFlNTVhMR0lDalUtZ2VMVXNQOVltZHBqVkVvY0VKNWtvM295dzBXMWRqZDN1cV9LMjZ5QmtLZFZPalNzcHJUTDJxX3IwaHhtTHRDTFZfbzA1ZGNtQnczUDc2VmVfbEg3RnNrRnc2T25MYnNtM2ZEdk9Xb0wtVlFER19WWktPUGJkemdKbHM4Snc3N1MyLTYyNw?oc=5",
-     "r": "Antarwaktu.com"
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUm5fb0x4NUNQWVk2QlNzOTFlNm5ETHZrSUhyQzNkV2JJdUZzcWhIckxJVkZsTXEwY0lYcF9KWXpoVzc0NHlNQzhZbmlJTFJGR2tqdU5nMVFIbzl6dHdLWHBkS3lfUFZxd3psbXNNRXFtMEt5UVNodWU3QUpkbFZXUUx3blBZd3lKUks2TTRWSjRTLVFYbWZ5M1NUd251c21WRXpvc3JNVlo4bGRNMlZ3UzhVRlFGZWduUFZ5TTN5Q3Y2WVZTNTlNekk2T3FsUzlLM0stc3I1OExyZw?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Bukti Kelulusan SPMB Tahun 2026 an. HABIBAH QIDZAMA ATHAYA ( 3143047941 ) - Pemerintah Kabupaten Bandung",
+     "t": "Rakor Kepala Daerah se-Jawa Barat Bahas Perlindungan Pekerja Rentan hingga Layanan Kesehatan - Giwangkara - Giwangkara",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82LXJ3ZmdnYTdSWXpRX2UzMHdpVXhnS2dxSW1SSkRQQ0htMEN4eU9pN2tnVU9vNlhVYlpNVnFkMlJDQnpiQWZzN1FCTmlpLXF4aTEycE5Qa1lNNmJXNVZqNGVBT3p6OE5IWnRJd1RSZnlxSWR1MXJSYQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVFo2eU1FS0xYN1Y0b1RBWXR6UTZRV0lPUmhkaEpaZWtrRkFmTzJSVDdTRHJXQ3BxTGh2Njd4bmx2bzV2ZW85N2swaG4zTF9pQkhaeHdpWF8xUHA5cVB2NGN3UmpJbnlFbEhjYnVWYXVvNlA5c2VTdUJ1T3hfUkt5ajJPaExmUjVXOFRTWWZCeTZ2aHVYZ0RucUFtUXh4Zm1CdTBuN2VXWS1xN091Q3EwVVQ1bm5ab1BZdTlrNjNFdVlGN0dVdDVEZElOcGczbDBGeXJhbkJ30gHbAUFVX3lxTFBPa1hfalpQak1NSHo1YWhTQzFPQjFHb1E0NWg1VEZwTG5kLUo5YkkxekRwNllQWjZteHVZWFVJNDY1akpfek11LVlCM3ViZjJ4cEF4MHhJVF9reGhpRTltN2xyUlJ1a0ZlN0JTZFNNNXB2Wl8tVlBZX2xrdHA1ZHg3anVQek00RjlTOW5JMmFWMVdMTXhXdUNiZWtKUHlNMHdZMGtxZGUzVjlITGp4WFdiLV9ReVNxWExReko1SjNseGhhelpWMWc3VVVheF8tWlVyZmpuZVhqODhhWQ?oc=5",
+     "r": "Giwangkara"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     30,
+     29,
      11
     ]
    },

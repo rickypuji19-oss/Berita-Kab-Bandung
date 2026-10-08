@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:09:21.533148+07:00",
+ "updated": "2026-10-08T14:10:51.742086+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    27
   ],
   [
-   "RRI.co.id",
+   "Ayo Bandung",
    13
   ],
   [
-   "Ayo Bandung",
-   13
+   "RRI.co.id",
+   12
   ],
   [
    "ANTARA News Jawa Barat",
@@ -79,16 +79,16 @@
    ],
    "h": [
     {
+     "t": "Rohto Bagikan 2.000 Kacamata Gratis, Sasar Pelajar hingga Lansia - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFYwbG9Fa2xVclRDTjZtTFpsZkliUzFNZ2xhV1ZmcGVtS3V3TTByVGNDb3JBZTdwWDBMZ3dqeFZINi1OWFp6ajZRRnZib0Q1S0RQTzBkN3E4ZWVkQ3d6dDd2SFJFbUp4S09wZHVlUXFDaW92amtla3BtMXNzbHFPZFVRaGxhOHJmblNZLUthWHRuTTJIdV9HdnRHTGozdHJUVEFpUTVvTHrSAa4BQVVfeXFMTVQzSlQxNFZjUFlQNVlybC1xTHlHMnlvT1R4NDE3eTloQ1FIZWppTThOQVQtLVE0SjFnbzhjbmNrWEcxSjFfNlAxTFN4NUh6U3dCdjBRM1E0NVozVmJSOXVXODExOE1VazVvWmNvNEV6bkFZR29tMllYXzZvbXhXUkpTV1lScjhBYk5FMmU5WHlPMl9aVnY5UjU4RGhnczh6MUZXTlpiQi1XTTJXanNB?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Layanan Jemput Bola Pelayanan Adminduk Desa Babakan Peuteuy - Pemerintah Kabupaten Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTNaSmZwTk5XMTctSDRyZlR6T05iak55Njd4WUxsWC0xNUVVczRmSzRIRHd6ODV5Y283LVRrRXZ1NXo4U2Ffb0ZMalRhNnByeFZDZVVKd2I3OGRTWEk1TGV5dHp4akJwRDdCcXdMZmllWjdUQkIzclVDMVQ3UUNULUtTWVFGcHIxaW5XVWVyMXhWTmdvUUMybVdkUXNIeHVWc0xaRkVwX29RYkxlYVZLejFHWlQwMUwy?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Surat Perintah Mulai Kerja Dinas Perpustakaan dan Arsip Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUm5fb0x4NUNQWVk2QlNzOTFlNm5ETHZrSUhyQzNkV2JJdUZzcWhIckxJVkZsTXEwY0lYcF9KWXpoVzc0NHlNQzhZbmlJTFJGR2tqdU5nMVFIbzl6dHdLWHBkS3lfUFZxd3psbXNNRXFtMEt5UVNodWU3QUpkbFZXUUx3blBZd3lKUks2TTRWSjRTLVFYbWZ5M1NUd251c21WRXpvc3JNVlo4bGRNMlZ3UzhVRlFGZWduUFZ5TTN5Q3Y2WVZTNTlNekk2T3FsUzlLM0stc3I1OExyZw?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Rakor Kepala Daerah se-Jawa Barat Bahas Perlindungan Pekerja Rentan hingga Layanan Kesehatan - Giwangkara - Giwangkara",
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     33,
+     32,
      3
     ]
    },
@@ -264,7 +264,7 @@
     "w": [
      4,
      14,
-     2
+     1
     ]
    },
    "trend": {
@@ -290,7 +290,7 @@
      0,
      0,
      0,
-     1,
+     0,
      1,
      0,
      0
@@ -477,16 +477,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Badan Penanggulangan Bencana Daerah - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zMUZ6TGJlZnRoQjF0Z1kyV0RvSXlrQTcyUUQ4N3VzMjItNHhfekpqWmlPQlRLaEZPZVQ5MmF2SDlTR2tLamdndnowSDFMeWFHblFLdlBpMF9wRHFfbEFWWEM5azRYYlBER2w3N19kdHdLTlE?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Peringati Maulid Nabi, Yayasan Darul Falah Assalyan Gandeng DPD PPSI Kab. Bandung Gelar Khitanan Massal - bandungraya.net",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDEwbXI3aVZBSjF6bE40TWlZa2pqOHZjUUhZdjMweklyZFRCeXVfNXR4MkZ4WWFFcGpMMi0wUWVCNkdfY1k5T3U5X0dPNDZzMzhaenVuME91dUs3bGpXUEg5am1oQU5ETmlydkhlNmZvWU1sbEtVQ2JDXzdiVkNtcjVxbzc1UHFob0Nod2paRXVQUFExVzJTc05ZTmtyVnBfbHB4RzluX0lkSVZCLU4xbFJTMEt2alc0eEE0d0RYTDhqTk5GM1FRcmFHOGpBQQ?oc=5",
      "r": "bandungraya.net"
-    },
-    {
-     "t": "Pemprov Jabar Libatkan 25.000 Mahasiswa Tekan Timbulan Sampah Bandung Raya hingga 20 Persen - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUXd1MjhHQXNOS3hWcXdyUHBPU2RXYkdLeHpmRERLYThKcXBmNmZGUVN6eTVnSDgzM1VUV3dRbWZVaHJhOF8wQTJVc2hzb0JSX19OMkNSVEJnV3M4SkY3dzJIdEU3LTFiRjFtRUhzdjdna3pVMzdBdGxGT05fOThZcXBvQ1lDMDJpQ1J1eFRVLWphWmdnRlZSWjBoYUJOUTNkLVBDNUtFSG5YeHNUdW1RUURqX1NxWHk5TXVWWHFrY295a3NBcm1XWHl3Mms4bFpMMnV1cWRZZDQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     12,
+     13,
      2
     ]
    },

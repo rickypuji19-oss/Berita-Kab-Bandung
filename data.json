@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:10:51.742086+07:00",
+ "updated": "2026-10-08T15:08:35.549600+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,23 +11,23 @@
    27
   ],
   [
+   "RRI.co.id",
+   13
+  ],
+  [
    "Ayo Bandung",
    13
   ],
   [
-   "RRI.co.id",
-   12
+   "PPID Kab. Bandung",
+   9
   ],
   [
    "ANTARA News Jawa Barat",
    9
   ],
   [
-   "PPID Kab. Bandung",
-   8
-  ],
-  [
-   "Koran Gala",
+   "Radio PRFM",
    7
   ],
   [
@@ -35,11 +35,11 @@
    7
   ],
   [
-   "Jurnal Soreang",
+   "Koran Gala",
    6
   ],
   [
-   "Radio PRFM",
+   "Jurnal Soreang",
    6
   ],
   [
@@ -55,16 +55,16 @@
    5
   ],
   [
+   "Giwangkara",
+   4
+  ],
+  [
    "Galamedia News",
-   5
+   4
   ],
   [
    "Radar Bandung",
    4
-  ],
-  [
-   "Giwangkara",
-   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Dorong Sport Tourism dan Sport Industry - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGJETnlUa3BFMHZNci1XcU4yLVFHYmF2RWdVcTAtUE91RnpiNTVmeHdKVWhieXptYmsyemhCZENhUUdIU2Yzb0otalJuTzVYSFpMVlpOdGtjYll2VzdIV19VaVhNS0FmYXJvUWdNeVNlUC1WeExBdkZqWnRxRFB5b0Y0WlN6SHJFcldJZEwtRjhQVWdyU0lyTndWUGU?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Rohto Bagikan 2.000 Kacamata Gratis, Sasar Pelajar hingga Lansia - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFYwbG9Fa2xVclRDTjZtTFpsZkliUzFNZ2xhV1ZmcGVtS3V3TTByVGNDb3JBZTdwWDBMZ3dqeFZINi1OWFp6ajZRRnZib0Q1S0RQTzBkN3E4ZWVkQ3d6dDd2SFJFbUp4S09wZHVlUXFDaW92amtla3BtMXNzbHFPZFVRaGxhOHJmblNZLUthWHRuTTJIdV9HdnRHTGozdHJUVEFpUTVvTHrSAa4BQVVfeXFMTVQzSlQxNFZjUFlQNVlybC1xTHlHMnlvT1R4NDE3eTloQ1FIZWppTThOQVQtLVE0SjFnbzhjbmNrWEcxSjFfNlAxTFN4NUh6U3dCdjBRM1E0NVozVmJSOXVXODExOE1VazVvWmNvNEV6bkFZR29tMllYXzZvbXhXUkpTV1lScjhBYk5FMmU5WHlPMl9aVnY5UjU4RGhnczh6MUZXTlpiQi1XTTJXanNB?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTNaSmZwTk5XMTctSDRyZlR6T05iak55Njd4WUxsWC0xNUVVczRmSzRIRHd6ODV5Y283LVRrRXZ1NXo4U2Ffb0ZMalRhNnByeFZDZVVKd2I3OGRTWEk1TGV5dHp4akJwRDdCcXdMZmllWjdUQkIzclVDMVQ3UUNULUtTWVFGcHIxaW5XVWVyMXhWTmdvUUMybVdkUXNIeHVWc0xaRkVwX29RYkxlYVZLejFHWlQwMUwy?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Rakor Kepala Daerah se-Jawa Barat Bahas Perlindungan Pekerja Rentan hingga Layanan Kesehatan - Giwangkara - Giwangkara",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVFo2eU1FS0xYN1Y0b1RBWXR6UTZRV0lPUmhkaEpaZWtrRkFmTzJSVDdTRHJXQ3BxTGh2Njd4bmx2bzV2ZW85N2swaG4zTF9pQkhaeHdpWF8xUHA5cVB2NGN3UmpJbnlFbEhjYnVWYXVvNlA5c2VTdUJ1T3hfUkt5ajJPaExmUjVXOFRTWWZCeTZ2aHVYZ0RucUFtUXh4Zm1CdTBuN2VXWS1xN091Q3EwVVQ1bm5ab1BZdTlrNjNFdVlGN0dVdDVEZElOcGczbDBGeXJhbkJ30gHbAUFVX3lxTFBPa1hfalpQak1NSHo1YWhTQzFPQjFHb1E0NWg1VEZwTG5kLUo5YkkxekRwNllQWjZteHVZWFVJNDY1akpfek11LVlCM3ViZjJ4cEF4MHhJVF9reGhpRTltN2xyUlJ1a0ZlN0JTZFNNNXB2Wl8tVlBZX2xrdHA1ZHg3anVQek00RjlTOW5JMmFWMVdMTXhXdUNiZWtKUHlNMHdZMGtxZGUzVjlITGp4WFdiLV9ReVNxWExReko1SjNseGhhelpWMWc3VVVheF8tWlVyZmpuZVhqODhhWQ?oc=5",
-     "r": "Giwangkara"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     10,
-     32,
+     9,
+     34,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     3,
+     2,
      7,
      1
     ],
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Nekat Gelapkan 18 Motor di Kabupaten Bandung, 3 Pelaku dan Penadah Ditangkap Polisi - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVm9tX0k2OXRHRGVTU3l2RmtEdUdyaDhFVXdnMWY0SHFOWkdCem5ldnNYVDh4bnU0ekF1Y2JmM0pjdjZBS0NzMllxUGM0Y29SMUdrRDBBVXZ2MWFXTWdZSC14Tmthay1xYVVSLThfcWVmTDI1eExNMk5BUEZWWXpfQ1pOREpvZklWWkZmanVmeFJHOUxGWjdvbkNZUG9CU2NkWjFXS0tMaVpDX3hCaVNPM002UHZ5anNFRWFUQnhoZExTTGZ1eDZna1A4S0g2VGFrd0JVNENZV3VkOGp4TVHSAeMBQVVfeXFMTUc3WEprQXJpc3NwU0d0Y3E1VGVzMG80WWNXa3BqVWhFQzdSUS14ZkFqT1g4SzJfQjkxSWh2UUF4T29NUzVpaWFBNkJOZkxTYXlfZm1hdHVtUDQzdG1LWHgtYmFYNVFoYXhXX29BRm9hNUdCczhYYzNWalhTTXdFWTZfZU5xS1RDTWxtd0xKd3haelJ6RDVRWlZDQ2twZzNnWFJvRnI3QXlRSTU4YmFCcDVka2Y0M2J4WUdoMEFxZWRJTlR2elg0SmdZdzFfR09GTkV1QmhZV3lwakRsVFhBNTA5c0k?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Upaya Taufik Hidayat 'Melawan' Dakwaan dan Persoalan Lokasi Sidang - detikcom",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGVuZVp0Q1p0WTJKRV8tNUgzczlEN1lhM2lVYng3VWNBU2x2WldDMXp2S01hTW9tMUZ2N3RwbXdMZm5jTlg5U19CelFqTC1ORmpsSDN2UkhUNnVUV0VmOUFhZGl3MDdVR1ZrQ0t5RU12NmFvdkNUdzZlUHJnd0lRUGVPaXVwNHAyMnl1OEoxc21RZlkyZFlWZEppbXVRTEFFZXlvVGRaakFXRTByZ1RQVVdMckJ5X1RWOTZCcFJn0gHDAUFVX3lxTE1Wb3FjOUNzLWk2NGh1N1NFamd5eVFpQUFyS25kUDJDcDRHd2k4NXk2WmNTeWgzT0JhU002Mm5rSktZSUpWMmthU0Z5MlBxQTJqTmIya1AtN2o5dDE2N1BmVEtxVFlKaGJkUDNjTTdWZkVrSE1UN19JYVZKYlJxQTlUV3F0REZVQXFIb0ZYaFM5aGFWUGRuVFYtNkpmTEJ4NzUxb0JDVzhLNmxvUTY0OXo0blBabDkyeWczbnlIQkZVZmo2MA?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhiZm1ycFdXN1ZIZ2hUMHYzLWdfVDlOTW5CNFJ4dEFfT21tNUE4eWVGejhTRzNWM3BZN1JvSVpZMENENy1LTmlVNi1QaWtXY0ZtTmYwWkRZQXh0a3JjRG5aTllHRkhGeWNWMXJOdWFPNkdZZmxhS3RzdWh3ckxrRVktS2NaYUdyUjRQdEhNNGVVbTlENUVBalBCLWwxT3RxR2Q1YWNmNS1GeGI5dm91U0MydWpPellWMlZxM2FB0gHDAUFVX3lxTE90aEVTWkFNRHYxV1luLWc3OHU2SndZZXRnSE1qcDZFVndlSEtuYlVoTFhscVhMQnpQSzhYRTVaSmdXMkhWY19pX2xPS1F1OVl5Y2tpOVRfNURRc3NUYzRqWEJZOFlRQUxqSDJoRUk1VnFGWjZVb3hfcHdISllVY0tUMzI5VnFzWUZWNGdqczBiM0t6ZUZpRFdPM1pFLV9aOTBXRjBoRTJDU3g3MXo2SmVGTVVKaEtVQVhZQVZUcDI5aDNaVQ?oc=5",
      "r": "Warta Pontianak"
-    },
-    {
-     "t": "Sidang Taufik Hidayat, Kuasa Hukum Persoalkan Kewenangan PN Bale Bandung - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUFma3lGWUM0cjVWUjdsU01kaXhTbDFyTHFHRXJLVHZ5OEtSckxjNXhWbUV5aHdLOHFwMnhPUWVzbFRNSjQtbURMWnpJLUktM3dtdHk5MjBEeWpNc0Z3NXRwQkJzTVNZdzgtcEg4d1RKQXFVZ3NKaE1jREk5VlJrNDE5NVdsUlpvbGJHMjllLWdmU3J0SkY4b3JiN2VjX1Q4UVRhbm1IY3loZlVtMGV0TUl0UnFaWjZTaFUwMGdPR0xkZw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -340,13 +340,13 @@
    "v": {
     "s": [
      0,
-     3,
+     4,
      0
     ],
     "w": [
      1,
      29,
-     11
+     12
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      2,
      1,
      8,
-     0
+     1
     ]
    }
   },

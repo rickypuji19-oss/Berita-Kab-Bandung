@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:08:14.406722+07:00",
+ "updated": "2026-10-09T01:07:48.028445+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -24,7 +24,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   8
+   9
   ],
   [
    "Kompas.com",
@@ -44,11 +44,7 @@
   ],
   [
    "Satumedia.id",
-   4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   4
+   3
   ],
   [
    "bandungraya.net",
@@ -56,6 +52,10 @@
   ],
   [
    "Koran Gala",
+   3
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     27,
+     26,
      4
     ]
    },
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     3,
+     2,
      12,
      2
     ]
@@ -278,7 +278,7 @@
      "Jum"
     ],
     "p": [
-     1,
+     0,
      0,
      1,
      1,
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     10,
+     11,
      2
     ]
    },

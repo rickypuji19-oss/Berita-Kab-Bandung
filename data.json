@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:07:40.651642+07:00",
+ "updated": "2026-10-08T12:08:09.945748+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -24,7 +24,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   8
+   7
   ],
   [
    "Koran Gala",
@@ -33,6 +33,10 @@
   [
    "Kompas.com",
    7
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   6
   ],
   [
    "Jurnal Soreang",
@@ -49,10 +53,6 @@
   [
    "detikcom",
    6
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   5
   ],
   [
    "Galamedia News",
@@ -85,16 +85,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Surat Perintah Mulai Kerja Dinas Perpustakaan dan Arsip Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUm5fb0x4NUNQWVk2QlNzOTFlNm5ETHZrSUhyQzNkV2JJdUZzcWhIckxJVkZsTXEwY0lYcF9KWXpoVzc0NHlNQzhZbmlJTFJGR2tqdU5nMVFIbzl6dHdLWHBkS3lfUFZxd3psbXNNRXFtMEt5UVNodWU3QUpkbFZXUUx3blBZd3lKUks2TTRWSjRTLVFYbWZ5M1NUd251c21WRXpvc3JNVlo4bGRNMlZ3UzhVRlFGZWduUFZ5TTN5Q3Y2WVZTNTlNekk2T3FsUzlLM0stc3I1OExyZw?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Rakor Kepala Daerah se-Jawa Barat Bahas Perlindungan Pekerja Rentan hingga Layanan Kesehatan - Giwangkara - Giwangkara",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVFo2eU1FS0xYN1Y0b1RBWXR6UTZRV0lPUmhkaEpaZWtrRkFmTzJSVDdTRHJXQ3BxTGh2Njd4bmx2bzV2ZW85N2swaG4zTF9pQkhaeHdpWF8xUHA5cVB2NGN3UmpJbnlFbEhjYnVWYXVvNlA5c2VTdUJ1T3hfUkt5ajJPaExmUjVXOFRTWWZCeTZ2aHVYZ0RucUFtUXh4Zm1CdTBuN2VXWS1xN091Q3EwVVQ1bm5ab1BZdTlrNjNFdVlGN0dVdDVEZElOcGczbDBGeXJhbkJ30gHbAUFVX3lxTFBPa1hfalpQak1NSHo1YWhTQzFPQjFHb1E0NWg1VEZwTG5kLUo5YkkxekRwNllQWjZteHVZWFVJNDY1akpfek11LVlCM3ViZjJ4cEF4MHhJVF9reGhpRTltN2xyUlJ1a0ZlN0JTZFNNNXB2Wl8tVlBZX2xrdHA1ZHg3anVQek00RjlTOW5JMmFWMVdMTXhXdUNiZWtKUHlNMHdZMGtxZGUzVjlITGp4WFdiLV9ReVNxWExReko1SjNseGhhelpWMWc3VVVheF8tWlVyZmpuZVhqODhhWQ?oc=5",
      "r": "Giwangkara"
+    },
+    {
+     "t": "Kapolresta Bandung Kombes Pol Suhartono Akan Terapkan Konsep Jawara - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHVPWGFFTUZqUjgteFlNTVhMR0lDalUtZ2VMVXNQOVltZHBqVkVvY0VKNWtvM295dzBXMWRqZDN1cV9LMjZ5QmtLZFZPalNzcHJUTDJxX3IwaHhtTHRDTFZfbzA1ZGNtQnczUDc2VmVfbEg3RnNrRnc2T25MYnNtM2ZEdk9Xb0wtVlFER19WWktPUGJkemdKbHM4Snc3N1MyLTYyNw?oc=5",
+     "r": "Antarwaktu.com"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -428,7 +428,7 @@
     "w": [
      2,
      8,
-     11
+     10
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      0
     ],
     "g": [
-     4,
+     3,
      2,
      0,
      2,
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Detik-detik Pencuri Motor Terjebak di Asrama Mahasiswa Natuna Bandung, Panik Keluarkan Senjata - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNjNsR1c0SjR0eFdyR1JYSUVqR0NiQVYzQ3ZFLXhCWXVpQ1BFM01iTmwzYmlJd3ZsUl8tbTNVb3Fwa2NOeV9fc0hQUFYyeEM1MUZvWEREQ1R5a0FmbkR4RUM5ZklScHhCYkwyWUNLVm5oXzBWR2Jhd2wwSU1hTFJ0LUhQSnB6UXlDSGRhZGFTbnJBR1lGNHNONVFLNzluSDVaNk9UbXZPODVfTnI2am1zTU5JYTQ5M0p2VWRaX0NteVp6aGlxTzY3TWNwNmFwdjV6M3lCTjRCQjZFazJZ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Peringati Maulid Nabi, Yayasan Darul Falah Assalyan Gandeng DPD PPSI Kab. Bandung Gelar Khitanan Massal - bandungraya.net",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDEwbXI3aVZBSjF6bE40TWlZa2pqOHZjUUhZdjMweklyZFRCeXVfNXR4MkZ4WWFFcGpMMi0wUWVCNkdfY1k5T3U5X0dPNDZzMzhaenVuME91dUs3bGpXUEg5am1oQU5ETmlydkhlNmZvWU1sbEtVQ2JDXzdiVkNtcjVxbzc1UHFob0Nod2paRXVQUFExVzJTc05ZTmtyVnBfbHB4RzluX0lkSVZCLU4xbFJTMEt2alc0eEE0d0RYTDhqTk5GM1FRcmFHOGpBQQ?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUXd1MjhHQXNOS3hWcXdyUHBPU2RXYkdLeHpmRERLYThKcXBmNmZGUVN6eTVnSDgzM1VUV3dRbWZVaHJhOF8wQTJVc2hzb0JSX19OMkNSVEJnV3M4SkY3dzJIdEU3LTFiRjFtRUhzdjdna3pVMzdBdGxGT05fOThZcXBvQ1lDMDJpQ1J1eFRVLWphWmdnRlZSWjBoYUJOUTNkLVBDNUtFSG5YeHNUdW1RUURqX1NxWHk5TXVWWHFrY295a3NBcm1XWHl3Mms4bFpMMnV1cWRZZDQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Potret Buram Saluran Air Ciguruwik: Tersumbat Sampah dan Bau - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTBXbmwtRDlndGVOSmZmUTZaVkhoN3Q4NjRGV0VNZUlZRlZqTGpRUmlvZ1JhTmJnLWwzbjVELWlzczQ2NVNCMmQzLUZqTldxUGxCWEw2YzNpU21ENGFyQS1NbFE1SWJRN0haSWJfRkdlc1N0a0VDMjg0eW9aT1NId3ZkcU4wcWhyQjVjUFpGVi15eHlYWFJOSl9GMEd4N0NfYlI3RVNHd9IBrAFBVV95cUxPeXpERkpIOEVwWnVkZkhaNGRuS25DUFpEM2N0ZWJhVFZQd2syMGhucmI1Z2ZMSHNUZjMwY3ZOblRrdGlCandUSWhsMk10azVZUGZad05CdmFqN0lZSzlFbzBoekw1TEZ2LWlIYUVaZjRENWpjeWhRMHd2bEluQlJXTUtNRllTMEVsd19qa0pTbU1falNYbkIzcGh5a3FIaldZMkF3eFhpR1g4QkRp?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     11,
+     12,
      2
     ]
    },

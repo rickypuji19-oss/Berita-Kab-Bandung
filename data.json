@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:09:15.407454+07:00",
+ "updated": "2026-10-08T18:08:21.385405+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -39,11 +39,11 @@
    7
   ],
   [
-   "jabarekspres.com",
-   6
+   "detikcom",
+   7
   ],
   [
-   "detikcom",
+   "jabarekspres.com",
    6
   ],
   [
@@ -51,11 +51,11 @@
    5
   ],
   [
-   "Jurnal Soreang",
-   5
+   "Galamedia News",
+   4
   ],
   [
-   "Galamedia News",
+   "Jurnal Soreang",
    4
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     35,
+     33,
      3
     ]
    },
@@ -173,10 +173,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Siap Kirim 1.200 Kontingen, Pemkab Bandung Targetkan 100 Medali pada Porprov XV Jabar 2026 - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHVjREwycnZoQk1IZzRzMFhkLUJDaUVRU0JENnVoWlltUEVESHFpbDlRci1SVGRDWC1VeXBpS1FUQmQ2ajFCUS1pMUtNNUl2RjZhNGY0UDcwTEt2ZlhrZFFxMG5jSUlXOTFnQ1l3WHgwT2syd2M5eER3T29vTXZGQUdjMUgzNXBWUWRDdVlYSW1MSndtRXAwZlc5V2FLM1FqWTNRV09COGJDcUVUVVk3NWpRR0R0ODd3c3pNMDBESmZ2ZXNFTFlyMXdPNjJJcmlnTWx6cms1andOTm9H?oc=5",
-     "r": "Galamedia News"
+     "t": "Dugaan Sabotase di Balik Surat MA Salah Alamat, Husniah Talenrang Kehilangan Hak Klarifikasi - Primetimenews.co.id - Primetimenews.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamc1LXFoTFE1V3JjV25SMGFKNWtRZVNNeDFWVTVyLW1QY3dJSkpmSTdqVUVXY2FPZEFQSTlIcHFRR2dYR3A5Q04yU1l3Z1JzRG5SNDE4d3pzLUhIc29uSmxZNHVEYjE4OUh1Nl9QejUzeDh3Q28ybWxHRFBieGllUjVNM1BHQm92Y0hhX1d6LU9UTWUyU0pzd0VMMHduMnl5T00xUHVmcUpKZkM2SVREN1gtOEltbDc2dWNlTTJCVDlMeDhua0YyU2JKYnNjdUhfeC1KdnA4YjJPM2p2S2k0cVFlbVRINk5xUUVj0gHwAUFVX3lxTE91a3VLYUFuZDh4dEl3MVAwTzlUTGxfMUFWbFh0UHhpZ2J1eF9zVDRRVWx2VmtFc2hSdnZqRnIzWV9PWXQzWEFiUHBWQWRoRzhZc2dtUmstNHVfRFVMTER6S3hnSUxDQmtXdE9uV0Z4bG9IMjhtSS05RzdZZ2Z2blUydDBOWE5tMGctWjVod0hKZU5INUU0eFVSVEdVSi1GNGVFNzJMdEt0RWcwbXlJYkpxLUhLeEx2WHhMdTB2VmlsOG94LVRtYnAyMU9hc1RtR1FUWEM2OGx2bWI5UUVvS04zbmtxc1AwWnU1UTBUaHBpUA?oc=5",
+     "r": "Primetimenews.co.id"
     }
    ],
    "v": {
@@ -213,10 +213,10 @@
     "g": [
      1,
      0,
-     1,
-     1,
      0,
      1,
+     0,
+     2,
      0
     ]
    }
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Perkuat Sinergitas, Kapolresta Bandung Gelar Silaturahmi Bersama Insan Pers PWI, IJTV, dan IMM - jurnalpolisi.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2VPVkg5ZEFtUnpKVW9HbVRrTkE1UUFjY3RtbE9rNnpFMkFmM19vbUdpbFBUVXI2dDlHZnp0amdBVmpxNUx6dXdvVjN0b0VvZ1E0YjcxZS1Xc3djazhMbW95V2dNZDZnT09TbjQ5WWY4X2FRRk4zXzZialFzV2hsWUlYTUQzOTUtT0lmQzFSajVvYU1uRzJWc1NEXzdMNEcwQVRJUi1keVhOMjUwTmhwVWw0UkVnSlQxNnpB?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Nekat Gelapkan 18 Motor di Kabupaten Bandung, 3 Pelaku dan Penadah Ditangkap Polisi - Radio PRFM",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVm9tX0k2OXRHRGVTU3l2RmtEdUdyaDhFVXdnMWY0SHFOWkdCem5ldnNYVDh4bnU0ekF1Y2JmM0pjdjZBS0NzMllxUGM0Y29SMUdrRDBBVXZ2MWFXTWdZSC14Tmthay1xYVVSLThfcWVmTDI1eExNMk5BUEZWWXpfQ1pOREpvZklWWkZmanVmeFJHOUxGWjdvbkNZUG9CU2NkWjFXS0tMaVpDX3hCaVNPM002UHZ5anNFRWFUQnhoZExTTGZ1eDZna1A4S0g2VGFrd0JVNENZV3VkOGp4TVHSAeMBQVVfeXFMTUc3WEprQXJpc3NwU0d0Y3E1VGVzMG80WWNXa3BqVWhFQzdSUS14ZkFqT1g4SzJfQjkxSWh2UUF4T29NUzVpaWFBNkJOZkxTYXlfZm1hdHVtUDQzdG1LWHgtYmFYNVFoYXhXX29BRm9hNUdCczhYYzNWalhTTXdFWTZfZU5xS1RDTWxtd0xKd3haelJ6RDVRWlZDQ2twZzNnWFJvRnI3QXlRSTU4YmFCcDVka2Y0M2J4WUdoMEFxZWRJTlR2elg0SmdZdzFfR09GTkV1QmhZV3lwakRsVFhBNTA5c0k?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGVuZVp0Q1p0WTJKRV8tNUgzczlEN1lhM2lVYng3VWNBU2x2WldDMXp2S01hTW9tMUZ2N3RwbXdMZm5jTlg5U19CelFqTC1ORmpsSDN2UkhUNnVUV0VmOUFhZGl3MDdVR1ZrQ0t5RU12NmFvdkNUdzZlUHJnd0lRUGVPaXVwNHAyMnl1OEoxc21RZlkyZFlWZEppbXVRTEFFZXlvVGRaakFXRTByZ1RQVVdMckJ5X1RWOTZCcFJn0gHDAUFVX3lxTE1Wb3FjOUNzLWk2NGh1N1NFamd5eVFpQUFyS25kUDJDcDRHd2k4NXk2WmNTeWgzT0JhU002Mm5rSktZSUpWMmthU0Z5MlBxQTJqTmIya1AtN2o5dDE2N1BmVEtxVFlKaGJkUDNjTTdWZkVrSE1UN19JYVZKYlJxQTlUV3F0REZVQXFIb0ZYaFM5aGFWUGRuVFYtNkpmTEJ4NzUxb0JDVzhLNmxvUTY0OXo0blBabDkyeWczbnlIQkZVZmo2MA?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Polresta Bandung Ungkap Praktik Pengoplosan LPG Subsidi - Warta Pontianak",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhiZm1ycFdXN1ZIZ2hUMHYzLWdfVDlOTW5CNFJ4dEFfT21tNUE4eWVGejhTRzNWM3BZN1JvSVpZMENENy1LTmlVNi1QaWtXY0ZtTmYwWkRZQXh0a3JjRG5aTllHRkhGeWNWMXJOdWFPNkdZZmxhS3RzdWh3ckxrRVktS2NaYUdyUjRQdEhNNGVVbTlENUVBalBCLWwxT3RxR2Q1YWNmNS1GeGI5dm91U0MydWpPellWMlZxM2FB0gHDAUFVX3lxTE90aEVTWkFNRHYxV1luLWc3OHU2SndZZXRnSE1qcDZFVndlSEtuYlVoTFhscVhMQnpQSzhYRTVaSmdXMkhWY19pX2xPS1F1OVl5Y2tpOVRfNURRc3NUYzRqWEJZOFlRQUxqSDJoRUk1VnFGWjZVb3hfcHdISllVY0tUMzI5VnFzWUZWNGdqczBiM0t6ZUZpRFdPM1pFLV9aOTBXRjBoRTJDU3g3MXo2SmVGTVVKaEtVQVhZQVZUcDI5aDNaVQ?oc=5",
-     "r": "Warta Pontianak"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -344,7 +344,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      28,
      12
     ]
@@ -366,7 +366,7 @@
      0,
      1,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "8 Titik Rawan Banjir dan Longsor di Kabupaten Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVczWVVxbFFvTkl2VVFzWHd3OGYyYjl0MmxDMm1oNVVxOHdpMmRCdXd2ZW53VXkzU1g0WFFqNEs1MzZWTVlIRHVIOWtYZWhRU0JUSUQteGVfUTFvMTVQbHc4Z0pnV3RfN2U2RkFpc2NHZGZhTTBpdVVQQ2hMYktFZ1VTS0YwVURfUHVveGw2cW1BRTVMOGVwQk5iWGJPY2fSAaQBQVVfeXFMTk5oT2FXXzJNd1pDMW14bE5zZXBMb2lPeFNDUzd3UkgtRW5ueTdVNkFxa3lRNjlGV3F0dVU5ZnRvejVuMHRNcEt0LUtOeUR0M29oWnYyclRKYzAtajcydXhsU0ZqcEpGMURta1IwbmtkcXJfSFEwTFNaS2NMaDA5OTZDSjlYX0U3LXEtQXhIUEtDeVBzVzhPZmNCU1l3VEZ2YzZkNmI?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Musim Hujan Bandung, 8 Desa Rawan Longsor dan Banjir Bandang Jadi Perhatian - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0k0bkg0MURBTHVERG84SWhGT0s2LW1nQnY2cThrQV85VFpPY3ZIR2hXcHhxM2pzOUJsUzlJRDE2Y190WEVrcjBKeVltR2NKZjg5OHhXZGIyR1lPNUw1OGc1RFl6azd2R1lYNS1qeVAyR3VTRUE4RWR6TnRIU0dVTjdrREtoNlh6YlVtanZ5a2hiUjNfV2FBbzllbzJPSVM2Q20zbDNQVDV3UjZFNEpqVXNiQjZnOXotLW5sVXgxaVhPcVdvZlE?oc=5",
@@ -397,14 +403,8 @@
     {
      "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor, Ini Wilayahnya - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVFVUnBEZ1VCOFdhd09FMU5wZU1lZjZGQll5QVFuYXIzdlpWSlpaMDZucWgwcWEzMUIzcGlFakpUUi1HQ2hieWNmWVdBa09VWFlCemJwUmN4QmZaTEVEYUhzejlfY1Fia0E2Sjhwd1dBVEhOektnYndfT1lBZzBOR3E3ak5xc2Vja0d0ZzV2bi1SQnVQbEpsT3cyWmpzNFpTcE9TekFuZzM3N00tU1RZMmFscnA1dmV1Rkt3dTZQaHFsTDBMWFE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGRRZEg5STNpeFA5UjlWYTNZZlBZck41REd4bEdXZ0tlWUlyTVJRRGNreFdHbmNlcFhhSUxSNGtrYzdEaGE1V20tWG8tNU9naFZKV1FMcVRBazJmYnAwaTh4TnVzdDNaVFpQeWE3V3pXZ3Jmb0pfMnRHSjRFRmN2NHBnd3F3TnZMcVg2OUljODdHMmNYY0RLWnhDQUNFeWZneHo1U0JUeWNnaEc4am9QblFDVHh1ZTdsbjFvRFZpTlJSeDJxeHFMUndhdGg0dmZYWU00NnNmbVYxRWZBSXZqdUpraw?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "BPBD Kabupaten Bandung Petakan 8 Desa Rawan Banjir dan Longsor - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGJKN2RoUWpjemgzbHlfWl8yNTE0NE9tNVJxMDdxZlNpYUFyQUlTT3BndEJCX1FCTW9naEVIdnBEbkVSdUc5NmZvRVJvcFd4TWNsMGVGNTZiX2MxX2JaSHBwVFBXYVpCRjBzeFJnN1YwVzZuaGwzS1kzb3k1YjBORFU4cFlIOTY3Z29odm5OOTYxX01YNkRhSXhoelRmYmhESjUzeWtqNDTSAa4BQVVfeXFMT25TUTZBZUwtalp3MF9HYTZJQS0ybWx1VnBUUGJ2d3Z5NVhiemFIVFkySXBObFBickZETmRXWHY3dzhEQktNUm9IWkQtdnBpRTJtQ1ROdERrZ0NzSVJ2ZmRMcHdodDRmX18td0pXNTRtWmdsWHJneGZGWEhyLWdYR1BFMlhwWk95Y2RyRUd2clQwQV9TV2JKUVlzRndfZ3BUbGl3eGoxQ0x2Y3N5TmRn?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -428,7 +428,7 @@
     "w": [
      2,
      8,
-     10
+     11
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      2,
      1,
      3,
-     1
+     2
     ]
    }
   },

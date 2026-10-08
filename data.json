@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T07:07:56.507754+07:00",
+ "updated": "2026-10-08T08:10:26.095326+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   11
+   12
   ],
   [
    "ANTARA News Jawa Barat",
@@ -264,7 +264,7 @@
     "w": [
      4,
      12,
-     1
+     2
     ]
    },
    "trend": {
@@ -290,7 +290,7 @@
      0,
      0,
      0,
-     0,
+     1,
      1,
      0,
      0
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Ungkap Praktik Pengoplosan LPG Subsidi - Warta Pontianak",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhiZm1ycFdXN1ZIZ2hUMHYzLWdfVDlOTW5CNFJ4dEFfT21tNUE4eWVGejhTRzNWM3BZN1JvSVpZMENENy1LTmlVNi1QaWtXY0ZtTmYwWkRZQXh0a3JjRG5aTllHRkhGeWNWMXJOdWFPNkdZZmxhS3RzdWh3ckxrRVktS2NaYUdyUjRQdEhNNGVVbTlENUVBalBCLWwxT3RxR2Q1YWNmNS1GeGI5dm91U0MydWpPellWMlZxM2FB?oc=5",
+     "r": "Warta Pontianak"
+    },
+    {
      "t": "Sidang Taufik Hidayat, Kuasa Hukum Persoalkan Kewenangan PN Bale Bandung - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUFma3lGWUM0cjVWUjdsU01kaXhTbDFyTHFHRXJLVHZ5OEtSckxjNXhWbUV5aHdLOHFwMnhPUWVzbFRNSjQtbURMWnpJLUktM3dtdHk5MjBEeWpNc0Z3NXRwQkJzTVNZdzgtcEg4d1RKQXFVZ3NKaE1jREk5VlJrNDE5NVdsUlpvbGJHMjllLWdmU3J0SkY4b3JiN2VjX1Q4UVRhbm1IY3loZlVtMGV0TUl0UnFaWjZTaFUwMGdPR0xkZw?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOUtKc05UX1pxM1dCQzhMbDVOTFNFX1hoVkFNbHVfOTRjVmctMDduRGxKemJ5eHV2b2pmcE5BeVN5N2lMTzk4dHlFaUxjV0NkVXJoZllMZm15azBNLUVGRWoyd1RFTWlTQ1lBWFJ0VG1INEM1UzJwN3VLZ0RuLUpUeEZ0QlczZUFZX3NfQWpFSUhSX0F1OGJNakItaUZHT2c5OUdxUFI0UjY4MEI0OXQ1c1FicVoyajVvQXpPX2htZjA0LTJJbFpTTU1iX3hVLTl0cnJWb1RWRlRRYjBYbzJ6T3k4WjFKN1IzbkVFQk5LMWjSAfABQVVfeXFMUDlLSnNOVF9acTNXQkM4TGw1TkxTRV9YaFZBTWx1Xzk0Y1ZnLTA3bkRsSnpieXh1dm9qZnBOQXlTeTdpTE85OHR5RWlMY1dDZFVyaGZZTGZteWswTS1FRkVqMndURU1pU0NZQVhSdFRtSDRDNVMycDd1S2dEbi1KVHhGdEJXM2VBWV9zX0FqRUlIUl9BdThiTWpCLWlGR09nOTlHcVBSNFI2ODBCNDl0NXNRYnFaMmo1b0F6T19obWYwNC0ySWxaU01NYl94VS05dHJyVm9UVkZUUWIwWG8yek95OFoxSjdSM25FRUJOSzFo?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Gedung Indonesia Menggugat Bandung Jadi Ruang Belajar Sejarah, Siswa Telusuri Jejak Persidangan Soekarno - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWXVOVDhNdndIcld6N3pJUTQ3aEw4X1Z1aDJUeV9Odkp1bVk4b3RjeEVnMTNUYkphcGM3NVd1dEMwWXEwVlBRTk9MUVV0UllaTE4tcjJxVE5zQ3liN1lUWVhwQUJJRVB0NUtMZVpoRm8xbWJMZ1EwRGk1NUgzTGZ2ZzFGU3BRNm5JcFRBaEdNbWdtRWlURHdva2hVUUtCSnJiVlVrTUFCeVp4WVhzcUVvX1V0cndnYklnUmJOaERjd2JaTkh3YjBHWHdlazNrQVRSOHdlTjcxMFFHX1BKTkJwbFkxdHY4M3hEV0HSAe8BQVVfeXFMT1MxcEdGOERYYV9QYTJnQU9Gcm4tQnRmZWo5Uk5JbVM1dHhmUjlJbzE4WTN4UDdTcjA0SXFMT0lleExFQ2IwWmQ4Mmt6NkdpTF9oQXc3Y3pXTTl3SGFYSllGT2FCVVVQS3dnZVR2RzItMUZXdEZRS015R1cyUGxBMEt2a2V3aEtQakFHdHp6b0VGMlZBQ09yUlJ4dk5XeHdjaEhCT0IyMVBkMlZuTXE1dHFpYXg5UnRZcVRuVnQ0NmEyNW5Jcnl0dGdBTXUxUzNDYnVZOWFjRDdBZXNLSWlDRTk0WjlIS0c4c2ZnQjRHOEE?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     28,
+     29,
      11
     ]
    },

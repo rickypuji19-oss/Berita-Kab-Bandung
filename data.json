@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T06:05:22.687351+07:00",
+ "updated": "2026-10-08T07:07:56.507754+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,10 +23,6 @@
    9
   ],
   [
-   "Koran Gala",
-   8
-  ],
-  [
    "Galamedia News",
    7
   ],
@@ -35,7 +31,7 @@
    7
   ],
   [
-   "Radio PRFM",
+   "Koran Gala",
    7
   ],
   [
@@ -43,12 +39,16 @@
    7
   ],
   [
-   "jabarekspres.com",
+   "Jurnal Soreang",
    6
   ],
   [
-   "Jurnal Soreang",
-   5
+   "Radio PRFM",
+   6
+  ],
+  [
+   "jabarekspres.com",
+   6
   ],
   [
    "detikcom",
@@ -112,7 +112,7 @@
    "v": {
     "s": [
      1,
-     2,
+     3,
      0
     ],
     "w": [
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     29,
+     28,
      11
     ]
    },

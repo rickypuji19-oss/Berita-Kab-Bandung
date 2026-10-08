@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:08:05.863420+07:00",
+ "updated": "2026-10-09T05:07:55.682856+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   10
+   11
   ],
   [
    "Ayo Bandung",
@@ -43,15 +43,11 @@
    6
   ],
   [
-   "Koran Gala",
-   4
-  ],
-  [
    "Satumedia.id",
    3
   ],
   [
-   "Giwangkara",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "bandungraya.net",
+   2
+  ],
+  [
+   "Koran Gala",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     28,
+     27,
      4
     ]
    },

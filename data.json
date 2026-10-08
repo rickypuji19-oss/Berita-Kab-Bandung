@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T01:07:48.028445+07:00",
+ "updated": "2026-10-09T02:09:19.062774+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "ANTARA News Jawa Barat",
    12
   ],
   [
-   "Ayo Bandung",
+   "PPID Kab. Bandung",
    11
   ],
   [
-   "PPID Kab. Bandung",
-   9
+   "Ayo Bandung",
+   10
   ],
   [
    "Kompas.com",
@@ -47,15 +47,11 @@
    3
   ],
   [
-   "bandungraya.net",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Radar Bandung",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -85,15 +85,15 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Pemkab Bandung Dorong Sport Tourism dan Industri Olahraga, Si Jalak Harupat Disiapkan Lebih Produktif - https://beritabandung.id/",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3luMU1DS3hFUGkyZ0R5dHhjV1pSVkl5UTJzUnc5WGM1UENiQmY5ZHJLTE9Tb0VjVWNjUGx6RWFudzVOdUVXTlYzNGxORWt5d3NKSkItVlNvYVUtckNpR3FPT0NSbDZpSmE4UXV5S1NNcllRTklNRFZrR21NbS1ZZDROeEpDYTV1S3oxcXZReTFIdnN5M3dxRWNQR044NTlhMGVaYmNmR054Mk94clBrU3hZX2hDYUx4aW13TTFfYkZzNWVq?oc=5",
+     "r": "https://beritabandung.id/"
+    },
+    {
      "t": "Pemkab Bandung mempertimbangkan TPA mandiri hadapi penutupan Sarimukti - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenN0RngwUEx0Mmx5SWlTd3JRQS1faTkxOUoxblZWYm9YX0gtcWE1MzV1Q1J5cGY3Y1FnSDE2R044YTBnRWFNalRiM3g0T3A4a2VNSTRQdENSUU1kT3k2dHp6LWdvdUMyRUxIeHk5ZXlPYVhBeDRWd0UybDVJVERfb0gteGtuSE9Wd25JenZ0a09fMEZac3F4dXFrSU53ZDhlVDR5bTVnbnNCQnk4VFBqUHRJZ9IBuAFBVV95cUxQWVhKQWRTYUg2enJZQWgya1ZITTV1djNOWWhzWnVKeW50cU5hQlVCZTF2YmpiZVgwWC1xYTZrWDBJMzhla20zQTdGWVdyV2dGNjVzbG4wMmZGWUkyQXpkSVpqZVpkTXZfMkVWWTBZT1A1M1JqVFJoX2Z6QnhEY0xsUnFfdGxxaUw5NlIweENfc0wtRGcwNHotY0JTWk1ya2xENHFJQXlmQ01ZcThVeU5yRDBjajRWMG5u?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pemkab Bandung melibatkan mahasiswa dalam edukasi pengelolaan sampah - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUdIBtgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUQ?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     26,
+     29,
      4
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      0,
-     14,
+     15,
      3
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     12,
+     13,
      2
     ]
    },
@@ -508,7 +508,7 @@
      1
     ],
     "w": [
-     4,
+     3,
      11,
      2
     ]
@@ -528,7 +528,7 @@
      0,
      2,
      0,
-     1,
+     0,
      1,
      0
     ],

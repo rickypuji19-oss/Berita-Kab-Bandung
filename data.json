@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:08:09.945748+07:00",
+ "updated": "2026-10-08T13:09:21.533148+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   27
   ],
   [
    "RRI.co.id",
@@ -24,7 +24,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   7
+   8
   ],
   [
    "Koran Gala",
@@ -33,10 +33,6 @@
   [
    "Kompas.com",
    7
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   6
   ],
   [
    "Jurnal Soreang",
@@ -53,6 +49,10 @@
   [
    "detikcom",
    6
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   5
   ],
   [
    "Galamedia News",
@@ -85,16 +85,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
+     "t": "Surat Perintah Mulai Kerja Dinas Perpustakaan dan Arsip Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUm5fb0x4NUNQWVk2QlNzOTFlNm5ETHZrSUhyQzNkV2JJdUZzcWhIckxJVkZsTXEwY0lYcF9KWXpoVzc0NHlNQzhZbmlJTFJGR2tqdU5nMVFIbzl6dHdLWHBkS3lfUFZxd3psbXNNRXFtMEt5UVNodWU3QUpkbFZXUUx3blBZd3lKUks2TTRWSjRTLVFYbWZ5M1NUd251c21WRXpvc3JNVlo4bGRNMlZ3UzhVRlFGZWduUFZ5TTN5Q3Y2WVZTNTlNekk2T3FsUzlLM0stc3I1OExyZw?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Rakor Kepala Daerah se-Jawa Barat Bahas Perlindungan Pekerja Rentan hingga Layanan Kesehatan - Giwangkara - Giwangkara",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVFo2eU1FS0xYN1Y0b1RBWXR6UTZRV0lPUmhkaEpaZWtrRkFmTzJSVDdTRHJXQ3BxTGh2Njd4bmx2bzV2ZW85N2swaG4zTF9pQkhaeHdpWF8xUHA5cVB2NGN3UmpJbnlFbEhjYnVWYXVvNlA5c2VTdUJ1T3hfUkt5ajJPaExmUjVXOFRTWWZCeTZ2aHVYZ0RucUFtUXh4Zm1CdTBuN2VXWS1xN091Q3EwVVQ1bm5ab1BZdTlrNjNFdVlGN0dVdDVEZElOcGczbDBGeXJhbkJ30gHbAUFVX3lxTFBPa1hfalpQak1NSHo1YWhTQzFPQjFHb1E0NWg1VEZwTG5kLUo5YkkxekRwNllQWjZteHVZWFVJNDY1akpfek11LVlCM3ViZjJ4cEF4MHhJVF9reGhpRTltN2xyUlJ1a0ZlN0JTZFNNNXB2Wl8tVlBZX2xrdHA1ZHg3anVQek00RjlTOW5JMmFWMVdMTXhXdUNiZWtKUHlNMHdZMGtxZGUzVjlITGp4WFdiLV9ReVNxWExReko1SjNseGhhelpWMWc3VVVheF8tWlVyZmpuZVhqODhhWQ?oc=5",
      "r": "Giwangkara"
-    },
-    {
-     "t": "Kapolresta Bandung Kombes Pol Suhartono Akan Terapkan Konsep Jawara - Antarwaktu.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHVPWGFFTUZqUjgteFlNTVhMR0lDalUtZ2VMVXNQOVltZHBqVkVvY0VKNWtvM295dzBXMWRqZDN1cV9LMjZ5QmtLZFZPalNzcHJUTDJxX3IwaHhtTHRDTFZfbzA1ZGNtQnczUDc2VmVfbEg3RnNrRnc2T25MYnNtM2ZEdk9Xb0wtVlFER19WWktPUGJkemdKbHM4Snc3N1MyLTYyNw?oc=5",
-     "r": "Antarwaktu.com"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Dorong Generasi Muda Ambil Peran, PHE Kenalkan Industri Hulu Migas ke Mahasiswa di Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVzBjS3V5cnUtVWxIdjZiZHBXdmlQR0JQb3V4Z1VKVEU1YUtPZDQ4aGpVdkRZV2Z1Wl82cW1LRkF1akdXT3p6SGRjZzBIWUpNb2ZjMncyNFRFbmJWSVkxVjVpTXo3Sk9nbEN4UGd2N2tFUlB6bXFaLVhyVzVoWjFTTjl0R3AyT0RfWG5XSUJXcUVSaGcxNGROYW5fN2ZDYnNDMWI4UFFOaFlPZHJkd0JqbHNxejRqMi0ySGN0d2hjNkJtRmdlUlcwTl9qMV9wOENuUDRHVi1Jdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Setelah Pemasangan Sambungan Listrik Gratis, Pengamat UPI Tegaskan Pentingnya Pemberdayaan Ekonomi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnllRmI2dy1kbjdEYW82UjBaOHA4OTFrSmlnbFZRNkdrc0RJeDIwX0VKUEJPUHJ3THRPNGtxQU55SUJBV1Q4ZXUzRDV4LVFYT0hhTXdqYTMyN1A1ZDJURC1wYUhyZ0J4ZUJzTmltMVJQTDlnallPTFl3Q2RZdmd4dmVvYUZTRTJPRzRLQjh5aXpBWUowTDBkVHEtaFZkVmNlcW9GSFNWZGxfaGFIRnJ2ZGtxVnZKRHR1Z3c1UjhkbTlSVkRKVFZ5YlVuRElhV2V2S2VBbDE2ZHFhUFlDVklkM1VR?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOVpCT1pvV1FxVnpKZE5tbC1YcTVKakhSazVTWHo0NVBlYnF3QjIxZlZZX1pDSnFiYmQ2Z3lYeXNPOWNjZkhERXA1SDJ1SjE0RkdSbkNscUxmTDZBUjlhU1lLdHBMT1VQaWprQg?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Tiket Persib vs The Cong Viettel ACL Two 2026/27 Mulai Dijual di PERSIB App, Harga Rp125 Ribu hingga Rp400 Ribu - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZnBUVFF1QkQxem1ySDYzLWpkVjlQMWJ3WmhQaktDai12a25LSjhjNnN0TFpyZnRnQk5aWFFtNy1WeE9Ody1TbGR6RTRRcWpkWU5ya0FjUDZDUXEtNlBwV25aYWFBbXdlZ2o2SEdPSmdxMThRUG44T0lpUHA1ZnFoRTg1RnlON0NxbVdNb192a1RSVnRXbDJJSXBPQXdjUjdKNENkNlZXXzFJYlVkaWVMSkhtdXZEdG9melRRTmM2T3Mzc0IzY0tYWEtyVzZkN2V2dndEekZlT2JxZFRPTXB3U0JqMVNHTmdmOEdPLUJVbDdTd9IB9wFBVV95cUxNaWxvTzBDYVRseExmUE56bDNKanpDYXI4MlJCbTRJUFV3bzJUNkEtM1VYcXFpVjF6STlxeGswUHFFdm1PM3IzcnpvNUc4akNTRlB2VjJ4RWRLUldVTldNLWlKZmNINXpXT1B1UXBzY25ibXlkMlVPVnkzVG5CcUtock80TTIzZjRtSWRYQXNMNlNSOWlVNGVqR2dRTXBMQmprdVhSa3ZpZ2ZPQlV5OEszRFhBUXhlNWI1N0tyeXltalhzbFB3YjlKcDh4d3RLbUhMSkdYUkJ0S2JVSWNLNnZaU21DVkROX0d5LVh6M0dwQWw4bm9qNmpJ?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "POV sarjana ekonomi di kab Bandung #dayehkolot #kabupatenbandung",
@@ -263,7 +263,7 @@
     ],
     "w": [
      4,
-     13,
+     14,
      2
     ]
    },

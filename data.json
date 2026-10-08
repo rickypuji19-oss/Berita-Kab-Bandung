@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T02:09:19.062774+07:00",
+ "updated": "2026-10-09T03:08:48.322446+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "ANTARA News Jawa Barat",
@@ -20,18 +20,18 @@
   ],
   [
    "PPID Kab. Bandung",
-   11
-  ],
-  [
-   "Ayo Bandung",
    10
   ],
   [
-   "Kompas.com",
-   7
+   "Ayo Bandung",
+   9
   ],
   [
    "jabarekspres.com",
+   8
+  ],
+  [
+   "Kompas.com",
    7
   ],
   [
@@ -43,15 +43,11 @@
    6
   ],
   [
-   "Satumedia.id",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
    "Koran Gala",
+   4
+  ],
+  [
+   "Satumedia.id",
    3
   ],
   [
@@ -65,6 +61,10 @@
   [
    "Pikiran Rakyat Koran",
    3
+  ],
+  [
+   "bandungraya.net",
+   2
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     29,
+     28,
      4
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     13,
+     14,
      2
     ]
    },
@@ -477,16 +477,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Tag: Advokasi Kesehatan - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vbk51a1dGYjVLbWViNkMwdUtDeEF6TkZyRHFaQlRlUHNuWnlCNWZCZE93WFEwRjA5ZGxpUldTMlViOVBQVFB3UDhQc3JWU0R0SUlUekwzT1ZYRHIt?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "BPBD Kabupaten Bandung Beri Peringatan 8 Desa Rawan Bencana di Musim Hujan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWN5dGtPY1Y1X0dWby1FMUUwNk01UTBDNXpCbXlyVjk1VXJ5d2d2OTQtalh2ekxwM1BFS3psT3JQWVJtbVFnZE94MGdQMHpONDlzU25sc1VFYTU4YnlKZE9NYzJVbTJuakNxc1lQZGFqcXZrejlkNDg1V2hfQ0pZcFhpckh6RjhCeDNkU2ZCZWRtdElQV0xJM0VtRkU3YlJWMHVsbFN6RXpIYmRRTTZ0TjRxUkxhS19NZk5ldVNZTE1aMUU0T0RRMQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "PDI Perjuangan Jabar Perkuat Advokasi Kesehatan, Ribka Tjiptaning: Rakyat Berhak Mendapat Pelayanan - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0t3eGZmbG1HbkFZQ0FvVDVqS3V0Z3VLamd6YUZ0S3AwTFRKSC1lXzV4eWZqQnJaNExuS1dXTTZXRHptTTZYSW4zSFFQWXZPM1lOWEhpaU1XNVZnT1hHYVZjbFVkT3htZExVc0FtU1lxM0NnaXNuMEQwYUk1eFlJNGNfQ2Vhb2hJTlFXcXFseDJrRl9OdW02QTRTaTVHRVVnWmVPa2ZDREM0ajJSaUItRGlhbHJheEV2bWFoQmRvY1VlZWJ6U0hTOEZQQTRscGotcUZDZTVuLUc?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",

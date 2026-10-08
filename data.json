@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:07:55.682856+07:00",
+ "updated": "2026-10-09T06:07:03.692881+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   11
+   10
   ],
   [
    "Ayo Bandung",
@@ -43,11 +43,15 @@
    6
   ],
   [
+   "Koran Gala",
+   4
+  ],
+  [
    "Satumedia.id",
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Giwangkara",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "bandungraya.net",
-   2
-  ],
-  [
-   "Koran Gala",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     27,
+     28,
      4
     ]
    },
@@ -173,10 +173,10 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "DPRD Bandung Kaitkan Banjir dengan Alih Fungsi Lahan Bandung Utara, Usulkan Kanal Selatan Jadi Pengendali Air - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeXZES2NYLXBYblFFN0kxcGR1aFZLb09Za3huc2NIOVBHWVJoQTd5dU01SXRILXMzdW1qY0x1ZC0zQTljZVFwWk9xc3VwZnlCMm44ektIYmh6bWhyeU9hWXg2STIwRmlIQldRQ2dPWUc5X0RkNGZSZFlJOWdxa041YkIwUlRmTDZtWFo2X0RBcXdmR2RmREZOX09IM05uazFpWlEzY084WmJHTkp4SmpmZ0U4UDcxbkNNbFBoU1VEbk9WZHRqVmo0a1ZVMFZXOVh1ay1SMUtiS0I0eVN2eGxtaDZIVUVWbDNJZnVYYThpNWfSAfYBQVVfeXFMUHRzSlk2cTh5QmwtN3htN21rT0hvaDYtY2lrcHdxdXJ1TDNNeWFVelppQVFPemxYWFJyM3ZHeGpvWDJRQ0FqV0p6WHFWdWU2dGFmak9NUnhLMDJrcjFQNU5mWlZkc1JYSkI1NzRjNVhSMnpnb20zNUlFS3V6LU9LWmtWb0daSmNxdHRLZEZlb2t3SEI5ZDFac2dlczEtNmM3Q19zSVVtRFgxSUFNOG1xWEtaUGE0aWkwNmhBMlJlVVkxN04xc3hsYl9DdTBiNFpBcm1ER2hoQ2tDcXZfbVVWaEYydG5NQU1sRHRzbFN0NmQyaUNJYlNB?oc=5",
-     "r": "Ayo Bandung"
+     "t": "DPRD Soroti Rp10 Miliar Anggaran Kecamatan Sumber: Patgulipat Uang Rakyat - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUg4VHR1OUZjd0JnMWc1blVMZzdzUmdUNC04SWFqemFyVUJEQVNYelh5OF9IYTh2MGZwQXJvVkFNMTF0cUplNGN5OVR2X2lUV0V2a1JNcEJobmNXU3ktZFVZa2ZmWXpHeFN5N3JWTEdOb2hiSkcxTW04aXJJcGVhdGY5T1ZkRUFuazdfZk9ZakstOThBVlBmWTNjazcxRWpa?oc=5",
+     "r": "Inilahkoran.id"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      0,
-     15,
+     16,
      3
     ]
    },

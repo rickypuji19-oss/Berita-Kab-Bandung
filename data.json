@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:09:56.535502+07:00",
+ "updated": "2026-10-09T00:08:14.406722+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,30 +8,26 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   23
   ],
   [
    "RRI.co.id",
-   17
-  ],
-  [
-   "Ayo Bandung",
-   13
+   18
   ],
   [
    "ANTARA News Jawa Barat",
    12
   ],
   [
-   "PPID Kab. Bandung",
-   9
+   "Ayo Bandung",
+   11
   ],
   [
-   "Kompas.com",
+   "PPID Kab. Bandung",
    8
   ],
   [
-   "Koran Gala",
+   "Kompas.com",
    7
   ],
   [
@@ -51,7 +47,7 @@
    4
   ],
   [
-   "Radar Bandung",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -59,11 +55,15 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Koran Gala",
    3
   ],
   [
    "Giwangkara",
+   3
+  ],
+  [
+   "Radar Bandung",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi program transformasi pelayanan publik Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KRloxLVlrRHpDclN2MGdlaVZpVFR4SXhvVlFlRlpIRUdNUVZXc1JMd1VpUmlkdFBMV0M2akRXVWhrX1lEdExfdGhMTWIwN1Y5Ri1QNGFDMDcxX3hwZWo1TkozY05ZU3otR2VrZWhlUEI4d2M?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Pemkab Bandung mempertimbangkan TPA mandiri hadapi penutupan Sarimukti - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenN0RngwUEx0Mmx5SWlTd3JRQS1faTkxOUoxblZWYm9YX0gtcWE1MzV1Q1J5cGY3Y1FnSDE2R044YTBnRWFNalRiM3g0T3A4a2VNSTRQdENSUU1kT3k2dHp6LWdvdUMyRUxIeHk5ZXlPYVhBeDRWd0UybDVJVERfb0gteGtuSE9Wd25JenZ0a09fMEZac3F4dXFrSU53ZDhlVDR5bTVnbnNCQnk4VFBqUHRJZ9IBuAFBVV95cUxQWVhKQWRTYUg2enJZQWgya1ZITTV1djNOWWhzWnVKeW50cU5hQlVCZTF2YmpiZVgwWC1xYTZrWDBJMzhla20zQTdGWVdyV2dGNjVzbG4wMmZGWUkyQXpkSVpqZVpkTXZfMkVWWTBZT1A1M1JqVFJoX2Z6QnhEY0xsUnFfdGxxaUw5NlIweENfc0wtRGcwNHotY0JTWk1ya2xENHFJQXlmQ01ZcThVeU5yRDBjajRWMG5u?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUdIBtgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUQ?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Kasus PT BDS Harus Diselesaikan di Pengadilan, Bos Tri: Bukan Lewat Opini - Satumedia.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckRxWGkxSzRoc1JoOTQxSVhQeFhHcEdVZE15cG9ZWGVQVS1HSmUzdG9kTnIxbXZ4czFCdzZMX2ZieHJodFdOTEkyZi1hVlc2blNydFJvN1V6bDVwcmZicTdtdlNFeXl0NFlfNHI1TW9CRmxKQTB3VEJ6am9qSDZRM0xRTjdIcE1CLU14VDNuTldtUHdac25jUXBwQ2thWHctQ09SemlYOVpWTWo1?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,37 +117,37 @@
     ],
     "w": [
      7,
-     28,
+     27,
      4
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      4,
-     3
+     3,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     3
+     3,
+     0
     ]
    }
   },
@@ -188,18 +188,18 @@
     "w": [
      0,
      14,
-     4
+     3
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
@@ -211,12 +211,12 @@
      0
     ],
     "g": [
-     1,
      0,
      0,
      1,
      0,
      2,
+     0,
      0
     ]
    }
@@ -262,27 +262,27 @@
      0
     ],
     "w": [
-     4,
-     13,
+     3,
+     12,
      2
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      1,
      0,
      1,
      1,
+     0,
      0,
      0
     ],
@@ -290,10 +290,10 @@
      0,
      0,
      0,
-     0,
      1,
      0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Viral di medsos, 2 pencuri kabel menara seluler di Cicalengka ditangkap polisi - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmN6Q2xRRV9Nb0NUSXQxaDVidjdFUl9XSlpuT0JUc0FoSjUyS2VjVlpGQ3RSMlF3cHE0Q0xybW9VV3psbFI3VFh6QzRpd3g1Z1k2MkMwcnVMUnBFbzVaNGdKYWhPaGU5MDZ4QXpyT2RVTTRrZWZzN1VmMUN1WVdKWXVLUENFdEJyWDdUY2RUNGNnRWZ2OVBOODBzV05sbzZWZ0pDVDJ3NHVBRkdKcVpvbjNqYzdkYXVZeHo5MtIBwgFBVV95cUxNNnBucTJZOWk4Uktmb3daSFl1TjdkUTBmdF9mNzFacmRNWXEtMFV2VUlzdGF3UGd0eWh3aFh1QXBJM0hsWUZscXRvYldtenVJODVOdWZDRmZFQ0ZMdnZPeDVVQkM5YVQ1WFoyaENkQmdGSWhydVYyemFaZ0FDWDgxOWVEYkRlaXlHcnZSYjlqOXZlcEFrMnpXWHhINlhocEMyVW5Ta2s3SjQxUzV1LWdidV9namlaX3RWLVFzd2VqZnMyZw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Update Kasus Keracunan 88 Seoul Paskal 23 Bandung: Polisi Periksa Saksi, Restoran Ditutup - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdVNwdGJXVG9GcmpJY1RfQ2NHQ3BLRUNVMWxQSWJrM1FwM1ItVC0waFdlbGpRZHN1TW9pLUluMzBpalJhTWdKaFJNbS1BamVvMExuNmFNTGRZbElCMnZNY3VhR2JSaE9ielg4UjBuQlRJN080QmltNzNUX1Q4UXktSzVqZXd6WmsyR0FxNjR0LXR0dkhFVTcxYktGQjJhSFowRjFkMm91dV9LTEVpQTJ5eXBLaU9OZWs3NkpPTW1DaTB0TzF1anFDTUNPM0d4MWc1TDNQMQ?oc=5",
@@ -317,12 +323,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2VPVkg5ZEFtUnpKVW9HbVRrTkE1UUFjY3RtbE9rNnpFMkFmM19vbUdpbFBUVXI2dDlHZnp0amdBVmpxNUx6dXdvVjN0b0VvZ1E0YjcxZS1Xc3djazhMbW95V2dNZDZnT09TbjQ5WWY4X2FRRk4zXzZialFzV2hsWUlYTUQzOTUtT0lmQzFSajVvYU1uRzJWc1NEXzdMNEcwQVRJUi1keVhOMjUwTmhwVWw0UkVnSlQxNnpB?oc=5",
      "r": "jurnalpolisi.co.id"
-    },
-    {
-     "t": "Nekat Gelapkan 18 Motor di Kabupaten Bandung, 3 Pelaku dan Penadah Ditangkap Polisi - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVm9tX0k2OXRHRGVTU3l2RmtEdUdyaDhFVXdnMWY0SHFOWkdCem5ldnNYVDh4bnU0ekF1Y2JmM0pjdjZBS0NzMllxUGM0Y29SMUdrRDBBVXZ2MWFXTWdZSC14Tmthay1xYVVSLThfcWVmTDI1eExNMk5BUEZWWXpfQ1pOREpvZklWWkZmanVmeFJHOUxGWjdvbkNZUG9CU2NkWjFXS0tMaVpDX3hCaVNPM002UHZ5anNFRWFUQnhoZExTTGZ1eDZna1A4S0g2VGFrd0JVNENZV3VkOGp4TVHSAeMBQVVfeXFMTUc3WEprQXJpc3NwU0d0Y3E1VGVzMG80WWNXa3BqVWhFQzdSUS14ZkFqT1g4SzJfQjkxSWh2UUF4T29NUzVpaWFBNkJOZkxTYXlfZm1hdHVtUDQzdG1LWHgtYmFYNVFoYXhXX29BRm9hNUdCczhYYzNWalhTTXdFWTZfZU5xS1RDTWxtd0xKd3haelJ6RDVRWlZDQ2twZzNnWFJvRnI3QXlRSTU4YmFCcDVka2Y0M2J4WUdoMEFxZWRJTlR2elg0SmdZdzFfR09GTkV1QmhZV3lwakRsVFhBNTA5c0k?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -340,42 +340,42 @@
    "v": {
     "s": [
      0,
-     4,
+     3,
      0
     ],
     "w": [
      2,
      28,
-     11
+     12
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      0,
      0,
      1,
      1,
      8,
-     1
+     2,
+     0
     ]
    }
   },
@@ -421,43 +421,43 @@
    ],
    "v": {
     "s": [
-     3,
+     2,
      0,
-     2
+     1
     ],
     "w": [
      1,
-     9,
-     12
+     6,
+     10
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      1,
-     1,
      0,
      0,
      1,
      1,
+     0,
      0
     ],
     "g": [
-     3,
      2,
      0,
      2,
      1,
      3,
-     3
+     3,
+     0
     ]
    }
   },
@@ -509,36 +509,36 @@
     ],
     "w": [
      4,
-     13,
+     10,
      2
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      0,
      0,
      2,
      0,
      1,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      1,
      0,
      0,
      1,
      1,
+     0,
      0
     ]
    }

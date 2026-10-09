@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:07:31.505887+07:00",
+ "updated": "2026-10-09T11:08:21.023364+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "RRI.co.id",
-   19
+   20
+  ],
+  [
+   "PPID Kab. Bandung",
+   12
   ],
   [
    "ANTARA News Jawa Barat",
    12
-  ],
-  [
-   "PPID Kab. Bandung",
-   11
   ],
   [
    "jabarekspres.com",
@@ -43,12 +43,12 @@
    6
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Galamedia News",
    4
   ],
   [
-   "Galamedia News",
-   3
+   "Pemerintah Kabupaten Bandung",
+   4
   ],
   [
    "Satumedia.id",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
      "r": "Galamedia News"
+    },
+    {
+     "t": "Tokoh Masyarakat Minta Semua Pihak Hormati Proses Hukum Kasus PT BDS, Tri Soroti Politisasi Perkara - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWnNqMVRFV21pbnZXQXpVMUVVM1hfTHUxS281a091X1ZFWkRIbmhuQVBTLUwzTGtYQWdabVpBNGxOdVZELTc0WkNieGVvRFp5UXJWc3ByWVo5WWp2U1pqT1JXMVNicHpzRzJLTEdybkVQN05HUnhQOGNyb1ZDMzRBSTA4cElVSTZlTEdDRXhpRXJsdm9SWUdDcGFsY0FtMjNmOHJEYzI0QzhFSzJHdWphYXI3REQ0b2lDZkVCT1VzbzMwYklFSEhrWXdaY04wVjV0VzQ1MGpaQ1pqdFFwbGtPTFZnT2NPNlhqS1IxVzY3ZmZRMXBsRkRv0gH3AUFVX3lxTE1ac2oxVEVXbWludldBelUxRVUzWF9MdTFLbzVrT3VfVkVaREhuaG5BUFMtTDNMa1hBZ1ptWkE0bE51VkQtNzRaQ2J4ZW9EWnlRclZzcHJZWjlZanZTWmpPUlcxU2JwenNHMktMR3JuRVA3TkdSeFA4Y3JvVkMzNEFJMDhwSVVJNmVMR0NFeGlFcmx2b1JZR0NwYWxjQW0yM2Y4ckRjMjRDOEVLMkd1amFhcjdERDRvaUNmRUJPVXNvMzBiSUVISGtZd1pjTjBWNXRXNDUwalpDWmp0UXBsa09MVmdPY082WGpLUjFXNjdmZlExcGxGRG8?oc=5",
+     "r": "Jurnal Soreang"
     },
     {
      "t": "Standar DIP Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1lTWNjZ2pCNGsyWUhtSk9rS3hMcVJLMm9TbHZ2dEh2dXZYVDlQTHM1cjBydnEwSFhWcUN4aDE1cnNoYVZIRmlwSDRINkxnZHV1YkFnb190cmlWRHpoanpuTzJ3bnlpek1POHZhYjNOTm8xRlpTVXR0c3loc2o0ZndLUG9oZU9PV19UMXUwSXF2RVZEbmNQYmhVMUt6THVRdXNWTWc4c25aQXNKeUZ1Qlh3Z29PWlJwdE55WlNlZw?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Bukti Kelulusan SPMB Tahun 2026 an. DEXANDRIA ISMAILOVIC SUNDASHEVA ( 3137562840 ) - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83ZzVMX0ZFa09aYi1aOThkaGItTEtyUU5pLWFhSWFDY3VhbGdaU2x5dHFyaVdQbDZHMUZSQUV1YnNCdWQwdTBUZ1lHNlBDUnhQRGRCYm1TeUUtWG9uV28tMTBpa3pucDF0Y2tfZ1YyRUg2aHU2VHNsUw?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     7,
-     28,
+     6,
+     30,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     4,
+     3,
      3,
      0
     ],
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVPSnN2RHhINF9GOVFqMXljRWRUN2p2NkthYXdVYkg3dEdfN3dIakVDWHh1Q0ZRdzdTdTNqS3AtN21JbVlYM01odHNMRGRQeWRXTXc2NHFDUW9EMEVyX2Q2MVBRMXh4SHNrUjRfd3cwSUtkLU4tU0hKU1pLc05PRVl5WkZvZnZUamltOGhIaFY4Z3gtdTljQW9PN295VERiUkhaYmJpQzduUQ?oc=5",
      "r": "WestJavaToday.com"
-    },
-    {
-     "t": "Waspada Penggiringan Opini, Tri : Kasus PT BDS Digiring ke Politik untuk Jatuhkan Martabat Bupati dan Pemda - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQblBNZzZOTU03R2ZFeVdlNFN1alZaRElqcHFtQ1hTNFgycXZPSjAwOEhHcDhTZEt5amZZTVlGblhyYllvZGduTFk5UW5kWTFmendxNnVkRDBwWVNSQmdqZ0ZZY0NGeXd3SGVvQzZyMklUUFBUR1NEOHJaTVo5bXRwVHo0dkFDUDh4M09Eakx5SG1zZlBaM0hZSkdxLWVDRWp5UWF6Rmo0MU9KYzE1V0gwVlhwdDNraVhnUXB0aFBqZ3ZwV1RrYTRIUXMzbkMzTlNFbnpIOFdVdTh3ODZfalJyS3U1enI0U0pnVUQ40gHwAUFVX3lxTE9TZERFSnRETVRYQXltdlhRQ1RrSGZNTmtqcHI2Wm10eG1XT3h6YlNYT3VlZ29vM0lzTVRwTEliUXBVR1d2MzUtc0stODJBX0s0R3dnZFdFU3NfTVhtZjZ5czlTXzMxamxHeWVON3ZYVkppbkdnVGRaZUFVcDNyNG5wM2VaTTRMRDVMLVZ2T2ZtUS0xMzRXelk1R0JPbWNpUzJWNDQ2ZGJjY2dYRnA4OEduZ1c0SlNyODAwLVpLekh1Y0JaRjBrZkJlLXl1M1pHV3d2eTZ0OUYtVDRBRlJka0dTUGdMSjlJTm9QdU00WWdMbA?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      0,
-     15,
-     3
+     16,
+     4
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     1
+     2
     ]
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:08:21.023364+07:00",
+ "updated": "2026-10-09T12:08:19.397972+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,26 +12,26 @@
   ],
   [
    "RRI.co.id",
-   20
-  ],
-  [
-   "PPID Kab. Bandung",
-   12
+   21
   ],
   [
    "ANTARA News Jawa Barat",
    12
   ],
   [
+   "PPID Kab. Bandung",
+   11
+  ],
+  [
    "jabarekspres.com",
+   9
+  ],
+  [
+   "Kompas.com",
    8
   ],
   [
    "Ayo Bandung",
-   7
-  ],
-  [
-   "Kompas.com",
    7
   ],
   [
@@ -43,12 +43,16 @@
    6
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
    "Galamedia News",
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Jurnal Soreang",
+   3
   ],
   [
    "Satumedia.id",
@@ -60,10 +64,6 @@
   ],
   [
    "Radar Bandung",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "Galamedia News"
     },
     {
+     "t": "500 PPPK Paruh Waktu KBB Harap Beralih Status Jadi ASN PPPK, DPRD Siap Koordinasi - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Tokoh Masyarakat Minta Semua Pihak Hormati Proses Hukum Kasus PT BDS, Tri Soroti Politisasi Perkara - Jurnal Soreang",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWnNqMVRFV21pbnZXQXpVMUVVM1hfTHUxS281a091X1ZFWkRIbmhuQVBTLUwzTGtYQWdabVpBNGxOdVZELTc0WkNieGVvRFp5UXJWc3ByWVo5WWp2U1pqT1JXMVNicHpzRzJLTEdybkVQN05HUnhQOGNyb1ZDMzRBSTA4cElVSTZlTEdDRXhpRXJsdm9SWUdDcGFsY0FtMjNmOHJEYzI0QzhFSzJHdWphYXI3REQ0b2lDZkVCT1VzbzMwYklFSEhrWXdaY04wVjV0VzQ1MGpaQ1pqdFFwbGtPTFZnT2NPNlhqS1IxVzY3ZmZRMXBsRkRv0gH3AUFVX3lxTE1ac2oxVEVXbWludldBelUxRVUzWF9MdTFLbzVrT3VfVkVaREhuaG5BUFMtTDNMa1hBZ1ptWkE0bE51VkQtNzRaQ2J4ZW9EWnlRclZzcHJZWjlZanZTWmpPUlcxU2JwenNHMktMR3JuRVA3TkdSeFA4Y3JvVkMzNEFJMDhwSVVJNmVMR0NFeGlFcmx2b1JZR0NwYWxjQW0yM2Y4ckRjMjRDOEVLMkd1amFhcjdERDRvaUNmRUJPVXNvMzBiSUVISGtZd1pjTjBWNXRXNDUwalpDWmp0UXBsa09MVmdPY082WGpLUjFXNjdmZlExcGxGRG8?oc=5",
      "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Standar DIP Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1lTWNjZ2pCNGsyWUhtSk9rS3hMcVJLMm9TbHZ2dEh2dXZYVDlQTHM1cjBydnEwSFhWcUN4aDE1cnNoYVZIRmlwSDRINkxnZHV1YkFnb190cmlWRHpoanpuTzJ3bnlpek1POHZhYjNOTm8xRlpTVXR0c3loc2o0ZndLUG9oZU9PV19UMXUwSXF2RVZEbmNQYmhVMUt6THVRdXNWTWc4c25aQXNKeUZ1Qlh3Z29PWlJwdE55WlNlZw?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     30,
+     31,
      3
     ]
    },
@@ -167,16 +167,16 @@
      "r": "Galamedia News"
     },
     {
+     "t": "500 PPPK Paruh Waktu KBB Harap Beralih Status Jadi ASN PPPK, DPRD Siap Koordinasi - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Polemik Fasum Rancamanyar, Warga Tempuh Jalur Hukum dan Buka Ruang Musyawarah - WestJavaToday.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVPSnN2RHhINF9GOVFqMXljRWRUN2p2NkthYXdVYkg3dEdfN3dIakVDWHh1Q0ZRdzdTdTNqS3AtN21JbVlYM01odHNMRGRQeWRXTXc2NHFDUW9EMEVyX2Q2MVBRMXh4SHNrUjRfd3cwSUtkLU4tU0hKU1pLc05PRVl5WkZvZnZUamltOGhIaFY4Z3gtdTljQW9PN295VERiUkhaYmJpQzduUQ?oc=5",
-     "r": "WestJavaToday.com"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     13,
+     14,
      2
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     27,
+     28,
      11
     ]
    },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "BPBD Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor Jelang Musim Hujan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkRLTHlRODhWY0RDc3JEX0pfQ3lfb3FIeTl2UkIxLWx3NEtacjVhZTB4dHFhRGs2SHhBM2RjSFhfOWlNaU9HQzB2WkRaQ1NQR0xwQ2N0dE5SZ1BGY2tRV1Z0YndYenN5amE1b0x3QlVEdHBzaFpDdjJTRUtWd041T09yd3dTc0dyV2EzNFRuSDhOSUhSXzlibjJCWEhoeTZNOW9pMGU2MWNnNGhnb2NMbnV5V3JXRmkyQktiOFd4ellxemlU?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Pantau Proyek Infrastruktur, Wabup Bulungan Tekankan Ketepatan Waktu dan Kualitas - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPREthWlhuejNNM0RIeUR1cDZfaS1RWHQ4RjdrbjZIdDVFLWliT2p5YURGOTRyMmVhSlF1ZlRMVk5URXI3elVsdHB4OWluVWtiZmxvZEtHRjVROXBCc3FaYzl1enk0Q0ZkZ20yc21Md3YwLU5xRUNSaW5nMlNJUlAzOV9nemdRUTdYV3FSU1hIX2pmQUxKakVMcXJac2JSdk5veEV1dkNOaHpGTW9hN1IwU0ZDNUZTQjE2NjZLOXcyTXFCRUk?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXB0cE5zdHZKYzUxZm9iU0ViamoxWXoxbnp6dEpQTEJOdnpPcG40LUprZ1lUNmtua2F1YUtRUE52aFVESFNYXy1zQURYaHd4aThxT3h3ZEc5QV8yOEt5T3I3Vm9XRGZkTEVzZm1lUzhPV1hWVnZvdjdVbEV6QmV1SVpNRmVoYWhMYlBuVklXSWRsMWxoZXY0T2M3bVpvWDM1VHg4aDM2X3B6VzYwU0JNRWNwaml3OVFPVFNGRTY3ZmJQZU1s?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "8 Titik Rawan Banjir dan Longsor di Kabupaten Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVczWVVxbFFvTkl2VVFzWHd3OGYyYjl0MmxDMm1oNVVxOHdpMmRCdXd2ZW53VXkzU1g0WFFqNEs1MzZWTVlIRHVIOWtYZWhRU0JUSUQteGVfUTFvMTVQbHc4Z0pnV3RfN2U2RkFpc2NHZGZhTTBpdVVQQ2hMYktFZ1VTS0YwVURfUHVveGw2cW1BRTVMOGVwQk5iWGJPY2fSAaQBQVVfeXFMTk5oT2FXXzJNd1pDMW14bE5zZXBMb2lPeFNDUzd3UkgtRW5ueTdVNkFxa3lRNjlGV3F0dVU5ZnRvejVuMHRNcEt0LUtOeUR0M29oWnYyclRKYzAtajcydXhsU0ZqcEpGMURta1IwbmtkcXJfSFEwTFNaS2NMaDA5OTZDSjlYX0U3LXEtQXhIUEtDeVBzVzhPZmNCU1l3VEZ2YzZkNmI?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -428,7 +428,7 @@
     "w": [
      1,
      6,
-     10
+     11
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      3,
      3,
-     0
+     1
     ]
    }
   },
@@ -508,7 +508,7 @@
      1
     ],
     "w": [
-     3,
+     4,
      12,
      2
     ]
@@ -528,7 +528,7 @@
      0,
      2,
      0,
-     0,
+     1,
      1,
      0
     ],

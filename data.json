@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:09:36.290401+07:00",
+ "updated": "2026-10-09T08:12:59.355967+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,16 +15,16 @@
    20
   ],
   [
+   "PPID Kab. Bandung",
+   12
+  ],
+  [
    "ANTARA News Jawa Barat",
    12
   ],
   [
-   "PPID Kab. Bandung",
-   11
-  ],
-  [
    "Ayo Bandung",
-   10
+   9
   ],
   [
    "jabarekspres.com",
@@ -43,11 +43,19 @@
    6
   ],
   [
+   "Galamedia News",
+   3
+  ],
+  [
    "Satumedia.id",
    3
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "Koran Gala",
    3
   ],
   [
@@ -57,14 +65,6 @@
   [
    "Pikiran Rakyat Koran",
    3
-  ],
-  [
-   "bandungraya.net",
-   2
-  ],
-  [
-   "Koran Gala",
-   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Standar DIP Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1lTWNjZ2pCNGsyWUhtSk9rS3hMcVJLMm9TbHZ2dEh2dXZYVDlQTHM1cjBydnEwSFhWcUN4aDE1cnNoYVZIRmlwSDRINkxnZHV1YkFnb190cmlWRHpoanpuTzJ3bnlpek1POHZhYjNOTm8xRlpTVXR0c3loc2o0ZndLUG9oZU9PV19UMXUwSXF2RVZEbmNQYmhVMUt6THVRdXNWTWc4c25aQXNKeUZ1Qlh3Z29PWlJwdE55WlNlZw?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Berita dan Informasi program transformasi pelayanan publik Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KRloxLVlrRHpDclN2MGdlaVZpVFR4SXhvVlFlRlpIRUdNUVZXc1JMd1VpUmlkdFBMV0M2akRXVWhrX1lEdExfdGhMTWIwN1Y5Ri1QNGFDMDcxX3hwZWo1TkozY05ZU3otR2VrZWhlUEI4d2M?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Bandung Dorong Sport Tourism dan Industri Olahraga, Si Jalak Harupat Disiapkan Lebih Produktif - https://beritabandung.id/",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3luMU1DS3hFUGkyZ0R5dHhjV1pSVkl5UTJzUnc5WGM1UENiQmY5ZHJLTE9Tb0VjVWNjUGx6RWFudzVOdUVXTlYzNGxORWt5d3NKSkItVlNvYVUtckNpR3FPT0NSbDZpSmE4UXV5S1NNcllRTklNRFZrR21NbS1ZZDROeEpDYTV1S3oxcXZReTFIdnN5M3dxRWNQR044NTlhMGVaYmNmR054Mk94clBrU3hZX2hDYUx4aW13TTFfYkZzNWVq?oc=5",
-     "r": "https://beritabandung.id/"
-    },
-    {
-     "t": "Pemkab Bandung mempertimbangkan TPA mandiri hadapi penutupan Sarimukti - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenN0RngwUEx0Mmx5SWlTd3JRQS1faTkxOUoxblZWYm9YX0gtcWE1MzV1Q1J5cGY3Y1FnSDE2R044YTBnRWFNalRiM3g0T3A4a2VNSTRQdENSUU1kT3k2dHp6LWdvdUMyRUxIeHk5ZXlPYVhBeDRWd0UybDVJVERfb0gteGtuSE9Wd25JenZ0a09fMEZac3F4dXFrSU53ZDhlVDR5bTVnbnNCQnk4VFBqUHRJZ9IBuAFBVV95cUxQWVhKQWRTYUg2enJZQWgya1ZITTV1djNOWWhzWnVKeW50cU5hQlVCZTF2YmpiZVgwWC1xYTZrWDBJMzhla20zQTdGWVdyV2dGNjVzbG4wMmZGWUkyQXpkSVpqZVpkTXZfMkVWWTBZT1A1M1JqVFJoX2Z6QnhEY0xsUnFfdGxxaUw5NlIweENfc0wtRGcwNHotY0JTWk1ya2xENHFJQXlmQ01ZcThVeU5yRDBjajRWMG5u?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     27,
+     28,
      4
     ]
    },
@@ -146,8 +146,8 @@
      0,
      0,
      1,
-     3,
-     0
+     2,
+     1
     ]
    }
   },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Polemik Fasum Rancamanyar, Warga Tempuh Jalur Hukum dan Buka Ruang Musyawarah - WestJavaToday.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVPSnN2RHhINF9GOVFqMXljRWRUN2p2NkthYXdVYkg3dEdfN3dIakVDWHh1Q0ZRdzdTdTNqS3AtN21JbVlYM01odHNMRGRQeWRXTXc2NHFDUW9EMEVyX2Q2MVBRMXh4SHNrUjRfd3cwSUtkLU4tU0hKU1pLc05PRVl5WkZvZnZUamltOGhIaFY4Z3gtdTljQW9PN295VERiUkhaYmJpQzduUQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQblBNZzZOTU03R2ZFeVdlNFN1alZaRElqcHFtQ1hTNFgycXZPSjAwOEhHcDhTZEt5amZZTVlGblhyYllvZGduTFk5UW5kWTFmendxNnVkRDBwWVNSQmdqZ0ZZY0NGeXd3SGVvQzZyMklUUFBUR1NEOHJaTVo5bXRwVHo0dkFDUDh4M09Eakx5SG1zZlBaM0hZSkdxLWVDRWp5UWF6Rmo0MU9KYzE1V0gwVlhwdDNraVhnUXB0aFBqZ3ZwV1RrYTRIUXMzbkMzTlNFbnpIOFdVdTh3ODZfalJyS3U1enI0U0pnVUQ40gHwAUFVX3lxTE9TZERFSnRETVRYQXltdlhRQ1RrSGZNTmtqcHI2Wm10eG1XT3h6YlNYT3VlZ29vM0lzTVRwTEliUXBVR1d2MzUtc0stODJBX0s0R3dnZFdFU3NfTVhtZjZ5czlTXzMxamxHeWVON3ZYVkppbkdnVGRaZUFVcDNyNG5wM2VaTTRMRDVMLVZ2T2ZtUS0xMzRXelk1R0JPbWNpUzJWNDQ2ZGJjY2dYRnA4OEduZ1c0SlNyODAwLVpLekh1Y0JaRjBrZkJlLXl1M1pHV3d2eTZ0OUYtVDRBRlJka0dTUGdMSjlJTm9QdU00WWdMbA?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "DPRD Soroti Rp10 Miliar Anggaran Kecamatan Sumber: Patgulipat Uang Rakyat - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUg4VHR1OUZjd0JnMWc1blVMZzdzUmdUNC04SWFqemFyVUJEQVNYelh5OF9IYTh2MGZwQXJvVkFNMTF0cUplNGN5OVR2X2lUV0V2a1JNcEJobmNXU3ktZFVZa2ZmWXpHeFN5N3JWTEdOb2hiSkcxTW04aXJJcGVhdGY5T1ZkRUFuazdfZk9ZakstOThBVlBmWTNjazcxRWpa?oc=5",
-     "r": "Inilahkoran.id"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      0,
      16,
-     3
+     4
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      2,
      0,
-     0
+     1
     ]
    }
   },

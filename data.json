@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T14:11:00.192877+07:00",
+ "updated": "2026-10-09T15:08:45.141129+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -19,10 +19,6 @@
    13
   ],
   [
-   "Kompas.com",
-   9
-  ],
-  [
    "PPID Kab. Bandung",
    8
   ],
@@ -31,7 +27,7 @@
    8
   ],
   [
-   "detikcom",
+   "Kompas.com",
    8
   ],
   [
@@ -39,12 +35,12 @@
    7
   ],
   [
-   "Radio PRFM",
-   6
+   "detikcom",
+   7
   ],
   [
-   "Galamedia News",
-   4
+   "Radio PRFM",
+   6
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -55,7 +51,7 @@
    3
   ],
   [
-   "Satumedia.id",
+   "Galamedia News",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Radar Bandung",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Bukan Cuma Kejar Medali, KDS Beri Jaminan BPJS Ketenagakerjaan Bagi 1.231 Kontingen Porprov XV 2026 - Gerbang Patriot",
+     "t": "Bupati KDS Pasang Standar Tinggi! Setiap Rupiah Uang Rakyat Wajib Berbuah Manfaat Nyata - Gerbang Patriot",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1llWTYtRTlnRkNZOVFIVkVISGRBU2h0S0gyYzlQWUV1cm4tTVp5bUxnN0hYd21RTThiU2hZNkZqc2sxaXlNYjRleFkxbVB3dnFVR0hXXy1WcERLSTRxX2lsSi1VNWI0Y2tPQUZnOUZPaXJWaUVLWkxNSXZUWFpvZ1AxZmFrcVZvbTkyX2JEOUdiM1RfTmJmTDFJWllxQXpEMGVoekdrQzN0ak4wVVpnXzJyMHN2bXlxSzNMT3BTcWU0ZmJVMllLU3NqeUgwZkwzNzNr?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3VUV3NjV3Njek52ZlhDWnRESlpaMjgzT3VvNm1iTEN3TTJnZDJsamdkQ3h5YUFJS0NQbzJ2a0ZKcmttQ2Q2bGQ1VkxPMVJBZ1V5SDJmRldrbzd1WnMzWDVyQnFiNlJ0MzdORC1vbDZCQ05teExtNzdrV2dscDNpV3dKaGRUX2std09EWnFiT1NNNEcxdkwwWWZtckMxVVBOVE9PeHZmLU5nc3hiZVBPdmR5NTNnUDJRUU1WNkN4bHZaYlU?oc=5",
      "r": "Gerbang Patriot"
     },
     {
-     "t": "Bupati Bandung Tekankan Evaluasi SAKIP Jadi Dasar Perbaikan Kinerja Perangkat Daerah - www.balebandung.com",
+     "t": "Jamin Keselamatan 1.231 Kontingen Porprov XV, KONI Kabupaten Bandung dan BPJS Ketenagakerjaan Teken MoU - Sumedang Bagus",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTlXNlZVUmxSMTBjZnp3SkdhMDNPRzJrUjdDdTFtZW9JaEo2WHR4aHNxTnJWcDZfM2dzSWN6cEZlemRhcVhzN2hjZVRSeDdMS0lQcnpJMjlqTlRyak1HZi1mSEhUSkM5ODBLSTNnM3huYlZRcURjX3I4UTM0QkJIN2xCY1huQTBGNUxQUll0WWl0cmg5RUFiaW9iX0Fua2lqbzF6aGZ4dll2cTlOSWd3NnlIcw?oc=5",
-     "r": "www.balebandung.com"
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORy0wNHRUcGV2Ti1KSjJCbkg1VGVjaFBJQ0VJQzlhX1Q5ZV9HUHBIeXNIR0xJZHJDMEQzQzdaTnQySnVneEwtVm1PQXhRekpMN3B3ODVIRFk0Qmw2MlkwcHZzeG5yVk5YNnIxRFZ1Q3N1alVkSFNfZzV1d1dDWWM0V0RjQmpzTmdCdEpsSFNMdC1pS3JpcHZqUHI2bVFtZ2tPS1J1X29MTmcydllnb0xKUWFvX0ZJUXRFWFBsUnZ5RFpGQmpNb0pOU1E3T3JDWks2MnQ3NVREQXc1dXNJUzN6S2xFZU93TFFlQWdkYmM3ZzBiZ9IB9wFBVV95cUxNSjNubnJMbTlFSnV5bTdoT0NSeFFfTm5PbmREZDZMbVJPd1lIc3pZbkNaTzUxMXlwZndsRUtKa3BqRmNwd240eHR4T1U4NVFBVUNpTEs3SWZkU3lXSnVNM1NzaUg4UmJoT0Y4Y0FiM0Y4eE9YSHRGYnZoN1UzLXFvR0UyTG52SmxoaGt2S0Frelh1a25hV3Jic0IzU3dqendiMEtsTTZORlkzc1F0VlR0cjhaa3hyN21iMDlOR3hBQklwdWxKSFVNb0NUazlOYlR4WGIwSnYxN0ViOXhHNm44aVA2aUZMR1dhM0cwZjZGVFZQYkZXQUN3?oc=5",
+     "r": "Sumedang Bagus"
     },
     {
-     "t": "Ali Syakieb Ajak Warga Kabupaten Bandung Ikut BAZNAS Fun Walk 2026 - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdLVmExSnQwZFJ0MlJJaEo2cW8yWWo1UDJvaVBFc2xPaDNZcEl3X1lxc2ZzZkJTLW0tODMzUjJWSzQyamViUFFKRk9ITzRqVjdaeHkxQ0hCdXpjMnRkSGtJd0Y3eXlxUkNMSE9NdUhzNU9NQWxlZEZWeDlGS2RDRXZlNGcySU1LTFEyamVRMW1uSHlYQm1uVWZla2tZNVM50gGSAUFVX3lxTFBlZEluc1J0b3U3ajVPUVZ5cHdyemVjbnUtdFhPMGx3eThzVGcxWml6alE1NnNkVnhnMXN1dkZ2eHl1RkMxUVI1SFB2UzNDSzUwT084MENGSUhKcHBQUGVkQUp6UnJyU1NWOTNiWXV0bXQ4Q3BCUzFKVnZfYnlzek1Dc29RUEh1ZmZBNHA5REJWZE1n?oc=5",
-     "r": "Ketik"
+     "t": "Jamin Keselamatan 1.231 Kontingen Porprov XV, KONI Kabupaten Bandung dan BPJS Ketenagakerjaan Teken MoU - Sumedang Bagus",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSjNubnJMbTlFSnV5bTdoT0NSeFFfTm5PbmREZDZMbVJPd1lIc3pZbkNaTzUxMXlwZndsRUtKa3BqRmNwd240eHR4T1U4NVFBVUNpTEs3SWZkU3lXSnVNM1NzaUg4UmJoT0Y4Y0FiM0Y4eE9YSHRGYnZoN1UzLXFvR0UyTG52SmxoaGt2S0Frelh1a25hV3Jic0IzU3dqendiMEtsTTZORlkzc1F0VlR0cjhaa3hyN21iMDlOR3hBQklwdWxKSFVNb0NUazlOYlR4WGIwSnYxN0ViOXhHNm44aVA2aUZMR1dhM0cwZjZGVFZQYkZXQUN30gH3AUFVX3lxTE1KM25uckxtOUVKdXltN2hPQ1J4UV9Obk9uZERkNkxtUk93WUhzelluQ1pPNTExeXBmd2xFS0prcGpGY3B3bjR4dHhPVTg1UUFVQ2lMSzdJZmRTeVdKdU0zU3NpSDhSYmhPRjhjQWIzRjh4T1hIdEZidmg3VTMtcW9HRTJMbnZKbGhoa3ZLQWt6WHVrbmFXcmJzQjNTd2p6d2IwS2xNNk5GWTNzUXRWVHRyOFpreHI3bWIwOU5HeEFCSXB1bEpIVU1vQ1RrOU5iVHhYYjBKdjE3RWI5eEc2bjhpUDZpRkxHV2EzRzBmNkZUVlBiRldBQ3c?oc=5",
+     "r": "Sumedang Bagus"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      29,
      3
     ]
@@ -136,9 +136,9 @@
      0,
      0,
      1,
-     2,
+     0,
      3,
-     1
+     2
     ],
     "g": [
      0,
@@ -187,7 +187,7 @@
     ],
     "w": [
      0,
-     17,
+     15,
      4
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Modus Minta Uang, 3 Pelaku di Bandung Ditangkap Usai Aniaya Korban dan Bawa Kabur Motor - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXowaThHLU16MVVZSy1YX1hsUkdQVlFZaU02d3dtNzE1WU9ZSl9KU19kN2NBR2g3VUhBTVJXOU1DU3JVRzNuS2ZyUkd3NzVBMGgxYjVFbG9hWUZITUxJLUtRUG51cjRVQ3VsajY5Y0MtYTRrTDV0SkRwMXdVemNyX25KeWc1bGhmTHk0MkRjLVZNRXN0aTlGVjlkeUQ4UmhJTnVoV1ZqUktESzJzb3g0b29BVmdUeU5aUTBBT0hGVmJnU1l3bEE?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polresta Bandung tetapkan 4 tersangka kasus asusila di Baleendah, Ini pasal pencabulan yang dijerat - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVA0LWp2YzVKNXNTRGFia295NE85blVhVllLSDFOeXhWMkt5YjdENXg2OTJsNWRxQzhkWmtTaENkZmdFMlpsYXhreHJHNDFxNTU4bUx6ZzZPMk5XRk5vYzRIOXM3WmszZ2hpZnFSbi1abm1vNmVCUTU5aVJQVmhTZHVBUVRRSnQ5ZDFBbUhaclFaQm9VUllDWU1KU1NFQjJkRWhDeGp4TlhGMS0xdzk2Nmh0OTJ0ZFJhOGs1d3JkZHZNS3BVNEVQdWg0Q29VdDBzUTBxbEdjVWPSAd4BQVVfeXFMTm9lWmtQRVRtVG9qMkJVdUtSRVljdUcycVp0cl9NaDQ2Zy12dUdQZGx0Q1pFR1FSNy1hUTVrb2xIUGJtQmV2Q3lhbzJJRGNZNGJERUo0Y00wYjdiUGZKZEw1NzMyOUxQWExGVUtZeDNacUlTVEM5aWwxRjBISnNHWjBhX3Q1R1N6aDRUZUJDdHpZd3VueFJLY2FFVFBKelVSZjRvbjAxV0NhUUNqXzFyX1U1NU9ENGlpRjRQR2psMDVJYkVpbDhwNjJlSTRQVU80MWEwbmI5c2dlRE45VWln?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakl4VFY1c1JET2J1dF9xWkNjV082LU1ua1k1OHdQcjZLVVJRYnhsM2gwenRfMUl4ZEJoam1EdDAzVVBOVlRoM05wWlV2ekRVNEY3Um95Y05MaGY3V19ZUlItSE5NdnlHS1NISUs1dU9zM3RmS3NFejBJRlgyN1dzeHhMVFNKcTlkcm16dTFJVzMxOVNJdWR4UVp3OHBrbkhyWWpieG96UUJ4Y2FKUTliU3ZCLTJuTER0eUpaLTlXbllIZXBaY2c?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Polresta Bandung Amankan 4 Orang dalam Kasus Dugaan Rudapaksa - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW04bHBHcHRXS09iX3lMMHpwb0NVQV9iLXZFTmMxbElQS3V5Ui1ScFRCY0t0NkYtTzd4NEUwaE5nMWhDVms5ems4ZUNHMUk5Q3JseU1BLXNESHoxVFAxUVN1NmJWcldqZTlVNUF6RlJWYUM5TjY3U3gzcFRORl9JUlM4UC1EVzhzUUZNVXpHNGQtdkNpSHZueHRUMm5ZeV9RZFUwakltQ0Q?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     24,
-     16
+     21,
+     17
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      1,
      8,
      2,
-     5
+     6
     ]
    }
   },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Buntut Macet Jalan Cicadas, Dishub Bandung Minta Proyek BRT Diatur Waktu Pengerjaannya - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXE4ZjBIVWdBVXFTUkcwRlc5ZlVjYUpORUI4Q2M4XzRwdzJndVAzVG1DY3ZlVDloZ0gyMWh0Uk45Y1I1WEdLWWN0MW16N2F0Y0ZDd3ZmV3dDWFNNV040ck1nNVREamY3eFlXWmM3OTZuYXk1djRuLXVVSzkyaGJiRmV3ZER1N3Y0c1FJVlVtSHgwTjB6ZUg5a09WLV9RamZjWmU5aHN6VzN0VURpQTVfUXBWamN2S2k4UlQ1WDBXTndsSUpOUF8ya1FBS2FTOFZNd3c?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kecelakaan Truk di Ciburuy–Padalarang Picu Kemacetan Panjang Arah Bandung - ayobandung.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTdKTEpkQUlzZzRqelRHVlVaUlpxTDNmUG5fcXh2eVZzZWZ3QmxQTk5WaFRPSWlVd2hWTDl0TUo4aWRsVXJsTVJEVVhBdGdLb2hRNXVpam9XeFFKTEljVktQZUluZlk4aDFJZ09Zd3dPSlF3Tmh0NlNoa0VCTG50MUFNcHFQWHNjbFRFT0R3a2xYd0p0UHVhcDZmWFoyZkFVQW5Cd3lWYXp1aG9oVXk2ZkhROGxSR24tbVE?oc=5",
@@ -398,12 +404,6 @@
      "t": "BPBD Bandung Petakan 8 Desa Rawan Banjir Bandang dan Longsor Jelang Musim Hujan - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkRLTHlRODhWY0RDc3JEX0pfQ3lfb3FIeTl2UkIxLWx3NEtacjVhZTB4dHFhRGs2SHhBM2RjSFhfOWlNaU9HQzB2WkRaQ1NQR0xwQ2N0dE5SZ1BGY2tRV1Z0YndYenN5amE1b0x3QlVEdHBzaFpDdjJTRUtWd041T09yd3dTc0dyV2EzNFRuSDhOSUhSXzlibjJCWEhoeTZNOW9pMGU2MWNnNGhnb2NMbnV5V3JXRmkyQktiOFd4ellxemlU?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Pantau Proyek Infrastruktur, Wabup Bulungan Tekankan Ketepatan Waktu dan Kualitas - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPREthWlhuejNNM0RIeUR1cDZfaS1RWHQ4RjdrbjZIdDVFLWliT2p5YURGOTRyMmVhSlF1ZlRMVk5URXI3elVsdHB4OWluVWtiZmxvZEtHRjVROXBCc3FaYzl1enk0Q0ZkZ20yc21Md3YwLU5xRUNSaW5nMlNJUlAzOV9nemdRUTdYV3FSU1hIX2pmQUxKakVMcXJac2JSdk5veEV1dkNOaHpGTW9hN1IwU0ZDNUZTQjE2NjZLOXcyTXFCRUk?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -428,7 +428,7 @@
     "w": [
      1,
      6,
-     12
+     13
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      3,
      3,
-     2
+     3
     ]
    }
   },

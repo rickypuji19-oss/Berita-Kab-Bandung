@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:07:30.650726+07:00",
+ "updated": "2026-10-10T05:07:15.964440+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   22
   ],
   [
    "RRI.co.id",
@@ -28,26 +28,30 @@
   ],
   [
    "jabarekspres.com",
-   8
+   9
   ],
   [
    "detikcom",
    8
   ],
   [
-   "Radio PRFM",
-   6
-  ],
-  [
    "Radar Bandung",
    5
   ],
   [
-   "Jurnal Soreang",
-   5
+   "Pikiran Rakyat Koran",
+   4
   ],
   [
    "iNews.ID",
+   4
+  ],
+  [
+   "Jurnal Soreang",
+   4
+  ],
+  [
+   "Radio PRFM",
    4
   ],
   [
@@ -55,15 +59,11 @@
    3
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Galamedia News",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Simalabar Kabupaten Bandung, PNS Wajib Belajar 20 Jam per Tahun - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2RQUEdWRllWS3dFSUFnd2QyWXp4OHdWYzBfa1NuV0NuRnh3VEhTUjhaMDN1Y3FycjNEU0REQS0xQTJuT1BFRzNBdzdhUld5b3QteE9iMFRSLVhaZFRpQTNXZnpIZjlHdFhxbWstaWFDMUVFXzhuRzJfNy1BNUxyM2ZuQXYwZmx5TmxydEhNUGVtcnZkdjdmNFc4QzZTSFZWLURtRGhDZUVVcjRfTVJTMXMwalhadw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - SuaraGarut.ID",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02b3Z2RHl5RVdUNTdoUkJjX291TmxzZG14akExZjZ1Q3Frejh1VFJFZUZJbzFVLXhtVmV0YjdncXpZRURsZ2Q5U2RfYzZkcmVGLUF2YVZabzhsbDM3Z3I1dWNCLTJueFRMWTlB?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaktrMUFQaHNUU1pyV09COXg2Q2pmVElLYnZpbUVfWnp5QVpKZjcyM2kzXzVZb0xMNlJBeFlaWHBUTFRQWjkwb1VJZlU1YVF2NmpCQUdFV1Zadmo5S0xxLVFadHUwNTh2bG9LaktfMzNsaWF2SG5Dd2FxdlRSQnVYQTByZkhaTHRNSi1oMW9WLXpycEtZbzhCWGhXd3VPSkR6blhNQnVtN0d5QmQ3WUllZ19QczJ2a2lFTktYQmtB0gG-AUFVX3lxTE5qS2sxQVBoc1RTWnJXT0I5eDZDamZUSUtidmltRV9aenlBWkpmNzIzaTNfNVlvTEw2UkF4WVpYcFRMVFBaOTBvVUlmVTVhUXY2akJBR0VXVlp2ajlLTHEtUVp0dTA1OHZsb0tqS18zM2xpYXZIbkN3YXF2VFJCdVhBMHJmSFpMdE1KLWgxb1YtenJwS1lvOEJYaFd3dU9KRHpuWE1CdW03R3lCZDdZSWVnX1BzMnZraUVOS1hCa0E?oc=5",
      "r": "iNews.ID"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - Demokratis.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ya2JtOWFjS2k3TW1jcUxYaDdmNHVRczFvYV9pU29qVGFZY3FpTDFRUVd6YTZCTENDU0FuaHFPaDdWRzU3czdZaEVmb2FNdi16ek52REMxdXVhR0Jpd3RmYTVFRFpkNThJU1UzUVd3?oc=5",
-     "r": "Demokratis.co.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      3,
-     37,
+     38,
      1
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Bersyukur! Pemdes Cibodas Lembang Resmikan Perbaikan Jalan di Wilayah Desa Cibodas Lembang Selesai - Lembang News - Lembang News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVU1zbVN4YnIxdV9NaXRQQlBPamdSZVpyMjF1Ulc3TldQWG9kc2NDOEFvWm41Y3JGa3o1NkVCbGJqcTNCZ0hPM21uQ3Bjd2VGUVVGVEUxVGp6N2VLRVlWelJZTm1lcW5sY1RoRXRvTi13a1lhOEl4V0xPVkg5MURQNkt0UXdxVmJnTTJfVkpCNENEMzhpb1dsOG5mVG1YUUpKN3JDajRUazhNbUtoXzFxX0NwdkhSaks2TE9xR1VjWDdDaDZ0RVVRLWVHZmJMRl9kay1ScTdENjc2UdIB3wFBVV95cUxNUGlUU0pMNGdZa2lOaERENS1pYVhkbkF1Z3ZhcUFhMzYwVjkzMTdEc2JsMmxaSWY3VUFCZEFlSWVrZm16NnhBWVBsX2gyOUtRVUFYZ3JRU1I3TVMyV3dQLXItOHBKT1diZk9XN1NVaUp4N0d6N3BXcWY4TG5ma2NsT09iM204b0toMGRXMmlTNUZnNTBvUERud05kYnpJVjZERnRXSFhxNm4zS2ZDSV90VVY4Zm8xdDE3NlRic3lxd3QxOUsycjVvYU50V3JGbHFsc0VOZTh2SUZJakh4QzFj?oc=5",
+     "r": "Lembang News"
+    },
+    {
      "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -192,7 +192,7 @@
      0
     ],
     "w": [
-     0,
+     2,
      14,
      6
     ]
@@ -210,10 +210,10 @@
     "p": [
      0,
      0,
-     0,
-     0,
-     0,
      1,
+     0,
+     0,
+     2,
      0
     ],
     "g": [
@@ -307,12 +307,6 @@
    ],
    "h": [
     {
-     "t": "Hasil Razia Saritem, 21 Orang Positif Sabu Dibawa ke Mako Polrestabes untuk Diusut - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbExrd3lySEl3UGs4bm9wN2E5WGNlSEZJSGZFRHBYY0xrYVVPOEhtMktSVS1EcVdMWXZkUjBtdEZINTlHdjR4RUlEdENVdEhUY090cW9EQk5DZzlyN0U3QmM4WEt1T3ZwazdFcWpMb2Q2MV9tNXNBb2pRZ0VlWHBtVU9kVkswdm9ubDI3TnlCWUtDOVQ4OVlDVnphWEh3blUwUHRocHRLamRTc2xfa3J3Qk44YVQ0UXg5WFNWSk9EY2Z0YTc3LVF5ZXRpLUk?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "BREAKING NEWS Sore-sore Saritem Bandung Digerebek, Polisi Temukan Puluhan Orang Positif Narkoba - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXhKWWFuZHVsZlZpQ3kxOXhDMEQ3eXl5THR5NjNFc2ZyZUVicWpPRllYbnB0R3BrbFgyOS0xdUhNc1hrVmdRNVR3OFAzTFpHRkVGZUlGUFM0enZrWlkxZVpsb0FRdndaai0xMUxtX0FYcnNwY1JqRFZEMjFwaElzR3k1ak9KUUw5U2hCLTVaTEpyT082elhXcUNmZHJUUjFad09RdHkyR3l1eVBQRk1zdk5oTlF3VGNWX0FiVXQ5RGo1RVVVNGtGcDQ4cWhKWTNfcC1uUnRZWQ?oc=5",
@@ -323,6 +317,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg2SDNFZkY4YWxxaFA1ekgxRlBxWjdUQ3pqbkxuUlpMOEJGSzIwTnJFMjZ6aVhMNGt1MTE3dzJkTktaSFJxUFZmUm4tUlpNeXVkSW4yMzhlcG9sLWRzMjVJSmxhRGtYZl9fU0UtN2VPTkR4UWNyM3I4RnNUME5Rb21Xc0xoa2ZiTGFFOXVYMngyNVYtX1NUVUZhODIzYkxRNjV1YjhLYkIzSXo4Z3RNTzZZRjdUSWJkbG9OUDd1MnlkeFXSAcgBQVVfeXFMTXFieTY2bkdqWDN0XzNGa2tDV1pBSkltcW5vd0IzbVZmTWpKMm1FWU9nNENLVVdnWG1IeUdXeGpxY25zSGo1cDRyLWltalBvSnVHOVBLb0hhQnJLeXlld0VfSkYxYVlQTmliRFdjcEpwTjVqalh6RTVyV0pHM3N1UTBJOW50MkxyUnRwa194bTZRTnYxVjVmbWlZYWtSTDViY21qVXJrTlBVLUwwcU1aSmFMOHFwRnhveTFPWWxJQ1V5VFRyZi1mOHc?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Eks Ketua HIPMI Kab Bandung Kembali Ditahan, Sidang Berlanjut - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkFaQTZhQUpUUldKcjFEUy0zcjhveUtBYjJaTnpPeFpVYXpWN2U0MTFxWnBwMTNKTEVkUzYyRjZuRzlJMXpyV29LN0x3X0M0aHpxc3ZMdVJoRTNyYUVoM2ZqZEpIU3lHZk52ZXBsbDE1QnpTbE0yMmowSW1aMWRpdl92NU9kMkxTY2pmMzV6UHpGTm82dzlpMXBXZlR1ZzBfSi0xTDRGZXfSAa4BQVVfeXFMT2pHV0dtNEw5UWtWTzFVQ3FaWmNzNGVVOUJlMjNaUGxsVE9leTBYMWxWb0RLVnM2Q24zNFByNVJZcnJFMkEwbXhieVZlcXJpd1F4TGdRa3dqY2w0Y3NRaEwxY2FGUUVseTEzTlBjMU9UQWUtQi1LdmMydWljMFVJcXJjUlJCWlIxelF3SDhXNmJNQURhWGx6Vmo1emJDbVR2ci1yNkM4b2luVUJFLVd3?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     20,
+     18,
      22
     ]
    },
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     4,
+     3,
      13,
      5
     ]
@@ -521,7 +521,7 @@
      0,
      2,
      0,
-     1,
+     0,
      1,
      0,
      0

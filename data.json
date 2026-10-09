@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:07:47.531949+07:00",
+ "updated": "2026-10-09T10:07:31.505887+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
@@ -23,12 +23,12 @@
    11
   ],
   [
-   "Ayo Bandung",
+   "jabarekspres.com",
    8
   ],
   [
-   "jabarekspres.com",
-   8
+   "Ayo Bandung",
+   7
   ],
   [
    "Kompas.com",
@@ -85,16 +85,16 @@
      "r": "Galamedia News"
     },
     {
+     "t": "Standar DIP Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1lTWNjZ2pCNGsyWUhtSk9rS3hMcVJLMm9TbHZ2dEh2dXZYVDlQTHM1cjBydnEwSFhWcUN4aDE1cnNoYVZIRmlwSDRINkxnZHV1YkFnb190cmlWRHpoanpuTzJ3bnlpek1POHZhYjNOTm8xRlpTVXR0c3loc2o0ZndLUG9oZU9PV19UMXUwSXF2RVZEbmNQYmhVMUt6THVRdXNWTWc4c25aQXNKeUZ1Qlh3Z29PWlJwdE55WlNlZw?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Bukti Kelulusan SPMB Tahun 2026 an. DEXANDRIA ISMAILOVIC SUNDASHEVA ( 3137562840 ) - Pemerintah Kabupaten Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83ZzVMX0ZFa09aYi1aOThkaGItTEtyUU5pLWFhSWFDY3VhbGdaU2x5dHFyaVdQbDZHMUZSQUV1YnNCdWQwdTBUZ1lHNlBDUnhQRGRCYm1TeUUtWG9uV28tMTBpa3pucDF0Y2tfZ1YyRUg2aHU2VHNsUw?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Berita dan Informasi program transformasi pelayanan publik Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KRloxLVlrRHpDclN2MGdlaVZpVFR4SXhvVlFlRlpIRUdNUVZXc1JMd1VpUmlkdFBMV0M2akRXVWhrX1lEdExfdGhMTWIwN1Y5Ri1QNGFDMDcxX3hwZWo1TkozY05ZU3otR2VrZWhlUEI4d2M?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -118,7 +118,7 @@
     "w": [
      7,
      28,
-     4
+     3
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     0,
      2,
      1
     ]
@@ -187,8 +187,8 @@
     ],
     "w": [
      0,
-     16,
-     4
+     15,
+     3
     ]
    },
    "trend": {
@@ -215,7 +215,7 @@
      0,
      1,
      0,
-     2,
+     1,
      0,
      1
     ]
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     28,
+     27,
      11
     ]
    },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Pemprov Jabar Tawarkan 11 Proyek Senilai Rp2,07 Triliun, Ada Rumah Sakit hingga Pengelolaan Sampah - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0gxdHctR2tSQUVCbXRPUXNLbkEzMXdYUll4ZWRoVU9GVjZxRWVibG0wS1FJYnpseHJmeGs4SWNnUl9oUl9XT05TOEYxMFB2QzdqRlpHc0d5STZuQUtNems3V3Bhd0puTklPMEd4azBKTzB6Tk9BUXVSVUhNWUNkcWhBdVA3X052dXZjRGM0cmNRSlA2QzhjS21IV0RDeTllY3g4LVlCajF1Ym9yZVF4UXIxMGxFNE1SZlFhN1YtMVVnWDZtRE5JemRTTWZuaHNFdVZPNW9TRlpQVTF1REFRNA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemkab Bandung melibatkan mahasiswa dalam edukasi pengelolaan sampah - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXRxUHV3UWxIX2N1S0pYVHRPSUdRcHNpb1NRcEpnLTA4MUN5TldHd0xTNVRkRURZT3ZieFB4RTk2UWEzeUNiUFVhRUN0MTFuUFhMSG5vNVdJQVJYQzJyQk1wcjJwRFNwUmV3MUVqeUdQSkFTbjlMNTFEbWc2akdPMEpMeXNOY21kb3ktYm5oeF9hUkpicHBrT3BUR015RDVaRjY4Y1NUUTJ3cHVPcnlGR9IBtgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUQ?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vbk51a1dGYjVLbWViNkMwdUtDeEF6TkZyRHFaQlRlUHNuWnlCNWZCZE93WFEwRjA5ZGxpUldTMlViOVBQVFB3UDhQc3JWU0R0SUlUekwzT1ZYRHIt?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "BPBD Kabupaten Bandung Beri Peringatan 8 Desa Rawan Bencana di Musim Hujan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWN5dGtPY1Y1X0dWby1FMUUwNk01UTBDNXpCbXlyVjk1VXJ5d2d2OTQtalh2ekxwM1BFS3psT3JQWVJtbVFnZE94MGdQMHpONDlzU25sc1VFYTU4YnlKZE9NYzJVbTJuakNxc1lQZGFqcXZrejlkNDg1V2hfQ0pZcFhpckh6RjhCeDNkU2ZCZWRtdElQV0xJM0VtRkU3YlJWMHVsbFN6RXpIYmRRTTZ0TjRxUkxhS19NZk5ldVNZTE1aMUU0T0RRMQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     11,
+     12,
      2
     ]
    },

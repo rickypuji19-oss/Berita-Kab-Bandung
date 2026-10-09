@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:07:52.305905+07:00",
+ "updated": "2026-10-09T19:09:00.961555+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   17
+   19
   ],
   [
    "ANTARA News Jawa Barat",
@@ -23,6 +23,10 @@
    12
   ],
   [
+   "Kompas.com",
+   10
+  ],
+  [
    "detikcom",
    9
   ],
@@ -31,19 +35,15 @@
    8
   ],
   [
-   "Kompas.com",
-   8
-  ],
-  [
    "Jurnal Soreang",
-   6
+   5
   ],
   [
    "Radio PRFM",
    5
   ],
   [
-   "PPID Kab. Bandung",
+   "Radar Bandung",
    4
   ],
   [
@@ -55,16 +55,16 @@
    3
   ],
   [
-   "Inilahkoran.id",
-   3
-  ],
-  [
    "Galamedia News",
    3
   ],
   [
-   "Radar Bandung",
+   "PPID Kab. Bandung",
    3
+  ],
+  [
+   "iNews.ID",
+   2
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Diminta Jamin Perlindungan Atlet Berkelanjutan, 1.231 Orang Tercover BPJS Ketenagakerjaan - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeG5SZUxrY25BRC04MEFLRGdCajAwc0trX1pZaTBhMjNYSnl5Um5CbGJYOVBvcWwtRmE4Ml9RR3NzWXhVamFwLTZCcEtDMWlzaGV1UEpWR1Q2R3Z0UHNHZnJBR1M1aWNsX0ZKTDFxNENVeUl2V2YycWpfZjZ0NURMUlZOS2NXNk9oZmJJQnhBZHF0M1lJa1FMNDJ0enB3YzlrMkJyWjA1cm90ZWUwODlVSXhDNWNCcFdWN0tORFEyTmhsc1ZEaHZCTDFXN19VcHdfVlZ6d2kxcVpNZw?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Pemkab Bandung Buka Pintu Stadion Si Jalak Harupat untuk Persib Selama GBLA Dirawat! - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTdWalFERVVVSi1aUDdHam5nRkE0ZkU0NzFJbjdLQ3RheDl5ZngwQVpNcGd4OXFjYTYwVEdEdE40dzFXbHBpeDRFdkk5ZndxWDdEOHZySnZTOHlBel9iUlgzMFpPQXVqZ2dCcFkzajVwNVRlZWZzN2VTbHZsX09ybWZXb28teWM5R1NleDR6REpCMm5VdE9ta2NLQ0dvazZ0UWxhZ00xc0t4NzNVRFhzbG1hbGhOLXFnaHpKQ2ZSYUdBMG41WkVkdmNn?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHNybGtoMFo0VjBVMDBRWS1rMDJBdTBZU0pOSzdtRXh1VW1WTzhERWswbEpKcDJYWUktaTFJWU11LV9IRTFBWExIOTJMWTZqRjV4aEQycHp6RExuZW9SczByZUhQSWVqQldROHd1SUFucjlrbE5kRml2MU9GbWJlMEZQQjZYcWFJTHVHbmZEYnFXY0JmNXhjTncxWnFvb2NLVFVKZmo3SjI1ZlBEeGVMUDNKNFJDQWU0WjZod3BMZ0VBekdud0FXcFUxNA?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Bandung melindungi kontingen Porprov 2026 dengan BPJS Ketenagakerjaan - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjloYUJrbFBieV9TSzVYYkR1cEdqNm1lcVJQY0JIbzBoeFlyRFJTNFJFQ2t1STBQMVFVaURXbjZyOTVKQmxMQ3BWMEVVd0tmZ2YyeVNFVHJIUWtJQnZlemFaTWs4T1lrM2s5cVRCLTNzZFhHbFMyNmRFdGlwOHBNdGg0SENsTEExT1E5MnVkZTZHaDlxenIwWFB3QUp2NnVPMGJwNExHODJubDhiU0d4UGl30gG3AUFVX3lxTFBiVC1EWGhmN0JIbXltaDB2cFR6RjRfbUpxYWMtNlU4NkVXX3hpV29QRGFyWEhIeWhBM2dUdmpTcVdHR1B5RkZYMVMxV291RVFtdFJSa0k4TndiMW5ONnBJNkV4bnVXMzRYeUxWMjVPdlB6NW0xSzdKaVd1VktSMENHajJVVkR0djM2Z01qOU03Wk1UXzlMMF9GZU9wdXhoMlBmRmxDeDl1ZHZ3dl82eERHalplanZMZw?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      28,
      3
     ]
@@ -138,7 +138,7 @@
      1,
      0,
      2,
-     4
+     3
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "500 PPPK Paruh Waktu KBB Harap Beralih Status Jadi ASN PPPK, DPRD Siap Koordinasi - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
@@ -170,12 +176,6 @@
      "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatakan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQTBlVkFqUDQzMzN1VzZ4VmVTQ29iMVZyRXBZVWMxQkl1NzBIMWRaa29xbXUwZ1BySDBiaUpmRkRyMDREUlV2VWNtWUlSRWZIcS12dlpGb1FGRXNfUnY0M1hZTW9OcUVoemJqX055SElkdHUwb0ludTI3QUlHd2RYcWRlWXZYMlI0ZFN1bTk3VklaU3luNlBVVmdfbDhFcmtwVWdMRFhVamZaUmJsNXRrbzBmVVVOQXNjX0NHMGhyWlhMV0ZwVjV4ejdJQXlWZFNxWEFZWTRoejgwcVZOd2dvakFFRWtYTG9JTll4Z2FRRWo3REtW?oc=5",
      "r": "Galamedia News"
     }
    ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      0,
-     17,
+     18,
      5
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     12,
+     13,
      2
     ]
    },
@@ -319,9 +319,9 @@
      "r": "detikcom"
     },
     {
-     "t": "Begal Pembawa Kabur Motor di Ibun Ditangkap, Polresta Bandung Buru Pelaku Utama - Tribunjabar.id",
+     "t": "Begal Pembawa Kabur Motor di Ibun Ditangkap, Polresta Bandung Buru Pelaku Utama - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVko0RFNwZkdKQXhybDFPZTVXNjJSU2V2NWRBeFFxLURjdklKMmppRF9ndDVVMGdQVUdjRTBHV1ctX0hJZERUZmMyMy1TTVJWcXJIX05Vd0l1WE5xT2ZIdVJXb1NuUmlxanpwSGtzX0haWDd4Ylk0R1NBMXBMLUljUmxLYmZFRzZBYkZtbzdWbnkxN1VuU2dsSlZOaTNRYnlIazhQcHplYU5XSDVNb1BLSHJaaHhldVJIVm5NOHM2RTJZQk1XMXpPZQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRl9zWW9XalV0VWZDLUY1WndDVXZORFhOMnBJbzllcnVoOS1fNjVPVFlXemFXNXhPWEJPbXFCQ1I4QmdMQ2d2bjdUQ0J2c253VjE1ZkJJUlNOdG8wNnNQYUpZYzNqM3MtNTZ0TGRWUXVuYUZJX2pBRERWV1ZPSXhIanRVZGhmYW5OMFV4QkJSZHRsQ3pCQ0VXZEZiRVZ5a054R3dVdGhGR0tuNFBTODI4dFIzZHZqLUVkdk9CVnpCNkY5TTYzTjhvajIyVXZWOER2QWc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -346,7 +346,7 @@
     "w": [
      2,
      16,
-     19
+     20
     ]
    },
    "trend": {
@@ -372,7 +372,7 @@
      0,
      0,
      0,
-     0,
+     1,
      7,
      2,
      10
@@ -427,8 +427,8 @@
     ],
     "w": [
      1,
-     7,
-     15
+     8,
+     16
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      3,
      3,
-     5
+     6
     ]
    }
   },

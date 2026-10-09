@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:12:59.355967+07:00",
+ "updated": "2026-10-09T09:07:47.531949+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   20
-  ],
-  [
-   "PPID Kab. Bandung",
-   12
+   19
   ],
   [
    "ANTARA News Jawa Barat",
    12
   ],
   [
+   "PPID Kab. Bandung",
+   11
+  ],
+  [
    "Ayo Bandung",
-   9
+   8
   ],
   [
    "jabarekspres.com",
@@ -43,15 +43,15 @@
    6
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   4
+  ],
+  [
    "Galamedia News",
    3
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -85,10 +85,10 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Standar DIP Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "t": "Bukti Kelulusan SPMB Tahun 2026 an. DEXANDRIA ISMAILOVIC SUNDASHEVA ( 3137562840 ) - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1lTWNjZ2pCNGsyWUhtSk9rS3hMcVJLMm9TbHZ2dEh2dXZYVDlQTHM1cjBydnEwSFhWcUN4aDE1cnNoYVZIRmlwSDRINkxnZHV1YkFnb190cmlWRHpoanpuTzJ3bnlpek1POHZhYjNOTm8xRlpTVXR0c3loc2o0ZndLUG9oZU9PV19UMXUwSXF2RVZEbmNQYmhVMUt6THVRdXNWTWc4c25aQXNKeUZ1Qlh3Z29PWlJwdE55WlNlZw?oc=5",
-     "r": "PPID Kab. Bandung"
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83ZzVMX0ZFa09aYi1aOThkaGItTEtyUU5pLWFhSWFDY3VhbGdaU2x5dHFyaVdQbDZHMUZSQUV1YnNCdWQwdTBUZ1lHNlBDUnhQRGRCYm1TeUUtWG9uV28tMTBpa3pucDF0Y2tfZ1YyRUg2aHU2VHNsUw?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Berita dan Informasi program transformasi pelayanan publik Terkini dan Terbaru Hari Ini - RRI.co.id",
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     14,
+     13,
      2
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     12,
+     11,
      2
     ]
    },

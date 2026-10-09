@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:09:00.961555+07:00",
+ "updated": "2026-10-09T20:11:30.780977+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   19
+   18
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,6 +47,10 @@
    4
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
    "Satumedia.id",
    3
   ],
@@ -59,11 +63,7 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "iNews.ID",
+   "Gerbang Patriot",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS Bandung Minta Forkopimda Semakin Solid Jaga Kondusivitas - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOW5ZOW52MldKZlE1OGlnelRzbFc1MkpSRzQ4Mnd3ZktEY1lkQy0zSWhacVkzcmJ2cS14TURYRloxc1lKWk4tNS1oVmVoaWluN1p3LVhHZTlYdG80QU9YYUhPZGxTcG4zcmRreHpUU010ZWVObVA2MEZMcURmMFdZdnhENFVQR0RaMHFKcEg5My0wUWhCRGlDVkt3NDFQWmlpLWNaSTZNcURoUQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Bukan Cuma Kejar Medali, KDS Beri Jaminan BPJS Ketenagakerjaan Bagi 1.231 Kontingen Porprov XV 2026 - Gerbang Patriot",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1llWTYtRTlnRkNZOVFIVkVISGRBU2h0S0gyYzlQWUV1cm4tTVp5bUxnN0hYd21RTThiU2hZNkZqc2sxaXlNYjRleFkxbVB3dnFVR0hXXy1WcERLSTRxX2lsSi1VNWI0Y2tPQUZnOUZPaXJWaUVLWkxNSXZUWFpvZ1AxZmFrcVZvbTkyX2JEOUdiM1RfTmJmTDFJWllxQXpEMGVoekdrQzN0ak4wVVpnXzJyMHN2bXlxSzNMT3BTcWU0ZmJVMllLU3NqeUgwZkwzNzNr?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "Pemkab Bandung Diminta Jamin Perlindungan Atlet Berkelanjutan, 1.231 Orang Tercover BPJS Ketenagakerjaan - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeG5SZUxrY25BRC04MEFLRGdCajAwc0trX1pZaTBhMjNYSnl5Um5CbGJYOVBvcWwtRmE4Ml9RR3NzWXhVamFwLTZCcEtDMWlzaGV1UEpWR1Q2R3Z0UHNHZnJBR1M1aWNsX0ZKTDFxNENVeUl2V2YycWpfZjZ0NURMUlZOS2NXNk9oZmJJQnhBZHF0M1lJa1FMNDJ0enB3YzlrMkJyWjA1cm90ZWUwODlVSXhDNWNCcFdWN0tORFEyTmhsc1ZEaHZCTDFXN19VcHdfVlZ6d2kxcVpNZw?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Pemkab Bandung Buka Pintu Stadion Si Jalak Harupat untuk Persib Selama GBLA Dirawat! - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTdWalFERVVVSi1aUDdHam5nRkE0ZkU0NzFJbjdLQ3RheDl5ZngwQVpNcGd4OXFjYTYwVEdEdE40dzFXbHBpeDRFdkk5ZndxWDdEOHZySnZTOHlBel9iUlgzMFpPQXVqZ2dCcFkzajVwNVRlZWZzN2VTbHZsX09ybWZXb28teWM5R1NleDR6REpCMm5VdE9ta2NLQ0dvazZ0UWxhZ00xc0t4NzNVRFhzbG1hbGhOLXFnaHpKQ2ZSYUdBMG41WkVkdmNn?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Tak Hanya Kejar Medali, 1.231 Kontingen Kabupaten Bandung Kini Dilindungi BPJS Ketenagakerjaan - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHNybGtoMFo0VjBVMDBRWS1rMDJBdTBZU0pOSzdtRXh1VW1WTzhERWswbEpKcDJYWUktaTFJWU11LV9IRTFBWExIOTJMWTZqRjV4aEQycHp6RExuZW9SczByZUhQSWVqQldROHd1SUFucjlrbE5kRml2MU9GbWJlMEZQQjZYcWFJTHVHbmZEYnFXY0JmNXhjTncxWnFvb2NLVFVKZmo3SjI1ZlBEeGVMUDNKNFJDQWU0WjZod3BMZ0VBekdud0FXcFUxNA?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -118,7 +118,7 @@
     "w": [
      5,
      28,
-     3
+     2
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      0,
-     18,
+     17,
      5
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      2,
      16,
-     20
+     19
     ]
    },
    "trend": {
@@ -372,7 +372,7 @@
      0,
      0,
      0,
-     1,
+     0,
      7,
      2,
      10
@@ -473,7 +473,7 @@
     {
      "t": "Kecelakaan Tunggal, Kronologi Mahasiswa Seruduk Tembok Bandung Zoo hingga Jebol - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZ9IBzgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXU3NWw1VDZzVHlDV1JaSGFRb2lCdVRLVWFGd2Q4LVhxUmFzTEQ3bXN1WkhzeHJWN1g2OHd6Q1hvNXg4aFFoUVhoUlE1Zk16MUpBdzZUcTNmTkJRSWRCMG9wMDF4VmFlQTlxbnJIcjhGODRZUUw4c2Ftd2M5dFhqdDlaQ0pCOVgyVUNuQm1hazJZQi1QR3pwUWJMZ2E5amxIM3hYTFh5QUNkN2x5OG1pbWpNcjlhQ0JOMzFyWTBBdUVBUWZOUUFaQdIBzgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZw?oc=5",
      "r": "Ayo Bandung"
     },
     {

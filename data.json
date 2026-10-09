@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T00:07:49.301468+07:00",
+ "updated": "2026-10-10T01:08:04.809862+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   18
+   17
   ],
   [
    "Ayo Bandung",
-   14
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -27,11 +27,11 @@
    13
   ],
   [
-   "jabarekspres.com",
-   8
+   "detikcom",
+   9
   ],
   [
-   "detikcom",
+   "jabarekspres.com",
    8
   ],
   [
@@ -55,16 +55,16 @@
    3
   ],
   [
+   "Inilahkoran.id",
+   3
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
    "Galamedia News",
    3
-  ],
-  [
-   "Gerbang Patriot",
-   2
   ]
  ],
  "topics": [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     4,
-     32,
+     3,
+     34,
      2
     ]
    },
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     1,
+     0,
      3,
      0
     ],
@@ -193,7 +193,7 @@
     ],
     "w": [
      0,
-     14,
+     15,
      6
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     10,
+     9,
      2
     ]
    },
@@ -321,7 +321,7 @@
     {
      "t": "21 Orang Ditangkap saat Razia di Saritem, Polisi Telusuri Asal Usul Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWJ5NjZuR2pYM3RfM0Zra0NXWkFKSW1xbm93QjNtVmZNakoybUVZT2c0Q0tVV2dYbUh5R1d4anFjbnNIajVwNHItaW1qUG9KdUc5UEtvSGFCckt5eWV3RV9KRjFhWVBOaWJEV2NwSnBONWpqWHpFNXJXSkczc3VRMEk5bnQyTHJSdHBrX3htNlFOdjFWNWZtaVlha1JMNWJjbWpVcmtOUFUtTDBxTVpKYUw4cXBGeG95MU9ZbElDVXlUVHJmLWY4d9IByAFBVV95cUxNcWJ5NjZuR2pYM3RfM0Zra0NXWkFKSW1xbm93QjNtVmZNakoybUVZT2c0Q0tVV2dYbUh5R1d4anFjbnNIajVwNHItaW1qUG9KdUc5UEtvSGFCckt5eWV3RV9KRjFhWVBOaWJEV2NwSnBONWpqWHpFNXJXSkczc3VRMEk5bnQyTHJSdHBrX3htNlFOdjFWNWZtaVlha1JMNWJjbWpVcmtOUFUtTDBxTVpKYUw4cXBGeG95MU9ZbElDVXlUVHJmLWY4dw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg2SDNFZkY4YWxxaFA1ekgxRlBxWjdUQ3pqbkxuUlpMOEJGSzIwTnJFMjZ6aVhMNGt1MTE3dzJkTktaSFJxUFZmUm4tUlpNeXVkSW4yMzhlcG9sLWRzMjVJSmxhRGtYZl9fU0UtN2VPTkR4UWNyM3I4RnNUME5Rb21Xc0xoa2ZiTGFFOXVYMngyNVYtX1NUVUZhODIzYkxRNjV1YjhLYkIzSXo4Z3RNTzZZRjdUSWJkbG9OUDd1MnlkeFXSAcgBQVVfeXFMTXFieTY2bkdqWDN0XzNGa2tDV1pBSkltcW5vd0IzbVZmTWpKMm1FWU9nNENLVVdnWG1IeUdXeGpxY25zSGo1cDRyLWltalBvSnVHOVBLb0hhQnJLeXlld0VfSkYxYVlQTmliRFdjcEpwTjVqalh6RTVyV0pHM3N1UTBJOW50MkxyUnRwa194bTZRTnYxVjVmbWlZYWtSTDViY21qVXJrTlBVLUwwcU1aSmFMOHFwRnhveTFPWWxJQ1V5VFRyZi1mOHc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     20,
+     22,
      22
     ]
    },

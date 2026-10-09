@@ -1,11 +1,72 @@
 {
- "updated": "2026-10-10T03:06:02.845011+07:00",
+ "updated": "2026-10-10T04:07:30.650726+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
  ],
  "method": "model IndoRoBERTa, gratis",
- "portals": [],
+ "portals": [
+  [
+   "Tribunjabar.id",
+   23
+  ],
+  [
+   "RRI.co.id",
+   18
+  ],
+  [
+   "Ayo Bandung",
+   15
+  ],
+  [
+   "Kompas.com",
+   13
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   11
+  ],
+  [
+   "jabarekspres.com",
+   8
+  ],
+  [
+   "detikcom",
+   8
+  ],
+  [
+   "Radio PRFM",
+   6
+  ],
+  [
+   "Radar Bandung",
+   5
+  ],
+  [
+   "Jurnal Soreang",
+   5
+  ],
+  [
+   "iNews.ID",
+   4
+  ],
+  [
+   "Ketik",
+   3
+  ],
+  [
+   "Galamedia News",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   3
+  ]
+ ],
  "topics": [
   {
    "n": "Pemkab",
@@ -17,6 +78,24 @@
     "ASN"
    ],
    "h": [
+    {
+     "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - SuaraGarut.ID",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02b3Z2RHl5RVdUNTdoUkJjX291TmxzZG14akExZjZ1Q3Frejh1VFJFZUZJbzFVLXhtVmV0YjdncXpZRURsZ2Q5U2RfYzZkcmVGLUF2YVZabzhsbDM3Z3I1dWNCLTJueFRMWTlB?oc=5",
+     "r": "SuaraGarut.ID"
+    },
+    {
+     "t": "Bupati Dadang Blak-blakan ke Dedi Mulyadi, Bongkar Habis Kasus Rp128 Miliar PT BDS - iNews.ID",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaktrMUFQaHNUU1pyV09COXg2Q2pmVElLYnZpbUVfWnp5QVpKZjcyM2kzXzVZb0xMNlJBeFlaWHBUTFRQWjkwb1VJZlU1YVF2NmpCQUdFV1Zadmo5S0xxLVFadHUwNTh2bG9LaktfMzNsaWF2SG5Dd2FxdlRSQnVYQTByZkhaTHRNSi1oMW9WLXpycEtZbzhCWGhXd3VPSkR6blhNQnVtN0d5QmQ3WUllZ19QczJ2a2lFTktYQmtB0gG-AUFVX3lxTE5qS2sxQVBoc1RTWnJXT0I5eDZDamZUSUtidmltRV9aenlBWkpmNzIzaTNfNVlvTEw2UkF4WVpYcFRMVFBaOTBvVUlmVTVhUXY2akJBR0VXVlp2ajlLTHEtUVp0dTA1OHZsb0tqS18zM2xpYXZIbkN3YXF2VFJCdVhBMHJmSFpMdE1KLWgxb1YtenJwS1lvOEJYaFd3dU9KRHpuWE1CdW03R3lCZDdZSWVnX1BzMnZraUVOS1hCa0E?oc=5",
+     "r": "iNews.ID"
+    },
+    {
+     "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - Demokratis.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ya2JtOWFjS2k3TW1jcUxYaDdmNHVRczFvYV9pU29qVGFZY3FpTDFRUVd6YTZCTENDU0FuaHFPaDdWRzU3czdZaEVmb2FNdi16ek52REMxdXVhR0Jpd3RmYTVFRFpkNThJU1UzUVd3?oc=5",
+     "r": "Demokratis.co.id"
+    },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
      "s": "neu",
@@ -37,9 +116,9 @@
      0
     ],
     "w": [
-     0,
-     0,
-     0
+     3,
+     37,
+     1
     ]
    },
    "trend": {
@@ -58,7 +137,7 @@
      1,
      0,
      0,
-     0,
+     3,
      0
     ],
     "g": [
@@ -67,7 +146,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0
     ]
    }
@@ -81,6 +160,24 @@
     "pilkada"
    ],
    "h": [
+    {
+     "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
+     "t": "500 PPPK Paruh Waktu KBB Harap Beralih Status Jadi ASN PPPK, DPRD Siap Koordinasi - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
+     "r": "Galamedia News"
+    },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
      "s": "pos",
@@ -96,8 +193,8 @@
     ],
     "w": [
      0,
-     0,
-     0
+     14,
+     6
     ]
    },
    "trend": {
@@ -120,12 +217,12 @@
      0
     ],
     "g": [
+     1,
+     1,
      0,
+     2,
      0,
-     0,
-     0,
-     0,
-     0,
+     2,
      0
     ]
    }
@@ -138,7 +235,26 @@
     "inflasi",
     "investasi"
    ],
-   "h": [],
+   "h": [
+    {
+     "t": "IKA ISMEI dan Kementerian UMKM Akselerasi Pembiayaan KUR Himbara - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcENxZElhSndGdWRJSlVNSldkVnZiNDNCRWZYbXBJeUdhcGU2VjNta1JESUthOTNsb0RiMkIxYnlsMUFONk05SEhlT25pUER3aFMtcjF6aWNPekxHeTVVb0xFc0RvQTlwTnQ3eXFqMUJ2T0dCT01mbmNwR3RBZ1JBUEhWbVU0czlWMGkycTdsanVkUFJVVDllODNFWHZRZGN6SktNOUJxWQ?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
+     "t": "KDS Fasilitasi BPJS Ketenagakerjaan Atlet Porprov XV, Instruksikan Dispora Anggarkan Setiap Tahun - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVhzLVhoWkd1X2RKbjAtNjlKNWtOOFIyNVpPemtRN25jcTA5VmVlQ08tWlY2SVBkLTRvdENHZEVibmJWUFVHa1REXzhQdFd5WlBpRUNIWmNaQTVmclc3V3ZRSFNocl9qRkxNbkppLXV6bTZuYndGVFItaDhzNENLQ29sR2NjaHhBbVpHR3JKeDJkNDVDMzJBckotOGlVZy1WR3pPRE8tcUE3akVKVHZOeHVDYnA4ampndTBOVGVRbzNVT2picnlPNUZwbkV6TmdBNjM0S3RLY3IycUpmMVdsM9IB5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "Jagung Sulit Didapat, Harga Pakan Ayam Naik, Ini yang Harus Dilakukan Pemprov Jabar - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNExLN3dSU0dfVk5OU0JTV2JHa1lLblE2TEpNNEtock81NWxyc0ZlbVpzSndmN1NUVmxlYm1MOXdSME13RFhQYkMyeWE1NTh2Y3luSUF5ZUNGRUhzNXZYekZQVDA4WHRFX0lhTWRzbGxIalN6Vk84VnZKQUxnZENjMTRLTTlfZ0ltNFhpYS1zUGZ4cWRHNVlMVjR1dy1JbFc5Rk1mRm55ang1QXVVcWtkZGF5b1htUGpRM3JPUHdKM0lxdw?oc=5",
+     "r": "RRI.co.id"
+    }
+   ],
    "v": {
     "s": [
      0,
@@ -146,9 +262,9 @@
      0
     ],
     "w": [
-     0,
-     0,
-     0
+     2,
+     10,
+     2
     ]
    },
    "trend": {
@@ -163,8 +279,8 @@
     ],
     "p": [
      0,
-     0,
-     0,
+     1,
+     1,
      0,
      0,
      0,
@@ -173,9 +289,9 @@
     "g": [
      0,
      0,
+     1,
      0,
-     0,
-     0,
+     1,
      0,
      0
     ]
@@ -190,6 +306,24 @@
     "pungli"
    ],
    "h": [
+    {
+     "t": "Hasil Razia Saritem, 21 Orang Positif Sabu Dibawa ke Mako Polrestabes untuk Diusut - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbExrd3lySEl3UGs4bm9wN2E5WGNlSEZJSGZFRHBYY0xrYVVPOEhtMktSVS1EcVdMWXZkUjBtdEZINTlHdjR4RUlEdENVdEhUY090cW9EQk5DZzlyN0U3QmM4WEt1T3ZwazdFcWpMb2Q2MV9tNXNBb2pRZ0VlWHBtVU9kVkswdm9ubDI3TnlCWUtDOVQ4OVlDVnphWEh3blUwUHRocHRLamRTc2xfa3J3Qk44YVQ0UXg5WFNWSk9EY2Z0YTc3LVF5ZXRpLUk?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "BREAKING NEWS Sore-sore Saritem Bandung Digerebek, Polisi Temukan Puluhan Orang Positif Narkoba - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXhKWWFuZHVsZlZpQ3kxOXhDMEQ3eXl5THR5NjNFc2ZyZUVicWpPRllYbnB0R3BrbFgyOS0xdUhNc1hrVmdRNVR3OFAzTFpHRkVGZUlGUFM0enZrWlkxZVpsb0FRdndaai0xMUxtX0FYcnNwY1JqRFZEMjFwaElzR3k1ak9KUUw5U2hCLTVaTEpyT082elhXcUNmZHJUUjFad09RdHkyR3l1eVBQRk1zdk5oTlF3VGNWX0FiVXQ5RGo1RVVVNGtGcDQ4cWhKWTNfcC1uUnRZWQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "21 Orang Ditangkap saat Razia di Saritem, Polisi Telusuri Asal Usul Narkoba - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg2SDNFZkY4YWxxaFA1ekgxRlBxWjdUQ3pqbkxuUlpMOEJGSzIwTnJFMjZ6aVhMNGt1MTE3dzJkTktaSFJxUFZmUm4tUlpNeXVkSW4yMzhlcG9sLWRzMjVJSmxhRGtYZl9fU0UtN2VPTkR4UWNyM3I4RnNUME5Rb21Xc0xoa2ZiTGFFOXVYMngyNVYtX1NUVUZhODIzYkxRNjV1YjhLYkIzSXo4Z3RNTzZZRjdUSWJkbG9OUDd1MnlkeFXSAcgBQVVfeXFMTXFieTY2bkdqWDN0XzNGa2tDV1pBSkltcW5vd0IzbVZmTWpKMm1FWU9nNENLVVdnWG1IeUdXeGpxY25zSGo1cDRyLWltalBvSnVHOVBLb0hhQnJLeXlld0VfSkYxYVlQTmliRFdjcEpwTjVqalh6RTVyV0pHM3N1UTBJOW50MkxyUnRwa194bTZRTnYxVjVmbWlZYWtSTDViY21qVXJrTlBVLUwwcU1aSmFMOHFwRnhveTFPWWxJQ1V5VFRyZi1mOHc?oc=5",
+     "r": "Ayo Bandung"
+    },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
      "s": "neu",
@@ -210,9 +344,9 @@
      0
     ],
     "w": [
-     0,
-     0,
-     0
+     2,
+     20,
+     22
     ]
    },
    "trend": {
@@ -228,19 +362,19 @@
     "p": [
      0,
      0,
+     1,
      0,
-     0,
-     0,
+     1,
      0,
      0
     ],
     "g": [
      0,
      0,
-     0,
-     0,
-     0,
-     0,
+     1,
+     8,
+     2,
+     11,
      0
     ]
    }
@@ -254,6 +388,24 @@
     "Baleendah"
    ],
    "h": [
+    {
+     "t": "Sekolah Rakyat di Bandung Sudah Berjalan, Fasilitas Terus Dikembangkan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHNUNnJoV05JSHRfUV8wQlk1ZzVQWFllWUtmcVpyMDZxNnd1RkNSa2dQZ1Ric2NMemZKcVlGR2IyNVEwUWI4SVBmRDIydmIwQ1ljdWhZaDdyZnN0TDNOS2R1WkFLWjBzNFA1ZlhCMTNVa0pHSjhpUjZiWlY1T1dwc3JKQXZmakNrU3RKa1BBWXBZMHU1VWRfTHRMclFFOWYtVTR5M3VKNEViMVBHYUFtaHJn?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Buntut Macet Jalan Cicadas, Dishub Bandung Minta Proyek BRT Diatur Waktu Pengerjaannya - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXE4ZjBIVWdBVXFTUkcwRlc5ZlVjYUpORUI4Q2M4XzRwdzJndVAzVG1DY3ZlVDloZ0gyMWh0Uk45Y1I1WEdLWWN0MW16N2F0Y0ZDd3ZmV3dDWFNNV040ck1nNVREamY3eFlXWmM3OTZuYXk1djRuLXVVSzkyaGJiRmV3ZER1N3Y0c1FJVlVtSHgwTjB6ZUg5a09WLV9RamZjWmU5aHN6VzN0VURpQTVfUXBWamN2S2k4UlQ1WDBXTndsSUpOUF8ya1FBS2FTOFZNd3c?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Vokalis Band Govinda Muhammad Irfan Mengundurkan Diri setelah Hampir 18 Tahun Bersama, Sebut Memilih Jalan Berbeda - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU2hKQllvbXhldGJaRjI1VEJua1M2OVF1OTVEaTZnWG9YZjlwcjYxaU9DZlRoTjRlcnZXbGVIMm8tZEJCdTVLWllpSVNnMmdCYTV5aE0wS1QzVFhzSEpmQ1Z2MFNNQXJsRUlINVltcFRkejJSQmFOTHVUTXNpa2hyVXRjWXp6a240bmJBY1pGR0tENkJ1VjdudXBiMG5KSm1LVWJoLU5mem1qX2RScE9QUUlGVEdjbG1tNWs4RFBabUNjckQ5NzFKMmxldVpiWlZhcWJJOXVJdm9NSDVNd0I5WFh0XzFlX1lscDR1VtIB8gFBVV95cUxNcm1CZ0stMGQ1aUpBOWxmbGg5OFlybzg0X1YyWlF0ZjRkd3lXWVh5ODcyS3RHQVQ1bDNUMUtRVjRObERxR0VXdmNMMFliOVBiMElJTDFYdy1QSG5uTFJpNnlhSjZqNUtIb2lQLUFVS2FhcnNraTNGcnZXbk0zRHRZVFczSzZLSURHYTF0cTVMLTFaVmZLY3YwdGFqWW1YX21ESFNWTU5ucGdZOGQzbXlSMjMtRThFMmlzd040dmRYWFVHTllGUjVXR2ZCbXpvMGE4RmtQNlVDbHlDU2gtWnNjaVV2YlNGWkFhYi1mZ3VUQndnUQ?oc=5",
+     "r": "Ayo Bandung"
+    },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
      "s": "pos",
@@ -274,9 +426,9 @@
      1
     ],
     "w": [
-     0,
-     0,
-     0
+     1,
+     6,
+     14
     ]
    },
    "trend": {
@@ -292,7 +444,7 @@
     "p": [
      0,
      0,
-     0,
+     1,
      1,
      0,
      0,
@@ -300,11 +452,11 @@
     ],
     "g": [
      0,
+     2,
      1,
-     0,
-     0,
-     0,
-     0,
+     3,
+     3,
+     6,
      0
     ]
    }
@@ -319,6 +471,24 @@
    ],
    "h": [
     {
+     "t": "Kecelakaan Tunggal, Kronologi Mahasiswa Seruduk Tembok Bandung Zoo hingga Jebol - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXU3NWw1VDZzVHlDV1JaSGFRb2lCdVRLVWFGd2Q4LVhxUmFzTEQ3bXN1WkhzeHJWN1g2OHd6Q1hvNXg4aFFoUVhoUlE1Zk16MUpBdzZUcTNmTkJRSWRCMG9wMDF4VmFlQTlxbnJIcjhGODRZUUw4c2Ftd2M5dFhqdDlaQ0pCOVgyVUNuQm1hazJZQi1QR3pwUWJMZ2E5amxIM3hYTFh5QUNkN2x5OG1pbWpNcjlhQ0JOMzFyWTBBdUVBUWZOUUFaQdIBzgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZw?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "Aturan Siswa Tak Naik Kelas Siap-siap Diberlakukan Lagi, Pemkot Bandung Dorong Guru Keras - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzZSellpOUlhdnI5SFFoVWRlY25XQ041NjNkYXVXZWJQZHlUdWRlR3pNSXU4QWRxZzl2SlBRWlA0UkNhWDdoOXk4TlZBOVlNVFdXTFdqR0dMeVdDWFpIMldWelpVQlFVRUJvNFJtaHM4VkNkTHJOTDFhWjl5RFhjbmxpdUh3RmFNc0J1a29qM2tuVVlMeHJhSVFwVDhGRmhtVXU2a3RrcnFaY1BQNkxUN3o5VzM3bjBPRGlJUE9nMmg3TmhGTV9wNQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Pembangunan Huntap Korban Bencana di Sumut Dikebut, Pemprov Soroti Kendala Status Lahan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3l1QTVITm5UZDZnMk1ab01jaEVRMzhmdGpkV1ZSSjI0X0RHbkZjeHB4a19pd0V4XzgzUmVMdWVQdUhqSnV3emZCSkhrOTN3cDgybnc5YjAtc2pvQkppMDdjcUNoYTcxa3FURmtQblNocEdCd3ZVRjhyRndaT0JiX1hOVU05X1B0c1R5Y3VjcVlHSkpka2l2Z2hodUQ4WWFvcHBnalBoNG52ZFJBd2JRMjg1Qy1wNlVzckc2eVd2dVo1UEtvTkFnSmQ5cWcwbmRQck5VenRDVXBHaWFldUtxbw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=EnEPgz7iQTw",
@@ -332,9 +502,9 @@
      0
     ],
     "w": [
-     0,
-     0,
-     0
+     4,
+     13,
+     5
     ]
    },
    "trend": {
@@ -349,20 +519,20 @@
     ],
     "p": [
      0,
+     2,
      0,
-     0,
-     0,
-     0,
+     1,
+     1,
      0,
      0
     ],
     "g": [
      0,
      0,
+     2,
+     1,
      0,
-     0,
-     0,
-     0,
+     2,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T16:09:12.007403+07:00",
+ "updated": "2026-10-09T17:09:00.633861+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
@@ -16,10 +16,14 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   12
+   13
   ],
   [
    "detikcom",
+   9
+  ],
+  [
+   "Kompas.com",
    9
   ],
   [
@@ -28,11 +32,7 @@
   ],
   [
    "jabarekspres.com",
-   8
-  ],
-  [
-   "Kompas.com",
-   8
+   7
   ],
   [
    "Radio PRFM",
@@ -43,11 +43,15 @@
    5
   ],
   [
-   "Ketik",
+   "Jurnal Soreang",
+   4
+  ],
+  [
+   "Satumedia.id",
    3
   ],
   [
-   "Jurnal Soreang",
+   "Ketik",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Radar Bandung",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Tak Hanya Kejar Medali, 1.231 Kontingen Kabupaten Bandung Kini Dilindungi BPJS Ketenagakerjaan - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHNybGtoMFo0VjBVMDBRWS1rMDJBdTBZU0pOSzdtRXh1VW1WTzhERWswbEpKcDJYWUktaTFJWU11LV9IRTFBWExIOTJMWTZqRjV4aEQycHp6RExuZW9SczByZUhQSWVqQldROHd1SUFucjlrbE5kRml2MU9GbWJlMEZQQjZYcWFJTHVHbmZEYnFXY0JmNXhjTncxWnFvb2NLVFVKZmo3SjI1ZlBEeGVMUDNKNFJDQWU0WjZod3BMZ0VBekdud0FXcFUxNA?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "Bandung melindungi kontingen Porprov 2026 dengan BPJS Ketenagakerjaan - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjloYUJrbFBieV9TSzVYYkR1cEdqNm1lcVJQY0JIbzBoeFlyRFJTNFJFQ2t1STBQMVFVaURXbjZyOTVKQmxMQ3BWMEVVd0tmZ2YyeVNFVHJIUWtJQnZlemFaTWs4T1lrM2s5cVRCLTNzZFhHbFMyNmRFdGlwOHBNdGg0SENsTEExT1E5MnVkZTZHaDlxenIwWFB3QUp2NnVPMGJwNExHODJubDhiU0d4UGl30gG3AUFVX3lxTFBiVC1EWGhmN0JIbXltaDB2cFR6RjRfbUpxYWMtNlU4NkVXX3hpV29QRGFyWEhIeWhBM2dUdmpTcVdHR1B5RkZYMVMxV291RVFtdFJSa0k4TndiMW5ONnBJNkV4bnVXMzRYeUxWMjVPdlB6NW0xSzdKaVd1VktSMENHajJVVkR0djM2Z01qOU03Wk1UXzlMMF9GZU9wdXhoMlBmRmxDeDl1ZHZ3dl82eERHalplanZMZw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Belasan Vendor Datangi Bupati Bandung, Tuntut Kejelasan Dana PT BDS yang Tak Kunjung Kembali - Jayantara News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3alFubFp1MkNxRjRaREgwTnc0eDR5WnRMTFItNlotQUZoUEJTRUk1SUtXbGJyUEtocC1XMFhtaHVYR0pWTUtleTRXQQ?oc=5",
      "r": "Jayantara News"
-    },
-    {
-     "t": "Bupati KDS Pasang Standar Tinggi! Setiap Rupiah Uang Rakyat Wajib Berbuah Manfaat Nyata - Gerbang Patriot",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3VUV3NjV3Njek52ZlhDWnRESlpaMjgzT3VvNm1iTEN3TTJnZDJsamdkQ3h5YUFJS0NQbzJ2a0ZKcmttQ2Q2bGQ1VkxPMVJBZ1V5SDJmRldrbzd1WnMzWDVyQnFiNlJ0MzdORC1vbDZCQ05teExtNzdrV2dscDNpV3dKaGRUX2std09EWnFiT1NNNEcxdkwwWWZtckMxVVBOVE9PeHZmLU5nc3hiZVBPdmR5NTNnUDJRUU1WNkN4bHZaYlU?oc=5",
-     "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Jamin Keselamatan 1.231 Kontingen Porprov XV, KONI Kabupaten Bandung dan BPJS Ketenagakerjaan Teken MoU - Sumedang Bagus",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSjNubnJMbTlFSnV5bTdoT0NSeFFfTm5PbmREZDZMbVJPd1lIc3pZbkNaTzUxMXlwZndsRUtKa3BqRmNwd240eHR4T1U4NVFBVUNpTEs3SWZkU3lXSnVNM1NzaUg4UmJoT0Y4Y0FiM0Y4eE9YSHRGYnZoN1UzLXFvR0UyTG52SmxoaGt2S0Frelh1a25hV3Jic0IzU3dqendiMEtsTTZORlkzc1F0VlR0cjhaa3hyN21iMDlOR3hBQklwdWxKSFVNb0NUazlOYlR4WGIwSnYxN0ViOXhHNm44aVA2aUZMR1dhM0cwZjZGVFZQYkZXQUN30gH3AUFVX3lxTE1KM25uckxtOUVKdXltN2hPQ1J4UV9Obk9uZERkNkxtUk93WUhzelluQ1pPNTExeXBmd2xFS0prcGpGY3B3bjR4dHhPVTg1UUFVQ2lMSzdJZmRTeVdKdU0zU3NpSDhSYmhPRjhjQWIzRjh4T1hIdEZidmg3VTMtcW9HRTJMbnZKbGhoa3ZLQWt6WHVrbmFXcmJzQjNTd2p6d2IwS2xNNk5GWTNzUXRWVHRyOFpreHI3bWIwOU5HeEFCSXB1bEpIVU1vQ1RrOU5iVHhYYjBKdjE3RWI5eEc2bjhpUDZpRkxHV2EzRzBmNkZUVlBiRldBQ3c?oc=5",
-     "r": "Sumedang Bagus"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     5,
-     26,
+     4,
+     29,
      3
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     3,
+     2,
      2
     ],
     "g": [
@@ -188,7 +188,7 @@
     "w": [
      0,
      16,
-     4
+     5
     ]
    },
    "trend": {
@@ -212,7 +212,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      1,
      0,
      1,
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     13,
+     12,
      2
     ]
    },
@@ -319,10 +319,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Modus Minta Uang, 3 Pelaku di Bandung Ditangkap Usai Aniaya Korban dan Bawa Kabur Motor - Kompas.com",
+     "t": "Nekat Begal Motor Demi Gaya Hidup, 2 Pemuda Ditangkap Polsek Ibun dan Polresta Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXowaThHLU16MVVZSy1YX1hsUkdQVlFZaU02d3dtNzE1WU9ZSl9KU19kN2NBR2g3VUhBTVJXOU1DU3JVRzNuS2ZyUkd3NzVBMGgxYjVFbG9hWUZITUxJLUtRUG51cjRVQ3VsajY5Y0MtYTRrTDV0SkRwMXdVemNyX25KeWc1bGhmTHk0MkRjLVZNRXN0aTlGVjlkeUQ4UmhJTnVoV1ZqUktESzJzb3g0b29BVmdUeU5aUTBBT0hGVmJnU1l3bEE?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPem00RUllQmlIVkNyWEtOS1BCOWYxZElNX1lnMEVZeHZmblN4YkJwZTNyYjBvWHRvbzlsV2VjbHh5R3FIa0JKRnZ3YmZybDZVRUNzckhkd0ljYUdyajJCMTdhamVDUjBKUmdHYVdURHFyMEs0X1c0MXJSTWVDM0pSc2JjV1BEdVc5QU1WMGtEYmwyVnlDcnRoNm5lVTljeUU1LVZrSlE5Wnh1ekRrdzBkQS1yb3VsUzEzSTIzWG1NMEpiVEpIV29ueHl4VTZpVnNrUUZtcDlWZ9IB1wFBVV95cUxPem00RUllQmlIVkNyWEtOS1BCOWYxZElNX1lnMEVZeHZmblN4YkJwZTNyYjBvWHRvbzlsV2VjbHh5R3FIa0JKRnZ3YmZybDZVRUNzckhkd0ljYUdyajJCMTdhamVDUjBKUmdHYVdURHFyMEs0X1c0MXJSTWVDM0pSc2JjV1BEdVc5QU1WMGtEYmwyVnlDcnRoNm5lVTljeUU1LVZrSlE5Wnh1ekRrdzBkQS1yb3VsUzEzSTIzWG1NMEpiVEpIV29ueHl4VTZpVnNrUUZtcDlWZw?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     22,
-     18
+     20,
+     19
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      1,
      7,
      2,
-     8
+     9
     ]
    }
   },
@@ -427,8 +427,8 @@
     ],
     "w": [
      1,
-     7,
-     14
+     6,
+     15
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      3,
      3,
-     4
+     5
     ]
    }
   },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Aturan Siswa Tak Naik Kelas Siap-siap Diberlakukan Lagi, Pemkot Bandung Dorong Guru Keras - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzZSellpOUlhdnI5SFFoVWRlY25XQ041NjNkYXVXZWJQZHlUdWRlR3pNSXU4QWRxZzl2SlBRWlA0UkNhWDdoOXk4TlZBOVlNVFdXTFdqR0dMeVdDWFpIMldWelpVQlFVRUJvNFJtaHM4VkNkTHJOTDFhWjl5RFhjbmxpdUh3RmFNc0J1a29qM2tuVVlMeHJhSVFwVDhGRmhtVXU2a3RrcnFaY1BQNkxUN3o5VzM3bjBPRGlJUE9nMmg3TmhGTV9wNQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemprov Jabar Tawarkan 11 Proyek Senilai Rp2,07 Triliun, Ada Rumah Sakit hingga Pengelolaan Sampah - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0gxdHctR2tSQUVCbXRPUXNLbkEzMXdYUll4ZWRoVU9GVjZxRWVibG0wS1FJYnpseHJmeGs4SWNnUl9oUl9XT05TOEYxMFB2QzdqRlpHc0d5STZuQUtNems3V3Bhd0puTklPMEd4azBKTzB6Tk9BUXVSVUhNWUNkcWhBdVA3X052dXZjRGM0cmNRSlA2QzhjS21IV0RDeTllY3g4LVlCajF1Ym9yZVF4UXIxMGxFNE1SZlFhN1YtMVVnWDZtRE5JemRTTWZuaHNFdVZPNW9TRlpQVTF1REFRNA?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXRxUHV3UWxIX2N1S0pYVHRPSUdRcHNpb1NRcEpnLTA4MUN5TldHd0xTNVRkRURZT3ZieFB4RTk2UWEzeUNiUFVhRUN0MTFuUFhMSG5vNVdJQVJYQzJyQk1wcjJwRFNwUmV3MUVqeUdQSkFTbjlMNTFEbWc2akdPMEpMeXNOY21kb3ktYm5oeF9hUkpicHBrT3BUR015RDVaRjY4Y1NUUTJ3cHVPcnlGR9IBtgFBVV95cUxNRDFJOHRlUUktdVJNMG9jUkI3ZVZ0LUotQ1Z5aXV5bDZLaUxkeElScm5iSTNoVTJZQUhuZzdNRG1wMlFuUTNnQy1hWGNWSGdfMXV2WDI4ZzdSRzVmWTg0OGc3NG8xWHdQQkV5eTFPVjFOUDc4d1c4YWhLZFhsSml6eENZeURBRWZja2FQTWRUR052ZWJaLWFoODVKN1FqZWRvcEp0VlNHLVowczBvSzNINzNiRTBoUQ?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Tag: Advokasi Kesehatan - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vbk51a1dGYjVLbWViNkMwdUtDeEF6TkZyRHFaQlRlUHNuWnlCNWZCZE93WFEwRjA5ZGxpUldTMlViOVBQVFB3UDhQc3JWU0R0SUlUekwzT1ZYRHIt?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -510,7 +510,7 @@
     "w": [
      4,
      12,
-     2
+     3
     ]
    },
    "trend": {
@@ -539,7 +539,7 @@
      1,
      1,
      0,
-     0
+     1
     ]
    }
   }

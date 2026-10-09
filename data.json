@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:07:03.692881+07:00",
+ "updated": "2026-10-09T07:09:36.290401+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "ANTARA News Jawa Barat",
@@ -20,11 +20,11 @@
   ],
   [
    "PPID Kab. Bandung",
-   10
+   11
   ],
   [
    "Ayo Bandung",
-   9
+   10
   ],
   [
    "jabarekspres.com",
@@ -43,15 +43,11 @@
    6
   ],
   [
-   "Koran Gala",
-   4
-  ],
-  [
    "Satumedia.id",
    3
   ],
   [
-   "Giwangkara",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "bandungraya.net",
+   2
+  ],
+  [
+   "Koran Gala",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      7,
-     28,
+     27,
      4
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     13,
+     14,
      2
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      2,
      28,
-     12
+     11
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      1,
      8,
      2,
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     11,
+     12,
      2
     ]
    },

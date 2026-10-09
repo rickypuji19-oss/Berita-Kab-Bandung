@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:08:40.092909+07:00",
+ "updated": "2026-10-09T23:08:38.725367+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   19
+   22
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,11 +47,11 @@
    4
   ],
   [
-   "Ketik",
-   3
+   "PPID Kab. Bandung",
+   4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Ketik",
    3
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
+   "Gerbang Patriot",
+   2
   ],
   [
-   "Gerbang Patriot",
+   "Satumedia.id",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     3,
-     31,
+     4,
+     30,
      2
     ]
    },
@@ -138,7 +138,7 @@
      1,
      0,
      1,
-     2
+     3
     ],
     "g": [
      0,
@@ -177,18 +177,24 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
      "r": "Galamedia News"
+    },
+    {
+     "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=z7ypC1jGRHg",
+     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      0,
      0
     ],
     "w": [
      0,
      17,
-     5
+     6
     ]
    },
    "trend": {
@@ -208,14 +214,14 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
      1,
      1,
      0,
-     1,
+     2,
      0,
      2
     ]
@@ -263,7 +269,7 @@
     ],
     "w": [
      2,
-     12,
+     13,
      2
     ]
    },
@@ -427,8 +433,8 @@
     ],
     "w": [
      1,
-     6,
-     16
+     7,
+     15
     ]
    },
    "trend": {
@@ -455,7 +461,7 @@
      0,
      2,
      1,
-     3,
+     2,
      3,
      6
     ]
@@ -489,22 +495,22 @@
      "r": "Kompas.com"
     },
     {
+     "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=stOceJ8P_yI",
+     "r": "YouTube SMP Negeri 1 Paseh"
+    },
+    {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=EnEPgz7iQTw",
      "r": "YouTube pu_itjen"
-    },
-    {
-     "t": "belajar sambil bermain di Dinas Pemadam Kebakaran Kab. Bandung🤩",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=HlsMYsUaqNg",
-     "r": "YouTube TKIT PERSIS 443 AL-IKHLASH"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      1
     ],
     "w": [

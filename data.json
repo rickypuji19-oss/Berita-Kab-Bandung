@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:08:04.809862+07:00",
+ "updated": "2026-10-10T02:07:05.982770+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   17
+   18
   ],
   [
    "Ayo Bandung",
@@ -27,11 +27,11 @@
    13
   ],
   [
-   "detikcom",
-   9
+   "jabarekspres.com",
+   8
   ],
   [
-   "jabarekspres.com",
+   "detikcom",
    8
   ],
   [
@@ -47,24 +47,24 @@
    4
   ],
   [
-   "PPID Kab. Bandung",
-   4
+   "iNews.ID",
+   3
   ],
   [
    "Ketik",
    3
   ],
   [
-   "Inilahkoran.id",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
    "Galamedia News",
    3
+  ],
+  [
+   "PPID Kab. Bandung",
+   3
+  ],
+  [
+   "Gerbang Patriot",
+   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Dorongan Pendirian Koperasi, Paparkan Strategi Daerah Hadapi Efisiensi - RRI.co.id",
+     "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - SuaraGarut.ID",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGhqaVp1ZWNETlluZ3RuUFZReDBIS2hvS1J0Xy1qX3ZyTWt1dWFRTDR6M1JtcmVlT25aSVdva29YaG96U1pvREIwQ2xRbUdrQ053emlwYVRUaEVoemJQcDl4STRodE44T0E0SmJXby1Nc1Y3NmdqQ3FpN3plTG5oZlBZb045X082S1dsVjY4Y3NEWlV2d2gtakJ2YXRoRWFBNzdaYllZdTBuaHhGUWhRLVNsWDBBdw?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02b3Z2RHl5RVdUNTdoUkJjX291TmxzZG14akExZjZ1Q3Frejh1VFJFZUZJbzFVLXhtVmV0YjdncXpZRURsZ2Q5U2RfYzZkcmVGLUF2YVZabzhsbDM3Z3I1dWNCLTJueFRMWTlB?oc=5",
+     "r": "SuaraGarut.ID"
     },
     {
-     "t": "Pemkab Bandung Buka Ruang Dialog Terkait Penyelesaian PT.BDS - RRI.co.id",
+     "t": "Bupati Dadang Blak-blakan ke Dedi Mulyadi, Bongkar Habis Kasus Rp128 Miliar PT BDS - iNews.ID",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDhBWGh2bWVUWGlQV3hoYTViZU9YUE5KcEVpYm5jR0tvSTlGNnJ0dDE1WWgyd3cta05SSnNaSjY1XzVZNnlvbXN0TzNaTVlRRDRVS0w5QW83R29vY0pBZXNiMkF6eG9DZHhqWWN6d29kcHdKQm9JQU9PTndENE1HMUdnNzBsSUVzZWExQ2pBd0RVdVZhcC1MTk1ZblotR3J2Mm1jY3Z5SkhJVDZ0RUVJ?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREhNZkx2Wi1ITm9CdmlrbFoyZXJiZ2VsNlItRGZQR2MteFNsZVdBM21JWkR0dW5MNzJCSHNvb2Z0ZU5XNHVvZC1UVVlRdWFRU1JpN3kxN01WOUdIRzVuQm5yTGpGdnEyNFE4bm1lTEFjaVM5Vl9vNlZWSTM4NWVkMGUyQXVrVzg5OWs4aGFGTDFMN0hOLU81ZHpxX1l2RkJzWUdXY3NqU053NGVqSE5zNlo0MTJQYkh2VXFsOEJha9IBvgFBVV95cUxOaktrMUFQaHNUU1pyV09COXg2Q2pmVElLYnZpbUVfWnp5QVpKZjcyM2kzXzVZb0xMNlJBeFlaWHBUTFRQWjkwb1VJZlU1YVF2NmpCQUdFV1Zadmo5S0xxLVFadHUwNTh2bG9LaktfMzNsaWF2SG5Dd2FxdlRSQnVYQTByZkhaTHRNSi1oMW9WLXpycEtZbzhCWGhXd3VPSkR6blhNQnVtN0d5QmQ3WUllZ19QczJ2a2lFTktYQmtB?oc=5",
+     "r": "iNews.ID"
     },
     {
-     "t": "Pemkab Bandung Wajibkan Seluruh ASN Ikuti Pembelajaran Integritas - RRI.co.id",
+     "t": "Pemkab Bandung Siapkan Stadion Si Jalak Harupat untuk Persib - Demokratis.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ19udlJ6ZFNPcG9HZDMtOTlRVE84NlN1VlVGb2gyVHNUTEtOM21hRTlHdl92TWJ2Uy1tOFFaR24tQzZkN19sR1lKWWk2QVc2dTI1TFprNldINTJkMko1b1VXNUlZT0M1UFN3OEFwem94QlRLd3cwQjJEa2lOMkJwUm5EeTBZaGpzVVBHd1BuTi1GamQ3WnNVeHRhYnhUQjR4LVFCRFo3RmIzcGxTZkt3cmJ5dlVTa3RvRnc?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ya2JtOWFjS2k3TW1jcUxYaDdmNHVRczFvYV9pU29qVGFZY3FpTDFRUVd6YTZCTENDU0FuaHFPaDdWRzU3czdZaEVmb2FNdi16ek52REMxdXVhR0Jpd3RmYTVFRFpkNThJU1UzUVd3?oc=5",
+     "r": "Demokratis.co.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,8 +117,8 @@
     ],
     "w": [
      3,
-     34,
-     2
+     36,
+     1
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     0,
      1,
      0
     ]
@@ -193,7 +193,7 @@
     ],
     "w": [
      0,
-     15,
+     14,
      6
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     9,
+     10,
      2
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     22,
+     20,
      22
     ]
    },
@@ -427,7 +427,7 @@
     ],
     "w": [
      1,
-     7,
+     6,
      14
     ]
    },

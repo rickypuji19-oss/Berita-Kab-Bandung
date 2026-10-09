@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:09:55.675667+07:00",
+ "updated": "2026-10-09T22:08:40.092909+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "ANTARA News Jawa Barat",
    13
   ],
   [
-   "Ayo Bandung",
-   11
+   "Kompas.com",
+   13
   ],
   [
-   "Kompas.com",
-   9
+   "Ayo Bandung",
+   12
   ],
   [
    "detikcom",
@@ -36,22 +36,22 @@
   ],
   [
    "Radio PRFM",
-   5
+   7
   ],
   [
    "Radar Bandung",
    4
   ],
   [
-   "Satumedia.id",
-   3
-  ],
-  [
    "Jurnal Soreang",
-   3
+   4
   ],
   [
    "Ketik",
+   3
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     4,
-     29,
+     3,
+     31,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     2,
+     1,
      2
     ],
     "g": [
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     13,
+     12,
      2
     ]
    },
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     17,
-     19
+     20,
+     21
     ]
    },
    "trend": {
@@ -372,8 +372,8 @@
      0,
      0,
      0,
-     0,
-     7,
+     1,
+     8,
      2,
      10
     ]
@@ -427,8 +427,8 @@
     ],
     "w": [
      1,
-     7,
-     14
+     6,
+     16
     ]
    },
    "trend": {
@@ -455,9 +455,9 @@
      0,
      2,
      1,
-     2,
      3,
-     5
+     3,
+     6
     ]
    }
   },
@@ -483,10 +483,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Pemprov Jabar Tawarkan 11 Proyek Senilai Rp2,07 Triliun, Ada Rumah Sakit hingga Pengelolaan Sampah - Tribunjabar.id",
+     "t": "Pembangunan Huntap Korban Bencana di Sumut Dikebut, Pemprov Soroti Kendala Status Lahan - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0gxdHctR2tSQUVCbXRPUXNLbkEzMXdYUll4ZWRoVU9GVjZxRWVibG0wS1FJYnpseHJmeGs4SWNnUl9oUl9XT05TOEYxMFB2QzdqRlpHc0d5STZuQUtNems3V3Bhd0puTklPMEd4azBKTzB6Tk9BUXVSVUhNWUNkcWhBdVA3X052dXZjRGM0cmNRSlA2QzhjS21IV0RDeTllY3g4LVlCajF1Ym9yZVF4UXIxMGxFNE1SZlFhN1YtMVVnWDZtRE5JemRTTWZuaHNFdVZPNW9TRlpQVTF1REFRNA?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3l1QTVITm5UZDZnMk1ab01jaEVRMzhmdGpkV1ZSSjI0X0RHbkZjeHB4a19pd0V4XzgzUmVMdWVQdUhqSnV3emZCSkhrOTN3cDgybnc5YjAtc2pvQkppMDdjcUNoYTcxa3FURmtQblNocEdCd3ZVRjhyRndaT0JiX1hOVU05X1B0c1R5Y3VjcVlHSkpka2l2Z2hodUQ4WWFvcHBnalBoNG52ZFJBd2JRMjg1Qy1wNlVzckc2eVd2dVo1UEtvTkFnSmQ5cWcwbmRQck5VenRDVXBHaWFldUtxbw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -509,8 +509,8 @@
     ],
     "w": [
      4,
-     12,
-     4
+     13,
+     5
     ]
    },
    "trend": {
@@ -536,7 +536,7 @@
      1,
      0,
      0,
-     1,
+     2,
      1,
      0,
      2

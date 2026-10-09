@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:08:19.397972+07:00",
+ "updated": "2026-10-09T13:09:53.539705+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,19 +23,19 @@
    11
   ],
   [
+   "Kompas.com",
+   9
+  ],
+  [
    "jabarekspres.com",
    9
   ],
   [
-   "Kompas.com",
+   "detikcom",
    8
   ],
   [
    "Ayo Bandung",
-   7
-  ],
-  [
-   "detikcom",
    7
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Ali Syakieb Ajak Warga Kabupaten Bandung Ikut BAZNAS Fun Walk 2026 - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdLVmExSnQwZFJ0MlJJaEo2cW8yWWo1UDJvaVBFc2xPaDNZcEl3X1lxc2ZzZkJTLW0tODMzUjJWSzQyamViUFFKRk9ITzRqVjdaeHkxQ0hCdXpjMnRkSGtJd0Y3eXlxUkNMSE9NdUhzNU9NQWxlZEZWeDlGS2RDRXZlNGcySU1LTFEyamVRMW1uSHlYQm1uVWZla2tZNVM50gGSAUFVX3lxTFBlZEluc1J0b3U3ajVPUVZ5cHdyemVjbnUtdFhPMGx3eThzVGcxWml6alE1NnNkVnhnMXN1dkZ2eHl1RkMxUVI1SFB2UzNDSzUwT084MENGSUhKcHBQUGVkQUp6UnJyU1NWOTNiWXV0bXQ4Q3BCUzFKVnZfYnlzek1Dc29RUEh1ZmZBNHA5REJWZE1n?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Tokoh Masyarakat Minta Semua Pihak Hormati Proses Hukum Kasus PT BDS, Tri Soroti Politisasi Perkara - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWnNqMVRFV21pbnZXQXpVMUVVM1hfTHUxS281a091X1ZFWkRIbmhuQVBTLUwzTGtYQWdabVpBNGxOdVZELTc0WkNieGVvRFp5UXJWc3ByWVo5WWp2U1pqT1JXMVNicHpzRzJLTEdybkVQN05HUnhQOGNyb1ZDMzRBSTA4cElVSTZlTEdDRXhpRXJsdm9SWUdDcGFsY0FtMjNmOHJEYzI0QzhFSzJHdWphYXI3REQ0b2lDZkVCT1VzbzMwYklFSEhrWXdaY04wVjV0VzQ1MGpaQ1pqdFFwbGtPTFZnT2NPNlhqS1IxVzY3ZmZRMXBsRkRv0gH3AUFVX3lxTE1ac2oxVEVXbWludldBelUxRVUzWF9MdTFLbzVrT3VfVkVaREhuaG5BUFMtTDNMa1hBZ1ptWkE0bE51VkQtNzRaQ2J4ZW9EWnlRclZzcHJZWjlZanZTWmpPUlcxU2JwenNHMktMR3JuRVA3TkdSeFA4Y3JvVkMzNEFJMDhwSVVJNmVMR0NFeGlFcmx2b1JZR0NwYWxjQW0yM2Y4ckRjMjRDOEVLMkd1amFhcjdERDRvaUNmRUJPVXNvMzBiSUVISGtZd1pjTjBWNXRXNDUwalpDWmp0UXBsa09MVmdPY082WGpLUjFXNjdmZlExcGxGRG8?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -136,9 +136,9 @@
      0,
      0,
      1,
+     2,
      3,
-     3,
-     0
+     1
     ],
     "g": [
      0,
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Tangkap 4 Pelaku Pencabulan yang Sempat Viral, Salah Satunya Masih Remaja - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUtFcFQwRU1PTXc5R1p6eDRxVE5LN0EwMERNMlZ0Q0tYZWFPR0ppTEs2eVprUkhEeFBldnN5cjU4N3JCNm9Cc09teE5lVTFicHFQNUxZTDI4bS01UmtybkFiUXhRcG52R0pLMndLUUhqWExpallBVTRyYzd0SnZiVGNISi12bGZOVldGUXdPUnozM2lIWU0zcUJNSHE5bTcyVlktTUh6WGhWTW1sMzFEV1JZRENQTkNKWERtSUZQZ29NQ3JzRzA0Sw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Pesta Miras Berujung Pencabulan di Bandung, 4 Pria Ditangkap - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDBvVmUwWS1mN1ZZU3ZvcE9RVFl2ZmY4S0NMaktyLXJ3MzZhRDZBSXRGb3Z6ZFpCNWJEZkF2VTJnQWNhdXJfMEJqSEFxQ0dRUGdCZTBwLTlyM0Flb2NQei1xeW00cktKUWgtS1dsUDJseUhwdm1iQVQzTmd6WTFNUW9USXlWQVdyNDF6OUJOakw3MFliSFhEdjNWUzBJNnFTOHBvSTFPSG9lNFFUcy14Y2hPMVdrN0XSAbwBQVVfeXFMT3hqdFB5Q1VBMnVzNWlyc2s1Rk5qX1huZ2dlc0RscktNSmVDVzR3cWduN2xuWmN5TmxUbjBCUTc4R2I1Y3EySXVqU1ZYUGVyZFNNUUhrbUtmYkZuR012S3J6YU9qNlhvMTRfaTdMNjloNlFsRHVOQ2l5eWlpZzBBcHN6YUQ4aFZraVhzVG5vRjJOZi1OYXJwUVhtRFhScDh1QW1FT25pekNVVmVzUU1kSnFMWThENEtsSm96NUw?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Viral di medsos, 2 pencuri kabel menara seluler di Cicalengka ditangkap polisi - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmN6Q2xRRV9Nb0NUSXQxaDVidjdFUl9XSlpuT0JUc0FoSjUyS2VjVlpGQ3RSMlF3cHE0Q0xybW9VV3psbFI3VFh6QzRpd3g1Z1k2MkMwcnVMUnBFbzVaNGdKYWhPaGU5MDZ4QXpyT2RVTTRrZWZzN1VmMUN1WVdKWXVLUENFdEJyWDdUY2RUNGNnRWZ2OVBOODBzV05sbzZWZ0pDVDJ3NHVBRkdKcVpvbjNqYzdkYXVZeHo5MtIBwgFBVV95cUxNNnBucTJZOWk4Uktmb3daSFl1TjdkUTBmdF9mNzFacmRNWXEtMFV2VUlzdGF3UGd0eWh3aFh1QXBJM0hsWUZscXRvYldtenVJODVOdWZDRmZFQ0ZMdnZPeDVVQkM5YVQ1WFoyaENkQmdGSWhydVYyemFaZ0FDWDgxOWVEYkRlaXlHcnZSYjlqOXZlcEFrMnpXWHhINlhocEMyVW5Ta2s3SjQxUzV1LWdidV9namlaX3RWLVFzd2VqZnMyZw?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Update Kasus Keracunan 88 Seoul Paskal 23 Bandung: Polisi Periksa Saksi, Restoran Ditutup - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdVNwdGJXVG9GcmpJY1RfQ2NHQ3BLRUNVMWxQSWJrM1FwM1ItVC0waFdlbGpRZHN1TW9pLUluMzBpalJhTWdKaFJNbS1BamVvMExuNmFNTGRZbElCMnZNY3VhR2JSaE9ielg4UjBuQlRJN080QmltNzNUX1Q4UXktSzVqZXd6WmsyR0FxNjR0LXR0dkhFVTcxYktGQjJhSFowRjFkMm91dV9LTEVpQTJ5eXBLaU9OZWs3NkpPTW1DaTB0TzF1anFDTUNPM0d4MWc1TDNQMQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Perkuat Sinergitas, Kapolresta Bandung Gelar Silaturahmi Bersama Insan Pers PWI, IJTV, dan IMM - jurnalpolisi.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2VPVkg5ZEFtUnpKVW9HbVRrTkE1UUFjY3RtbE9rNnpFMkFmM19vbUdpbFBUVXI2dDlHZnp0amdBVmpxNUx6dXdvVjN0b0VvZ1E0YjcxZS1Xc3djazhMbW95V2dNZDZnT09TbjQ5WWY4X2FRRk4zXzZialFzV2hsWUlYTUQzOTUtT0lmQzFSajVvYU1uRzJWc1NEXzdMNEcwQVRJUi1keVhOMjUwTmhwVWw0UkVnSlQxNnpB?oc=5",
-     "r": "jurnalpolisi.co.id"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     28,
-     11
+     29,
+     12
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      1,
      8,
      2,
-     0
+     1
     ]
    }
   },

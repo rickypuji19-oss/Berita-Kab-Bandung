@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:07:59.090374+07:00",
+ "updated": "2026-10-10T21:05:29.059923+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   14
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -85,16 +85,16 @@
      "r": "Galamedia News"
     },
     {
+     "t": "KDS Gandeng Ahli Gizi Percepat Penuruna Stunting di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkhUSDY2a1BfUVVvRnI1dlY2bEV5QjRPSXB6dEZHdFVDZjU3Q3M2YS1YUHU5MURFTFFJcnNOSDJzLVdKVDFjLU5LalpKeHFkeFMzT1VJcnJXLTFsS2RpZzJUWmcySmNkak55NkJyOGJuS1Z0VWdBYXlnTnY3NTIxNlRLclFWNXM3QzdhT2tvbW4zYjlRTkNSNVNfZ2Zwb2FWRWtqZWNaR21FWS0tRXfSAa4BQVVfeXFMUFpIVEg2NmtQX1FVb0ZyNXZWNmxFeUI0T0lwenRGR3RVQ2Y1N0NzNmEtWFB1OTFERUxRSXJzTkgycy1XSlQxYy1OS2paSnhxZHhTM09VSXJyVy0xbEtkaWcyVFpnMkpjZGpOeTZCcjhibktWdFVnQWF5Z052NzUyMTZUS3JRVjVzN0M3YU9rb21uM2I5UU5DUjVTX2dmcG9hVkVramVjWkdtRVktLUV3?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Bupati KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Ketik",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWRmNW1CbmhJNk16RWROSVJIRjNhQmdQNWZxN08xSjQxRUpxMklEbFZJeUpmS2xtRy1EeGxNSDgwNGszd0ZzLTg3dXRsSXdrYUxCQWtaZ2NfeUZSU0hSb1M4d2NWYWZGLUVrb1ZSODZDTzZQUFZ0NllYZXRLMk9fczliQzFjWlhBcUZXblVLVXdaOXowa1FYWEdhQ3hrWWlV0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     35,
+     37,
      1
     ]
    },

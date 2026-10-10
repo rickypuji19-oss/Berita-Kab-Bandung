@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T00:05:37.160699+07:00",
+ "updated": "2026-10-11T01:06:22.609041+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -28,18 +28,18 @@
   ],
   [
    "jabarekspres.com",
-   8
+   7
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Galamedia News",
+   "Radar Bandung",
    5
   ],
   [
-   "Radar Bandung",
+   "Galamedia News",
    4
   ],
   [
@@ -243,16 +243,16 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
+     "t": "Sambut HLN ke-81, PLN UIP2B Jamali Dorong Kemandirian Petani melalui Electrifying Agriculture - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlo2ZTFhX2IyV0VzYVJFQnpEdjRCenRUdWJtSDNZRV9wTEtxSzlYME1jUy1lNm1UVHFUcVQ0LXNFb1NqTk5lVm56Rlpnc0VxTFZ6eFVSTG0tQ19SdkJWVl9DWjM0amJMMUlSa1ZKRHdWUVVpS0g2Z0RpT3JEb1pLSy1vX3hiSGcwYW9tSTRrc0ZteEpLUkxJMmZFb0VFeHEtNVRNMURzUFdXUGFkcmQyajJLbm9QQjB6MjI3SVRwUjRRZVFCZDZMT1lsdUQ?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "IKA ISMEI Himpun 190 UMKM Jabar, Dorong Akses KUR dan Pendampingan Usaha - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3pGZzJ4MndwN0lhbEJaTi1VaVkteVN0eXBIMlNhV2VobExvaWRfbVpNOXdkdURNekZZMm04Q1pyVFZsbk5CVkJqVVhEeUlpRU5JOTJOczhxS1BBek45bWV1N3VqVk0waXVhb29BdEZXTWxXQWNwcGdGb1B4OGdUS1JTel9IN0ZXM2w3NWtOWXBNRHpWaXFESWszNF9ybDhLbW5tbjE1eVdocHhCdzNkMkkyVkkxUlEyLVlQTDZkdw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "IKA ISMEI dan Kementerian UMKM Akselerasi Pembiayaan KUR Himbara - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcENxZElhSndGdWRJSlVNSldkVnZiNDNCRWZYbXBJeUdhcGU2VjNta1JESUthOTNsb0RiMkIxYnlsMUFONk05SEhlT25pUER3aFMtcjF6aWNPekxHeTVVb0xFc0RvQTlwTnQ3eXFqMUJ2T0dCT01mbmNwR3RBZ1JBUEhWbVU0czlWMGkycTdsanVkUFJVVDllODNFWHZRZGN6SktNOUJxWQ?oc=5",
-     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     8,
+     9,
      2
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     20,
+     19,
      23
     ]
    },
@@ -477,15 +477,15 @@
      "r": "Mudanesia"
     },
     {
-     "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
-     "r": "Galamedia News"
-    },
-    {
      "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     16,
+     15,
      5
     ]
    },

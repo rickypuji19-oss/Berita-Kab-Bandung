@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T17:06:12.411817+07:00",
+ "updated": "2026-10-10T18:05:49.862768+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Lensa Hukum",
+   "JakartaTerkini.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlpGS0dIX1E5c3BTcV9uZmpyR1ZVYjdZQ0RONXo1Q1lsR0dMTlNXWk9FNW9QOXNrTWtXZVRxZGNnVlRGYkZXRlRDRGVNbGVNMmpCU01sMEhObjlPNjF6WEhkbnhxYTY0WWc0Uk1YM25DYVk1RS1vYlV6TGJ4TzFEcXpfdklYcVFuNkJ3UVFmN0ZIZzNFUjhKZ3Z6RGE5NmtsQUg5VXpqSUQ2SDdGX0xr0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGo5c0lVZzcxTFpRalZJMjNNZ1ZMdUZHWF9feUFxeXNJVDV5cTRvTVFaMlBIeFNiZENIQ09tcGRjTzhBUEZXZDVCNjNnaE9weFVfczc0bXB4NElJeFpCaXpCSUFSaW9Bc3c3ZjJNaGhTRUtiWlczMlJBZnRSODRFaGV4WDJjdklNZTRiLXJtWVpMbHhZTE16STdYVkhvUk5KRlkwU19qcVZ2VnA1dmQ4eXVmZ1FKTGM0QXg0NDRWWlNlZw?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Stadion Si Jalak Harupat Siap Tampung Laga Lanjutan Persib, Pemkab Bandung Tunggu Pengajuan - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGlLR1NnaEFRNGVJdzAtMno4Q0RRZ0VSNFJJb19XRjN6dk9CU3NJOEFqQUpBVWdOV2lHcDZ6YlR6anp1dVJUZDVWcV9kVHZSNWczZk4yM2UwNVhlSXdpcmJyLXNBV25NOWQtSFNRZ2lKeVpqRkJxd2pRTnhnZ3ByTHM3dlRhNngyY05YbU9XSHBJQXNlUWE5QnU0Ul9QSUFZTUl4NEs2RVBuekdPYVF4aG5nMFNBR0lSelBmS1hlX0Y4NFoybU1Qb3FDNDA0UUE?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     38,
+     37,
      1
     ]
    },

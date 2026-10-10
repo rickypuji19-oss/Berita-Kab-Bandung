@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:06:23.804235+07:00",
+ "updated": "2026-10-10T16:06:06.778539+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -51,10 +51,6 @@
    3
   ],
   [
-   "Radio PRFM",
-   3
-  ],
-  [
    "Galamedia News",
    3
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Lensa Hukum",
+   2
+  ],
+  [
+   "opininews.com",
    2
   ]
  ],
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     13,
+     14,
      5
     ]
    },
@@ -315,7 +315,7 @@
     {
      "t": "Polresta Bandung Siapkan Pengamanan 3 Laga Persib di Jalak Harupat, Bobotoh Diimbau Jaga Ketertiban - Radio PRFM",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb20xZU1XNE9UNWo2dWpaeUl2MkFFUHNLb1VrSUxadzRPWWJRM3d3cTR6STVOTEt3cUNMQzFJY3VZWEtHN3hpOGdldThjc3FBakRLbHJyVTZDaVlPdTBrVjJ6X0VqNnJIMUx1elZxYTItOVNzZEpScmt3ZE5NNGRmT21PdFU1Z21mQS1XTFBpdU1JM1RPOURnbmVsdEhMUTlac1F4UnZzT2kybEIzTWlNQkJwWlRCelhiUEsyWmpGRjVpQzBVYjFyNE5mRFBPVkljSzRZYXh4cUtuY3JRUnJhSG9FMmRCRWVlYmpCYWVDLVpSdDDSAfgBQVVfeXFMT0MtVnY3VG5OdWduZ2ZYQVFRTElYbmJVTFRKeWxEaG5Mc0tpNjhLRUs0eHdwTzNLTF80OExKSndPVXF2UVc3VVlXclNCci1kWUVfSkhweUg5OVQxRGp4TkpNNWgzdmhDMV9MSk5lY2ZOdEdfVGs5TEdLODhxWmJtcjhmdGJFaVZ0ZFEyVll4N3FpRzAxMHlXUHJ5ZWZsX3pZWkdHTUo0NUJNMldlRUFmbzRsekMycTVSemxZNnNiejU0SkU2OUFiUUxTYmY5bXJ2QTdXVEJMMUtjVVU2VkNzVE14Ukl2WURFZG02WG1LdlJXWVM5RUxnX3k?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfedIB-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfeQ?oc=5",
      "r": "Radio PRFM"
     },
     {
@@ -346,7 +346,7 @@
     "w": [
      1,
      19,
-     22
+     21
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      0,
      0,
      8,
-     2,
+     1,
      11,
      1
     ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T19:07:00.893831+07:00",
+ "updated": "2026-10-10T20:07:59.090374+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,16 +15,16 @@
    22
   ],
   [
-   "Kompas.com",
-   15
+   "Ayo Bandung",
+   14
   ],
   [
    "ANTARA News Jawa Barat",
    14
   ],
   [
-   "Ayo Bandung",
-   13
+   "Kompas.com",
+   14
   ],
   [
    "jabarekspres.com",
@@ -35,15 +35,15 @@
    7
   ],
   [
+   "Galamedia News",
+   5
+  ],
+  [
    "iNews.ID",
    4
   ],
   [
    "Radar Bandung",
-   4
-  ],
-  [
-   "Galamedia News",
    4
   ],
   [
@@ -59,12 +59,12 @@
    3
   ],
   [
-   "Gerbang Patriot",
-   2
+   "Radio PRFM",
+   3
   ],
   [
-   "JakartaTerkini.id",
-   2
+   "Inilahkoran.id",
+   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "SAKIP Award 2026 Kabupaten Bandung, KDS: Kinerja OPD Harus Terukur, Uang Rakyat Harus Berdampak - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVEtrVUZDbV81NHpNR1NzWDdaT3czOGhpeU42ekkzQ3JWblFGU2VpYnF0cFRPRV9DOWFRQllIUU5NUUlMelVPZlVWZlI5V1V5RXNDSm5aM2dnSW01YktORW13UmcxQ0dPRVBCaDZyUkpQbzJOQ0pCWXFzdUJRS05ma2tGVGlZUU96WVl6MnlyOE5fVWNwX1luTDJQbnJvNlppWVlMTFYyRENTMGFvZTNZYmd1bnQteXhwYzByclJIZHNuc1BWM0xzdFRpVlh0YkY5cy1NRVBKdHlObmRHNTVEQzB3?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Bupati KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Ketik",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWRmNW1CbmhJNk16RWROSVJIRjNhQmdQNWZxN08xSjQxRUpxMklEbFZJeUpmS2xtRy1EeGxNSDgwNGszd0ZzLTg3dXRsSXdrYUxCQWtaZ2NfeUZSU0hSb1M4d2NWYWZGLUVrb1ZSODZDTzZQUFZ0NllYZXRLMk9fczliQzFjWlhBcUZXblVLVXdaOXowa1FYWEdhQ3hrWWlV0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Jumling di Soreang, KDS Tegaskan Komitmen untuk Guru Ngaji dan Penguatan Ekonomi Warga - Gerbang Patriot",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGo5c0lVZzcxTFpRalZJMjNNZ1ZMdUZHWF9feUFxeXNJVDV5cTRvTVFaMlBIeFNiZENIQ09tcGRjTzhBUEZXZDVCNjNnaE9weFVfczc0bXB4NElJeFpCaXpCSUFSaW9Bc3c3ZjJNaGhTRUtiWlczMlJBZnRSODRFaGV4WDJjdklNZTRiLXJtWVpMbHhZTE16STdYVkhvUk5KRlkwU19qcVZ2VnA1dmQ4eXVmZ1FKTGM0QXg0NDRWWlNlZw?oc=5",
-     "r": "Gerbang Patriot"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     36,
+     35,
      1
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      1,
      20,
-     21
+     22
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      0,
      0,
      8,
-     1,
+     2,
      11,
      1
     ]
@@ -428,7 +428,7 @@
     "w": [
      0,
      6,
-     13
+     14
     ]
    },
    "trend": {
@@ -454,7 +454,7 @@
      0,
      2,
      1,
-     2,
+     3,
      3,
      6,
      0

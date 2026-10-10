@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T03:05:25.452167+07:00",
+ "updated": "2026-10-11T04:05:40.693028+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
@@ -28,7 +28,7 @@
   ],
   [
    "jabarekspres.com",
-   9
+   8
   ],
   [
    "detikcom",
@@ -36,11 +36,7 @@
   ],
   [
    "Radar Bandung",
-   5
-  ],
-  [
-   "Galamedia News",
-   4
+   6
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -51,7 +47,7 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
+   "iNews.ID",
    3
   ],
   [
@@ -61,6 +57,10 @@
   [
    "Inilahkoran.id",
    3
+  ],
+  [
+   "Galamedia News",
+   2
   ],
   [
    "Gerbang Patriot",
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Bersyukur! Pemdes Cibodas Lembang Resmikan Perbaikan Jalan di Wilayah Desa Cibodas Lembang Selesai - Lembang News - Lembang News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlUU0pMNGdZa2lOaERENS1pYVhkbkF1Z3ZhcUFhMzYwVjkzMTdEc2JsMmxaSWY3VUFCZEFlSWVrZm16NnhBWVBsX2gyOUtRVUFYZ3JRU1I3TVMyV3dQLXItOHBKT1diZk9XN1NVaUp4N0d6N3BXcWY4TG5ma2NsT09iM204b0toMGRXMmlTNUZnNTBvUERud05kYnpJVjZERnRXSFhxNm4zS2ZDSV90VVY4Zm8xdDE3NlRic3lxd3QxOUsycjVvYU50V3JGbHFsc0VOZTh2SUZJakh4QzFj0gHfAUFVX3lxTE1QaVRTSkw0Z1lraU5oREQ1LWlhWGRuQXVndmFxQWEzNjBWOTMxN0RzYmwybFpJZjdVQUJkQWVJZWtmbXo2eEFZUGxfaDI5S1FVQVhnclFTUjdNUzJXd1Atci04cEpPV2JmT1c3U1VpSng3R3o3cFdxZjhMbmZrY2xPT2IzbThvS2gwZFcyaVM1Rmc1MG9QRG53TmRieklWNkRGdFdIWHE2bjNLZkNJX3RVVjhmbzF0MTc2VGJzeXF3dDE5SzJyNW9hTnRXckZscWxzRU5lOHZJRklqSHhDMWM?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtY9IB1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtYw?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -192,9 +192,9 @@
      0
     ],
     "w": [
-     2,
-     12,
-     3
+     1,
+     13,
+     2
     ]
    },
    "trend": {
@@ -209,7 +209,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      2,
@@ -221,7 +221,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0,
      0
     ]
@@ -344,7 +344,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      21,
      23
     ]
@@ -361,7 +361,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      0,
@@ -477,15 +477,15 @@
      "r": "Mudanesia"
     },
     {
-     "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
-     "r": "Galamedia News"
-    },
-    {
      "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     16,
+     15,
      5
     ]
    },

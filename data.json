@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T02:07:31.717838+07:00",
+ "updated": "2026-10-11T03:05:25.452167+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
@@ -28,19 +28,19 @@
   ],
   [
    "jabarekspres.com",
-   8
+   9
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Galamedia News",
+   "Radar Bandung",
    5
   ],
   [
-   "Radar Bandung",
-   5
+   "Galamedia News",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -192,9 +192,9 @@
      0
     ],
     "w": [
-     1,
+     2,
      12,
-     4
+     3
     ]
    },
    "trend": {
@@ -209,7 +209,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      0,
      2,
@@ -221,7 +221,7 @@
      0,
      1,
      0,
-     2,
+     1,
      0,
      0
     ]
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     20,
+     21,
      23
     ]
    },

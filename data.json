@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T11:06:54.051478+07:00",
+ "updated": "2026-10-10T12:06:44.927290+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   24
   ],
   [
    "RRI.co.id",
@@ -27,12 +27,12 @@
    13
   ],
   [
-   "detikcom",
+   "jabarekspres.com",
    7
   ],
   [
-   "jabarekspres.com",
-   6
+   "detikcom",
+   7
   ],
   [
    "Radar Bandung",
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     12,
+     13,
      6
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     11,
+     10,
      2
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Razia Narkoba di Cangkuang, Polisi Amankan 12 Butir Obat Keras dan Satu Orang Positif - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVNFbi1FV3h2TUtRLTVWenFQQ1pQZTlhX0h3aFRSclFQb2d5S1hkc1lueWVVbmFiZVhJbjFVdHBHenFsVTNUTjJrSk4yUk5wYjctbE50NVVrLWZ6SmZLX1JUWlM1TEFJMTRNcUtxU1BjTUlTNlVKb3Q5cndVa2JlUHk2OEJhMGoyMzJWQ2NfbVB0a2xtQ3lwMmFNMnRnLVRFcHBsVjNxa01aNXNFT05NU1I1aWhGWWQ1alRXdVhaX0x4dFlxRFJF?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Jadwal pertandingan Persib Bandung 11, 14, 18 Oktober di SJH, Polisi siapkan pengamanan - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmU2NENnTVdBa0tDdEJjYnU5MUNnSEtJcENZazlJeGVjUDFfNC1UZG5pWDRQWWZKUFhzRUd4Q2FxRVM5d19JOWxlbVB3MGEtbWpiQ2JoNmlxTUlIQU84Xy01YzZIUGtrRUx6bnZwU1RsTFlrRFM0NFk4aWxBUk45dGtSOWdwOVJ0WHc3TDdnWjgyNnlycUJIV3JHaE1PclYwYnRILXMya2QtdzBWVFhtY3JRUjZLWkNfVzRoMm5FcUEzWk1WeGfSAcsBQVVfeXFMUGQyM3p3R3JmNjBxX2NKaDduQVRHWjhzdklTeDZkb1djQ0RpSFAzQWUxR0VXVUpBYWVuQzlJN2pHM3R5OEdvejBoeXVyQ3dzX19JNUlTM1ozZEtUN0JyMy15REZOLWlIbnlwS24yUG9rVG5ONzJaSHF0Yk0tX2xPdFE5c0JCMHdpbWhGcmlENTRGTXFJRlRVcFAyWF9FU2ltRmVtSjFiZ240X2UzSW5YbFhydlhTWkRpYmw5VjRZdTJwTzZuay1uejBaRG8?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWJuZkl6Z2xJcTktWFQ4UE0tM3RwZ2JmbDZIcWZiNjBsNDY0bFVJQVo2cTVIc2IyWS1ST2dCYXlDczhFSnhuLWVrOEhzMnRwVUpxeGxiZWJoYjJUeW1WVEVDX2FucS1wTndZVmpPUFgzeS10c3BGUGJZTkJGZmY2YzVkNkhZZ2RBMTlGNzlrMVBOXzh3OTFqVVU3QUFCaFNPeGs3b1JFclMxU1J6NE5XWkt4bi1fZ28xc3Q1Rw?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Sempat Bebas, Ketua HIPMI Kabupaten Bandung Kembali Ditahan, Proses Persidangan Berlanjut - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWpaTmZFaUhEc0tzNzRtSG5kWkw0WDFfTWFSZWlTRnl6cjBDRkVUOEVFdkxLUUhPVHM5Z0Mxa2R6Uk03eGdneG5NUmt6X2tTVGpualVVOF9DazMxeU1HNnY2cERXVXBDYnBtY0ktRkwtb0FKZnJKSzRYSnJab1J2WGF3TS1wWF9TMzM4OHY2N3V6cTVsMUdpVTNhLTZlR2xnUkJUTWNlaXhoTWUwcUp6VkpLa0VPZ3oyb3lJYkJhMTZDeEZFOFcwRmF1czdnQk0xQV9pcE5Oc1dJQQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     16,
-     23
+     17,
+     22
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      8,
      2,
      11,

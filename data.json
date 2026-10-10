@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T07:09:11.417540+07:00",
+ "updated": "2026-10-10T08:11:07.880280+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "Ayo Bandung",
@@ -28,11 +28,11 @@
   ],
   [
    "detikcom",
-   8
+   7
   ],
   [
    "jabarekspres.com",
-   7
+   6
   ],
   [
    "Radar Bandung",
@@ -45,6 +45,10 @@
   [
    "Radio PRFM",
    4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   3
   ],
   [
    "Pikiran Rakyat Koran",
@@ -61,10 +65,6 @@
   [
    "Galamedia News",
    3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   2
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Survey - Survey Kepuasan Masyarakat Kabupaten Bandung - Pemerintah Kabupaten Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YcC1mWU5WckJsblhMUUdMTHdHbWtmTUpVTENqbEtmaDd1NVpUTDd0eHpEVE9Mb2FoTm1mRk5aaXRNMlZlSmhYVlB3TGhsUm5P?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Komitmen untuk Guru Ngaji dan Penguatan Ekonomi Warga - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk84NVAzeTAtM3AyZ1lKYmxFQjRfemttUUl5ZFNuTTNTRy04c3pVc2NNaHlCYzJ4cTBPcDJZQ243QUQ2NFU4V1hMbGtBNmVFUTUwaFBMZjJXTEJORjhoU2RiNzFJMGItbW9SMF9DQVhCc1J2STlTS1NnQzByX1c4N2JSNjdjWDJuREhGNVpSS3NaVTVJcHE3NXYyMWw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjdOMmZUU3o2eGNMSzBhVVVHTjVZZ1BoZlplcElvZmNtbktjODVZd1htT2hUZE5nX2E3TUdXeVpHREhldmlOOTdOY2ZiT3J2SVFxcGRVZl9RMDMwUEFQc0xaZlg3RDloOVp2SWhueXNoVEU3anZhMG9ObHBFdzBkemZLTmRYYkdSWHJXdTZ0QkNVeE15WGRYQ2IyVQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Simalabar Kabupaten Bandung, PNS Wajib Belajar 20 Jam per Tahun - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2RQUEdWRllWS3dFSUFnd2QyWXp4OHdWYzBfa1NuV0NuRnh3VEhTUjhaMDN1Y3FycjNEU0REQS0xQTJuT1BFRzNBdzdhUld5b3QteE9iMFRSLVhaZFRpQTNXZnpIZjlHdFhxbWstaWFDMUVFXzhuRzJfNy1BNUxyM2ZuQXYwZmx5TmxydEhNUGVtcnZkdjdmNFc4QzZTSFZWLURtRGhDZUVVcjRfTVJTMXMwalhadw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -117,7 +117,7 @@
     ],
     "w": [
      2,
-     39,
+     38,
      1
     ]
    },
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     1,
-     0
+     0,
+     1
     ]
    }
   },
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "IKA ISMEI Himpun 190 UMKM Jabar, Dorong Akses KUR dan Pendampingan Usaha - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3pGZzJ4MndwN0lhbEJaTi1VaVkteVN0eXBIMlNhV2VobExvaWRfbVpNOXdkdURNekZZMm04Q1pyVFZsbk5CVkJqVVhEeUlpRU5JOTJOczhxS1BBek45bWV1N3VqVk0waXVhb29BdEZXTWxXQWNwcGdGb1B4OGdUS1JTel9IN0ZXM2w3NWtOWXBNRHpWaXFESWszNF9ybDhLbW5tbjE1eVdocHhCdzNkMkkyVkkxUlEyLVlQTDZkdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "IKA ISMEI dan Kementerian UMKM Akselerasi Pembiayaan KUR Himbara - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcENxZElhSndGdWRJSlVNSldkVnZiNDNCRWZYbXBJeUdhcGU2VjNta1JESUthOTNsb0RiMkIxYnlsMUFONk05SEhlT25pUER3aFMtcjF6aWNPekxHeTVVb0xFc0RvQTlwTnQ3eXFqMUJ2T0dCT01mbmNwR3RBZ1JBUEhWbVU0czlWMGkycTdsanVkUFJVVDllODNFWHZRZGN6SktNOUJxWQ?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVhzLVhoWkd1X2RKbjAtNjlKNWtOOFIyNVpPemtRN25jcTA5VmVlQ08tWlY2SVBkLTRvdENHZEVibmJWUFVHa1REXzhQdFd5WlBpRUNIWmNaQTVmclc3V3ZRSFNocl9qRkxNbkppLXV6bTZuYndGVFItaDhzNENLQ29sR2NjaHhBbVpHR3JKeDJkNDVDMzJBckotOGlVZy1WR3pPRE8tcUE3akVKVHZOeHVDYnA4ampndTBOVGVRbzNVT2picnlPNUZwbkV6TmdBNjM0S3RLY3IycUpmMVdsM9IB5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Jagung Sulit Didapat, Harga Pakan Ayam Naik, Ini yang Harus Dilakukan Pemprov Jabar - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNExLN3dSU0dfVk5OU0JTV2JHa1lLblE2TEpNNEtock81NWxyc0ZlbVpzSndmN1NUVmxlYm1MOXdSME13RFhQYkMyeWE1NTh2Y3luSUF5ZUNGRUhzNXZYekZQVDA4WHRFX0lhTWRzbGxIalN6Vk84VnZKQUxnZENjMTRLTTlfZ0ltNFhpYS1zUGZ4cWRHNVlMVjR1dy1JbFc5Rk1mRm55ang1QXVVcWtkZGF5b1htUGpRM3JPUHdKM0lxdw?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     10,
+     11,
      2
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      2,
      17,
-     22
+     21
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      8,
      2,
-     11,
+     10,
      0
     ]
    }

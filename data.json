@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:05:20.861026+07:00",
+ "updated": "2026-10-11T00:05:37.160699+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
+   "Tribunjabar.id",
    23
   ],
   [
-   "Tribunjabar.id",
-   23
+   "RRI.co.id",
+   21
   ],
   [
    "Ayo Bandung",
@@ -28,7 +28,7 @@
   ],
   [
    "jabarekspres.com",
-   9
+   8
   ],
   [
    "detikcom",
@@ -39,15 +39,19 @@
    5
   ],
   [
-   "iNews.ID",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Gerbang Patriot",
-   2
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Tanpa Anggaran Pemerintah, KKI Jawa Barat Persiapan Atlet Menuju Kompetisi - Bangbara - Bangbara",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFJDd2s3eUxsY0xuWVpCWS1JM2IxVC01VjI0d2daUGE1UVp2bFAwYlpyekthd0plVnNUempmZm8xVE5Xa3N6d19BZ09sbUVxTExockgyVG5YNzBkUVAxNEtNY0xmci1LNzZKUWtJVld5SThPd2hoYzVGVGdxWDQyaTNmTTVURWhQb1FyWWMyZ2tqbTNBdGVySXZzRHNTU01jenRyY0tUczdxbHlFRnFjMUMzbkp4MnFSUUtXc0F4X1Z0c2fSAcMBQVVfeXFMTkRSQ3drN3lMbGNMbllaQlktSTNiMVQtNVYyNHdnWlBhNVFadmxQMGJacnpLYXdKZVZzVHpqZmZvMVROV2tzendfQWdPbG1FcUxMaHJIMlRuWDcwZFFQMTRLTWNMZnItSzc2SlFrSVZXeUk4T3doaGM1RlRncVg0MmkzZk01VEVoUG9RclljMmdram0zQXRlckl2c0RzU1NNY3p0cmNLVHM3cWx5RUZxYzFDM25KeDJxUlFLV3NBeF9WdHNn?oc=5",
+     "r": "Bangbara"
+    },
+    {
      "t": "SAKIP Award 2026 Kabupaten Bandung, KDS: Kinerja OPD Harus Terukur, Uang Rakyat Harus Berdampak - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVEtrVUZDbV81NHpNR1NzWDdaT3czOGhpeU42ekkzQ3JWblFGU2VpYnF0cFRPRV9DOWFRQllIUU5NUUlMelVPZlVWZlI5V1V5RXNDSm5aM2dnSW01YktORW13UmcxQ0dPRVBCaDZyUkpQbzJOQ0pCWXFzdUJRS05ma2tGVGlZUU96WVl6MnlyOE5fVWNwX1luTDJQbnJvNlppWVlMTFYyRENTMGFvZTNZYmd1bnQteXhwYzByclJIZHNuc1BWM0xzdFRpVlh0YkY5cy1NRVBKdHlObmRHNTVEQzB3?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkhUSDY2a1BfUVVvRnI1dlY2bEV5QjRPSXB6dEZHdFVDZjU3Q3M2YS1YUHU5MURFTFFJcnNOSDJzLVdKVDFjLU5LalpKeHFkeFMzT1VJcnJXLTFsS2RpZzJUWmcySmNkak55NkJyOGJuS1Z0VWdBYXlnTnY3NTIxNlRLclFWNXM3QzdhT2tvbW4zYjlRTkNSNVNfZ2Zwb2FWRWtqZWNaR21FWS0tRXfSAa4BQVVfeXFMUFpIVEg2NmtQX1FVb0ZyNXZWNmxFeUI0T0lwenRGR3RVQ2Y1N0NzNmEtWFB1OTFERUxRSXJzTkgycy1XSlQxYy1OS2paSnhxZHhTM09VSXJyVy0xbEtkaWcyVFpnMkpjZGpOeTZCcjhibktWdFVnQWF5Z052NzUyMTZUS3JRVjVzN0M3YU9rb21uM2I5UU5DUjVTX2dmcG9hVkVramVjWkdtRVktLUV3?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "Bupati KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Ketik",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWRmNW1CbmhJNk16RWROSVJIRjNhQmdQNWZxN08xSjQxRUpxMklEbFZJeUpmS2xtRy1EeGxNSDgwNGszd0ZzLTg3dXRsSXdrYUxCQWtaZ2NfeUZSU0hSb1M4d2NWYWZGLUVrb1ZSODZDTzZQUFZ0NllYZXRLMk9fczliQzFjWlhBcUZXblVLVXdaOXowa1FYWEdhQ3hrWWlV0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -112,33 +112,33 @@
    "v": {
     "s": [
      1,
-     4,
+     3,
      0
     ],
     "w": [
      1,
-     35,
+     36,
      1
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      0,
      1,
      0,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -192,37 +192,37 @@
      0
     ],
     "w": [
-     2,
-     13,
-     5
+     1,
+     12,
+     4
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
-     1,
      0,
      0,
      2,
+     0,
      0
     ],
     "g": [
      1,
-     1,
      0,
      1,
      0,
      2,
+     0,
      0
     ]
    }
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Ranca Upas Ciwidey Bandung: Intip Harga Tiket, Jam Buka, dan Aktivitas Seru 2026 - Pikiran-Rakyat.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW52TUg4dzJwRy0tazRlTDFiSmdweTRDOUVRNmc0eXVmTHVndlBYMnFmb0tFWmt0WGlIaThkdTM4UjljcUtHRElzWHdMNEZQdTlScVJmd1hLbzhMQklHV09yWXB5R0hFYUhHQlBoUVlwN3FSOUVaRE10WWFUOU8taEVObkphaEc4d1hGbE5PcTlpanptdVVpYy1EbENjOHJJRE0xR3I4UVBmME5DdzBuWjctTHBjS0E3SXkzeGxLNDh0czcwYmZiaHgtSXp6QdIB0wFBVV95cUxOTmdkb0pSTjFTYi0wc1d6TzZYWEJsR2ZHckpsUW5GTW1yNzNqN3kxYTl4cGJKclNRb2dXbGs3bC1hOEpXUWh1aC1kVDg2a0JKVDMwcHNBMEY5cTZXazh4QVhia0J5UEtPcVIxSVRuU3ExMnhhN21jNDhvZGtZeXNoODZTOWdIb0oyUFlFYXJLRG92Q005UmRBS3JtRG9nWHdKTkJobnYxUEYxazUzd2JGNzBTNFVycXUzMEZpc1hOQURpLTIzeWVNYjNtYzhHTTZPcVVB?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
      "t": "IKA ISMEI Himpun 190 UMKM Jabar, Dorong Akses KUR dan Pendampingan Usaha - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3pGZzJ4MndwN0lhbEJaTi1VaVkteVN0eXBIMlNhV2VobExvaWRfbVpNOXdkdURNekZZMm04Q1pyVFZsbk5CVkJqVVhEeUlpRU5JOTJOczhxS1BBek45bWV1N3VqVk0waXVhb29BdEZXTWxXQWNwcGdGb1B4OGdUS1JTel9IN0ZXM2w3NWtOWXBNRHpWaXFESWszNF9ybDhLbW5tbjE1eVdocHhCdzNkMkkyVkkxUlEyLVlQTDZkdw?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcENxZElhSndGdWRJSlVNSldkVnZiNDNCRWZYbXBJeUdhcGU2VjNta1JESUthOTNsb0RiMkIxYnlsMUFONk05SEhlT25pUER3aFMtcjF6aWNPekxHeTVVb0xFc0RvQTlwTnQ3eXFqMUJ2T0dCT01mbmNwR3RBZ1JBUEhWbVU0czlWMGkycTdsanVkUFJVVDllODNFWHZRZGN6SktNOUJxWQ?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "KDS Fasilitasi BPJS Ketenagakerjaan Atlet Porprov XV, Instruksikan Dispora Anggarkan Setiap Tahun - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UdIB5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UQ?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -262,36 +262,36 @@
      0
     ],
     "w": [
-     2,
-     10,
+     3,
+     8,
      2
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      1,
      1,
      0,
      0,
      0,
+     1,
      0
     ],
     "g": [
      0,
-     0,
      1,
      0,
      1,
+     0,
      0,
      0
     ]
@@ -351,31 +351,31 @@
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
+     0,
      0,
      0
     ],
     "g": [
      0,
      0,
-     0,
      8,
      2,
      11,
-     2
+     2,
+     0
     ]
    }
   },
@@ -433,30 +433,30 @@
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     0,
      2,
      1,
      3,
      3,
      6,
+     0,
      0
     ]
    }
@@ -515,30 +515,30 @@
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      2,
      0,
      0,
      1,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
-     0,
      2,
      1,
      0,
      2,
+     0,
      0
     ]
    }

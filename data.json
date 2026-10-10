@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T16:06:06.778539+07:00",
+ "updated": "2026-10-10T17:06:12.411817+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Kompas.com",
    15
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Ayo Bandung",
    14
   ],
   [
-   "Ayo Bandung",
-   13
+   "ANTARA News Jawa Barat",
+   14
   ],
   [
    "jabarekspres.com",
@@ -47,7 +47,15 @@
    3
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -55,15 +63,7 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   2
-  ],
-  [
    "Lensa Hukum",
-   2
-  ],
-  [
-   "opininews.com",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     37,
+     38,
      1
     ]
    },
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     14,
+     13,
      5
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Ini Enam Pesan Tegas Kapolresta Bandung Kombes Pol Dr Tri Suhartanto - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGlnOHJTc0p4U05rV0hic3hrQ0h0cEdiVUJGc3d5QVVyamZUOHUwNFQ0WkFsN0haUHY4VUJSLTQ2cm1KbnpUbmR0b2pOaUY1Q1ltMjUzdmM3WmhLTmdZeF9oSGJDdXJPcDNiVnRiQ3o3RWI3WDduQzhnTWItR21FSFBVc3ZlT0pWQnRFUGhkRTFDR19QUm9YclUzQzNDSnRkZUZKbEZ1dmdzUHFPQ2VZeUlONFo?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfedIB-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfeQ?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Amankan Laga Persib, Polisi Tingkatkan Pengamanan dan Minta Bobotoh Jaga Nama Baik Klub - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkhNcVZES19tbnNxYWNCUnE5VnVxMWxYdmpScU83NFFUS29WNmJlOVRaLXNWbmxkd01Lam1ad1MyYUk0Ym9XUXJpVzFMcEJEem94dVQwcEdOX3VYWGhQNVJsNU5PNGpub2I4Y3FNRHZCdlY4N291cDkwZndFc2s1WUEyekFfTkNBQ01HMWRiajhOQnl4NkI0NnJ6SThnNW5wVUhHSTY1Z3ItbFlQQ3ZEdGM0eUc1bUhpTVJzWFVoSEZjajI3VzFUeGhodEI?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     19,
+     20,
      21
     ]
    },

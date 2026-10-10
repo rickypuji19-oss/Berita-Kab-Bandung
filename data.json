@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:06:22.609041+07:00",
+ "updated": "2026-10-11T02:07:31.717838+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -28,19 +28,19 @@
   ],
   [
    "jabarekspres.com",
-   7
+   8
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Radar Bandung",
+   "Galamedia News",
    5
   ],
   [
-   "Galamedia News",
-   4
+   "Radar Bandung",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     19,
+     20,
      23
     ]
    },
@@ -477,15 +477,15 @@
      "r": "Mudanesia"
     },
     {
+     "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     15,
+     16,
      5
     ]
    },

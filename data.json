@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:05:40.640951+07:00",
+ "updated": "2026-10-10T23:05:20.861026+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,12 +15,12 @@
    23
   ],
   [
-   "Kompas.com",
+   "Ayo Bandung",
    15
   ],
   [
-   "Ayo Bandung",
-   14
+   "Kompas.com",
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -51,10 +51,6 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
    "Radio PRFM",
    3
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Gerbang Patriot",
+   2
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    2
   ]
  ],
@@ -325,22 +325,22 @@
      "r": "Radio PRFM"
     },
     {
+     "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=6ya0qDPtgt0",
+     "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
+    },
+    {
      "t": "Bupati Dadang ‼️  Jadi Saksi di Kasus BDS Kab. Bandung #BupatiDadang #JadiSaksi #KasusBDSbdg #Shorts",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=2QfzAcIFo08",
      "r": "YouTube PARLEMEN JALANAN"
-    },
-    {
-     "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=HAx6SCO7VZw",
-     "r": "YouTube UTV Televisi Indonesia"
     }
    ],
    "v": {
     "s": [
      0,
-     4,
+     5,
      0
     ],
     "w": [
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "SAKIP Award: Apresiasi Kinerja, Perkuat Akuntabilitas, Wujudkan Birokrasi Berintegritas - Mudanesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByedIB4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByeQ?oc=5",
+     "r": "Mudanesia"
+    },
+    {
      "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
@@ -483,32 +489,26 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
+     "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://www.youtube.com/watch?v=PBoPi10uxRA",
+     "r": "YouTube WARPAS TV"
     },
     {
      "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=stOceJ8P_yI",
      "r": "YouTube SMP Negeri 1 Paseh"
-    },
-    {
-     "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=EnEPgz7iQTw",
-     "r": "YouTube pu_itjen"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      0
     ],
     "w": [
-     3,
+     4,
      16,
      5
     ]
@@ -530,7 +530,7 @@
      0,
      1,
      0,
-     0
+     1
     ],
     "g": [
      0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:05:49.862768+07:00",
+ "updated": "2026-10-10T19:07:00.893831+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   21
+   22
   ],
   [
    "Kompas.com",
    15
   ],
   [
-   "Ayo Bandung",
+   "ANTARA News Jawa Barat",
    14
   ],
   [
-   "ANTARA News Jawa Barat",
-   14
+   "Ayo Bandung",
+   13
   ],
   [
    "jabarekspres.com",
@@ -43,8 +43,8 @@
    4
   ],
   [
-   "Gerbang Patriot",
-   3
+   "Galamedia News",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -59,8 +59,8 @@
    3
   ],
   [
-   "Galamedia News",
-   3
+   "Gerbang Patriot",
+   2
   ],
   [
    "JakartaTerkini.id",
@@ -81,7 +81,7 @@
     {
      "t": "Bupati KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlpGS0dIX1E5c3BTcV9uZmpyR1ZVYjdZQ0RONXo1Q1lsR0dMTlNXWk9FNW9QOXNrTWtXZVRxZGNnVlRGYkZXRlRDRGVNbGVNMmpCU01sMEhObjlPNjF6WEhkbnhxYTY0WWc0Uk1YM25DYVk1RS1vYlV6TGJ4TzFEcXpfdklYcVFuNkJ3UVFmN0ZIZzNFUjhKZ3Z6RGE5NmtsQUg5VXpqSUQ2SDdGX0xr0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWRmNW1CbmhJNk16RWROSVJIRjNhQmdQNWZxN08xSjQxRUpxMklEbFZJeUpmS2xtRy1EeGxNSDgwNGszd0ZzLTg3dXRsSXdrYUxCQWtaZ2NfeUZSU0hSb1M4d2NWYWZGLUVrb1ZSODZDTzZQUFZ0NllYZXRLMk9fczliQzFjWlhBcUZXblVLVXdaOXowa1FYWEdhQ3hrWWlV0gGgAUFVX3lxTE9BZGY1bUJuaEk2TXpFZE5JUkhGM2FCZ1A1ZnE3TzFKNDFFSnEySURsVkl5SmZLbG1HLUR4bE1IODA0azN3RnMtODd1dGxJd2thTEJBa1pnY195RlJTSFJvUzh3Y1ZhZkYtRWtvVlI4NkNPNlBQVnQ2WVhldEsyT19zOWJDMWNaWEFxRlduVUtVd1o5ejBrUVhYR2FDeGtZaVU?oc=5",
      "r": "Ketik"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     37,
+     36,
      1
     ]
    },
@@ -173,10 +173,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "500 PPPK Paruh Waktu KBB Harap Beralih Status Jadi ASN PPPK, DPRD Siap Koordinasi - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ05nbGJUcXdxNU4xN29ERGdHYTVnX01YQUx4ZFpwbWEyR0U5M2phLWx5dVZ6Ykx1cGlUZl94cnpwb1B6a3VSOTNiWGIzeGF2ZzZ0YTV5UFJrWEtEWGtiWU81Z1NTQTRDLWxhcDFvVFM0V1NSMXVoWVAtckN1X1pYM2Vlb0d0ZkpfLUcyQ3hOQzE0Uno3WWF6ZEJHLWs4d0JYQVVidGVEaXJDNUE?oc=5",
-     "r": "Inilahkoran.id"
+     "t": "Kasus PT BDS Sarat Muatan Politik, Tri: Opini Menyesatkan Vendor dan Buzzer pada Bupati Bisa Diproses Hukum - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWkwSzdsdmdxMTBZZWhTOVBYaGFZZ25INjlRUF8xNEx1cDBUUjM4TXF2VENsSzhRemtvbHV5NlRXc2h0MDR3dldTVmZBWlRjckIwZ2lkaVdsNUxPZFRUTXZfV3k1OHZvcV9qbURDVXZXOWhhaVdMNlpnVExLUzhLU2o3TGFtVk9FcWRROHRHb25HMmd2N3lyUHozTE92VDROSDFFdTljTkF0WTNaenp0WUNqa2VuZEwtS25RSGFXVGdBZU1LYm13UFJvbWJMdEZYVEx1bUF6OGVoWEpDR0UxYWx4YXhpc3E1aWxMVzQycWx2SzQ?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -325,22 +325,22 @@
      "r": "Radio PRFM"
     },
     {
+     "t": "Bupati Dadang ‼️  Jadi Saksi di Kasus BDS Kab. Bandung #BupatiDadang #JadiSaksi #KasusBDSbdg #Shorts",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=2QfzAcIFo08",
+     "r": "YouTube PARLEMEN JALANAN"
+    },
+    {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=HAx6SCO7VZw",
      "r": "YouTube UTV Televisi Indonesia"
-    },
-    {
-     "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
-     "r": "YouTube RUANG JEJAK KASUS "
     }
    ],
    "v": {
     "s": [
      0,
-     3,
+     4,
      0
     ],
     "w": [
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bupati: Pesan Sang Ayah, Utamakan Guru Mengaji - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     15,
+     16,
      5
     ]
    },

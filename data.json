@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T14:07:50.109064+07:00",
+ "updated": "2026-10-10T15:06:23.804235+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "Kompas.com",
@@ -35,11 +35,11 @@
    7
   ],
   [
-   "Radar Bandung",
-   5
+   "iNews.ID",
+   4
   ],
   [
-   "iNews.ID",
+   "Radar Bandung",
    4
   ],
   [
@@ -51,11 +51,7 @@
    3
   ],
   [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "Ketik",
+   "Radio PRFM",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   2
+  ],
+  [
+   "Lensa Hukum",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Jumling di Soreang, KDS Tegaskan Komitmen untuk Guru Ngaji dan Penguatan Ekonomi Warga - Gerbang Patriot",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGo5c0lVZzcxTFpRalZJMjNNZ1ZMdUZHWF9feUFxeXNJVDV5cTRvTVFaMlBIeFNiZENIQ09tcGRjTzhBUEZXZDVCNjNnaE9weFVfczc0bXB4NElJeFpCaXpCSUFSaW9Bc3c3ZjJNaGhTRUtiWlczMlJBZnRSODRFaGV4WDJjdklNZTRiLXJtWVpMbHhZTE16STdYVkhvUk5KRlkwU19qcVZ2VnA1dmQ4eXVmZ1FKTGM0QXg0NDRWWlNlZw?oc=5",
@@ -91,33 +97,27 @@
      "r": "jabarekspres.com"
     },
     {
-     "t": "Bupati: Pesan Sang Ayah, Utamakan Guru Mengaji - RRI.co.id",
+     "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://www.youtube.com/watch?v=quv_Fi39Lt8",
+     "r": "YouTube SERENITY KOPO RESIDENCE"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=_E4dKp0IAgo",
      "r": "YouTube Radio PRFM 107,5 News Channel"
-    },
-    {
-     "t": "KASUS BDS: Korban Menuntut Kepastian, Bagaimana Tanggung Jawab dan Pengawasan Bupati Bandung?",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=96I11TyAU_8",
-     "r": "YouTube RUANG JEJAK KASUS "
     }
    ],
    "v": {
     "s": [
      1,
-     3,
+     4,
      0
     ],
     "w": [
-     3,
-     36,
+     1,
+     37,
      1
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     2,
+     0,
      1
     ],
     "g": [
@@ -307,21 +307,21 @@
    ],
    "h": [
     {
+     "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Polresta Bandung Siapkan Pengamanan 3 Laga Persib di Jalak Harupat, Bobotoh Diimbau Jaga Ketertiban - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb20xZU1XNE9UNWo2dWpaeUl2MkFFUHNLb1VrSUxadzRPWWJRM3d3cTR6STVOTEt3cUNMQzFJY3VZWEtHN3hpOGdldThjc3FBakRLbHJyVTZDaVlPdTBrVjJ6X0VqNnJIMUx1elZxYTItOVNzZEpScmt3ZE5NNGRmT21PdFU1Z21mQS1XTFBpdU1JM1RPOURnbmVsdEhMUTlac1F4UnZzT2kybEIzTWlNQkJwWlRCelhiUEsyWmpGRjVpQzBVYjFyNE5mRFBPVkljSzRZYXh4cUtuY3JRUnJhSG9FMmRCRWVlYmpCYWVDLVpSdDDSAfgBQVVfeXFMT0MtVnY3VG5OdWduZ2ZYQVFRTElYbmJVTFRKeWxEaG5Mc0tpNjhLRUs0eHdwTzNLTF80OExKSndPVXF2UVc3VVlXclNCci1kWUVfSkhweUg5OVQxRGp4TkpNNWgzdmhDMV9MSk5lY2ZOdEdfVGs5TEdLODhxWmJtcjhmdGJFaVZ0ZFEyVll4N3FpRzAxMHlXUHJ5ZWZsX3pZWkdHTUo0NUJNMldlRUFmbzRsekMycTVSemxZNnNiejU0SkU2OUFiUUxTYmY5bXJ2QTdXVEJMMUtjVVU2VkNzVE14Ukl2WURFZG02WG1LdlJXWVM5RUxnX3k?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Amankan Laga Persib, Polisi Tingkatkan Pengamanan dan Minta Bobotoh Jaga Nama Baik Klub - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkhNcVZES19tbnNxYWNCUnE5VnVxMWxYdmpScU83NFFUS29WNmJlOVRaLXNWbmxkd01Lam1ad1MyYUk0Ym9XUXJpVzFMcEJEem94dVQwcEdOX3VYWGhQNVJsNU5PNGpub2I4Y3FNRHZCdlY4N291cDkwZndFc2s1WUEyekFfTkNBQ01HMWRiajhOQnl4NkI0NnJ6SThnNW5wVUhHSTY1Z3ItbFlQQ3ZEdGM0eUc1bUhpTVJzWFVoSEZjajI3VzFUeGhodEI?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Razia Narkoba Polresta Bandung: Puluhan Obat Keras Disita di Cangkuang - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjd4aHlHVFBlMHJYR08yUXZQVHlvMFk1SW5uYmpGQ1JkU2RoNUJ5TTJpZF9zUjBDdTE4U3ZRNmNpLVRNeFhxTmM3LXNMVVNNUnhiZDNyU0V3MmNZOERETzU5SHBaXzBWeExQbUZCT3Ztb01qd21LV2xMelh4NUt0VnNNQUJ6UHdjcVN6aG5nU2s3SWR5QjJvLTJSSzZkVHNWZGwtMEt2TW1maFZFajhrUmFR0gG3AUFVX3lxTFBkRXBuV0t2U2thcnh4WE5pWXVxQ2ktVE52NkFpM0ZtQksweWMxUjR6Q0hTeUhnMGVfQlc0M1VaVWNXSEpBS3hkbGh0UWRoUWVRc240YzlqYUp6OGZkN2pOUXhPVWFDcmVQZV9uU0dJa1l0MEhEYmNJN2J3aElfTU9EU2tlM09wZzBqb3RDYklwRkJrZEJBSjBrNUlzNTNJOUxuRG12aXdURUJ0M0x2ZmJyazMxb1N4QQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Razia Narkoba di Cangkuang, Polisi Amankan 12 Butir Obat Keras dan Satu Orang Positif - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVNFbi1FV3h2TUtRLTVWenFQQ1pQZTlhX0h3aFRSclFQb2d5S1hkc1lueWVVbmFiZVhJbjFVdHBHenFsVTNUTjJrSk4yUk5wYjctbE50NVVrLWZ6SmZLX1JUWlM1TEFJMTRNcUtxU1BjTUlTNlVKb3Q5cndVa2JlUHk2OEJhMGoyMzJWQ2NfbVB0a2xtQ3lwMmFNMnRnLVRFcHBsVjNxa01aNXNFT05NU1I1aWhGWWQ1alRXdVhaX0x4dFlxRFJF?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -344,8 +344,8 @@
      0
     ],
     "w": [
-     2,
-     18,
+     1,
+     19,
      22
     ]
    },
@@ -362,7 +362,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      1,
      0,

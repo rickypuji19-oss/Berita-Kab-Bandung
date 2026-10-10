@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T09:07:12.041963+07:00",
+ "updated": "2026-10-10T10:07:02.251306+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
   ],
   [
    "RRI.co.id",
@@ -16,19 +16,19 @@
   ],
   [
    "Ayo Bandung",
-   16
+   15
+  ],
+  [
+   "Kompas.com",
+   14
   ],
   [
    "ANTARA News Jawa Barat",
    12
   ],
   [
-   "Kompas.com",
-   12
-  ],
-  [
    "detikcom",
-   8
+   7
   ],
   [
    "jabarekspres.com",
@@ -39,16 +39,12 @@
    5
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
    "iNews.ID",
    4
   ],
   [
-   "Radio PRFM",
-   4
+   "Pikiran Rakyat Koran",
+   3
   ],
   [
    "Jurnal Soreang",
@@ -56,6 +52,10 @@
   ],
   [
    "Ketik",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati: Pesan Sang Ayah, Utamakan Guru Mengaji - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Survey - Survey Kepuasan Masyarakat Kabupaten Bandung - Pemerintah Kabupaten Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YcC1mWU5WckJsblhMUUdMTHdHbWtmTUpVTENqbEtmaDd1NVpUTDd0eHpEVE9Mb2FoTm1mRk5aaXRNMlZlSmhYVlB3TGhsUm5P?oc=5",
@@ -88,12 +94,6 @@
      "t": "Komitmen untuk Guru Ngaji dan Penguatan Ekonomi Warga - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk84NVAzeTAtM3AyZ1lKYmxFQjRfemttUUl5ZFNuTTNTRy04c3pVc2NNaHlCYzJ4cTBPcDJZQ243QUQ2NFU4V1hMbGtBNmVFUTUwaFBMZjJXTEJORjhoU2RiNzFJMGItbW9SMF9DQVhCc1J2STlTS1NnQzByX1c4N2JSNjdjWDJuREhGNVpSS3NaVTVJcHE3NXYyMWw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Fasilitasi Lapangan Kerja bagi 10.000 Orang per Tahun - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjdOMmZUU3o2eGNMSzBhVVVHTjVZZ1BoZlplcElvZmNtbktjODVZd1htT2hUZE5nX2E3TUdXeVpHREhldmlOOTdOY2ZiT3J2SVFxcGRVZl9RMDMwUEFQc0xaZlg3RDloOVp2SWhueXNoVEU3anZhMG9ObHBFdzBkemZLTmRYYkdSWHJXdTZ0QkNVeE15WGRYQ2IyVQ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     13,
+     12,
      6
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Persiapan Laga Persib di Si Jalak Harupat, Polisi Tingkatkan Standar Pengamanan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWJuZkl6Z2xJcTktWFQ4UE0tM3RwZ2JmbDZIcWZiNjBsNDY0bFVJQVo2cTVIc2IyWS1ST2dCYXlDczhFSnhuLWVrOEhzMnRwVUpxeGxiZWJoYjJUeW1WVEVDX2FucS1wTndZVmpPUFgzeS10c3BGUGJZTkJGZmY2YzVkNkhZZ2RBMTlGNzlrMVBOXzh3OTFqVVU3QUFCaFNPeGs3b1JFclMxU1J6NE5XWkt4bi1fZ28xc3Q1Rw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Sempat Bebas, Ketua HIPMI Kabupaten Bandung Kembali Ditahan, Proses Persidangan Berlanjut - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWpaTmZFaUhEc0tzNzRtSG5kWkw0WDFfTWFSZWlTRnl6cjBDRkVUOEVFdkxLUUhPVHM5Z0Mxa2R6Uk03eGdneG5NUmt6X2tTVGpualVVOF9DazMxeU1HNnY2cERXVXBDYnBtY0ktRkwtb0FKZnJKSzRYSnJab1J2WGF3TS1wWF9TMzM4OHY2N3V6cTVsMUdpVTNhLTZlR2xnUkJUTWNlaXhoTWUwcUp6VkpLa0VPZ3oyb3lJYkJhMTZDeEZFOFcwRmF1czdnQk0xQV9pcE5Oc1dJQQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Hasil Razia Saritem, 21 Orang Positif Sabu Dibawa ke Mako Polrestabes untuk Diusut - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbExrd3lySEl3UGs4bm9wN2E5WGNlSEZJSGZFRHBYY0xrYVVPOEhtMktSVS1EcVdMWXZkUjBtdEZINTlHdjR4RUlEdENVdEhUY090cW9EQk5DZzlyN0U3QmM4WEt1T3ZwazdFcWpMb2Q2MV9tNXNBb2pRZ0VlWHBtVU9kVkswdm9ubDI3TnlCWUtDOVQ4OVlDVnphWEh3blUwUHRocHRLamRTc2xfa3J3Qk44YVQ0UXg5WFNWSk9EY2Z0YTc3LVF5ZXRpLUk?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "BREAKING NEWS Sore-sore Saritem Bandung Digerebek, Polisi Temukan Puluhan Orang Positif Narkoba - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXhKWWFuZHVsZlZpQ3kxOXhDMEQ3eXl5THR5NjNFc2ZyZUVicWpPRllYbnB0R3BrbFgyOS0xdUhNc1hrVmdRNVR3OFAzTFpHRkVGZUlGUFM0enZrWlkxZVpsb0FRdndaai0xMUxtX0FYcnNwY1JqRFZEMjFwaElzR3k1ak9KUUw5U2hCLTVaTEpyT082elhXcUNmZHJUUjFad09RdHkyR3l1eVBQRk1zdk5oTlF3VGNWX0FiVXQ5RGo1RVVVNGtGcDQ4cWhKWTNfcC1uUnRZWQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "21 Orang Ditangkap saat Razia di Saritem, Polisi Telusuri Asal Usul Narkoba - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg2SDNFZkY4YWxxaFA1ekgxRlBxWjdUQ3pqbkxuUlpMOEJGSzIwTnJFMjZ6aVhMNGt1MTE3dzJkTktaSFJxUFZmUm4tUlpNeXVkSW4yMzhlcG9sLWRzMjVJSmxhRGtYZl9fU0UtN2VPTkR4UWNyM3I4RnNUME5Rb21Xc0xoa2ZiTGFFOXVYMngyNVYtX1NUVUZhODIzYkxRNjV1YjhLYkIzSXo4Z3RNTzZZRjdUSWJkbG9OUDd1MnlkeFXSAcgBQVVfeXFMTXFieTY2bkdqWDN0XzNGa2tDV1pBSkltcW5vd0IzbVZmTWpKMm1FWU9nNENLVVdnWG1IeUdXeGpxY25zSGo1cDRyLWltalBvSnVHOVBLb0hhQnJLeXlld0VfSkYxYVlQTmliRFdjcEpwTjVqalh6RTVyV0pHM3N1UTBJOW50MkxyUnRwa194bTZRTnYxVjVmbWlZYWtSTDViY21qVXJrTlBVLUwwcU1aSmFMOHFwRnhveTFPWWxJQ1V5VFRyZi1mOHc?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     19,
-     21
+     17,
+     23
     ]
    },
    "trend": {
@@ -374,8 +374,8 @@
      1,
      8,
      2,
-     10,
-     0
+     11,
+     1
     ]
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:05:29.059923+07:00",
+ "updated": "2026-10-10T22:05:40.640951+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,23 +7,23 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "RRI.co.id",
+   23
+  ],
+  [
    "Tribunjabar.id",
    23
   ],
   [
-   "RRI.co.id",
-   22
-  ],
-  [
-   "Ayo Bandung",
+   "Kompas.com",
    15
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Ayo Bandung",
    14
   ],
   [
-   "Kompas.com",
+   "ANTARA News Jawa Barat",
    14
   ],
   [
@@ -47,10 +47,6 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
    "Pikiran Rakyat Koran",
    3
   ],
@@ -65,6 +61,10 @@
   [
    "Inilahkoran.id",
    3
+  ],
+  [
+   "Gerbang Patriot",
+   2
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     37,
+     35,
      1
     ]
    },
@@ -169,7 +169,7 @@
     {
      "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtY9IB1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtYw?oc=5",
      "r": "Radio PRFM"
     },
     {
@@ -251,7 +251,7 @@
     {
      "t": "KDS Fasilitasi BPJS Ketenagakerjaan Atlet Porprov XV, Instruksikan Dispora Anggarkan Setiap Tahun - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVhzLVhoWkd1X2RKbjAtNjlKNWtOOFIyNVpPemtRN25jcTA5VmVlQ08tWlY2SVBkLTRvdENHZEVibmJWUFVHa1REXzhQdFd5WlBpRUNIWmNaQTVmclc3V3ZRSFNocl9qRkxNbkppLXV6bTZuYndGVFItaDhzNENLQ29sR2NjaHhBbVpHR3JKeDJkNDVDMzJBckotOGlVZy1WR3pPRE8tcUE3akVKVHZOeHVDYnA4ampndTBOVGVRbzNVT2picnlPNUZwbkV6TmdBNjM0S3RLY3IycUpmMVdsM9IB5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UdIB5gFBVV95cUxQRkJPS0RleHA1d1ZpMHFYZGpnV09PdkhjUG5xV3ZLZUdEVno4TThqXzJLdGJ5b29PdjRXZElFcWhXMHBaNi1GZDd2VEtwc1UySjhONlNMUXNaX0VQSmxjS1M5RjVQckUyTGxPaHZydTlaSzRaVnRnMHJLVndReWlEa2ZDRVdhY0RwWm05OWVvVjg0ZVR0M2oyTS1fUTVtcWhEMWhGMUhNejM2Q18xVmJvazJvdk9pS3UwZ2pzNmlya2ZfWEx6TV9rVWJmTGVCM3hLeDA5QmYwNkhtWlFBVXZMNjJSOHI0UQ?oc=5",
      "r": "Ayo Bandung"
     }
    ],
@@ -346,7 +346,7 @@
     "w": [
      1,
      20,
-     22
+     23
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      8,
      2,
      11,
-     1
+     2
     ]
    }
   },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Sekolah Rakyat di Bandung Sudah Berjalan, Fasilitas Terus Dikembangkan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHNUNnJoV05JSHRfUV8wQlk1ZzVQWFllWUtmcVpyMDZxNnd1RkNSa2dQZ1Ric2NMemZKcVlGR2IyNVEwUWI4SVBmRDIydmIwQ1ljdWhZaDdyZnN0TDNOS2R1WkFLWjBzNFA1ZlhCMTNVa0pHSjhpUjZiWlY1T1dwc3JKQXZmakNrU3RKa1BBWXBZMHU1VWRfTHRMclFFOWYtVTR5M3VKNEViMVBHYUFtaHJn?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXE4ZjBIVWdBVXFTUkcwRlc5ZlVjYUpORUI4Q2M4XzRwdzJndVAzVG1DY3ZlVDloZ0gyMWh0Uk45Y1I1WEdLWWN0MW16N2F0Y0ZDd3ZmV3dDWFNNV040ck1nNVREamY3eFlXWmM3OTZuYXk1djRuLXVVSzkyaGJiRmV3ZER1N3Y0c1FJVlVtSHgwTjB6ZUg5a09WLV9RamZjWmU5aHN6VzN0VURpQTVfUXBWamN2S2k4UlQ1WDBXTndsSUpOUF8ya1FBS2FTOFZNd3c?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Vokalis Band Govinda Muhammad Irfan Mengundurkan Diri setelah Hampir 18 Tahun Bersama, Sebut Memilih Jalan Berbeda - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU2hKQllvbXhldGJaRjI1VEJua1M2OVF1OTVEaTZnWG9YZjlwcjYxaU9DZlRoTjRlcnZXbGVIMm8tZEJCdTVLWllpSVNnMmdCYTV5aE0wS1QzVFhzSEpmQ1Z2MFNNQXJsRUlINVltcFRkejJSQmFOTHVUTXNpa2hyVXRjWXp6a240bmJBY1pGR0tENkJ1VjdudXBiMG5KSm1LVWJoLU5mem1qX2RScE9QUUlGVEdjbG1tNWs4RFBabUNjckQ5NzFKMmxldVpiWlZhcWJJOXVJdm9NSDVNd0I5WFh0XzFlX1lscDR1VtIB8gFBVV95cUxNcm1CZ0stMGQ1aUpBOWxmbGg5OFlybzg0X1YyWlF0ZjRkd3lXWVh5ODcyS3RHQVQ1bDNUMUtRVjRObERxR0VXdmNMMFliOVBiMElJTDFYdy1QSG5uTFJpNnlhSjZqNUtIb2lQLUFVS2FhcnNraTNGcnZXbk0zRHRZVFczSzZLSURHYTF0cTVMLTFaVmZLY3YwdGFqWW1YX21ESFNWTU5ucGdZOGQzbXlSMjMtRThFMmlzd040dmRYWFVHTllGUjVXR2ZCbXpvMGE4RmtQNlVDbHlDU2gtWnNjaVV2YlNGWkFhYi1mZ3VUQndnUQ?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -427,7 +427,7 @@
     ],
     "w": [
      0,
-     6,
+     7,
      14
     ]
    },

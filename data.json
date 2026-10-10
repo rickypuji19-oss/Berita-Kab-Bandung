@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:11:07.880280+07:00",
+ "updated": "2026-10-10T09:07:12.041963+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
@@ -28,7 +28,7 @@
   ],
   [
    "detikcom",
-   7
+   8
   ],
   [
    "jabarekspres.com",
@@ -39,20 +39,16 @@
    5
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "iNews.ID",
    4
   ],
   [
    "Radio PRFM",
    4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   3
   ],
   [
    "Jurnal Soreang",
@@ -65,6 +61,10 @@
   [
    "Galamedia News",
    3
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   2
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      2,
-     38,
+     37,
      1
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     17,
+     19,
      21
     ]
    },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bupati: Pesan Sang Ayah, Utamakan Guru Mengaji - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
@@ -481,12 +487,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXU3NWw1VDZzVHlDV1JaSGFRb2lCdVRLVWFGd2Q4LVhxUmFzTEQ3bXN1WkhzeHJWN1g2OHd6Q1hvNXg4aFFoUVhoUlE1Zk16MUpBdzZUcTNmTkJRSWRCMG9wMDF4VmFlQTlxbnJIcjhGODRZUUw4c2Ftd2M5dFhqdDlaQ0pCOVgyVUNuQm1hazJZQi1QR3pwUWJMZ2E5amxIM3hYTFh5QUNkN2x5OG1pbWpNcjlhQ0JOMzFyWTBBdUVBUWZOUUFaQdIBzgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Aturan Siswa Tak Naik Kelas Siap-siap Diberlakukan Lagi, Pemkot Bandung Dorong Guru Keras - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzZSellpOUlhdnI5SFFoVWRlY25XQ041NjNkYXVXZWJQZHlUdWRlR3pNSXU4QWRxZzl2SlBRWlA0UkNhWDdoOXk4TlZBOVlNVFdXTFdqR0dMeVdDWFpIMldWelpVQlFVRUJvNFJtaHM4VkNkTHJOTDFhWjl5RFhjbmxpdUh3RmFNc0J1a29qM2tuVVlMeHJhSVFwVDhGRmhtVXU2a3RrcnFaY1BQNkxUN3o5VzM3bjBPRGlJUE9nMmg3TmhGTV9wNQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
@@ -503,7 +503,7 @@
     ],
     "w": [
      3,
-     12,
+     13,
      5
     ]
    },

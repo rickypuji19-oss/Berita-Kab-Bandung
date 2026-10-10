@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T10:07:02.251306+07:00",
+ "updated": "2026-10-10T11:06:54.051478+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "Ayo Bandung",
@@ -24,7 +24,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   12
+   13
   ],
   [
    "detikcom",
@@ -55,15 +55,15 @@
    3
   ],
   [
-   "Radio PRFM",
-   3
-  ],
-  [
    "Galamedia News",
    3
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   2
+  ],
+  [
+   "Lensa Hukum",
    2
   ]
  ],
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Jadwal pertandingan Persib Bandung 11, 14, 18 Oktober di SJH, Polisi siapkan pengamanan - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmU2NENnTVdBa0tDdEJjYnU5MUNnSEtJcENZazlJeGVjUDFfNC1UZG5pWDRQWWZKUFhzRUd4Q2FxRVM5d19JOWxlbVB3MGEtbWpiQ2JoNmlxTUlIQU84Xy01YzZIUGtrRUx6bnZwU1RsTFlrRFM0NFk4aWxBUk45dGtSOWdwOVJ0WHc3TDdnWjgyNnlycUJIV3JHaE1PclYwYnRILXMya2QtdzBWVFhtY3JRUjZLWkNfVzRoMm5FcUEzWk1WeGfSAcsBQVVfeXFMUGQyM3p3R3JmNjBxX2NKaDduQVRHWjhzdklTeDZkb1djQ0RpSFAzQWUxR0VXVUpBYWVuQzlJN2pHM3R5OEdvejBoeXVyQ3dzX19JNUlTM1ozZEtUN0JyMy15REZOLWlIbnlwS24yUG9rVG5ONzJaSHF0Yk0tX2xPdFE5c0JCMHdpbWhGcmlENTRGTXFJRlRVcFAyWF9FU2ltRmVtSjFiZ240X2UzSW5YbFhydlhTWkRpYmw5VjRZdTJwTzZuay1uejBaRG8?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Persiapan Laga Persib di Si Jalak Harupat, Polisi Tingkatkan Standar Pengamanan - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWJuZkl6Z2xJcTktWFQ4UE0tM3RwZ2JmbDZIcWZiNjBsNDY0bFVJQVo2cTVIc2IyWS1ST2dCYXlDczhFSnhuLWVrOEhzMnRwVUpxeGxiZWJoYjJUeW1WVEVDX2FucS1wTndZVmpPUFgzeS10c3BGUGJZTkJGZmY2YzVkNkhZZ2RBMTlGNzlrMVBOXzh3OTFqVVU3QUFCaFNPeGs3b1JFclMxU1J6NE5XWkt4bi1fZ28xc3Q1Rw?oc=5",
@@ -316,12 +322,6 @@
      "t": "Sempat Bebas, Ketua HIPMI Kabupaten Bandung Kembali Ditahan, Proses Persidangan Berlanjut - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWpaTmZFaUhEc0tzNzRtSG5kWkw0WDFfTWFSZWlTRnl6cjBDRkVUOEVFdkxLUUhPVHM5Z0Mxa2R6Uk03eGdneG5NUmt6X2tTVGpualVVOF9DazMxeU1HNnY2cERXVXBDYnBtY0ktRkwtb0FKZnJKSzRYSnJab1J2WGF3TS1wWF9TMzM4OHY2N3V6cTVsMUdpVTNhLTZlR2xnUkJUTWNlaXhoTWUwcUp6VkpLa0VPZ3oyb3lJYkJhMTZDeEZFOFcwRmF1czdnQk0xQV9pcE5Oc1dJQQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Hasil Razia Saritem, 21 Orang Positif Sabu Dibawa ke Mako Polrestabes untuk Diusut - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbExrd3lySEl3UGs4bm9wN2E5WGNlSEZJSGZFRHBYY0xrYVVPOEhtMktSVS1EcVdMWXZkUjBtdEZINTlHdjR4RUlEdENVdEhUY090cW9EQk5DZzlyN0U3QmM4WEt1T3ZwazdFcWpMb2Q2MV9tNXNBb2pRZ0VlWHBtVU9kVkswdm9ubDI3TnlCWUtDOVQ4OVlDVnphWEh3blUwUHRocHRLamRTc2xfa3J3Qk44YVQ0UXg5WFNWSk9EY2Z0YTc3LVF5ZXRpLUk?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     17,
+     16,
      23
     ]
    },
@@ -489,6 +489,12 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=stOceJ8P_yI",
+     "r": "YouTube SMP Negeri 1 Paseh"
+    },
+    {
      "t": "Kunjungan Kerja Inspektur Jenderal ke Sekolah Rakyat Soreang, Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=EnEPgz7iQTw",
@@ -498,7 +504,7 @@
    "v": {
     "s": [
      0,
-     1,
+     2,
      0
     ],
     "w": [

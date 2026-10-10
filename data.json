@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:06:44.927290+07:00",
+ "updated": "2026-10-10T13:08:00.346572+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
@@ -19,16 +19,16 @@
    15
   ],
   [
+   "ANTARA News Jawa Barat",
+   14
+  ],
+  [
    "Kompas.com",
    14
   ],
   [
-   "ANTARA News Jawa Barat",
-   13
-  ],
-  [
    "jabarekspres.com",
-   7
+   9
   ],
   [
    "detikcom",
@@ -43,15 +43,15 @@
    4
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Pikiran Rakyat Koran",
    3
   ],
   [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "Ketik",
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Lensa Hukum",
    2
   ],
   [
-   "Lensa Hukum",
+   "Gerbang Patriot",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Stadion Si Jalak Harupat Siap Tampung Laga Lanjutan Persib, Pemkab Bandung Tunggu Pengajuan - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGlLR1NnaEFRNGVJdzAtMno4Q0RRZ0VSNFJJb19XRjN6dk9CU3NJOEFqQUpBVWdOV2lHcDZ6YlR6anp1dVJUZDVWcV9kVHZSNWczZk4yM2UwNVhlSXdpcmJyLXNBV25NOWQtSFNRZ2lKeVpqRkJxd2pRTnhnZ3ByTHM3dlRhNngyY05YbU9XSHBJQXNlUWE5QnU0Ul9QSUFZTUl4NEs2RVBuekdPYVF4aG5nMFNBR0lSelBmS1hlX0Y4NFoybU1Qb3FDNDA0UUE?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Bupati: Pesan Sang Ayah, Utamakan Guru Mengaji - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YcC1mWU5WckJsblhMUUdMTHdHbWtmTUpVTENqbEtmaDd1NVpUTDd0eHpEVE9Mb2FoTm1mRk5aaXRNMlZlSmhYVlB3TGhsUm5P?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Komitmen untuk Guru Ngaji dan Penguatan Ekonomi Warga - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk84NVAzeTAtM3AyZ1lKYmxFQjRfemttUUl5ZFNuTTNTRy04c3pVc2NNaHlCYzJ4cTBPcDJZQ243QUQ2NFU4V1hMbGtBNmVFUTUwaFBMZjJXTEJORjhoU2RiNzFJMGItbW9SMF9DQVhCc1J2STlTS1NnQzByX1c4N2JSNjdjWDJuREhGNVpSS3NaVTVJcHE3NXYyMWw?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     2,
-     37,
+     0,
+     39,
      1
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     2,
+     0,
      0
     ],
     "g": [
@@ -194,7 +194,7 @@
     "w": [
      2,
      13,
-     6
+     5
     ]
    },
    "trend": {
@@ -220,7 +220,7 @@
      1,
      1,
      0,
-     2,
+     1,
      0,
      2,
      0
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Amankan Laga Persib, Polisi Tingkatkan Pengamanan dan Minta Bobotoh Jaga Nama Baik Klub - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkhNcVZES19tbnNxYWNCUnE5VnVxMWxYdmpScU83NFFUS29WNmJlOVRaLXNWbmxkd01Lam1ad1MyYUk0Ym9XUXJpVzFMcEJEem94dVQwcEdOX3VYWGhQNVJsNU5PNGpub2I4Y3FNRHZCdlY4N291cDkwZndFc2s1WUEyekFfTkNBQ01HMWRiajhOQnl4NkI0NnJ6SThnNW5wVUhHSTY1Z3ItbFlQQ3ZEdGM0eUc1bUhpTVJzWFVoSEZjajI3VzFUeGhodEI?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Razia Narkoba Polresta Bandung: Puluhan Obat Keras Disita di Cangkuang - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjd4aHlHVFBlMHJYR08yUXZQVHlvMFk1SW5uYmpGQ1JkU2RoNUJ5TTJpZF9zUjBDdTE4U3ZRNmNpLVRNeFhxTmM3LXNMVVNNUnhiZDNyU0V3MmNZOERETzU5SHBaXzBWeExQbUZCT3Ztb01qd21LV2xMelh4NUt0VnNNQUJ6UHdjcVN6aG5nU2s3SWR5QjJvLTJSSzZkVHNWZGwtMEt2TW1maFZFajhrUmFR0gG3AUFVX3lxTFBkRXBuV0t2U2thcnh4WE5pWXVxQ2ktVE52NkFpM0ZtQksweWMxUjR6Q0hTeUhnMGVfQlc0M1VaVWNXSEpBS3hkbGh0UWRoUWVRc240YzlqYUp6OGZkN2pOUXhPVWFDcmVQZV9uU0dJa1l0MEhEYmNJN2J3aElfTU9EU2tlM09wZzBqb3RDYklwRkJrZEJBSjBrNUlzNTNJOUxuRG12aXdURUJ0M0x2ZmJyazMxb1N4QQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Razia Narkoba di Cangkuang, Polisi Amankan 12 Butir Obat Keras dan Satu Orang Positif - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVNFbi1FV3h2TUtRLTVWenFQQ1pQZTlhX0h3aFRSclFQb2d5S1hkc1lueWVVbmFiZVhJbjFVdHBHenFsVTNUTjJrSk4yUk5wYjctbE50NVVrLWZ6SmZLX1JUWlM1TEFJMTRNcUtxU1BjTUlTNlVKb3Q5cndVa2JlUHk2OEJhMGoyMzJWQ2NfbVB0a2xtQ3lwMmFNMnRnLVRFcHBsVjNxa01aNXNFT05NU1I1aWhGWWQ1alRXdVhaX0x4dFlxRFJF?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Jadwal pertandingan Persib Bandung 11, 14, 18 Oktober di SJH, Polisi siapkan pengamanan - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmU2NENnTVdBa0tDdEJjYnU5MUNnSEtJcENZazlJeGVjUDFfNC1UZG5pWDRQWWZKUFhzRUd4Q2FxRVM5d19JOWxlbVB3MGEtbWpiQ2JoNmlxTUlIQU84Xy01YzZIUGtrRUx6bnZwU1RsTFlrRFM0NFk4aWxBUk45dGtSOWdwOVJ0WHc3TDdnWjgyNnlycUJIV3JHaE1PclYwYnRILXMya2QtdzBWVFhtY3JRUjZLWkNfVzRoMm5FcUEzWk1WeGfSAcsBQVVfeXFMUGQyM3p3R3JmNjBxX2NKaDduQVRHWjhzdklTeDZkb1djQ0RpSFAzQWUxR0VXVUpBYWVuQzlJN2pHM3R5OEdvejBoeXVyQ3dzX19JNUlTM1ozZEtUN0JyMy15REZOLWlIbnlwS24yUG9rVG5ONzJaSHF0Yk0tX2xPdFE5c0JCMHdpbWhGcmlENTRGTXFJRlRVcFAyWF9FU2ltRmVtSjFiZ240X2UzSW5YbFhydlhTWkRpYmw5VjRZdTJwTzZuay1uejBaRG8?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Persiapan Laga Persib di Si Jalak Harupat, Polisi Tingkatkan Standar Pengamanan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWJuZkl6Z2xJcTktWFQ4UE0tM3RwZ2JmbDZIcWZiNjBsNDY0bFVJQVo2cTVIc2IyWS1ST2dCYXlDczhFSnhuLWVrOEhzMnRwVUpxeGxiZWJoYjJUeW1WVEVDX2FucS1wTndZVmpPUFgzeS10c3BGUGJZTkJGZmY2YzVkNkhZZ2RBMTlGNzlrMVBOXzh3OTFqVVU3QUFCaFNPeGs3b1JFclMxU1J6NE5XWkt4bi1fZ28xc3Q1Rw?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "TIDAK ADA RUANG PEMBUAT ONAR DI WILAYAH HUKUM KABUPATEN BANDUNG | UN NEWS | UTV |",
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Siswa Tak Naik Kelas Bakal Berlaku Lagi pada 2027? Disdik Jabar Siap Ikuti, Pengamat Ingatkan Ini - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXhjdjJkZ0VoclRLVHZ0MEFWWHczejN2TW9DaWRValotc3R0bnBGY25femJHT0hVOU9xSGhETjE5dzA0WmtQOFBhaWFrZjhBWmdBaG9iallaSGh3T0JRM2xWSHB6akNKRGo0RDl6V2UzbVk3UU5PR0VveG8tMDdNQkJGOS12N1Y5VGZaWl8zZHA4X2FFcUtwbVE0VnItaVduRHBtRks0eHpiZnd3UjF2cnZKUlUtRWgxeGxsSHJOVlNWT3RESlNUOWw1VmQ0VlA5X2thZExBMFB6NnJydUlr?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2duRVlmdkUzTThZMjRleUdoT3VqOTV2NTRFV2lCM1ZUNmZjdGxZMWdwNkhHNUdHeVdzNjNGdEprRjB2RXQzYkdKMy10OHlYN1RTV1hKSTNfeHhvamt1N1VHaFFGdWZxY09oNm5Tbk0wY3ZmS0lHa19jajJjOG1jUkhlU0lMWjVQQk4yMw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kecelakaan Tunggal, Kronologi Mahasiswa Seruduk Tembok Bandung Zoo hingga Jebol - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXU3NWw1VDZzVHlDV1JaSGFRb2lCdVRLVWFGd2Q4LVhxUmFzTEQ3bXN1WkhzeHJWN1g2OHd6Q1hvNXg4aFFoUVhoUlE1Zk16MUpBdzZUcTNmTkJRSWRCMG9wMDF4VmFlQTlxbnJIcjhGODRZUUw4c2Ftd2M5dFhqdDlaQ0pCOVgyVUNuQm1hazJZQi1QR3pwUWJMZ2E5amxIM3hYTFh5QUNkN2x5OG1pbWpNcjlhQ0JOMzFyWTBBdUVBUWZOUUFaQdIBzgFBVV95cUxOVklYTTE0eUplNkQwdnAyeWxaOU1pZmd0dHp2UC0tTmM3WGJmelpYeTBEV2hfNjdKcXA5NWR6amhncU4ya2FVb1J1cW04TFQ1WGRmMmdKX0VQbGJpZ1dfdl9ydWJyRG1QMElSWDJHR0JKalFMOUR2S19kVm1Yc3FfRUZEbTJFenFKaFFaQW9SY2F4alBCZEFzMzh6THZxek9uRVV5ZXZxdkpjTEhKME5wZW5zeDBBOXVYM29FMG9CTkdNYXlXWVJuZmpDWTlVZw?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     13,
+     14,
      5
     ]
    },

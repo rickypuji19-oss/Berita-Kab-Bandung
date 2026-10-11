@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:07:15.439305+07:00",
+ "updated": "2026-10-11T13:08:27.437614+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
@@ -47,8 +47,8 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   3
+   "Inilahkoran.id",
+   4
   ],
   [
    "Pikiran Rakyat Koran",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Inilahkoran.id",
-   3
+   "Gerbang Patriot",
+   2
   ],
   [
-   "Gerbang Patriot",
+   "Pemerintah Kabupaten Bandung",
    2
   ]
  ],
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      3
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     19,
+     18,
      5
     ]
    },

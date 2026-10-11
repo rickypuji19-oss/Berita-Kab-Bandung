@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:06:50.694658+07:00",
+ "updated": "2026-10-11T17:06:50.484983+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -93,7 +93,7 @@
     {
      "t": "Tanpa Anggaran Pemerintah, KKI Jawa Barat Persiapan Atlet Menuju Kompetisi - Bangbara - Bangbara",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFJDd2s3eUxsY0xuWVpCWS1JM2IxVC01VjI0d2daUGE1UVp2bFAwYlpyekthd0plVnNUempmZm8xVE5Xa3N6d19BZ09sbUVxTExockgyVG5YNzBkUVAxNEtNY0xmci1LNzZKUWtJVld5SThPd2hoYzVGVGdxWDQyaTNmTTVURWhQb1FyWWMyZ2tqbTNBdGVySXZzRHNTU01jenRyY0tUczdxbHlFRnFjMUMzbkp4MnFSUUtXc0F4X1Z0c2fSAcMBQVVfeXFMTkRSQ3drN3lMbGNMbllaQlktSTNiMVQtNVYyNHdnWlBhNVFadmxQMGJacnpLYXdKZVZzVHpqZmZvMVROV2tzendfQWdPbG1FcUxMaHJIMlRuWDcwZFFQMTRLTWNMZnItSzc2SlFrSVZXeUk4T3doaGM1RlRncVg0MmkzZk01VEVoUG9RclljMmdram0zQXRlckl2c0RzU1NNY3p0cmNLVHM3cWx5RUZxYzFDM25KeDJxUlFLV3NBeF9WdHNn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3hhamtSMG9HTmkxODB6R2RiUGNZVWhjWk1QTFBVZ2VQQ0V2U24xYnBZNXppMlo3OWRWWFEyTmpQVTFfV3lUSHBmUWpTczgyZkNjT01xWUFEM3Q3YTlJSnJRcTl4UFYzNV8zbnNpekxwcE1LU19kZXRHNWs5dGU1bFZMZnRvMmhaVTNCT0JsS2lNbHdaT211TDVtbi1fTVF1Z0dyXy1kR0U2OUlQU0ctRk4yUFNqU3ZYOGVpanN30gHDAUFVX3lxTE5EUkN3azd5TGxjTG5ZWkJZLUkzYjFULTVWMjR3Z1pQYTVRWnZsUDBiWnJ6S2F3SmVWc1R6amZmbzFUTldrc3p3X0FnT2xtRXFMTGhySDJUblg3MGRRUDE0S01jTGZyLUs3NkpRa0lWV3lJOE93aGhjNUZUZ3FYNDJpM2ZNNVRFaFBvUXJZYzJna2ptM0F0ZXJJdnNEc1NTTWN6dHJjS1RzN3FseUVGcWMxQzNuSngycVJRS1dzQXhfVnRzZw?oc=5",
      "r": "Bangbara"
     },
     {
@@ -428,7 +428,7 @@
     "w": [
      1,
      6,
-     14
+     13
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      0
     ],
     "g": [
-     2,
+     1,
      1,
      3,
      3,
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Pembangunan Sekolah Pengganti SDN 026 Bojongloa Masuk Tahap Konstruksi, Terkendala Cuaca - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGt3SjBSY3pIdmY5RXl4bFJ1akRZZW51TXo5a2JzVmhMTkhXM0xILVl0eTRRa2EzVjA4cmZDYTM0cUlORnkxRnhvWm9QZ3NmQ3F4OFNqV29waEQ1eVQyd0pwUWRIci05MnhidUNIX24xYk02TE1YSWFGc0xQajJLUUlOUTlJLTNmX3lGREF1b3lTOVdFcllIQjFvaXR2MWhoSUY3cWpFNTBXWURIR1ctaXNmWDVkZlpHc0hjQ2ZCUmVBRE94bS1VUC1sYm5qTnBJVnExTg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kecam Aksi Bullying di Asrama, Mahasiswa Tel-U Tuntut Keadilan - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3RudS1iY2RlZHkxVkRQaVZzYmhJam8yT2tNd0hIblRVb19XN3lMZEFXZXVJWWIxTENwUFJ6QWNtU3JZc0JycUdlN09vSlNzQVdBbVdYNUkxczdHcWUycXBoc2dFZVZ3MU1DTWN4OUJJWk1vZ0Vwb01oSFlFaFRUSEY2aUJhcUphWVJVSGg2bUowNk9SRTJFSHk5V1NxOF9zMkR1ODlSWU9jZ9IBrwFBVV95cUxNOFZxTEtucnlYcldrY0Z4NTQwcjdScGdkOTAtTWpIX2RmcmVJaFYxakdLUEFHM3gzVnQ1TWdsNVVtdGdnd3Yta19MVS02eEdHWnpKcHZteFBlbHNDMzgwY2Z3XzNYeGlqSlNsQkxFYkFfTjY3Z2I2Tzl3QTNZa3hkWXRfSEJBamZISGZQZmdsQ1l5eGVValJVckFTX0tJSzZrZW5TWk1lZ0hwUFN4V0hB?oc=5",
@@ -481,12 +487,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHVFMWRXWi0tVmU1a2pmd1JJTDdBa1VYU0d6SU9ua3VsSHNYRmRER3lfSDJJZVhBcERIMENPN1hoZVA5VEVJbDlVTWdubDdNR0p3cnZ6XzVxTDZjalZCdzBOSlMyMF84ejRTT0RMWnA3bFIzTGthZEJJY2s4MENaVzdIOFhMd2JHdzBaTjB4YWFIT1RwZkdEZ2pSNFd2SjFaZEpsSmY5LVBiOHN0Qml30gG0AUFVX3lxTE9NOE5JOHJJa2trS19ramJKN080NzZFRmVqRVlENkw1SzJtWUVkOEt0bFRZS1hnMGV3MHBNeUp5YWhKY2JFd2JzWkEwaHE4V3J3Q2V4SDhPSG1YeWhudVZ6cG5tUzNySTE5bG8xWG84d19OOS1sTTR1bXVWcnFyNl9vRmhxVjE5MVFIQ1M2MEtWNGJfZkhuTnNucmxhSDR0U3FqLWU3dzQ5OV9EV0VYSV8wdmgwYw?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Viral Video Perundungan Mahasiswa Telkom University, Korban Diancam Pakai Semprotan Api - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUpaTXRzTmhGcVZ2T25BclpIaVRSbnBkVGVmRU1xeGI5RTc4NXN3clZ1clZta3N2VzZiTnhyQjlkbEk4ZDhnMllrSEJDM2ZxLThYeHluNGEzanMyQTZ6ZWVvaGNESnRhUVRFV0lHeFltSVpub3BGbU00QlJGbmZTX2c4MW9NOEVMWXM0NC1VZmVNXzg1T2o5WC1rVmZVOEZnNTg4bEN6OHR5NTRNY0Yza1F5UEIzdWFVa1kwUGhNdDZoRGVpc2x3aHczSnp5SU9DQ0FF?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     18,
+     19,
      7
     ]
    },

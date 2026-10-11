@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:06:15.780624+07:00",
+ "updated": "2026-10-11T22:06:15.519850+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -19,15 +19,15 @@
    16
   ],
   [
+   "Inilahkoran.id",
+   12
+  ],
+  [
    "Ayo Bandung",
-   13
+   12
   ],
   [
    "ANTARA News Jawa Barat",
-   13
-  ],
-  [
-   "Inilahkoran.id",
    12
   ],
   [
@@ -48,7 +48,7 @@
   ],
   [
    "Galamedia News",
-   4
+   3
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -85,16 +85,16 @@
      "r": "Inilahkoran.id"
     },
     {
+     "t": "KDS Apresiasi GOSEKA, Dorong Warga Jadikan Olahraga sebagai Kebiasaan - republika.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTR1bnkycTl0M3JqNjdvVDJVSzlmYWY0QUpicm1DSzkyUDdlRkRjTGpCUlpEZ2loYUsweHB3NTBQNDNRV2xKU3gzcnp1YkFadi1QVDNUUFA4elp3TXRqQVp4a2dBVlo5V2cxdkVTLWw1Rk4yY2hXWVo0TU02THRBdkpOcnlKcjB0dFozcGhSRkljb21URUQwZTY2eGxaRWxlOGVTOFN5MG5YYVkwNXYtb2RNY2s1UTJT?oc=5",
+     "r": "republika.co.id"
+    },
+    {
      "t": "Perkara Perceraian di KBB Tembus 4.495, PA Ngamprah Prediksi Capai 6.000 Kasus - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQdIBvwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQQ?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     1,
-     32,
+     2,
+     31,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Iswara: Golkar Bidik Penambahan Kursi Legislatif di Pemilu 2029 - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjRlMDZVOWFFWTkxUkNwbGZKRHVlbnp5MmRubEE5NlNzcVoxWk01SEtLY3c2YmN3VVBTanJvNzkyVGc3eTBpVll5b2t5SjRGU2hPMnRIWHlJZXVmSFA0ZnlpV3dsNnV2TWlabzgyYzVGemQ3QTBzbV93RXJBOG5QZHlqRlZmTE90QVZHZUREX0NwT0E?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Bersyukur! Pemdes Cibodas Lembang Resmikan Perbaikan Jalan di Wilayah Desa Cibodas Lembang Selesai - Lembang News - Lembang News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlUU0pMNGdZa2lOaERENS1pYVhkbkF1Z3ZhcUFhMzYwVjkzMTdEc2JsMmxaSWY3VUFCZEFlSWVrZm16NnhBWVBsX2gyOUtRVUFYZ3JRU1I3TVMyV3dQLXItOHBKT1diZk9XN1NVaUp4N0d6N3BXcWY4TG5ma2NsT09iM204b0toMGRXMmlTNUZnNTBvUERud05kYnpJVjZERnRXSFhxNm4zS2ZDSV90VVY4Zm8xdDE3NlRic3lxd3QxOUsycjVvYU50V3JGbHFsc0VOZTh2SUZJakh4QzFj0gHfAUFVX3lxTE1QaVRTSkw0Z1lraU5oREQ1LWlhWGRuQXVndmFxQWEzNjBWOTMxN0RzYmwybFpJZjdVQUJkQWVJZWtmbXo2eEFZUGxfaDI5S1FVQVhnclFTUjdNUzJXd1Atci04cEpPV2JmT1c3U1VpSng3R3o3cFdxZjhMbmZrY2xPT2IzbThvS2gwZFcyaVM1Rmc1MG9QRG53TmRieklWNkRGdFdIWHE2bjNLZkNJX3RVVjhmbzF0MTc2VGJzeXF3dDE5SzJyNW9hTnRXckZscWxzRU5lOHZJRklqSHhDMWM?oc=5",
-     "r": "Lembang News"
-    },
-    {
-     "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -194,7 +194,7 @@
     "w": [
      1,
      17,
-     4
+     3
     ]
    },
    "trend": {
@@ -221,7 +221,7 @@
      0,
      2,
      0,
-     1,
+     0,
      0,
      0
     ]
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     3,
+     2,
      7,
      2
     ]
@@ -279,7 +279,7 @@
     ],
     "p": [
      1,
-     1,
+     0,
      0,
      0,
      0,
@@ -471,22 +471,22 @@
    ],
    "h": [
     {
+     "t": "Polisi Periang Itu Kini Jabat Kapolres Surakarta, Mbah Con Kembali Bersama Masyarakat - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVdSR2tWX1Y1SXpQN3VhMi1YeHdqY2I4RXlmNFhKd0JDcE1zUy1WYk9HWWU3NllQVS1BWmZ3UDVYV3Y4b09yZ2k0UmJrOTZ2ZWNLSGpiaG5HaDY5OVFoUllUemJFeC1fUndsUUlqd2drMF9icVZJXzhXX1FrbmFUNXlIczhhMHdJallyMXdBTFpHNUpDblIzYkRDaWwzUTNfWTFUaXBaS01fc3JjUGVKLQ?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Jaga Nama Baik, Satgas Bobotoh Dibentuk Kapolresta Bandung Kombes Pol Tri Suhartanto - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFpvTWN5SnMxNGdfUm9ya1VLZUNRMm1GenZZeTVtQkVCZk84OVlqQ0ZteEpid3F5X3hIdmJwdjl3aUpwUlVTeF9NeGRjaXoxalJtX3R2cE81YldCc3NUZGQwbFN1Sml0SU05Yk52bEMtWk9EVmxOXzlCSUQyNVczVnBscWgyTEEzOXB1ZkxTd0U1Y09QYXVUUTNOZUtHblNHcHFQWnYxZDZxVnRmTlJn?oc=5",
      "r": "Inilahkoran.id"
     },
     {
-     "t": "2 Mahasiswa Tel-U Pelaku Bullying Semprot Api Siap-siap Di-DO, Korban Sudah Dilindungi - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjE4RmtNSkhKTC1lWmVHOGljLWlVdGNIWHBXdzV3M0l4NXQwckpsMmQya21yN01FenJacnc2cTRpNWNOTzFDcnFVZ1NUYXp1X09hT0hsS1BCS3VkR1kwQ0NteDAzWlludFpNSXhBYnNqcTBtY3I4cEtDT0tDQ3pBckIxVGJHNmdEYUtkN1M4dTRRbG5KZ2lxZXNyVl82RlhCNEF0eWtjWWppNnJ2OWhVRHFQVEtpcnExdlRMcGEyU2NSd3RLRElRMnZMT2RVc09Fd3c?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pembangunan Sekolah Pengganti SDN 026 Bojongloa Masuk Tahap Konstruksi, Terkendala Cuaca - Tribunjabar.id",
+     "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGt3SjBSY3pIdmY5RXl4bFJ1akRZZW51TXo5a2JzVmhMTkhXM0xILVl0eTRRa2EzVjA4cmZDYTM0cUlORnkxRnhvWm9QZ3NmQ3F4OFNqV29waEQ1eVQyd0pwUWRIci05MnhidUNIX24xYk02TE1YSWFGc0xQajJLUUlOUTlJLTNmX3lGREF1b3lTOVdFcllIQjFvaXR2MWhoSUY3cWpFNTBXWURIR1ctaXNmWDVkZlpHc0hjQ2ZCUmVBRE94bS1VUC1sYm5qTnBJVnExTg?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     20,
+     22,
      8
     ]
    },

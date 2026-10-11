@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:06:50.484983+07:00",
+ "updated": "2026-10-11T18:05:52.742820+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "Kompas.com",
-   15
+   16
   ],
   [
    "Ayo Bandung",
@@ -24,7 +24,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   12
+   13
   ],
   [
    "detikcom",
@@ -43,12 +43,12 @@
    5
   ],
   [
-   "Galamedia News",
+   "Inilahkoran.id",
    4
   ],
   [
-   "Inilahkoran.id",
-   4
+   "Galamedia News",
+   3
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS Apresiasi GOSEKA, Dorong Warga Jadikan Olahraga sebagai Kebiasaan - republika.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTR1bnkycTl0M3JqNjdvVDJVSzlmYWY0QUpicm1DSzkyUDdlRkRjTGpCUlpEZ2loYUsweHB3NTBQNDNRV2xKU3gzcnp1YkFadi1QVDNUUFA4elp3TXRqQVp4a2dBVlo5V2cxdkVTLWw1Rk4yY2hXWVo0TU02THRBdkpOcnlKcjB0dFozcGhSRkljb21URUQwZTY2eGxaRWxlOGVTOFN5MG5YYVkwNXYtb2RNY2s1UTJT?oc=5",
+     "r": "republika.co.id"
+    },
+    {
      "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEdSMkNvQjAyb3k5ZmpQMV9zQmpOTjZrYjl4WkRreFFWeFFGdVFSSXRuNy1LZGVyVE9mODVrTEY5OFp3YnN0aXhOYkFLa0tEeV9KQ3lVT2VZS2ZMVnVwMHRWRHlzN0VOR2J6OXROVzF5cVBqYUs0YnlzZE5HTXVxNTYzSVNfMm5WS0Y1V2lVR0hKU2t6XzIxdm5ZS0VqZ2ZjY2hyTlBmS0c0TmQ1UXdYSm5OS3NGV21PanlLVVN5SU9CVmdXaVBueUtYcXZoNzZxajF1bm94MHhGcG1fS3h1M09fZEHSAeQBQVVfeXFMUHhHUjJDb0IwMm95OWZqUDFfc0JqTk42a2I5eFpEa3hRVnhRRnVRUkl0bjctS2RlclRPZjg1a0xGOThad2JzdGl4TmJBS2tLRHlfSkN5VU9lWUtmTFZ1cDB0VkR5czdFTkdiejl0TlcxeXFQamFLNGJ5c2ROR011cTU2M0lTXzJuVktGNVdpVUdISlNrel8yMXZuWUtFamdmY2Nock5QZktHNE5kNVF3WEpuTktzRldtT2p5S1VTeUlPQlZnV2lQbnlLWHF2aDc2cWoxdW5veDB4RnBtX0t4dTNPX2RB?oc=5",
      "r": "Cakrawala"
-    },
-    {
-     "t": "Tanpa Anggaran Pemerintah, KKI Jawa Barat Persiapan Atlet Menuju Kompetisi - Bangbara - Bangbara",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3hhamtSMG9HTmkxODB6R2RiUGNZVWhjWk1QTFBVZ2VQQ0V2U24xYnBZNXppMlo3OWRWWFEyTmpQVTFfV3lUSHBmUWpTczgyZkNjT01xWUFEM3Q3YTlJSnJRcTl4UFYzNV8zbnNpekxwcE1LU19kZXRHNWs5dGU1bFZMZnRvMmhaVTNCT0JsS2lNbHdaT211TDVtbi1fTVF1Z0dyXy1kR0U2OUlQU0ctRk4yUFNqU3ZYOGVpanN30gHDAUFVX3lxTE5EUkN3azd5TGxjTG5ZWkJZLUkzYjFULTVWMjR3Z1pQYTVRWnZsUDBiWnJ6S2F3SmVWc1R6amZmbzFUTldrc3p3X0FnT2xtRXFMTGhySDJUblg3MGRRUDE0S01jTGZyLUs3NkpRa0lWV3lJOE93aGhjNUZUZ3FYNDJpM2ZNNVRFaFBvUXJZYzJna2ptM0F0ZXJJdnNEc1NTTWN6dHJjS1RzN3FseUVGcWMxQzNuSngycVJRS1dzQXhfVnRzZw?oc=5",
-     "r": "Bangbara"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     1,
-     32,
+     2,
+     31,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -194,7 +194,7 @@
     "w": [
      1,
      13,
-     3
+     2
     ]
    },
    "trend": {
@@ -221,7 +221,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0,
      0
     ]
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung tunggu laporan korban perundungan di Telkom University - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTndGalRXanNtNnRyM0xsLVJTaEYtZWVQMGpUaUdCRE1wUmM1b19lbTNLZS1tM2x3UThocm1GanZMS0hIejU3QWcwQmhIaTctVTFxU1N4ekVfRHVvN19aXzRBeEhEOU9NUkdUaGpCZUc0Sm5ZY2xCNWxoV0hKMk1WWG9EVEN6bUYyZjJ3M0ZFWUtNSzRJUkxWMVlYd0w1T2tGMF95bHRoeUVmd3lRN25rWmVGakPSAboBQVVfeXFMTWpKS05FN2VjNTVQa2tBTWIzWnhlMG1ibG5wTDlfcnZwelgxWUU2VW9SY0dPc1BZM1dBbEI3Rkw1T0hxRGNtZi1NZHBRYVp2QkVFX0ZBWmxXOGg4WTZNaFU3NHY4elREN1pUVE9BeERSVXp0Nk4tcTJfWmVaYXNIbUZsRjA5Z0ZWUlpjcDRDQmI3RmNWbFR4SnUwMlhzXzZpQ1Y5Z2lwTGx5d2xLMEMwMHZ2ZGktLVF2dFln?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Laga Persib vs Dewa United di Si Jalak Harupat, Kapolresta Bandung: Sepak Bola Hiburan Nyaman, Bukan Menakutkan - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDViOExSeDBneUphcUF5SU54VzFDdjZvRXgxNHBvcFdTbEM0b3UxODlKZ2JpN0JuazRheXJqeUdHUEVUTWM4Z3p2aWNnM3VGMklSZ3hzMk16V3BQOXVwNWhadWpaZERFcTItQzIwcmVoamtUbG5MdnVfM25heFY1cFF5cXBybzkxdmZ2UjhURldNWmlZa0g0WC1DanpDdGw5T2ZNb0t3a0htUEZTRkx0OEZ2ekZtckE1a3BsM0EyRTNQTGdQbWQ0dw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Ini Enam Pesan Tegas Kapolresta Bandung Kombes Pol Dr Tri Suhartanto - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGlnOHJTc0p4U05rV0hic3hrQ0h0cEdiVUJGc3d5QVVyamZUOHUwNFQ0WkFsN0haUHY4VUJSLTQ2cm1KbnpUbmR0b2pOaUY1Q1ltMjUzdmM3WmhLTmdZeF9oSGJDdXJPcDNiVnRiQ3o3RWI3WDduQzhnTWItR21FSFBVc3ZlT0pWQnRFUGhkRTFDR19QUm9YclUzQzNDSnRkZUZKbEZ1dmdzUHFPQ2VZeUlONFo?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kapolresta Bandung Usung Konsep JAWARA bersama Bupati KDS - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV2UGpoZHlxZGZJOTdpX25LcVBINVF2eDdJcFExbUthTkZZSFNNMWtlUTZObkRZVnpGQVY0eWF1bE44WnhLd3hJRVhTdjZ6T0NYclIzaFFFYW55ODdSa1Y3eVJqdmpjYmxJMVNfZEdWaURJTF9Iamtla2ZyTFJkanFjc2lLR3ZlYjBPaUhqekl5bHJlMjdSeUxrMVdhRUFvd0tjSmxidGlaRUpCNmpr?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Polresta Bandung Siapkan Pengamanan 3 Laga Persib di Jalak Harupat, Bobotoh Diimbau Jaga Ketertiban - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfedIB-AFBVV95cUxPQy1WdjdUbk51Z25nZlhBUVFMSVhuYlVMVEp5bERobkxzS2k2OEtFSzR4d3BPM0tMXzQ4TEpKd09VcXZRVzdVWVdyU0JyLWRZRV9KSHB5SDk5VDFEanhOSk01aDN2aEMxX0xKTmVjZk50R19UazlMR0s4OHFaYm1yOGZ0YkVpVnRkUTJWWXg3cWlHMDEweVdQcnllZmxfellaR0dNSjQ1Qk0yV2VFQWZvNGx6QzJxNVJ6bFk2c2J6NTRKRTY5QWJRTFNiZjltcnZBN1dUQkwxS2NVVTZWQ3NUTXhSSXZZREVkbTZYbUt2UldZUzlFTGdfeQ?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -344,7 +344,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      18,
      23
     ]
@@ -366,7 +366,7 @@
      1,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "2 Mahasiswa Tel-U Pelaku Bullying Semprot Api Siap-siap Di-DO, Korban Sudah Dilindungi - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjE4RmtNSkhKTC1lWmVHOGljLWlVdGNIWHBXdzV3M0l4NXQwckpsMmQya21yN01FenJacnc2cTRpNWNOTzFDcnFVZ1NUYXp1X09hT0hsS1BCS3VkR1kwQ0NteDAzWlludFpNSXhBYnNqcTBtY3I4cEtDT0tDQ3pBckIxVGJHNmdEYUtkN1M4dTRRbG5KZ2lxZXNyVl82RlhCNEF0eWtjWWppNnJ2OWhVRHFQVEtpcnExdlRMcGEyU2NSd3RLRElRMnZMT2RVc09Fd3c?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pembangunan Sekolah Pengganti SDN 026 Bojongloa Masuk Tahap Konstruksi, Terkendala Cuaca - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGt3SjBSY3pIdmY5RXl4bFJ1akRZZW51TXo5a2JzVmhMTkhXM0xILVl0eTRRa2EzVjA4cmZDYTM0cUlORnkxRnhvWm9QZ3NmQ3F4OFNqV29waEQ1eVQyd0pwUWRIci05MnhidUNIX24xYk02TE1YSWFGc0xQajJLUUlOUTlJLTNmX3lGREF1b3lTOVdFcllIQjFvaXR2MWhoSUY3cWpFNTBXWURIR1ctaXNmWDVkZlpHc0hjQ2ZCUmVBRE94bS1VUC1sYm5qTnBJVnExTg?oc=5",
@@ -480,12 +486,6 @@
      "t": "Kecam Aksi Bullying di Asrama, Mahasiswa Tel-U Tuntut Keadilan - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3RudS1iY2RlZHkxVkRQaVZzYmhJam8yT2tNd0hIblRVb19XN3lMZEFXZXVJWWIxTENwUFJ6QWNtU3JZc0JycUdlN09vSlNzQVdBbVdYNUkxczdHcWUycXBoc2dFZVZ3MU1DTWN4OUJJWk1vZ0Vwb01oSFlFaFRUSEY2aUJhcUphWVJVSGg2bUowNk9SRTJFSHk5V1NxOF9zMkR1ODlSWU9jZ9IBrwFBVV95cUxNOFZxTEtucnlYcldrY0Z4NTQwcjdScGdkOTAtTWpIX2RmcmVJaFYxakdLUEFHM3gzVnQ1TWdsNVVtdGdnd3Yta19MVS02eEdHWnpKcHZteFBlbHNDMzgwY2Z3XzNYeGlqSlNsQkxFYkFfTjY3Z2I2Tzl3QTNZa3hkWXRfSEJBamZISGZQZmdsQ1l5eGVValJVckFTX0tJSzZrZW5TWk1lZ0hwUFN4V0hB?oc=5",
-     "r": "detikcom"
-    },
-    {
-     "t": "Mahasiswa Tel-U Kecam Dugaan Perundungan di Asrama: Harus Ditindak! - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHVFMWRXWi0tVmU1a2pmd1JJTDdBa1VYU0d6SU9ua3VsSHNYRmRER3lfSDJJZVhBcERIMENPN1hoZVA5VEVJbDlVTWdubDdNR0p3cnZ6XzVxTDZjalZCdzBOSlMyMF84ejRTT0RMWnA3bFIzTGthZEJJY2s4MENaVzdIOFhMd2JHdzBaTjB4YWFIT1RwZkdEZ2pSNFd2SjFaZEpsSmY5LVBiOHN0Qml30gG0AUFVX3lxTE9NOE5JOHJJa2trS19ramJKN080NzZFRmVqRVlENkw1SzJtWUVkOEt0bFRZS1hnMGV3MHBNeUp5YWhKY2JFd2JzWkEwaHE4V3J3Q2V4SDhPSG1YeWhudVZ6cG5tUzNySTE5bG8xWG84d19OOS1sTTR1bXVWcnFyNl9vRmhxVjE5MVFIQ1M2MEtWNGJfZkhuTnNucmxhSDR0U3FqLWU3dzQ5OV9EV0VYSV8wdmgwYw?oc=5",
      "r": "detikcom"
     },
     {
@@ -510,7 +510,7 @@
     "w": [
      4,
      19,
-     7
+     8
     ]
    },
    "trend": {
@@ -539,7 +539,7 @@
      0,
      2,
      0,
-     2
+     3
     ]
    }
   }

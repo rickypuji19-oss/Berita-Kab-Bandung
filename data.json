@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T02:06:58.119298+07:00",
+ "updated": "2026-10-12T03:05:49.285692+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -24,7 +24,7 @@
   ],
   [
    "Inilahkoran.id",
-   10
+   9
   ],
   [
    "detikcom",
@@ -39,12 +39,8 @@
    8
   ],
   [
-   "Radio PRFM",
-   4
-  ],
-  [
    "Radar Bandung",
-   4
+   5
   ],
   [
    "Galamedia News",
@@ -60,6 +56,10 @@
   ],
   [
    "PPID Kab. Bandung",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      2,
-     31,
+     30,
      1
     ]
    },
@@ -344,7 +344,7 @@
      1
     ],
     "w": [
-     3,
+     4,
      20,
      20
     ]
@@ -360,7 +360,7 @@
      "Sen"
     ],
     "p": [
-     0,
+     1,
      0,
      1,
      0,
@@ -391,7 +391,7 @@
     {
      "t": "Pemprov Jabar Rencanakan Pengadaan 500 Mobile Batching Plant pada 2027, Alat Pembuat Beton Ditargetkan Percepat Perbaikan Jalan Desa - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOd01DVUNwTkpKZzA0WWdXc2JsNV9QOVZFcDRrSjZQcEVSNjRTRG5rN040Q0lnNGRYWVZiX0trMmhSQ2NBeXJlNEZnSXRXc0dDclhfcDZWZTA2TmVnNWI4VmZBZ2xOa0FybW11MmhrM1FFcHNsRUU4cUxxdGdONmpfNzQ4bGtmbVdJcTFJRkxHLUZXbkNYaENpemJHMldIQkc5dlc2TXg1LWdBYnE2Y3JxRXdPeXVtaXdlVUJ2RWpmOWc2S293NWMzOHp3RWlRWVNmSFAwYlR2RXB5elpwYjdoREJocUhYT3F5V0ZVNVliODh0TmstZE9FRHBCUk45V0prdHRaemV0a21jWDViaDdvY2Q3WjnSAZQCQVVfeXFMTndNQ1VDcE5KSmcwNFlnV3NibDVfUDlWRXA0a0o2UHBFUjY0U0RuazdONENJZzRkWFlWYl9LazJoUkNjQXlyZTRGZ0l0V3NHQ3JYX3A2VmUwNk5lZzViOFZmQWdsTmtBcm1tdTJoazNRRXBzbEVFOHFMcXRnTjZqXzc0OGxrZm1XSXExSUZMRy1GV25DWGhDaXpiRzJXSEJHOXZXNk14NS1nQWJxNmNycUV3T3l1bWl3ZVVCdkVqZjlnNktvdzVjMzh6d0VpUVlTZkhQMGJUdkVweXpacGI3aERCaHFIWE9xeVdGVTVZYjg4dE5rLWRPRURwQlJOOVdKa3R0WnpldGttY1g1Ymg3b2NkN1o5?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUDZwRTdFVVZ0ODAwMl8yRC03SXczcm93NlpvX1RRcG9qUWVhcGpHcUhuZzdxbEVfMXhRdEU2V1ZfN0xOUnNYTENkNWVZcldZNkdYZ2FxTUVMTVFhYnY0TjJZQWUwYW52RzhPU1FvbGt4ZlFBeTdfeU1JdWt4Y0FNa0RRUDg0WDVuZWV1RFd6Nl9Vb1Z5NzhTOXB6eUNPVTFITnJlY0NqSV9Fb0JZamNjZFkzSGdldTFHSXB3aEY2djV0OHlPS2RkMkNPRWNYajFOak5ta2w2TUxfYTlpQ0pYWjB4RldUX1N0eEtPU1lybnFqdHBxa21XS0dhWlZGZUwyTXYtQlp2QXFoVVQ1R3Vz0gGUAkFVX3lxTE53TUNVQ3BOSkpnMDRZZ1dzYmw1X1A5VkVwNGtKNlBwRVI2NFNEbms3TjRDSWc0ZFhZVmJfS2syaFJDY0F5cmU0RmdJdFdzR0NyWF9wNlZlMDZOZWc1YjhWZkFnbE5rQXJtbXUyaGszUUVwc2xFRThxTHF0Z042al83NDhsa2ZtV0lxMUlGTEctRlduQ1hoQ2l6YkcyV0hCRzl2VzZNeDUtZ0FicTZjcnFFd095dW1pd2VVQnZFamY5ZzZLb3c1YzM4endFaVFZU2ZIUDBiVHZFcHl6WnBiN2hEQmhxSFhPcXlXRlU1WWI4OHROay1kT0VEcEJSTjlXSmt0dFp6ZXRrbWNYNWJoN29jZDdaOQ?oc=5",
      "r": "Ayo Bandung"
     },
     {

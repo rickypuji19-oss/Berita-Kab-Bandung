@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T19:07:51.299087+07:00",
+ "updated": "2026-10-11T20:09:05.978708+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "Ayo Bandung",
-   14
+   13
   ],
   [
    "ANTARA News Jawa Barat",
@@ -35,15 +35,19 @@
    7
   ],
   [
+   "Inilahkoran.id",
+   6
+  ],
+  [
    "Radio PRFM",
    5
   ],
   [
-   "Inilahkoran.id",
+   "Radar Bandung",
    5
   ],
   [
-   "Radar Bandung",
+   "Galamedia News",
    4
   ],
   [
@@ -57,10 +61,6 @@
   [
    "PPID Kab. Bandung",
    3
-  ],
-  [
-   "Galamedia News",
-   2
   ],
   [
    "Gerbang Patriot",
@@ -85,16 +85,16 @@
      "r": "republika.co.id"
     },
     {
+     "t": "Perkara Perceraian di KBB Tembus 4.495, PA Ngamprah Prediksi Capai 6.000 Kasus - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQdIBvwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQQ?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "KPID Jabar Gelar Acara Puncak Hari Penyiaran Daerah, Adiyana Sebut Radio dan TV Masih Sangat Dibutuhkan - Cakrawala - Cakrawala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEdSMkNvQjAyb3k5ZmpQMV9zQmpOTjZrYjl4WkRreFFWeFFGdVFSSXRuNy1LZGVyVE9mODVrTEY5OFp3YnN0aXhOYkFLa0tEeV9KQ3lVT2VZS2ZMVnVwMHRWRHlzN0VOR2J6OXROVzF5cVBqYUs0YnlzZE5HTXVxNTYzSVNfMm5WS0Y1V2lVR0hKU2t6XzIxdm5ZS0VqZ2ZjY2hyTlBmS0c0TmQ1UXdYSm5OS3NGV21PanlLVVN5SU9CVmdXaVBueUtYcXZoNzZxajF1bm94MHhGcG1fS3h1M09fZEHSAeQBQVVfeXFMUHhHUjJDb0IwMm95OWZqUDFfc0JqTk42a2I5eFpEa3hRVnhRRnVRUkl0bjctS2RlclRPZjg1a0xGOThad2JzdGl4TmJBS2tLRHlfSkN5VU9lWUtmTFZ1cDB0VkR5czdFTkdiejl0TlcxeXFQamFLNGJ5c2ROR011cTU2M0lTXzJuVktGNVdpVUdISlNrel8yMXZuWUtFamdmY2Nock5QZktHNE5kNVF3WEpuTktzRldtT2p5S1VTeUlPQlZnV2lQbnlLWHF2aDc2cWoxdW5veDB4RnBtX0t4dTNPX2RB?oc=5",
-     "r": "Cakrawala"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -194,7 +194,7 @@
     "w": [
      1,
      14,
-     2
+     4
     ]
    },
    "trend": {
@@ -219,9 +219,9 @@
     "g": [
      1,
      0,
+     2,
+     0,
      1,
-     0,
-     0,
      0,
      0
     ]
@@ -344,8 +344,8 @@
      0
     ],
     "w": [
-     2,
-     19,
+     3,
+     20,
      22
     ]
    },
@@ -366,7 +366,7 @@
      1,
      0,
      0,
-     1
+     2
     ],
     "g": [
      0,
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     3,
-     18,
+     4,
+     19,
      8
     ]
    },
@@ -524,7 +524,7 @@
      "Min"
     ],
     "p": [
-     1,
+     2,
      0,
      0,
      1,

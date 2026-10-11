@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T03:05:49.285692+07:00",
+ "updated": "2026-10-12T04:06:46.342991+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   22
+   23
   ],
   [
    "RRI.co.id",
@@ -24,7 +24,7 @@
   ],
   [
    "Inilahkoran.id",
-   9
+   10
   ],
   [
    "detikcom",
@@ -43,8 +43,12 @@
    5
   ],
   [
-   "Galamedia News",
-   3
+   "Radio PRFM",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -55,12 +59,8 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Radio PRFM",
-   3
+   "Galamedia News",
+   2
   ],
   [
    "Gerbang Patriot",
@@ -85,16 +85,16 @@
      "r": "Inilahkoran.id"
     },
     {
-     "t": "KDS Apresiasi GOSEKA, Dorong Warga Jadikan Olahraga sebagai Kebiasaan - republika.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTR1bnkycTl0M3JqNjdvVDJVSzlmYWY0QUpicm1DSzkyUDdlRkRjTGpCUlpEZ2loYUsweHB3NTBQNDNRV2xKU3gzcnp1YkFadi1QVDNUUFA4elp3TXRqQVp4a2dBVlo5V2cxdkVTLWw1Rk4yY2hXWVo0TU02THRBdkpOcnlKcjB0dFozcGhSRkljb21URUQwZTY2eGxaRWxlOGVTOFN5MG5YYVkwNXYtb2RNY2s1UTJT?oc=5",
-     "r": "republika.co.id"
-    },
-    {
      "t": "Perkara Perceraian di KBB Tembus 4.495, PA Ngamprah Prediksi Capai 6.000 Kasus - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQdIBvwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQQ?oc=5",
      "r": "Koran Gala"
+    },
+    {
+     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     2,
-     30,
+     1,
+     32,
      1
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     1,
+     0,
      0
     ],
     "g": [
@@ -345,7 +345,7 @@
     ],
     "w": [
      4,
-     20,
+     21,
      20
     ]
    },

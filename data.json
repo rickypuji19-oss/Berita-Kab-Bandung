@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:06:59.185540+07:00",
+ "updated": "2026-10-11T12:07:15.439305+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -35,23 +35,23 @@
    7
   ],
   [
-   "Radio PRFM",
+   "Radar Bandung",
    6
   ],
   [
-   "Radar Bandung",
-   6
+   "Radio PRFM",
+   5
   ],
   [
    "Galamedia News",
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
+   "Pemerintah Kabupaten Bandung",
+   3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Pikiran Rakyat Koran",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "Radio PRFM"
     },
     {
+     "t": "KPID Jabar Gelar Acara Puncak Hari Penyiaran Daerah, Adiyana Sebut Radio dan TV Masih Sangat Dibutuhkan - Cakrawala - Cakrawala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEdSMkNvQjAyb3k5ZmpQMV9zQmpOTjZrYjl4WkRreFFWeFFGdVFSSXRuNy1LZGVyVE9mODVrTEY5OFp3YnN0aXhOYkFLa0tEeV9KQ3lVT2VZS2ZMVnVwMHRWRHlzN0VOR2J6OXROVzF5cVBqYUs0YnlzZE5HTXVxNTYzSVNfMm5WS0Y1V2lVR0hKU2t6XzIxdm5ZS0VqZ2ZjY2hyTlBmS0c0TmQ1UXdYSm5OS3NGV21PanlLVVN5SU9CVmdXaVBueUtYcXZoNzZxajF1bm94MHhGcG1fS3h1M09fZEHSAeQBQVVfeXFMUHhHUjJDb0IwMm95OWZqUDFfc0JqTk42a2I5eFpEa3hRVnhRRnVRUkl0bjctS2RlclRPZjg1a0xGOThad2JzdGl4TmJBS2tLRHlfSkN5VU9lWUtmTFZ1cDB0VkR5czdFTkdiejl0TlcxeXFQamFLNGJ5c2ROR011cTU2M0lTXzJuVktGNVdpVUdISlNrel8yMXZuWUtFamdmY2Nock5QZktHNE5kNVF3WEpuTktzRldtT2p5S1VTeUlPQlZnV2lQbnlLWHF2aDc2cWoxdW5veDB4RnBtX0t4dTNPX2RB?oc=5",
+     "r": "Cakrawala"
+    },
+    {
      "t": "Tanpa Anggaran Pemerintah, KKI Jawa Barat Persiapan Atlet Menuju Kompetisi - Bangbara - Bangbara",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFJDd2s3eUxsY0xuWVpCWS1JM2IxVC01VjI0d2daUGE1UVp2bFAwYlpyekthd0plVnNUempmZm8xVE5Xa3N6d19BZ09sbUVxTExockgyVG5YNzBkUVAxNEtNY0xmci1LNzZKUWtJVld5SThPd2hoYzVGVGdxWDQyaTNmTTVURWhQb1FyWWMyZ2tqbTNBdGVySXZzRHNTU01jenRyY0tUczdxbHlFRnFjMUMzbkp4MnFSUUtXc0F4X1Z0c2fSAcMBQVVfeXFMTkRSQ3drN3lMbGNMbllaQlktSTNiMVQtNVYyNHdnWlBhNVFadmxQMGJacnpLYXdKZVZzVHpqZmZvMVROV2tzendfQWdPbG1FcUxMaHJIMlRuWDcwZFFQMTRLTWNMZnItSzc2SlFrSVZXeUk4T3doaGM1RlRncVg0MmkzZk01VEVoUG9RclljMmdram0zQXRlckl2c0RzU1NNY3p0cmNLVHM3cWx5RUZxYzFDM25KeDJxUlFLV3NBeF9WdHNn?oc=5",
      "r": "Bangbara"
-    },
-    {
-     "t": "SAKIP Award 2026 Kabupaten Bandung, KDS: Kinerja OPD Harus Terukur, Uang Rakyat Harus Berdampak - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVEtrVUZDbV81NHpNR1NzWDdaT3czOGhpeU42ekkzQ3JWblFGU2VpYnF0cFRPRV9DOWFRQllIUU5NUUlMelVPZlVWZlI5V1V5RXNDSm5aM2dnSW01YktORW13UmcxQ0dPRVBCaDZyUkpQbzJOQ0pCWXFzdUJRS05ma2tGVGlZUU96WVl6MnlyOE5fVWNwX1luTDJQbnJvNlppWVlMTFYyRENTMGFvZTNZYmd1bnQteXhwYzByclJIZHNuc1BWM0xzdFRpVlh0YkY5cy1NRVBKdHlObmRHNTVEQzB3?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      3
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     20,
+     19,
      22
     ]
    },

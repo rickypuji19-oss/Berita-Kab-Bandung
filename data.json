@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T00:06:21.135499+07:00",
+ "updated": "2026-10-12T01:06:21.413713+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "Inilahkoran.id",
-   13
+   12
   ],
   [
    "Ayo Bandung",
@@ -39,11 +39,11 @@
    8
   ],
   [
-   "Radar Bandung",
-   5
+   "Radio PRFM",
+   4
   ],
   [
-   "Radio PRFM",
+   "Radar Bandung",
    4
   ],
   [
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     15,
+     14,
      2
     ]
    },
@@ -309,7 +309,7 @@
     {
      "t": "Polresta Bandung Belum Terima Laporan Kasus Perundungan Mahasiswa Telkom University - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNFQ0c1ZUWV9palRyVVBTejhrSDlON0NuLWJlMzQ3WG1rd1FIbTFTOXBQWmk3UE9EOEUxeU9GQU1hT1E4ZzUtRVlkSFNmM0oxRHMyV2NhOVBXMlVFT2hjS2R3SFo3Z3piOUJzNGVVcVkxYXlFLVhfLVNDN0JvY2xVSkRMYVpHQzhOWUl0RmNPdWNVamxNRWlYSXg2ZVhTWlhOQWx4WmZucU94cEJBUHRQRkJRXzRBeHpPY0VPZFhOYkVrMkxpQnFnLWliT3NuMGZIOVZEV0Q4bVNUR0k?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpRmp0WnkwUmc3MWt6S2kzT0JIaDhnbWIwREh3R2haZFhDSGw5aXBjY0hxcVNjN2o0R2Fnb19yWnNlVmxsbEVMVXRja2VGZUZKbDllSTFzSnAzdVdHbE9HbUhlOWQ2UjNXdEtib0J6NU5NNDZLYlFHUElpbTctdmFHUU1WMW42OG50d0JYMTFqaGN6bVZrekNiVEVHb0V1Y1lRUnBFNXFYSVdBbnBma3BzSkFvcEdnSnQ2SzZUbDNfQVU?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -344,7 +344,7 @@
      1
     ],
     "w": [
-     4,
+     3,
      20,
      20
     ]
@@ -360,7 +360,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     0,
      0,
      1,
      0,

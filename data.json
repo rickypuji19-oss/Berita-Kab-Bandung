@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:07:24.267449+07:00",
+ "updated": "2026-10-11T11:06:59.185540+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -35,6 +35,10 @@
    7
   ],
   [
+   "Radio PRFM",
+   6
+  ],
+  [
    "Radar Bandung",
    6
   ],
@@ -44,10 +48,6 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   4
-  ],
-  [
-   "Radio PRFM",
    4
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Tanpa Anggaran Pemerintah, KKI Jawa Barat Persiapan Atlet Menuju Kompetisi - Bangbara - Bangbara",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFJDd2s3eUxsY0xuWVpCWS1JM2IxVC01VjI0d2daUGE1UVp2bFAwYlpyekthd0plVnNUempmZm8xVE5Xa3N6d19BZ09sbUVxTExockgyVG5YNzBkUVAxNEtNY0xmci1LNzZKUWtJVld5SThPd2hoYzVGVGdxWDQyaTNmTTVURWhQb1FyWWMyZ2tqbTNBdGVySXZzRHNTU01jenRyY0tUczdxbHlFRnFjMUMzbkp4MnFSUUtXc0F4X1Z0c2fSAcMBQVVfeXFMTkRSQ3drN3lMbGNMbllaQlktSTNiMVQtNVYyNHdnWlBhNVFadmxQMGJacnpLYXdKZVZzVHpqZmZvMVROV2tzendfQWdPbG1FcUxMaHJIMlRuWDcwZFFQMTRLTWNMZnItSzc2SlFrSVZXeUk4T3doaGM1RlRncVg0MmkzZk01VEVoUG9RclljMmdram0zQXRlckl2c0RzU1NNY3p0cmNLVHM3cWx5RUZxYzFDM25KeDJxUlFLV3NBeF9WdHNn?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVEtrVUZDbV81NHpNR1NzWDdaT3czOGhpeU42ekkzQ3JWblFGU2VpYnF0cFRPRV9DOWFRQllIUU5NUUlMelVPZlVWZlI5V1V5RXNDSm5aM2dnSW01YktORW13UmcxQ0dPRVBCaDZyUkpQbzJOQ0pCWXFzdUJRS05ma2tGVGlZUU96WVl6MnlyOE5fVWNwX1luTDJQbnJvNlppWVlMTFYyRENTMGFvZTNZYmd1bnQteXhwYzByclJIZHNuc1BWM0xzdFRpVlh0YkY5cy1NRVBKdHlObmRHNTVEQzB3?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "KDS Gandeng Ahli Gizi Percepat Penuruna Stunting di Kabupaten Bandung - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkhUSDY2a1BfUVVvRnI1dlY2bEV5QjRPSXB6dEZHdFVDZjU3Q3M2YS1YUHU5MURFTFFJcnNOSDJzLVdKVDFjLU5LalpKeHFkeFMzT1VJcnJXLTFsS2RpZzJUWmcySmNkak55NkJyOGJuS1Z0VWdBYXlnTnY3NTIxNlRLclFWNXM3QzdhT2tvbW4zYjlRTkNSNVNfZ2Zwb2FWRWtqZWNaR21FWS0tRXfSAa4BQVVfeXFMUFpIVEg2NmtQX1FVb0ZyNXZWNmxFeUI0T0lwenRGR3RVQ2Y1N0NzNmEtWFB1OTFERUxRSXJzTkgycy1XSlQxYy1OS2paSnhxZHhTM09VSXJyVy0xbEtkaWcyVFpnMkpjZGpOeTZCcjhibktWdFVnQWF5Z052NzUyMTZUS3JRVjVzN0M3YU9rb21uM2I5UU5DUjVTX2dmcG9hVkVramVjWkdtRVktLUV3?oc=5",
-     "r": "Disway"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -175,7 +175,7 @@
     {
      "t": "Temuan 2 Juta Obat Keras di Kabupaten Bandung, DPRD Dorong Pembentukan BNN - Radio PRFM",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtY9IB1wFBVV95cUxNYWozSWJ6QnNkbHdtUVlHb0NSdlhhVG9YLU44bzIwcDhvVjQxQXFPWHRvVVRBV0tQeDEzdVd4aUQ5d3puR0pQd3M3aEdyNEZOYkdkTFNpUU5OU3N4SzlKWGc1dGJxSVpiQ0xaOFA3VDdtRS1yQTVqUktTa2tWZEQxWjF4N1dqX201VDdmc212NFVJa3lhei1wQUZXV0UwMkdTMkF2eU9MME5Jb29SNm9lb3QyOWlid041ZHM2bE5xZjVCS2VSWmgxOU5Hcm1zZURuSjFNTVdtYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXVTUW1VTUFRM0pYTUtEZHVLby01ZVA4TG9KWHV0dF83cG9TdmN0dE1JRXV1dnc5WUxiU1E1UkFvNDZ4OFlwVktEYTZxbXFQY0NUNDY2Wmw2N3ZZd0JUaGtYTG9nNThodk1oWm9hMnA4S3JfMjB6MHNma1pNd0xITW1ZaEprS0dsRkpKa2JEQ3Vqd2w5MjBYRGN6OWlRVGJRcHRmZ3pybTNJNzdNcGJMT0JIQjNSSjUycC1aNW11ODB3aUtrN1dVZ3lRX0pVVm4teXfSAdcBQVVfeXFMTWFqM0liekJzZGx3bVFZR29DUnZYYVRvWC1OOG8yMHA4b1Y0MUFxT1h0b1VUQVdLUHgxM3VXeGlEOXd6bkdKUHdzN2hHcjRGTmJHZExTaVFOTlNzeEs5SlhnNXRicUlaYkNMWjhQN1Q3bUUtckE1alJLU2trVmREMVoxeDdXal9tNVQ3ZnNtdjRVSWt5YXotcEFGV1dFMDJHUzJBdnlPTDBOSW9vUjZvZW90MjlpYndONWRzNmxOcWY1QktlUlpoMTlOR3Jtc2VEbkoxTU1XbWM?oc=5",
      "r": "Radio PRFM"
     },
     {
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      3
     ]
    },
@@ -426,8 +426,8 @@
      1
     ],
     "w": [
-     0,
-     7,
+     1,
+     6,
      14
     ]
    },
@@ -443,7 +443,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      1,
      0,
      0,
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Viral Video Perundungan Mahasiswa Telkom University, Korban Diancam Pakai Semprotan Api - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUpaTXRzTmhGcVZ2T25BclpIaVRSbnBkVGVmRU1xeGI5RTc4NXN3clZ1clZta3N2VzZiTnhyQjlkbEk4ZDhnMllrSEJDM2ZxLThYeHluNGEzanMyQTZ6ZWVvaGNESnRhUVRFV0lHeFltSVpub3BGbU00QlJGbmZTX2c4MW9NOEVMWXM0NC1VZmVNXzg1T2o5WC1rVmZVOEZnNTg4bEN6OHR5NTRNY0Yza1F5UEIzdWFVa1kwUGhNdDZoRGVpc2x3aHczSnp5SU9DQ0FF?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Telkom University Turunkan Satgas PPKPT, Usut Video Viral Bullying Mahasiswa Sembur Api di Asrama - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUVHcDQySmFaelRZYWhHSjdmV2IzY2ozeTRBUnI4c1kxRG8xYUcyeFhGaWtOSXQ0a0N2Y193ZWwycEJhWWFDa3VnbWV2c1ZmcW4tWnplaXpldU4tNW82ZE1OS3ZCbDVjWFB0MEowR3Z3dGZkLWh3NHZfRzd3WnpmVkVxR3FrLVUyaDIycjE2QU5lWU5qRFdMZDA4cXdhLUNIaGtWMmI5N21KTHdrd0w0NjhhMk0zaW1oVTJ1Sm91RWNhOGFBQ1hvQjFld0ZxdldQS1lNb0pBMlctN2I0bWZjQQ?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVBRc3NVaFFnQTA4Z3R4cDZTRS1yYW1jQURnTUJ5Nk1uY2RSMTdiaHJTSlBrR0VuN295Tk0tUlZEMkhlbTBMdk9VaGhiWHJQTjJ5SExPSlNqNFQwdkhfWkdJR3QybDdybmFfd3RUMk81RE91MUpBekFTSy1TNVdfYjhvbm03WnV3RGtaN1c4UWFGUFpkMU5CTkZEV0VzQ3prU25EOThoVXNoNnBYZDJWZFdQZTdJNnJwWmNQTDJWUlY4Y1JuZ1d6Vk5PUTlGUdIB0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "SAKIP Award: Apresiasi Kinerja, Perkuat Akuntabilitas, Wujudkan Birokrasi Berintegritas - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByedIB4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByeQ?oc=5",
-     "r": "Mudanesia"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     18,
+     19,
      5
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:06:58.253296+07:00",
+ "updated": "2026-10-11T10:07:24.267449+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -43,19 +43,19 @@
    4
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "Radio PRFM",
+   4
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
    "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Radio PRFM",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     34,
+     33,
      1
     ]
    },
@@ -471,22 +471,22 @@
    ],
    "h": [
     {
+     "t": "Telkom University Turunkan Satgas PPKPT, Usut Video Viral Bullying Mahasiswa Sembur Api di Asrama - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUVHcDQySmFaelRZYWhHSjdmV2IzY2ozeTRBUnI4c1kxRG8xYUcyeFhGaWtOSXQ0a0N2Y193ZWwycEJhWWFDa3VnbWV2c1ZmcW4tWnplaXpldU4tNW82ZE1OS3ZCbDVjWFB0MEowR3Z3dGZkLWh3NHZfRzd3WnpmVkVxR3FrLVUyaDIycjE2QU5lWU5qRFdMZDA4cXdhLUNIaGtWMmI5N21KTHdrd0w0NjhhMk0zaW1oVTJ1Sm91RWNhOGFBQ1hvQjFld0ZxdldQS1lNb0pBMlctN2I0bWZjQQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVBRc3NVaFFnQTA4Z3R4cDZTRS1yYW1jQURnTUJ5Nk1uY2RSMTdiaHJTSlBrR0VuN295Tk0tUlZEMkhlbTBMdk9VaGhiWHJQTjJ5SExPSlNqNFQwdkhfWkdJR3QybDdybmFfd3RUMk81RE91MUpBekFTSy1TNVdfYjhvbm03WnV3RGtaN1c4UWFGUFpkMU5CTkZEV0VzQ3prU25EOThoVXNoNnBYZDJWZFdQZTdJNnJwWmNQTDJWUlY4Y1JuZ1d6Vk5PUTlGUdIB0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "SAKIP Award: Apresiasi Kinerja, Perkuat Akuntabilitas, Wujudkan Birokrasi Berintegritas - Mudanesia",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByedIB4AFBVV95cUxQWVhQM0d1ZUFxd3Z1NGpnbDFNcFplQ0ZHNUZCVFc2Q2N4WjlXeUJ1ZE9BeWk1eXBSS3BuaGVMV2tGb3NGVHctdWFLY3Nwd0Z6N18wZjNUb25VUTVrRHNNVjc5TzdLSEVyaWJqZmxYN2JBQVdBblVtaGlOdTZZNVZxcm1GTWFOZGtoLXFMdVZNTk41TGhydWtGQ3JlWGM5OW9oRG1RakZ5RXpSNFVicFNVUm1WaEtQUGl5WjVyRXpfYkNJcE1oa1BfTzBCQjBzVUItMEwwck1zZzBBcXFtMjByeQ?oc=5",
      "r": "Mudanesia"
-    },
-    {
-     "t": "KDS Jumat Keliling, Pastikan Program Insentif Guru Ngaji Berlanjut di Tengah Efisiensi Anggaran - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWJ2c1FzQmY0eGwyVDNySEtiZEhqTUx6Qlc1M1RHeFJqVkhWcU5FVGJJQ3E5V1RTZ1lNR1JTX3U2djJ1S0dxbTJNYnVZS1RCX1B0WS1vcEM1emJlZzVmS1JUaE5tV3F6NXhJNEoxaFo1anNWNDFkUldpa0VtT05DSG4wLXZ5dWFjSzFaRnczSFk5TWRyb0FQdmVuaGtDNVl5Wm93b040eExOc25ySEN0WVNpaUpmeUNtLURCUVRMdHFpb19NOUw4VmdMUHNQemRIZHRqaE5JdW5CUVVtREpxOWcycjc?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Edukasi Sampah 16 Kecamatan di Kabupaten Bandung, Mahasiswa Disiapkan Dampingi Pengelolaan Sampah - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVVWSmtVZjBSbGdHTWp6V29BcEIwcEFfVllVaDh1RWs4eUZHOUJYR3NEY3VoYXQ3THlVaGVOMnpXWFJCWjJrcVN5WHE1UlRuaFpTbHNTMzRvVGJEcmQ0WEJTbUlPdnE4ZGdBSzlkdnlTc2pkZUFQd0dfVFhTRUxpVC1mMV9yNHJ1WDdUVG9tY1BlXy1EaHltNjRkeldMMklEbU0yUHJZaGpFYUY0MkxtOExKRzZ3MmRFUkNZejNWRjFEWEZCVDdzb0VPYWpGeWZLdmhwSEdjODJaQlFyRzg1alA3UGUwdw?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     16,
+     18,
      5
     ]
    },

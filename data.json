@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T06:05:43.559690+07:00",
+ "updated": "2026-10-11T07:08:25.768218+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,12 +15,12 @@
    21
   ],
   [
-   "Ayo Bandung",
+   "Kompas.com",
    15
   ],
   [
-   "Kompas.com",
-   15
+   "Ayo Bandung",
+   14
   ],
   [
    "ANTARA News Jawa Barat",
@@ -264,7 +264,7 @@
     "w": [
      3,
      9,
-     2
+     1
     ]
    },
    "trend": {
@@ -290,7 +290,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0,
      0,
      0

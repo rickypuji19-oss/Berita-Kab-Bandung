@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:09:05.978708+07:00",
+ "updated": "2026-10-11T21:06:15.780624+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   21
+   20
   ],
   [
    "Kompas.com",
-   17
+   16
   ],
   [
    "Ayo Bandung",
@@ -27,16 +27,16 @@
    13
   ],
   [
+   "Inilahkoran.id",
+   12
+  ],
+  [
    "detikcom",
    9
   ],
   [
    "jabarekspres.com",
    7
-  ],
-  [
-   "Inilahkoran.id",
-   6
   ],
   [
    "Radio PRFM",
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "KDS Apresiasi GOSEKA, Dorong Warga Jadikan Olahraga sebagai Kebiasaan - republika.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTR1bnkycTl0M3JqNjdvVDJVSzlmYWY0QUpicm1DSzkyUDdlRkRjTGpCUlpEZ2loYUsweHB3NTBQNDNRV2xKU3gzcnp1YkFadi1QVDNUUFA4elp3TXRqQVp4a2dBVlo5V2cxdkVTLWw1Rk4yY2hXWVo0TU02THRBdkpOcnlKcjB0dFozcGhSRkljb21URUQwZTY2eGxaRWxlOGVTOFN5MG5YYVkwNXYtb2RNY2s1UTJT?oc=5",
-     "r": "republika.co.id"
+     "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "Perkara Perceraian di KBB Tembus 4.495, PA Ngamprah Prediksi Capai 6.000 Kasus - Koran Gala - Koran Gala",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     2,
-     31,
+     1,
+     32,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      1,
-     1
+     0
     ],
     "g": [
      0,
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     14,
+     17,
      4
     ]
    },
@@ -263,8 +263,8 @@
     ],
     "w": [
      3,
-     8,
-     1
+     7,
+     2
     ]
    },
    "trend": {
@@ -290,7 +290,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0,
      0,
      0
@@ -309,7 +309,7 @@
     {
      "t": "Polresta Bandung Belum Terima Laporan Kasus Perundungan Mahasiswa Telkom University - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpRmp0WnkwUmc3MWt6S2kzT0JIaDhnbWIwREh3R2haZFhDSGw5aXBjY0hxcVNjN2o0R2Fnb19yWnNlVmxsbEVMVXRja2VGZUZKbDllSTFzSnAzdVdHbE9HbUhlOWQ2UjNXdEtib0J6NU5NNDZLYlFHUElpbTctdmFHUU1WMW42OG50d0JYMTFqaGN6bVZrekNiVEVHb0V1Y1lRUnBFNXFYSVdBbnBma3BzSkFvcEdnSnQ2SzZUbDNfQVU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNFQ0c1ZUWV9palRyVVBTejhrSDlON0NuLWJlMzQ3WG1rd1FIbTFTOXBQWmk3UE9EOEUxeU9GQU1hT1E4ZzUtRVlkSFNmM0oxRHMyV2NhOVBXMlVFT2hjS2R3SFo3Z3piOUJzNGVVcVkxYXlFLVhfLVNDN0JvY2xVSkRMYVpHQzhOWUl0RmNPdWNVamxNRWlYSXg2ZVhTWlhOQWx4WmZucU94cEJBUHRQRkJRXzRBeHpPY0VPZFhOYkVrMkxpQnFnLWliT3NuMGZIOVZEV0Q4bVNUR0k?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Jaga Nama Baik, Satgas Bobotoh Dibentuk Kapolresta Bandung Kombes Pol Tri Suhartanto - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFpvTWN5SnMxNGdfUm9ya1VLZUNRMm1GenZZeTVtQkVCZk84OVlqQ0ZteEpid3F5X3hIdmJwdjl3aUpwUlVTeF9NeGRjaXoxalJtX3R2cE81YldCc3NUZGQwbFN1Sml0SU05Yk52bEMtWk9EVmxOXzlCSUQyNVczVnBscWgyTEEzOXB1ZkxTd0U1Y09QYXVUUTNOZUtHblNHcHFQWnYxZDZxVnRmTlJn?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "2 Mahasiswa Tel-U Pelaku Bullying Semprot Api Siap-siap Di-DO, Korban Sudah Dilindungi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjE4RmtNSkhKTC1lWmVHOGljLWlVdGNIWHBXdzV3M0l4NXQwckpsMmQya21yN01FenJacnc2cTRpNWNOTzFDcnFVZ1NUYXp1X09hT0hsS1BCS3VkR1kwQ0NteDAzWlludFpNSXhBYnNqcTBtY3I4cEtDT0tDQ3pBckIxVGJHNmdEYUtkN1M4dTRRbG5KZ2lxZXNyVl82RlhCNEF0eWtjWWppNnJ2OWhVRHFQVEtpcnExdlRMcGEyU2NSd3RLRElRMnZMT2RVc09Fd3c?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGt3SjBSY3pIdmY5RXl4bFJ1akRZZW51TXo5a2JzVmhMTkhXM0xILVl0eTRRa2EzVjA4cmZDYTM0cUlORnkxRnhvWm9QZ3NmQ3F4OFNqV29waEQ1eVQyd0pwUWRIci05MnhidUNIX24xYk02TE1YSWFGc0xQajJLUUlOUTlJLTNmX3lGREF1b3lTOVdFcllIQjFvaXR2MWhoSUY3cWpFNTBXWURIR1ctaXNmWDVkZlpHc0hjQ2ZCUmVBRE94bS1VUC1sYm5qTnBJVnExTg?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kecam Aksi Bullying di Asrama, Mahasiswa Tel-U Tuntut Keadilan - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3RudS1iY2RlZHkxVkRQaVZzYmhJam8yT2tNd0hIblRVb19XN3lMZEFXZXVJWWIxTENwUFJ6QWNtU3JZc0JycUdlN09vSlNzQVdBbVdYNUkxczdHcWUycXBoc2dFZVZ3MU1DTWN4OUJJWk1vZ0Vwb01oSFlFaFRUSEY2aUJhcUphWVJVSGg2bUowNk9SRTJFSHk5V1NxOF9zMkR1ODlSWU9jZ9IBrwFBVV95cUxNOFZxTEtucnlYcldrY0Z4NTQwcjdScGdkOTAtTWpIX2RmcmVJaFYxakdLUEFHM3gzVnQ1TWdsNVVtdGdnd3Yta19MVS02eEdHWnpKcHZteFBlbHNDMzgwY2Z3XzNYeGlqSlNsQkxFYkFfTjY3Z2I2Tzl3QTNZa3hkWXRfSEJBamZISGZQZmdsQ1l5eGVValJVckFTX0tJSzZrZW5TWk1lZ0hwUFN4V0hB?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     4,
-     19,
+     3,
+     20,
      8
     ]
    },
@@ -524,7 +524,7 @@
      "Min"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      1,

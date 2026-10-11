@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:05:52.742820+07:00",
+ "updated": "2026-10-11T19:07:51.299087+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   21
+   20
   ],
   [
    "Kompas.com",
-   16
+   17
   ],
   [
    "Ayo Bandung",
@@ -39,16 +39,12 @@
    5
   ],
   [
-   "Radar Bandung",
+   "Inilahkoran.id",
    5
   ],
   [
-   "Inilahkoran.id",
+   "Radar Bandung",
    4
-  ],
-  [
-   "Galamedia News",
-   3
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -61,6 +57,10 @@
   [
    "PPID Kab. Bandung",
    3
+  ],
+  [
+   "Galamedia News",
+   2
   ],
   [
    "Gerbang Patriot",
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     13,
+     14,
      2
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      1
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Belum Terima Laporan Kasus Perundungan Mahasiswa Telkom University - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpRmp0WnkwUmc3MWt6S2kzT0JIaDhnbWIwREh3R2haZFhDSGw5aXBjY0hxcVNjN2o0R2Fnb19yWnNlVmxsbEVMVXRja2VGZUZKbDllSTFzSnAzdVdHbE9HbUhlOWQ2UjNXdEtib0J6NU5NNDZLYlFHUElpbTctdmFHUU1WMW42OG50d0JYMTFqaGN6bVZrekNiVEVHb0V1Y1lRUnBFNXFYSVdBbnBma3BzSkFvcEdnSnQ2SzZUbDNfQVU?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polresta Bandung tunggu laporan korban perundungan di Telkom University - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTndGalRXanNtNnRyM0xsLVJTaEYtZWVQMGpUaUdCRE1wUmM1b19lbTNLZS1tM2x3UThocm1GanZMS0hIejU3QWcwQmhIaTctVTFxU1N4ekVfRHVvN19aXzRBeEhEOU9NUkdUaGpCZUc0Sm5ZY2xCNWxoV0hKMk1WWG9EVEN6bUYyZjJ3M0ZFWUtNSzRJUkxWMVlYd0w1T2tGMF95bHRoeUVmd3lRN25rWmVGakPSAboBQVVfeXFMTWpKS05FN2VjNTVQa2tBTWIzWnhlMG1ibG5wTDlfcnZwelgxWUU2VW9SY0dPc1BZM1dBbEI3Rkw1T0hxRGNtZi1NZHBRYVp2QkVFX0ZBWmxXOGg4WTZNaFU3NHY4elREN1pUVE9BeERSVXp0Nk4tcTJfWmVaYXNIbUZsRjA5Z0ZWUlpjcDRDQmI3RmNWbFR4SnUwMlhzXzZpQ1Y5Z2lwTGx5d2xLMEMwMHZ2ZGktLVF2dFln?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Laga Persib vs Dewa United di Si Jalak Harupat, Kapolresta Bandung: Sepak Bola Hiburan Nyaman, Bukan Menakutkan - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDViOExSeDBneUphcUF5SU54VzFDdjZvRXgxNHBvcFdTbEM0b3UxODlKZ2JpN0JuazRheXJqeUdHUEVUTWM4Z3p2aWNnM3VGMklSZ3hzMk16V3BQOXVwNWhadWpaZERFcTItQzIwcmVoamtUbG5MdnVfM25heFY1cFF5cXBybzkxdmZ2UjhURldNWmlZa0g0WC1DanpDdGw5T2ZNb0t3a0htUEZTRkx0OEZ2ekZtckE1a3BsM0EyRTNQTGdQbWQ0dw?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Ini Enam Pesan Tegas Kapolresta Bandung Kombes Pol Dr Tri Suhartanto - RRI.co.id",
+     "t": "Foto : Laga Persib vs Dewa United di Si Jalak Harupat, Kapolresta Bandung: Sepak Bola Hiburan Nyaman, Bukan Menakutkan Halaman 1 - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGlnOHJTc0p4U05rV0hic3hrQ0h0cEdiVUJGc3d5QVVyamZUOHUwNFQ0WkFsN0haUHY4VUJSLTQ2cm1KbnpUbmR0b2pOaUY1Q1ltMjUzdmM3WmhLTmdZeF9oSGJDdXJPcDNiVnRiQ3o3RWI3WDduQzhnTWItR21FSFBVc3ZlT0pWQnRFUGhkRTFDR19QUm9YclUzQzNDSnRkZUZKbEZ1dmdzUHFPQ2VZeUlONFo?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1JWOU1DTU5IVEhvamdRbUNIN3hSR1BMM1d2LXBmUjhuNWNlNmRjZ1poR21ubklNRDNqMHNyVFNrWDg4QUtKeWJyMTVOUFAzdnZnMVdQdXRZLURfTTVRN2cxSlYwTktreU9QbWM3Tk9INlhRMTFybmpWeXBBb3pjX0NiYjBNblN4Y2txNGMweGUzaHZ3ejRveW9lTlRXb1F6cV91a19scTdDdENlTFpKX2ktN0VRaXhXYjJUTUhSdzBFWWFYdEVqakxxU0tfWFB6d1JN?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     18,
-     23
+     19,
+     22
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      0,
      0,
-     8,
+     7,
      2,
      11,
      2,
@@ -413,16 +413,16 @@
      "r": "YouTube AZZAHRA VLOG"
     },
     {
-     "t": "SETIAP HUJAN DERAS, PALASARI & DAYEUHKOLOT BANJIR LAGI! Jalan Terendam, Macet Total",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=bTJJjKMHLwU",
-     "r": "YouTube AZZAHRA VLOG"
+     "t": "KAB BANDUNG RONJATKEUN KASAYAGAAN MAPAG USUM HUJAN",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=FDX9lgSGKbI",
+     "r": "YouTube Bandung TV News"
     }
    ],
    "v": {
     "s": [
      1,
-     0,
+     1,
      1
     ],
     "w": [
@@ -495,21 +495,21 @@
      "r": "YouTube WARPAS TV"
     },
     {
-     "t": "TUGAS VLOG BERITA KELAS 11 SMAN 1 MAJALAYA-KAB. BANDUNG",
+     "t": "Pendampingan dari Pengawas Disdik Kabupaten Bandung",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=XYo8ZkT6tsU",
-     "r": "YouTube (J)uvenile.stories"
+     "u": "https://www.youtube.com/watch?v=stOceJ8P_yI",
+     "r": "YouTube SMP Negeri 1 Paseh"
     }
    ],
    "v": {
     "s": [
      0,
-     4,
+     3,
      0
     ],
     "w": [
-     4,
-     19,
+     3,
+     18,
      8
     ]
    },
@@ -524,7 +524,7 @@
      "Min"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      1,

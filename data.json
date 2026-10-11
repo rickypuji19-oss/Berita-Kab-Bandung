@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:08:27.437614+07:00",
+ "updated": "2026-10-11T14:08:48.114883+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   22
   ],
   [
    "RRI.co.id",
-   22
+   21
   ],
   [
    "Kompas.com",
@@ -24,22 +24,22 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   12
+  ],
+  [
+   "detikcom",
+   9
   ],
   [
    "jabarekspres.com",
    7
   ],
   [
-   "detikcom",
-   7
+   "Radio PRFM",
+   5
   ],
   [
    "Radar Bandung",
-   6
-  ],
-  [
-   "Radio PRFM",
    5
   ],
   [
@@ -51,6 +51,10 @@
    4
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Pikiran Rakyat Koran",
    3
   ],
@@ -60,10 +64,6 @@
   ],
   [
    "Gerbang Patriot",
-   2
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     33,
+     32,
      1
     ]
    },
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     2,
-     19,
-     22
+     1,
+     18,
+     23
     ]
    },
    "trend": {
@@ -361,7 +361,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      0,
@@ -371,7 +371,7 @@
     "g": [
      0,
      0,
-     7,
+     8,
      2,
      11,
      2,
@@ -471,22 +471,22 @@
    ],
    "h": [
     {
+     "t": "Kecam Aksi Bullying di Asrama, Mahasiswa Tel-U Tuntut Keadilan - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3RudS1iY2RlZHkxVkRQaVZzYmhJam8yT2tNd0hIblRVb19XN3lMZEFXZXVJWWIxTENwUFJ6QWNtU3JZc0JycUdlN09vSlNzQVdBbVdYNUkxczdHcWUycXBoc2dFZVZ3MU1DTWN4OUJJWk1vZ0Vwb01oSFlFaFRUSEY2aUJhcUphWVJVSGg2bUowNk9SRTJFSHk5V1NxOF9zMkR1ODlSWU9jZ9IBrwFBVV95cUxNOFZxTEtucnlYcldrY0Z4NTQwcjdScGdkOTAtTWpIX2RmcmVJaFYxakdLUEFHM3gzVnQ1TWdsNVVtdGdnd3Yta19MVS02eEdHWnpKcHZteFBlbHNDMzgwY2Z3XzNYeGlqSlNsQkxFYkFfTjY3Z2I2Tzl3QTNZa3hkWXRfSEJBamZISGZQZmdsQ1l5eGVValJVckFTX0tJSzZrZW5TWk1lZ0hwUFN4V0hB?oc=5",
+     "r": "detikcom"
+    },
+    {
+     "t": "Mahasiswa Tel-U Kecam Dugaan Perundungan di Asrama: Harus Ditindak! - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHVFMWRXWi0tVmU1a2pmd1JJTDdBa1VYU0d6SU9ua3VsSHNYRmRER3lfSDJJZVhBcERIMENPN1hoZVA5VEVJbDlVTWdubDdNR0p3cnZ6XzVxTDZjalZCdzBOSlMyMF84ejRTT0RMWnA3bFIzTGthZEJJY2s4MENaVzdIOFhMd2JHdzBaTjB4YWFIT1RwZkdEZ2pSNFd2SjFaZEpsSmY5LVBiOHN0Qml30gG0AUFVX3lxTE9NOE5JOHJJa2trS19ramJKN080NzZFRmVqRVlENkw1SzJtWUVkOEt0bFRZS1hnMGV3MHBNeUp5YWhKY2JFd2JzWkEwaHE4V3J3Q2V4SDhPSG1YeWhudVZ6cG5tUzNySTE5bG8xWG84d19OOS1sTTR1bXVWcnFyNl9vRmhxVjE5MVFIQ1M2MEtWNGJfZkhuTnNucmxhSDR0U3FqLWU3dzQ5OV9EV0VYSV8wdmgwYw?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Viral Video Perundungan Mahasiswa Telkom University, Korban Diancam Pakai Semprotan Api - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUpaTXRzTmhGcVZ2T25BclpIaVRSbnBkVGVmRU1xeGI5RTc4NXN3clZ1clZta3N2VzZiTnhyQjlkbEk4ZDhnMllrSEJDM2ZxLThYeHluNGEzanMyQTZ6ZWVvaGNESnRhUVRFV0lHeFltSVpub3BGbU00QlJGbmZTX2c4MW9NOEVMWXM0NC1VZmVNXzg1T2o5WC1rVmZVOEZnNTg4bEN6OHR5NTRNY0Yza1F5UEIzdWFVa1kwUGhNdDZoRGVpc2x3aHczSnp5SU9DQ0FF?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Telkom University Turunkan Satgas PPKPT, Usut Video Viral Bullying Mahasiswa Sembur Api di Asrama - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUVHcDQySmFaelRZYWhHSjdmV2IzY2ozeTRBUnI4c1kxRG8xYUcyeFhGaWtOSXQ0a0N2Y193ZWwycEJhWWFDa3VnbWV2c1ZmcW4tWnplaXpldU4tNW82ZE1OS3ZCbDVjWFB0MEowR3Z3dGZkLWh3NHZfRzd3WnpmVkVxR3FrLVUyaDIycjE2QU5lWU5qRFdMZDA4cXdhLUNIaGtWMmI5N21KTHdrd0w0NjhhMk0zaW1oVTJ1Sm91RWNhOGFBQ1hvQjFld0ZxdldQS1lNb0pBMlctN2I0bWZjQQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVBRc3NVaFFnQTA4Z3R4cDZTRS1yYW1jQURnTUJ5Nk1uY2RSMTdiaHJTSlBrR0VuN295Tk0tUlZEMkhlbTBMdk9VaGhiWHJQTjJ5SExPSlNqNFQwdkhfWkdJR3QybDdybmFfd3RUMk81RE91MUpBekFTSy1TNVdfYjhvbm03WnV3RGtaN1c4UWFGUFpkMU5CTkZEV0VzQ3prU25EOThoVXNoNnBYZDJWZFdQZTdJNnJwWmNQTDJWUlY4Y1JuZ1d6Vk5PUTlGUdIB0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -510,7 +510,7 @@
     "w": [
      4,
      18,
-     5
+     7
     ]
    },
    "trend": {
@@ -539,7 +539,7 @@
      0,
      2,
      0,
-     0
+     2
     ]
    }
   }

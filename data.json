@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:06:46.342991+07:00",
+ "updated": "2026-10-12T05:06:32.662054+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "Kompas.com",
@@ -51,19 +51,19 @@
    4
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
-   "Galamedia News",
+   "Gerbang Patriot",
    2
   ],
   [
-   "Gerbang Patriot",
+   "opininews.com",
    2
   ]
  ],
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "TPST Cicukang Oxbow Dikembangkan, Operasional Diupayakan Tetap Berjalan - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFJkSzNhaGQtdW1IcEtLWkZLaE1XRTFzcFZ2OU5RZkdBZG5sMENuNnpXc2hTUkRERmVvLWxxc1JxQk1TdHIyM1VQR04tTzlfTkJ2SUJWZHdlNWxIckp6aXRSdjRheExIZ3VVdjR4NVBucVpvZmtRMmFaSy1aazJSNW9FSWhrVERlTU9JSWRvZllZV0p0OFlKMERLM3lSeThRdEcyWWdhalhOV1VVR3JTZkR3X0Rua2VFTEVnbmRWcFM?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjRlMDZVOWFFWTkxUkNwbGZKRHVlbnp5MmRubEE5NlNzcVoxWk01SEtLY3c2YmN3VVBTanJvNzkyVGc3eTBpVll5b2t5SjRGU2hPMnRIWHlJZXVmSFA0ZnlpV3dsNnV2TWlabzgyYzVGemQ3QTBzbV93RXJBOG5QZHlqRlZmTE90QVZHZUREX0NwT0E?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     13,
+     14,
      2
     ]
    },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "TPST Cicukang Oxbow Dikembangkan, Operasional Diupayakan Tetap Berjalan - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFJkSzNhaGQtdW1IcEtLWkZLaE1XRTFzcFZ2OU5RZkdBZG5sMENuNnpXc2hTUkRERmVvLWxxc1JxQk1TdHIyM1VQR04tTzlfTkJ2SUJWZHdlNWxIckp6aXRSdjRheExIZ3VVdjR4NVBucVpvZmtRMmFaSy1aazJSNW9FSWhrVERlTU9JSWRvZllZV0p0OFlKMERLM3lSeThRdEcyWWdhalhOV1VVR3JTZkR3X0Rua2VFTEVnbmRWcFM?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Pemprov Jabar Rencanakan Pengadaan 500 Mobile Batching Plant pada 2027, Alat Pembuat Beton Ditargetkan Percepat Perbaikan Jalan Desa - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUDZwRTdFVVZ0ODAwMl8yRC03SXczcm93NlpvX1RRcG9qUWVhcGpHcUhuZzdxbEVfMXhRdEU2V1ZfN0xOUnNYTENkNWVZcldZNkdYZ2FxTUVMTVFhYnY0TjJZQWUwYW52RzhPU1FvbGt4ZlFBeTdfeU1JdWt4Y0FNa0RRUDg0WDVuZWV1RFd6Nl9Vb1Z5NzhTOXB6eUNPVTFITnJlY0NqSV9Fb0JZamNjZFkzSGdldTFHSXB3aEY2djV0OHlPS2RkMkNPRWNYajFOak5ta2w2TUxfYTlpQ0pYWjB4RldUX1N0eEtPU1lybnFqdHBxa21XS0dhWlZGZUwyTXYtQlp2QXFoVVQ1R3Vz0gGUAkFVX3lxTE53TUNVQ3BOSkpnMDRZZ1dzYmw1X1A5VkVwNGtKNlBwRVI2NFNEbms3TjRDSWc0ZFhZVmJfS2syaFJDY0F5cmU0RmdJdFdzR0NyWF9wNlZlMDZOZWc1YjhWZkFnbE5rQXJtbXUyaGszUUVwc2xFRThxTHF0Z042al83NDhsa2ZtV0lxMUlGTEctRlduQ1hoQ2l6YkcyV0hCRzl2VzZNeDUtZ0FicTZjcnFFd095dW1pd2VVQnZFamY5ZzZLb3c1YzM4endFaVFZU2ZIUDBiVHZFcHl6WnBiN2hEQmhxSFhPcXlXRlU1WWI4OHROay1kT0VEcEJSTjlXSmt0dFp6ZXRrbWNYNWJoN29jZDdaOQ?oc=5",
@@ -398,12 +404,6 @@
      "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Sekolah Rakyat di Bandung Sudah Berjalan, Fasilitas Terus Dikembangkan - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHNUNnJoV05JSHRfUV8wQlk1ZzVQWFllWUtmcVpyMDZxNnd1RkNSa2dQZ1Ric2NMemZKcVlGR2IyNVEwUWI4SVBmRDIydmIwQ1ljdWhZaDdyZnN0TDNOS2R1WkFLWjBzNFA1ZlhCMTNVa0pHSjhpUjZiWlY1T1dwc3JKQXZmakNrU3RKa1BBWXBZMHU1VWRfTHRMclFFOWYtVTR5M3VKNEViMVBHYUFtaHJn?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -427,7 +427,7 @@
     ],
     "w": [
      1,
-     5,
+     6,
      13
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     20,
+     19,
      8
     ]
    },

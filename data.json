@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T01:07:08.930756+07:00",
+ "updated": "2026-10-13T02:09:14.910729+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Kompas.com",
-   21
+   22
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   13
+   16
   ],
   [
    "Ayo Bandung",
@@ -32,7 +32,7 @@
   ],
   [
    "Inilahkoran.id",
-   9
+   8
   ],
   [
    "jabarekspres.com",
@@ -44,7 +44,7 @@
   ],
   [
    "Radio PRFM",
-   3
+   4
   ],
   [
    "PPID Kab. Bandung",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     5,
-     21,
-     1
+     4,
+     20,
+     2
     ]
    },
    "trend": {
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     1,
+     0,
      1,
      4,
      0
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     3,
      0
     ]
    }
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     12,
+     11,
      1
     ]
    },
@@ -249,9 +249,9 @@
      "r": "Kompas.com"
     },
     {
-     "t": "BRI Perkuat Ekonomi Lokal dan Sport Tourism saat MotoGP Mandalika 2026 - RRI.co.id",
+     "t": "Berpariwisata dengan Kereta Api menuju Penyeberangan Ketapang–Gilimanuk Bali - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWFuUzFrMVl5cUtjeEQyV1R6SnlNYV90WGJDSWhnd1NRa2xNQkowaDhEdzdyLVJVeEhEN2h4SlVtb3Q5ZkRfb1lkZmltLXdPdGNWNWhvTXFFZGVKMjk5aW9WQkZCNkswRkpOYzRRdDZuWC12cUM4cVp2VnJyc0FHOUhxTGx3eXJra005Y1FOV0ttTF9aUHk1anlwNGc1NFdSeTV1U2FObUs2MGF4d0J1NDJLYnp4d2c?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2p4ZGZWWjhZenBSTVU3aXNrMzNBWXM5dzFpeFJ2dUc0bnFxaXFRX3pPV3NqeDRDQ0F5VEpSdk1BSXdCRXZIUWczZUZIaG5TVTlpT3ZRaHUyTW5hSDRleldyRURpbFBXb29vVjRIdTRPbUZSVGV5d3hQdUNMcXhCSjFoTjFZbnNtN1E4M2xoSlhSUjd3ZjVyRURRTXpvT3Bkd1preC1MbndjZkVuMmhmNXZ5UFFTcmdO?oc=5",
      "r": "RRI.co.id"
     }
    ],
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     9,
+     10,
      0
     ]
    },
@@ -313,16 +313,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Razia Narkoba di Cangkuang, Polresta Bandung Temukan Obat Keras dan Satu Orang Positif - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGZfZFUyNmVCa3hnR2R4U01hZG9rWEpZUUZiUU9VY0hOSUtwZkVzc2pnNEdQLWxPZ2xrZWFuSFRjQkFwMzlFN2dhc3ZMTE9EY2l0NXNMaV80UEZWSHBLWDhoQW1zekdIU3A1WG9xc0xqRjlQME9fWjE0clZLc01qY3lheDBPV1lGcmRPN050Qml5Ry1BNDVDNl83X1h2dXpBdGlWNHFRQzlfX2VESDh1bm1rUUp6QzBfRC1XdGlzamlzd2hHMnNvTDlibkhMQWxKZ2ZwWDdlVUpIWW9nbzJfSWZn0gHnAUFVX3lxTE9ZMmFyTXJfQWZiSkU5VVlzd1k0UU9nTjFfX3dkMDJDSTMxcmIySmJiaVVZNUZXYmVSZnVQbkVWRnJtQ212NEVITFlWQk91WEZzczJSbk5kdW5CbmlMRXlxOHBsYVg3Y2VpN0xlTWQ2WGVSVHMyUU9Fc1pvM0t2Ujh2Mjltb2x5cFB4aWNqSk40bFMyeWxjcFVFX0RqbWpMS09QeE1OZmplNGpFeHZaMGp1NHdFckpVeTlRTU9MQUx5STcwZUpBV3NDRDhJYnE1V0lXd3FqOUFLMDI4Y2VGM1RBalRqdFgxRQ?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Tokoh Masyarakat: Penyelesaian Kasus PT.BDS Serahkan ke Pengadilan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmJJWlNsOWRrNFg0ZlljTXlRY0ZIemkzVzNlbnJ1dGpqbXZOMEFTN1NJTmRtZmJVNHJtcTJJYUFISGpsVE0yYlNaalQ5YjRobGJBU1pkOXZzZEhfODdPMEU2UktvMXNRODBCV3kzZWFRZ1ZrQzlqbEE4dlpVVGVvMWpNaTY1RElJUzBZREpDbjlzb1o5ZUZxMzNyZ04zYklaazBGTTV3aVoyS3NnOGVhS2wxeVY5Zw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Bentrok Kelompok Bermotor di Underpass Padalarang, Polisi Buru Pelaku - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGhfbl9DdXlNVjE4YVhMa1VVVkZNN2JqRVJINm92Qi1XcGlqYkpvQUpVNFdXU19NRF9sbEd6dnRLQS10VWU0ekhQOGYwaFVJalBxM2hlbmk3dEtaaDViZWVmV2NsZTE5U2luX3BlbkhGWmNIeTBtTmR5QjNxQXEyUUg3LUJpT0FOUXdod1d0R19vT0Y1eDhqNjc1Ny14dXE5ZFFfeG1JV3dYdUtRLXFTUHpKNm52aTJkVjY40gHAAUFVX3lxTE9ickVUenRKYlhFSHJBN1pxX2ZCcEVsZWtOZU9XTXRyQjdGTXdmbVRwN0doS1lScXFiU3FjMHpIcFBJUGdlS3hHcWw5NGhDMUtOSEN0VDBhb2Uyb1RvOGpZLVY2U2RjM1dJZGxwVXpGVHF1dU4xY05qbnJHYWZralk5aW9kRTFXQkZtTDdPbjNoYjRQbkdzVnJEZ0NNdGhRN0hLZ2k1VHVPYWNVRlllaTMxZWF3Vnk0bVFJcFdPT3BNUA?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     22,
-     18
+     24,
+     19
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      5,
      1,
-     9,
+     10,
      2,
      0,
      1,
@@ -483,10 +483,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Dadang Supriatna Dorong Paguron Pencak Silat Dapat Dukungan Anggaran - Inilahkoran.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1VMSi04RDRCZzJ2VFYwQS1TeWJPbHd0WFVvdzNSMmwtRTFuTUI2ZXVNWk05TW1BZWRqQW1nYnhTS29CWldyV3VjZUFWNDVHY0pZaXZ6Ul9ISWpGQXoyQmd3THVzUW8wYlhHQ0l3TnFUWVUzaXJKYlNPRlh1WlJZNG1PV0UzMVJiaDBDQ19DWDhYemg3SWQ1TjlNaw?oc=5",
-     "r": "Inilahkoran.id"
+     "t": "Kasus Bullying di Asrama Telkom University Viral, Mahasiswa Ungkap Awal Mula Video Menyebar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXlOdVB0aGlscVFKZ0ZIOHJCMmxRR3dRR3JxZVFmVGw1djRuaXlicklkNmZIT2JGME9FSU9qLXhreVNETmRKYm1PWThEa3FIOXltNEtmc3dleDNEQk1xWXptSWJ3UzVBck5BaHY3LWhQWWJFNmp6WFdLcHFvR2hYZHlrNF9pSnEtSGdvbGNmaXlsQ2pDRkEwVFpPa2xrMkpldTZ0NmZaZENBR1c5aXM0blNFUHZsdDJUUUIwU3ZmbzRFekJUX0FueEY3Y24xTHlpWWJ6dHJodVU?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     3,
-     18,
+     1,
+     19,
      6
     ]
    },
@@ -527,9 +527,9 @@
      0,
      1,
      0,
-     1,
      0,
-     1,
+     0,
+     0,
      0
     ],
     "g": [

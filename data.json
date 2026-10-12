@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T06:06:13.917242+07:00",
+ "updated": "2026-10-12T07:09:50.809146+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   19
+   18
   ],
   [
    "Kompas.com",
-   14
-  ],
-  [
-   "Ayo Bandung",
-   12
+   15
   ],
   [
    "Inilahkoran.id",
-   10
+   12
+  ],
+  [
+   "Ayo Bandung",
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -39,10 +39,6 @@
    8
   ],
   [
-   "Radar Bandung",
-   5
-  ],
-  [
    "Radio PRFM",
    4
   ],
@@ -52,6 +48,10 @@
   ],
   [
    "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "Radar Bandung",
    4
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Ajak Semua Pihak Tekan Stunting - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iWmVBSmlQUzRORnhPclBKZG9CMWduZ1dfTEczXzFqZkluYTNyNldvLUY3SDc1TEN0OFJmUzJPVVBBS3BTS2JMQ295MEV1YlBoMGlsTHItX0ZOS3ZqRDhOLWFyN2xjM1h3dWZQRS15TmhOSHRNdnBuVmg4bUFEdw?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQdIBvwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQQ?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "KDS Gandeng Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFhPSjJvRFFXaFJMUGV6VWpFaU96UjAxMmZ1eDNqazJTVFNPVm5FaFduUkZSc1NIRGdfZEhLeHBaS0JNSE9Va1VaUzFyN2JwdWliYkc3ZTlQOFFwWTNhSktTMW9JR21zSzdIWDBaSnpCUjB3dm1vdGI2dmJ3WE5xT2NTUUF0TkFZZnVLR2R4bC1haVh3akJDQ3U2TDc5dmFzXzB1MkxuTGFwQkQxcTNqTG5FZTNrVkR1ZTJMdFRPVndQajlja0cwbm55LUpqRURlenRv0gHTAUFVX3lxTE9IWE9KMm9EUVdoUkxQZXpVakVpT3pSMDEyZnV4M2prMlNUU09WbkVoV25SRlJzU0hEZ19kSEt4cFpLQk1IT1VrVVpTMXI3YnB1aWJiRzdlOVA4UXBZM2FKS1Mxb0lHbXNLN0hYMFpKekJSMHd2bW90YjZ2YndYTnFPY1NRQXROQVlmdUtHZHhsLWFpWHdqQkNDdTZMNzl2YXNfMHUyTG5MYXBCRDFxM2pMbkVlM2tWRHVlMkx0VE9Wd1BqOWNrRzBubnktSmpFRGV6dG8?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     14,
+     15,
      2
     ]
    },
@@ -428,7 +428,7 @@
     "w": [
      1,
      6,
-     13
+     12
     ]
    },
    "trend": {
@@ -454,7 +454,7 @@
      1,
      3,
      3,
-     6,
+     5,
      0,
      0,
      0

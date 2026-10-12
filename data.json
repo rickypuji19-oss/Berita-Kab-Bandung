@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:08:25.676381+07:00",
+ "updated": "2026-10-13T01:07:08.930756+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,24 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
+   "Kompas.com",
    21
   ],
   [
-   "Kompas.com",
-   19
+   "Tribunjabar.id",
+   20
   ],
   [
    "RRI.co.id",
-   12
+   13
   ],
   [
    "Ayo Bandung",
    11
-  ],
-  [
-   "Inilahkoran.id",
-   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -35,12 +31,16 @@
    10
   ],
   [
+   "Inilahkoran.id",
+   9
+  ],
+  [
    "jabarekspres.com",
    7
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   3
+   4
   ],
   [
    "Radio PRFM",
@@ -51,19 +51,19 @@
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
    "bandungraya.net",
    2
   ],
   [
-   "SUARA PAKTA",
-   1
+   "Galamedia News",
+   2
   ],
   [
-   "Tirto.id",
+   "Pikiran Rakyat Koran",
+   2
+  ],
+  [
+   "SUARA PAKTA",
    1
   ]
  ],
@@ -167,16 +167,16 @@
      "r": "Inilahkoran.id"
     },
     {
-     "t": "Jelang Pemilu 2029, PSI Jawa Barat Gaspol Tambah Kader, Target Hampir 300 Ribu Orang - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORk9raEwxdmVsNEpJTE0wdlJJX3RVUzlkbTRnVXZqTWVYeVhvODcxVGt3WVRMVXNydFFyNXlueDBDUzJOUmxZUTRCVzJlXzI1XzdVZFNGcm5UVENWay16M01VR2hwQzNJaDNaUElBM0MzNFYwNEh0RUFoMGpWemo5Y0NNaFl2RXlGVGozVi1iU3ZoX2hHMkwyUHg0NF9hRUpxWC0zTUJvUWxKSl9EOFVUeGFsckJjZmo0NlhJZTdOUGxCZl9ZUE1xNDNsTi1rQQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Dadang Supriatna Dorong Paguron Pencak Silat Dapat Dukungan Anggaran - Inilahkoran.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1VMSi04RDRCZzJ2VFYwQS1TeWJPbHd0WFVvdzNSMmwtRTFuTUI2ZXVNWk05TW1BZWRqQW1nYnhTS29CWldyV3VjZUFWNDVHY0pZaXZ6Ul9ISWpGQXoyQmd3THVzUW8wYlhHQ0l3TnFUWVUzaXJKYlNPRlh1WlJZNG1PV0UzMVJiaDBDQ19DWDhYemg3SWQ1TjlNaw?oc=5",
      "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Wujud Komitmen!!! Acep Ana Kawal Aspirasi Warga Babakan Peuteuy Hingga Tuntas - liputan4.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
+     "r": "liputan4.com"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -194,7 +194,7 @@
     "w": [
      3,
      12,
-     2
+     1
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
      0,
      0,
@@ -237,22 +237,22 @@
    ],
    "h": [
     {
+     "t": "Foto : Temui Petani di Bandung, Utusan Khusus Presiden Mardiono Serahkan Bantuan Traktor Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9YQzdON3ZpdFV3WWExOTVLN0lITlJNRW9jUUFLbGpKZ2xMNEdBN000eDUyUGtJaGUzT3huekR5MGJMdVBMXzZCbkVBME80YjhXLVJvNVlNSWt2SHhRY01IZExYWFBPelRWYXREN19nYXZ3QmFFb2RmY3cxd3Jpdjh5TWtwcEctLTVhSkVwbUxwaGxzX3NWWHNscVg5RllVZXpTOWMwb1dVNHhQWmJIUzJsdUF4dTUyVEpYTU1vcGprM0pIZHpPbmUyVTRyZw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Temui Petani di Bandung, Utusan Khusus Presiden Mardiono Serahkan Bantuan Traktor - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2Q0TnJXWGRySmxvR3FjM3Z3R3Nkcmt5T0xwOUpnODVrY3E0OEdsOWRWbnBIR08wUTlVclRYTF8zV21mUjBJLTcwUlBoMFFrazV4aWRTSHBpN2RUc3FZMHBGMEdOM3NIRnYwZDNBcTZ4WGZ3Z0dvSHFCU3dIeEtUc2lwRWRIcTd4SGlmVDdvakFRLVJwNmo2QUJJYWk2ZGNycndOSllrOUtqaUNWSXhvZXYxN283TVJvbzE2NXNEWTkwQVk?oc=5",
      "r": "Kompas.com"
     },
     {
-     "t": "Utusan Presiden menyerap aspirasi petani dan salurkan traktor di Bandung - ANTARA News Jawa Barat",
+     "t": "BRI Perkuat Ekonomi Lokal dan Sport Tourism saat MotoGP Mandalika 2026 - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFCZHcxQ2lSRDJyRklZaUVYVmFfNFktY1ZrWEJJaWZtUkFoOElHRDhkaVdROEpLSUlDUWI4WWRsNTA4M3Vjcm9ZRTQxcE1JbFZSQTJXXzl6UXhOZTVJcmlqZjJzQXRTSzhYWm53RmZkZ0NHdVVDdUgwNzV5RnBKRmtjRUx6dWh0M0ZuMWVWakR5dzRMNFRPY2I2ZHd1dms4cVphRnVxQ2ZFMEdTQTFrQXo5MVBId9IBuwFBVV95cUxPMHlSUFBibEd3VTFTLWhiTGVyOEZGTmpHZEJiOFRXQnM0VDUyLWEyZzRJX05mSWhKazZIR0s0Q042QUltSXV3dVBMc0dSR0xRM2Z4aHhjQl92cGNLSGR1LTBfVEFYVzUxdkhVLUZGZnZxN1JwdjdGeThsNnE2UFdkUGFBRTFndzBEZC1VTjlhYjQzYzJqS0RNWmRWSERLWUI3LUVRQS13YTFKZW50VnZNbnU2OWFyNGdZR2tJ?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "UMKM Kabupaten Bandung - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WWUhlRVN2M1ByNG05SXFURzdhNHQtQ1I0VUIyVHFIMTBEdm9RRE1acWZKeTV1VUV3cmxrd0xidy14YmRZZXBCWGZMRHpQMWdVQzl4bzBudVJvdFRXNy1XaGh1M3ZJQQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWFuUzFrMVl5cUtjeEQyV1R6SnlNYV90WGJDSWhnd1NRa2xNQkowaDhEdzdyLVJVeEhEN2h4SlVtb3Q5ZkRfb1lkZmltLXdPdGNWNWhvTXFFZGVKMjk5aW9WQkZCNkswRkpOYzRRdDZuWC12cUM4cVp2VnJyc0FHOUhxTGx3eXJra005Y1FOV0ttTF9aUHk1anlwNGc1NFdSeTV1U2FObUs2MGF4d0J1NDJLYnp4d2c?oc=5",
+     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     7,
+     9,
      0
     ]
    },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tVaTdfam1tUFVwa0Z2YTNzbVBIUm41RkNRbE9WWVVLaXA0Z1Z1LUtyek1LTTFGYk9ndkd1c3RRMzNOejFXX05vX3VVY3hESmZiOGV2SlZRZTV1SFNoZk5pVE1DSmRNN184Ry1jVzU1MldWTWhfRmJid0dJbUR1czA5WHpjOVc5OV9CUUNldm80VjlTTk54UmNFc0dOam4zNi1SbW00SERWaTRTVWdJVFNWUnpUVFhuc0loM3FobVZCUQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Proyek Jembatan Munjul 2 Dikeluhkan, Warga: Kami Terjebak 2 Jam - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3F1a1lmbHpqWmIybWNaaVRTQ0hxQzhtNjNRQU5yVUNvOWlzOWNoS0pMWXVTQ2hQZWhpTTNWNnZueUNyYmFQN0dLYkJYZzNmX2NqQ0R5dGV1SVNoalZGS0w5RmhObmswMU1uNWF3WWVZdW02NmVJRlVlclBVQ1Z5LVZZb1NrSnZQYVJmRHB4Mm5HQ0dzSDRQY1huVWl2aWpNalYtV1hJcWpad9IBrwFBVV95cUxQeEVoQXFmRHVuZ29qdk5zU1F2aTNUNzhmWjlSZXk1T1JtLUtSbG9vTDdUUzlPT2o4czNIdzdyc1FIY08tNEFONURwM2F0RWNscFlkWC1hZmp0YVMwZWxkNF9xc1NQd2NYMVkwQjRvMkY0eUhWMUFaNjRlclFsR0ZqNHY1WUJpaWRmUEE1TDVPaFI5Zl9OQV9mUWtZT2U4cFpsRkM3WFhITk91N2w3aUZv?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkNhcG5sM3p6TWNrU2trVGNIalFSNHRUMTJneDd4ZXlhU1JvOHo3NjZlUWFHNkVFS1F6cy00cGdoU0pGUmlEMEFGenctNWtUeHZCS1ZhS0lTczRkUDZfblFCeGFxYXoweUtEalM4RFFvUjd1aEhqemFzbEpwYURIa0pfSDJXNmstSEVBQk9aUWF4cnM1aTVrZlBEU2J1cTNpMlNvak5YNFpiYTZSbDJYR0RmWTZxOXBoaENBVzFQLUR3Z2Y1MnI5dzhkcWY?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Macet Akibat Perbaikan Jembatan Munjul 2, GEMA Kabupaten Bandung Desak Perbaikan Dipercepat - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU3d6UmVQdEdqZ21nV2g0WnZUdkJUOExFd2lUWkV3emZjSl9VTTI5RmY1M1ZTT3dHV3lmTkZ2UjFlamJwZUdmWDVOT3J3b0w5ajlaaGthSDA3dzVwZGRxWE5PSXROQzFwMG1QeEdhaV93bW95dHhjSktHTXdVQ0lRRW5VWERBdXh2VnlGS005cFJjZkgtcDctcVo5QTF5WU9xX1BWaV9VODYtdkJqTFpDT1RGc3dYY01Md0RTbzJBLU5tdzBpU3hLQVhTWGhZRFE?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
@@ -426,7 +426,7 @@
      2
     ],
     "w": [
-     0,
+     1,
      6,
      15
     ]
@@ -447,16 +447,16 @@
      0,
      0,
      0,
-     0,
+     1,
      0
     ],
     "g": [
      3,
-     3,
+     2,
      5,
      1,
      0,
-     5,
+     6,
      0
     ]
    }

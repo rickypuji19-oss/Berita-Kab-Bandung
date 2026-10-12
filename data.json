@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:09:04.624651+07:00",
+ "updated": "2026-10-12T11:09:39.269464+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -19,11 +19,11 @@
    16
   ],
   [
-   "Ayo Bandung",
-   11
+   "Inilahkoran.id",
+   10
   ],
   [
-   "Inilahkoran.id",
+   "Ayo Bandung",
    10
   ],
   [
@@ -264,7 +264,7 @@
     "w": [
      2,
      6,
-     2
+     1
     ]
    },
    "trend": {
@@ -289,7 +289,7 @@
     "g": [
      1,
      0,
-     1,
+     0,
      0,
      0,
      0,

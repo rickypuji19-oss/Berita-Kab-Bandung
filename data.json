@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T13:11:22.417310+07:00",
+ "updated": "2026-10-12T14:16:16.354262+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   19
+   17
   ],
   [
    "Kompas.com",
-   15
+   16
   ],
   [
    "Inilahkoran.id",
@@ -36,11 +36,15 @@
   ],
   [
    "jabarekspres.com",
-   8
+   7
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   5
+   4
   ],
   [
    "Radio PRFM",
@@ -51,19 +55,15 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
-   "Gerbang Patriot",
+   "Jurnal Soreang",
    2
   ],
   [
-   "opininews.com",
+   "ayobandung.com",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Aktivasi Identitas Kependudukan Digital (IKD) dalam kegiatan Car Free Day (CFD) Kabupaten Bandung. - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0ViZEZIZ0NpZy1rUVpIWGtBVHNIQ2Y0VVFfX3lreTFaMVZqY3VWZDlLbmxaeUhFZElpQkhRV043RHNnczFoZENrWFYzMTAtajlqYWM3ajlabE9TMWROd2ZXY0ppVUllVnZxNXRRYVF0OVhKbl9VU1lsTmRwS2o5YWp1akZVU1BDMG1xQVlLUGFqREU3Tnc4S2daNFd6RzdqZ2g5VXVNT0tGVnlFOTl3clViRkpEMG9NY1ZoN3V4UHZyRFFPSWFyM0dJbDB5RTNwVERPdXlzenk3NTRrRGNZTFBXVko2UQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "t": "Event Penca Silat Tingkat Nasional Sebentar Lagi Akan Digelar,, KDS Dengan Tegas Kab. Bandung Siap Menjadi Tuan Rumah - bandungraya.net",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYjk3czVQZW8wUnNZaC1pcUlzc2F3NXZlMVFNVENZUDdSWVhlaFBTNTlnVU1FVENfWnR1RE83TDdzSVA0aFZDX0t5amZSNWxVQlUza2dIc2ZuUm1UQmY1QlhlYm9CWUtkZEYxdlhyb1c2QlBqRExzYWxVNFl6YkVXWWlXZ29kOUNMVG5PZmZlTVVlLXYxQTNmQUwtLVBfejJmeFpNLUJZbHotY2dXNGw0NmZnRUx4N0F6WlJ5N1Z3ZWVGc1RjX1d5WnZMX3V0TEF5WnNyNGlJdFhRa0lLcHBV?oc=5",
+     "r": "bandungraya.net"
     },
     {
-     "t": "Pemkab Bandung Ajak Semua Pihak Tekan Stunting - Inilahkoran.id",
+     "t": "BKAD Kabupaten Bandung Evaluasi Perubahan APBD 2026, Yana Rosmiana Fokus pada Akuntabilitas Anggaran - Jurnal Soreang",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iWmVBSmlQUzRORnhPclBKZG9CMWduZ1dfTEczXzFqZkluYTNyNldvLUY3SDc1TEN0OFJmUzJPVVBBS3BTS2JMQ295MEV1YlBoMGlsTHItX0ZOS3ZqRDhOLWFyN2xjM1h3dWZQRS15TmhOSHRNdnBuVmg4bUFEdw?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWF5R2pJTS13bHYwR1E3a1JOZkpLSjZWZ0VPaEpvVUZlejI3MENINjM5OFhOb1pnMmMyS3M4bm9FcXE3ek5xRy1fSkhEYmxtQ3hTbEdDUTF3THRnTTRhQW84YWJFOTZNSGYycEFOSFZRY1JIUHktTkdEZ2ZTNEZ2T3BYME1kYlkydUNxQWVFVlRwMHA2ZVVpVjduRk9ZNFY2WGVGTzA2NjFIX2h1dnpMOHlEd1hqbm4wbmVUTjJicGxXZjM0dGdRNFJlcHBjMUN6a1dVeVBEWW05RU1NQUdGY29mdmpYY0ZVOGRFSTFoUjZTVjDSAfgBQVVfeXFMUFBiYkpQZkxQOU1BLS0xVTJ3c2xDbm5DQm5SMGsycWxWXzh0aXZtMG5MVkNHemxaa2VqZzZpSHh5c0UyTE1PcEp6UEtlYUNWX2FzYkJ5TDlyWE1VcUx5emlkdGZ6bTJrWEJZMmRlMmQ4d1hYR0liN1NQSVNHOW5LZF8xdEpfSFc5S3RwaWFFazFBZFdJaDBoOVFlTDMxTWVxQktPYWFwdUp5cEZHc3dZb01DaUVaR25YX3hickxRZGROSGV0eFZLaE5EdUJJSnFPOFFTUUtzQ1RHMnVOMkFlSGtkdEtaYWthY0xDN2swUGVTMC1BTk05cnU?oc=5",
+     "r": "Jurnal Soreang"
     },
     {
-     "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
+     "t": "BKAD Kabupaten Bandung Evaluasi Perubahan APBD 2026, Yana Rosmiana Fokus pada Akuntabilitas Anggaran - Jurnal Soreang",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGJiSlBmTFA5TUEtLTFVMndzbENubkNCblIwazJxbFZfOHRpdm0wbkxWQ0d6bFprZWpnNmlIeHlzRTJMTU9wSnpQS2VhQ1ZfYXNiQnlMOXJYTVVxTHl6aWR0ZnptMmtYQlkyZGUyZDh3WFhHSWI3U1BJU0c5bktkXzF0Sl9IVzlLdHBpYUVrMUFkV0loMGg5UWVMMzFNZXFCS09hYXB1SnlwRkdzd1lvTUNpRVpHblhfeGJyTFFkZE5IZXR4VktoTkR1QklKcU84UVNRS3NDVEcydU4yQWVIa2R0S1pha2FjTEM3azBQZVMwLUFOTTlyddIB-AFBVV95cUxQUGJiSlBmTFA5TUEtLTFVMndzbENubkNCblIwazJxbFZfOHRpdm0wbkxWQ0d6bFprZWpnNmlIeHlzRTJMTU9wSnpQS2VhQ1ZfYXNiQnlMOXJYTVVxTHl6aWR0ZnptMmtYQlkyZGUyZDh3WFhHSWI3U1BJU0c5bktkXzF0Sl9IVzlLdHBpYUVrMUFkV0loMGg5UWVMMzFNZXFCS09hYXB1SnlwRkdzd1lvTUNpRVpHblhfeGJyTFFkZE5IZXR4VktoTkR1QklKcU84UVNRS3NDVEcydU4yQWVIa2R0S1pha2FjTEM3azBQZVMwLUFOTTlydQ?oc=5",
+     "r": "Jurnal Soreang"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     1,
-     33,
+     2,
+     31,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -237,12 +237,6 @@
    ],
    "h": [
     {
-     "t": "UMKM Kabupaten Bandung - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WWUhlRVN2M1ByNG05SXFURzdhNHQtQ1I0VUIyVHFIMTBEdm9RRE1acWZKeTV1VUV3cmxrd0xidy14YmRZZXBCWGZMRHpQMWdVQzl4bzBudVJvdFRXNy1XaGh1M3ZJQQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
      "t": "Ranca Upas Ciwidey Bandung: Intip Harga Tiket, Jam Buka, dan Aktivitas Seru 2026 - Pikiran-Rakyat.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW52TUg4dzJwRy0tazRlTDFiSmdweTRDOUVRNmc0eXVmTHVndlBYMnFmb0tFWmt0WGlIaThkdTM4UjljcUtHRElzWHdMNEZQdTlScVJmd1hLbzhMQklHV09yWXB5R0hFYUhHQlBoUVlwN3FSOUVaRE10WWFUOU8taEVObkphaEc4d1hGbE5PcTlpanptdVVpYy1EbENjOHJJRE0xR3I4UVBmME5DdzBuWjctTHBjS0E3SXkzeGxLNDh0czcwYmZiaHgtSXp6QdIB0wFBVV95cUxOTmdkb0pSTjFTYi0wc1d6TzZYWEJsR2ZHckpsUW5GTW1yNzNqN3kxYTl4cGJKclNRb2dXbGs3bC1hOEpXUWh1aC1kVDg2a0JKVDMwcHNBMEY5cTZXazh4QVhia0J5UEtPcVIxSVRuU3ExMnhhN21jNDhvZGtZeXNoODZTOWdIb0oyUFlFYXJLRG92Q005UmRBS3JtRG9nWHdKTkJobnYxUEYxazUzd2JGNzBTNFVycXUzMEZpc1hOQURpLTIzeWVNYjNtYzhHTTZPcVVB?oc=5",
@@ -253,6 +247,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlo2ZTFhX2IyV0VzYVJFQnpEdjRCenRUdWJtSDNZRV9wTEtxSzlYME1jUy1lNm1UVHFUcVQ0LXNFb1NqTk5lVm56Rlpnc0VxTFZ6eFVSTG0tQ19SdkJWVl9DWjM0amJMMUlSa1ZKRHdWUVVpS0g2Z0RpT3JEb1pLSy1vX3hiSGcwYW9tSTRrc0ZteEpLUkxJMmZFb0VFeHEtNVRNMURzUFdXUGFkcmQyajJLbm9QQjB6MjI3SVRwUjRRZVFCZDZMT1lsdUQ?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "IKA ISMEI Himpun 190 UMKM Jabar, Dorong Akses KUR dan Pendampingan Usaha - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3pGZzJ4MndwN0lhbEJaTi1VaVkteVN0eXBIMlNhV2VobExvaWRfbVpNOXdkdURNekZZMm04Q1pyVFZsbk5CVkJqVVhEeUlpRU5JOTJOczhxS1BBek45bWV1N3VqVk0waXVhb29BdEZXTWxXQWNwcGdGb1B4OGdUS1JTel9IN0ZXM2w3NWtOWXBNRHpWaXFESWszNF9ybDhLbW5tbjE1eVdocHhCdzNkMkkyVkkxUlEyLVlQTDZkdw?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     7,
+     6,
      1
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      4,
-     21,
+     22,
      19
     ]
    },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "DLH Kabupaten Bandung Gerak Cepat Rangkul Perguruan Tinggi Tangani Sampah Hulu - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkZCYmpzZ085WEhNZFloMDNfODFTUmJVaTdSdzR6NHlET0JjSXJZTXBCc3lEYUZMS3lTM0oxaE9Gb1JjUFVqY3hHd1phcFpkaG90STZDRnNJeEIxcVlTYXFyN2hhaEprSE9nQnl3bC0yT01EZTBUb2lmRlM3NWQyODhXS05FR2Q4RjliSkNTbHZiMWNOOXlNU1puUXVUTDdnbDM0ajYyZWU5eXFmWE1nUmRkSXU1R2VwclYtX0pXeS16Rzcz?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polisi Periang Itu Kini Jabat Kapolres Surakarta, Mbah Con Kembali Bersama Masyarakat - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVdSR2tWX1Y1SXpQN3VhMi1YeHdqY2I4RXlmNFhKd0JDcE1zUy1WYk9HWWU3NllQVS1BWmZ3UDVYV3Y4b09yZ2k0UmJrOTZ2ZWNLSGpiaG5HaDY5OVFoUllUemJFeC1fUndsUUlqd2drMF9icVZJXzhXX1FrbmFUNXlIczhhMHdJallyMXdBTFpHNUpDblIzYkRDaWwzUTNfWTFUaXBaS01fc3JjUGVKLQ?oc=5",
@@ -480,12 +486,6 @@
      "t": "Jaga Nama Baik, Satgas Bobotoh Dibentuk Kapolresta Bandung Kombes Pol Tri Suhartanto - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFpvTWN5SnMxNGdfUm9ya1VLZUNRMm1GenZZeTVtQkVCZk84OVlqQ0ZteEpid3F5X3hIdmJwdjl3aUpwUlVTeF9NeGRjaXoxalJtX3R2cE81YldCc3NUZGQwbFN1Sml0SU05Yk52bEMtWk9EVmxOXzlCSUQyNVczVnBscWgyTEEzOXB1ZkxTd0U1Y09QYXVUUTNOZUtHblNHcHFQWnYxZDZxVnRmTlJn?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Stunting Kabupaten Bandung Masih 24,1 Persen, Dadang Dorong Kolaborasi Lintas Sektor - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
      "r": "Inilahkoran.id"
     },
     {
@@ -509,8 +509,8 @@
     ],
     "w": [
      2,
-     19,
-     8
+     20,
+     7
     ]
    },
    "trend": {
@@ -533,7 +533,7 @@
      0
     ],
     "g": [
-     2,
+     1,
      1,
      0,
      2,

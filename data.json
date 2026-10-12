@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:10:22.627296+07:00",
+ "updated": "2026-10-12T19:14:51.116937+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   22
+   23
   ],
   [
    "Kompas.com",
@@ -20,11 +20,11 @@
   ],
   [
    "RRI.co.id",
-   13
+   14
   ],
   [
    "Ayo Bandung",
-   12
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -36,10 +36,14 @@
   ],
   [
    "jabarekspres.com",
-   7
+   8
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -51,19 +55,15 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
    "Radar Bandung",
    3
   ],
   [
-   "Galamedia News",
+   "bandungraya.net",
    2
   ],
   [
-   "ayobandung.com",
+   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sudah Diatur Dalam Undang Undang, Bupati Bandung KDS Terus Berupaya Langkah Demi Langkah Dalam Menangani Masalah Sampah - bandungraya.net",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVEVhTl94UWF2VlZiY25tR2t2b2JFMHpQa2RYR20zZ0xBakloTF9NVVU1cGJKS2h6czdxb3NPVTk5ZnRaSTNmOFMySF91Nk5WYWtITzFOaFJ0MXdzcHpIVV9ZdjYwM1VIcXFHSWViOU13ODdIb1ZpY1FSZGgxWXh4ZUUtUGdOT3FMNFpNTVhJWmVhSlBXcFU4R0dRR0hYdjNSNHRuM2M5Y2lLamhITDRhZm1IMVctSHhqa3lmSU11M3hENHVETk54Q05zS2R0YVNGdWl1TnpaX0RSM1FZRW85YjZTSV8?oc=5",
+     "r": "bandungraya.net"
+    },
+    {
      "t": "Utusan Presiden serap aspirasi petani dan salurkan traktor di Bandung - ANTARA News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2l0X0ZMcWFONzNjajZZdUxiTnA0QzYxekg4QU16YWF1SXRTeUp2bS1WMHgycFlQWEtnX00zd2NlelY1di1CRGNsX2I3d25nWG8xdjVzbEhINGkzdUtzUE5pMk9peVg3TnpsZWRSYnhOV2NQMzVGZ1FOUWFYcmpPcl91SHZ3MEpaX1JqZElUUFlhRzJWX243Rm5hcVRyY1ZlbHVFRmhqVWdYcFFzaVU3b9IBswFBVV95cUxOV1BXRm5wMW1HZUctSVRYZHZwQXczT3pUZTQ0X3hPWkxzUUhTS1g2bXh6SHFnZjA3a1kzOGRKZmZLVGZncEl5VlNyUEhZX01iTWZMYlhtci1Oem5HdGxBeXRQMThuMzFjRzRKbmFWZGViN3BwNzJwOWZHaFA5Y2JSa0RYUGNFalNzdXVLQ3lmeUZvTFJXd3B4Mkk2UWdKVWZFaUN4YUJKTEptY2dtdXBscXJHZw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTRobEhyZnl5WVpoU194T2FfMTRkV0hBenk3SVB6RUNGNy1fY2NtU1F6N1I0MTJnMG9zNEdJdWc0YVF6TWJCcThrelRLekJQMk1XaDN5czFUaGlwajRCZUhqbGpXRFZ1WTdzRDYxa3JJbUhXX1VjUzVqSFhST0FJVVFRV1VVck9qdXlVeUhfcEZNaUhETDg2LTNtTndBTV8xSVFUX2dn?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Event Penca Silat Tingkat Nasional Sebentar Lagi Akan Digelar,, KDS Dengan Tegas Kab. Bandung Siap Menjadi Tuan Rumah - bandungraya.net",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYjk3czVQZW8wUnNZaC1pcUlzc2F3NXZlMVFNVENZUDdSWVhlaFBTNTlnVU1FVENfWnR1RE83TDdzSVA0aFZDX0t5amZSNWxVQlUza2dIc2ZuUm1UQmY1QlhlYm9CWUtkZEYxdlhyb1c2QlBqRExzYWxVNFl6YkVXWWlXZ29kOUNMVG5PZmZlTVVlLXYxQTNmQUwtLVBfejJmeFpNLUJZbHotY2dXNGw0NmZnRUx4N0F6WlJ5N1Z3ZWVGc1RjX1d5WnZMX3V0TEF5WnNyNGlJdFhRa0lLcHBV?oc=5",
-     "r": "bandungraya.net"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     3,
-     28,
+     4,
+     26,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      0,
-     3
+     4
     ],
     "g": [
      0,
@@ -345,8 +345,8 @@
     ],
     "w": [
      3,
-     20,
-     20
+     22,
+     19
     ]
    },
    "trend": {
@@ -372,7 +372,7 @@
      1,
      5,
      1,
-     10,
+     9,
      2,
      0,
      2
@@ -389,46 +389,46 @@
    ],
    "h": [
     {
+     "t": "Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDBHWkFNQk1INURnSE4tdDdqdk0wZnpueFQwRDR2OVFjX0ZtMXBubDBhXzhMb3JNcEI5RVVmbXBoOXhNbmp2Q01kYTc3ckZuci1RbWFzYXpULUNYOXpyVTVCOXBOa0Y3Sk1haE5lRDdlejJ1aFlpcm04X3FiYzRNZUhUZHJnZ1Bvb2VLcFhsQTN3dVlUMVo4X0JxU1pBaFB2eVY3RVkzSDJ3cG5RdUsxb2FkRldheTJjTlBvNGZsaEM?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Macet Akibat Perbaikan Jembatan Munjul 2, GEMA Kabupaten Bandung Desak Perbaikan Dipercepat - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU3d6UmVQdEdqZ21nV2g0WnZUdkJUOExFd2lUWkV3emZjSl9VTTI5RmY1M1ZTT3dHV3lmTkZ2UjFlamJwZUdmWDVOT3J3b0w5ajlaaGthSDA3dzVwZGRxWE5PSXROQzFwMG1QeEdhaV93bW95dHhjSktHTXdVQ0lRRW5VWERBdXh2VnlGS005cFJjZkgtcDctcVo5QTF5WU9xX1BWaV9VODYtdkJqTFpDT1RGc3dYY01Md0RTbzJBLU5tdzBpU3hLQVhTWGhZRFE?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Dana Rp1,9 Miliar Disiapkan untuk Relokasi Mandiri Korban Longsor Pasirlangu - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3dpOWZHNkZNUHFtb205VFhjUWdNYXo3QktmLUdfamJONFlLZmUyVURHSEtfWjhPN2d0bFRSMzBKQ3RPbURMN0JTb1dodmRZWGFicVBQMk9ySHpzdVpuQnVlMWxuN3I2Nkp0M2lPRko1cXd4dm9GZkJCRnlxR2ZOako1ZHhEMzJOajczZ2RpYnBKMktBZDR0cHEySndMMF95VGU5WG9xX1RTS0J5NkxHNnRUQ3RRR1lmV1k2bE5HYjkyLV9u0gHKAUFVX3lxTFBsUzJhdDE5Wk5HdHJmWmJfMVVnRXhfU0dTTjhhZWY2cS1PVFVvaDlpSi13NEotcFlBNFhwcTllb2RGY1VQWGV5UnM5YU5JZnN2X3hEdjBSazlScDFDZE5pSzV1SjJBRmxQdU1uVmdZX2NGMTRId1A2TWdzYURBWGZxaGc3clotYnhxN2NpUDdWRU03QWNiMDI1WFhkSmktVHJodXpYX01nRFR2MTNfT3JCYlo3c013cTJJTVVwNUJjMmxSU1AtODZqQ1E?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "TPST Cicukang Oxbow Dikembangkan, Operasional Diupayakan Tetap Berjalan - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFJkSzNhaGQtdW1IcEtLWkZLaE1XRTFzcFZ2OU5RZkdBZG5sMENuNnpXc2hTUkRERmVvLWxxc1JxQk1TdHIyM1VQR04tTzlfTkJ2SUJWZHdlNWxIckp6aXRSdjRheExIZ3VVdjR4NVBucVpvZmtRMmFaSy1aazJSNW9FSWhrVERlTU9JSWRvZllZV0p0OFlKMERLM3lSeThRdEcyWWdhalhOV1VVR3JTZkR3X0Rua2VFTEVnbmRWcFM?oc=5",
-     "r": "Pikiran Rakyat Koran"
+     "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=idAzdEeoeQ4",
+     "r": "YouTube Kang Tedi BBK"
     },
     {
-     "t": "Pemprov Jabar Rencanakan Pengadaan 500 Mobile Batching Plant pada 2027, Alat Pembuat Beton Ditargetkan Percepat Perbaikan Jalan Desa - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUDZwRTdFVVZ0ODAwMl8yRC03SXczcm93NlpvX1RRcG9qUWVhcGpHcUhuZzdxbEVfMXhRdEU2V1ZfN0xOUnNYTENkNWVZcldZNkdYZ2FxTUVMTVFhYnY0TjJZQWUwYW52RzhPU1FvbGt4ZlFBeTdfeU1JdWt4Y0FNa0RRUDg0WDVuZWV1RFd6Nl9Vb1Z5NzhTOXB6eUNPVTFITnJlY0NqSV9Fb0JZamNjZFkzSGdldTFHSXB3aEY2djV0OHlPS2RkMkNPRWNYajFOak5ta2w2TUxfYTlpQ0pYWjB4RldUX1N0eEtPU1lybnFqdHBxa21XS0dhWlZGZUwyTXYtQlp2QXFoVVQ1R3Vz0gGUAkFVX3lxTE53TUNVQ3BOSkpnMDRZZ1dzYmw1X1A5VkVwNGtKNlBwRVI2NFNEbms3TjRDSWc0ZFhZVmJfS2syaFJDY0F5cmU0RmdJdFdzR0NyWF9wNlZlMDZOZWc1YjhWZkFnbE5rQXJtbXUyaGszUUVwc2xFRThxTHF0Z042al83NDhsa2ZtV0lxMUlGTEctRlduQ1hoQ2l6YkcyV0hCRzl2VzZNeDUtZ0FicTZjcnFFd095dW1pd2VVQnZFamY5ZzZLb3c1YzM4endFaVFZU2ZIUDBiVHZFcHl6WnBiN2hEQmhxSFhPcXlXRlU1WWI4OHROay1kT0VEcEJSTjlXSmt0dFp6ZXRrbWNYNWJoN29jZDdaOQ?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=sHodnMadkm8",
-     "r": "YouTube AZZAHRA VLOG"
-    },
-    {
-     "t": "KAB BANDUNG RONJATKEUN KASAYAGAAN MAPAG USUM HUJAN",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=FDX9lgSGKbI",
-     "r": "YouTube Bandung TV News"
+     "t": "PENCEGAHAN BANJIR SEBELUM HUJAN KAB BANDUNG#KDM #kangdedimulyadi #jawabarat #banjir #kopo",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=z7x9FinllQc",
+     "r": "YouTube Dedi Mulyadi Shorts"
     }
    ],
    "v": {
     "s": [
      1,
      1,
-     0
+     2
     ],
     "w": [
      1,
      6,
-     13
+     15
     ]
    },
    "trend": {
@@ -455,9 +455,9 @@
      3,
      3,
      5,
+     1,
      0,
-     0,
-     1
+     4
     ]
    }
   },
@@ -471,15 +471,15 @@
    ],
    "h": [
     {
+     "t": "Kasus Bullying di Asrama Telkom University Viral, Mahasiswa Ungkap Awal Mula Video Menyebar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXlOdVB0aGlscVFKZ0ZIOHJCMmxRR3dRR3JxZVFmVGw1djRuaXlicklkNmZIT2JGME9FSU9qLXhreVNETmRKYm1PWThEa3FIOXltNEtmc3dleDNEQk1xWXptSWJ3UzVBck5BaHY3LWhQWWJFNmp6WFdLcHFvR2hYZHlrNF9pSnEtSGdvbGNmaXlsQ2pDRkEwVFpPa2xrMkpldTZ0NmZaZENBR1c5aXM0blNFUHZsdDJUUUIwU3ZmbzRFekJUX0FueEY3Y24xTHlpWWJ6dHJodVU?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "DLH Kabupaten Bandung Gerak Cepat Rangkul Perguruan Tinggi Tangani Sampah Hulu - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkZCYmpzZ085WEhNZFloMDNfODFTUmJVaTdSdzR6NHlET0JjSXJZTXBCc3lEYUZMS3lTM0oxaE9Gb1JjUFVqY3hHd1phcFpkaG90STZDRnNJeEIxcVlTYXFyN2hhaEprSE9nQnl3bC0yT01EZTBUb2lmRlM3NWQyODhXS05FR2Q4RjliSkNTbHZiMWNOOXlNU1puUXVUTDdnbDM0ajYyZWU5eXFmWE1nUmRkSXU1R2VwclYtX0pXeS16Rzcz?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Siswa SMAN 1 Karas Magetan Olah Buah Asam yang Berserakan Jadi Dodol dan Permen - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjZRYzA4OE9pOUJkaHpjSzQwMkhRVXF2TERXUU1XQWdGRWR5bGNwSmlXRXpicGNFQTBidG9PTGIzRGR2T1Vza3JubHlOZzlCbTQxc2VhN0ZqbVhrLTBnb28xc25XMzRZdUtMMFNfNmlsNFJnSXJNeHlzY05sdmR3elhGelJ6R0xQQnpvTDVwRHlKS0NnZGJHS1lxVW1Bb1lLQzdXd0xySUhOVlRXX0FxX1Rjdk1nVGdzMF8wLS1yeVFVeXdm?oc=5",
      "r": "Kompas.com"
     },
     {

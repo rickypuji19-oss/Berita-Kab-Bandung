@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:08:39.579937+07:00",
+ "updated": "2026-10-12T10:09:04.624651+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,15 +16,19 @@
   ],
   [
    "Kompas.com",
-   15
-  ],
-  [
-   "Inilahkoran.id",
-   13
+   16
   ],
   [
    "Ayo Bandung",
    11
+  ],
+  [
+   "Inilahkoran.id",
+   10
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   10
   ],
   [
    "detikcom",
@@ -35,8 +39,8 @@
    8
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
+   "Pemerintah Kabupaten Bandung",
+   4
   ],
   [
    "Radio PRFM",
@@ -52,10 +56,6 @@
   ],
   [
    "Radar Bandung",
-   4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Aktivasi Identitas Kependudukan Digital (IKD) dalam kegiatan Car Free Day (CFD) Kabupaten Bandung. - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0ViZEZIZ0NpZy1rUVpIWGtBVHNIQ2Y0VVFfX3lreTFaMVZqY3VWZDlLbmxaeUhFZElpQkhRV043RHNnczFoZENrWFYzMTAtajlqYWM3ajlabE9TMWROd2ZXY0ppVUllVnZxNXRRYVF0OVhKbl9VU1lsTmRwS2o5YWp1akZVU1BDMG1xQVlLUGFqREU3Tnc4S2daNFd6RzdqZ2g5VXVNT0tGVnlFOTl3clViRkpEMG9NY1ZoN3V4UHZyRFFPSWFyM0dJbDB5RTNwVERPdXlzenk3NTRrRGNZTFBXVko2UQ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Pemkab Bandung Ajak Semua Pihak Tekan Stunting - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iWmVBSmlQUzRORnhPclBKZG9CMWduZ1dfTEczXzFqZkluYTNyNldvLUY3SDc1TEN0OFJmUzJPVVBBS3BTS2JMQ295MEV1YlBoMGlsTHItX0ZOS3ZqRDhOLWFyN2xjM1h3dWZQRS15TmhOSHRNdnBuVmg4bUFEdw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZJMlVzNUNPTGRtUmhSdGQ3UkNTMDlQMnVFX2R2bGRDTThnLU1oWFR5aWdnTzZZZjExZ1RST0I5SFB5dXh2U0lNaDZRTi00YUo2SlV2aUkwTDRlWU1yZXNtdGV6b3ZBT1BxanhpSnpSOWdVd01fbndaa3JpR193dDZKdnpCOF9KbXE4d1d5cWdPUWtxOHRFUTdkTUNuUEgzVXpYaXFOTHhfTTB5eVE?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Perkara Perceraian di KBB Tembus 4.495, PA Ngamprah Prediksi Capai 6.000 Kasus - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQdIBvwFBVV95cUxQLUh0UVBYdHctLUd4MjR2czFkZkVZMkMtRnVQVWhEQUhWLVdiQWtoSmpoTm9Kdi05bEJicVBXZ25DY09iOVJrcWpJS2RYS1VJcTZxUXRaaHU3NlRqM19Ja3AwTUVERWJQeDRLSVBJOFBkaDNpUGh1UWgxV3dwNFd5SnVfdXpzazJUTTFHck1qVFRKdUtiTmVfb0ItYkMtRUNGVW01YkZXSmE3V09DRHhUVlRScUx2Y2NuNUc1dUVCQQ?oc=5",
-     "r": "Koran Gala"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     32,
+     33,
      1
     ]
    },
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     16,
+     13,
      2
     ]
    },
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      6,
      2
     ]
@@ -278,7 +278,7 @@
      "Sen"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      0,
@@ -344,9 +344,9 @@
      1
     ],
     "w": [
-     4,
+     3,
      21,
-     19
+     21
     ]
    },
    "trend": {
@@ -360,7 +360,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     0,
      0,
      1,
      0,
@@ -370,9 +370,9 @@
     ],
     "g": [
      1,
-     6,
+     7,
      1,
-     10,
+     11,
      2,
      0,
      0

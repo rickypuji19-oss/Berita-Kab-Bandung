@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T14:16:16.354262+07:00",
+ "updated": "2026-10-12T15:10:25.315855+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,18 +16,18 @@
   ],
   [
    "Kompas.com",
-   16
+   17
   ],
   [
    "Inilahkoran.id",
-   12
-  ],
-  [
-   "Ayo Bandung",
-   10
+   14
   ],
   [
    "ANTARA News Jawa Barat",
+   11
+  ],
+  [
+   "Ayo Bandung",
    10
   ],
   [
@@ -39,12 +39,12 @@
    7
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Pemerintah Kabupaten Bandung",
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
    "Radio PRFM",
@@ -59,12 +59,12 @@
    4
   ],
   [
-   "Jurnal Soreang",
+   "ayobandung.com",
    2
   ],
   [
-   "ayobandung.com",
-   2
+   "ANTARA News",
+   1
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Utusan Presiden serap aspirasi petani dan salurkan traktor di Bandung - ANTARA News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2l0X0ZMcWFONzNjajZZdUxiTnA0QzYxekg4QU16YWF1SXRTeUp2bS1WMHgycFlQWEtnX00zd2NlelY1di1CRGNsX2I3d25nWG8xdjVzbEhINGkzdUtzUE5pMk9peVg3TnpsZWRSYnhOV2NQMzVGZ1FOUWFYcmpPcl91SHZ3MEpaX1JqZElUUFlhRzJWX243Rm5hcVRyY1ZlbHVFRmhqVWdYcFFzaVU3b9IBswFBVV95cUxOV1BXRm5wMW1HZUctSVRYZHZwQXczT3pUZTQ0X3hPWkxzUUhTS1g2bXh6SHFnZjA3a1kzOGRKZmZLVGZncEl5VlNyUEhZX01iTWZMYlhtci1Oem5HdGxBeXRQMThuMzFjRzRKbmFWZGViN3BwNzJwOWZHaFA5Y2JSa0RYUGNFalNzdXVLQ3lmeUZvTFJXd3B4Mkk2UWdKVWZFaUN4YUJKTEptY2dtdXBscXJHZw?oc=5",
+     "r": "ANTARA News"
+    },
+    {
      "t": "Event Penca Silat Tingkat Nasional Sebentar Lagi Akan Digelar,, KDS Dengan Tegas Kab. Bandung Siap Menjadi Tuan Rumah - bandungraya.net",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYjk3czVQZW8wUnNZaC1pcUlzc2F3NXZlMVFNVENZUDdSWVhlaFBTNTlnVU1FVENfWnR1RE83TDdzSVA0aFZDX0t5amZSNWxVQlUza2dIc2ZuUm1UQmY1QlhlYm9CWUtkZEYxdlhyb1c2QlBqRExzYWxVNFl6YkVXWWlXZ29kOUNMVG5PZmZlTVVlLXYxQTNmQUwtLVBfejJmeFpNLUJZbHotY2dXNGw0NmZnRUx4N0F6WlJ5N1Z3ZWVGc1RjX1d5WnZMX3V0TEF5WnNyNGlJdFhRa0lLcHBV?oc=5",
@@ -91,27 +97,21 @@
      "r": "Jurnal Soreang"
     },
     {
-     "t": "BKAD Kabupaten Bandung Evaluasi Perubahan APBD 2026, Yana Rosmiana Fokus pada Akuntabilitas Anggaran - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGJiSlBmTFA5TUEtLTFVMndzbENubkNCblIwazJxbFZfOHRpdm0wbkxWQ0d6bFprZWpnNmlIeHlzRTJMTU9wSnpQS2VhQ1ZfYXNiQnlMOXJYTVVxTHl6aWR0ZnptMmtYQlkyZGUyZDh3WFhHSWI3U1BJU0c5bktkXzF0Sl9IVzlLdHBpYUVrMUFkV0loMGg5UWVMMzFNZXFCS09hYXB1SnlwRkdzd1lvTUNpRVpHblhfeGJyTFFkZE5IZXR4VktoTkR1QklKcU84UVNRS3NDVEcydU4yQWVIa2R0S1pha2FjTEM3azBQZVMwLUFOTTlyddIB-AFBVV95cUxQUGJiSlBmTFA5TUEtLTFVMndzbENubkNCblIwazJxbFZfOHRpdm0wbkxWQ0d6bFprZWpnNmlIeHlzRTJMTU9wSnpQS2VhQ1ZfYXNiQnlMOXJYTVVxTHl6aWR0ZnptMmtYQlkyZGUyZDh3WFhHSWI3U1BJU0c5bktkXzF0Sl9IVzlLdHBpYUVrMUFkV0loMGg5UWVMMzFNZXFCS09hYXB1SnlwRkdzd1lvTUNpRVpHblhfeGJyTFFkZE5IZXR4VktoTkR1QklKcU84UVNRS3NDVEcydU4yQWVIa2R0S1pha2FjTEM3azBQZVMwLUFOTTlydQ?oc=5",
-     "r": "Jurnal Soreang"
+     "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=heJ7vi2hxas",
+     "r": "YouTube sugeng"
     },
     {
      "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=quv_Fi39Lt8",
      "r": "YouTube SERENITY KOPO RESIDENCE"
-    },
-    {
-     "t": "🔴LIVE Pemkab Bandung dan KPK Luncurkan E-Learning ASN Berintegritas melalui SIMALABAR",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=_E4dKp0IAgo",
-     "r": "YouTube Radio PRFM 107,5 News Channel"
     }
    ],
    "v": {
     "s": [
-     1,
+     2,
      3,
      0
     ],
@@ -138,7 +138,7 @@
      0,
      1,
      0,
-     1
+     2
     ],
     "g": [
      0,
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     15,
+     17,
      2
     ]
    },
@@ -237,22 +237,22 @@
    ],
    "h": [
     {
+     "t": "Utusan Presiden menyerap aspirasi petani dan salurkan traktor di Bandung - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFCZHcxQ2lSRDJyRklZaUVYVmFfNFktY1ZrWEJJaWZtUkFoOElHRDhkaVdROEpLSUlDUWI4WWRsNTA4M3Vjcm9ZRTQxcE1JbFZSQTJXXzl6UXhOZTVJcmlqZjJzQXRTSzhYWm53RmZkZ0NHdVVDdUgwNzV5RnBKRmtjRUx6dWh0M0ZuMWVWakR5dzRMNFRPY2I2ZHd1dms4cVphRnVxQ2ZFMEdTQTFrQXo5MVBId9IBuwFBVV95cUxPMHlSUFBibEd3VTFTLWhiTGVyOEZGTmpHZEJiOFRXQnM0VDUyLWEyZzRJX05mSWhKazZIR0s0Q042QUltSXV3dVBMc0dSR0xRM2Z4aHhjQl92cGNLSGR1LTBfVEFYVzUxdkhVLUZGZnZxN1JwdjdGeThsNnE2UFdkUGFBRTFndzBEZC1VTjlhYjQzYzJqS0RNWmRWSERLWUI3LUVRQS13YTFKZW50VnZNbnU2OWFyNGdZR2tJ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "UMKM Kabupaten Bandung - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WWUhlRVN2M1ByNG05SXFURzdhNHQtQ1I0VUIyVHFIMTBEdm9RRE1acWZKeTV1VUV3cmxrd0xidy14YmRZZXBCWGZMRHpQMWdVQzl4bzBudVJvdFRXNy1XaGh1M3ZJQQ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Ranca Upas Ciwidey Bandung: Intip Harga Tiket, Jam Buka, dan Aktivitas Seru 2026 - Pikiran-Rakyat.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW52TUg4dzJwRy0tazRlTDFiSmdweTRDOUVRNmc0eXVmTHVndlBYMnFmb0tFWmt0WGlIaThkdTM4UjljcUtHRElzWHdMNEZQdTlScVJmd1hLbzhMQklHV09yWXB5R0hFYUhHQlBoUVlwN3FSOUVaRE10WWFUOU8taEVObkphaEc4d1hGbE5PcTlpanptdVVpYy1EbENjOHJJRE0xR3I4UVBmME5DdzBuWjctTHBjS0E3SXkzeGxLNDh0czcwYmZiaHgtSXp6QdIB0wFBVV95cUxOTmdkb0pSTjFTYi0wc1d6TzZYWEJsR2ZHckpsUW5GTW1yNzNqN3kxYTl4cGJKclNRb2dXbGs3bC1hOEpXUWh1aC1kVDg2a0JKVDMwcHNBMEY5cTZXazh4QVhia0J5UEtPcVIxSVRuU3ExMnhhN21jNDhvZGtZeXNoODZTOWdIb0oyUFlFYXJLRG92Q005UmRBS3JtRG9nWHdKTkJobnYxUEYxazUzd2JGNzBTNFVycXUzMEZpc1hOQURpLTIzeWVNYjNtYzhHTTZPcVVB?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Sambut HLN ke-81, PLN UIP2B Jamali Dorong Kemandirian Petani melalui Electrifying Agriculture - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlo2ZTFhX2IyV0VzYVJFQnpEdjRCenRUdWJtSDNZRV9wTEtxSzlYME1jUy1lNm1UVHFUcVQ0LXNFb1NqTk5lVm56Rlpnc0VxTFZ6eFVSTG0tQ19SdkJWVl9DWjM0amJMMUlSa1ZKRHdWUVVpS0g2Z0RpT3JEb1pLSy1vX3hiSGcwYW9tSTRrc0ZteEpLUkxJMmZFb0VFeHEtNVRNMURzUFdXUGFkcmQyajJLbm9QQjB6MjI3SVRwUjRRZVFCZDZMT1lsdUQ?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "IKA ISMEI Himpun 190 UMKM Jabar, Dorong Akses KUR dan Pendampingan Usaha - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3pGZzJ4MndwN0lhbEJaTi1VaVkteVN0eXBIMlNhV2VobExvaWRfbVpNOXdkdURNekZZMm04Q1pyVFZsbk5CVkJqVVhEeUlpRU5JOTJOczhxS1BBek45bWV1N3VqVk0waXVhb29BdEZXTWxXQWNwcGdGb1B4OGdUS1JTel9IN0ZXM2w3NWtOWXBNRHpWaXFESWszNF9ybDhLbW5tbjE1eVdocHhCdzNkMkkyVkkxUlEyLVlQTDZkdw?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     6,
+     8,
      1
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      4,
      22,
-     19
+     18
     ]
    },
    "trend": {
@@ -370,7 +370,7 @@
     ],
     "g": [
      1,
-     6,
+     5,
      1,
      10,
      2,
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Pria di Lebak Tewas Tertimbun Longsor Saat Gali Sumur Sedalam 15 Meter - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3Q2Umt5eTVOZC1Zd0kwQU5Ba0dHWV9SeGpDUXhuV2FiVmpTUTRvTVhiUWw0Ykt6MEkyMHV5cWxxS2EzRHBOaU8yeTN2dXBfa0daQTl1TFVhTGNMaEg4T0RRSmUzQmxDeThMdzE0bENtR0xSZGZjalRVRnNNUFVGSFhQb1BDWGo5VXlkenMzZ2Q1dXZodHRDaE1OSU8xbndXd2prdHZNTk1XQ0ZHZGdHNTV6T2d2bERMMUdla2c2aGFRUQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "TPST Cicukang Oxbow Dikembangkan, Operasional Diupayakan Tetap Berjalan - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFJkSzNhaGQtdW1IcEtLWkZLaE1XRTFzcFZ2OU5RZkdBZG5sMENuNnpXc2hTUkRERmVvLWxxc1JxQk1TdHIyM1VQR04tTzlfTkJ2SUJWZHdlNWxIckp6aXRSdjRheExIZ3VVdjR4NVBucVpvZmtRMmFaSy1aazJSNW9FSWhrVERlTU9JSWRvZllZV0p0OFlKMERLM3lSeThRdEcyWWdhalhOV1VVR3JTZkR3X0Rua2VFTEVnbmRWcFM?oc=5",
@@ -399,12 +405,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUDZwRTdFVVZ0ODAwMl8yRC03SXczcm93NlpvX1RRcG9qUWVhcGpHcUhuZzdxbEVfMXhRdEU2V1ZfN0xOUnNYTENkNWVZcldZNkdYZ2FxTUVMTVFhYnY0TjJZQWUwYW52RzhPU1FvbGt4ZlFBeTdfeU1JdWt4Y0FNa0RRUDg0WDVuZWV1RFd6Nl9Vb1Z5NzhTOXB6eUNPVTFITnJlY0NqSV9Fb0JZamNjZFkzSGdldTFHSXB3aEY2djV0OHlPS2RkMkNPRWNYajFOak5ta2w2TUxfYTlpQ0pYWjB4RldUX1N0eEtPU1lybnFqdHBxa21XS0dhWlZGZUwyTXYtQlp2QXFoVVQ1R3Vz0gGUAkFVX3lxTE53TUNVQ3BOSkpnMDRZZ1dzYmw1X1A5VkVwNGtKNlBwRVI2NFNEbms3TjRDSWc0ZFhZVmJfS2syaFJDY0F5cmU0RmdJdFdzR0NyWF9wNlZlMDZOZWc1YjhWZkFnbE5rQXJtbXUyaGszUUVwc2xFRThxTHF0Z042al83NDhsa2ZtV0lxMUlGTEctRlduQ1hoQ2l6YkcyV0hCRzl2VzZNeDUtZ0FicTZjcnFFd095dW1pd2VVQnZFamY5ZzZLb3c1YzM4endFaVFZU2ZIUDBiVHZFcHl6WnBiN2hEQmhxSFhPcXlXRlU1WWI4OHROay1kT0VEcEJSTjlXSmt0dFp6ZXRrbWNYNWJoN29jZDdaOQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -428,7 +428,7 @@
     "w": [
      1,
      6,
-     12
+     13
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      5,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -477,15 +477,15 @@
      "r": "Kompas.com"
     },
     {
+     "t": "Siswa SMAN 1 Karas Magetan Olah Buah Asam yang Berserakan Jadi Dodol dan Permen - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjZRYzA4OE9pOUJkaHpjSzQwMkhRVXF2TERXUU1XQWdGRWR5bGNwSmlXRXpicGNFQTBidG9PTGIzRGR2T1Vza3JubHlOZzlCbTQxc2VhN0ZqbVhrLTBnb28xc25XMzRZdUtMMFNfNmlsNFJnSXJNeHlzY05sdmR3elhGelJ6R0xQQnpvTDVwRHlKS0NnZGJHS1lxVW1Bb1lLQzdXd0xySUhOVlRXX0FxX1Rjdk1nVGdzMF8wLS1yeVFVeXdm?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polisi Periang Itu Kini Jabat Kapolres Surakarta, Mbah Con Kembali Bersama Masyarakat - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVdSR2tWX1Y1SXpQN3VhMi1YeHdqY2I4RXlmNFhKd0JDcE1zUy1WYk9HWWU3NllQVS1BWmZ3UDVYV3Y4b09yZ2k0UmJrOTZ2ZWNLSGpiaG5HaDY5OVFoUllUemJFeC1fUndsUUlqd2drMF9icVZJXzhXX1FrbmFUNXlIczhhMHdJallyMXdBTFpHNUpDblIzYkRDaWwzUTNfWTFUaXBaS01fc3JjUGVKLQ?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Jaga Nama Baik, Satgas Bobotoh Dibentuk Kapolresta Bandung Kombes Pol Tri Suhartanto - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFpvTWN5SnMxNGdfUm9ya1VLZUNRMm1GenZZeTVtQkVCZk84OVlqQ0ZteEpid3F5X3hIdmJwdjl3aUpwUlVTeF9NeGRjaXoxalJtX3R2cE81YldCc3NUZGQwbFN1Sml0SU05Yk52bEMtWk9EVmxOXzlCSUQyNVczVnBscWgyTEEzOXB1ZkxTd0U1Y09QYXVUUTNOZUtHblNHcHFQWnYxZDZxVnRmTlJn?oc=5",
      "r": "Inilahkoran.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     20,
+     21,
      7
     ]
    },

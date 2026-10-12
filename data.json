@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T03:08:10.535540+07:00",
+ "updated": "2026-10-13T04:08:07.479187+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Kompas.com",
+   21
+  ],
+  [
    "Tribunjabar.id",
    21
   ],
   [
-   "Kompas.com",
-   20
-  ],
-  [
    "RRI.co.id",
-   16
+   18
   ],
   [
    "Ayo Bandung",
@@ -27,12 +27,12 @@
    10
   ],
   [
-   "Inilahkoran.id",
+   "ANTARA News Jawa Barat",
    9
   ],
   [
-   "ANTARA News Jawa Barat",
-   9
+   "Inilahkoran.id",
+   7
   ],
   [
    "jabarekspres.com",
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "DPRD Jabar Minta Kekurangan Venue PORPROV 2026 Segera Dibenahi - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1lWX29qQldCUkpwbUJOTzFpb0xVMWhCNmRLcUNEQk43M01JVlFOdzFXMHlNSkRGR2dUS2hERHdHVGFNNDJvZUJsU0o1ekJQd0tjUkdfR0pCaWpVbFp0OXBnekkxZnNVMjNRcjg0R3JaanFtRnRTV2pzSzQ4NUFiMTJxXzg5RGpmcXhNRFhGZ19LTzQ?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Dadang Supriatna Dorong Paguron Pencak Silat Dapat Dukungan Anggaran - Inilahkoran.id",
+     "t": "Aksi Bandung Melihat, Hailuki Berbagi Kacamata Gratis - www.balebandung.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1VMSi04RDRCZzJ2VFYwQS1TeWJPbHd0WFVvdzNSMmwtRTFuTUI2ZXVNWk05TW1BZWRqQW1nYnhTS29CWldyV3VjZUFWNDVHY0pZaXZ6Ul9ISWpGQXoyQmd3THVzUW8wYlhHQ0l3TnFUWVUzaXJKYlNPRlh1WlJZNG1PV0UzMVJiaDBDQ19DWDhYemg3SWQ1TjlNaw?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTm5sSjlDMmZVR0ZYMmo1WkpkOF85T1hpWl84eTNZQ2o4eGN5aGc0c3BYWW1NVDRuM09hRlM4SkxiZTF4cGk1c283M2dVdEYwek5yNW44RWs1Sm1taFVFTjV4YllzSnRVVFdSaEFCc0UtcHBtYTFndXBLZGNIZVpjTWJvTHNpaFBV?oc=5",
+     "r": "www.balebandung.com"
     },
     {
      "t": "Wujud Komitmen!!! Acep Ana Kawal Aspirasi Warga Babakan Peuteuy Hingga Tuntas - liputan4.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
      "r": "liputan4.com"
+    },
+    {
+     "t": "Ketua Komisi A DPRD Kabupaten Bandung Hadiri SAKIP Award Tahun 2026 sebagai Narasumber - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdERFNmNHWlpmYWVTTjJSSmNKalNONk44MFR4MUNwMGduYUxlQ1JJTGpsNERqVlpJaUdUY0EzSnBUSjgyUnRKYUx4NlBENUxOaFQxSWRxWjZYS0xfdWg5UmhuWWduTXVlOG5YVFk2Q3hrYjljSEFRQWxBbVd2M0NRWUNQdHA4MVNFUHVnZUhXajFuaEJjQVpmS196WTU4Q1lPTEVTbzNqZnJXaV9RTVpUa25rcUpkZ0ZPaUtnRnBlWU1vOW8?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     12,
+     10,
      1
     ]
    },
@@ -244,8 +244,8 @@
     },
     {
      "t": "Temui Petani di Bandung, Utusan Khusus Presiden Mardiono Serahkan Bantuan Traktor - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2Q0TnJXWGRySmxvR3FjM3Z3R3Nkcmt5T0xwOUpnODVrY3E0OEdsOWRWbnBIR08wUTlVclRYTF8zV21mUjBJLTcwUlBoMFFrazV4aWRTSHBpN2RUc3FZMHBGMEdOM3NIRnYwZDNBcTZ4WGZ3Z0dvSHFCU3dIeEtUc2lwRWRIcTd4SGlmVDdvakFRLVJwNmo2QUJJYWk2ZGNycndOSllrOUtqaUNWSXhvZXYxN283TVJvbzE2NXNEWTkwQVk?oc=5",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUtEV1JROHg3aGVnSlNabDhHa1VEVENNcEpndWdvM0h0bVBCeVNFV0VVeXhoNEM2eTNDLVJYU2NHQXhlTHpfU2phYmEyc2dpOU1Qa1Etd0VLTEhFeEc3a2JidVI3QWtiSG5sMllBNGd2WEFfZ1ZOOGpELVFBZkZJME1rVG4yQU5ueWktQmpBM1QzY3lveUcycUlfZXJUUjdLamlJYW5hWWU1WGhUWU5XdzdEUVpyaHpDemxqd1FRWmVSRXZwb3prNWtRNXl3VUNKeVRTR005R3ZsOGpkNVVUbk1n?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     2,
-     11,
+     1,
+     12,
      0
     ]
    },
@@ -283,7 +283,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     23,
-     17
+     24,
+     18
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      0
     ],
     "g": [
-     5,
+     6,
      0,
      9,
      2,
@@ -403,7 +403,7 @@
     {
      "t": "Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkNhcG5sM3p6TWNrU2trVGNIalFSNHRUMTJneDd4ZXlhU1JvOHo3NjZlUWFHNkVFS1F6cy00cGdoU0pGUmlEMEFGenctNWtUeHZCS1ZhS0lTczRkUDZfblFCeGFxYXoweUtEalM4RFFvUjd1aEhqemFzbEpwYURIa0pfSDJXNmstSEVBQk9aUWF4cnM1aTVrZlBEU2J1cTNpMlNvak5YNFpiYTZSbDJYR0RmWTZxOXBoaENBVzFQLUR3Z2Y1MnI5dzhkcWY?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDBHWkFNQk1INURnSE4tdDdqdk0wZnpueFQwRDR2OVFjX0ZtMXBubDBhXzhMb3JNcEI5RVVmbXBoOXhNbmp2Q01kYTc3ckZuci1RbWFzYXpULUNYOXpyVTVCOXBOa0Y3Sk1haE5lRDdlejJ1aFlpcm04X3FiYzRNZUhUZHJnZ1Bvb2VLcFhsQTN3dVlUMVo4X0JxU1pBaFB2eVY3RVkzSDJ3cG5RdUsxb2FkRldheTJjTlBvNGZsaEM?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     19,
+     20,
      6
     ]
    },

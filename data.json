@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T08:13:54.295258+07:00",
+ "updated": "2026-10-12T09:08:39.579937+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,19 +16,15 @@
   ],
   [
    "Kompas.com",
-   16
+   15
   ],
   [
    "Inilahkoran.id",
-   12
+   13
   ],
   [
    "Ayo Bandung",
-   12
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   9
+   11
   ],
   [
    "detikcom",
@@ -36,6 +32,10 @@
   ],
   [
    "jabarekspres.com",
+   8
+  ],
+  [
+   "ANTARA News Jawa Barat",
    8
   ],
   [
@@ -51,19 +51,19 @@
    4
   ],
   [
+   "Radar Bandung",
+   4
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
-   "Radar Bandung",
-   3
-  ],
-  [
-   "Gerbang Patriot",
+   "Galamedia News",
    2
   ],
   [
-   "opininews.com",
+   "Gerbang Patriot",
    2
   ]
  ],
@@ -193,7 +193,7 @@
     ],
     "w": [
      1,
-     15,
+     16,
      2
     ]
    },
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      6,
      2
     ]
@@ -278,7 +278,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -344,9 +344,9 @@
      1
     ],
     "w": [
-     3,
+     4,
      21,
-     20
+     19
     ]
    },
    "trend": {
@@ -360,7 +360,7 @@
      "Sen"
     ],
     "p": [
-     0,
+     1,
      0,
      1,
      0,
@@ -372,7 +372,7 @@
      1,
      6,
      1,
-     11,
+     10,
      2,
      0,
      0
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "5 Tahun GOSEKA, Bupati KDS Dorong Warga Jalani Hidup Sehat dengan Olahraga - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTVILUw0bUVfbWNoQlB2MS10bWk1S2FYbTJiRFVrUE8yZW9Cb1RwRXF5SWM0MHFKLXFfZlZuUUVKc3Qwa214WUxVX29md2RBSmZvOHZwb2J2RVZmNHNlR0ZBS1FpUTc1YmRQWVVGTUd4dTZaa0RwUWxCT0NrcjRCOUdOeDVfOFlGejVFUWk5SnJwOFE1eG0tdGtvRm5QX1B1bnJrZTVNQU81N1B4SEhZenpSbU04WUNtdHdhQmVvLXJnek9JTkt2SA?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "TPST Cicukang Oxbow Dikembangkan, Operasional Diupayakan Tetap Berjalan - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFJkSzNhaGQtdW1IcEtLWkZLaE1XRTFzcFZ2OU5RZkdBZG5sMENuNnpXc2hTUkRERmVvLWxxc1JxQk1TdHIyM1VQR04tTzlfTkJ2SUJWZHdlNWxIckp6aXRSdjRheExIZ3VVdjR4NVBucVpvZmtRMmFaSy1aazJSNW9FSWhrVERlTU9JSWRvZllZV0p0OFlKMERLM3lSeThRdEcyWWdhalhOV1VVR3JTZkR3X0Rua2VFTEVnbmRWcFM?oc=5",
@@ -399,12 +405,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUDZwRTdFVVZ0ODAwMl8yRC03SXczcm93NlpvX1RRcG9qUWVhcGpHcUhuZzdxbEVfMXhRdEU2V1ZfN0xOUnNYTENkNWVZcldZNkdYZ2FxTUVMTVFhYnY0TjJZQWUwYW52RzhPU1FvbGt4ZlFBeTdfeU1JdWt4Y0FNa0RRUDg0WDVuZWV1RFd6Nl9Vb1Z5NzhTOXB6eUNPVTFITnJlY0NqSV9Fb0JZamNjZFkzSGdldTFHSXB3aEY2djV0OHlPS2RkMkNPRWNYajFOak5ta2w2TUxfYTlpQ0pYWjB4RldUX1N0eEtPU1lybnFqdHBxa21XS0dhWlZGZUwyTXYtQlp2QXFoVVQ1R3Vz0gGUAkFVX3lxTE53TUNVQ3BOSkpnMDRZZ1dzYmw1X1A5VkVwNGtKNlBwRVI2NFNEbms3TjRDSWc0ZFhZVmJfS2syaFJDY0F5cmU0RmdJdFdzR0NyWF9wNlZlMDZOZWc1YjhWZkFnbE5rQXJtbXUyaGszUUVwc2xFRThxTHF0Z042al83NDhsa2ZtV0lxMUlGTEctRlduQ1hoQ2l6YkcyV0hCRzl2VzZNeDUtZ0FicTZjcnFFd095dW1pd2VVQnZFamY5ZzZLb3c1YzM4endFaVFZU2ZIUDBiVHZFcHl6WnBiN2hEQmhxSFhPcXlXRlU1WWI4OHROay1kT0VEcEJSTjlXSmt0dFp6ZXRrbWNYNWJoN29jZDdaOQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Perbaikan Jalan Maribaya-Patrol Diharapkan Dongkrak Aktivitas Pertanian - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9mdlJ4WjRja3dQRjBjdV9HaHdJVGVPQjNlYjM3amkzcUtxR3lCdE1qckRtTk52NnRzelZYZ2FHbmo5cUotYmctdHVPR01VSDRGUVFwaHJPalhlREtKaXBWdnZPc0VrSU40V0ZTX2RLZHZUekVoRzlzd0FCakNzU1hRUS1rc19nenRuNFM1YzM1SjMzTVpTYm50ZENxeUt6ZGNIblgtQUJPeThmNHVIdjJBMEc?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jelang Musim Hujan, Jalan Terusan Bojongsoang Terus Dibangun! Saluran Drainase Dikebut",
@@ -426,9 +426,9 @@
      0
     ],
     "w": [
-     1,
+     2,
      6,
-     13
+     12
     ]
    },
    "trend": {
@@ -448,13 +448,13 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "g": [
      1,
      3,
      3,
-     6,
+     5,
      0,
      0,
      0

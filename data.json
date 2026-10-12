@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:08:07.479187+07:00",
+ "updated": "2026-10-13T05:07:08.095726+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Tribunjabar.id",
-   21
+   20
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "Ayo Bandung",
@@ -63,8 +63,8 @@
    2
   ],
   [
-   "SUARA PAKTA",
-   1
+   "Radar Bandung",
+   2
   ]
  ],
  "topics": [
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     5,
-     19,
+     4,
+     20,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     5,
+     4,
      0
     ],
     "g": [
@@ -167,16 +167,16 @@
      "r": "www.balebandung.com"
     },
     {
+     "t": "DPRD Jabar Minta Kekurangan Venue PORPROV 2026 Segera Dibenahi - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1lWX29qQldCUkpwbUJOTzFpb0xVMWhCNmRLcUNEQk43M01JVlFOdzFXMHlNSkRGR2dUS2hERHdHVGFNNDJvZUJsU0o1ekJQd0tjUkdfR0pCaWpVbFp0OXBnekkxZnNVMjNRcjg0R3JaanFtRnRTV2pzSzQ4NUFiMTJxXzg5RGpmcXhNRFhGZ19LTzQ?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Wujud Komitmen!!! Acep Ana Kawal Aspirasi Warga Babakan Peuteuy Hingga Tuntas - liputan4.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
      "r": "liputan4.com"
-    },
-    {
-     "t": "Ketua Komisi A DPRD Kabupaten Bandung Hadiri SAKIP Award Tahun 2026 sebagai Narasumber - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdERFNmNHWlpmYWVTTjJSSmNKalNONk44MFR4MUNwMGduYUxlQ1JJTGpsNERqVlpJaUdUY0EzSnBUSjgyUnRKYUx4NlBENUxOaFQxSWRxWjZYS0xfdWg5UmhuWWduTXVlOG5YVFk2Q3hrYjljSEFRQWxBbVd2M0NRWUNQdHA4MVNFUHVnZUhXajFuaEJjQVpmS196WTU4Q1lPTEVTbzNqZnJXaV9RTVpUa25rcUpkZ0ZPaUtnRnBlWU1vOW8?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -263,7 +263,7 @@
     ],
     "w": [
      1,
-     12,
+     11,
      0
     ]
    },
@@ -307,12 +307,6 @@
    ],
    "h": [
     {
-     "t": "Tampang Terduga Pelaku Penyerangan Bus Persib U18, Baju Oranye, Kepala Menunduk Digiring Polisi - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1BJUDlkVV9zRjVWOHQ1RkJIUmFtNlJhdTcyUmI2Rnh2blg4VFpPeWJ6enhZUzY3YW1uQ080SGc4Ym5PNHJxbk5tUUMycjVGMTRpXzg4dDNIRHNrOXI2UTg2UkpJdWNLOVNWZlZuN2xVdTJ5eUpNb1M1U2hPSW9TbVZwT3QwR0NnLVZxVU9ZWmlkdVJrZ3ZoYzdlaVZuT0h1dmVGeVZwNGtqWDBYNlNZOG9xTEVEZFYtM2ZPelpTejV0bk9Vclo0WFZsbUduVmltTzRCRm9HTQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Razia Narkoba di Cangkuang, Polresta Bandung Temukan Obat Keras dan Satu Orang Positif - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGZfZFUyNmVCa3hnR2R4U01hZG9rWEpZUUZiUU9VY0hOSUtwZkVzc2pnNEdQLWxPZ2xrZWFuSFRjQkFwMzlFN2dhc3ZMTE9EY2l0NXNMaV80UEZWSHBLWDhoQW1zekdIU3A1WG9xc0xqRjlQME9fWjE0clZLc01qY3lheDBPV1lGcmRPN050Qml5Ry1BNDVDNl83X1h2dXpBdGlWNHFRQzlfX2VESDh1bm1rUUp6QzBfRC1XdGlzamlzd2hHMnNvTDlibkhMQWxKZ2ZwWDdlVUpIWW9nbzJfSWZn0gHnAUFVX3lxTE9ZMmFyTXJfQWZiSkU5VVlzd1k0UU9nTjFfX3dkMDJDSTMxcmIySmJiaVVZNUZXYmVSZnVQbkVWRnJtQ212NEVITFlWQk91WEZzczJSbk5kdW5CbmlMRXlxOHBsYVg3Y2VpN0xlTWQ2WGVSVHMyUU9Fc1pvM0t2Ujh2Mjltb2x5cFB4aWNqSk40bFMyeWxjcFVFX0RqbWpMS09QeE1OZmplNGpFeHZaMGp1NHdFckpVeTlRTU9MQUx5STcwZUpBV3NDRDhJYnE1V0lXd3FqOUFLMDI4Y2VGM1RBalRqdFgxRQ?oc=5",
@@ -321,7 +315,13 @@
     {
      "t": "Tokoh Masyarakat: Penyelesaian Kasus PT.BDS Serahkan ke Pengadilan - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmJJWlNsOWRrNFg0ZlljTXlRY0ZIemkzVzNlbnJ1dGpqbXZOMEFTN1NJTmRtZmJVNHJtcTJJYUFISGpsVE0yYlNaalQ5YjRobGJBU1pkOXZzZEhfODdPMEU2UktvMXNRODBCV3kzZWFRZ1ZrQzlqbEE4dlpVVGVvMWpNaTY1RElJUzBZREpDbjlzb1o5ZUZxMzNyZ04zYklaazBGTTV3aVoyS3NnOGVhS2wxeVY5Zw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1ZYzFwaUlfeDMwdkctMGRDQUlFZzB4Yml1XzhSalVqMklYclJMcVZGOHBrdHA2YWhlc1N0MzdMcUNiZFI1aVRMOWgzYUpXMzZBSnA4OHVMbDNSaEFXVG1SenJrdC1PSlVLNld4UVZuWnJOVnVuLWlCQld4ZXJ4TjAxX3hla3FaWVpTY1BCUEFrd1Uzbng5aVBLa2hacVBrbWNzRkVIZHR6VU0?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Polisi Bantu Petugas Gabungan Atasi Sisa Kebakaran TPA Pasir Bajing - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1NNaEhCT1dtRnpVQmkxNnU5ZmZkczRaMlN0ZVlkVUd2YmhVZXI1M1dheC0ydEcyQ0dqV01GQWJoX3RibU4xTXlGLXNzYW1QbEdCTS1CMm5seFQwYUdTNEtWUnlxejY4dk81VWRzVk1Ic1kwRnViRkdkSTUyNFd3UEdndG1MTmZMU2dWOWRNVHJjN2hiWjBBRVlYVmRFdHZsaDU4LXIwOVV0S2lJbFd3?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     2,
-     24,
-     18
+     3,
+     23,
+     19
     ]
    },
    "trend": {
@@ -364,7 +364,7 @@
      1,
      0,
      0,
-     1,
+     2,
      0,
      0
     ],
@@ -374,7 +374,7 @@
      9,
      2,
      0,
-     1,
+     2,
      0
     ]
    }
@@ -427,7 +427,7 @@
     ],
     "w": [
      0,
-     6,
+     7,
      15
     ]
    },
@@ -483,10 +483,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Dadang Supriatna Dorong Paguron Pencak Silat Dapat Dukungan Anggaran - Inilahkoran.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1VMSi04RDRCZzJ2VFYwQS1TeWJPbHd0WFVvdzNSMmwtRTFuTUI2ZXVNWk05TW1BZWRqQW1nYnhTS29CWldyV3VjZUFWNDVHY0pZaXZ6Ul9ISWpGQXoyQmd3THVzUW8wYlhHQ0l3TnFUWVUzaXJKYlNPRlh1WlJZNG1PV0UzMVJiaDBDQ19DWDhYemg3SWQ1TjlNaw?oc=5",
-     "r": "Inilahkoran.id"
+     "t": "Kasus Bullying di Asrama Telkom University Viral, Mahasiswa Ungkap Awal Mula Video Menyebar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXlOdVB0aGlscVFKZ0ZIOHJCMmxRR3dRR3JxZVFmVGw1djRuaXlicklkNmZIT2JGME9FSU9qLXhreVNETmRKYm1PWThEa3FIOXltNEtmc3dleDNEQk1xWXptSWJ3UzVBck5BaHY3LWhQWWJFNmp6WFdLcHFvR2hYZHlrNF9pSnEtSGdvbGNmaXlsQ2pDRkEwVFpPa2xrMkpldTZ0NmZaZENBR1c5aXM0blNFUHZsdDJUUUIwU3ZmbzRFekJUX0FueEY3Y24xTHlpWWJ6dHJodVU?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "PELAKSANAAN REVITALISASI SATUAN PENDIDIKAN DASAR SDN MALABAR 04 PANGALENGAN KAB BANDUNG T.A 2026",
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     2,
-     20,
+     1,
+     18,
      6
     ]
    },
@@ -529,7 +529,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0
     ],
     "g": [

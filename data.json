@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:09:17.534112+07:00",
+ "updated": "2026-10-13T10:08:52.455366+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Tribunjabar.id",
+   22
+  ],
+  [
    "Kompas.com",
    21
   ],
   [
-   "Tribunjabar.id",
-   20
-  ],
-  [
    "RRI.co.id",
-   17
+   16
   ],
   [
    "Ayo Bandung",
-   12
+   11
   ],
   [
    "detikcom",
@@ -39,6 +39,10 @@
    5
   ],
   [
+   "bandungraya.net",
+   3
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
@@ -51,20 +55,16 @@
    3
   ],
   [
-   "bandungraya.net",
+   "Galamedia News",
    2
   ],
   [
-   "Galamedia News",
+   "Bangbara",
    2
   ],
   [
    "Pikiran Rakyat Koran",
    2
-  ],
-  [
-   "SUARA PAKTA",
-   1
   ]
  ],
  "topics": [
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "KDM Tinjau Titik Banjir di Margahayu, Penanganan Sungai Jadi Sorotan - deJurnal.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0RjLXgxWHo0MGVrSi00bUpvWk85VTlsQllseV85VkRUeVdybDVzaHBQejFrakJNZDFaZHh4NDJoM3RiQ0xic3Zydm9aSzBZcUpvZGgyOHBXbms5OVRPN3RBLUY0ck9UQkd3WTJsNVB5SkRkbGU2Q0tEUkFlNlZ3bDhFbU5qU21SQjkwNGItWTBPRUVJTkc3RFdLcDZsUQ?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
      "t": "Aksi Bandung Melihat, Hailuki Berbagi Kacamata Gratis - www.balebandung.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTm5sSjlDMmZVR0ZYMmo1WkpkOF85T1hpWl84eTNZQ2o4eGN5aGc0c3BYWW1NVDRuM09hRlM4SkxiZTF4cGk1c283M2dVdEYwek5yNW44RWs1Sm1taFVFTjV4YllzSnRVVFdSaEFCc0UtcHBtYTFndXBLZGNIZVpjTWJvTHNpaFBV?oc=5",
      "r": "www.balebandung.com"
     },
     {
-     "t": "Wujud Komitmen!!! Acep Ana Kawal Aspirasi Warga Babakan Peuteuy Hingga Tuntas - liputan4.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
-     "r": "liputan4.com"
+     "t": "KDM Tinjau Titik Banjir di Margahayu, Penanganan Sungai Jadi Sorotan - deJurnal.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0RjLXgxWHo0MGVrSi00bUpvWk85VTlsQllseV85VkRUeVdybDVzaHBQejFrakJNZDFaZHh4NDJoM3RiQ0xic3Zydm9aSzBZcUpvZGgyOHBXbms5OVRPN3RBLUY0ck9UQkd3WTJsNVB5SkRkbGU2Q0tEUkFlNlZ3bDhFbU5qU21SQjkwNGItWTBPRUVJTkc3RFdLcDZsUQ?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
+     "t": "DPRD Jabar Minta Kekurangan Venue PORPROV 2026 Segera Dibenahi - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1lWX29qQldCUkpwbUJOTzFpb0xVMWhCNmRLcUNEQk43M01JVlFOdzFXMHlNSkRGR2dUS2hERHdHVGFNNDJvZUJsU0o1ekJQd0tjUkdfR0pCaWpVbFp0OXBnekkxZnNVMjNRcjg0R3JaanFtRnRTV2pzSzQ4NUFiMTJxXzg5RGpmcXhNRFhGZ19LTzQ?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -213,8 +213,8 @@
      2,
      0,
      0,
-     2,
-     0
+     1,
+     1
     ],
     "g": [
      1,
@@ -307,12 +307,6 @@
    ],
    "h": [
     {
-     "t": "Bentrokan Antarkelompok di Underpass Padalarang Viral, Polisi Selidiki Dugaan Senjata Tajam dan Identitas Pelaku - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM3RMRk9pNHBLaW5RX0dHb3VLaEs1Um5QNlVORHpMRnJ6ckZSdHZlRVRzM09RZV9yTHpyVzI5TG9aWjZuUmhTZmVUZXRad2dGVWxMRzZkVUNFeEtmLVFud3NHcjNCRUhBd0tnMTJNanJuWXpZc29jQUYzLUlYcTlzT0tfYzgzdzkyVEVwdVJwLUxiSEdPQTR1S2xjMERlZ0d0N0I3dVhodVRjUnZNVnBNc3dyTlhQUUZxdElYc25sdkFGbFg4b1hzeUhWRGU2dFpDcEF6ZkdSYmJ3TjNxWVNId3ZfQlRkTDkyREZHRHBBRktvV3lWeFNxUF930gH6AUFVX3lxTE4zdExGT2k0cEtpblFfR0dvdUtoSzVSblA2VU5EekxGcnpyRlJ0dmVFVHMzT1FlX3JMenJXMjlMb1paNm5SaFNmZVRldFp3Z0ZVbExHNmRVQ0V4S2YtUW53c0dyM0JFSEF3S2cxMk1qcm5Zellzb2NBRjMtSVhxOXNPS19jODN3OTJURXB1UnAtTGJIR09BNHVLbGMwRGVnR3Q3Qjd1WGh1VGNSdk1WcE1zd3JOWFBRRnF0SVhzbmx2QUZsWDhvWHN5SFZEZTZ0WkNwQXpmR1JiYndOM3FZU0h3dl9CVGRMOTJERkdEcEFGS29XeVZ4U3FQX3c?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Razia Narkoba di Cangkuang, Polresta Bandung Temukan Obat Keras dan Satu Orang Positif - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGZfZFUyNmVCa3hnR2R4U01hZG9rWEpZUUZiUU9VY0hOSUtwZkVzc2pnNEdQLWxPZ2xrZWFuSFRjQkFwMzlFN2dhc3ZMTE9EY2l0NXNMaV80UEZWSHBLWDhoQW1zekdIU3A1WG9xc0xqRjlQME9fWjE0clZLc01qY3lheDBPV1lGcmRPN050Qml5Ry1BNDVDNl83X1h2dXpBdGlWNHFRQzlfX2VESDh1bm1rUUp6QzBfRC1XdGlzamlzd2hHMnNvTDlibkhMQWxKZ2ZwWDdlVUpIWW9nbzJfSWZn0gHnAUFVX3lxTE9ZMmFyTXJfQWZiSkU5VVlzd1k0UU9nTjFfX3dkMDJDSTMxcmIySmJiaVVZNUZXYmVSZnVQbkVWRnJtQ212NEVITFlWQk91WEZzczJSbk5kdW5CbmlMRXlxOHBsYVg3Y2VpN0xlTWQ2WGVSVHMyUU9Fc1pvM0t2Ujh2Mjltb2x5cFB4aWNqSk40bFMyeWxjcFVFX0RqbWpMS09QeE1OZmplNGpFeHZaMGp1NHdFckpVeTlRTU9MQUx5STcwZUpBV3NDRDhJYnE1V0lXd3FqOUFLMDI4Y2VGM1RBalRqdFgxRQ?oc=5",
@@ -322,6 +316,12 @@
      "t": "Tokoh Masyarakat: Penyelesaian Kasus PT.BDS Serahkan ke Pengadilan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1ZYzFwaUlfeDMwdkctMGRDQUlFZzB4Yml1XzhSalVqMklYclJMcVZGOHBrdHA2YWhlc1N0MzdMcUNiZFI1aVRMOWgzYUpXMzZBSnA4OHVMbDNSaEFXVG1SenJrdC1PSlVLNld4UVZuWnJOVnVuLWlCQld4ZXJ4TjAxX3hla3FaWVpTY1BCUEFrd1Uzbng5aVBLa2hacVBrbWNzRkVIZHR6VU0?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Timah Panas Polisi Lumpuhkan Pelaku Pembegalan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZU1PN2pJNk9STWszbFlPU09idTl3T0o5QmZmN0VscWtqYmhhb3hDNTBFUGxGWHBqdU5hQWt4OVZVai1EVndYOHpROF96aWZyRFN0LUNndnBtUW1qa1YtdFpmcEd0U2JwTzYtS1Z2TXdFTWZ5NHNkLXlnNXBqeFRzNFR2ajMyRGM5M0s3dTgwSzkzbDB6aUpjby1JaUp4eDBL?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -346,7 +346,7 @@
     "w": [
      2,
      22,
-     20
+     19
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      2,
      0,
      2,
-     1
+     0
     ]
    }
   },
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
-     "t": "Daftar Sanksi Bullying Mahasiswa Telkom University: 1 Di-DO, 1 Diskors, 2 Diberi Sanksi Etik - Tribunjabar.id",
+     "t": "Mahasiswa Telkom University Ingatkan Pentingnya Berani Speak Up Terhadap Tindakan Kasus Perundungan - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLXRGQ1l1RU9FbHQ2aTRkbDV4N2NGc2l6UGVobzV1WTNyVFkxczJ3VERXNzRvT2J5cWlIMkJ6V0RHSllUUkIwSWtuYURLZHFHNDk2Mk5iTFVWa2gzMnpTSWQtdjRjdUtLei13ZVZSMUVOa0FyV2VDSERoRnpuRnJFQ3FmenJHZzhJUFlSMVIxYk1CcjA1Z0lod2hJMUxSRzZLeDNrZlB1YnEtVFpzX3ZpMktTc2lNWndlUHhJWndsd1duREx6SW5TazBtcGozeUhOQzgtR2JPdw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEVzUDdIbk04WGpkb09YR2ZDUWhFMkZzMXpBdVJyTU5nU3p1SjdYR3oyeUc2VnJBX0cyNEFhc0ZuQmh4SDI4T0VsSjBDeFdGdXMwRXRpUXlqbDZSdjVpaHg2dHB2V2dZSG9GYktJVGc5OWxYOUJPSHFZRzJZeVRpaWNhWXY3Nmd4NVR6ZW1GSEctUUpQbTEtRUwtU0FDUTAwUHRiQWpvdzlrdFNHOXJnQWJiWEJQbGRQSWlaekh5eF9DVWIwQi01d1IycVJtb1FvMlJMRzV3QlZleVFfcjJ6ZmtlS0c?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Foto : DLH Kabupaten Bandung Gerak Cepat Rangkul Perguruan Tinggi Tangani Sampah Hulu - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVlhOEYzVnBkVVRZNUZkb1U0ajVWczktb0VQcHR3ZGNpbzZqX21xSDdnQlkwUXFkVGdZUUF2NVVrY0t1OXdDWW45Q2w0SnNVZzZUQjhvM3NqTHhLSkNrV1NqUFMyRmFVRU43TTA4d2NaaFR5aFlSOTlBeFRCMENDWXBsc09HbzdGeWk4dVM0MFVDWXZ6MTQyMlRoMVM1dHdIRjl2R3BaRDJYYm5VQ1lpMVJEZEEwT1ZOdkNhS0hLaml2aWM5V0E?oc=5",
-     "r": "Kompas.com"
+     "t": "Dugaan Pelecehan oleh Oknum Dosen di Unpas, Mahasiswa Bakal Gelar Aksi dan Tuntut Sanksi Pemecatan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2hxRG1UMjJEZjRELW5zV1RIREJpaEhqWi1YVVBTMTJtNGUtQlpGaFA2UXlLSlBncmN2RkpYWlFOb2VVaGhRNWVjb1o4NlBJZzlOSTh5TE1DdGNPU0RIZmY1d2lEZ1lVRGhUcmUwaldaS1Vxcmg0c2Q1WlBWcUs5ZWlkMlVaenFOS1pfZXFjMm14blUweW5JTzBXQVh4bGFIdC1LQ3BveU92V3B5Ri15d1RlcTJ3RG9qUHRlMXVLUkU2X1ptME1KZVVtNmw5enYtVThILWVvbkZzWXlqQVdxNmlR?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
-     "t": "Kasus Bullying di Asrama Telkom University Viral, Mahasiswa Ungkap Awal Mula Video Menyebar - Tribunjabar.id",
+     "t": "Daftar Sanksi Bullying Mahasiswa Telkom University: 1 Di-DO, 1 Diskors, 2 Diberi Sanksi Etik - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXlOdVB0aGlscVFKZ0ZIOHJCMmxRR3dRR3JxZVFmVGw1djRuaXlicklkNmZIT2JGME9FSU9qLXhreVNETmRKYm1PWThEa3FIOXltNEtmc3dleDNEQk1xWXptSWJ3UzVBck5BaHY3LWhQWWJFNmp6WFdLcHFvR2hYZHlrNF9pSnEtSGdvbGNmaXlsQ2pDRkEwVFpPa2xrMkpldTZ0NmZaZENBR1c5aXM0blNFUHZsdDJUUUIwU3ZmbzRFekJUX0FueEY3Y24xTHlpWWJ6dHJodVU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLXRGQ1l1RU9FbHQ2aTRkbDV4N2NGc2l6UGVobzV1WTNyVFkxczJ3VERXNzRvT2J5cWlIMkJ6V0RHSllUUkIwSWtuYURLZHFHNDk2Mk5iTFVWa2gzMnpTSWQtdjRjdUtLei13ZVZSMUVOa0FyV2VDSERoRnpuRnJFQ3FmenJHZzhJUFlSMVIxYk1CcjA1Z0lod2hJMUxSRzZLeDNrZlB1YnEtVFpzX3ZpMktTc2lNWndlUHhJWndsd1duREx6SW5TazBtcGozeUhOQzgtR2JPdw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -508,9 +508,9 @@
      0
     ],
     "w": [
-     1,
-     18,
-     6
+     2,
+     19,
+     7
     ]
    },
    "trend": {
@@ -524,7 +524,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      1,
@@ -539,7 +539,7 @@
      0,
      3,
      0,
-     0
+     1
     ]
    }
   }

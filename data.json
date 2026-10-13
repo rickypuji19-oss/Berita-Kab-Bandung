@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:11:46.182214+07:00",
+ "updated": "2026-10-13T23:10:26.840080+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,7 +7,7 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
+   "Kompas.com",
    22
   ],
   [
@@ -15,24 +15,24 @@
    21
   ],
   [
-   "Kompas.com",
-   21
+   "Tribunjabar.id",
+   20
   ],
   [
    "Ayo Bandung",
-   12
-  ],
-  [
-   "detikcom",
-   9
+   13
   ],
   [
    "ANTARA News Jawa Barat",
    8
   ],
   [
+   "detikcom",
+   8
+  ],
+  [
    "jabarekspres.com",
-   5
+   6
   ],
   [
    "bandungraya.net",
@@ -43,7 +43,7 @@
    4
   ],
   [
-   "Galamedia News",
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -51,11 +51,11 @@
    3
   ],
   [
-   "Ketik",
+   "Galamedia News",
    2
   ],
   [
-   "PPID Kab. Bandung",
+   "Ketik",
    2
   ],
   [
@@ -85,16 +85,16 @@
      "r": "Galamedia News"
     },
     {
+     "t": "Kasus Pekerja Migran Cililin Diduga Disekap, Kementerian P2MI Mulai Berkoordinasi dengan KJRI Dubai - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONndPOVlURk15cWV0cFlCY2dkOUlqbkN0VXh3OXAxLUZ4X056WTBKMTZKX1U1WkR3QjFMSF9KYWcybjFzLXZmN0tOM2pRX3FXdGw4SXlYRXdfM0VQZUZTSkR5S0N0Z254SFVMaFRPbjJIdHNvVkJIT3o2RnVjOXh2T1QzVEFvNk9VZldOQkVUa2J2ZUtTNTFjdndnYllWVkdoQjRia0R1cXNHUEpOUDJFSXp1Slk0cllJZDZTVGRkUUxReWhZeFVLemhtSThZblNBdC1ybXVaUXNYYnBXTmJvbHhUV1JHdnl10gHoAUFVX3lxTE42d085WVRGTXlxZXRwWUJjZ2Q5SWpuQ3RVeHc5cDEtRnhfTnpZMEoxNkpfVTVaRHdCMUxIX0phZzJuMXMtdmY3S04zalFfcVd0bDhJeVhFd18zRVBlRlNKRHlLQ3RnbnhIVUxoVE9uMkh0c29WQkhPejZGdWM5eHZPVDNUQW82T1VmV05CRVRrYnZlS1M1MWN2d2diWVZWR2hCNGJrRHVxc0dQSk5QMkVJenVKWTRyWUlkNlNUZGRRTFF5aFl4VUt6aG1JOFluU0F0LXJtdVpRc1hicFdOYm9seFRXUkd2eXU?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Kinerja PTSP Kabupaten Bandung 2026 Raih 94,838 Poin, Ben Indra: Bukti Tata Kelola Perizinan sudah Sangat Baik - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZmxSdFFVeGZBcDlGSkd2cDhXT0lxMEZoUnNLSGQtVEwxQkpoZUV5WG5GVlVTeF9MSzdHXzlZbHRmZVZNMmpsN0s2YzlMX0ZRQllrNHpNbElORWJDZUpoaGtvWkkyZGFPSmRCMEJLWTE2M3FzY2s5UEJxUEVtd3BwMVhEM3cweUVoRS0xNDZ2ZjJxUnRvM3lDM24xNmlzZU91dEx3MkF4akt5QzNVMGU0Uk1FclRxM3dURTEzSkE4Q3B3Zkc0UjN2dXg1cnp1TWZDcXN6OFhic1dDS3ZrOTY1eHdyZUMtdFZLT2R0MlZodENoTlhUR1E?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZdIBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     10,
-     12,
+     9,
+     14,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     4,
+     3,
      7
     ],
     "g": [
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     8,
+     7,
      2
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcnRuQkdpaERJQTVEWFhSTHZzX0RiREhCWmVJQk9UMUo5OUlhYnhjaWdHRks3YVgtb01IaWJueV9FN0ZvUzk0TS04TWFxZThHRjR3cG5VRnZ5UUZBVkpXYXljN3h2N0t4UWFuWEdYeVJ1b2xUaWZaYzYzUW9CQWNoYmt0TEJ1QzJudlJOc1ZScm1wSXczNzh1Mk85dGJQTWxLS0pnZU9YVmtXZDlFRjJaR2ttTVAwbGp6aGViVl9TT09hTklvWEc0?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Diduga karena Judol, Pria Pecahkan Kaca hingga Mengenai Anaknya, Kini Diburu Polisi - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm5iVG5yUzVFMFl4a0UzNS15cWptTG1UdmlId2FOVFFfTTVnSGNiTWhta0ZEODFxcDR0RWRlZkpNLWZwYzR2dVNtdGJGakxWby1LbHBzNDlLd29VeTdPdWMyZ0NQMUdDUmNGc3FTYjI2MVpBcXhRYUVFRVBnQV90NmNZT196QkNDdV9XWlZoc2VsMGt6S2FQWndGYnlwSC1sc0E2X1JKR3VqRWE1QXF3SkVxaUF5Zkhvd0Utbl9tQXJWc19iODBr?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnRMeGhLODhCRUpMZzZrM18xRDFXb2hEczJYbVExQVY5SHB5d1lWSW1RczkwQ2liRTRFUW8tVVRPTzRrdlRNcnhBY2l0cjh5SFVncF9qeEVPamxHSGk3ejlYNTZ6N01VWXo1ekRYWVFPd2NjWUNmYnFCcjMyeWlxYVhmOVFSNVBuVzB5WmhIb1JoeEVieGRGX1lSdUJvbl80MWlnZktxb3pCaVRaSnp5ZDNrckdhNEs2Rnc?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Viral Teror Geng Motor Bersenjata di Ciparay, Polisi Turun Tangan - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGVsTFI1MUQ4ajhIb0ZDYzR3MHRzc2s4QVNoYUQ5MEJTSEpBUlBGbmZVcjlLb1BJQjlnT1pHVkJ3WTI5UGFyNWVUUlNScHZsSTYwTGhINlUwS29UVi1IYzVpVGQzT3Y0U3c0SXNvbUhnbVhTQm5KTXJWWmg0RGFEMllOckJJNUppcWd5bkh6OF96em9MSWRtYVgwNGdCaEtickZTbXg2cXgtMS1rTlJRUTVWWEM4c0RVUE8yZDJn0gHDAUFVX3lxTE1UV0w2VTRTZUpJM2Vjb1lUYnJxTnpsUTJuN2c0NzN4cFZDU1lmWWtibDFybVpvNFEzLUFGRnZJSi1XNExoNDRFMHdDdHNQMEVpSEEtTHlFMlNXVXZHb3FFVFpGbE1NaFphcngxOVJOOGxMUmdza090VjdFRlNMaWVEVk4xaU1YRDd0dXhDNXBvbl9uenkyTTJPdWFmdmQ0TFZpcU4wWThXQUZ1VXRuclhKQThLNXBQS2RYeEFWSmlFbXFWWQ?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     26,
-     14
+     27,
+     13
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      7,
      2,
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     20,
+     19,
      5
     ]
    },

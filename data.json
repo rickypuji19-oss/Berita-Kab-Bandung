@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:09:30.184676+07:00",
+ "updated": "2026-10-14T01:11:02.510774+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "RRI.co.id",
+   21
+  ],
+  [
+   "Kompas.com",
+   21
+  ],
+  [
    "Tribunjabar.id",
    20
   ],
   [
-   "Kompas.com",
-   20
-  ],
-  [
-   "RRI.co.id",
-   19
-  ],
-  [
    "Ayo Bandung",
-   11
+   12
   ],
   [
    "detikcom",
@@ -43,10 +43,6 @@
    3
   ],
   [
-   "bandungraya.net",
-   3
-  ],
-  [
    "Radio PRFM",
    3
   ],
@@ -63,7 +59,11 @@
    2
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Jurnal Soreang",
+   2
+  ],
+  [
+   "bandungraya.net",
    2
   ]
  ],
@@ -97,27 +97,27 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=Y7e4ulsg4Yg",
+     "r": "YouTube Kamanunggalan"
+    },
+    {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=heJ7vi2hxas",
      "r": "YouTube sugeng"
-    },
-    {
-     "t": "PERUMAHAN BANDUNG SELATAN | SERENITY KOPO RESIDENCE KATAPANG | KPR DP 0% Dekat Tol Soroja & Soreang",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=quv_Fi39Lt8",
-     "r": "YouTube SERENITY KOPO RESIDENCE"
     }
    ],
    "v": {
     "s": [
      1,
-     1,
+     2,
      0
     ],
     "w": [
      9,
-     11,
+     12,
      3
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Foto : Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0ZackI3emJlRmFVWkFQWWtQd0VfYnBiNWY4eG53Z1JaczhQZlF0VzJzMXRQNm1WS3V3T3d6SzZqYS1oNWd6TG1GaVh4Q1JxcmVGbTgxcENoMEJPdVJNTnNIamFfS2t5Qk0wWnA1WDVNWWFuQjk3LU5sSlBpRzlUY0t3emw2UloyLXV0MXhJU0dQcDBxZ0lLS1laQUd5OTVUbVNwcVBreUlTNEYzcGlIOXdsMWFvMjFZc1BwVEVkZGozcTIxMjJvWWNkbGJjYzM0R1E?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcnRuQkdpaERJQTVEWFhSTHZzX0RiREhCWmVJQk9UMUo5OUlhYnhjaWdHRks3YVgtb01IaWJueV9FN0ZvUzk0TS04TWFxZThHRjR3cG5VRnZ5UUZBVkpXYXljN3h2N0t4UWFuWEdYeVJ1b2xUaWZaYzYzUW9CQWNoYmt0TEJ1QzJudlJOc1ZScm1wSXczNzh1Mk85dGJQTWxLS0pnZU9YVmtXZDlFRjJaR2ttTVAwbGp6aGViVl9TT09hTklvWEc0?oc=5",
      "r": "Kompas.com"
     },
     {
-     "t": "Diduga karena Judol, Pria Pecahkan Kaca hingga Mengenai Anaknya, Kini Diburu Polisi - Kompas.com",
+     "t": "Polisi Selidiki Aksi Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm5iVG5yUzVFMFl4a0UzNS15cWptTG1UdmlId2FOVFFfTTVnSGNiTWhta0ZEODFxcDR0RWRlZkpNLWZwYzR2dVNtdGJGakxWby1LbHBzNDlLd29VeTdPdWMyZ0NQMUdDUmNGc3FTYjI2MVpBcXhRYUVFRVBnQV90NmNZT196QkNDdV9XWlZoc2VsMGt6S2FQWndGYnlwSC1sc0E2X1JKR3VqRWE1QXF3SkVxaUF5Zkhvd0Utbl9tQXJWc19iODBr?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Viral Gerombolan Bermotor Bawa Sajam di Ciparay Bandung, Polisi Buru Pelaku - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnRMeGhLODhCRUpMZzZrM18xRDFXb2hEczJYbVExQVY5SHB5d1lWSW1RczkwQ2liRTRFUW8tVVRPTzRrdlRNcnhBY2l0cjh5SFVncF9qeEVPamxHSGk3ejlYNTZ6N01VWXo1ekRYWVFPd2NjWUNmYnFCcjMyeWlxYVhmOVFSNVBuVzB5WmhIb1JoeEVieGRGX1lSdUJvbl80MWlnZktxb3pCaVRaSnp5ZDNrckdhNEs2Rnc?oc=5",
-     "r": "jabarekspres.com"
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXNvQ0NIem45TDJjbkVmQk5wOXdPQ3Y3SjJvMHg1VnRrUTBRVUdpSFJnaGpjVmlJay0xM0dKQ1NiZERpSnQ2S0s1US0tenEzbE9iVnZrSjZtMGpoWXloWDRoeVdWNzItaFA1MW1XeWNIVGR5YnJJRDUtYlhGX3JZTHcxUXgycVI5WUMzWmpzanZaRHhxanMwS3pLNDQ0aDBiTUpQWi1iN0ZMZHM0YkpwOUpSdjU3Q0NuZFVmYTAxd0doQjJBcVRIWDNmcVdzbjJUSHhsUmtB0gHbAUFVX3lxTFBSODBHOE8tNVBhNmRGSXBZal9zUFBSTFFWTHBmbS0wdnRscEU3UE1vWXQxOVJuZ2MwX19aa3huVFlXbjE4M0NnWnJUaHRUT2VGWWpzbUVqbzQwUjNtajFCZG5rTUh3VzRiNkFrRUs0bkNRY2w3eWwxT3NCaG1CRUViS3BFV0stWER6dnphS0VDQ2EzQzI1LVBzYTNDQkdJZW5yQkxJWnA1aGVMOUF3a2t4cUZwNFlnTmtfSUlnZGg4ZUV2UXF4RUxoY040cnFZTEdXdTd5dnd0VzV0WQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     24,
+     27,
      13
     ]
    },

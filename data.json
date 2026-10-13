@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:10:26.840080+07:00",
+ "updated": "2026-10-14T00:09:30.184676+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,43 +7,43 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
-   22
-  ],
-  [
-   "RRI.co.id",
-   21
-  ],
-  [
    "Tribunjabar.id",
    20
   ],
   [
-   "Ayo Bandung",
-   13
+   "Kompas.com",
+   20
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
+   "RRI.co.id",
+   19
+  ],
+  [
+   "Ayo Bandung",
+   11
   ],
   [
    "detikcom",
    8
   ],
   [
-   "jabarekspres.com",
-   6
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
-   "bandungraya.net",
-   4
+   "jabarekspres.com",
+   6
   ],
   [
    "Radar Bandung",
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Galamedia News",
+   3
+  ],
+  [
+   "bandungraya.net",
    3
   ],
   [
@@ -51,11 +51,11 @@
    3
   ],
   [
-   "Galamedia News",
+   "Ketik",
    2
   ],
   [
-   "Ketik",
+   "PPID Kab. Bandung",
    2
   ],
   [
@@ -63,7 +63,7 @@
    2
   ],
   [
-   "Jurnal Soreang",
+   "Pikiran Rakyat Koran",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Pasca Terbitnya SK Bupati Bandung tentang LP2B, Zeis Zultaqawa Jelaskan Implikasi dan Solusi bagi Dunia Usaha - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN01jREV6UGNCYWwzMGRpUGtNcjk5dWJGYWtqY3ZRYlh1eDliVHdHZkRva0xVZGVXM3dGMzNVRE9hcW9VbGRfRm5FaThNVkVGTmo0UFpBQkRBcFRLQ0I1anVXNV9SbGxPMFdhcTJCc3FseW9STV9naUprc3NyTXQ4LXhwZEgwdXhRcjEtX1VwdHhIMkkyZkg3MUdTODhERWdMaDdUclduSW5iNkxRQjVLMVhoQjdka3prVmRQd0swcklyRm9QdUZvamZyQzJGMHBQYTN6aGRKR1RobTZuWG1od0hxWTBIZkt3RDdRb2NsT3VTcUYwOEJR?oc=5",
@@ -87,14 +93,8 @@
     {
      "t": "Kasus Pekerja Migran Cililin Diduga Disekap, Kementerian P2MI Mulai Berkoordinasi dengan KJRI Dubai - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONndPOVlURk15cWV0cFlCY2dkOUlqbkN0VXh3OXAxLUZ4X056WTBKMTZKX1U1WkR3QjFMSF9KYWcybjFzLXZmN0tOM2pRX3FXdGw4SXlYRXdfM0VQZUZTSkR5S0N0Z254SFVMaFRPbjJIdHNvVkJIT3o2RnVjOXh2T1QzVEFvNk9VZldOQkVUa2J2ZUtTNTFjdndnYllWVkdoQjRia0R1cXNHUEpOUDJFSXp1Slk0cllJZDZTVGRkUUxReWhZeFVLemhtSThZblNBdC1ybXVaUXNYYnBXTmJvbHhUV1JHdnl10gHoAUFVX3lxTE42d085WVRGTXlxZXRwWUJjZ2Q5SWpuQ3RVeHc5cDEtRnhfTnpZMEoxNkpfVTVaRHdCMUxIX0phZzJuMXMtdmY3S04zalFfcVd0bDhJeVhFd18zRVBlRlNKRHlLQ3RnbnhIVUxoVE9uMkh0c29WQkhPejZGdWM5eHZPVDNUQW82T1VmV05CRVRrYnZlS1M1MWN2d2diWVZWR2hCNGJrRHVxc0dQSk5QMkVJenVKWTRyWUlkNlNUZGRRTFF5aFl4VUt6aG1JOFluU0F0LXJtdVpRc1hicFdOYm9seFRXUkd2eXU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ1NQZnNwNkZSaWlsa3FNTlFfdXlVdi1GZ3NkR05xNEI4ck5vTmxnMEtITXBjTkNBQk15aUp3OFVWVnpNb3BiSmRULWJzTlNyNEY0bEZNaWR2RV9ibUJPXzFtTEE5c2hjOGhXTmhWMlFycFlsMEJkNDZfT1hXa0JGUl92NUdtMEpRaWRSU1l2TXNaVzNPLWdmV19wWk0yME04Z2VfUmNxWXpwZk5nM0FvbnBoYmc3WWwxVTdGYUVSeHh3U0thTnh3Ql9oWHBRN2pyZEx1ZUVEd20zUmYyNDNBUHpuUdIB6AFBVV95cUxONndPOVlURk15cWV0cFlCY2dkOUlqbkN0VXh3OXAxLUZ4X056WTBKMTZKX1U1WkR3QjFMSF9KYWcybjFzLXZmN0tOM2pRX3FXdGw4SXlYRXdfM0VQZUZTSkR5S0N0Z254SFVMaFRPbjJIdHNvVkJIT3o2RnVjOXh2T1QzVEFvNk9VZldOQkVUa2J2ZUtTNTFjdndnYllWVkdoQjRia0R1cXNHUEpOUDJFSXp1Slk0cllJZDZTVGRkUUxReWhZeFVLemhtSThZblNBdC1ybXVaUXNYYnBXTmJvbHhUV1JHdnl1?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Kinerja PTSP Kabupaten Bandung 2026 Raih 94,838 Poin, Ben Indra: Bukti Tata Kelola Perizinan sudah Sangat Baik - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZmxSdFFVeGZBcDlGSkd2cDhXT0lxMEZoUnNLSGQtVEwxQkpoZUV5WG5GVlVTeF9MSzdHXzlZbHRmZVZNMmpsN0s2YzlMX0ZRQllrNHpNbElORWJDZUpoaGtvWkkyZGFPSmRCMEJLWTE2M3FzY2s5UEJxUEVtd3BwMVhEM3cweUVoRS0xNDZ2ZjJxUnRvM3lDM24xNmlzZU91dEx3MkF4akt5QzNVMGU0Uk1FclRxM3dURTEzSkE4Q3B3Zkc0UjN2dXg1cnp1TWZDcXN6OFhic1dDS3ZrOTY1eHdyZUMtdFZLT2R0MlZodENoTlhUR1E?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -112,41 +112,41 @@
    "v": {
     "s": [
      1,
-     2,
+     1,
      0
     ],
     "w": [
      9,
-     14,
-     2
+     11,
+     3
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      3,
-     7
+     7,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      2,
+     1,
      0
     ]
    }
@@ -199,22 +199,22 @@
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      0,
      2,
      0,
      0,
      1,
-     1
+     1,
+     0
     ],
     "g": [
      0,
@@ -222,8 +222,8 @@
      0,
      0,
      0,
-     0,
-     2
+     2,
+     0
     ]
    }
   },
@@ -263,28 +263,28 @@
     ],
     "w": [
      3,
-     8,
+     7,
      0
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
      0,
-     0,
      1,
      0,
      1,
-     1
+     1,
+     0
     ],
     "g": [
      0,
@@ -340,42 +340,42 @@
    "v": {
     "s": [
      0,
-     4,
+     3,
      0
     ],
     "w": [
-     2,
-     27,
+     1,
+     24,
      13
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
      0,
      0,
+     1,
      0,
-     2,
      0,
      0
     ],
     "g": [
      0,
-     0,
      7,
      2,
      0,
      2,
-     2
+     2,
+     0
     ]
    }
   },
@@ -389,22 +389,22 @@
    ],
    "h": [
     {
+     "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Warga Apresiasi Ide Brilian Danlanud Sulaiman Atasi Banjir di Kopo Dengdek - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWpOVEltM0dSUFhQdy1OQ0JfX0NBZG1MdWRRMUptUFhpYWFPYUVMSkZvemlUR0NfdnJ2R3pfaU1HMENTY3d2eGJ6a1NzdGdHcmM2bTZQal83Wjl6WjhXQjBxN0RGTHlrVGQ0bEdOMzg2QWh3eHA0Q1pNeF8zbmpvQVdjZkwxekRWbkJreVNET29tMjdPNUl1cmlScGdFNzczNmUwNnU5emRSNjVLbU9BSmZJemc?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Telkom Dukung Perbaikan 20 Rutilahu di Cileunyi Wetan Demi Hunian Layak dan Berkelanjutan - jabarekspres.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZl9zZ202dVZpSjFndl9IWEtLVWlYQUNmWng3RWtzTFJHc19GV3ZtekdBOE5UeXVVY2NjU3dJeFRTTEM1TDlOM29OM1BOeVM1djZ4YWZOVm5XM1hqbHV3NmNDNlBFVVNIM2otWGZBVzdySFc5dzk0Sm1Ycnh1T2xET3dlRFY4Rm1CWTY5ejZCYm9tWVVObXpWLTloMUV6MXRybVRuQ25pa3JIVDllbldhb2JzY0NQUWlFd3d6cm02eU5JLW0yQ3VJRGZCUGVVdw?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Macet Proyek Jembatan Munjul 2 Dikeluhkan Warga, Gema Desak Audit dan Evaluasi Lalu Lintas - Radar Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGRXSGlDWDIxbXpfT3dWN1N1WDYxbE5xd3loUTdObVc3RE83ajJjQTZNT0xidXhCOGs4cmhfUnE2dl9ScnotSGlIU19GQjFSRW16R0dkNUt4U1lpOUl0NE91aUh4c1RNM1BKdExDMk0tSk9SWHRKXzZrV1BWY2daWkpkTkpyV1R0NXV5NEJiOEkyV3d0N1A3S0NvcDNaS0hDUVFqT1Nhb0pXaFUwYWNaRkZRaFotUWprZGNJd0czeEtXRXdWcUE1bA?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "Pemkot Bandung Bangun Dua Rumah Pompa, Drainase Hingga Kolam Retensi Cegah Banjir - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbU5YblVLY1J5ajZVa2RMRUw1SVZvLWFDTXRMWmY1Z2cwTUY2VW12Z01WNDFlWFM5MTRGclB3WGhMZWU0aUhTZnZqcmlFYzAyZnFQS3cyWGVoXzg1dzItTkFxcFVoeTVsdm5KbVZtT3ZJVkFQeTFweFRfNVBmd3c5Tmg3VEVXWFBFXzVlRU03c1loNjNDYWhVMGRNajdDYV9XUjd3TEpUTzR6ZWlVVnZaR0JzQlFKXzhLMUtRdUwtSlB5eTllS2JJTzJicw?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
@@ -421,43 +421,43 @@
    ],
    "v": {
     "s": [
-     1,
+     0,
      1,
      3
     ],
     "w": [
-     1,
+     2,
      7,
-     18
+     16
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      0,
      0,
-     1
+     2,
+     0
     ],
     "g": [
-     3,
      2,
      5,
      2,
      1,
      6,
-     2
+     3,
+     0
     ]
    }
   },
@@ -508,38 +508,38 @@
      0
     ],
     "w": [
-     3,
+     2,
      19,
      5
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     1,
      0,
      0,
      1,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      0,
      1,
      0,
      3,
      0,
-     1
+     1,
+     0
     ]
    }
   }

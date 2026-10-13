@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:10:54.664941+07:00",
+ "updated": "2026-10-13T14:15:45.287092+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "Kompas.com",
@@ -23,20 +23,20 @@
    12
   ],
   [
-   "detikcom",
-   10
-  ],
-  [
    "ANTARA News Jawa Barat",
    9
   ],
   [
-   "jabarekspres.com",
-   6
+   "detikcom",
+   9
   ],
   [
-   "Galamedia News",
-   3
+   "jabarekspres.com",
+   5
+  ],
+  [
+   "bandungraya.net",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -47,15 +47,11 @@
    3
   ],
   [
-   "Inilahkoran.id",
+   "Radar Bandung",
    3
   ],
   [
-   "bandungraya.net",
-   2
-  ],
-  [
-   "Bangbara",
+   "Galamedia News",
    2
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Radio PRFM",
+   2
+  ],
+  [
+   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Raih Predikat Sangat Baik dari Pemerintah Pusat, KDS Perkuat Transformasi Digital Pelayanan Publik Kabupaten Bandung - bandungraya.net",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPejZvVFdVUllOTGZRUlVob1NrS1BwWVc0MmJsWmxlWnBnNWtnMGdmQkdkQWltY09ISkpOejVWbmpGZVVpQklEdUpkeHhPQllrNzY2YnF2aG9jdGs0SjVQZGlFRnJrZXdfWXhweUtwNHVyNGlsczN5WGJWdGdDTF9YTXpKaW9ENDdOQXY1d003N2hBY1Z4dm9lSkJUd25lbHQ3X29ZdXZVWXNsSzAxQllOSXpLRWJUcGNsZENBOXIyUjRHcllYcGVqTV9pR0NYV19YNnZla0NnUVU1UFpkLTViZQ?oc=5",
+     "r": "bandungraya.net"
+    },
+    {
      "t": "Siti Muntamah Minta Perda Sampah Tak Sekadar Dokumen - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTRhUERpZXJFQVpQd3lLcVJ3X3BaSWplZGxIc05WVEtNRU5oNWNLSUd3SVdENDA2SXZKX2tXYm5pMFphZlZpY0VtTjdIcjJoSGMwZXhvUGZVaU5mLXpsZlczbF9fREpmYkdIQ3p6b0cwQWNLclRudTE1NDBmVkRuUzlramFwXzRfVUh3Wkdwc1A5bHd0Y0VPQ2d4WGx3TkpwdHc?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUhzYmJNdzVrYTRJcGhkdUJ3WHdXSVpmaXNCSE5wMTZiZHd4TWJDSVZJOHZLLUUtVHlINzRvZHBZZm9jbkg4eG5tT3pqZ2FzRTQyZ3Fva1VtazN5RUlrS2RvS1dVVXBnblFBM3FJNjZJTXllRERnLU5HUE9xYklHNEZNVQ?oc=5",
      "r": "SUARA PAKTA"
-    },
-    {
-     "t": "Bupati KDS Bakar Semangat Atlet Bawa Pulang Emas - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeC1DTG9tNXlYXzA4dDdtTUtDRm1IRFhOLXFzUndlZEJ1NEJpNHRKeFBqYy1nTE5yQUZuZHU5RGJMN3RsS3hZandCUWJxU2IzS1loMzQtX25zUzJSUGctejJkUVBzNEh5LUdGUzl3TWx5bWcyZHpDT1p2YlRBOG5Xd2stdE1tTnZKZ09GUzRreHl1WDBHd3Fj?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Blak-Blakan! Ketua GIB: Tuding Pemkab Bandung Lakukan Pembiaran Kasus Mafia Tanah di Baleendah!",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     4,
-     17,
+     5,
+     15,
      2
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      4,
-     0
+     1
     ],
     "g": [
      0,
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     8,
+     7,
      3
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     7,
+     8,
      0
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Viral Suami di Bandung Ngamuk Diduga Karena Judol, Pelaku Kini Diburu Polisi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcS1UTW1RcWZkdjNGNkNGU3ZqSHYtNnY4OEQtblJZT3BVVVFITlpjb2J5Q212SExRMDBUb2RHaDkyZTdJNl90dzZhQ1p1T0hJMzAzX3kwWm1iMnY1NXFCeGdNNlAtbkhaX1NpYlM4d1lZU0Nnc0VvelJib0FMN2ZaZlVFX1psTW9na0ZDSk45SmJPRmJfcFNucW1Kbk5vVFFxMDEweHVYRnA5blpocjV0UzI2N29vdzdUaGRwbmFiR3lsODIy?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bentrokan Antarkelompok di Underpass Padalarang Viral, Polisi Selidiki Dugaan Senjata Tajam dan Identitas Pelaku - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMnBMV0pkNU5OV3ZpVEM0Nm01SFZYRXhFTTd3M3I4dF9PUWZfdk5WX2twbUpXYUlneFBtLUxUZ1hmaUczTkMtUnhaTC1xd2wtVDNkTHhnVGJqTFdicUpOdzFMcmtZY3d3Q2FLazR1SllhQTZEZldEeW5ubkI5RkY2ME14MzhPNHgzazg5cEpVR1BMSXZOblc3M0ZGZEFLbUhOczN0QmRGU1JuVnN4cVlRVUdYdFBfWHlXY0t1MTZLMzZtckhHd2RGM1ptX2VxSVctTFZpRmdZd3JOYmdxVzE0c2QweXpILS04UXF0c0lxbG5lMnBu0gH6AUFVX3lxTE4zdExGT2k0cEtpblFfR0dvdUtoSzVSblA2VU5EekxGcnpyRlJ0dmVFVHMzT1FlX3JMenJXMjlMb1paNm5SaFNmZVRldFp3Z0ZVbExHNmRVQ0V4S2YtUW53c0dyM0JFSEF3S2cxMk1qcm5Zellzb2NBRjMtSVhxOXNPS19jODN3OTJURXB1UnAtTGJIR09BNHVLbGMwRGVnR3Q3Qjd1WGh1VGNSdk1WcE1zd3JOWFBRRnF0SVhzbmx2QUZsWDhvWHN5SFZEZTZ0WkNwQXpmR1JiYndOM3FZU0h3dl9CVGRMOTJERkdEcEFGS29XeVZ4U3FQX3c?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGZfZFUyNmVCa3hnR2R4U01hZG9rWEpZUUZiUU9VY0hOSUtwZkVzc2pnNEdQLWxPZ2xrZWFuSFRjQkFwMzlFN2dhc3ZMTE9EY2l0NXNMaV80UEZWSHBLWDhoQW1zekdIU3A1WG9xc0xqRjlQME9fWjE0clZLc01qY3lheDBPV1lGcmRPN050Qml5Ry1BNDVDNl83X1h2dXpBdGlWNHFRQzlfX2VESDh1bm1rUUp6QzBfRC1XdGlzamlzd2hHMnNvTDlibkhMQWxKZ2ZwWDdlVUpIWW9nbzJfSWZn0gHnAUFVX3lxTE9ZMmFyTXJfQWZiSkU5VVlzd1k0UU9nTjFfX3dkMDJDSTMxcmIySmJiaVVZNUZXYmVSZnVQbkVWRnJtQ212NEVITFlWQk91WEZzczJSbk5kdW5CbmlMRXlxOHBsYVg3Y2VpN0xlTWQ2WGVSVHMyUU9Fc1pvM0t2Ujh2Mjltb2x5cFB4aWNqSk40bFMyeWxjcFVFX0RqbWpMS09QeE1OZmplNGpFeHZaMGp1NHdFckpVeTlRTU9MQUx5STcwZUpBV3NDRDhJYnE1V0lXd3FqOUFLMDI4Y2VGM1RBalRqdFgxRQ?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Tokoh Masyarakat: Penyelesaian Kasus PT.BDS Serahkan ke Pengadilan - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1ZYzFwaUlfeDMwdkctMGRDQUlFZzB4Yml1XzhSalVqMklYclJMcVZGOHBrdHA2YWhlc1N0MzdMcUNiZFI1aVRMOWgzYUpXMzZBSnA4OHVMbDNSaEFXVG1SenJrdC1PSlVLNld4UVZuWnJOVnVuLWlCQld4ZXJ4TjAxX3hla3FaWVpTY1BCUEFrd1Uzbng5aVBLa2hacVBrbWNzRkVIZHR6VU0?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     23,
-     20
+     24,
+     18
     ]
    },
    "trend": {
@@ -369,9 +369,9 @@
      0
     ],
     "g": [
-     6,
+     5,
      0,
-     9,
+     8,
      2,
      0,
      2,
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      19,
      7
     ]
@@ -524,7 +524,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      1,

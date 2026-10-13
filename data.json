@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:14:35.725227+07:00",
+ "updated": "2026-10-13T09:09:17.534112+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,43 +7,39 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
-   20
+   "Kompas.com",
+   21
   ],
   [
    "Tribunjabar.id",
    20
   ],
   [
-   "Kompas.com",
-   20
+   "RRI.co.id",
+   17
   ],
   [
    "Ayo Bandung",
    12
   ],
   [
+   "detikcom",
+   10
+  ],
+  [
    "ANTARA News Jawa Barat",
    9
   ],
   [
-   "detikcom",
-   9
+   "jabarekspres.com",
+   6
   ],
   [
    "Inilahkoran.id",
    5
   ],
   [
-   "jabarekspres.com",
-   5
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
-   4
-  ],
-  [
-   "bandungraya.net",
    3
   ],
   [
@@ -55,6 +51,10 @@
    3
   ],
   [
+   "bandungraya.net",
+   2
+  ],
+  [
    "Galamedia News",
    2
   ],
@@ -63,8 +63,8 @@
    2
   ],
   [
-   "Radar Bandung",
-   2
+   "SUARA PAKTA",
+   1
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      4,
-     19,
+     18,
      2
     ]
    },
@@ -249,10 +249,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Berpariwisata dengan Kereta Api menuju Penyeberangan Ketapang–Gilimanuk Bali - RRI.co.id",
+     "t": "Utusan Presiden menyerap aspirasi petani dan salurkan traktor di Bandung - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2p4ZGZWWjhZenBSTVU3aXNrMzNBWXM5dzFpeFJ2dUc0bnFxaXFRX3pPV3NqeDRDQ0F5VEpSdk1BSXdCRXZIUWczZUZIaG5TVTlpT3ZRaHUyTW5hSDRleldyRURpbFBXb29vVjRIdTRPbUZSVGV5d3hQdUNMcXhCSjFoTjFZbnNtN1E4M2xoSlhSUjd3ZjVyRURRTXpvT3Bkd1preC1MbndjZkVuMmhmNXZ5UFFTcmdO?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFCZHcxQ2lSRDJyRklZaUVYVmFfNFktY1ZrWEJJaWZtUkFoOElHRDhkaVdROEpLSUlDUWI4WWRsNTA4M3Vjcm9ZRTQxcE1JbFZSQTJXXzl6UXhOZTVJcmlqZjJzQXRTSzhYWm53RmZkZ0NHdVVDdUgwNzV5RnBKRmtjRUx6dWh0M0ZuMWVWakR5dzRMNFRPY2I2ZHd1dms4cVphRnVxQ2ZFMEdTQTFrQXo5MVBId9IBuwFBVV95cUxPMHlSUFBibEd3VTFTLWhiTGVyOEZGTmpHZEJiOFRXQnM0VDUyLWEyZzRJX05mSWhKazZIR0s0Q042QUltSXV3dVBMc0dSR0xRM2Z4aHhjQl92cGNLSGR1LTBfVEFYVzUxdkhVLUZGZnZxN1JwdjdGeThsNnE2UFdkUGFBRTFndzBEZC1VTjlhYjQzYzJqS0RNWmRWSERLWUI3LUVRQS13YTFKZW50VnZNbnU2OWFyNGdZR2tJ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      2,
-     8,
+     7,
      0
     ]
    },
@@ -307,10 +307,10 @@
    ],
    "h": [
     {
-     "t": "Perkuat Keamanan Hukum, KAI Lakukan PKS dengan Kejari - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHRNQ250eV9xeHBHOWFTUUk1Smh2dFdYbnZVOEtuTXFfVlZDTE5HSmN2QVp6RmNCSEtwdkg0N3NpcEplRVhCOXk1NHUwbFBvVGE2NlNZWEMwTldIbFYzNzVPQmplemZfUmNkTTVQZ3YySUIyMVlnUzJGZTZkZW54aFNZZ2hpRDZqem4zNFd0dVBJRFNRWjBabmJ2dDZtSlU?oc=5",
-     "r": "RRI.co.id"
+     "t": "Bentrokan Antarkelompok di Underpass Padalarang Viral, Polisi Selidiki Dugaan Senjata Tajam dan Identitas Pelaku - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM3RMRk9pNHBLaW5RX0dHb3VLaEs1Um5QNlVORHpMRnJ6ckZSdHZlRVRzM09RZV9yTHpyVzI5TG9aWjZuUmhTZmVUZXRad2dGVWxMRzZkVUNFeEtmLVFud3NHcjNCRUhBd0tnMTJNanJuWXpZc29jQUYzLUlYcTlzT0tfYzgzdzkyVEVwdVJwLUxiSEdPQTR1S2xjMERlZ0d0N0I3dVhodVRjUnZNVnBNc3dyTlhQUUZxdElYc25sdkFGbFg4b1hzeUhWRGU2dFpDcEF6ZkdSYmJ3TjNxWVNId3ZfQlRkTDkyREZHRHBBRktvV3lWeFNxUF930gH6AUFVX3lxTE4zdExGT2k0cEtpblFfR0dvdUtoSzVSblA2VU5EekxGcnpyRlJ0dmVFVHMzT1FlX3JMenJXMjlMb1paNm5SaFNmZVRldFp3Z0ZVbExHNmRVQ0V4S2YtUW53c0dyM0JFSEF3S2cxMk1qcm5Zellzb2NBRjMtSVhxOXNPS19jODN3OTJURXB1UnAtTGJIR09BNHVLbGMwRGVnR3Q3Qjd1WGh1VGNSdk1WcE1zd3JOWFBRRnF0SVhzbmx2QUZsWDhvWHN5SFZEZTZ0WkNwQXpmR1JiYndOM3FZU0h3dl9CVGRMOTJERkdEcEFGS29XeVZ4U3FQX3c?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Razia Narkoba di Cangkuang, Polresta Bandung Temukan Obat Keras dan Satu Orang Positif - Radio PRFM",
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     3,
-     23,
-     18
+     2,
+     22,
+     20
     ]
    },
    "trend": {
@@ -364,18 +364,18 @@
      1,
      0,
      0,
-     2,
+     1,
      0,
      0
     ],
     "g": [
-     4,
+     6,
      0,
-     10,
+     9,
      2,
      0,
      2,
-     0
+     1
     ]
    }
   },
@@ -397,7 +397,7 @@
     {
      "t": "Proyek Jembatan Munjul 2 Dikeluhkan, Warga: Kami Terjebak 2 Jam - detikcom",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3F1a1lmbHpqWmIybWNaaVRTQ0hxQzhtNjNRQU5yVUNvOWlzOWNoS0pMWXVTQ2hQZWhpTTNWNnZueUNyYmFQN0dLYkJYZzNmX2NqQ0R5dGV1SVNoalZGS0w5RmhObmswMU1uNWF3WWVZdW02NmVJRlVlclBVQ1Z5LVZZb1NrSnZQYVJmRHB4Mm5HQ0dzSDRQY1huVWl2aWpNalYtV1hJcWpad9IBrwFBVV95cUxQeEVoQXFmRHVuZ29qdk5zU1F2aTNUNzhmWjlSZXk1T1JtLUtSbG9vTDdUUzlPT2o4czNIdzdyc1FIY08tNEFONURwM2F0RWNscFlkWC1hZmp0YVMwZWxkNF9xc1NQd2NYMVkwQjRvMkY0eUhWMUFaNjRlclFsR0ZqNHY1WUJpaWRmUEE1TDVPaFI5Zl9OQV9mUWtZT2U4cFpsRkM3WFhITk91N2w3aUZv?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEVoQXFmRHVuZ29qdk5zU1F2aTNUNzhmWjlSZXk1T1JtLUtSbG9vTDdUUzlPT2o4czNIdzdyc1FIY08tNEFONURwM2F0RWNscFlkWC1hZmp0YVMwZWxkNF9xc1NQd2NYMVkwQjRvMkY0eUhWMUFaNjRlclFsR0ZqNHY1WUJpaWRmUEE1TDVPaFI5Zl9OQV9mUWtZT2U4cFpsRkM3WFhITk91N2w3aUZv0gGvAUFVX3lxTFB4RWhBcWZEdW5nb2p2TnNTUXZpM1Q3OGZaOVJleTVPUm0tS1Jsb29MN1RTOU9PajhzM0h3N3JzUUhjTy00QU41RHAzYXRFY2xwWWRYLWFmanRhUzBlbGQ0X3FzU1B3Y1gxWTBCNG8yRjR5SFYxQVo2NGVyUWxHRmo0djVZQmlpZGZQQTVMNU9oUjlmX05BX2ZRa1lPZThwWmxGQzdYWEhOT3U3bDdpRm8?oc=5",
      "r": "detikcom"
     },
     {
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      18,
      6
     ]
@@ -524,7 +524,7 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      1,

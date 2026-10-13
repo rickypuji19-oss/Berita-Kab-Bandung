@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T02:21:49.354887+07:00",
+ "updated": "2026-10-14T03:19:13.242618+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Kompas.com",
-   21
+   22
   ],
   [
    "Tribunjabar.id",
@@ -35,6 +35,10 @@
    5
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
    "Radar Bandung",
    4
   ],
@@ -48,10 +52,6 @@
   ],
   [
    "Ketik",
-   2
-  ],
-  [
-   "PPID Kab. Bandung",
    2
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     12,
+     14,
      3
     ]
    },
@@ -192,7 +192,7 @@
      0
     ],
     "w": [
-     3,
+     2,
      7,
      1
     ]
@@ -212,7 +212,7 @@
      2,
      0,
      0,
-     1,
+     0,
      1,
      0
     ],
@@ -319,10 +319,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Polisi Selidiki Aksi Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Ayo Bandung - Ayo Bandung",
+     "t": "Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXNvQ0NIem45TDJjbkVmQk5wOXdPQ3Y3SjJvMHg1VnRrUTBRVUdpSFJnaGpjVmlJay0xM0dKQ1NiZERpSnQ2S0s1US0tenEzbE9iVnZrSjZtMGpoWXloWDRoeVdWNzItaFA1MW1XeWNIVGR5YnJJRDUtYlhGX3JZTHcxUXgycVI5WUMzWmpzanZaRHhxanMwS3pLNDQ0aDBiTUpQWi1iN0ZMZHM0YkpwOUpSdjU3Q0NuZFVmYTAxd0doQjJBcVRIWDNmcVdzbjJUSHhsUmtB0gHbAUFVX3lxTFBSODBHOE8tNVBhNmRGSXBZal9zUFBSTFFWTHBmbS0wdnRscEU3UE1vWXQxOVJuZ2MwX19aa3huVFlXbjE4M0NnWnJUaHRUT2VGWWpzbUVqbzQwUjNtajFCZG5rTUh3VzRiNkFrRUs0bkNRY2w3eWwxT3NCaG1CRUViS3BFV0stWER6dnphS0VDQ2EzQzI1LVBzYTNDQkdJZW5yQkxJWnA1aGVMOUF3a2t4cUZwNFlnTmtfSUlnZGg4ZUV2UXF4RUxoY040cnFZTEdXdTd5dnd0VzV0WQ?oc=5",
-     "r": "Ayo Bandung"
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRk11ZGU4TjU4Tnc4aXZSekJiVzE5ckhjeFVwdThxYS1oZ1RRS19mdmxxdEFzam56Y1RVcktvYTU3Y1k3QVpfaG90M0lfdzlJZGx2U1lQMGFWZUgxcFlHR3NFbHZKb255SDNKQzl2U1hiNzNhTmR6VWx1Rm5aR2pSRXc3NzN6ZXo4eTl2NHpNZDdQOG5md3M3dS0wdVZ2WEFBMGowMkluQXl2V0VmLUp5Y211eVl4VEVVWkxvcldZZWt4TzQ0NE4wcVpJXzRMUzFpY0JhaXJtRVFJb0xqc1F5NUNIUk4?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     25,
+     26,
      13
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T07:10:51.861516+07:00",
+ "updated": "2026-10-13T08:14:35.725227+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,16 +11,16 @@
    20
   ],
   [
+   "Tribunjabar.id",
+   20
+  ],
+  [
    "Kompas.com",
    20
   ],
   [
-   "Tribunjabar.id",
-   19
-  ],
-  [
    "Ayo Bandung",
-   11
+   12
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,16 +43,16 @@
    4
   ],
   [
+   "bandungraya.net",
+   3
+  ],
+  [
    "Radio PRFM",
-   4
+   3
   ],
   [
    "PPID Kab. Bandung",
    3
-  ],
-  [
-   "bandungraya.net",
-   2
   ],
   [
    "Galamedia News",
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "KDM Tinjau Titik Banjir di Margahayu, Penanganan Sungai Jadi Sorotan - deJurnal.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0RjLXgxWHo0MGVrSi00bUpvWk85VTlsQllseV85VkRUeVdybDVzaHBQejFrakJNZDFaZHh4NDJoM3RiQ0xic3Zydm9aSzBZcUpvZGgyOHBXbms5OVRPN3RBLUY0ck9UQkd3WTJsNVB5SkRkbGU2Q0tEUkFlNlZ3bDhFbU5qU21SQjkwNGItWTBPRUVJTkc3RFdLcDZsUQ?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Aksi Bandung Melihat, Hailuki Berbagi Kacamata Gratis - www.balebandung.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTm5sSjlDMmZVR0ZYMmo1WkpkOF85T1hpWl84eTNZQ2o4eGN5aGc0c3BYWW1NVDRuM09hRlM4SkxiZTF4cGk1c283M2dVdEYwek5yNW44RWs1Sm1taFVFTjV4YllzSnRVVFdSaEFCc0UtcHBtYTFndXBLZGNIZVpjTWJvTHNpaFBV?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
      "r": "liputan4.com"
-    },
-    {
-     "t": "Ketua Komisi A DPRD Kabupaten Bandung Hadiri SAKIP Award Tahun 2026 sebagai Narasumber - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdERFNmNHWlpmYWVTTjJSSmNKalNONk44MFR4MUNwMGduYUxlQ1JJTGpsNERqVlpJaUdUY0EzSnBUSjgyUnRKYUx4NlBENUxOaFQxSWRxWjZYS0xfdWg5UmhuWWduTXVlOG5YVFk2Q3hrYjljSEFRQWxBbVd2M0NRWUNQdHA4MVNFUHVnZUhXajFuaEJjQVpmS196WTU4Q1lPTEVTbzNqZnJXaV9RTVpUa25rcUpkZ0ZPaUtnRnBlWU1vOW8?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -194,7 +194,7 @@
     "w": [
      3,
      9,
-     1
+     2
     ]
    },
    "trend": {
@@ -223,7 +223,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -244,8 +244,8 @@
     },
     {
      "t": "Temui Petani di Bandung, Utusan Khusus Presiden Mardiono Serahkan Bantuan Traktor - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUtEV1JROHg3aGVnSlNabDhHa1VEVENNcEpndWdvM0h0bVBCeVNFV0VVeXhoNEM2eTNDLVJYU2NHQXhlTHpfU2phYmEyc2dpOU1Qa1Etd0VLTEhFeEc3a2JidVI3QWtiSG5sMllBNGd2WEFfZ1ZOOGpELVFBZkZJME1rVG4yQU5ueWktQmpBM1QzY3lveUcycUlfZXJUUjdLamlJYW5hWWU1WGhUWU5XdzdEUVpyaHpDemxqd1FRWmVSRXZwb3prNWtRNXl3VUNKeVRTR005R3ZsOGpkNVVUbk1n?oc=5",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2Q0TnJXWGRySmxvR3FjM3Z3R3Nkcmt5T0xwOUpnODVrY3E0OEdsOWRWbnBIR08wUTlVclRYTF8zV21mUjBJLTcwUlBoMFFrazV4aWRTSHBpN2RUc3FZMHBGMEdOM3NIRnYwZDNBcTZ4WGZ3Z0dvSHFCU3dIeEtUc2lwRWRIcTd4SGlmVDdvakFRLVJwNmo2QUJJYWk2ZGNycndOSllrOUtqaUNWSXhvZXYxN283TVJvbzE2NXNEWTkwQVk?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     1,
-     9,
+     2,
+     8,
      0
     ]
    },
@@ -283,7 +283,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      3,
-     24,
-     17
+     23,
+     18
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      4,
      0,
-     9,
+     10,
      2,
      0,
      2,
@@ -413,17 +413,17 @@
      "r": "YouTube Kang Tedi BBK"
     },
     {
-     "t": "PENCEGAHAN BANJIR SEBELUM HUJAN KAB BANDUNG#KDM #kangdedimulyadi #jawabarat #banjir #kopo",
+     "t": "Banjir yang melanda kawasan cpi soreang, bandung (vlog berita)",
      "s": "neg",
-     "u": "https://www.youtube.com/watch?v=z7x9FinllQc",
-     "r": "YouTube Dedi Mulyadi Shorts"
+     "u": "https://www.youtube.com/watch?v=VKNzno-EchM",
+     "r": "YouTube Brilian"
     }
    ],
    "v": {
     "s": [
      1,
      0,
-     2
+     3
     ],
     "w": [
      0,
@@ -455,7 +455,7 @@
      2,
      5,
      2,
-     0,
+     1,
      6,
      0
     ]
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      18,
      6
     ]
@@ -524,7 +524,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      1,

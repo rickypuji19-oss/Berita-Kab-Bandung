@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:10:02.493614+07:00",
+ "updated": "2026-10-13T19:11:45.794843+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
-  ],
-  [
-   "RRI.co.id",
-   21
+   22
   ],
   [
    "Kompas.com",
    21
+  ],
+  [
+   "RRI.co.id",
+   20
   ],
   [
    "Ayo Bandung",
@@ -28,7 +28,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   9
+   8
   ],
   [
    "jabarekspres.com",
@@ -39,8 +39,24 @@
    4
   ],
   [
+   "Radar Bandung",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
+   3
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    3
+  ],
+  [
+   "Radio PRFM",
+   3
+  ],
+  [
+   "Galamedia News",
+   2
   ],
   [
    "Disway",
@@ -48,22 +64,6 @@
   ],
   [
    "Jurnal Soreang",
-   2
-  ],
-  [
-   "www.balebandung.com",
-   2
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   2
-  ],
-  [
-   "Radio PRFM",
-   2
-  ],
-  [
-   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Kinerja PTSP Kabupaten Bandung 2026 Raih 94,838 Poin, Ben Indra: Bukti Tata Kelola Perizinan sudah Sangat Baik - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZmxSdFFVeGZBcDlGSkd2cDhXT0lxMEZoUnNLSGQtVEwxQkpoZUV5WG5GVlVTeF9MSzdHXzlZbHRmZVZNMmpsN0s2YzlMX0ZRQllrNHpNbElORWJDZUpoaGtvWkkyZGFPSmRCMEJLWTE2M3FzY2s5UEJxUEVtd3BwMVhEM3cweUVoRS0xNDZ2ZjJxUnRvM3lDM24xNmlzZU91dEx3MkF4akt5QzNVMGU0Uk1FclRxM3dURTEzSkE4Q3B3Zkc0UjN2dXg1cnp1TWZDcXN6OFhic1dDS3ZrOTY1eHdyZUMtdFZLT2R0MlZodENoTlhUR1E?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3R0QTl2Yzl1VHFVLU1TakV6MWRhTU00R1Q1TFBSTHU0N0p3MlpjRXgwTGhkNjJtZjBVb05lMm15REJEUkJxTHpCSm9ING02akVGWDAtcFQzTk00U09ZclNBWWMyWXdYNkN5MmI1bUtPNDhvMS1jcF81TER1V05Ial9XNW5RbFM2RW5mT3NaNTdSMXZ4cWIxaXR4Z9IBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVjFvT09ha2lBa1lORHVmU3c2eF9jTlI0UUEzX3c0T25UOTdNV2NiRnZaRjlzTUNUY0xtMm0yZzllSWNkb0Y5WTY2RDVuc21velY2Y21WUUdibWRFNDRsTG5VS1pxcUJDbjVOS0c2aHYtUHpsX3RqalRQQk5XMzJwSkRub01OWjhTNWhwZ0g5UjFsOUs0b0VlMTRzcElXQ3pGQW96ZUtKdU5OWEI1Vk9kTVNLSXJKNEZWNXpmVXNtSG1oWjZhOVhCMnFnVUs0RjBsblZmV1BEVVN4S2dXcmg1NXpGZw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pemkab Bandung Perkuat Kontribusi Daerah untuk Pembangunan Rendah Karbon Nasional - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTctZU5INUtPWmFWTmtlSXNNU2VQUTFaXzBaVDlYNmhZbnh6bk44eko5eVZqVVFxSTFYdnpMRWt1THNJbFIwZk9zUzl1UTl5d2NBenpnTlk3Yl95QkNkWGxBWlhmcjdVQV9pTnQtY1ZiZzRLcGVyZVdZbDlZcGRLaGpTZ3VHM2k5RlNKV1I3X3dIQTlKRkRsMVZhVVE4aEdIVzdWZ3NHUXJZUlFIX0h5UVRVcGdrb281Z3c?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     9,
+     10,
      14,
      2
     ]
@@ -138,7 +138,7 @@
      0,
      1,
      4,
-     5
+     6
     ],
     "g": [
      0,
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     1,
-     24,
-     19
+     2,
+     25,
+     17
     ]
    },
    "trend": {
@@ -364,14 +364,14 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      0
     ],
     "g": [
-     5,
+     4,
      0,
-     8,
+     7,
      2,
      0,
      2,
@@ -389,16 +389,16 @@
    ],
    "h": [
     {
+     "t": "Macet Proyek Jembatan Munjul 2 Dikeluhkan Warga, Gema Desak Audit dan Evaluasi Lalu Lintas - Radar Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGRXSGlDWDIxbXpfT3dWN1N1WDYxbE5xd3loUTdObVc3RE83ajJjQTZNT0xidXhCOGs4cmhfUnE2dl9ScnotSGlIU19GQjFSRW16R0dkNUt4U1lpOUl0NE91aUh4c1RNM1BKdExDMk0tSk9SWHRKXzZrV1BWY2daWkpkTkpyV1R0NXV5NEJiOEkyV3d0N1A3S0NvcDNaS0hDUVFqT1Nhb0pXaFUwYWNaRkZRaFotUWprZGNJd0czeEtXRXdWcUE1bA?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Pemkot Bandung Bangun Dua Rumah Pompa, Drainase Hingga Kolam Retensi Cegah Banjir - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbU5YblVLY1J5ajZVa2RMRUw1SVZvLWFDTXRMWmY1Z2cwTUY2VW12Z01WNDFlWFM5MTRGclB3WGhMZWU0aUhTZnZqcmlFYzAyZnFQS3cyWGVoXzg1dzItTkFxcFVoeTVsdm5KbVZtT3ZJVkFQeTFweFRfNVBmd3c5Tmg3VEVXWFBFXzVlRU03c1loNjNDYWhVMGRNajdDYV9XUjd3TEpUTzR6ZWlVVnZaR0JzQlFKXzhLMUtRdUwtSlB5eTllS2JJTzJicw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Monalisa Sapa RT/RW Sindamgsari, Warga Apresiasi Polsek Jalancagak - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3NCRGJuN2JZVGRab3NCY3Y3VFVlNkhNZUxfRVk5cENhS3NNc284NWd0MzNWRDExby10STBSZFI1RlBRUFNSYk9vS2JERkFNSTZlSjJyY182Q2podWtnU0o2YXp5Z1J0ejVtTTAxQUZoYXlhXzdaRnFBOURkTHBrWGdESkRzYnFyMHlXRk5PVHFLZVB1WkFTT2QtWEtwdFBDX1pjTmtrVGhHZE0?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Foto : Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
@@ -426,9 +426,9 @@
      3
     ],
     "w": [
-     1,
+     0,
      7,
-     17
+     18
     ]
    },
    "trend": {
@@ -448,7 +448,7 @@
      0,
      0,
      0,
-     1
+     0
     ],
     "g": [
      3,
@@ -457,7 +457,7 @@
      2,
      1,
      6,
-     1
+     2
     ]
    }
   },
@@ -473,7 +473,7 @@
     {
      "t": "Telkom University Tindaklanjuti Kasus Perundungan Mahasiswa Baru, Dua Pelaku Dijatuhi Sanksi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVExlMUM1WXQtM3hmX0RnQ3poN3hYeTd1cjVPTWZySEZQeXFacDk5c3J3U1JOdGEtVnhLejVjQ002X3hmYWR5djdSUHhqc3Fkek5wVFk4T0JYYVdlUDFDUnV2TmxwU2RUejdNck91c2Q4aGFoSW5XS0ppTExHZ2w4WmotdjNPWmxYQnpzTFRHZVJSN29JRmFFMW1CYXUyYnh4aFJYVUtPZ1Bxdl9ITldzRUN2bnRKOU9fUWZyWmpCVEY5bk5KQ1ZzNVFDcWFBWXZoRGRjVnBPaFEteTE2bTlz0gHfAUFVX3lxTE5UTGUxQzVZdC0zeGZfRGdDemg3eFh5N3VyNU9NZnJIRlB5cVpwOTlzcndTUk50YS1WeEt6NWNDTTZfeGZhZHl2N1JQeGpzcWR6TnBUWThPQlhhV2VQMUNSdXZObHBTZFR6N01yT3VzZDhoYWhJbldLSmlMTEdnbDhaai12M09abFhCenNMVEdlUlI3b0lGYUUxbUJhdTJieHhoUlhVS09nUHF2X0hOV3NFQ3ZudEo5T19RZnJaakJURjluTkpDVnM1UUNxYUFZdmhEZGNWcE9oUS15MTZtOXM?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWQyNV9WbDRrOEd6NG5UZ1h0V1llMXN2V1ZuWnp0c3ZIR2U1Ull6V0pUMngtYmxxVXVqYXNFTm1uSFUtOGxGZ29tNGpfN3dYYmpVVzM2UFJuRlBzVDVzN2U4UUNUQ1BYRjVqNnk1UmUxMWlhUzFLVUJ0X292T2pCRThtYkFqWWt6WEFLTldjc3UyaWdqMXhWTC1vUjZpNVVPdXB2d2YwejBOWDNwMDlDOXVvT3NWS2FEd2RUZTFwcHNldHIzYVgxLVU0SFpzd2g2NGpqZHhYUHRPZ9IB3wFBVV95cUxOVExlMUM1WXQtM3hmX0RnQ3poN3hYeTd1cjVPTWZySEZQeXFacDk5c3J3U1JOdGEtVnhLejVjQ002X3hmYWR5djdSUHhqc3Fkek5wVFk4T0JYYVdlUDFDUnV2TmxwU2RUejdNck91c2Q4aGFoSW5XS0ppTExHZ2w4WmotdjNPWmxYQnpzTFRHZVJSN29JRmFFMW1CYXUyYnh4aFJYVUtPZ1Bxdl9ITldzRUN2bnRKOU9fUWZyWmpCVEY5bk5KQ1ZzNVFDcWFBWXZoRGRjVnBPaFEteTE2bTlz?oc=5",
      "r": "Ayo Bandung"
     },
     {

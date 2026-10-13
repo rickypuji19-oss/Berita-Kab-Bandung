@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:09:43.455546+07:00",
+ "updated": "2026-10-13T12:09:51.312042+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -39,11 +39,11 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Galamedia News",
    3
   ],
   [
-   "Radio PRFM",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -55,15 +55,15 @@
    2
   ],
   [
-   "Galamedia News",
-   2
-  ],
-  [
    "Bangbara",
    2
   ],
   [
    "Pikiran Rakyat Koran",
+   2
+  ],
+  [
+   "Radio PRFM",
    2
   ]
  ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "PSI Jabar Desak Partai Koalisi Bersuara Bela Gibran di Tengah Polemik Ijazah dan Tuntutan Pemakzulan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2lZTmlwbldHM2hoeHJCTlh2amExTkRQMzh3R08xTVE0QTZnUDRDdDlNU3JkZTZSZjJ0a1ZldDloRlJXQmhkQllLRUVzbzBILXJjMzZCU3Z4RzNqVHlQdkRHMjdrZXA4UHVpWGZHU2duVEtGT0FhdHNRelJudk4yRUlMckhKNktrbDZ6RzJwUEhJZkx1MFdpUFU5c05DMFBkR1kwR09VV1V2RzB3ODFVTTNFTEVIUG1fazh4OTNXVC1HbTNnb1BIekY3Q01tSUkzTlVDTG9uUi1JVjNFYTlPdTBMNmdNQQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Ini Temuan BPK di DPRD Kab. Bandung - Bedanews",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Qa2EzV2lPc1NuWnE1aDNHZHdTaG81NUMtTVZMV1pLMlEyWHpITC1vcjlLWEhxVTFfN3pnVHRxVnpRZGwzU0pIVEtDRFpvQjZrZ19DVXFHem0zSGRKUkk2TjVoLV8yeDQ?oc=5",
+     "r": "Bedanews"
+    },
+    {
      "t": "Aksi Bandung Melihat, Hailuki Berbagi Kacamata Gratis - www.balebandung.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTm5sSjlDMmZVR0ZYMmo1WkpkOF85T1hpWl84eTNZQ2o4eGN5aGc0c3BYWW1NVDRuM09hRlM4SkxiZTF4cGk1c283M2dVdEYwek5yNW44RWs1Sm1taFVFTjV4YllzSnRVVFdSaEFCc0UtcHBtYTFndXBLZGNIZVpjTWJvTHNpaFBV?oc=5",
      "r": "www.balebandung.com"
-    },
-    {
-     "t": "KDM Tinjau Titik Banjir di Margahayu, Penanganan Sungai Jadi Sorotan - deJurnal.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0RjLXgxWHo0MGVrSi00bUpvWk85VTlsQllseV85VkRUeVdybDVzaHBQejFrakJNZDFaZHh4NDJoM3RiQ0xic3Zydm9aSzBZcUpvZGgyOHBXbms5OVRPN3RBLUY0ck9UQkd3WTJsNVB5SkRkbGU2Q0tEUkFlNlZ3bDhFbU5qU21SQjkwNGItWTBPRUVJTkc3RFdLcDZsUQ?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "Wujud Komitmen!!! Acep Ana Kawal Aspirasi Warga Babakan Peuteuy Hingga Tuntas - liputan4.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlVEbnhHc01URlQ4c0ZjZ205MFZ0b0x6R3NUdTN2VW9GUFAxdDdvNUM4ajFPV0JRbmxKb0x5YlI0MnM2TzY4MUJyR0FtWUM3TTZjNVowZG14VjRCQnBmSkE4STk1ZjRRblNiN3RLTjF0T3c4c2ZRXzAyQzRIOGkwRVlyUTJtUFNfU0I3bXFBUW5EWHR1YTBKdHV1Sm0?oc=5",
-     "r": "liputan4.com"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -194,7 +194,7 @@
     "w": [
      3,
      8,
-     2
+     3
     ]
    },
    "trend": {
@@ -223,7 +223,7 @@
      0,
      0,
      0,
-     1
+     2
     ]
    }
   },

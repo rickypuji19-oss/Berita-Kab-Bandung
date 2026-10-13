@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:09:51.312042+07:00",
+ "updated": "2026-10-13T13:10:54.664941+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   22
+   23
   ],
   [
    "Kompas.com",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   16
+   17
   ],
   [
    "Ayo Bandung",
@@ -35,10 +35,6 @@
    6
   ],
   [
-   "Inilahkoran.id",
-   4
-  ],
-  [
    "Galamedia News",
    3
   ],
@@ -48,6 +44,10 @@
   ],
   [
    "PPID Kab. Bandung",
+   3
+  ],
+  [
+   "Inilahkoran.id",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Siti Muntamah Minta Perda Sampah Tak Sekadar Dokumen - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTRhUERpZXJFQVpQd3lLcVJ3X3BaSWplZGxIc05WVEtNRU5oNWNLSUd3SVdENDA2SXZKX2tXYm5pMFphZlZpY0VtTjdIcjJoSGMwZXhvUGZVaU5mLXpsZlczbF9fREpmYkdIQ3p6b0cwQWNLclRudTE1NDBmVkRuUzlramFwXzRfVUh3Wkdwc1A5bHd0Y0VPQ2d4WGx3TkpwdHc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Pemkab Bandung Siapkan Skema Baru, 450 Ton Sampah Per Hari Bakal Dikirim ke Legok Nangka - SUARA PAKTA",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUhzYmJNdzVrYTRJcGhkdUJ3WHdXSVpmaXNCSE5wMTZiZHd4TWJDSVZJOHZLLUUtVHlINzRvZHBZZm9jbkg4eG5tT3pqZ2FzRTQyZ3Fva1VtazN5RUlrS2RvS1dVVXBnblFBM3FJNjZJTXllRERnLU5HUE9xYklHNEZNVQ?oc=5",
@@ -88,12 +94,6 @@
      "t": "Bupati KDS Bakar Semangat Atlet Bawa Pulang Emas - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeC1DTG9tNXlYXzA4dDdtTUtDRm1IRFhOLXFzUndlZEJ1NEJpNHRKeFBqYy1nTE5yQUZuZHU5RGJMN3RsS3hZandCUWJxU2IzS1loMzQtX25zUzJSUGctejJkUVBzNEh5LUdGUzl3TWx5bWcyZHpDT1p2YlRBOG5Xd2stdE1tTnZKZ09GUzRreHl1WDBHd3Fj?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab dan KONI Kabupaten Bandung Gandeng BPJS Ketenagakerjaan - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTNaLV9tbUFNNHRnWmkySnh1ejlGVmNVY3lJLVFwMDJaTDFweFJaa0VUWHpDZnREYUhQNF9Bck5lNE5TNldEekYxQVg2TWoyR2JIZEczMlNUWjdKaG16bTdwelR3cHIzRzJoeXRZMFFSV3pVX2w2d3hxVUJCY25laDgwOVI2VFVBY3lEaURrYURYcy1WQ0k0R09NbjFDVDNyZWlVLTZkMA?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Modern Market Lembang Jadi Pusat Pemasaran Hasil Pertanian Lokal - ayobandung.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHJ6OE1TNkk0dkZ2WGFuWjZiOTdlRkV3ZzVkUm5LcGZSVjAxbmNBeVBJeE92SjEyZnRNNjRPZkNqbkl6MVpEbTd3cTA3RWVMRFBOd0xtZk9DOWd5T0llc0hYTXpXR3NRWUxqUzZvZEFHbXMydEg4bjNRZ0dZTmIyYjhpNF9CU3owLU5ReEJ4cUtxOHBfaHlWaWJYazJzUWtaY21PQTl1emltdEVGMkdZ?oc=5",
+     "r": "ayobandung.com"
+    },
+    {
      "t": "Foto : Temui Petani di Bandung, Utusan Khusus Presiden Mardiono Serahkan Bantuan Traktor - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUNSVEVySFBDVFdYMVNXb1JST3NGUFRfbllESWxlR3E1NjdnSDZCRVc0OU84WmtNVTEwRDRGY0h2ckJlUmlybktUbTVHX3FEWEs4c0FmcnlJOFNXTjZSbFVnTl9WRGFyZTBmcUpScldIX2FoWnQxUjZxWVFwUVVLVkNzLVRVQkFnTFVfeWRyaTFZN2JoMmJETllybE5LUnJVaEZyRGpXTGNkWXFRaGhGRjdHZFJoR0hwSWZNaWFuN0toN2VB?oc=5",
@@ -247,12 +253,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2Q0TnJXWGRySmxvR3FjM3Z3R3Nkcmt5T0xwOUpnODVrY3E0OEdsOWRWbnBIR08wUTlVclRYTF8zV21mUjBJLTcwUlBoMFFrazV4aWRTSHBpN2RUc3FZMHBGMEdOM3NIRnYwZDNBcTZ4WGZ3Z0dvSHFCU3dIeEtUc2lwRWRIcTd4SGlmVDdvakFRLVJwNmo2QUJJYWk2ZGNycndOSllrOUtqaUNWSXhvZXYxN283TVJvbzE2NXNEWTkwQVk?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Utusan Presiden menyerap aspirasi petani dan salurkan traktor di Bandung - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFCZHcxQ2lSRDJyRklZaUVYVmFfNFktY1ZrWEJJaWZtUkFoOElHRDhkaVdROEpLSUlDUWI4WWRsNTA4M3Vjcm9ZRTQxcE1JbFZSQTJXXzl6UXhOZTVJcmlqZjJzQXRTSzhYWm53RmZkZ0NHdVVDdUgwNzV5RnBKRmtjRUx6dWh0M0ZuMWVWakR5dzRMNFRPY2I2ZHd1dms4cVphRnVxQ2ZFMEdTQTFrQXo5MVBId9IBuwFBVV95cUxPMHlSUFBibEd3VTFTLWhiTGVyOEZGTmpHZEJiOFRXQnM0VDUyLWEyZzRJX05mSWhKazZIR0s0Q042QUltSXV3dVBMc0dSR0xRM2Z4aHhjQl92cGNLSGR1LTBfVEFYVzUxdkhVLUZGZnZxN1JwdjdGeThsNnE2UFdkUGFBRTFndzBEZC1VTjlhYjQzYzJqS0RNWmRWSERLWUI3LUVRQS13YTFKZW50VnZNbnU2OWFyNGdZR2tJ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     2,
+     3,
      7,
      0
     ]
@@ -284,7 +284,7 @@
      1,
      0,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     22,
+     23,
      20
     ]
    },
@@ -361,10 +361,10 @@
     ],
     "p": [
      0,
-     1,
      0,
      0,
-     1,
+     0,
+     2,
      0,
      0
     ],
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Farhab Buka Peluang Dishub dan Satpol PP Kawal Perjalanan Persib U-18 saat Berlaga ke Luar Kota - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWjBYZUJhV3RtU0QzdnZZMkJJQnp3RURfc0h4aHZlUkU3UGhraHZkSVZHbnBrQklJTlh0VmM5SlduTnJjVHRlYkl6a2VCQWk2Mkpvd1FOV0xtWHpLR25Hbm80UjZ2U1RoQjZVRk12bVNZRjlZMTM1X3FPM0RzVExiNFAxSHRxaGNzU0tBQUpDR1JHRmtSdi1vY2lBcVIzRks1djNzU2RxWnZwazJEQnVXdVAzY1VuQzdEdFJrS0lWTlFLSEdvcVBFcnFxYW5aNjFydnVQNG1YeTF0UFFsQmJn?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Foto : Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tVaTdfam1tUFVwa0Z2YTNzbVBIUm41RkNRbE9WWVVLaXA0Z1Z1LUtyek1LTTFGYk9ndkd1c3RRMzNOejFXX05vX3VVY3hESmZiOGV2SlZRZTV1SFNoZk5pVE1DSmRNN184Ry1jVzU1MldWTWhfRmJid0dJbUR1czA5WHpjOVc5OV9CUUNldm80VjlTTk54UmNFc0dOam4zNi1SbW00SERWaTRTVWdJVFNWUnpUVFhuc0loM3FobVZCUQ?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEVoQXFmRHVuZ29qdk5zU1F2aTNUNzhmWjlSZXk1T1JtLUtSbG9vTDdUUzlPT2o4czNIdzdyc1FIY08tNEFONURwM2F0RWNscFlkWC1hZmp0YVMwZWxkNF9xc1NQd2NYMVkwQjRvMkY0eUhWMUFaNjRlclFsR0ZqNHY1WUJpaWRmUEE1TDVPaFI5Zl9OQV9mUWtZT2U4cFpsRkM3WFhITk91N2w3aUZv0gGvAUFVX3lxTFB4RWhBcWZEdW5nb2p2TnNTUXZpM1Q3OGZaOVJleTVPUm0tS1Jsb29MN1RTOU9PajhzM0h3N3JzUUhjTy00QU41RHAzYXRFY2xwWWRYLWFmanRhUzBlbGQ0X3FzU1B3Y1gxWTBCNG8yRjR5SFYxQVo2NGVyUWxHRmo0djVZQmlpZGZQQTVMNU9oUjlmX05BX2ZRa1lPZThwWmxGQzdYWEhOT3U3bDdpRm8?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkNhcG5sM3p6TWNrU2trVGNIalFSNHRUMTJneDd4ZXlhU1JvOHo3NjZlUWFHNkVFS1F6cy00cGdoU0pGUmlEMEFGenctNWtUeHZCS1ZhS0lTczRkUDZfblFCeGFxYXoweUtEalM4RFFvUjd1aEhqemFzbEpwYURIa0pfSDJXNmstSEVBQk9aUWF4cnM1aTVrZlBEU2J1cTNpMlNvak5YNFpiYTZSbDJYR0RmWTZxOXBoaENBVzFQLUR3Z2Y1MnI5dzhkcWY?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
@@ -427,7 +427,7 @@
     ],
     "w": [
      0,
-     6,
+     7,
      16
     ]
    },

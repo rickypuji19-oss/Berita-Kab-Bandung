@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:11:02.510774+07:00",
+ "updated": "2026-10-14T02:21:49.354887+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,15 +7,15 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
-   21
-  ],
-  [
    "Kompas.com",
    21
   ],
   [
    "Tribunjabar.id",
+   20
+  ],
+  [
+   "RRI.co.id",
    20
   ],
   [
@@ -32,7 +32,7 @@
   ],
   [
    "jabarekspres.com",
-   6
+   5
   ],
   [
    "Radar Bandung",
@@ -91,10 +91,10 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Kasus Pekerja Migran Cililin Diduga Disekap, Kementerian P2MI Mulai Berkoordinasi dengan KJRI Dubai - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ1NQZnNwNkZSaWlsa3FNTlFfdXlVdi1GZ3NkR05xNEI4ck5vTmxnMEtITXBjTkNBQk15aUp3OFVWVnpNb3BiSmRULWJzTlNyNEY0bEZNaWR2RV9ibUJPXzFtTEE5c2hjOGhXTmhWMlFycFlsMEJkNDZfT1hXa0JGUl92NUdtMEpRaWRSU1l2TXNaVzNPLWdmV19wWk0yME04Z2VfUmNxWXpwZk5nM0FvbnBoYmc3WWwxVTdGYUVSeHh3U0thTnh3Ql9oWHBRN2pyZEx1ZUVEd20zUmYyNDNBUHpuUdIB6AFBVV95cUxONndPOVlURk15cWV0cFlCY2dkOUlqbkN0VXh3OXAxLUZ4X056WTBKMTZKX1U1WkR3QjFMSF9KYWcybjFzLXZmN0tOM2pRX3FXdGw4SXlYRXdfM0VQZUZTSkR5S0N0Z254SFVMaFRPbjJIdHNvVkJIT3o2RnVjOXh2T1QzVEFvNk9VZldOQkVUa2J2ZUtTNTFjdndnYllWVkdoQjRia0R1cXNHUEpOUDJFSXp1Slk0cllJZDZTVGRkUUxReWhZeFVLemhtSThZblNBdC1ybXVaUXNYYnBXTmJvbHhUV1JHdnl1?oc=5",
-     "r": "Ayo Bandung"
+     "t": "R.A.A Wiranatakusumah V: Menyusuri Jejak Sang “Raja Sunda Terakhir” - Kabarbaru.co",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2tELWxfQWxLUGZQdTRXMWxfdzNOLWUxZzc0cndJMmZIV0ZaNE1NeG1RRms3TE00WExZRHNzNlJ4MXVBclgxNlFaMUJkb0M5cVdJekJTdmFlTmRxbDVZWG8wbklYcHJacDc2d0Y3NnVieVlxeHJRYVVRd2J4YXFIZDBhVVFqV08wVU9XX2hpUQ?oc=5",
+     "r": "Kabarbaru.co"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     9,
+     10,
      12,
      3
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      3,
-     7,
+     8,
      0
     ],
     "g": [
@@ -194,7 +194,7 @@
     "w": [
      3,
      7,
-     2
+     1
     ]
    },
    "trend": {
@@ -222,7 +222,7 @@
      0,
      0,
      0,
-     2,
+     1,
      0
     ]
    }
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     27,
+     25,
      13
     ]
    },

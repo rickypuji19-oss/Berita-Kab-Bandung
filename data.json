@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T16:09:42.727712+07:00",
+ "updated": "2026-10-13T17:09:49.520768+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    22
   ],
   [
-   "RRI.co.id",
-   20
+   "Kompas.com",
+   21
   ],
   [
-   "Kompas.com",
-   20
+   "RRI.co.id",
+   19
   ],
   [
    "Ayo Bandung",
@@ -24,7 +24,7 @@
   ],
   [
    "detikcom",
-   10
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -39,11 +39,11 @@
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   3
+   "Radar Bandung",
+   4
   ],
   [
-   "Radar Bandung",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "Satumedia.id"
     },
     {
+     "t": "Bupati KDS Dukung Penerapan Nilai Ekonomi Karbon. - opininews.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3RSSWhOYXA0b1pZTnptMlN4a0xxS2hDbU9LWGo0SDNONjNzNkNzTzJfUHluLWN0UngzWVVUWm1CWHd1aVNVSllNV3ZKXzFZMFFYSUpPYklOdDJqRlRSeG1uU21wY1JUMm5zZC1oSkxkaktoQjd4YlByQnNSMEx6WGlKc2JqS1J6TUNTVmRPdnhEaW1lcnRpcw?oc=5",
+     "r": "opininews.com"
+    },
+    {
      "t": "Dukung Nilai Ekonomi Karbon, Kabupaten Bandung Andalkan Potensi Energi Bersih dan Pemulihan Lahan Kritis - bandungraya.net",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNODQwNGM1NkEyT0w4dU96TG9vSDJ6MmhuSmNsc3dDZXNEek94RmZUYmtUaTUyc2tVbUdtVm1qMnJHdzA4MjlPZ1puYlhwMnBBU0ZKNXFkVTQxQ3hSQklHbDkxVmpiS3J1dWV3dnNHZm5OZm40ekY2R0hSTEF4ZkYwNURFZWk4cmtDLXpoWGFKQng5N2p1Mlc4ZjJ2OTFnLXZQM2tsTXlTeUR6LVpoUnRsempuckYxWkdXU2swWDd6UktRc09oY0w4cGZUeWNQM0ZS?oc=5",
      "r": "bandungraya.net"
-    },
-    {
-     "t": "Dadang Supriatna Dorong Kabupaten Bandung Jadi Pelopor Ekonomi Karbon, Potensi Panas Bumi Capai 2.711 Megawatt - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbm1mdi1BMy14OU9tMXNCSWEwNElxb1hiOE9LOFlPVWRBS1Zxc19rZ3Rxc0Q1WFdlLVBocnR4YURrMHEyd3lFeURiWUpFby1yX3RmbmFLbkVGOWJ6c2xJU2NWQmdfMXV4ZE9RNXFnYUlXYk1MNGxyX1V0WGdPRnRpejVMLTRmbXl2WnMzOV9qUnZJRU9WdHlRVTNTR2RVdDBUeW9BLVNRTGtMRVEzNzRULTVIT05lUDZueTFST19KODVCV1VDdW4zUXhjWVFyTlVHdnBNVUwwVnFCQ0lZanpOa3BmS0ZUNm9Ta2Fvb1BBNWhmTlJ0Y21nb1lucDBtUUJRdkttQdIBhAJBVV95cUxQbm1mdi1BMy14OU9tMXNCSWEwNElxb1hiOE9LOFlPVWRBS1Zxc19rZ3Rxc0Q1WFdlLVBocnR4YURrMHEyd3lFeURiWUpFby1yX3RmbmFLbkVGOWJ6c2xJU2NWQmdfMXV4ZE9RNXFnYUlXYk1MNGxyX1V0WGdPRnRpejVMLTRmbXl2WnMzOV9qUnZJRU9WdHlRVTNTR2RVdDBUeW9BLVNRTGtMRVEzNzRULTVIT05lUDZueTFST19KODVCV1VDdW4zUXhjWVFyTlVHdnBNVUwwVnFCQ0lZanpOa3BmS0ZUNm9Ta2Fvb1BBNWhmTlJ0Y21nb1lucDBtUUJRdkttQQ?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     9,
-     12,
+     10,
+     11,
      2
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      4,
-     5
+     6
     ],
     "g": [
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     9,
+     10,
      0
     ]
    },
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     24,
-     18
+     23,
+     19
     ]
    },
    "trend": {
@@ -369,12 +369,12 @@
      0
     ],
     "g": [
-     4,
+     6,
      0,
      8,
      2,
      0,
-     2,
+     1,
      2
     ]
    }
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     18,
+     19,
      7
     ]
    },

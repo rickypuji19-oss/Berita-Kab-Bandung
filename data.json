@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T20:17:43.440176+07:00",
+ "updated": "2026-10-13T21:13:18.195666+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -39,15 +39,15 @@
    4
   ],
   [
-   "Radar Bandung",
-   4
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
    "Radio PRFM",
+   3
+  ],
+  [
+   "Radar Bandung",
    3
   ],
   [
@@ -344,7 +344,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      26,
      15
     ]
@@ -364,7 +364,7 @@
      0,
      0,
      0,
-     2,
+     1,
      0,
      0
     ],

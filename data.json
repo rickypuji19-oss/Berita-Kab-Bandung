@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:17:06.321895+07:00",
+ "updated": "2026-10-14T05:16:34.489737+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Kompas.com",
-   22
+   21
   ],
   [
    "Tribunjabar.id",
@@ -35,19 +35,19 @@
    5
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
    "Radar Bandung",
    4
   ],
   [
+   "Pikiran Rakyat Koran",
+   3
+  ],
+  [
    "Galamedia News",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "bandungraya.net",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sampah Kabupaten Bandung Jadi Sorotan, Pemkab Siapkan Langkah Antisipasi - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFVQR1hORFZBZFlzUlFDNTZxdk5IZ2VZT0xHeU9aSVVtWlBxeUFTd2k2bzNaWEptbVNfZUJRWkVoUW9XczZITU1CbVZYakd0RGV1UjdpVkZyUk1XZHRid1I4ZzJVRzRyUXlvM0c2ZkwzVGpEcmo2cXRDbFFXbWVrU3NfdXZtWWo5UEt2YVA5UWlWRmtScWJQQ1RXRFpLMjN6OEE5NWNkRWxmMG1ZWUg2VVg4VzlINDVWc3BFWjNzdUpVdw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN01jREV6UGNCYWwzMGRpUGtNcjk5dWJGYWtqY3ZRYlh1eDliVHdHZkRva0xVZGVXM3dGMzNVRE9hcW9VbGRfRm5FaThNVkVGTmo0UFpBQkRBcFRLQ0I1anVXNV9SbGxPMFdhcTJCc3FseW9STV9naUprc3NyTXQ4LXhwZEgwdXhRcjEtX1VwdHhIMkkyZkg3MUdTODhERWdMaDdUclduSW5iNkxRQjVLMVhoQjdka3prVmRQd0swcklyRm9QdUZvamZyQzJGMHBQYTN6aGRKR1RobTZuWG1od0hxWTBIZkt3RDdRb2NsT3VTcUYwOEJR?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "R.A.A Wiranatakusumah V: Menyusuri Jejak Sang “Raja Sunda Terakhir” - Kabarbaru.co",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2tELWxfQWxLUGZQdTRXMWxfdzNOLWUxZzc0cndJMmZIV0ZaNE1NeG1RRms3TE00WExZRHNzNlJ4MXVBclgxNlFaMUJkb0M5cVdJekJTdmFlTmRxbDVZWG8wbklYcHJacDc2d0Y3NnVieVlxeHJRYVVRd2J4YXFIZDBhVVFqV08wVU9XX2hpUQ?oc=5",
-     "r": "Kabarbaru.co"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     11,
-     13,
+     10,
+     15,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     4,
+     3,
      8,
      0
     ],
@@ -319,10 +319,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Kompas.com",
+     "t": "Polisi Selidiki Aksi Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRk11ZGU4TjU4Tnc4aXZSekJiVzE5ckhjeFVwdThxYS1oZ1RRS19mdmxxdEFzam56Y1RVcktvYTU3Y1k3QVpfaG90M0lfdzlJZGx2U1lQMGFWZUgxcFlHR3NFbHZKb255SDNKQzl2U1hiNzNhTmR6VWx1Rm5aR2pSRXc3NzN6ZXo4eTl2NHpNZDdQOG5md3M3dS0wdVZ2WEFBMGowMkluQXl2V0VmLUp5Y211eVl4VEVVWkxvcldZZWt4TzQ0NE4wcVpJXzRMUzFpY0JhaXJtRVFJb0xqc1F5NUNIUk4?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXNvQ0NIem45TDJjbkVmQk5wOXdPQ3Y3SjJvMHg1VnRrUTBRVUdpSFJnaGpjVmlJay0xM0dKQ1NiZERpSnQ2S0s1US0tenEzbE9iVnZrSjZtMGpoWXloWDRoeVdWNzItaFA1MW1XeWNIVGR5YnJJRDUtYlhGX3JZTHcxUXgycVI5WUMzWmpzanZaRHhxanMwS3pLNDQ0aDBiTUpQWi1iN0ZMZHM0YkpwOUpSdjU3Q0NuZFVmYTAxd0doQjJBcVRIWDNmcVdzbjJUSHhsUmtB0gHbAUFVX3lxTFBSODBHOE8tNVBhNmRGSXBZal9zUFBSTFFWTHBmbS0wdnRscEU3UE1vWXQxOVJuZ2MwX19aa3huVFlXbjE4M0NnWnJUaHRUT2VGWWpzbUVqbzQwUjNtajFCZG5rTUh3VzRiNkFrRUs0bkNRY2w3eWwxT3NCaG1CRUViS3BFV0stWER6dnphS0VDQ2EzQzI1LVBzYTNDQkdJZW5yQkxJWnA1aGVMOUF3a2t4cUZwNFlnTmtfSUlnZGg4ZUV2UXF4RUxoY040cnFZTEdXdTd5dnd0VzV0WQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     26,
+     25,
      13
     ]
    },

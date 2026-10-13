@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:19:13.242618+07:00",
+ "updated": "2026-10-14T04:17:06.321895+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -35,15 +35,19 @@
    5
   ],
   [
-   "PPID Kab. Bandung",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
    "Galamedia News",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
+   3
+  ],
+  [
+   "bandungraya.net",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Jurnal Soreang",
-   2
-  ],
-  [
-   "bandungraya.net",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     10,
-     14,
+     11,
+     13,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     3,
+     4,
      8,
      0
     ],
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     19,
+     18,
      5
     ]
    },

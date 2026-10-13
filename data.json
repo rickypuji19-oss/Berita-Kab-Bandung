@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:11:45.794843+07:00",
+ "updated": "2026-10-13T20:17:43.440176+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
+   "RRI.co.id",
    22
+  ],
+  [
+   "Tribunjabar.id",
+   21
   ],
   [
    "Kompas.com",
    21
-  ],
-  [
-   "RRI.co.id",
-   20
   ],
   [
    "Ayo Bandung",
@@ -24,7 +24,7 @@
   ],
   [
    "detikcom",
-   10
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,10 +43,6 @@
    4
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
@@ -59,11 +55,15 @@
    2
   ],
   [
-   "Disway",
+   "Ketik",
    2
   ],
   [
-   "Jurnal Soreang",
+   "PPID Kab. Bandung",
+   2
+  ],
+  [
+   "Disway",
    2
   ]
  ],
@@ -87,14 +87,14 @@
     {
      "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3R0QTl2Yzl1VHFVLU1TakV6MWRhTU00R1Q1TFBSTHU0N0p3MlpjRXgwTGhkNjJtZjBVb05lMm15REJEUkJxTHpCSm9ING02akVGWDAtcFQzTk00U09ZclNBWWMyWXdYNkN5MmI1bUtPNDhvMS1jcF81TER1V05Ial9XNW5RbFM2RW5mT3NaNTdSMXZ4cWIxaXR4Z9IBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZdIBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
      "r": "Ketik"
     },
     {
-     "t": "Kronologi Suami di Margaasih Bandung Ngamuk Dinasihati Istri soal Judol, Serpihan Kaca Kenai Balita - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVjFvT09ha2lBa1lORHVmU3c2eF9jTlI0UUEzX3c0T25UOTdNV2NiRnZaRjlzTUNUY0xtMm0yZzllSWNkb0Y5WTY2RDVuc21velY2Y21WUUdibWRFNDRsTG5VS1pxcUJDbjVOS0c2aHYtUHpsX3RqalRQQk5XMzJwSkRub01OWjhTNWhwZ0g5UjFsOUs0b0VlMTRzcElXQ3pGQW96ZUtKdU5OWEI1Vk9kTVNLSXJKNEZWNXpmVXNtSG1oWjZhOVhCMnFnVUs0RjBsblZmV1BEVVN4S2dXcmg1NXpGZw?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3R0QTl2Yzl1VHFVLU1TakV6MWRhTU00R1Q1TFBSTHU0N0p3MlpjRXgwTGhkNjJtZjBVb05lMm15REJEUkJxTHpCSm9ING02akVGWDAtcFQzTk00U09ZclNBWWMyWXdYNkN5MmI1bUtPNDhvMS1jcF81TER1V05Ial9XNW5RbFM2RW5mT3NaNTdSMXZ4cWIxaXR4Z9IBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
+     "r": "Ketik"
     },
     {
      "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     14,
+     13,
      2
     ]
    },
@@ -136,9 +136,9 @@
      0,
      0,
      0,
-     1,
+     0,
      4,
-     6
+     7
     ],
     "g": [
      0,
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     25,
-     17
+     26,
+     15
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      0
     ],
     "g": [
-     4,
+     2,
      0,
      7,
      2,
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Telkom Dukung Perbaikan 20 Rutilahu di Cileunyi Wetan Demi Hunian Layak dan Berkelanjutan - jabarekspres.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZl9zZ202dVZpSjFndl9IWEtLVWlYQUNmWng3RWtzTFJHc19GV3ZtekdBOE5UeXVVY2NjU3dJeFRTTEM1TDlOM29OM1BOeVM1djZ4YWZOVm5XM1hqbHV3NmNDNlBFVVNIM2otWGZBVzdySFc5dzk0Sm1Ycnh1T2xET3dlRFY4Rm1CWTY5ejZCYm9tWVVObXpWLTloMUV6MXRybVRuQ25pa3JIVDllbldhb2JzY0NQUWlFd3d6cm02eU5JLW0yQ3VJRGZCUGVVdw?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Macet Proyek Jembatan Munjul 2 Dikeluhkan Warga, Gema Desak Audit dan Evaluasi Lalu Lintas - Radar Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGRXSGlDWDIxbXpfT3dWN1N1WDYxbE5xd3loUTdObVc3RE83ajJjQTZNT0xidXhCOGs4cmhfUnE2dl9ScnotSGlIU19GQjFSRW16R0dkNUt4U1lpOUl0NE91aUh4c1RNM1BKdExDMk0tSk9SWHRKXzZrV1BWY2daWkpkTkpyV1R0NXV5NEJiOEkyV3d0N1A3S0NvcDNaS0hDUVFqT1Nhb0pXaFUwYWNaRkZRaFotUWprZGNJd0czeEtXRXdWcUE1bA?oc=5",
@@ -401,32 +407,26 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Foto : Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tVaTdfam1tUFVwa0Z2YTNzbVBIUm41RkNRbE9WWVVLaXA0Z1Z1LUtyek1LTTFGYk9ndkd1c3RRMzNOejFXX05vX3VVY3hESmZiOGV2SlZRZTV1SFNoZk5pVE1DSmRNN184Ry1jVzU1MldWTWhfRmJid0dJbUR1czA5WHpjOVc5OV9CUUNldm80VjlTTk54UmNFc0dOam4zNi1SbW00SERWaTRTVWdJVFNWUnpUVFhuc0loM3FobVZCUQ?oc=5",
-     "r": "Kompas.com"
+     "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=Lq9RgnY6M-Q",
+     "r": "YouTube PONGGAWA KDM PAJAMPANGAN"
     },
     {
      "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=idAzdEeoeQ4",
      "r": "YouTube Kang Tedi BBK"
-    },
-    {
-     "t": "Banjir yang melanda kawasan cpi soreang, bandung (vlog berita)",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=VKNzno-EchM",
-     "r": "YouTube Brilian"
     }
    ],
    "v": {
     "s": [
      1,
-     0,
+     1,
      3
     ],
     "w": [
-     0,
+     1,
      7,
      18
     ]
@@ -448,7 +448,7 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "g": [
      3,
@@ -471,22 +471,22 @@
    ],
    "h": [
     {
+     "t": "Mahasiswa dan Anak Muda Bandung Ditantang Ciptakan Inovasi Perumahan Lewat BTN Housingpreneur - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNGtXcUtsTDdEcnV1RUxLMllzdWN3QVgyR1o1OGk5U0wwbnZIcTIwRDZfeGRGamJSTVRWdm9IdEc4R0NCRVVfWmFTOGVSOGg3bHlqbVJHUWRGeWVnZDNtR0dlOXFMUVRoa1hPZVVqYm1zOGxwOFZRZUlWMXJBOGNQSl95ay0zTHJhdjRJM2N1TnpvamFiZU9XRUdRUW1uRUhUaFdGbXVCQXF3eFE3X3dNcDN0dXdJcTItNUV2ellHVEVnOTVwQmRxVm5TVTFoWDdqOXc4MWJhQzVmR3FV?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Pemkot Bandung Tunggu Kajian Final Kebijakan Siswa Tidak Otomatis Naik Kelas - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3Z5aWZGYVhaWEtfR3htSUZjeXpjc2xJZEZvQ3VlNjRBay05ZDhjalNIUUIzM2pQWnVKNl9xZENPTml1U1NDSHd0Mm5INHFBUHJfSGVkVUI0cUNMZTFaSGowVjJrM1BaN2dyT3pBX2hUSUl5Y09FN2VXUVBiUG9CSVF6bjFIZ0U1TUxMNHRSTVhsenhuaG1TQ2xfa1h2MXdCNlpyUmxoX3RVTngtWEF4M29lU29DMXVxaVN3?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Telkom University Tindaklanjuti Kasus Perundungan Mahasiswa Baru, Dua Pelaku Dijatuhi Sanksi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWQyNV9WbDRrOEd6NG5UZ1h0V1llMXN2V1ZuWnp0c3ZIR2U1Ull6V0pUMngtYmxxVXVqYXNFTm1uSFUtOGxGZ29tNGpfN3dYYmpVVzM2UFJuRlBzVDVzN2U4UUNUQ1BYRjVqNnk1UmUxMWlhUzFLVUJ0X292T2pCRThtYkFqWWt6WEFLTldjc3UyaWdqMXhWTC1vUjZpNVVPdXB2d2YwejBOWDNwMDlDOXVvT3NWS2FEd2RUZTFwcHNldHIzYVgxLVU0SFpzd2g2NGpqZHhYUHRPZ9IB3wFBVV95cUxOVExlMUM1WXQtM3hmX0RnQ3poN3hYeTd1cjVPTWZySEZQeXFacDk5c3J3U1JOdGEtVnhLejVjQ002X3hmYWR5djdSUHhqc3Fkek5wVFk4T0JYYVdlUDFDUnV2TmxwU2RUejdNck91c2Q4aGFoSW5XS0ppTExHZ2w4WmotdjNPWmxYQnpzTFRHZVJSN29JRmFFMW1CYXUyYnh4aFJYVUtPZ1Bxdl9ITldzRUN2bnRKOU9fUWZyWmpCVEY5bk5KQ1ZzNVFDcWFBWXZoRGRjVnBPaFEteTE2bTlz?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Mahasiswa Telkom University Ingatkan Pentingnya Berani Speak Up Terhadap Tindakan Kasus Perundungan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEVzUDdIbk04WGpkb09YR2ZDUWhFMkZzMXpBdVJyTU5nU3p1SjdYR3oyeUc2VnJBX0cyNEFhc0ZuQmh4SDI4T0VsSjBDeFdGdXMwRXRpUXlqbDZSdjVpaHg2dHB2V2dZSG9GYktJVGc5OWxYOUJPSHFZRzJZeVRpaWNhWXY3Nmd4NVR6ZW1GSEctUUpQbTEtRUwtU0FDUTAwUHRiQWpvdzlrdFNHOXJnQWJiWEJQbGRQSWlaekh5eF9DVWIwQi01d1IycVJtb1FvMlJMRzV3QlZleVFfcjJ6ZmtlS0c?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Dugaan Pelecehan oleh Oknum Dosen di Unpas, Mahasiswa Bakal Gelar Aksi dan Tuntut Sanksi Pemecatan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2hxRG1UMjJEZjRELW5zV1RIREJpaEhqWi1YVVBTMTJtNGUtQlpGaFA2UXlLSlBncmN2RkpYWlFOb2VVaGhRNWVjb1o4NlBJZzlOSTh5TE1DdGNPU0RIZmY1d2lEZ1lVRGhUcmUwaldaS1Vxcmg0c2Q1WlBWcUs5ZWlkMlVaenFOS1pfZXFjMm14blUweW5JTzBXQVh4bGFIdC1LQ3BveU92V3B5Ri15d1RlcTJ3RG9qUHRlMXVLUkU2X1ptME1KZVVtNmw5enYtVThILWVvbkZzWXlqQVdxNmlR?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Analisis Kebijakan Publik & Reformasi Birokrasi Pendidikan",
@@ -508,9 +508,9 @@
      0
     ],
     "w": [
-     2,
-     20,
-     6
+     3,
+     19,
+     5
     ]
    },
    "trend": {
@@ -530,10 +530,10 @@
      1,
      0,
      0,
-     0
+     1
     ],
     "g": [
-     1,
+     0,
      0,
      1,
      0,

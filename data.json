@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:13:18.195666+07:00",
+ "updated": "2026-10-13T22:11:46.182214+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,11 +7,11 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
+   "Tribunjabar.id",
    22
   ],
   [
-   "Tribunjabar.id",
+   "RRI.co.id",
    21
   ],
   [
@@ -20,7 +20,7 @@
   ],
   [
    "Ayo Bandung",
-   13
+   12
   ],
   [
    "detikcom",
@@ -39,20 +39,16 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Radar Bandung",
+   4
+  ],
+  [
+   "Galamedia News",
    3
   ],
   [
    "Radio PRFM",
    3
-  ],
-  [
-   "Radar Bandung",
-   3
-  ],
-  [
-   "Galamedia News",
-   2
   ],
   [
    "Ketik",
@@ -64,6 +60,10 @@
   ],
   [
    "Disway",
+   2
+  ],
+  [
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pasca Terbitnya SK Bupati Bandung tentang LP2B, Zeis Zultaqawa Jelaskan Implikasi dan Solusi bagi Dunia Usaha - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN01jREV6UGNCYWwzMGRpUGtNcjk5dWJGYWtqY3ZRYlh1eDliVHdHZkRva0xVZGVXM3dGMzNVRE9hcW9VbGRfRm5FaThNVkVGTmo0UFpBQkRBcFRLQ0I1anVXNV9SbGxPMFdhcTJCc3FseW9STV9naUprc3NyTXQ4LXhwZEgwdXhRcjEtX1VwdHhIMkkyZkg3MUdTODhERWdMaDdUclduSW5iNkxRQjVLMVhoQjdka3prVmRQd0swcklyRm9QdUZvamZyQzJGMHBQYTN6aGRKR1RobTZuWG1od0hxWTBIZkt3RDdRb2NsT3VTcUYwOEJR?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Kinerja PTSP Kabupaten Bandung 2026 Raih 94,838 Poin, Ben Indra: Bukti Tata Kelola Perizinan sudah Sangat Baik - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZmxSdFFVeGZBcDlGSkd2cDhXT0lxMEZoUnNLSGQtVEwxQkpoZUV5WG5GVlVTeF9MSzdHXzlZbHRmZVZNMmpsN0s2YzlMX0ZRQllrNHpNbElORWJDZUpoaGtvWkkyZGFPSmRCMEJLWTE2M3FzY2s5UEJxUEVtd3BwMVhEM3cweUVoRS0xNDZ2ZjJxUnRvM3lDM24xNmlzZU91dEx3MkF4akt5QzNVMGU0Uk1FclRxM3dURTEzSkE4Q3B3Zkc0UjN2dXg1cnp1TWZDcXN6OFhic1dDS3ZrOTY1eHdyZUMtdFZLT2R0MlZodENoTlhUR1E?oc=5",
@@ -88,12 +94,6 @@
      "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZdIBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
-     "r": "Ketik"
-    },
-    {
-     "t": "Nilai Kinerja PTSP Kabupaten Bandung Tahun 2026 Naik 18,35 Poin - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3R0QTl2Yzl1VHFVLU1TakV6MWRhTU00R1Q1TFBSTHU0N0p3MlpjRXgwTGhkNjJtZjBVb05lMm15REJEUkJxTHpCSm9ING02akVGWDAtcFQzTk00U09ZclNBWWMyWXdYNkN5MmI1bUtPNDhvMS1jcF81TER1V05Ial9XNW5RbFM2RW5mT3NaNTdSMXZ4cWIxaXR4Z9IBjAFBVV95cUxQZ3RQR0lQMUdiQk5Jc1Q1ZXFtTGkzdzZUSFJqQm9GQ2E5cklUSjFTZC04QkhRWWx4SDZKVExkTEZRa3B3a3NwbWJnQS0zOW1ZOFNGWDJmXy1EZUFtUXFTbnQ4YWlnbjlkTkhLYlY4NG9DV3liNm8ycDZqR2VyQkVpWkpGQkN2M285UGhDZQ?oc=5",
      "r": "Ketik"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      10,
-     13,
+     12,
      2
     ]
    },
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     1,
+     2,
      26,
-     15
+     14
     ]
    },
    "trend": {
@@ -364,12 +364,12 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      0
     ],
     "g": [
-     2,
+     1,
      0,
      7,
      2,
@@ -509,7 +509,7 @@
     ],
     "w": [
      3,
-     19,
+     20,
      5
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:15:45.287092+07:00",
+ "updated": "2026-10-13T15:10:02.501310+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,18 +16,18 @@
   ],
   [
    "RRI.co.id",
-   17
+   18
   ],
   [
    "Ayo Bandung",
    12
   ],
   [
-   "ANTARA News Jawa Barat",
-   9
+   "detikcom",
+   10
   ],
   [
-   "detikcom",
+   "ANTARA News Jawa Barat",
    9
   ],
   [
@@ -36,7 +36,7 @@
   ],
   [
    "bandungraya.net",
-   4
+   3
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -45,14 +45,6 @@
   [
    "PPID Kab. Bandung",
    3
-  ],
-  [
-   "Radar Bandung",
-   3
-  ],
-  [
-   "Galamedia News",
-   2
   ],
   [
    "Pikiran Rakyat Koran",
@@ -64,6 +56,14 @@
   ],
   [
    "Inilahkoran.id",
+   2
+  ],
+  [
+   "ayobandung.com",
+   2
+  ],
+  [
+   "Radar Bandung",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Dukung Penerapan Nilai Ekonomi Karbon melalui Program Pembangunan Rendah Karbon - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSlBzTzhtc0hkMzlnM2lUc1VDX0NubkRyaXRLcUdfMEMxUnhTTmdPSWlrQ0VVVkhhS3QwMW9JNnRrOFZmRjl5Umd0LWl1S2ZFeVlJWlhKd21HY2lrSUxyZU5YdktMTm5LNVdoVXQ0TGxuMUhZTjlrWDIyN19sRk1mSjZCRWwzMF9oVUlHOFljc1UybVk2WGJ6VWJCQjczdVFTUHI1X284UVJlZWVVYXFUV2FwQ05WeDlHTlFiZmphdHVod0VZTFpGT1VRMGdmQQ?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "Raih Predikat Sangat Baik dari Pemerintah Pusat, KDS Perkuat Transformasi Digital Pelayanan Publik Kabupaten Bandung - bandungraya.net",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPejZvVFdVUllOTGZRUlVob1NrS1BwWVc0MmJsWmxlWnBnNWtnMGdmQkdkQWltY09ISkpOejVWbmpGZVVpQklEdUpkeHhPQllrNzY2YnF2aG9jdGs0SjVQZGlFRnJrZXdfWXhweUtwNHVyNGlsczN5WGJWdGdDTF9YTXpKaW9ENDdOQXY1d003N2hBY1Z4dm9lSkJUd25lbHQ3X29ZdXZVWXNsSzAxQllOSXpLRWJUcGNsZENBOXIyUjRHcllYcGVqTV9pR0NYV19YNnZla0NnUVU1UFpkLTViZQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTRhUERpZXJFQVpQd3lLcVJ3X3BaSWplZGxIc05WVEtNRU5oNWNLSUd3SVdENDA2SXZKX2tXYm5pMFphZlZpY0VtTjdIcjJoSGMwZXhvUGZVaU5mLXpsZlczbF9fREpmYkdIQ3p6b0cwQWNLclRudTE1NDBmVkRuUzlramFwXzRfVUh3Wkdwc1A5bHd0Y0VPQ2d4WGx3TkpwdHc?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Skema Baru, 450 Ton Sampah Per Hari Bakal Dikirim ke Legok Nangka - SUARA PAKTA",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUhzYmJNdzVrYTRJcGhkdUJ3WHdXSVpmaXNCSE5wMTZiZHd4TWJDSVZJOHZLLUUtVHlINzRvZHBZZm9jbkg4eG5tT3pqZ2FzRTQyZ3Fva1VtazN5RUlrS2RvS1dVVXBnblFBM3FJNjZJTXllRERnLU5HUE9xYklHNEZNVQ?oc=5",
-     "r": "SUARA PAKTA"
     },
     {
      "t": "Blak-Blakan! Ketua GIB: Tuding Pemkab Bandung Lakukan Pembiaran Kasus Mafia Tanah di Baleendah!",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     5,
-     15,
+     6,
+     13,
      2
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      4,
-     1
+     2
     ],
     "g": [
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     8,
+     7,
      0
     ]
    },
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     24,
-     18
+     23,
+     19
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      0
     ],
     "g": [
-     5,
+     6,
      0,
      8,
      2,
@@ -389,22 +389,22 @@
    ],
    "h": [
     {
+     "t": "Pemkot Bandung Bangun Dua Rumah Pompa, Drainase Hingga Kolam Retensi Cegah Banjir - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbU5YblVLY1J5ajZVa2RMRUw1SVZvLWFDTXRMWmY1Z2cwTUY2VW12Z01WNDFlWFM5MTRGclB3WGhMZWU0aUhTZnZqcmlFYzAyZnFQS3cyWGVoXzg1dzItTkFxcFVoeTVsdm5KbVZtT3ZJVkFQeTFweFRfNVBmd3c5Tmg3VEVXWFBFXzVlRU03c1loNjNDYWhVMGRNajdDYV9XUjd3TEpUTzR6ZWlVVnZaR0JzQlFKXzhLMUtRdUwtSlB5eTllS2JJTzJicw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Monalisa Sapa RT/RW Sindamgsari, Warga Apresiasi Polsek Jalancagak - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3NCRGJuN2JZVGRab3NCY3Y3VFVlNkhNZUxfRVk5cENhS3NNc284NWd0MzNWRDExby10STBSZFI1RlBRUFNSYk9vS2JERkFNSTZlSjJyY182Q2podWtnU0o2YXp5Z1J0ejVtTTAxQUZoYXlhXzdaRnFBOURkTHBrWGdESkRzYnFyMHlXRk5PVHFLZVB1WkFTT2QtWEtwdFBDX1pjTmtrVGhHZE0?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Farhab Buka Peluang Dishub dan Satpol PP Kawal Perjalanan Persib U-18 saat Berlaga ke Luar Kota - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWjBYZUJhV3RtU0QzdnZZMkJJQnp3RURfc0h4aHZlUkU3UGhraHZkSVZHbnBrQklJTlh0VmM5SlduTnJjVHRlYkl6a2VCQWk2Mkpvd1FOV0xtWHpLR25Hbm80UjZ2U1RoQjZVRk12bVNZRjlZMTM1X3FPM0RzVExiNFAxSHRxaGNzU0tBQUpDR1JHRmtSdi1vY2lBcVIzRks1djNzU2RxWnZwazJEQnVXdVAzY1VuQzdEdFJrS0lWTlFLSEdvcVBFcnFxYW5aNjFydnVQNG1YeTF0UFFsQmJn?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : Jembatan Munjul 2 Kabupaten Bandung Mandek dan Picu Macet, Warga Tuntut Percepatan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tVaTdfam1tUFVwa0Z2YTNzbVBIUm41RkNRbE9WWVVLaXA0Z1Z1LUtyek1LTTFGYk9ndkd1c3RRMzNOejFXX05vX3VVY3hESmZiOGV2SlZRZTV1SFNoZk5pVE1DSmRNN184Ry1jVzU1MldWTWhfRmJid0dJbUR1czA5WHpjOVc5OV9CUUNldm80VjlTTk54UmNFc0dOam4zNi1SbW00SERWaTRTVWdJVFNWUnpUVFhuc0loM3FobVZCUQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Proyek Jembatan Munjul 2 Dikeluhkan, Warga: Kami Terjebak 2 Jam - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEVoQXFmRHVuZ29qdk5zU1F2aTNUNzhmWjlSZXk1T1JtLUtSbG9vTDdUUzlPT2o4czNIdzdyc1FIY08tNEFONURwM2F0RWNscFlkWC1hZmp0YVMwZWxkNF9xc1NQd2NYMVkwQjRvMkY0eUhWMUFaNjRlclFsR0ZqNHY1WUJpaWRmUEE1TDVPaFI5Zl9OQV9mUWtZT2U4cFpsRkM3WFhITk91N2w3aUZv0gGvAUFVX3lxTFB4RWhBcWZEdW5nb2p2TnNTUXZpM1Q3OGZaOVJleTVPUm0tS1Jsb29MN1RTOU9PajhzM0h3N3JzUUhjTy00QU41RHAzYXRFY2xwWWRYLWFmanRhUzBlbGQ0X3FzU1B3Y1gxWTBCNG8yRjR5SFYxQVo2NGVyUWxHRmo0djVZQmlpZGZQQTVMNU9oUjlmX05BX2ZRa1lPZThwWmxGQzdYWEhOT3U3bDdpRm8?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
@@ -426,9 +426,9 @@
      3
     ],
     "w": [
-     0,
+     1,
      7,
-     16
+     17
     ]
    },
    "trend": {
@@ -448,7 +448,7 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "g": [
      3,
@@ -457,7 +457,7 @@
      2,
      1,
      6,
-     0
+     1
     ]
    }
   },
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     2,
-     19,
+     1,
+     18,
      7
     ]
    },
@@ -524,7 +524,7 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      1,

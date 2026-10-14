@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T14:32:03.831193+07:00",
+ "updated": "2026-10-14T15:21:28.684068+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,23 +16,19 @@
   ],
   [
    "RRI.co.id",
-   20
+   17
+  ],
+  [
+   "detikcom",
+   11
   ],
   [
    "Ayo Bandung",
    11
   ],
   [
-   "detikcom",
-   10
-  ],
-  [
    "ANTARA News Jawa Barat",
-   7
-  ],
-  [
-   "PPID Kab. Bandung",
-   6
+   8
   ],
   [
    "jabarekspres.com",
@@ -40,6 +36,10 @@
   ],
   [
    "Galamedia News",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -55,15 +55,15 @@
    3
   ],
   [
+   "rmoljabar.id",
+   2
+  ],
+  [
+   "Bisnis.com",
+   2
+  ],
+  [
    "Ketik",
-   2
-  ],
-  [
-   "Radio PRFM",
-   2
-  ],
-  [
-   "ayobandung.com",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Cegah Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi Baru - Bisnis.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlpkbVRlNUtKRGs0OXRDMHJUNWpXX1VvSlJ6a3lFR1JUR0RhQk8xSW9BMzR0TEtybEUwYWZldElnekhFSVcxbFJPWmc3Y2Q2dXppeFlIUUxmcjhGbjBoalpjZ052RGxsMUg4VjQ4NndQcVBUQzB3WkdpejhpWjd1dklfalhDcTNVMDBENm9hZkFMU0RGNnlmbEt3MkNpSVdvWGFWR3NjcXJ5WlRIZC1RZmphWGwyUEwxME8w?oc=5",
-     "r": "Bisnis.com"
+     "t": "Menteri LH Tekankan Pentingnya Peran Pemda dan BUMD Dalam Identifikasi Kembangkan potensi Karbon - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjg4bF9rX0tLOGw3V2JSVUlGbWJiQzFjVUt5Nkl2UXZWeHRudDlUNUZnUFRFZERHdEg4cEZVbU80WWNCcmhra21GM0o0bUJ1cUdET1g5ODhON0dQckVVT3pZWTV4RVVkaUhfX1J1YUZrMDJKNWNkSmJfMWk3WWYzclRpbGFCSkl3aDRlNWlRZ3BCckNWMUx1N2I2bjRaLThCQWdFcW50VmFPallNMnJRU1J5TFlKcE9wcmJLUUJTOG0zSTRITHN4T0RoTQ?oc=5",
+     "r": "Antarwaktu.com"
     },
     {
-     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
+     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
      "r": "rmoljabar.id"
     },
     {
-     "t": "Pemprov Jabar dan Pemkab Bandung Sepakat Benahi Stadion Si Jalak Harupat, Renovasi Dimulai 2027 - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmVsdWVIUVRqR3V1eS1tLThYV21MbkpyWTdnUkJfMXYxWEtyOXltM0RhT3k1cGZnbnNVYWJUZ2RPM0VqdVhEUTdXOV9Wdkx4SlBuU3BpMFBBc3BUdkRIcWhCdTFLbVhQMlBVNFZ3OWJwUGdtS3MwbFFDNzM0bDVzTHBKeWF6eENSNjkxOHJRbmtUaWJOYzAxVFBUNVk5UWhsRnhVU1V0MFVIbGVILWJGU0Vsd0VhQkJmY2JIbW5sbUhYQWk3RUU0Z3Y2TXFEc3NNSHZZWGRIVkZOOWZsS0U3b1BkOA?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Upaya Mengurai Banjir di Jadek Kopo Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUE4xWERFdzJkN3dNc01JMllpWVZNdmk2bnhiaHBlVzhTVmNsZXNqT3VPTFJLQlFGRzE4OVVqdVk0bWNRaGxUOTF0ekZVbFRaQU5ORkN5bzI1VDJ6WlViWE15M2pKUFpwVE1VSlRnSGU1U3NZcTJkQU9tajcwN0xfMTUxNWtjWTFWdTk4eVZNU0VSZ9IBlwFBVV95cUxNUlE1VTV4UnYxaW5EbXZNSjYtZE9VbnlELUg4dWlQY0lYSEd3V20tcWR1cEJwY3E3UnJidVJtX2Vzc0taVVo3RGV0bTRKSTFuSGxqSGFXcTNwcXRtNzNQeU9XeWoxYlNNd3Z5QkdqTExMdXRmMHEwaDU2UFQxME5MTV9CWnpNV1NIdGtfMXJ0dmJXSlVqcm1V?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -117,8 +117,8 @@
     ],
     "w": [
      9,
-     18,
-     2
+     17,
+     4
     ]
    },
    "trend": {
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     2
+     4
     ]
    }
   },
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     23,
-     14
+     22,
+     13
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      7,
      2,
      0,
-     2,
+     1,
      2,
      1
     ]
@@ -389,22 +389,22 @@
    ],
    "h": [
     {
+     "t": "Perbaikan Jembatan Munjul 2 Baleendah bikin macet horor, Polisi buka-tutup jalur! - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTFzWTRNOUhIMm10Y0pUaWRPeFVTT0ZnWlFEd0REWC1Penh1eGFzalRiSTRNbVRWWkdTRzJqOHVvSkpiS0wzQzhuOEZzX1hZczkxSlIxNmJaYmxhZ3FwSlFWVVpRekp2UTlvZnJveEFuU3dhMjA4V0ZjVk5TdkVCTUc2X3ktLVlHN2VjZ2Vubl9qdWw0UDVHRWZ5cUNicXdzUEVjWUhobndkRTQ3S0pyTU4wSHlyYzFFWlJpUzlrRdIBxAFBVV95cUxQTENYb0NaZVBYN2JoVHg0cDJ6U1BSMC0tNklWaGIxbUZtLTVtcjlwRUkyVXBvekJpUldHOHpLcy1wdHJzTFNvOHdrR0xudkw1aTJERnI2WEFUWU5VOFJJSUY3VEc4SkdsMmxfQXBrZjFqaGM4MzNMdXZwbU9LZjZJalVYSzltU19YQ3BwODkzV2FBVkl5Yk1TX1lwa2dtVlNOa1pwV0Y3bTRPRS1USmlWSzhPUlpXZzhZVHUzUjZIYTZ6MVVu?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Upaya Mengurai Banjir di Jadek Kopo Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUE4xWERFdzJkN3dNc01JMllpWVZNdmk2bnhiaHBlVzhTVmNsZXNqT3VPTFJLQlFGRzE4OVVqdVk0bWNRaGxUOTF0ekZVbFRaQU5ORkN5bzI1VDJ6WlViWE15M2pKUFpwVE1VSlRnSGU1U3NZcTJkQU9tajcwN0xfMTUxNWtjWTFWdTk4eVZNU0VSZ9IBlwFBVV95cUxNUlE1VTV4UnYxaW5EbXZNSjYtZE9VbnlELUg4dWlQY0lYSEd3V20tcWR1cEJwY3E3UnJidVJtX2Vzc0taVVo3RGV0bTRKSTFuSGxqSGFXcTNwcXRtNzNQeU9XeWoxYlNNd3Z5QkdqTExMdXRmMHEwaDU2UFQxME5MTV9CWnpNV1NIdGtfMXJ0dmJXSlVqcm1V?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Dedi Mulyadi Siapkan Danau Retensi di Lanud Sulaiman untuk Atasi Banjir Bandung Raya - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWtwMTBydVVpUklJN3RfOVVJak9lSVFGZXA3TWNpSF9TS0t4Wko4aV9RUm02NndwbGpWVkJGRWJRUVl6YkRVRHlpMmtQTmlFTXNvZnJ0RE1ETFlBMEFWaUJFYzhEdDJqeENYZVp5b0dSYU1LMFRqcFBEdElkOVpTTkNlNTBSUllBbE1QWHRMd3BVOW9CSzVNUXBEYVdjRHNUSmZmX1RhZ0p4UGZtR3FYS0JuWVk0RnEwRU5VUEdpem1pY3ltOGRFSlAtd1NxdU04?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Buka Tutup Jembatan Munjul 2 Diberlakukan, Pengendara Diminta Bersabar - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0ZUY1BjeXhYVm0wNjMzeU1kMDA3ZWVQR1NBS1h4MDVLa3hPRUphX2tSYkxMN1BIVnkzWVgwVTVlRjFEckd3ejAtVTBtb2xrc096QkJpYjkteDJKSEl6NlhHeEpOMTVmMXdnNnZXMDdlVUl2U0RxV19VeDNQZ1JSaWhKX0RoOGN1Q051OE4xaElhcldkOTZyUkJPTmdWQnBhaDhmekdqSy12Mi1BWWgzU002Yw?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Pemprov Jabar Siapkan Danau Retensi untuk Atasi Banjir Bandung Raya, Dedi Mulyadi Minta Digarap Serius - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUNNclAtWUFUOHJVMUJXYVdjbGJnNjJ5eGlhRktHT3pwUXY2bkJlbUQ3N3VnSnlFMEp4QTFwWDJ4cmt0N3BROE15NFk5Y0QxcHBQUC1uemZJalBUZl80THZFU1ZOd0tmSjdRcGREU3h4VERhT0dUWGZ6cjlVWFdueGk4OVlURmU0cFhsVm13amFIN0pXV3AyYW9IVEVoMi0wMEdLZEVuT1RQWWRWeldOSHA1WDlGem9BdHJhLWFNMU94NGI4?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -428,7 +428,7 @@
     "w": [
      3,
      9,
-     18
+     20
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      6,
      3,
-     5
+     7
     ]
    }
   },

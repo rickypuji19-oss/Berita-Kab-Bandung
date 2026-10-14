@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:22:07.432062+07:00",
+ "updated": "2026-10-14T17:21:25.821284+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
-   26
+   "Tribunjabar.id",
+   27
   ],
   [
-   "Tribunjabar.id",
-   25
+   "Kompas.com",
+   26
   ],
   [
    "RRI.co.id",
@@ -47,10 +47,6 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
    "Disway",
    3
   ],
@@ -60,6 +56,10 @@
   ],
   [
    "Bisnis.com",
+   2
+  ],
+  [
+   "Pikiran Rakyat Koran",
    2
   ],
   [
@@ -116,7 +116,7 @@
      1
     ],
     "w": [
-     9,
+     8,
      17,
      4
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     6,
+     5,
      3
     ],
     "g": [
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     3,
-     7,
+     2,
+     8,
      0
     ]
    },
@@ -282,7 +282,7 @@
      0,
      1,
      0,
-     1,
+     0,
      1,
      0
     ],
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Polisi Tangkap Suami di Bandung yang Diduga Ngamuk-ngamuk karena Judol - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnVlaVprUVhUNURYUTFzX1c1WlYxWXAtOEV4UWJTa2Y2SEI3SE9ldHY1ZXRodC02M1V1V2pEU0FCSWo5TmtucVBTUldEN2JrVlN6UE5fVGNrY3hyZ2gwNTRjZURUWV9VSlJmWDJybV91azVpZDZvdWdpM1JxNDZaeDJEVnQtODI5bWxPU1RqMEtFS2poblRmNDQ1TG8zOUt6XzdPcjd1N1NuamRXQUlRVEY1MGtpNkFxQ1NIdUVB?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bukan Aksi Begal, Polisi Ungkap Fakta di Balik Keributan di Jalan Pesantren Arcamanik Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2t2Z3lka0l6TDNWdzFQWFJETGZhekJmbEZLTXgwdzlncUNWRndFZnJkWUxWZExRR1VSeFAwOVlsS3JwNWxEd3AtMHFHdWJsQ3VxdWRrOVpSREhkQVdja0lNa2UxSFJLNnFNN0xYcDlFZnRNUklMZlNiTnp2VFJxbm9FRWwxNkVMc1JIRGlKQzFTaVJLQmt0a1NLbkVxNTVmOVpPSFIxVWRVN09BY1RxX3BSbzdLc1ZjeHZuNDZkT1dSc2F4Z1FGQTNyQlNCVnV2Zzl5R2lXcjlCNDg?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk2a3hQTUZEeElwZzhkRWdwQS1QMFR6UlRtcDJOMnlHLWJnVHYyaWhCYWpFTzhsMjJYanhuTHdXek5KZmh0ZnRKdUNtdldWZG56dEdWVGhUam1wYnlXbGNvRmlxc0o5NjkzR1lyQ01PaTloYklVMzhKc2lxUkcyRjFsQmM3T3JSV3M3VGhyUFgzVmFBQzdzbDk3ZDBPUUhLb0U2TTZXSUhOYUd2M0NvY1Nn0gG3AUFVX3lxTE52eEJpMDVuVTM0cDVWZjhSU0VKWnlmaENha1p5Z0tGRHF5VEF6bHY0M3Jfc21zejlYc2QzOUNWTTl4ZXZWSWtISGstOFlXM2c5WjU5M1ltYW0zMm96bm5BSlBmdFhzUTZ1NHRMSUg4VlVXb2NpeTdhVGlqZHRzbTk3UFhJUllpNS1DSjd1a25ScHpDM2JvbVExbEREd3FPaURmcVotNzdPS0lXdERFTVlCZFE5OEdmYw?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Foto : Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0ZackI3emJlRmFVWkFQWWtQd0VfYnBiNWY4eG53Z1JaczhQZlF0VzJzMXRQNm1WS3V3T3d6SzZqYS1oNWd6TG1GaVh4Q1JxcmVGbTgxcENoMEJPdVJNTnNIamFfS2t5Qk0wWnA1WDVNWWFuQjk3LU5sSlBpRzlUY0t3emw2UloyLXV0MXhJU0dQcDBxZ0lLS1laQUd5OTVUbVNwcVBreUlTNEYzcGlIOXdsMWFvMjFZc1BwVEVkZGozcTIxMjJvWWNkbGJjYzM0R1E?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -346,7 +346,7 @@
     "w": [
      1,
      23,
-     14
+     15
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0,
      2,
      2,
-     1
+     2
     ]
    }
   },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Warga Bandung yang Tinggal di Daerah Rawan dan Berisiko Stunting Dapat Bantuan Pangan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGhoeHk2djlYWDAyTzVQWURwdEJwU2lod3FVeU9mZG1pNFliY0JxWldPYWI5ZmNBVU4xUXpYVy1BeW1ZT1BRMW9YVE1HejVfU2llZzRKb2UwUFg4ZzMxS3BNc1pCNXFPRGJTdlJJZjh4LV8ySVBOaE1KQjEzRWtvaV9IZmgySTJ3VnB6cU4tSFdrd2lGck9SNndXWkplajJ2OUdXdnVla3ZVVGtCVUFZRV9peFhjbHgxR21HaGRDMUtPQXQxQmVfUDFWZ2FqQVhlMlE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Respons Farhan Soal Wacana Penerapan Siswa Tidak Naik Kelas yang Digulirkan Kemendikdasmen - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEpvVkw5RExwUkNqMXRKT2x2d05JUEFEVW9uY2NVVmJIenpYbWFEQWlySlJkRFZnUHRHR2tLeE1sU0VDRkh6TVNReE9oV0tiRWpxaUx1NzZKdWRzMnBGdTlncTZVSjlmTWx5NGhZLXBRS0ZIZzVyRDdyclFjc3h5RUdWLVBFdG52OU1PelREZUpweVBieU1KOENTUUVxdlpJRU5NSWplTGVXaEc3WFpIOEc2YUNpY0MwbktTWDlVZDNXWTJMQkVEOW1NYmRxVkVvMkUzMS1UbDE?oc=5",
@@ -480,12 +486,6 @@
      "t": "Berita dan Informasi komunikasi kesehatan masyarakat Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE51aElwYm9iOTFBLUlibFNQY3daSkg2dWt4SC1MOHJRdUptTmtsc2I1czNHQ19CR3JraldFYlZFdVZGeVN5aHFCamYwLXFMa3FycW9lR0RaT3VLczBQWE9zVnljUERVdGM0SU1UcUV3OWxEZw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNFZTVaMzV4UElFblhGYzdTeDRDR3dPbUc4Rk83ejZtbHY1WDRNeTdkU0pqTnlsN09RM0QtZUU3M3pza19xVzlidDlNaVRGUm1qRFJRRF9YdFRkWGVWX1FhZGlhVERjclZBWS1tMlVEbTJLazl0MVYyMk45ZDZaVC1BOFVCNWU4azB4UlZTTXhvdGdPb1hNZ1QzWW9xSG1vTGZKTw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      1,
-     20,
+     21,
      5
     ]
    },

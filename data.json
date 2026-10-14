@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:19:32.532403+07:00",
+ "updated": "2026-10-14T13:20:03.085907+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,14 +8,14 @@
  "portals": [
   [
    "Kompas.com",
-   22
-  ],
-  [
-   "RRI.co.id",
-   21
+   25
   ],
   [
    "Tribunjabar.id",
+   24
+  ],
+  [
+   "RRI.co.id",
    20
   ],
   [
@@ -31,15 +31,15 @@
    7
   ],
   [
+   "PPID Kab. Bandung",
+   6
+  ],
+  [
    "jabarekspres.com",
-   5
+   6
   ],
   [
    "Galamedia News",
-   4
-  ],
-  [
-   "PPID Kab. Bandung",
    4
   ],
   [
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "Jurnal Soreang",
+   "www.balebandung.com",
    2
   ],
   [
-   "www.balebandung.com",
+   "Radio PRFM",
    2
   ]
  ],
@@ -79,46 +79,46 @@
    ],
    "h": [
     {
+     "t": "Pemprov Jabar dan Pemkab Bandung Sepakat Benahi Stadion Si Jalak Harupat, Renovasi Dimulai 2027 - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmVsdWVIUVRqR3V1eS1tLThYV21MbkpyWTdnUkJfMXYxWEtyOXltM0RhT3k1cGZnbnNVYWJUZ2RPM0VqdVhEUTdXOV9Wdkx4SlBuU3BpMFBBc3BUdkRIcWhCdTFLbVhQMlBVNFZ3OWJwUGdtS3MwbFFDNzM0bDVzTHBKeWF6eENSNjkxOHJRbmtUaWJOYzAxVFBUNVk5UWhsRnhVU1V0MFVIbGVILWJGU0Vsd0VhQkJmY2JIbW5sbUhYQWk3RUU0Z3Y2TXFEc3NNSHZZWGRIVkZOOWZsS0U3b1BkOA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Pemprov Jabar dan Pemkab Bandung Sepakat Kerja Sama Benahi Stadion Jalak Harupat - ciayumajakuning.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkh0Nl9kN2Juc1JqRGlOdVZQTzBHNThlY3N1dUVmdmFkQml1aEZHNGpDMk5pRGVNdl9rWUpjYXZzTldmZ2lXeVdZdklFRmlNUEVsT1BkWkdHOW9ZekN3SWtVSW1HUXZ0ekU0NXdaV0dGc25iSlkyUWhOVDRCYzViZks5X0N1NFFNZU9zYTZiQVBCeHd4TkFTVzBIZW1tdF9aN2tBbWNCeFlpWjc0bVpmZ0RpUUNtNUIwUHlz?oc=5",
+     "r": "ciayumajakuning.id"
+    },
+    {
      "t": "SIPERA: Inovasi Dinas PUTR Kabupaten Bandung untuk Informasi Tata Ruang Real Time dan Pelayanan Publik - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3VYRE9pbDBOOTRSOTRFNzZSSDJwZW9QdllKYTJobWZDTUI3X1A2aGVpUlQxYmktZ1I4UEFHaG9QQ0U1cnFfSHhQLXoxb1BYNVVBcDNkU0twYmg0ZHhPMV9qZi1ZT2x2NklBZzFLTFN3Y1JpXzVuNEs4b2t3MTBwc21tSEZGcElHZDNsY1EzVnIwTzZWWXFOR19xaUVTTUI1X3lFNzZZQmpYaHFPNFlRa01GV1lBeVB3c0ZrUzR5Sm5rcmp1YThLYThKWWhhNkFyaEg1anlaRjl1MXdJSkU1bmlxV1p2WVYzSUxHWnZB?oc=5",
      "r": "Galamedia News"
     },
     {
-     "t": "Bupati: Kinerja Harus Terukur, Uang Rakyat Harus Berdampak! - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNktRaXdITmd2ZjJwa0NsNnByZjh2VWlYUnNaVVFKVDI4NzNpN051eWFTRGViLUhteUlYRkFqem9TN18wZWZQWDlUSnA5aWkxZVU0ZnZ2czZWTHkwMEVabGRNaGFkM0RuRGlmUXFVZ3pYUDdPWTZSNEJxQVVJNWZvZmw0bjJYWGxDeWl0Q1lhUUhnbjVzT2VHbXFUZ1d3N3B1?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Esensi SAKIP Bukan Mengejar Nilai, Membuktikan Manfaat Masyarakat - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcG9DSHV6cThsQVVnbGVReUtwSFpxWk9xdWRMWkw3bG9ObDZrU2ZaLXBaMW9MU2dleTBZbVRHZ25LVGVOVko5UXEwd1JLSi1vdUFaVHFxUmFheThGQnl3anlCNjdHa21vQmFpMXF0dm00UVpUa2FSMkdYYmxNNHZmdWNOLVc5MS0tZlk1Z05RNVVXaVNGYkIxcW1lTGxjODJzVzhRRlFNaEZFN3c?oc=5",
-     "r": "RRI.co.id"
+     "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=tsQFTK4vmUc",
+     "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=Y7e4ulsg4Yg",
      "r": "YouTube Kamanunggalan"
-    },
-    {
-     "t": "bus pemkab bandung😍#shorts #subscribe #bus @sugengfitriyanto #cileunyi #bandung",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=heJ7vi2hxas",
-     "r": "YouTube sugeng"
     }
    ],
    "v": {
     "s": [
      1,
      2,
-     0
+     1
     ],
     "w": [
      10,
      17,
-     2
+     1
     ]
    },
    "trend": {
@@ -136,18 +136,18 @@
      0,
      0,
      0,
-     2,
+     1,
      7,
-     2
+     3
     ],
     "g": [
      0,
      0,
      0,
      0,
+     0,
      1,
-     1,
-     0
+     1
     ]
    }
   },
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     7,
+     8,
      2
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Bukan Aksi Begal, Polisi Ungkap Fakta di Balik Keributan di Jalan Pesantren Arcamanik Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2t2Z3lka0l6TDNWdzFQWFJETGZhekJmbEZLTXgwdzlncUNWRndFZnJkWUxWZExRR1VSeFAwOVlsS3JwNWxEd3AtMHFHdWJsQ3VxdWRrOVpSREhkQVdja0lNa2UxSFJLNnFNN0xYcDlFZnRNUklMZlNiTnp2VFJxbm9FRWwxNkVMc1JIRGlKQzFTaVJLQmt0a1NLbkVxNTVmOVpPSFIxVWRVN09BY1RxX3BSbzdLc1ZjeHZuNDZkT1dSc2F4Z1FGQTNyQlNCVnV2Zzl5R2lXcjlCNDg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polisi Buru Suami Kecanduan Judol yang Aniaya Istri-Anak di Bandung - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk2a3hQTUZEeElwZzhkRWdwQS1QMFR6UlRtcDJOMnlHLWJnVHYyaWhCYWpFTzhsMjJYanhuTHdXek5KZmh0ZnRKdUNtdldWZG56dEdWVGhUam1wYnlXbGNvRmlxc0o5NjkzR1lyQ01PaTloYklVMzhKc2lxUkcyRjFsQmM3T3JSV3M3VGhyUFgzVmFBQzdzbDk3ZDBPUUhLb0U2TTZXSUhOYUd2M0NvY1Nn0gG3AUFVX3lxTE52eEJpMDVuVTM0cDVWZjhSU0VKWnlmaENha1p5Z0tGRHF5VEF6bHY0M3Jfc21zejlYc2QzOUNWTTl4ZXZWSWtISGstOFlXM2c5WjU5M1ltYW0zMm96bm5BSlBmdFhzUTZ1NHRMSUg4VlVXb2NpeTdhVGlqZHRzbTk3UFhJUllpNS1DSjd1a25ScHpDM2JvbVExbEREd3FPaURmcVotNzdPS0lXdERFTVlCZFE5OEdmYw?oc=5",
      "r": "detikcom"
     },
     {
-     "t": "Foto : Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0ZackI3emJlRmFVWkFQWWtQd0VfYnBiNWY4eG53Z1JaczhQZlF0VzJzMXRQNm1WS3V3T3d6SzZqYS1oNWd6TG1GaVh4Q1JxcmVGbTgxcENoMEJPdVJNTnNIamFfS2t5Qk0wWnA1WDVNWWFuQjk3LU5sSlBpRzlUY0t3emw2UloyLXV0MXhJU0dQcDBxZ0lLS1laQUd5OTVUbVNwcVBreUlTNEYzcGlIOXdsMWFvMjFZc1BwVEVkZGozcTIxMjJvWWNkbGJjYzM0R1E?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcnRuQkdpaERJQTVEWFhSTHZzX0RiREhCWmVJQk9UMUo5OUlhYnhjaWdHRks3YVgtb01IaWJueV9FN0ZvUzk0TS04TWFxZThHRjR3cG5VRnZ5UUZBVkpXYXljN3h2N0t4UWFuWEdYeVJ1b2xUaWZaYzYzUW9CQWNoYmt0TEJ1QzJudlJOc1ZScm1wSXczNzh1Mk85dGJQTWxLS0pnZU9YVmtXZDlFRjJaR2ttTVAwbGp6aGViVl9TT09hTklvWEc0?oc=5",
-     "r": "Kompas.com"
+     "t": "Viral Balita Terluka saat Ayah Mengamuk Gara-gara Slot, Polisi Cari si Pria - Pikiran-Rakyat.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0Fhc3lVeHpla3VOT0VRZjJPdG0tTW94MzJMRnV2ckx4ZjRmTk1rR0VhVDlEamg0YWtuU3prWkpyNVI2VU1KaXl3akZSRUdSakRuZHcwTTN2am10UzYwaGJlMnFLYUpMUDh6ZVh1MVBkYkJ2N3JBaEY5Z0hzMXlfUG8ycnpLZ1c3UFJuNml0c3dhWW4zOUx3MmptRnRabmpJcUN3aEFuMDNzY3lVakU2QzFPdElVbDdSemRsZ2h6TFkzUdIBxwFBVV95cUxNQm9HUDRQbU9jNUZyekswMU13TXM2bUY4QVVxbGNEWEFFOENDa0doNGt1cWg5THJ0bHhoSjFrYlY1RUR3TkRqSDZiMkVfVThvT2xSbkZ4NmxaU2p5b3A3MXNHMlJRWG5TVGpCRDNxY2ZWd3FYNEZ1Y3o1TlhNYlZjRTBsdlJQb2tuQXE4MkduRXFIMnBwc2lSeWhWeWRPdld3dXlGcWpQZTVCa25EeldEcktZeUtZRXdySmpMRXM5czVuLWMzTUFF?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,89 +345,7 @@
     ],
     "w": [
      1,
-     22,
-     14
-    ]
-   },
-   "trend": {
-    "d": [
-     "Kam",
-     "Jum",
-     "Sab",
-     "Min",
-     "Sen",
-     "Sel",
-     "Rab"
-    ],
-    "p": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0
-    ],
-    "g": [
-     0,
-     7,
-     2,
-     0,
-     2,
-     2,
-     1
-    ]
-   }
-  },
-  {
-   "n": "Infrastruktur",
-   "d": "Jalan, banjir, transportasi",
-   "k": [
-    "banjir",
-    "jalan rusak",
-    "Baleendah"
-   ],
-   "h": [
-    {
-     "t": "Pembangunan Jembatan di Baleendah Bikin Macet, Polisi Lakukan Buka Tutup - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0FNcV90aDl1d2RqdjBpTkNYcjZBT2lQYmNrUXU3akxmYlhJalBtWWZsYlQyOGZLc3hHcjRRUzdGeV9jVDRUWjRJbkdhSnZQOGY2X0JnbWxHVWJOLWZHVlZLTU9ycVZJcUtFSEJqNG5GVnVVOE03ejZXRXRVdnEtejRKeXduWk16bms5QVZ4dnFKS05KaTktb1l5U203ZGlIc3B6VFRMRUduV1ZLMkJFZnhQemk0bW12TWI3M9IBvAFBVV95cUxQT0FNcV90aDl1d2RqdjBpTkNYcjZBT2lQYmNrUXU3akxmYlhJalBtWWZsYlQyOGZLc3hHcjRRUzdGeV9jVDRUWjRJbkdhSnZQOGY2X0JnbWxHVWJOLWZHVlZLTU9ycVZJcUtFSEJqNG5GVnVVOE03ejZXRXRVdnEtejRKeXduWk16bms5QVZ4dnFKS05KaTktb1l5U203ZGlIc3B6VFRMRUduV1ZLMkJFZnhQemk0bW12TWI3Mw?oc=5",
-     "r": "detikcom"
-    },
-    {
-     "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Warga Apresiasi Ide Brilian Danlanud Sulaiman Atasi Banjir di Kopo Dengdek - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWpOVEltM0dSUFhQdy1OQ0JfX0NBZG1MdWRRMUptUFhpYWFPYUVMSkZvemlUR0NfdnJ2R3pfaU1HMENTY3d2eGJ6a1NzdGdHcmM2bTZQal83Wjl6WjhXQjBxN0RGTHlrVGQ0bEdOMzg2QWh3eHA0Q1pNeF8zbmpvQVdjZkwxekRWbkJreVNET29tMjdPNUl1cmlScGdFNzczNmUwNnU5emRSNjVLbU9BSmZJemc?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=Lq9RgnY6M-Q",
-     "r": "YouTube PONGGAWA KDM PAJAMPANGAN"
-    },
-    {
-     "t": "Upaya KDM Atasi Permasalahan Banjir di Kabupaten Bandung",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=idAzdEeoeQ4",
-     "r": "YouTube Kang Tedi BBK"
-    }
-   ],
-   "v": {
-    "s": [
-     0,
-     1,
-     3
-    ],
-    "w": [
-     2,
-     7,
+     23,
      15
     ]
    },
@@ -445,10 +363,92 @@
      0,
      0,
      0,
+     1,
+     0,
+     0,
+     0
+    ],
+    "g": [
+     0,
+     7,
+     2,
+     0,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "n": "Infrastruktur",
+   "d": "Jalan, banjir, transportasi",
+   "k": [
+    "banjir",
+    "jalan rusak",
+    "Baleendah"
+   ],
+   "h": [
+    {
+     "t": "Buka Tutup Jembatan Munjul 2 Diberlakukan, Pengendara Diminta Bersabar - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0ZUY1BjeXhYVm0wNjMzeU1kMDA3ZWVQR1NBS1h4MDVLa3hPRUphX2tSYkxMN1BIVnkzWVgwVTVlRjFEckd3ejAtVTBtb2xrc096QkJpYjkteDJKSEl6NlhHeEpOMTVmMXdnNnZXMDdlVUl2U0RxV19VeDNQZ1JSaWhKX0RoOGN1Q051OE4xaElhcldkOTZyUkJPTmdWQnBhaDhmekdqSy12Mi1BWWgzU002Yw?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Pemprov Jabar Siapkan Danau Retensi untuk Atasi Banjir Bandung Raya, Dedi Mulyadi Minta Digarap Serius - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUNNclAtWUFUOHJVMUJXYVdjbGJnNjJ5eGlhRktHT3pwUXY2bkJlbUQ3N3VnSnlFMEp4QTFwWDJ4cmt0N3BROE15NFk5Y0QxcHBQUC1uemZJalBUZl80THZFU1ZOd0tmSjdRcGREU3h4VERhT0dUWGZ6cjlVWFdueGk4OVlURmU0cFhsVm13amFIN0pXV3AyYW9IVEVoMi0wMEdLZEVuT1RQWWRWeldOSHA1WDlGem9BdHJhLWFNMU94NGI4?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Proyek Jembatan Munjul 2 Picu Kemacetan, Polresta Bandung Berlakukan Buka-Tutup Jalan - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUExTXRHaC1VWG1NX0FDYkRVY1A5cXBMRUZsenhnSmtHcDA1X2U5Q1UxV3BjelhYTHl3eUhPRlhtR0pNQVZyZjNKbDJ3Tmh0NHJ5VEhOSmZNMnVVMHJVM2FyaDN6ZjN2VjFzSmlsTWYxRjJzSWtIaHVFc1VLR1cxdktXYVBBZXlycEVMcW81Y0hkaGdxUDVsa2pjVzFuV0JIWlR6M2lrYTZVRjhFLUxLX0k3VnJPWWpSZEdBNFlqUk16eGs?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=tsQFTK4vmUc",
+     "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
+    },
+    {
+     "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=Lq9RgnY6M-Q",
+     "r": "YouTube PONGGAWA KDM PAJAMPANGAN"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     1,
+     4
+    ],
+    "w": [
+     3,
+     8,
+     17
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
+     0,
+     0,
+     0,
      0,
      0,
      2,
-     0
+     1
     ],
     "g": [
      2,
@@ -457,7 +457,7 @@
      1,
      6,
      3,
-     1
+     4
     ]
    }
   },
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
-     "t": "Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - RRI.co.id",
+     "t": "Respons Farhan Soal Wacana Penerapan Siswa Tidak Naik Kelas yang Digulirkan Kemendikdasmen - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNFZTVaMzV4UElFblhGYzdTeDRDR3dPbUc4Rk83ejZtbHY1WDRNeTdkU0pqTnlsN09RM0QtZUU3M3pza19xVzlidDlNaVRGUm1qRFJRRF9YdFRkWGVWX1FhZGlhVERjclZBWS1tMlVEbTJLazl0MVYyMk45ZDZaVC1BOFVCNWU4azB4UlZTTXhvdGdPb1hNZ1QzWW9xSG1vTGZKTw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Mahasiswa dan Anak Muda Bandung Ditantang Ciptakan Inovasi Perumahan Lewat BTN Housingpreneur - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNGtXcUtsTDdEcnV1RUxLMllzdWN3QVgyR1o1OGk5U0wwbnZIcTIwRDZfeGRGamJSTVRWdm9IdEc4R0NCRVVfWmFTOGVSOGg3bHlqbVJHUWRGeWVnZDNtR0dlOXFMUVRoa1hPZVVqYm1zOGxwOFZRZUlWMXJBOGNQSl95ay0zTHJhdjRJM2N1TnpvamFiZU9XRUdRUW1uRUhUaFdGbXVCQXF3eFE3X3dNcDN0dXdJcTItNUV2ellHVEVnOTVwQmRxVm5TVTFoWDdqOXc4MWJhQzVmR3FV?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEpvVkw5RExwUkNqMXRKT2x2d05JUEFEVW9uY2NVVmJIenpYbWFEQWlySlJkRFZnUHRHR2tLeE1sU0VDRkh6TVNReE9oV0tiRWpxaUx1NzZKdWRzMnBGdTlncTZVSjlmTWx5NGhZLXBRS0ZIZzVyRDdyclFjc3h5RUdWLVBFdG52OU1PelREZUpweVBieU1KOENTUUVxdlpJRU5NSWplTGVXaEc3WFpIOEc2YUNpY0MwbktTWDlVZDNXWTJMQkVEOW1NYmRxVkVvMkUzMS1UbDE?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Pemkot Bandung Tunggu Kajian Final Kebijakan Siswa Tidak Otomatis Naik Kelas - RRI.co.id",
+     "t": "Berita dan Informasi komunikasi kesehatan masyarakat Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3Z5aWZGYVhaWEtfR3htSUZjeXpjc2xJZEZvQ3VlNjRBay05ZDhjalNIUUIzM2pQWnVKNl9xZENPTml1U1NDSHd0Mm5INHFBUHJfSGVkVUI0cUNMZTFaSGowVjJrM1BaN2dyT3pBX2hUSUl5Y09FN2VXUVBiUG9CSVF6bjFIZ0U1TUxMNHRSTVhsenhuaG1TQ2xfa1h2MXdCNlpyUmxoX3RVTngtWEF4M29lU29DMXVxaVN3?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE51aElwYm9iOTFBLUlibFNQY3daSkg2dWt4SC1MOHJRdUptTmtsc2I1czNHQ19CR3JraldFYlZFdVZGeVN5aHFCamYwLXFMa3FycW9lR0RaT3VLczBQWE9zVnljUERVdGM0SU1UcUV3OWxEZw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNFZTVaMzV4UElFblhGYzdTeDRDR3dPbUc4Rk83ejZtbHY1WDRNeTdkU0pqTnlsN09RM0QtZUU3M3pza19xVzlidDlNaVRGUm1qRFJRRF9YdFRkWGVWX1FhZGlhVERjclZBWS1tMlVEbTJLazl0MVYyMk45ZDZaVC1BOFVCNWU4azB4UlZTTXhvdGdPb1hNZ1QzWW9xSG1vTGZKTw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      1,
-     19,
+     22,
      5
     ]
    },

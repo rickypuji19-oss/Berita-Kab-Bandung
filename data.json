@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:20:20.643664+07:00",
+ "updated": "2026-10-14T12:19:32.532403+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "Ayo Bandung",
-   12
+   11
   ],
   [
    "detikcom",
@@ -35,6 +35,10 @@
    5
   ],
   [
+   "Galamedia News",
+   4
+  ],
+  [
    "PPID Kab. Bandung",
    4
   ],
@@ -47,11 +51,7 @@
    3
   ],
   [
-   "Galamedia News",
-   3
-  ],
-  [
-   "Radio PRFM",
+   "Disway",
    3
   ],
   [
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "Disway",
+   "Jurnal Soreang",
    2
   ],
   [
-   "Jurnal Soreang",
+   "www.balebandung.com",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "SIPERA: Inovasi Dinas PUTR Kabupaten Bandung untuk Informasi Tata Ruang Real Time dan Pelayanan Publik - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3VYRE9pbDBOOTRSOTRFNzZSSDJwZW9QdllKYTJobWZDTUI3X1A2aGVpUlQxYmktZ1I4UEFHaG9QQ0U1cnFfSHhQLXoxb1BYNVVBcDNkU0twYmg0ZHhPMV9qZi1ZT2x2NklBZzFLTFN3Y1JpXzVuNEs4b2t3MTBwc21tSEZGcElHZDNsY1EzVnIwTzZWWXFOR19xaUVTTUI1X3lFNzZZQmpYaHFPNFlRa01GV1lBeVB3c0ZrUzR5Sm5rcmp1YThLYThKWWhhNkFyaEg1anlaRjl1MXdJSkU1bmlxV1p2WVYzSUxHWnZB?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Bupati: Kinerja Harus Terukur, Uang Rakyat Harus Berdampak! - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNktRaXdITmd2ZjJwa0NsNnByZjh2VWlYUnNaVVFKVDI4NzNpN051eWFTRGViLUhteUlYRkFqem9TN18wZWZQWDlUSnA5aWkxZVU0ZnZ2czZWTHkwMEVabGRNaGFkM0RuRGlmUXFVZ3pYUDdPWTZSNEJxQVVJNWZvZmw0bjJYWGxDeWl0Q1lhUUhnbjVzT2VHbXFUZ1d3N3B1?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Esensi SAKIP Bukan Mengejar Nilai, Membuktikan Manfaat Masyarakat - RRI.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcG9DSHV6cThsQVVnbGVReUtwSFpxWk9xdWRMWkw3bG9ObDZrU2ZaLXBaMW9MU2dleTBZbVRHZ25LVGVOVko5UXEwd1JLSi1vdUFaVHFxUmFheThGQnl3anlCNjdHa21vQmFpMXF0dm00UVpUa2FSMkdYYmxNNHZmdWNOLVc5MS0tZlk1Z05RNVVXaVNGYkIxcW1lTGxjODJzVzhRRlFNaEZFN3c?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemprov Jabar dan Pemkab Bandung Renovasi Si Jalak Harupat pada 2027, Dedi Mulyadi: Diperbaiki Biar Berstandar - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkwyWXlhaUtUa2lDanlvT0l4cUtBeG1FRWl2eUoyajRPd29KZTJmOW5KNnAxTE9ZTlc3aTRTRFlrUEpuai1xM0RCNjF6a0ZFQy1iaGRMU1hZZGpyR2xweEhrUVRyOUcySnBSRndnbDFhYnZSdld3VmpuZXJad1VHaHZRZVlodWhCR2VoSkljTGlGa1BBb3ptYkFDUzkxMUZUMFR3c1pEbnRBeGJfSXJMeVRFcnk0T0kwak93Nm92eUt4Z3p4?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Sampah Kabupaten Bandung Jadi Sorotan, Pemkab Siapkan Langkah Antisipasi - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFVQR1hORFZBZFlzUlFDNTZxdk5IZ2VZT0xHeU9aSVVtWlBxeUFTd2k2bzNaWEptbVNfZUJRWkVoUW9XczZITU1CbVZYakd0RGV1UjdpVkZyUk1XZHRid1I4ZzJVRzRyUXlvM0c2ZkwzVGpEcmo2cXRDbFFXbWVrU3NfdXZtWWo5UEt2YVA5UWlWRmtScWJQQ1RXRFpLMjN6OEE5NWNkRWxmMG1ZWUg2VVg4VzlINDVWc3BFWjNzdUpVdw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     9,
+     10,
      17,
-     3
+     2
     ]
    },
    "trend": {
@@ -138,14 +138,14 @@
      0,
      2,
      7,
-     1
+     2
     ],
     "g": [
      0,
      0,
      0,
      0,
-     2,
+     1,
      1,
      0
     ]
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Komisi C DPRD Kabupaten Bandung Sidak PT Ramatex, Soroti Limbah dan Perizinan - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHZYOUZnYnZvZEsxUzhLSzBNWjVxQjJHMjBuQlVGdm0xQnJZbEpmVm9NNGkxelduSjRZSHRaczJfMC1OWFpiVFJidTE3TjlXUmpKdlg5TGh6SExxbGItZmFaSkZwd2VPbGVQQXl3eVdNRzFsOTdPT2h3U2FPZUdQaXhzVXZSZUxIakcyQjZ4ZHNPcDNjNzF6QnlteVVTakZpMzVVcmdLajFJYXlvY0JxTFd2QjFPbjRLOGpTOVR0TWR1TTZRdFFz0gG3AUFVX3lxTE5QYnJJbS1fOWU2MmtkZ251V3Z6MnVmNks1S3dpdEx3alRYcUR6d1hOWURqLVdfYlZEc01JQzJSTFFLWXNOTWVxWVpvOGotQmllRkx2M3Y1OUNLcUxfd2hJV3p2MzJ2dkFUQ0VvUUJRVmlWRlFxRnV6anprZjVWWVVpQnZmMVVJNzQtZUtZdWV3TGtVRTFzaFVKWUxHWm5GS3U3N1lGS3VsSXdaWGNHNTNvS0lTMUdYbw?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Komisi C DPRD Kabupaten Bandung Bongkar Kebobrokan Pengelolaan Limbah Industri di Kawasan Dayeuhkolot - jabarekspres.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzZYbEozVUczdFFNZVNHY2ZjR1VnTHU1a3prZ3pxTTdnMWhfRmY4MkhDRGxyMHg4Q3J0MVhQa3lkOG8wR3pWSjdWNEdmNnBIZ3lMQ2hPOUxGVUcwbmQ4dnFWb3BqTnpjTTlwaHRSSmsxSVZnX1ZyYmNkTW9xNWFVNVg1VW1KTEpxRHZMUGhDaUlOcWc5RU1rVnNKQ1BPUnJkbVFMb3hzQ0xoUk9BZVZONFdvLXVSaU9INVhVTHV3MUlhM0dCLTFtRS1NLTdRaERmZEZoUk5TMGo1OVdvTVE?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc0Fpd0JZVHNkUXNUM1JZdEs4d1hGdHM2bkZqQVdVd0hPSzRxX2JVdHVhd0NCRTJXVzk0eERBTzRvLWwyNEl5U1ZKNDJ5TVA2czF2SFpQZDV6LTNOTTh6UU5MLUUzRjVpc3ZYUmIycVh1by1aWEI5SGI0YUxLcWZXdlhmdDdMekRqSjFjQzBhZHEybXFrWTlYVThqRnNtT21BNHhxSTljQTJMbkhRcnNTSWVzTXd1SWFONkYtWXhCREhhSmFEOU1IZW9uZ0xfOEFhMUVOWm9oTU9EX1ZBa1ZpeA?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "IWPC Sampaikan Tujuh Tuntutan Dalam Rapat Konsolidasi Soal Revitalisasi Pasar Desa Ciparay - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFJKMVoxRWlScFh4N3JVdHlOeE03OTdQcUR3UmpVUF9pWVMyM2o0RU00MExTZnF3bjlyOXlXNTQtUklINjBSOFBFdXJ6QnVQTVhkMWhoamI4cDFGSDNIeS1lY1JSd2ZjXzVnTThOVEMxR0VDaTNCWGVhcU5nU19vSk5hQ080ZFRiNThvRkkyNHRaZEVpa0ZxTzNKUHVSMEhhd0duVGxMQTBZY2t0aDdPR195VnVBeE5leV8wNnczc1lqRk1SMVdaNVFMTzV5Vzh4RUJhSjl4QjJjQdIBygFBVV95cUxNNW5qbFFTblZyV2VMc0FjSnlFckU5Z2ZXcmptUDh0VHIySXVwTnNSdFZmMVlXRTlvTWZKbEprTFBRaFF3VHl0MFdsODRpUnk3cTlueFNVYjRGeXNUZ0tpdEtHRGgwc08zRGtCSkFfNmZjNlJ3YkRyUWplckIzM0JOcTBXc3l0TzRpOFlPZ1p3WmNwcldrZ0pxM3I5am9icmJxU093VWFwNkRRX1JqRmpEZHA3eU9tcFc1UEhhYUZySklKdHJzSmhtUy1n?oc=5",
-     "r": "Disway"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     23,
+     22,
      14
     ]
    },
@@ -391,7 +391,7 @@
     {
      "t": "Pembangunan Jembatan di Baleendah Bikin Macet, Polisi Lakukan Buka Tutup - detikcom",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUNCdjlXUGhBamlTWU5jVmlCbEp2WWtCS3hHaEwxM2dvOFNmTnpyWEhVQWRYbjZIUHJqcFhBcGw5bzZ2OTJuWWluUGI1NDlPb09LN211WFN1VGxUMWw5V1BrMDdFMXE4RXAxOXB0NjBZcVZWakFPY2cyclY1cGRDZzl3QUh4cW10MnVKdzdjRUQxaHlDaG54RnQxSm9nVk9KbUpjOXJhZkYyWXh2b1JGb0EyMkVqbWPSAbwBQVVfeXFMUE9BTXFfdGg5dXdkanYwaU5DWHI2QU9pUGJja1F1N2pMZmJYSWpQbVlmbGJUMjhmS3N4R3I0UVM3RnlfY1Q0VFo0SW5HYUp2UDhmNl9CZ21sR1ViTi1mR1ZWS01PcnFWSXFLRUhCajRuRlZ1VThNN3o2V0V0VXZxLXo0Snl3blpNem5rOUFWeHZxSktOSmk5LW9ZeVNtN2RpSHNwelRUTEVHbldWSzJCRWZ4UHppNG1tdk1iNzM?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0FNcV90aDl1d2RqdjBpTkNYcjZBT2lQYmNrUXU3akxmYlhJalBtWWZsYlQyOGZLc3hHcjRRUzdGeV9jVDRUWjRJbkdhSnZQOGY2X0JnbWxHVWJOLWZHVlZLTU9ycVZJcUtFSEJqNG5GVnVVOE03ejZXRXRVdnEtejRKeXduWk16bms5QVZ4dnFKS05KaTktb1l5U203ZGlIc3B6VFRMRUduV1ZLMkJFZnhQemk0bW12TWI3M9IBvAFBVV95cUxQT0FNcV90aDl1d2RqdjBpTkNYcjZBT2lQYmNrUXU3akxmYlhJalBtWWZsYlQyOGZLc3hHcjRRUzdGeV9jVDRUWjRJbkdhSnZQOGY2X0JnbWxHVWJOLWZHVlZLTU9ycVZJcUtFSEJqNG5GVnVVOE03ejZXRXRVdnEtejRKeXduWk16bms5QVZ4dnFKS05KaTktb1l5U203ZGlIc3B6VFRMRUduV1ZLMkJFZnhQemk0bW12TWI3Mw?oc=5",
      "r": "detikcom"
     },
     {
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     16
+     15
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      2,
-     4,
+     3,
      2,
      1,
      6,
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      19,
      5
     ]
@@ -526,7 +526,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      1,

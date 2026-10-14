@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T02:25:00.590748+07:00",
+ "updated": "2026-10-15T03:20:03.887951+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Kompas.com",
-   28
+   29
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "detikcom",
@@ -24,7 +24,7 @@
   ],
   [
    "Ayo Bandung",
-   10
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
+     "r": "rmoljabar.id"
+    },
+    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
@@ -88,12 +94,6 @@
      "t": "DINAS PERPUSTAKAAN DAN ARSIP - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQVZTM2t4ckRsU3VsbVMzaFJVc2wxMmU0STAwVDJQYWJzUmYzOE5SQm9Cb0VhTHBNUzU2TGtjMFk0aF8tQUFZVFN5U0daTEJvcWJNOXZGQXBTWW95LThaRkFSanFndjZZQmo5RlhFdUM4UkdTNGhFQW5LWHAwY2JKV1V3UW9LQnh5WGt0YjhqdmNHUy1FWE8tZGd3eGd4LVBGUl9MMHVCN2VsRWFRWUZLcnl0V1JSbEwxeS1qMjJna2JEa0psMjk0dmtGeTZRX2xwUHVJS3ZTN28tOC1QZG42clFSTy1aSlhQUGMzV05MTjhjZw?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Formulir Keberatan Informasi Publik Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQVNTYThMOGkzOWlIc0FiRGdjTTYwTERlUjFiME51dW91U1NraTRFTWxiR2RIa3owWmFIWll5Z0JRMzF4V0JSU2JVcjh6enZteEVWVnBYVk4wZ0NOUFVfeEhMM1FKU0IyZHV0M0FDdlZXa3JBTzRYczRnQXB4TlJDc2FaRDh3ZWFUa0M1a2kteWYtaWpfWHYyeWZvb0dLdVlieHFuRVBpTUNUTjFqZEExdjA5Vms4V1ZJalk3cHRGXzgxaG1RNmdtYURzV3BIeGg4bWx4ZDYzWG9ET0N0Qjlj?oc=5",
      "r": "PPID Kab. Bandung"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     18,
+     19,
      7
     ]
    },
@@ -146,8 +146,8 @@
      0,
      0,
      1,
-     7,
-     0
+     6,
+     1
     ]
    }
   },
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     23,
-     17
+     24,
+     16
     ]
    },
    "trend": {
@@ -360,7 +360,7 @@
      7,
      2,
      0,
-     1,
+     0,
      2,
      5,
      0
@@ -439,10 +439,10 @@
      0
     ],
     "g": [
-     3,
+     4,
      2,
      1,
-     6,
+     5,
      3,
      10,
      0

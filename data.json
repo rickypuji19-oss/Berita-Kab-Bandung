@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T07:15:59.075600+07:00",
+ "updated": "2026-10-14T08:25:43.473646+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -32,6 +32,10 @@
   ],
   [
    "jabarekspres.com",
+   6
+  ],
+  [
+   "PPID Kab. Bandung",
    5
   ],
   [
@@ -47,14 +51,6 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "bandungraya.net",
-   3
-  ],
-  [
    "Radio PRFM",
    3
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Disway",
+   2
+  ],
+  [
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Pasca Terbitnya SK Bupati Bandung tentang LP2B, Zeis Zultaqawa Jelaskan Implikasi dan Solusi bagi Dunia Usaha - Galamedia News",
+     "t": "Informasi Tata Cara Penyampaian Pengaduan Pelayanan Publik pada Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN01jREV6UGNCYWwzMGRpUGtNcjk5dWJGYWtqY3ZRYlh1eDliVHdHZkRva0xVZGVXM3dGMzNVRE9hcW9VbGRfRm5FaThNVkVGTmo0UFpBQkRBcFRLQ0I1anVXNV9SbGxPMFdhcTJCc3FseW9STV9naUprc3NyTXQ4LXhwZEgwdXhRcjEtX1VwdHhIMkkyZkg3MUdTODhERWdMaDdUclduSW5iNkxRQjVLMVhoQjdka3prVmRQd0swcklyRm9QdUZvamZyQzJGMHBQYTN6aGRKR1RobTZuWG1od0hxWTBIZkt3RDdRb2NsT3VTcUYwOEJR?oc=5",
-     "r": "Galamedia News"
+     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQzVSOGxtNUQ1MzZlOFRYZ1dHa3JjalpnY043ZkVGSzgwOHNwQmlvYkY2ekJidVJRR1dkWGwwZEhBbE4yd3NHVEpwUklmTHJMNTJBT092TTVGckZTU1BXSVlvbVdkbEVNcmRmWWxGSm1MdjdoMm1YUVFNXzc3aGhBaVRTcl92U2NCckNHMG1zOS15VC00bFp3ZUxJSEtHTUdVMXpreF8yNzhnOWdjMG1XWFYwUG1ieGxfSGJKTWpCdjh0S1VMajE3MGI5QU9tTUNFWE1ySEQwZkoyejZxZWswVndQYTZObFBNcWc2bFRSU2lXVkJQaGk1VFBlaWlnbVBERThGamdacw?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     11,
-     14,
+     10,
+     15,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     4,
+     3,
      8,
      0
     ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Komisi C DPRD Kabupaten Bandung Bongkar Kebobrokan Pengelolaan Limbah Industri di Kawasan Dayeuhkolot - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzZYbEozVUczdFFNZVNHY2ZjR1VnTHU1a3prZ3pxTTdnMWhfRmY4MkhDRGxyMHg4Q3J0MVhQa3lkOG8wR3pWSjdWNEdmNnBIZ3lMQ2hPOUxGVUcwbmQ4dnFWb3BqTnpjTTlwaHRSSmsxSVZnX1ZyYmNkTW9xNWFVNVg1VW1KTEpxRHZMUGhDaUlOcWc5RU1rVnNKQ1BPUnJkbVFMb3hzQ0xoUk9BZVZONFdvLXVSaU9INVhVTHV3MUlhM0dCLTFtRS1NLTdRaERmZEZoUk5TMGo1OVdvTVE?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Dorong Keterampilan Tata Boga dan Barista, DPRD Jabar Tekankan Pentingnya Pelatihan Kerja Mandiri - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc0Fpd0JZVHNkUXNUM1JZdEs4d1hGdHM2bkZqQVdVd0hPSzRxX2JVdHVhd0NCRTJXVzk0eERBTzRvLWwyNEl5U1ZKNDJ5TVA2czF2SFpQZDV6LTNOTTh6UU5MLUUzRjVpc3ZYUmIycVh1by1aWEI5SGI0YUxLcWZXdlhmdDdMekRqSjFjQzBhZHEybXFrWTlYVThqRnNtT21BNHhxSTljQTJMbkhRcnNTSWVzTXd1SWFONkYtWXhCREhhSmFEOU1IZW9uZ0xfOEFhMUVOWm9oTU9EX1ZBa1ZpeA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "IWPC Sampaikan Tujuh Tuntutan Dalam Rapat Konsolidasi Soal Revitalisasi Pasar Desa Ciparay - radarjabar.disway.id - Disway",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFJKMVoxRWlScFh4N3JVdHlOeE03OTdQcUR3UmpVUF9pWVMyM2o0RU00MExTZnF3bjlyOXlXNTQtUklINjBSOFBFdXJ6QnVQTVhkMWhoamI4cDFGSDNIeS1lY1JSd2ZjXzVnTThOVEMxR0VDaTNCWGVhcU5nU19vSk5hQ080ZFRiNThvRkkyNHRaZEVpa0ZxTzNKUHVSMEhhd0duVGxMQTBZY2t0aDdPR195VnVBeE5leV8wNnczc1lqRk1SMVdaNVFMTzV5Vzh4RUJhSjl4QjJjQdIBygFBVV95cUxNNW5qbFFTblZyV2VMc0FjSnlFckU5Z2ZXcmptUDh0VHIySXVwTnNSdFZmMVlXRTlvTWZKbEprTFBRaFF3VHl0MFdsODRpUnk3cTlueFNVYjRGeXNUZ0tpdEtHRGgwc08zRGtCSkFfNmZjNlJ3YkRyUWplckIzM0JOcTBXc3l0TzRpOFlPZ1p3WmNwcldrZ0pxM3I5am9icmJxU093VWFwNkRRX1JqRmpEZHA3eU9tcFc1UEhhYUZySklKdHJzSmhtUy1n?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "PSI Jabar Desak Partai Koalisi Bersuara Bela Gibran di Tengah Polemik Ijazah dan Tuntutan Pemakzulan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2lZTmlwbldHM2hoeHJCTlh2amExTkRQMzh3R08xTVE0QTZnUDRDdDlNU3JkZTZSZjJ0a1ZldDloRlJXQmhkQllLRUVzbzBILXJjMzZCU3Z4RzNqVHlQdkRHMjdrZXA4UHVpWGZHU2duVEtGT0FhdHNRelJudk4yRUlMckhKNktrbDZ6RzJwUEhJZkx1MFdpUFU5c05DMFBkR1kwR09VV1V2RzB3ODFVTTNFTEVIUG1fazh4OTNXVC1HbTNnb1BIekY3Q01tSUkzTlVDTG9uUi1JVjNFYTlPdTBMNmdNQQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Ini Temuan BPK di DPRD Kab. Bandung - Bedanews",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Qa2EzV2lPc1NuWnE1aDNHZHdTaG81NUMtTVZMV1pLMlEyWHpITC1vcjlLWEhxVTFfN3pnVHRxVnpRZGwzU0pIVEtDRFpvQjZrZ19DVXFHem0zSGRKUkk2TjVoLV8yeDQ?oc=5",
-     "r": "Bedanews"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -193,8 +193,8 @@
     ],
     "w": [
      2,
-     7,
-     1
+     8,
+     2
     ]
    },
    "trend": {
@@ -223,7 +223,7 @@
      0,
      0,
      1,
-     0
+     1
     ]
    }
   },
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     2,
-     8,
+     3,
+     7,
      0
     ]
    },
@@ -282,7 +282,7 @@
      0,
      1,
      0,
-     0,
+     1,
      1,
      0
     ],
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     16
+     15
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      2,
-     5,
+     4,
      2,
      1,
      6,

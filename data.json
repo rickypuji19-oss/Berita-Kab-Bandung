@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T13:20:03.085907+07:00",
+ "updated": "2026-10-14T14:32:03.831193+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Kompas.com",
-   25
+   26
   ],
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "www.balebandung.com",
+   "Radio PRFM",
    2
   ],
   [
-   "Radio PRFM",
+   "ayobandung.com",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Cegah Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi Baru - Bisnis.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlpkbVRlNUtKRGs0OXRDMHJUNWpXX1VvSlJ6a3lFR1JUR0RhQk8xSW9BMzR0TEtybEUwYWZldElnekhFSVcxbFJPWmc3Y2Q2dXppeFlIUUxmcjhGbjBoalpjZ052RGxsMUg4VjQ4NndQcVBUQzB3WkdpejhpWjd1dklfalhDcTNVMDBENm9hZkFMU0RGNnlmbEt3MkNpSVdvWGFWR3NjcXJ5WlRIZC1RZmphWGwyUEwxME8w?oc=5",
+     "r": "Bisnis.com"
+    },
+    {
+     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
+     "r": "rmoljabar.id"
+    },
+    {
      "t": "Pemprov Jabar dan Pemkab Bandung Sepakat Benahi Stadion Si Jalak Harupat, Renovasi Dimulai 2027 - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmVsdWVIUVRqR3V1eS1tLThYV21MbkpyWTdnUkJfMXYxWEtyOXltM0RhT3k1cGZnbnNVYWJUZ2RPM0VqdVhEUTdXOV9Wdkx4SlBuU3BpMFBBc3BUdkRIcWhCdTFLbVhQMlBVNFZ3OWJwUGdtS3MwbFFDNzM0bDVzTHBKeWF6eENSNjkxOHJRbmtUaWJOYzAxVFBUNVk5UWhsRnhVU1V0MFVIbGVILWJGU0Vsd0VhQkJmY2JIbW5sbUhYQWk3RUU0Z3Y2TXFEc3NNSHZZWGRIVkZOOWZsS0U3b1BkOA?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pemprov Jabar dan Pemkab Bandung Sepakat Kerja Sama Benahi Stadion Jalak Harupat - ciayumajakuning.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkh0Nl9kN2Juc1JqRGlOdVZQTzBHNThlY3N1dUVmdmFkQml1aEZHNGpDMk5pRGVNdl9rWUpjYXZzTldmZ2lXeVdZdklFRmlNUEVsT1BkWkdHOW9ZekN3SWtVSW1HUXZ0ekU0NXdaV0dGc25iSlkyUWhOVDRCYzViZks5X0N1NFFNZU9zYTZiQVBCeHd4TkFTVzBIZW1tdF9aN2tBbWNCeFlpWjc0bVpmZ0RpUUNtNUIwUHlz?oc=5",
-     "r": "ciayumajakuning.id"
-    },
-    {
-     "t": "SIPERA: Inovasi Dinas PUTR Kabupaten Bandung untuk Informasi Tata Ruang Real Time dan Pelayanan Publik - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3VYRE9pbDBOOTRSOTRFNzZSSDJwZW9QdllKYTJobWZDTUI3X1A2aGVpUlQxYmktZ1I4UEFHaG9QQ0U1cnFfSHhQLXoxb1BYNVVBcDNkU0twYmg0ZHhPMV9qZi1ZT2x2NklBZzFLTFN3Y1JpXzVuNEs4b2t3MTBwc21tSEZGcElHZDNsY1EzVnIwTzZWWXFOR19xaUVTTUI1X3lFNzZZQmpYaHFPNFlRa01GV1lBeVB3c0ZrUzR5Sm5rcmp1YThLYThKWWhhNkFyaEg1anlaRjl1MXdJSkU1bmlxV1p2WVYzSUxHWnZB?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     10,
-     17,
-     1
+     9,
+     18,
+     2
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     7,
+     6,
      3
     ],
     "g": [
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     1
+     2
     ]
    }
   },
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     8,
+     9,
      2
     ]
    },
@@ -319,10 +319,10 @@
      "r": "detikcom"
     },
     {
-     "t": "Viral Balita Terluka saat Ayah Mengamuk Gara-gara Slot, Polisi Cari si Pria - Pikiran-Rakyat.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0Fhc3lVeHpla3VOT0VRZjJPdG0tTW94MzJMRnV2ckx4ZjRmTk1rR0VhVDlEamg0YWtuU3prWkpyNVI2VU1KaXl3akZSRUdSakRuZHcwTTN2am10UzYwaGJlMnFLYUpMUDh6ZVh1MVBkYkJ2N3JBaEY5Z0hzMXlfUG8ycnpLZ1c3UFJuNml0c3dhWW4zOUx3MmptRnRabmpJcUN3aEFuMDNzY3lVakU2QzFPdElVbDdSemRsZ2h6TFkzUdIBxwFBVV95cUxNQm9HUDRQbU9jNUZyekswMU13TXM2bUY4QVVxbGNEWEFFOENDa0doNGt1cWg5THJ0bHhoSjFrYlY1RUR3TkRqSDZiMkVfVThvT2xSbkZ4NmxaU2p5b3A3MXNHMlJRWG5TVGpCRDNxY2ZWd3FYNEZ1Y3o1TlhNYlZjRTBsdlJQb2tuQXE4MkduRXFIMnBwc2lSeWhWeWRPdld3dXlGcWpQZTVCa25EeldEcktZeUtZRXdySmpMRXM5czVuLWMzTUFF?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Foto : Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0ZackI3emJlRmFVWkFQWWtQd0VfYnBiNWY4eG53Z1JaczhQZlF0VzJzMXRQNm1WS3V3T3d6SzZqYS1oNWd6TG1GaVh4Q1JxcmVGbTgxcENoMEJPdVJNTnNIamFfS2t5Qk0wWnA1WDVNWWFuQjk3LU5sSlBpRzlUY0t3emw2UloyLXV0MXhJU0dQcDBxZ0lLS1laQUd5OTVUbVNwcVBreUlTNEYzcGlIOXdsMWFvMjFZc1BwVEVkZGozcTIxMjJvWWNkbGJjYzM0R1E?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -346,7 +346,7 @@
     "w": [
      1,
      23,
-     15
+     14
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0,
      2,
      2,
-     2
+     1
     ]
    }
   },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Dedi Mulyadi Siapkan Danau Retensi di Lanud Sulaiman untuk Atasi Banjir Bandung Raya - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWtwMTBydVVpUklJN3RfOVVJak9lSVFGZXA3TWNpSF9TS0t4Wko4aV9RUm02NndwbGpWVkJGRWJRUVl6YkRVRHlpMmtQTmlFTXNvZnJ0RE1ETFlBMEFWaUJFYzhEdDJqeENYZVp5b0dSYU1LMFRqcFBEdElkOVpTTkNlNTBSUllBbE1QWHRMd3BVOW9CSzVNUXBEYVdjRHNUSmZmX1RhZ0p4UGZtR3FYS0JuWVk0RnEwRU5VUEdpem1pY3ltOGRFSlAtd1NxdU04?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Buka Tutup Jembatan Munjul 2 Diberlakukan, Pengendara Diminta Bersabar - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0ZUY1BjeXhYVm0wNjMzeU1kMDA3ZWVQR1NBS1h4MDVLa3hPRUphX2tSYkxMN1BIVnkzWVgwVTVlRjFEckd3ejAtVTBtb2xrc096QkJpYjkteDJKSEl6NlhHeEpOMTVmMXdnNnZXMDdlVUl2U0RxV19VeDNQZ1JSaWhKX0RoOGN1Q051OE4xaElhcldkOTZyUkJPTmdWQnBhaDhmekdqSy12Mi1BWWgzU002Yw?oc=5",
@@ -398,12 +404,6 @@
      "t": "Pemprov Jabar Siapkan Danau Retensi untuk Atasi Banjir Bandung Raya, Dedi Mulyadi Minta Digarap Serius - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUNNclAtWUFUOHJVMUJXYVdjbGJnNjJ5eGlhRktHT3pwUXY2bkJlbUQ3N3VnSnlFMEp4QTFwWDJ4cmt0N3BROE15NFk5Y0QxcHBQUC1uemZJalBUZl80THZFU1ZOd0tmSjdRcGREU3h4VERhT0dUWGZ6cjlVWFdueGk4OVlURmU0cFhsVm13amFIN0pXV3AyYW9IVEVoMi0wMEdLZEVuT1RQWWRWeldOSHA1WDlGem9BdHJhLWFNMU94NGI4?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Proyek Jembatan Munjul 2 Picu Kemacetan, Polresta Bandung Berlakukan Buka-Tutup Jalan - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUExTXRHaC1VWG1NX0FDYkRVY1A5cXBMRUZsenhnSmtHcDA1X2U5Q1UxV3BjelhYTHl3eUhPRlhtR0pNQVZyZjNKbDJ3Tmh0NHJ5VEhOSmZNMnVVMHJVM2FyaDN6ZjN2VjFzSmlsTWYxRjJzSWtIaHVFc1VLR1cxdktXYVBBZXlycEVMcW81Y0hkaGdxUDVsa2pjVzFuV0JIWlR6M2lrYTZVRjhFLUxLX0k3VnJPWWpSZEdBNFlqUk16eGs?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      3,
-     8,
-     17
+     9,
+     18
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      6,
      3,
-     4
+     5
     ]
    }
   },
@@ -509,7 +509,7 @@
     ],
     "w": [
      1,
-     22,
+     21,
      5
     ]
    },

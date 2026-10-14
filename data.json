@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T10:19:23.955757+07:00",
+ "updated": "2026-10-14T11:20:20.643664+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
+   "Kompas.com",
    22
   ],
   [
-   "Kompas.com",
-   22
+   "RRI.co.id",
+   21
   ],
   [
    "Tribunjabar.id",
@@ -24,7 +24,7 @@
   ],
   [
    "detikcom",
-   9
+   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -32,11 +32,11 @@
   ],
   [
    "jabarekspres.com",
-   6
+   5
   ],
   [
    "PPID Kab. Bandung",
-   5
+   4
   ],
   [
    "Radar Bandung",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     25,
+     23,
      14
     ]
    },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Pembangunan Jembatan di Baleendah Bikin Macet, Polisi Lakukan Buka Tutup - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUNCdjlXUGhBamlTWU5jVmlCbEp2WWtCS3hHaEwxM2dvOFNmTnpyWEhVQWRYbjZIUHJqcFhBcGw5bzZ2OTJuWWluUGI1NDlPb09LN211WFN1VGxUMWw5V1BrMDdFMXE4RXAxOXB0NjBZcVZWakFPY2cyclY1cGRDZzl3QUh4cW10MnVKdzdjRUQxaHlDaG54RnQxSm9nVk9KbUpjOXJhZkYyWXh2b1JGb0EyMkVqbWPSAbwBQVVfeXFMUE9BTXFfdGg5dXdkanYwaU5DWHI2QU9pUGJja1F1N2pMZmJYSWpQbVlmbGJUMjhmS3N4R3I0UVM3RnlfY1Q0VFo0SW5HYUp2UDhmNl9CZ21sR1ViTi1mR1ZWS01PcnFWSXFLRUhCajRuRlZ1VThNN3o2V0V0VXZxLXo0Snl3blpNem5rOUFWeHZxSktOSmk5LW9ZeVNtN2RpSHNwelRUTEVHbldWSzJCRWZ4UHppNG1tdk1iNzM?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
@@ -399,12 +405,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWpOVEltM0dSUFhQdy1OQ0JfX0NBZG1MdWRRMUptUFhpYWFPYUVMSkZvemlUR0NfdnJ2R3pfaU1HMENTY3d2eGJ6a1NzdGdHcmM2bTZQal83Wjl6WjhXQjBxN0RGTHlrVGQ0bEdOMzg2QWh3eHA0Q1pNeF8zbmpvQVdjZkwxekRWbkJreVNET29tMjdPNUl1cmlScGdFNzczNmUwNnU5emRSNjVLbU9BSmZJemc?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Telkom Dukung Perbaikan 20 Rutilahu di Cileunyi Wetan Demi Hunian Layak dan Berkelanjutan - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZl9zZ202dVZpSjFndl9IWEtLVWlYQUNmWng3RWtzTFJHc19GV3ZtekdBOE5UeXVVY2NjU3dJeFRTTEM1TDlOM29OM1BOeVM1djZ4YWZOVm5XM1hqbHV3NmNDNlBFVVNIM2otWGZBVzdySFc5dzk0Sm1Ycnh1T2xET3dlRFY4Rm1CWTY5ejZCYm9tWVVObXpWLTloMUV6MXRybVRuQ25pa3JIVDllbldhb2JzY0NQUWlFd3d6cm02eU5JLW0yQ3VJRGZCUGVVdw?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     15
+     16
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      6,
      3,
-     0
+     1
     ]
    }
   },

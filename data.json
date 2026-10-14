@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:17:38.850172+07:00",
+ "updated": "2026-10-14T10:19:23.955757+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,15 +7,15 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   21
+   "RRI.co.id",
+   22
   ],
   [
    "Kompas.com",
-   21
+   22
   ],
   [
-   "RRI.co.id",
+   "Tribunjabar.id",
    20
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Esensi SAKIP Bukan Mengejar Nilai, Membuktikan Manfaat Masyarakat - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcG9DSHV6cThsQVVnbGVReUtwSFpxWk9xdWRMWkw3bG9ObDZrU2ZaLXBaMW9MU2dleTBZbVRHZ25LVGVOVko5UXEwd1JLSi1vdUFaVHFxUmFheThGQnl3anlCNjdHa21vQmFpMXF0dm00UVpUa2FSMkdYYmxNNHZmdWNOLVc5MS0tZlk1Z05RNVVXaVNGYkIxcW1lTGxjODJzVzhRRlFNaEZFN3c?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Pemprov Jabar dan Pemkab Bandung Renovasi Si Jalak Harupat pada 2027, Dedi Mulyadi: Diperbaiki Biar Berstandar - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkwyWXlhaUtUa2lDanlvT0l4cUtBeG1FRWl2eUoyajRPd29KZTJmOW5KNnAxTE9ZTlc3aTRTRFlrUEpuai1xM0RCNjF6a0ZFQy1iaGRMU1hZZGpyR2xweEhrUVRyOUcySnBSRndnbDFhYnZSdld3VmpuZXJad1VHaHZRZVlodWhCR2VoSkljTGlGa1BBb3ptYkFDUzkxMUZUMFR3c1pEbnRBeGJfSXJMeVRFcnk0T0kwak93Nm92eUt4Z3p4?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Sampah Kabupaten Bandung Jadi Sorotan, Pemkab Siapkan Langkah Antisipasi - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFVQR1hORFZBZFlzUlFDNTZxdk5IZ2VZT0xHeU9aSVVtWlBxeUFTd2k2bzNaWEptbVNfZUJRWkVoUW9XczZITU1CbVZYakd0RGV1UjdpVkZyUk1XZHRid1I4ZzJVRzRyUXlvM0c2ZkwzVGpEcmo2cXRDbFFXbWVrU3NfdXZtWWo5UEt2YVA5UWlWRmtScWJQQ1RXRFpLMjN6OEE5NWNkRWxmMG1ZWUg2VVg4VzlINDVWc3BFWjNzdUpVdw?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Solusi Banjir Jadek Kopo, Pemkab Bandung Bersama Pemprov Jabar akan Bangun Banjir Kanal Cikahiyangan - Galamedia News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnozbUxvM2hBYkUxWHdhWWhsSE1PNGdnc2ZmZE1mVENpb3NReFBpTWRUUHYyS2VIc1F6X05uMGhSYlBleTI1ZVc3WmlXR1RPRFp2Y0t2V3E5d2c1cktaZ2p1RFFwVGtUQTRPN0daQ3lsX0hzdVd1bnNmUmdvSWNpOG9tWnAwNnhRU2lFdUowdlNWd0RFQUVvNVY1RDFGUDRkSnRuNVNndTV3ZGtmOElzVGh4RHg2VHZ2TzVUa21NUngyNnVDN1ZpQ2tzd0xsbDVibllqcDdHTm85a01xX0k5RFFQeWNvR1pzZF80?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Informasi Tata Cara Penyampaian Pengaduan Pelayanan Publik pada Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQzVSOGxtNUQ1MzZlOFRYZ1dHa3JjalpnY043ZkVGSzgwOHNwQmlvYkY2ekJidVJRR1dkWGwwZEhBbE4yd3NHVEpwUklmTHJMNTJBT092TTVGckZTU1BXSVlvbVdkbEVNcmRmWWxGSm1MdjdoMm1YUVFNXzc3aGhBaVRTcl92U2NCckNHMG1zOS15VC00bFp3ZUxJSEtHTUdVMXpreF8yNzhnOWdjMG1XWFYwUG1ieGxfSGJKTWpCdjh0S1VMajE3MGI5QU9tTUNFWE1ySEQwZkoyejZxZWswVndQYTZObFBNcWc2bFRSU2lXVkJQaGk1VFBlaWlnbVBERThGamdacw?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
@@ -117,7 +117,7 @@
     ],
     "w": [
      9,
-     16,
+     17,
      3
     ]
    },
@@ -137,8 +137,8 @@
      0,
      0,
      2,
-     8,
-     0
+     7,
+     1
     ],
     "g": [
      0,
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     16
+     15
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      2,
-     5,
+     4,
      2,
      1,
      6,
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Ahli Gizi Percepat Penurunan Stunting di Kabupaten Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNFZTVaMzV4UElFblhGYzdTeDRDR3dPbUc4Rk83ejZtbHY1WDRNeTdkU0pqTnlsN09RM0QtZUU3M3pza19xVzlidDlNaVRGUm1qRFJRRF9YdFRkWGVWX1FhZGlhVERjclZBWS1tMlVEbTJLazl0MVYyMk45ZDZaVC1BOFVCNWU4azB4UlZTTXhvdGdPb1hNZ1QzWW9xSG1vTGZKTw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Mahasiswa dan Anak Muda Bandung Ditantang Ciptakan Inovasi Perumahan Lewat BTN Housingpreneur - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNGtXcUtsTDdEcnV1RUxLMllzdWN3QVgyR1o1OGk5U0wwbnZIcTIwRDZfeGRGamJSTVRWdm9IdEc4R0NCRVVfWmFTOGVSOGg3bHlqbVJHUWRGeWVnZDNtR0dlOXFMUVRoa1hPZVVqYm1zOGxwOFZRZUlWMXJBOGNQSl95ay0zTHJhdjRJM2N1TnpvamFiZU9XRUdRUW1uRUhUaFdGbXVCQXF3eFE3X3dNcDN0dXdJcTItNUV2ellHVEVnOTVwQmRxVm5TVTFoWDdqOXc4MWJhQzVmR3FV?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3Z5aWZGYVhaWEtfR3htSUZjeXpjc2xJZEZvQ3VlNjRBay05ZDhjalNIUUIzM2pQWnVKNl9xZENPTml1U1NDSHd0Mm5INHFBUHJfSGVkVUI0cUNMZTFaSGowVjJrM1BaN2dyT3pBX2hUSUl5Y09FN2VXUVBiUG9CSVF6bjFIZ0U1TUxMNHRSTVhsenhuaG1TQ2xfa1h2MXdCNlpyUmxoX3RVTngtWEF4M29lU29DMXVxaVN3?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Telkom University Tindaklanjuti Kasus Perundungan Mahasiswa Baru, Dua Pelaku Dijatuhi Sanksi - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWQyNV9WbDRrOEd6NG5UZ1h0V1llMXN2V1ZuWnp0c3ZIR2U1Ull6V0pUMngtYmxxVXVqYXNFTm1uSFUtOGxGZ29tNGpfN3dYYmpVVzM2UFJuRlBzVDVzN2U4UUNUQ1BYRjVqNnk1UmUxMWlhUzFLVUJ0X292T2pCRThtYkFqWWt6WEFLTldjc3UyaWdqMXhWTC1vUjZpNVVPdXB2d2YwejBOWDNwMDlDOXVvT3NWS2FEd2RUZTFwcHNldHIzYVgxLVU0SFpzd2g2NGpqZHhYUHRPZ9IB3wFBVV95cUxOVExlMUM1WXQtM3hmX0RnQ3poN3hYeTd1cjVPTWZySEZQeXFacDk5c3J3U1JOdGEtVnhLejVjQ002X3hmYWR5djdSUHhqc3Fkek5wVFk4T0JYYVdlUDFDUnV2TmxwU2RUejdNck91c2Q4aGFoSW5XS0ppTExHZ2w4WmotdjNPWmxYQnpzTFRHZVJSN29JRmFFMW1CYXUyYnh4aFJYVUtPZ1Bxdl9ITldzRUN2bnRKOU9fUWZyWmpCVEY5bk5KQ1ZzNVFDcWFBWXZoRGRjVnBPaFEteTE2bTlz?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Analisis Kebijakan Publik & Reformasi Birokrasi Pendidikan",
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     18,
+     19,
      5
     ]
    },

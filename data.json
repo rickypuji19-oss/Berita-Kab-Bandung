@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:20:26.089614+07:00",
+ "updated": "2026-10-15T01:22:46.055464+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   29
-  ],
-  [
    "Kompas.com",
    28
   ],
   [
+   "Tribunjabar.id",
+   28
+  ],
+  [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "detikcom",
-   11
+   12
   ],
   [
    "Ayo Bandung",
@@ -39,11 +39,15 @@
    6
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
    "Galamedia News",
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Radio PRFM",
    3
   ],
   [
@@ -61,10 +65,6 @@
   [
    "Disway",
    2
-  ],
-  [
-   "Radio PRFM",
-   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Formulir Keberatan Informasi Publik Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQVNTYThMOGkzOWlIc0FiRGdjTTYwTERlUjFiME51dW91U1NraTRFTWxiR2RIa3owWmFIWll5Z0JRMzF4V0JSU2JVcjh6enZteEVWVnBYVk4wZ0NOUFVfeEhMM1FKU0IyZHV0M0FDdlZXa3JBTzRYczRnQXB4TlJDc2FaRDh3ZWFUa0M1a2kteWYtaWpfWHYyeWZvb0dLdVlieHFuRVBpTUNUTjFqZEExdjA5Vms4V1ZJalk3cHRGXzgxaG1RNmdtYURzV3BIeGg4bWx4ZDYzWG9ET0N0Qjlj?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
      "r": "rmoljabar.id"
     },
     {
-     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmNsSndUbUp2dU5qUWs1SnFkZEtMb2tManFmamZTSHNJa21RU0hkTDViYm1GME15ZF9kcThWRXFKWFI0aVhwbmNidnI5eXlidm9zQU8zandHbkRSUm1HT1ZZZVVKZEI4OS1jcEctZVc3ZVpNUWZKUXl5T01TVlZTR1h4eHd3bVpoS2RicVFJTXplWG94M3ZQYVFkYXNMZlVKUUVnUmJXRUJpb2ZxWGwyX2Z4UmNVeVR5R21PaldLX08zNVowV0J3YldB?oc=5",
-     "r": "Kompas.com"
+     "t": "DINAS PERPUSTAKAAN DAN ARSIP - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQVZTM2t4ckRsU3VsbVMzaFJVc2wxMmU0STAwVDJQYWJzUmYzOE5SQm9Cb0VhTHBNUzU2TGtjMFk0aF8tQUFZVFN5U0daTEJvcWJNOXZGQXBTWW95LThaRkFSanFndjZZQmo5RlhFdUM4UkdTNGhFQW5LWHAwY2JKV1V3UW9LQnh5WGt0YjhqdmNHUy1FWE8tZGd3eGd4LVBGUl9MMHVCN2VsRWFRWUZLcnl0V1JSbEwxeS1qMjJna2JEa0psMjk0dmtGeTZRX2xwUHVJS3ZTN28tOC1QZG42clFSTy1aSlhQUGMzV05MTjhjZw?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
+     "t": "Formulir Keberatan Informasi Publik Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQVNTYThMOGkzOWlIc0FiRGdjTTYwTERlUjFiME51dW91U1NraTRFTWxiR2RIa3owWmFIWll5Z0JRMzF4V0JSU2JVcjh6enZteEVWVnBYVk4wZ0NOUFVfeEhMM1FKU0IyZHV0M0FDdlZXa3JBTzRYczRnQXB4TlJDc2FaRDh3ZWFUa0M1a2kteWYtaWpfWHYyeWZvb0dLdVlieHFuRVBpTUNUTjFqZEExdjA5Vms4V1ZJalk3cHRGXzgxaG1RNmdtYURzV3BIeGg4bWx4ZDYzWG9ET0N0Qjlj?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     7,
-     16,
+     6,
+     18,
      7
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     2,
+     1,
      5,
      0
     ],
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     3,
-     10,
+     4,
+     9,
      0
     ]
    },
@@ -282,7 +282,7 @@
      1,
      1,
      0,
-     1,
+     2,
      0,
      0
     ],
@@ -357,12 +357,12 @@
      0
     ],
     "g": [
-     7,
+     8,
      2,
      0,
      1,
      2,
-     5,
+     4,
      0
     ]
    }
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     21,
+     23,
      5
     ]
    },

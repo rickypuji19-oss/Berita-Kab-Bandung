@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T04:19:18.724360+07:00",
+ "updated": "2026-10-15T05:18:06.048503+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
-   27
+   "Tribunjabar.id",
+   28
   ],
   [
-   "Tribunjabar.id",
-   27
+   "Kompas.com",
+   26
   ],
   [
    "RRI.co.id",
@@ -40,11 +40,19 @@
   ],
   [
    "PPID Kab. Bandung",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
    4
   ],
   [
    "Galamedia News",
-   4
+   3
+  ],
+  [
+   "Disway",
+   3
   ],
   [
    "rmoljabar.id",
@@ -52,14 +60,6 @@
   ],
   [
    "Bisnis.com",
-   2
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   2
-  ],
-  [
-   "Disway",
    2
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
      "r": "rmoljabar.id"
-    },
-    {
-     "t": "DINAS PERPUSTAKAAN DAN ARSIP - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQVZTM2t4ckRsU3VsbVMzaFJVc2wxMmU0STAwVDJQYWJzUmYzOE5SQm9Cb0VhTHBNUzU2TGtjMFk0aF8tQUFZVFN5U0daTEJvcWJNOXZGQXBTWW95LThaRkFSanFndjZZQmo5RlhFdUM4UkdTNGhFQW5LWHAwY2JKV1V3UW9LQnh5WGt0YjhqdmNHUy1FWE8tZGd3eGd4LVBGUl9MMHVCN2VsRWFRWUZLcnl0V1JSbEwxeS1qMjJna2JEa0psMjk0dmtGeTZRX2xwUHVJS3ZTN28tOC1QZG42clFSTy1aSlhQUGMzV05MTjhjZw?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     6,
-     18,
-     7
+     5,
+     19,
+     8
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     1,
+     0,
      5,
      0
     ],
@@ -147,7 +147,7 @@
      0,
      1,
      6,
-     1
+     2
     ]
    }
   },
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     9,
+     10,
      2
     ]
    },
@@ -243,16 +243,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Buruh Jabar Siapkan Aksi, Tuntut Kenaikan UMK 2027 hingga 9,5 Persen - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEZhdG9LQ2c4THgxcXhrRnBzVlNmYlRzY1JqVTFpQzBxSXlObmk5YUNwclpUdS1ncEVBRjlhcjh1U2xGcElqbzFJQmgyb0h2aGNRcWVleG8wSWw0cHpFUnRPWW9tYmF5ZkhubmM4WUI3b2lLVzdPcUVScHpmVW84WEtQVHFSSHBobmN5dk1lQzBQbkN3R1BIcU5Wa2RWNFlKdFgxUG4wLXBDZU84b1luaXdKVVVhSU93?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "IKU Kab Bandung Belum Capai Target, Emisi Kendaraan dan Industri Jadi Sorotan - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2NmeDZxUWEyZV9IeTBQc1UwZ2hXTk9seFVYNjFzNnhzUzNWUGJaY01ELUlFQUNZNTg2NzhWU2RmRVUwcDRhTFRxYzMwVVRIamtZMmc3czl3RTZJZGh5ZkZDXzhTUnR3bk9pVlQ5aTFDOVNoUE82RmVOWnh4TU1QWTRDbnBVM282RzlMSnVoZEkwWVFxMkFQRlFLSUhuVXR4ajRLbkNvWmVtSHJUYzl5MHpkdF84cE0?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Berita Ekonomi Bandung: Pasar, Bisnis & Keuangan Bandung - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dzNRNzl3UHR5SV9TVDFNZUprU0JmdFpoMkh1cWcyTGNVd0F0RnlSWFdXeHR6VTduVHZKWFJpZFFFRUJCUWlMOGxzVWo1WXdINVVuRzFDT01EVkV3UllJUU43alA5YmxhTHc?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     8,
+     9,
      0
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Kasus Teddy Darmansyah Kembali Disidangkan, Kerugian Disebut Rp 19,4 Miliar - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVA4cmQ2LWhnZjJZU2NnR0tqRmgwTDl0R3hYUXJucVNlZHVrLUhlTW5VZkhwa0J4ZTdGVUhtS0lWWUFrcHNaQUFpeEd5MWFZZzhXVzc3cWhxelU5bDQ5Ykh2Zm1abjVVRVVja25pXzBvanZJZHc5Y1JiT0RXOFdLc2lhaWx0eEhnRnNJcGJzemZCVzRkVzZSOUt6U2JTSEFkb1JmOGRLbWtwbEk3Mk9sVGlGWXhSdVA0eVVzRjRtdm52SG5Z?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Umuh Muchtar Kelelahan saat Saksikan Persib Bandung vs Viettel FC, Dipapah Kapolresta Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakRtbG1kei1OS3JtaWxSU1R0V1BRSmxNZzlCZWRrN2FMYVZtMjhHVlRUV2h1ZUVEeVBQQ1ZxTWFBZDhGTktaek1RTnVjb3FfRV9xSVhQQ0dlcWhfV2plTXZLcnFHY201MjYtR0FCajFycGxMWVpUaktRSTV1YkJYeGxLQnR6T3BmRFU4TU0yZU9YS3o3dGRUcTFBcXZQTzJ5M2hNWkpLMnJoa2tDT3dkQmc1dkhDN3JGSHNoY3lUUW8wdUtjU3lhNnVCNkdlNU5hb2xVQThB?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXBTNVkxaEttTjZLZjdrWDQ0M1NxaWNaSlVWNGg5Wm4wbGlZVUtLX0FMLUNHOThnVGJ0UWJxU3czUURDZHRPX2hzSW5NZnlqRVVoVGxoODFQZ0E1UkpIRXowYXdvR1lxcHUwaXZveHZzVlprcm9BblFIXzRhOGdBdDB2RE44bGh2OFNEX3FvbXN6bmpiblkwZTFmSmdFeHJtUHpfdTdZT3YwdFNYcy1jZEpWampCa2FWSm5RWTlB?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Eks Ketua HIPMI Kabupaten Bandung Kembali Jalani Sidang Kasus Dugaan Penipuan Berkedok Investasi - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHFaTzZCaFdTdDZRNFlabDNQNFQxN2tMM0dBdGFqWXVDMTJVblA5U05Cd0hnQU52a1cxcHBDcENNbVY0Mm9rdEhpRGNRUVFFZXVESVo0NGgtZEtqdGZSNlF5blR2RXpKZk5uVE5mM2hJcnJNeDJZTV9mYmRIMG1iRXhJS2FEb2NldG50SUg5NFpGaVBFU3NXZ0drc1VrTFpEREhlWDRmSVJMT2FZVWlWbWJHTjFwTGVRckRkTEZyRm9scHhYY1pNSDZlenNROXZOYWV3TEZhUE1GaXJ2UjFWVQ?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     23,
-     17
+     24,
+     16
     ]
    },
    "trend": {
@@ -362,7 +362,7 @@
      0,
      0,
      2,
-     5,
+     4,
      0
     ]
    }
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Tundukan Cong Viettel, Peralta: Persib Jalankan Rencana dengan Sangat Efektif - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEhlelBBcVMwSFJ2RmEyTXlzQm5aMXZ1WnplWjJFeTk3cC1EMnhURFlsNGJpVS1zMUZyMXNnc2hneDdycXBsZzVCWDUwQXJBbkNvTDlOekY4eTNDS0dpMkl6N1JrUHJVcG1CdmpRRFdiVXFYaTJncTBPUXY5YVVQTWgzMWZnelFwdHFabU5pT0M2ZlRmZUJOUnlLdHNtRmtfbDg3T2JQU05VcVkzeGc2c1V3T21WWnNLbGx4Yg?oc=5",
@@ -387,12 +393,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmNsSndUbUp2dU5qUWs1SnFkZEtMb2tManFmamZTSHNJa21RU0hkTDViYm1GME15ZF9kcThWRXFKWFI0aVhwbmNidnI5eXlidm9zQU8zandHbkRSUm1HT1ZZZVVKZEI4OS1jcEctZVc3ZVpNUWZKUXl5T01TVlZTR1h4eHd3bVpoS2RicVFJTXplWG94M3ZQYVFkYXNMZlVKUUVnUmJXRUJpb2ZxWGwyX2Z4UmNVeVR5R21PaldLX08zNVowV0J3YldB?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Atasi Banjir Kabupaten Bandung, KDS-KDM Siapkan Normalisasi Sungai hingga Danau Retensi - Satumedia.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanRKOTI1RmZNUjBDQ0hxTW9Ta0dBM25VMDVLY0JldXB1cG5NYW9CMGNJd0E1aDlpaEFDWVhjTlkwRHMwRFUxWXozY2pWczB4R3lsSHNzY0tfSjRuYmljbU9yNjhoU2RqSWhUQ3R2NDY3UHh6RkJkdktncUI3T242eWg4Tk44S0pjMnhqWjJjejB0cUZ1NXBycHM2NGh1eWg1QV9CZEdYUW9ycG5SdllqZWhmQTdlR3ZhenZZdFJfeHg?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -416,7 +416,7 @@
     "w": [
      3,
      10,
-     20
+     19
     ]
    },
    "trend": {
@@ -439,13 +439,13 @@
      0
     ],
     "g": [
-     3,
+     1,
      2,
      1,
      5,
      3,
      10,
-     0
+     1
     ]
    }
   },

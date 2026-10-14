@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:20:03.887951+07:00",
+ "updated": "2026-10-15T04:19:18.724360+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Kompas.com",
-   29
+   27
   ],
   [
    "Tribunjabar.id",
-   28
+   27
   ],
   [
    "RRI.co.id",
@@ -20,11 +20,11 @@
   ],
   [
    "detikcom",
-   11
+   12
   ],
   [
    "Ayo Bandung",
-   9
+   8
   ],
   [
    "ANTARA News Jawa Barat",
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     19,
+     18,
      7
     ]
    },
@@ -237,12 +237,6 @@
    ],
    "h": [
     {
-     "t": "Harga Mahal Kemenangan Persib Bandung atas The Cong-Viettel FC, Sang Kapten Harus Absen Satu Laga - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0psWmpTeFBWSm5qMmpPS3lOQWlCdFFMWmtVQ0ZUX3B0QTlSSER1a2pxSlRyNFl5WnNjOGZMV0xyWDBMcUUtVk4tWEsxSjRZOHZZbGlWTGdGRTNSU1dlVWtPbGVuYTJyU01YU09nWnpTM21sSmVnREpjdlZUZkoxNXlfWkg3cGRKbXkwU2ZfQjdORVIzX3M2SFdvMkVDLXV3dTVpVThwdjE4S3BTLW5vNGFNVFNOQ2xKa1FUR0VxTDNuUkFZWndMd3VoRVdBR3NMQ1pkdFh6OTJrWm8?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Aksi Buruh Ditentukan KSPI Daerah, Ini Tuntutan soal Upah Minimum 2027 - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGJqY3pNZmlNeUFJNmpJLU93MUF0SzNEX3FiMC12NTF2Zzg5WXZRc3RWQlNQS09Ib1duVW4xYVRMTkI1d25DSWhsNnZLWWVFQ1FIeUJKcnk2YjRMaVFkcjFkYWZ6OEdnLVdwX1Y2V3lVODNxS1ZsQmpURURMWk5mLVRlRzhhakV0N210dW1sak1lbkloMTh6emg0UmhhNWVJMlMwN093MHV6LVhRb19jT2RHajhUTlpUcEJKMQ?oc=5",
@@ -253,6 +247,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2NmeDZxUWEyZV9IeTBQc1UwZ2hXTk9seFVYNjFzNnhzUzNWUGJaY01ELUlFQUNZNTg2NzhWU2RmRVUwcDRhTFRxYzMwVVRIamtZMmc3czl3RTZJZGh5ZkZDXzhTUnR3bk9pVlQ5aTFDOVNoUE82RmVOWnh4TU1QWTRDbnBVM282RzlMSnVoZEkwWVFxMkFQRlFLSUhuVXR4ajRLbkNvWmVtSHJUYzl5MHpkdF84cE0?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Berita Ekonomi Bandung: Pasar, Bisnis & Keuangan Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dzNRNzl3UHR5SV9TVDFNZUprU0JmdFpoMkh1cWcyTGNVd0F0RnlSWFdXeHR6VTduVHZKWFJpZFFFRUJCUWlMOGxzVWo1WXdINVVuRzFDT01EVkV3UllJUU43alA5YmxhTHc?oc=5",
+     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      0
     ]
    },
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     24,
-     16
+     23,
+     17
     ]
    },
    "trend": {
@@ -357,7 +357,7 @@
      0
     ],
     "g": [
-     7,
+     8,
      2,
      0,
      0,
@@ -415,8 +415,8 @@
     ],
     "w": [
      3,
-     9,
-     21
+     10,
+     20
     ]
    },
    "trend": {
@@ -439,7 +439,7 @@
      0
     ],
     "g": [
-     4,
+     3,
      2,
      1,
      5,

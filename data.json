@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:25:43.473646+07:00",
+ "updated": "2026-10-14T09:17:38.850172+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
+   "Tribunjabar.id",
    21
   ],
   [
-   "Tribunjabar.id",
-   20
+   "Kompas.com",
+   21
   ],
   [
    "RRI.co.id",
@@ -24,7 +24,7 @@
   ],
   [
    "detikcom",
-   8
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     10,
-     15,
+     9,
+     16,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     3,
+     2,
      8,
      0
     ],
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     8,
+     7,
      2
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Polisi Buru Suami Kecanduan Judol yang Aniaya Istri-Anak di Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk2a3hQTUZEeElwZzhkRWdwQS1QMFR6UlRtcDJOMnlHLWJnVHYyaWhCYWpFTzhsMjJYanhuTHdXek5KZmh0ZnRKdUNtdldWZG56dEdWVGhUam1wYnlXbGNvRmlxc0o5NjkzR1lyQ01PaTloYklVMzhKc2lxUkcyRjFsQmM3T3JSV3M3VGhyUFgzVmFBQzdzbDk3ZDBPUUhLb0U2TTZXSUhOYUd2M0NvY1Nn0gG3AUFVX3lxTE52eEJpMDVuVTM0cDVWZjhSU0VKWnlmaENha1p5Z0tGRHF5VEF6bHY0M3Jfc21zejlYc2QzOUNWTTl4ZXZWSWtISGstOFlXM2c5WjU5M1ltYW0zMm96bm5BSlBmdFhzUTZ1NHRMSUg4VlVXb2NpeTdhVGlqZHRzbTk3UFhJUllpNS1DSjd1a25ScHpDM2JvbVExbEREd3FPaURmcVotNzdPS0lXdERFTVlCZFE5OEdmYw?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Foto : Polisi Selidiki Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung Halaman 1 - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0ZackI3emJlRmFVWkFQWWtQd0VfYnBiNWY4eG53Z1JaczhQZlF0VzJzMXRQNm1WS3V3T3d6SzZqYS1oNWd6TG1GaVh4Q1JxcmVGbTgxcENoMEJPdVJNTnNIamFfS2t5Qk0wWnA1WDVNWWFuQjk3LU5sSlBpRzlUY0t3emw2UloyLXV0MXhJU0dQcDBxZ0lLS1laQUd5OTVUbVNwcVBreUlTNEYzcGlIOXdsMWFvMjFZc1BwVEVkZGozcTIxMjJvWWNkbGJjYzM0R1E?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcnRuQkdpaERJQTVEWFhSTHZzX0RiREhCWmVJQk9UMUo5OUlhYnhjaWdHRks3YVgtb01IaWJueV9FN0ZvUzk0TS04TWFxZThHRjR3cG5VRnZ5UUZBVkpXYXljN3h2N0t4UWFuWEdYeVJ1b2xUaWZaYzYzUW9CQWNoYmt0TEJ1QzJudlJOc1ZScm1wSXczNzh1Mk85dGJQTWxLS0pnZU9YVmtXZDlFRjJaR2ttTVAwbGp6aGViVl9TT09hTklvWEc0?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Polisi Selidiki Aksi Gerombolan Bermotor yang Diduga Hendak Buat Onar di Ciparay Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXNvQ0NIem45TDJjbkVmQk5wOXdPQ3Y3SjJvMHg1VnRrUTBRVUdpSFJnaGpjVmlJay0xM0dKQ1NiZERpSnQ2S0s1US0tenEzbE9iVnZrSjZtMGpoWXloWDRoeVdWNzItaFA1MW1XeWNIVGR5YnJJRDUtYlhGX3JZTHcxUXgycVI5WUMzWmpzanZaRHhxanMwS3pLNDQ0aDBiTUpQWi1iN0ZMZHM0YkpwOUpSdjU3Q0NuZFVmYTAxd0doQjJBcVRIWDNmcVdzbjJUSHhsUmtB0gHbAUFVX3lxTFBSODBHOE8tNVBhNmRGSXBZal9zUFBSTFFWTHBmbS0wdnRscEU3UE1vWXQxOVJuZ2MwX19aa3huVFlXbjE4M0NnWnJUaHRUT2VGWWpzbUVqbzQwUjNtajFCZG5rTUh3VzRiNkFrRUs0bkNRY2w3eWwxT3NCaG1CRUViS3BFV0stWER6dnphS0VDQ2EzQzI1LVBzYTNDQkdJZW5yQkxJWnA1aGVMOUF3a2t4cUZwNFlnTmtfSUlnZGg4ZUV2UXF4RUxoY040cnFZTEdXdTd5dnd0VzV0WQ?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -346,7 +346,7 @@
     "w": [
      1,
      25,
-     13
+     14
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0,
      2,
      2,
-     0
+     1
     ]
    }
   },
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     15
+     16
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      2,
-     4,
+     5,
      2,
      1,
      6,

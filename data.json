@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:20:16.699113+07:00",
+ "updated": "2026-10-14T19:22:14.645464+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   29
   ],
   [
    "Kompas.com",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   18
+   17
   ],
   [
    "detikcom",
@@ -39,12 +39,12 @@
    4
   ],
   [
-   "Radar Bandung",
+   "PPID Kab. Bandung",
    4
   ],
   [
-   "Disway",
-   3
+   "Radar Bandung",
+   4
   ],
   [
    "rmoljabar.id",
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "PPID Kab. Bandung",
+   "Ketik",
    2
   ],
   [
-   "Ketik",
+   "Disway",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     8,
-     16,
+     7,
+     17,
      4
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     5,
+     4,
      3
     ],
     "g": [
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     3,
+     4,
      9,
      0
     ]
@@ -283,7 +283,7 @@
      1,
      1,
      0,
-     1,
+     2,
      0
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     24,
-     15
+     25,
+     14
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      7,
      2,
      0,
-     2,
+     1,
      2,
      2
     ]
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Dishub Ungkap Penyebab Parkir Liar di Jalan Kebon Jati Bandung Bergeser ke Gang Hingga Klenteng - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVwT29pcWRIdWVnVVFnQmNyQ1hLTlJVTDI5SGhPQ0N0UlZCY2s0dmpkS1lMcHBMeWZxVkI1VHFVUll5OFZCYVRVaERrLTZVV0Z2TkxEeXg5bUlpSktZakxlZHNJMWZpSzQ0UVpBd3hnZG5sckhxLU1taGdpeWoyTDJVZ0dlUXZtTTlJUHhuRmw2QzVXaG9KeHhIWUJiTlUwWmxrQmlKRmdnaFJGRzMyLXB4UE9vRGRSRDBsMldnMk0xWnkxNnVXby0tVjd2Ry1IYTAtQThJNjlQQW1TLTJJ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Perbaikan Jembatan Munjul 2 Baleendah bikin macet horor, Polisi buka-tutup jalur! - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTFzWTRNOUhIMm10Y0pUaWRPeFVTT0ZnWlFEd0REWC1Penh1eGFzalRiSTRNbVRWWkdTRzJqOHVvSkpiS0wzQzhuOEZzX1hZczkxSlIxNmJaYmxhZ3FwSlFWVVpRekp2UTlvZnJveEFuU3dhMjA4V0ZjVk5TdkVCTUc2X3ktLVlHN2VjZ2Vubl9qdWw0UDVHRWZ5cUNicXdzUEVjWUhobndkRTQ3S0pyTU4wSHlyYzFFWlJpUzlrRdIBxAFBVV95cUxQTENYb0NaZVBYN2JoVHg0cDJ6U1BSMC0tNklWaGIxbUZtLTVtcjlwRUkyVXBvekJpUldHOHpLcy1wdHJzTFNvOHdrR0xudkw1aTJERnI2WEFUWU5VOFJJSUY3VEc4SkdsMmxfQXBrZjFqaGM4MzNMdXZwbU9LZjZJalVYSzltU19YQ3BwODkzV2FBVkl5Yk1TX1lwa2dtVlNOa1pwV0Y3bTRPRS1USmlWSzhPUlpXZzhZVHUzUjZIYTZ6MVVu?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUE4xWERFdzJkN3dNc01JMllpWVZNdmk2bnhiaHBlVzhTVmNsZXNqT3VPTFJLQlFGRzE4OVVqdVk0bWNRaGxUOTF0ekZVbFRaQU5ORkN5bzI1VDJ6WlViWE15M2pKUFpwVE1VSlRnSGU1U3NZcTJkQU9tajcwN0xfMTUxNWtjWTFWdTk4eVZNU0VSZ9IBlwFBVV95cUxNUlE1VTV4UnYxaW5EbXZNSjYtZE9VbnlELUg4dWlQY0lYSEd3V20tcWR1cEJwY3E3UnJidVJtX2Vzc0taVVo3RGV0bTRKSTFuSGxqSGFXcTNwcXRtNzNQeU9XeWoxYlNNd3Z5QkdqTExMdXRmMHEwaDU2UFQxME5MTV9CWnpNV1NIdGtfMXJ0dmJXSlVqcm1V?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Dedi Mulyadi Siapkan Danau Retensi di Lanud Sulaiman untuk Atasi Banjir Bandung Raya - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWtwMTBydVVpUklJN3RfOVVJak9lSVFGZXA3TWNpSF9TS0t4Wko4aV9RUm02NndwbGpWVkJGRWJRUVl6YkRVRHlpMmtQTmlFTXNvZnJ0RE1ETFlBMEFWaUJFYzhEdDJqeENYZVp5b0dSYU1LMFRqcFBEdElkOVpTTkNlNTBSUllBbE1QWHRMd3BVOW9CSzVNUXBEYVdjRHNUSmZmX1RhZ0p4UGZtR3FYS0JuWVk0RnEwRU5VUEdpem1pY3ltOGRFSlAtd1NxdU04?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -427,7 +427,7 @@
     ],
     "w": [
      3,
-     9,
+     10,
      20
     ]
    },

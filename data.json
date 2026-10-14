@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:23:03.032009+07:00",
+ "updated": "2026-10-15T00:20:26.089614+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   29
   ],
   [
    "Kompas.com",
-   27
+   28
   ],
   [
    "RRI.co.id",
@@ -24,7 +24,7 @@
   ],
   [
    "Ayo Bandung",
-   11
+   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,6 +43,10 @@
    4
   ],
   [
+   "PPID Kab. Bandung",
+   3
+  ],
+  [
    "rmoljabar.id",
    2
   ],
@@ -55,15 +59,11 @@
    2
   ],
   [
-   "PPID Kab. Bandung",
-   2
-  ],
-  [
-   "Ketik",
-   2
-  ],
-  [
    "Disway",
+   2
+  ],
+  [
+   "Radio PRFM",
    2
   ]
  ],
@@ -79,21 +79,21 @@
    ],
    "h": [
     {
+     "t": "Formulir Keberatan Informasi Publik Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQVNTYThMOGkzOWlIc0FiRGdjTTYwTERlUjFiME51dW91U1NraTRFTWxiR2RIa3owWmFIWll5Z0JRMzF4V0JSU2JVcjh6enZteEVWVnBYVk4wZ0NOUFVfeEhMM1FKU0IyZHV0M0FDdlZXa3JBTzRYczRnQXB4TlJDc2FaRDh3ZWFUa0M1a2kteWYtaWpfWHYyeWZvb0dLdVlieHFuRVBpTUNUTjFqZEExdjA5Vms4V1ZJalk3cHRGXzgxaG1RNmdtYURzV3BIeGg4bWx4ZDYzWG9ET0N0Qjlj?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
      "r": "rmoljabar.id"
     },
     {
-     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
+     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
-     "r": "rmoljabar.id"
-    },
-    {
-     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 1 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanBPeGRyeFMxQ1F1U2dRMEd6X0RaRkJ6MExLNFAwV1hoRzNYVkotNlVJWjRzZDlPb1pxd3NVSHNac0VUQmlvX09RUGF2dF9qSG1NbkIzWlVWTGFTSWUwU1VRd2tzNFV6Y1E3R0RBZnBqcGgycXZTc1dfeHVZbWUyclNXaUJtZGUyM3lUdDBBZUdvUDRwTW9NV0hjQmIyRkFFSHBoVnVQLUEyRGJyYzRDMFJlckRVN3RqWVBPZ3ZZQzhkenJhMmhKOVZ6eXJITXl1NEpn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmNsSndUbUp2dU5qUWs1SnFkZEtMb2tManFmamZTSHNJa21RU0hkTDViYm1GME15ZF9kcThWRXFKWFI0aVhwbmNidnI5eXlidm9zQU8zandHbkRSUm1HT1ZZZVVKZEI4OS1jcEctZVc3ZVpNUWZKUXl5T01TVlZTR1h4eHd3bVpoS2RicVFJTXplWG94M3ZQYVFkYXNMZlVKUUVnUmJXRUJpb2ZxWGwyX2Z4UmNVeVR5R21PaldLX08zNVowV0J3YldB?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -123,31 +123,31 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
-     3,
-     4
+     2,
+     5,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     7
+     7,
+     0
     ]
    }
   },
@@ -193,27 +193,27 @@
     ],
     "w": [
      2,
-     10,
+     9,
      2
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     0,
      2,
      0,
      0,
      0,
      1,
+     0,
      0
     ],
     "g": [
@@ -221,9 +221,9 @@
      0,
      0,
      0,
-     0,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -269,21 +269,21 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
-     0,
      1,
      1,
      0,
      1,
+     0,
      0
     ],
     "g": [
@@ -323,24 +323,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHFaTzZCaFdTdDZRNFlabDNQNFQxN2tMM0dBdGFqWXVDMTJVblA5U05Cd0hnQU52a1cxcHBDcENNbVY0Mm9rdEhpRGNRUVFFZXVESVo0NGgtZEtqdGZSNlF5blR2RXpKZk5uVE5mM2hJcnJNeDJZTV9mYmRIMG1iRXhJS2FEb2NldG50SUg5NFpGaVBFU3NXZ0drc1VrTFpEREhlWDRmSVJMT2FZVWlWbWJHTjFwTGVRckRkTEZyRm9scHhYY1pNSDZlenNROXZOYWV3TEZhUE1GaXJ2UjFWVQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=6ya0qDPtgt0",
-     "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
-    },
-    {
-     "t": "Kegiatan operasi miras diWilayah Hukum Polsek banjaran Polres Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=Gd9z3UBRZLw",
-     "r": "YouTube MEDIA PORTAL KOMANDO WILAYAH JAWA BARAT"
     }
    ],
    "v": {
     "s": [
      0,
-     3,
+     0,
      0
     ],
     "w": [
@@ -351,31 +339,31 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     0,
      7,
      2,
      0,
      1,
      2,
-     5
+     5,
+     0
     ]
    }
   },
@@ -395,9 +383,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 1 - Kompas.com",
+     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanBPeGRyeFMxQ1F1U2dRMEd6X0RaRkJ6MExLNFAwV1hoRzNYVkotNlVJWjRzZDlPb1pxd3NVSHNac0VUQmlvX09RUGF2dF9qSG1NbkIzWlVWTGFTSWUwU1VRd2tzNFV6Y1E3R0RBZnBqcGgycXZTc1dfeHVZbWUyclNXaUJtZGUyM3lUdDBBZUdvUDRwTW9NV0hjQmIyRkFFSHBoVnVQLUEyRGJyYzRDMFJlckRVN3RqWVBPZ3ZZQzhkenJhMmhKOVZ6eXJITXl1NEpn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmNsSndUbUp2dU5qUWs1SnFkZEtMb2tManFmamZTSHNJa21RU0hkTDViYm1GME15ZF9kcThWRXFKWFI0aVhwbmNidnI5eXlidm9zQU8zandHbkRSUm1HT1ZZZVVKZEI4OS1jcEctZVc3ZVpNUWZKUXl5T01TVlZTR1h4eHd3bVpoS2RicVFJTXplWG94M3ZQYVFkYXNMZlVKUUVnUmJXRUJpb2ZxWGwyX2Z4UmNVeVR5R21PaldLX08zNVowV0J3YldB?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -433,31 +421,31 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      2,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      3,
      2,
      1,
      6,
      3,
-     10
+     10,
+     0
     ]
    }
   },
@@ -471,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1c0dS1NcEpOUlhYUHBpODNRQkliM1ZoTTg3NFF6czFnMHdIX2ZyTDhoek9NaC1Da0dQcWxwRmRhaE1UN3JZVTlXZnhnMGVDVUlzT2xNa1VENFBjMVRlTlgzOGw3MUplX05fVklXZ1VubUVtTEdEMUtIMlNpOUIyRzdWdGhiRExobFpkZVJ4SzQ2YTJxY08tSVVTOW5DUS1MOFB2TjFhZUc3LVNweWl0b0tJMlJPRFN4QjlSZEJ3?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Buku Bantuan Tiba, Budaya Baca di Sekolah Lereng Bukit Makin Menyala - jabarekspres.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObU1mQTUwR0lLQzBtekZhdDZBVVRqQVJCeE44NjVqSFJZY0V1Vlhqak9uVG1Fd0FiS1owaC0taUU2MmdCd3lJUndZTlU5bC1FTjJtMWY4Q0JXWlVvNHR3ZFhfSGItMldNcTAtdU4xakVFRzdIaHVDei0za0doRkdJWUVVZ25wWmNKdU5uVU5EdzROV2JTcFF6N2V0aGV0R3ZESEFMSUxhS1BLTXZ4RTJuMA?oc=5",
@@ -481,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3Q4cXl6YnJDTXExRXc1OXhfNHhYVF9Gd0F2VFhhOXRMZjdtQ25HSkdobHE5RDJabnJMWkJ6d2c2R1F5ZHNCWjBKNWI5YjRnTG9ZanVVTnloLVFNdW5aM0gxdHFuTl9HTnpoMVRRbVRFTm9OR0NkM1RJTWdZNGtma3F3NG9xTURhS0ZhQnpFdExhN1lVcTVoc1Z3X0NRUHdu?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Warga Bandung yang Tinggal di Daerah Rawan dan Berisiko Stunting Dapat Bantuan Pangan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGhoeHk2djlYWDAyTzVQWURwdEJwU2lod3FVeU9mZG1pNFliY0JxWldPYWI5ZmNBVU4xUXpYVy1BeW1ZT1BRMW9YVE1HejVfU2llZzRKb2UwUFg4ZzMxS3BNc1pCNXFPRGJTdlJJZjh4LV8ySVBOaE1KQjEzRWtvaV9IZmgySTJ3VnB6cU4tSFdrd2lGck9SNndXWkplajJ2OUdXdnVla3ZVVGtCVUFZRV9peFhjbHgxR21HaGRDMUtPQXQxQmVfUDFWZ2FqQVhlMlE?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Analisis Kebijakan Publik & Reformasi Birokrasi Pendidikan",
@@ -509,36 +497,36 @@
     ],
     "w": [
      2,
-     20,
+     21,
      5
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      1,
      0,
      3,
      0,
      1,
+     0,
      0
     ]
    }

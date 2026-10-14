@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:20:28.960282+07:00",
+ "updated": "2026-10-14T22:23:34.523520+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Tribunjabar.id",
-   28
+   27
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "detikcom",
@@ -28,7 +28,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   7
   ],
   [
    "Radar Bandung",
@@ -43,7 +43,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "rmoljabar.id"
     },
     {
+     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 1 - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanBPeGRyeFMxQ1F1U2dRMEd6X0RaRkJ6MExLNFAwV1hoRzNYVkotNlVJWjRzZDlPb1pxd3NVSHNac0VUQmlvX09RUGF2dF9qSG1NbkIzWlVWTGFTSWUwU1VRd2tzNFV6Y1E3R0RBZnBqcGgycXZTc1dfeHVZbWUyclNXaUJtZGUyM3lUdDBBZUdvUDRwTW9NV0hjQmIyRkFFSHBoVnVQLUEyRGJyYzRDMFJlckRVN3RqWVBPZ3ZZQzhkenJhMmhKOVZ6eXJITXl1NEpn?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Atasi Banjir Kabupaten Bandung, KDS-KDM Siapkan Normalisasi Sungai hingga Danau Retensi - Satumedia.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanRKOTI1RmZNUjBDQ0hxTW9Ta0dBM25VMDVLY0JldXB1cG5NYW9CMGNJd0E1aDlpaEFDWVhjTlkwRHMwRFUxWXozY2pWczB4R3lsSHNzY0tfSjRuYmljbU9yNjhoU2RqSWhUQ3R2NDY3UHh6RkJkdktncUI3T242eWg4Tk44S0pjMnhqWjJjejB0cUZ1NXBycHM2NGh1eWg1QV9CZEdYUW9ycG5SdllqZWhmQTdlR3ZhenZZdFJfeHg?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFgtd0xEaXE4NnBjMUNGbk1aR3NkcHpObmEzUUhvNTdGUU94NGFPSEFBZGR3Uy1nRFllZGs2ZTJEb1ZQQWhCd2FNcUJXOWZCSDhSSmY1UHRoblU0QWttclBNZ1J2aGY0Ulh0cUFJcFl0ZjlpMTNxNUhHSEx4N2YzYjMtdktQWUhxektnLXJRUUlhODl6WU9nUjFXSXkwdmtscXRwT0FsVC1vVDJDVHI2NGVOU3lGMlZ5dkZpdHJ2d2Y5R3cwNEZZbQ?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -118,7 +118,7 @@
     "w": [
      7,
      16,
-     6
+     7
     ]
    },
    "trend": {
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     6
+     7
     ]
    }
   },
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     24,
-     16
+     23,
+     18
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0,
      1,
      2,
-     3
+     5
     ]
    }
   },
@@ -389,9 +389,9 @@
    ],
    "h": [
     {
-     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 2 - Kompas.com",
+     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 1 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSF9LdWJpXzRTZHFJUlhPbFFtOHA3UGgzbmVjeEs4NF94UkViZ0FxMlRaQzNobHZaNTBDUlN0Rm5kV2FNaldLa04zOEUtczV2YjUwc3lsbi1oZ3ZQOE5NaXpHWUhpYzVHcDktZHplbjhEQ19NYzlMYjZ4OF9yVDBkSExMZ2kweGR5UWxjaVJLQkRtQng4enJBd1RnRnpCbGY5N0E4ODdTS2NxS1VIdU9ZQTA1VGQ5RG1lNHNfOXJPSW5FZS15V0gzWUpjbU1EbTJIa1Jr?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanBPeGRyeFMxQ1F1U2dRMEd6X0RaRkJ6MExLNFAwV1hoRzNYVkotNlVJWjRzZDlPb1pxd3NVSHNac0VUQmlvX09RUGF2dF9qSG1NbkIzWlVWTGFTSWUwU1VRd2tzNFV6Y1E3R0RBZnBqcGgycXZTc1dfeHVZbWUyclNXaUJtZGUyM3lUdDBBZUdvUDRwTW9NV0hjQmIyRkFFSHBoVnVQLUEyRGJyYzRDMFJlckRVN3RqWVBPZ3ZZQzhkenJhMmhKOVZ6eXJITXl1NEpn?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      3,
-     8,
-     22
+     9,
+     21
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      0,
-     4,
+     3,
      2,
      1,
      6,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:27:27.811931+07:00",
+ "updated": "2026-10-14T21:20:28.960282+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -24,18 +24,18 @@
   ],
   [
    "Ayo Bandung",
-   10
-  ],
-  [
-   "jabarekspres.com",
-   7
+   11
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "Radar Bandung",
+   6
+  ],
+  [
+   "jabarekspres.com",
    6
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
+     "r": "rmoljabar.id"
+    },
+    {
      "t": "Atasi Banjir Kabupaten Bandung, KDS-KDM Siapkan Normalisasi Sungai hingga Danau Retensi - Satumedia.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanRKOTI1RmZNUjBDQ0hxTW9Ta0dBM25VMDVLY0JldXB1cG5NYW9CMGNJd0E1aDlpaEFDWVhjTlkwRHMwRFUxWXozY2pWczB4R3lsSHNzY0tfSjRuYmljbU9yNjhoU2RqSWhUQ3R2NDY3UHh6RkJkdktncUI3T242eWg4Tk44S0pjMnhqWjJjejB0cUZ1NXBycHM2NGh1eWg1QV9CZEdYUW9ycG5SdllqZWhmQTdlR3ZhenZZdFJfeHg?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFgtd0xEaXE4NnBjMUNGbk1aR3NkcHpObmEzUUhvNTdGUU94NGFPSEFBZGR3Uy1nRFllZGs2ZTJEb1ZQQWhCd2FNcUJXOWZCSDhSSmY1UHRoblU0QWttclBNZ1J2aGY0Ulh0cUFJcFl0ZjlpMTNxNUhHSEx4N2YzYjMtdktQWUhxektnLXJRUUlhODl6WU9nUjFXSXkwdmtscXRwT0FsVC1vVDJDVHI2NGVOU3lGMlZ5dkZpdHJ2d2Y5R3cwNEZZbQ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Si Jalak Harupat Direncanakan Renovasi pada 2027, Bidik Standar Stadion Internasional - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2EtWkt4ek5TT1hxQ0Z4VXVOSmM0bDFnQ1VxaHRISklVdmdxUnFsYzBOeGo5YWEtMkpiU01lal9sNmZ0Y21ST2s3MEh6NHU1d29SUHNhLXVneEtwdXdmOFFDMkVYWnZkUFZXRXhBSVZfb2w0SmdxbkRNZnZFRlhKd2tIaW1ucFNlRU1kVUc3V1pMT2cybzdQX2YtVGpGenk4bWVvTnJTaUpyUm0tSHlJMVA1aGRHZTR6aHhUc3lYWTJ6Zw?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -237,9 +237,9 @@
    ],
    "h": [
     {
-     "t": "Buruh Jabar Siapkan Aksi, Tuntut Kenaikan UMK 2027 hingga 9,5 Persen - Tribunjabar.id",
+     "t": "Aksi Buruh Ditentukan KSPI Daerah, Ini Tuntutan soal Upah Minimum 2027 - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEZhdG9LQ2c4THgxcXhrRnBzVlNmYlRzY1JqVTFpQzBxSXlObmk5YUNwclpUdS1ncEVBRjlhcjh1U2xGcElqbzFJQmgyb0h2aGNRcWVleG8wSWw0cHpFUnRPWW9tYmF5ZkhubmM4WUI3b2lLVzdPcUVScHpmVW84WEtQVHFSSHBobmN5dk1lQzBQbkN3R1BIcU5Wa2RWNFlKdFgxUG4wLXBDZU84b1luaXdKVVVhSU93?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGJqY3pNZmlNeUFJNmpJLU93MUF0SzNEX3FiMC12NTF2Zzg5WXZRc3RWQlNQS09Ib1duVW4xYVRMTkI1d25DSWhsNnZLWWVFQ1FIeUJKcnk2YjRMaVFkcjFkYWZ6OEdnLVdwX1Y2V3lVODNxS1ZsQmpURURMWk5mLVRlRzhhakV0N210dW1sak1lbkloMTh6emg0UmhhNWVJMlMwN093MHV6LVhRb19jT2RHajhUTlpUcEJKMQ?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     5,
-     8,
+     3,
+     9,
      0
     ]
    },
@@ -282,8 +282,8 @@
      0,
      1,
      1,
+     0,
      1,
-     2,
      0
     ],
     "g": [
@@ -346,7 +346,7 @@
     "w": [
      1,
      24,
-     15
+     16
     ]
    },
    "trend": {
@@ -370,7 +370,7 @@
     ],
     "g": [
      0,
-     7,
+     8,
      2,
      0,
      1,
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Atasi Banjir Menahun di Jadek Kopo, Pemkab Bandung-Pemprov Jabar Bakal Bangun Kolam Retensi di Cikahiyangan Halaman 2 - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSF9LdWJpXzRTZHFJUlhPbFFtOHA3UGgzbmVjeEs4NF94UkViZ0FxMlRaQzNobHZaNTBDUlN0Rm5kV2FNaldLa04zOEUtczV2YjUwc3lsbi1oZ3ZQOE5NaXpHWUhpYzVHcDktZHplbjhEQ19NYzlMYjZ4OF9yVDBkSExMZ2kweGR5UWxjaVJLQkRtQng4enJBd1RnRnpCbGY5N0E4ODdTS2NxS1VIdU9ZQTA1VGQ5RG1lNHNfOXJPSW5FZS15V0gzWUpjbU1EbTJIa1Jr?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Atasi Banjir Kabupaten Bandung, KDS-KDM Siapkan Normalisasi Sungai hingga Danau Retensi - Satumedia.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanRKOTI1RmZNUjBDQ0hxTW9Ta0dBM25VMDVLY0JldXB1cG5NYW9CMGNJd0E1aDlpaEFDWVhjTlkwRHMwRFUxWXozY2pWczB4R3lsSHNzY0tfSjRuYmljbU9yNjhoU2RqSWhUQ3R2NDY3UHh6RkJkdktncUI3T242eWg4Tk44S0pjMnhqWjJjejB0cUZ1NXBycHM2NGh1eWg1QV9CZEdYUW9ycG5SdllqZWhmQTdlR3ZhenZZdFJfeHg?oc=5",
@@ -399,12 +405,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFgtd0xEaXE4NnBjMUNGbk1aR3NkcHpObmEzUUhvNTdGUU94NGFPSEFBZGR3Uy1nRFllZGs2ZTJEb1ZQQWhCd2FNcUJXOWZCSDhSSmY1UHRoblU0QWttclBNZ1J2aGY0Ulh0cUFJcFl0ZjlpMTNxNUhHSEx4N2YzYjMtdktQWUhxektnLXJRUUlhODl6WU9nUjFXSXkwdmtscXRwT0FsVC1vVDJDVHI2NGVOU3lGMlZ5dkZpdHJ2d2Y5R3cwNEZZbQ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Dishub Ungkap Penyebab Parkir Liar di Jalan Kebon Jati Bandung Bergeser ke Gang Hingga Klenteng - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVwT29pcWRIdWVnVVFnQmNyQ1hLTlJVTDI5SGhPQ0N0UlZCY2s0dmpkS1lMcHBMeWZxVkI1VHFVUll5OFZCYVRVaERrLTZVV0Z2TkxEeXg5bUlpSktZakxlZHNJMWZpSzQ0UVpBd3hnZG5sckhxLU1taGdpeWoyTDJVZ0dlUXZtTTlJUHhuRmw2QzVXaG9KeHhIWUJiTlUwWmxrQmlKRmdnaFJGRzMyLXB4UE9vRGRSRDBsMldnMk0xWnkxNnVXby0tVjd2Ry1IYTAtQThJNjlQQW1TLTJJ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -427,7 +427,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      22
     ]
    },
@@ -451,13 +451,13 @@
      1
     ],
     "g": [
-     2,
-     3,
+     0,
+     4,
      2,
      1,
      6,
      3,
-     9
+     10
     ]
    }
   },
@@ -509,7 +509,7 @@
     ],
     "w": [
      2,
-     20,
+     21,
      5
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:21:25.821284+07:00",
+ "updated": "2026-10-14T18:20:16.699113+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Kompas.com",
-   26
+   27
   ],
   [
    "RRI.co.id",
@@ -20,7 +20,7 @@
   ],
   [
    "detikcom",
-   11
+   12
   ],
   [
    "Ayo Bandung",
@@ -36,10 +36,6 @@
   ],
   [
    "Galamedia News",
-   4
-  ],
-  [
-   "PPID Kab. Bandung",
    4
   ],
   [
@@ -60,6 +56,10 @@
   ],
   [
    "Pikiran Rakyat Koran",
+   2
+  ],
+  [
+   "PPID Kab. Bandung",
    2
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     17,
+     16,
      4
     ]
    },
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Buruh Jabar Siapkan Aksi, Tuntut Kenaikan UMK 2027 hingga 9,5 Persen - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEZhdG9LQ2c4THgxcXhrRnBzVlNmYlRzY1JqVTFpQzBxSXlObmk5YUNwclpUdS1ncEVBRjlhcjh1U2xGcElqbzFJQmgyb0h2aGNRcWVleG8wSWw0cHpFUnRPWW9tYmF5ZkhubmM4WUI3b2lLVzdPcUVScHpmVW84WEtQVHFSSHBobmN5dk1lQzBQbkN3R1BIcU5Wa2RWNFlKdFgxUG4wLXBDZU84b1luaXdKVVVhSU93?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "IKU Kab Bandung Belum Capai Target, Emisi Kendaraan dan Industri Jadi Sorotan - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2NmeDZxUWEyZV9IeTBQc1UwZ2hXTk9seFVYNjFzNnhzUzNWUGJaY01ELUlFQUNZNTg2NzhWU2RmRVUwcDRhTFRxYzMwVVRIamtZMmc3czl3RTZJZGh5ZkZDXzhTUnR3bk9pVlQ5aTFDOVNoUE82RmVOWnh4TU1QWTRDbnBVM282RzlMSnVoZEkwWVFxMkFQRlFLSUhuVXR4ajRLbkNvWmVtSHJUYzl5MHpkdF84cE0?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dzNRNzl3UHR5SV9TVDFNZUprU0JmdFpoMkh1cWcyTGNVd0F0RnlSWFdXeHR6VTduVHZKWFJpZFFFRUJCUWlMOGxzVWo1WXdINVVuRzFDT01EVkV3UllJUU43alA5YmxhTHc?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Modern Market Lembang Jadi Pusat Pemasaran Hasil Pertanian Lokal - ayobandung.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHJ6OE1TNkk0dkZ2WGFuWjZiOTdlRkV3ZzVkUm5LcGZSVjAxbmNBeVBJeE92SjEyZnRNNjRPZkNqbkl6MVpEbTd3cTA3RWVMRFBOd0xtZk9DOWd5T0llc0hYTXpXR3NRWUxqUzZvZEFHbXMydEg4bjNRZ0dZTmIyYjhpNF9CU3owLU5ReEJ4cUtxOHBfaHlWaWJYazJzUWtaY21PQTl1emltdEVGMkdZ?oc=5",
-     "r": "ayobandung.com"
     }
    ],
    "v": {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     2,
-     8,
+     3,
+     9,
      0
     ]
    },
@@ -281,7 +281,7 @@
      0,
      0,
      1,
-     0,
+     1,
      0,
      1,
      0
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
-     "t": "Polisi Tangkap Suami di Bandung yang Diduga Ngamuk-ngamuk karena Judol - Tribunjabar.id",
+     "t": "Jaksa Tolak Eksepsi Taufik Hidayat, Minta Hakim Lanjutkan Persidangan - detikcom",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnVlaVprUVhUNURYUTFzX1c1WlYxWXAtOEV4UWJTa2Y2SEI3SE9ldHY1ZXRodC02M1V1V2pEU0FCSWo5TmtucVBTUldEN2JrVlN6UE5fVGNrY3hyZ2gwNTRjZURUWV9VSlJmWDJybV91azVpZDZvdWdpM1JxNDZaeDJEVnQtODI5bWxPU1RqMEtFS2poblRmNDQ1TG8zOUt6XzdPcjd1N1NuamRXQUlRVEY1MGtpNkFxQ1NIdUVB?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bukan Aksi Begal, Polisi Ungkap Fakta di Balik Keributan di Jalan Pesantren Arcamanik Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2t2Z3lka0l6TDNWdzFQWFJETGZhekJmbEZLTXgwdzlncUNWRndFZnJkWUxWZExRR1VSeFAwOVlsS3JwNWxEd3AtMHFHdWJsQ3VxdWRrOVpSREhkQVdja0lNa2UxSFJLNnFNN0xYcDlFZnRNUklMZlNiTnp2VFJxbm9FRWwxNkVMc1JIRGlKQzFTaVJLQmt0a1NLbkVxNTVmOVpPSFIxVWRVN09BY1RxX3BSbzdLc1ZjeHZuNDZkT1dSc2F4Z1FGQTNyQlNCVnV2Zzl5R2lXcjlCNDg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Polisi Buru Suami Kecanduan Judol yang Aniaya Istri-Anak di Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk2a3hQTUZEeElwZzhkRWdwQS1QMFR6UlRtcDJOMnlHLWJnVHYyaWhCYWpFTzhsMjJYanhuTHdXek5KZmh0ZnRKdUNtdldWZG56dEdWVGhUam1wYnlXbGNvRmlxc0o5NjkzR1lyQ01PaTloYklVMzhKc2lxUkcyRjFsQmM3T3JSV3M3VGhyUFgzVmFBQzdzbDk3ZDBPUUhLb0U2TTZXSUhOYUd2M0NvY1Nn0gG3AUFVX3lxTE52eEJpMDVuVTM0cDVWZjhSU0VKWnlmaENha1p5Z0tGRHF5VEF6bHY0M3Jfc21zejlYc2QzOUNWTTl4ZXZWSWtISGstOFlXM2c5WjU5M1ltYW0zMm96bm5BSlBmdFhzUTZ1NHRMSUg4VlVXb2NpeTdhVGlqZHRzbTk3UFhJUllpNS1DSjd1a25ScHpDM2JvbVExbEREd3FPaURmcVotNzdPS0lXdERFTVlCZFE5OEdmYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlFTV1NFN09tUWk2Rnc1RW9sQ2xTbU1Lbkg1eDJaR1VISUlZMzZCU0tLYlpWMHNqYS14RG43QW10cUlMMzg5UDdRcE8xblNsbFJGZkdXMDBYMXpNSEpVek5CanhITkJEMkFhWHQyNXdGZHlfTWRzanB5NlRqVTN6MDVYSmFqX0FUTE14aHI2MWhEdkN0dEFSYV9YNldHUkNkeE9Ld3djQU11WHFfM29RZFNoSzh4T0JvSkdsd28zMXZRak3SAcgBQVVfeXFMUDJ2TFZ3SmNDWUhPejl6NDQ0bTlTM0RWRFFJREY0YUpsREJpc0xHR2JNYWtpRWVUSElJamhBNTRXdm5JN1dyRGIxNG1xMEdyYWFYTHhEQlFmOGVZMDJhSzdacUNscmxIbTBXbE5DSGc3emxnUF94alNQOHNiVFBKSXVMQUhuM2VwVHVMUVNUcE1QaGJTbUhicFJ6ZzhkbUp4V01aREM3ZDRWaHJjODdzX29iXzhzT01yUHFBUDRxWTlXWGJ4V0RPZmE?oc=5",
      "r": "detikcom"
+    },
+    {
+     "t": "Duduk Perkara yang Seret Eks Ketua HIPMI Kabupaten Bandung ke Pengadilan - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnY2WDhNenRnaHRoeDJiMUJvLXZYRVZ3SE9wSl9RMzRUdGJvSVhHSWtha0lGS3NOWnctN3NjWnl1WWR1QmZEM2ZMaDlyM0QySUhVUk9lT2xCbUtYNG5DU0NkUDEyRVl3cngzQ09BVE1hM1luLU1vWFlKZzR6RFhiazExaTlmQklNSWhZSGtBMmItcW9ja2lhbmVDUU9teEV5aWNLTVRUYlJyWmRxLW5UdjlHVXM0Rlh6UXRUYmxHdUsxNTM0QmJDWNIBzgFBVV95cUxONUJyVmZrMG1wQUhxcTRLZTZ0S0pvbTlFdXBuaDlFVjhKZjFHQVNJSWNmZXcwOTZvWlZUNERlekF3T2dIZkVmeDRFeU43SHl2Y3JxSld0aWhZNTRZN0JiLVpCWGxldXlEVEZvd3ptRk1USWFTQ0ZhQ0E1RmdheEtvQWJEdFlCcWluS2ROMzJTdXo4UW5DX3dLS0JjOFBpcEI4TFNTZ01zSno0cTlRcnQyUVVuUnc5b2Z2M29wSE1taUdRdGZweno3bGN4alBWQQ?oc=5",
+     "r": "detikcom"
+    },
+    {
+     "t": "Jawab Eksepsi Kuasa Hukum Terdakwa, Kasi Pidum: PN Bale Bandung Berwenang Penuh Adili Perkara Taufik Hidayat - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVJfbWJ1RmdNeVZsMTlYdklIOS1LZHRDVVFLenR5SUFON09HSThVMk03VkxvbmdIdGptaVZsMm9WSVcyWjhXUGJVMGo2VXlHS09RNVRFYlV0Zkw3OThzbi1pdXkzeEtEMmhKOXprY1drcTBiVjU5N1Ixb0RSV2ZXVzl4OC1Dazg5a3RCTUswbjdlTTRFUVZnQTcyNmhQdFVZSWRRRmVjeFU1UXlsWFRGVzZLTzJuLTJRRW1RY1hqVHp6UQ?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "KDM Dampingi Bupati Bandung Dadang Supriatna Berikan Klarifikasi Kasus Hukum PT BDS",
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     23,
+     24,
      15
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      1,
-     21,
+     20,
      5
     ]
    },

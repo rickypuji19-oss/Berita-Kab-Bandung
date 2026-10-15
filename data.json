@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:20:03.493210+07:00",
+ "updated": "2026-10-16T00:22:05.649664+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
-  ],
-  [
-   "RRI.co.id",
-   21
+   29
   ],
   [
    "Kompas.com",
-   21
+   23
+  ],
+  [
+   "RRI.co.id",
+   20
   ],
   [
    "detikcom",
@@ -32,15 +32,15 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
-  ],
-  [
-   "Disway",
-   5
+   8
   ],
   [
    "Radar Bandung",
    5
+  ],
+  [
+   "Disway",
+   4
   ],
   [
    "Satumedia.id",
@@ -55,15 +55,15 @@
    3
   ],
   [
-   "Radio PRFM",
-   3
-  ],
-  [
-   "Pikiran-Rakyat.com",
-   3
+   "rmoljabar.id",
+   2
   ],
   [
    "Ketik",
+   2
+  ],
+  [
+   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
+     "r": "rmoljabar.id"
+    },
+    {
      "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZwdVMtZ2RTOUNRamtpQVJZdW1pbFpRZzFkZWI5VUNQTE5iSTU5Vnh6ZW5neW9PWENWY25IVGRPNkl2TnNCaHNHMjZsVlZDN0FYRzItekEwVkhuWVdqMkhpeVpORDZvS1ZzdWdkQmRQQ2NTdXEzMVRFSC1ET3gzSTdONTRtT0dCVnhxMDItQV9mZXpIQ1Zwb2gzb05Fa25RZ3c0Nkk5VTFiSE56blZEQ1ZJUTNEa00tMlhuc2F1aURacnRqT2Fv?oc=5",
      "r": "Sinar Pagi News -"
-    },
-    {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -123,31 +123,31 @@
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      0,
      0,
      1,
      0,
      2,
-     10
+     10,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      4,
-     3
+     3,
+     0
     ]
    }
   },
@@ -161,68 +161,62 @@
    ],
    "h": [
     {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Kadisbud Kabupaten Bandung Irvan Ahmad: Perkuat Sinergi Melalui Rakor Kebudayaan - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk4zOVA0STcwZDBDNGhNMk9mWWJwejhiY25vRmxkS29qVXN4eF9lNUt5NkZQbFp1X3BrSXBVNHVNWXFuaHg3UXJBN3JRcUFzQU9iZnZEVG1aRG5kVmVScTJQejFVS3hRdFpsV3l2RTNORzBwTVB3ZDVKLV9zRldPYmJ3bEczb2ltbEhodE83SERqM0FJWC1rRHlKUWI1NUw3UElIT3pVbVlyNTZkX2c?oc=5",
      "r": "deJurnal.com"
     },
     {
-     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
-     "r": "Disway"
-    },
-    {
      "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkZzTjFFVXNxblBNU3hQZVdtV1UwUzJhQWM1YUJyVUE0Q3Y5NFY4RlhPQUhHU1pJaWszN1o1cV93Y1NfTVFKRmxpV0lBaEZfamhveXAtdnVDd3dBSXkwd0NfM1JzZERvRndsdV8wQmdZUDlKZ1ZIRGVHSF9IMDlMTm8ydEVvamVjenZsQkZKZWR6RHF1VTZSTTFwOHR0c1dDOFhKcmlZb3lzbUphUVVaSmxxOEpYSkVzc1RELTVETHo1eWpXY0VZaFBxX01RTTdWalBGclZfQThkdw?oc=5",
      "r": "Bandung Berita"
-    },
-    {
-     "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=z7ypC1jGRHg",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
-     1,
+     0,
      0,
      0
     ],
     "w": [
-     4,
-     9,
+     3,
+     6,
      2
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     2,
      0,
      0,
      0,
      1,
      0,
-     2
+     2,
+     0
     ],
     "g": [
      0,
      0,
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0
     ]
    }
@@ -237,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Kementerian Ekraf memasukkan voice over dalam subsektor ekonomi kreatif - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFIzM0ZEcGtCbDRBamp3SlZUR1FlX2hGTkh0WEhfbmlfRUphNU15ekFJbEpSWF9wM1N5eUxSb3pLRDR6Q3RRN0pjZVJWcWhIenQtOHBJbGxOYjJVRE5Wemk3VUVuekZoZ0RUcXQ3SUhjYzNLTDZSTHFXS2U3V0huQmlTQjBHdjhsRTZwS2lDM0czNUE2ckVQTS1Bcy1hVkNncVJJZFI1NlZWNmFid2RFUzVrdFDSAboBQVVfeXFMTUNDRmJBRldWeTdOcHZJUVdPUWZKNmxHS1RRNDVfTUs0TkVwMVJVMkNyZTh3U3FfMmFDOGhxeFh3R3Vmc0phZVpYZm5OekhCNmQ1TnkwLXVXU2lIUU16QlU0ajZ4WEFLS1dJWDdSd1Bza0xpN2tQU0ZSc21TOHloZ18zZ29yY2JYWEZDYmQ3S3hYTlVoYWdhVW1TX2o1bDRxSDFRWmZ2U1B0X0d1X0R5S0pqYWU4WEFPZV9R?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
@@ -246,12 +246,6 @@
      "t": "Pengamat Unpas: Kenaikan Upah 2027 Perlu Disesuaikan dengan Kemampuan Usaha - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTVfSTEzOG96NjlXOEg3bjktekNYM09NbXFMQmY0emRGb3E1NEFuVmlhQlpSTDgtVGpvdFA5b0VNbWVrdGZPNDNCME1tU1I0bGpyVTJKbHpNLS1Xb0hTQTlZSXJsNWRGclc5dy1aYmNBVWdWcW5YMWpmcXpvY0RUV2RMaHk5c2ZRVk00UGJMTDlGZldYOC0yS3ozQWo0a0xCcHBSYXh4ejdHOU1GbnlXZTRxYjUxVGxhSE9OSldOalpPXzg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Panen Hortikultura di KBB Tertekan Kekeringan, Sri Dewi Soroti Keberlangsungan Usaha Petani - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0twdmNjRElQREdBckVnOUFXeUxfNEdYM09DOExMV1dxdmJXRnJ6T1RCaFBCQzVhMmxfZmZHU2xIT3FjdURJQ0tMZ0hRckdROWc1cnNUaDJOSThFYkNfb1lIZ0RhckZLUG5CRWlWR3A0cXZvRk04VDloRTY1ajh1SHBIM0p0Unp3SVN2QjZmRHBMR1FMVzhQekJZWWpUMFVIMnJCOXEzMTlhUjRncnYySncySTBjSVYxMWlWeGpldWhXcEN2V24ybzhGVXd3YnY1Tl9HdUZSM0FFanExZEE?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -263,28 +257,28 @@
     ],
     "w": [
      6,
-     11,
+     12,
      0
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      1,
      0,
      1,
      1,
      1,
-     2
+     2,
+     0
     ],
     "g": [
      0,
@@ -333,37 +327,37 @@
     ],
     "w": [
      2,
-     21,
-     10
+     22,
+     9
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      0,
      1,
      0,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      2,
-     5,
-     3
+     4,
+     3,
+     0
     ]
    }
   },
@@ -414,38 +408,38 @@
      6
     ],
     "w": [
-     5,
-     8,
+     6,
+     6,
      19
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      2,
      1,
-     2
+     3,
+     0
     ],
     "g": [
-     0,
      1,
      1,
      5,
      3,
      10,
-     5
+     5,
+     0
     ]
    }
   },
@@ -492,40 +486,40 @@
    "v": {
     "s": [
      0,
-     4,
+     3,
      0
     ],
     "w": [
-     2,
+     3,
      23,
      4
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
-     0,
-     0,
      1,
      1,
+     1,
+     0,
      0
     ],
     "g": [
      0,
-     0,
      3,
      0,
      1,
+     0,
      0,
      0
     ]

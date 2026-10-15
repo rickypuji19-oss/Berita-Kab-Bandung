@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:24:04.940770+07:00",
+ "updated": "2026-10-15T22:23:56.967271+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   33
+   31
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Kompas.com",
-   20
+   21
   ],
   [
    "detikcom",
@@ -24,22 +24,26 @@
   ],
   [
    "jabarekspres.com",
-   10
+   11
   ],
   [
    "Ayo Bandung",
    8
   ],
   [
+   "ANTARA News Jawa Barat",
+   6
+  ],
+  [
    "Radar Bandung",
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   5
+   "PPID Kab. Bandung",
+   4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Disway",
    4
   ],
   [
@@ -47,11 +51,7 @@
    3
   ],
   [
-   "Disway",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -87,7 +87,7 @@
     {
      "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVgyVHNNeDNmMFhMbnVKRWNHTXRaRTF5TEdpbnRBZkgtTm8yOENncTFHQ3NRZkRZZ18yYVYxdkZaMmtVWWlfeG5tODE0TlZ0LUY0ZjY0d2xVdVpleE9VaG5FenBpTnM1R2ZFRWpWU2dSOU9KYUtWRjdfUHY1ZzR4TTlJbXdVdXlQOEdFdFdFMHZWXzBqT2RoQWd5TXl2dE9zbWNIdzBLNDRhQVpQTVkxa2JER3I5cGRfLUd6YUItSUJDMUt0Y3JQSW83OTLSAbMBQVVfeXFMT3VFUDZSb1pucVJtaUNvVlk4Tm5UeGpUU2p4dGQ0UXF2cU1zdVFud2txXzI3RV9CWF9PT3p3Y0dNWHU3WVBMbzBiVFU4cVA4bGhLbzVmdkR6VzY3TDQ0Wlg2cDg1bzZUUVFRaFVyY0hWRS1JQmVNdU5uZ0NPdDlYR0FvWnV3WTFRSVk0U2JSSnFTd1NPamRzR3pWNmVzemI5TkxoTXZDaFVhS21LVWtuR2dvRU0?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
      "r": "Ketik"
     },
     {
@@ -117,8 +117,8 @@
     ],
     "w": [
      11,
-     21,
-     6
+     22,
+     5
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     5,
+     4,
      3
     ]
    }
@@ -193,7 +193,7 @@
     ],
     "w": [
      4,
-     8,
+     9,
      2
     ]
    },
@@ -239,7 +239,7 @@
     {
      "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVgyVHNNeDNmMFhMbnVKRWNHTXRaRTF5TEdpbnRBZkgtTm8yOENncTFHQ3NRZkRZZ18yYVYxdkZaMmtVWWlfeG5tODE0TlZ0LUY0ZjY0d2xVdVpleE9VaG5FenBpTnM1R2ZFRWpWU2dSOU9KYUtWRjdfUHY1ZzR4TTlJbXdVdXlQOEdFdFdFMHZWXzBqT2RoQWd5TXl2dE9zbWNIdzBLNDRhQVpQTVkxa2JER3I5cGRfLUd6YUItSUJDMUt0Y3JQSW83OTLSAbMBQVVfeXFMT3VFUDZSb1pucVJtaUNvVlk4Tm5UeGpUU2p4dGQ0UXF2cU1zdVFud2txXzI3RV9CWF9PT3p3Y0dNWHU3WVBMbzBiVFU4cVA4bGhLbzVmdkR6VzY3TDQ0Wlg2cDg1bzZUUVFRaFVyY0hWRS1JQmVNdU5uZ0NPdDlYR0FvWnV3WTFRSVk0U2JSSnFTd1NPamRzR3pWNmVzemI5TkxoTXZDaFVhS21LVWtuR2dvRU0?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
      "r": "Ketik"
     },
     {
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      12,
      0
     ]
@@ -281,7 +281,7 @@
      0,
      1,
      0,
-     0,
+     1,
      1,
      1,
      2
@@ -319,10 +319,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "2 Pelaku Curanmor di Sadangserang Bandung Dibekuk Polisi, Sajam hingga Narkotika Turut Disita - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVJZMzR1VWRBX0piV0QxbHlwbnJVWXZnYzl3MmxHTEh6YkNlekVxaVc4OGFERmFXakR5Sk9ka0hiZUZqR05ieG1Rc1FSREE0aFhidzRkV2swLWs0RlBROGF0TExNeXZ2dmh0T0xRVUpnRmQyam1XYU9HY2Nvdk9WaEsyM2RCdWx3dXJoZkg1Zkt2b1F2TVRtdVkzM3JIVk5UaGxEblZTV0lZNkxxbUhxVTZkcWEyc2F0aVBkZTQ4cFpRM0V5WlJpbVozTUpZT0ZKTjJKRXg3X1RvYUU?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Viral Pria di Margaasih Ngamuk hingga Bikin Balita Terluka, Polisi Dalami Dugaan Judi Online Penyebabnya - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX1Y0V3E2dTBhOWtVYXBqdlNlRWgtQlRNM3ZMZ2I5QTZ0SE5OQzlaZFAxQnFRaUt4VWJLemdRMzBrSWh2RXpBQU96SldxRWVwNElFUEtWeUtZWnZCSENoN1JnRktteTA5eWFrLUYzWjltcHVyU2NZcjM0R0RMNnBKeFdPZXpOLXdvcmtwMU1RcTUzeTdXNkE2S0JZN0MzcEh6TTJUNnJPVTQ1MUMwU2JGMHJZWmw0MXhIQlA4WXFkX2VMemZHaHNtZmhETFFqRlpVNjVqclo3a2Q4VEc5bTJCMVhxLXVCb3pqMXdqdDM2SUg0aFVudkRqVmY1UktUeXfSAf8BQVVfeXFMTV9WNFdxNnUwYTlrVWFwanZTZUVoLUJUTTN2TGdiOUE2dEhOTkM5WmRQMUJxUWlLeFViS3pnUTMwa0lodkV6QUFPekpXcUVlcDRJRVBLVnlLWVp2QkhDaDdSZ0ZLbXkwOXlhay1GM1o5bXB1clNjWXIzNEdETDZwSnhXT2V6Ti13b3JrcDFNUXE1M3k3VzZBNktCWTdDM3BIek0yVDZyT1U0NTFDMFNiRjByWVpsNDF4SEJQOFlxZF9lTHpmR2hzbWZoRExRakZaVTY1anJaN2tkOFRHOW0yQjFYcS11Qm96ajF3anQzNklINGhVbnZEalZmNVJLVHl3?oc=5",
+     "r": "Radio PRFM"
     }
    ],
    "v": {
@@ -333,7 +333,7 @@
     ],
     "w": [
      3,
-     22,
+     20,
      10
     ]
    },
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     4,
+     5,
      8,
      19
     ]
@@ -434,7 +434,7 @@
      0,
      0,
      0,
-     1,
+     2,
      1,
      2
     ],
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     25,
+     24,
      4
     ]
    },

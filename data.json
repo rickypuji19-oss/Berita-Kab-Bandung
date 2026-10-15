@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:20:09.837712+07:00",
+ "updated": "2026-10-15T18:19:36.524406+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "Kompas.com",
-   22
+   21
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "detikcom",
-   11
+   10
   ],
   [
    "jabarekspres.com",
@@ -28,7 +28,7 @@
   ],
   [
    "Radar Bandung",
-   6
+   7
   ],
   [
    "Ayo Bandung",
@@ -39,15 +39,15 @@
    5
   ],
   [
+   "Disway",
+   4
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    4
   ],
   [
-   "Galamedia News",
-   3
-  ],
-  [
-   "Disway",
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -55,15 +55,15 @@
    3
   ],
   [
+   "Galamedia News",
+   2
+  ],
+  [
    "Satumedia.id",
    2
   ],
   [
    "Pikiran Rakyat Koran",
-   2
-  ],
-  [
-   "rmoljabar.id",
    2
   ]
  ],
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     4,
-     7
+     3,
+     8
     ],
     "g": [
      0,
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     8,
+     9,
      2
     ]
    },
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus, KDS: Dorong Ekonomi Warga - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzBLbGlVTFVxd3FZSFQyMkpWakxwTzVMcGRHVk9YUGZVODBLd2M2dVNsZV9IemFPenpYbDBGMlM3T2k4ZTFqOVRwMFNDT3VTeVhxQm01UWNXUkdnQUEzdUlZa0JvWjFWSGpjUE9MUmlpcVdsRUF5Y1dFaVZhR1lIOUJoWFVzZ19RZG95Q3B6cW5xMUE2b0I2a2ZrWVZycmtQZ3NmMW8zdE9jNHA0X0lOeHl2Qy1CU2R6TlZoOWp30gHDAUFVX3lxTFBVbmhESlJZVkpfZ0YzMFZkeHEwMmpQVksxajhQOC1HeE9FVEtmVGhxNFRmaWVselh4Z0wwcTNDbDkxSEF3dHFVZUJOOUxWZnAtbWJHQ0d1UXlHbzE2cmRWSGd6dUZaY1ZLQkxWX04tNHNDNWJFbGdjN3dZUF9VaDdQdGxuWjFmVEhFbTlwdnpIeUN1N0pHcFUteFd2cU4xVDVKc0tCZk9SUU5KX2lzd0pIVjFvc0E5VXBDTGNnRmhHNjhZNA?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Wujudkan Ekosistem Perkotaan di Nusantara, Otorita IKN Teken PKS KPBU dan Investasi Langsung Swasta Murni - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSndSZXc0WGE5ZmZrMWIxRUk3WUduSF9lUlZIMHBqQXhVUzFCaDF1UVh5dVVlam9XY1dkVzJoSFpheWUxZlEtdUc1YTl1LXJVSHBpSmNMNnNZaXJIMnNNTTFhOENQX1hFUzdZRzJaYklESlNveTluY3VwSTlpQmwwS2FQRmp2NHpBUEpjeG1CTEFNZGxMM2tJeGRZV20ya1A0Nk5TdFZ4anRjUEtoQUlDTmNHcGxsam1qQTdLWjRTSzE5WU1teWdYZ2d3akJPVFlMYUhPd0ZvUGlRV1M3Szl1eHdR?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0psWmpTeFBWSm5qMmpPS3lOQWlCdFFMWmtVQ0ZUX3B0QTlSSER1a2pxSlRyNFl5WnNjOGZMV0xyWDBMcUUtVk4tWEsxSjRZOHZZbGlWTGdGRTNSU1dlVWtPbGVuYTJyU01YU09nWnpTM21sSmVnREpjdlZUZkoxNXlfWkg3cGRKbXkwU2ZfQjdORVIzX3M2SFdvMkVDLXV3dTVpVThwdjE4S3BTLW5vNGFNVFNOQ2xKa1FUR0VxTDNuUkFZWndMd3VoRVdBR3NMQ1pkdFh6OTJrWm8?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pemberian penghargaan pada Grand Final Pemilihan Duta Baca Tingkat Kabupaten Bandung Tahun 2026 - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUFFkNXdIQ3AyN0d2c0hPbnZKSlZnU01IWVJqMk1TZ1BIQ2czNFBYbDBIRWJRQV9qNVBjWE1mXzkwMUdmT0NQNHdpVTRObC1sXzR4aW5jTmZGSzRacUpBUkZSTmNkMVRZV2xDSDZQcW9yRlpjZWRtbU13aVowZExiZWoyOTBOeW9qdUhmbktpa1A4dDlhMnRQQkVtM29sREw0bkRST0xiVVBRejJla0ZDUFlaWnY3czdYWUJyOXFuR1hzQm1aV2d2VzlUdTZnZDV4Njd2WUUwQnVOYkRYVEh1aEFEWkw5U1RE?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     }
    ],
    "v": {
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     3,
+     4,
      9,
      0
     ]
@@ -284,7 +284,7 @@
      0,
      1,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -332,9 +332,9 @@
      0
     ],
     "w": [
-     2,
+     3,
      23,
-     12
+     10
     ]
    },
    "trend": {
@@ -350,15 +350,15 @@
     "p": [
      0,
      0,
-     1,
+     2,
      0,
      0,
      0,
      1
     ],
     "g": [
+     0,
      1,
-     2,
      0,
      0,
      2,
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Tak Terkalahkan di Asia, Lucho Minta Persib Fokus Jalani Laga demi Laga - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnBnQ3lFOFBNVmd3RUJCM055ekVCZXhlTkxSMkFEejNlaFE4WmdCVXI3YkxtY19UaWJ5OGE3SDh1WS1sdC1NZWVNOGRFcnFhUE1DZ2kxUmhGQlkwVmpDM185blhEOWpKMHg3OFBzelBCUV92VWtkOC1lMmNST1R6NGtmaXJYRDBkZUMzQnBfSmxGMkY3dHc0eFNZOF9Ldjk4NnV3Z0JuS2poQ0lnRUhHeFJCdE9oUQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Komisi IV Dorong Penambahan Pekerja di Proyek Jembatan Munjul - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelMxRUN2ODUyZGNsRERzbFJYeW1xS01fZ0ZoQXFYdW1vV1NkV1ladVVZbFk1QjhMcy13bm94LUc5Rmt0R2lXaFl3TlppcUhLRGFJTEJLd2dqdnhoUERNU0ZqaDVrb2hWXzNRdXRsNHpYUzlzYTJnLVVLaDFNVXZEU2JxTnpRQ2JPNjJjdXV6ZlJfZHU3d0Y5OHJuNkZ0M2JFU1U2ZFBWamQ?oc=5",
@@ -387,12 +393,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFo1bnlWT21vSmZGT0U4WHgtUTRUWVFFZGNxelBUWHdCMWFydFplWG9FaWdYTFlOcDVLUEVoZ0hjWWhGcWZ0UWhvUThWRVpmZGV3QklQMlI3bUh1NmZDSDZTTGtRVkhwNnp2d2JWZDdFeXhmQW5nNGIxVmZ5ZDRWX2dvcHNXdXVDcXlPTllHcHk4bWNKbzlkSlRrV1RPRjc0SG5hcnhnX0p0Wmh2UmpidnlTV3MwTFVy?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Multifungsi di Lini Serang, Peralta Siap Jalankan Semua Instruksi Pelatih Persib - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2pyRkd4UXNDTVphNEt5NzVUQW90LTNuR3dja1VCd2puUXA2R01td0d3cENGd3E3TkxTdXJVZEh1ZlRCS21LQnUya25BV0s4Mm5kMVZXLTgtRmhrU3Vud1l3OGNBMWt6U1JEV2Q0QWc2Qlh5SElhQzlGWlpFWlRaUHkxMkdCNmtDNFVXOFdocDVJd1phWGhHNWstcjNQV1V1YXkzOWJHRFFwWXkybVhGV0lLYjJncGpVWjJfTjNpR2o?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "🔥 SAT SET! Tak Perlu Lama, Ini Langkah Teknis KDM Atasi Banjir Kabupaten Bandung!",
@@ -415,7 +415,7 @@
     ],
     "w": [
      5,
-     7,
+     8,
      19
     ]
    },

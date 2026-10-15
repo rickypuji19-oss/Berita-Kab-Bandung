@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:20:03.808352+07:00",
+ "updated": "2026-10-15T12:18:59.872185+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   29
   ],
   [
    "Kompas.com",
-   25
+   24
   ],
   [
    "RRI.co.id",
@@ -24,18 +24,18 @@
   ],
   [
    "jabarekspres.com",
-   9
-  ],
-  [
-   "ANTARA News Jawa Barat",
    8
   ],
   [
-   "Ayo Bandung",
+   "ANTARA News Jawa Barat",
    7
   ],
   [
    "Radar Bandung",
+   6
+  ],
+  [
+   "Ayo Bandung",
    6
   ],
   [
@@ -47,11 +47,11 @@
    3
   ],
   [
-   "Galamedia News",
+   "Disway",
    3
   ],
   [
-   "Disway",
+   "Radio PRFM",
    3
   ],
   [
@@ -63,7 +63,7 @@
    2
   ],
   [
-   "Radio PRFM",
+   "Pemerintah Kabupaten Bandung",
    2
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "republika.co.id"
     },
     {
-     "t": "BKAD Kabupaten Bandung Garda Terdepan Pengelolaan Keuangan dan Aset Daerah, Yana Tegaskan Peran Strategisnya - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFJnVmJCdzlhWFRwWjlyTjlFTEZlYnVTVFJ0WWxHRGNuSWpQYWhEdUdOMmkxY3pacmdwcEtDOXJQUkpMLUotWkk4U01aY0hORGZuRlphVVhyQVBoakJJRjJtV3J0MzVDZFVxeXgwOFVJbWxrb3RwTDZWZzFlZDc5YXFJQzVzNFB1bmdhTkFhY1Robkd1NmRZQ0RHcFROUDUwVVozWGJtanQwMXM3WWc3QURvRTc4TlN0eDdPWFJ5bHJYUEFjYjhlazlZeURlZTVfZ1g4QXhkMFRmWlJmZGk2QjRXa1l0bzdDRWszaUtXX2RwS2FkOFo4T2JHZUEyNmR4bzBF0gGDAkFVX3lxTE1EUmdWYkJ3OWFYVHBaOXJOOUVMRmVidVNUUnRZbEdEY25JalBhaER1R04yaTFjelpyZ3BwS0M5clBSSkwtSi1aSThTTVpjSE5EZm5GWmFVWHJBUGhqQklGMm1XcnQzNUNkVXF5eDA4VUltbGtvdHBMNlZnMWVkNzlhcUlDNXM0UHVuZ2FOQWFjVGhuR3U2ZFlDREdwVE5QNTBVWjNYYm1qdDAxczdZZzdBRG9FNzhOU3R4N09YUnlsclhQQWNiOGVrOVl5RGVlNV9nWDhBeGQwVGZaUmZkaTZCNFdrWXRvN0NFazNpS1dfZHBLYWQ4WjhPYkdlQTI2ZHhvMEU?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
      "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
      "r": "Pikiran Rakyat Koran"
+    },
+    {
+     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
+     "r": "rmoljabar.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     6,
-     20,
+     4,
+     19,
      8
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     5,
-     1
+     4,
+     0
     ],
     "g": [
      0,
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Viral Pria di Margaasih Ngamuk hingga Bikin Balita Terluka, Polisi Dalami Dugaan Judi Online Penyebabnya - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX1Y0V3E2dTBhOWtVYXBqdlNlRWgtQlRNM3ZMZ2I5QTZ0SE5OQzlaZFAxQnFRaUt4VWJLemdRMzBrSWh2RXpBQU96SldxRWVwNElFUEtWeUtZWnZCSENoN1JnRktteTA5eWFrLUYzWjltcHVyU2NZcjM0R0RMNnBKeFdPZXpOLXdvcmtwMU1RcTUzeTdXNkE2S0JZN0MzcEh6TTJUNnJPVTQ1MUMwU2JGMHJZWmw0MXhIQlA4WXFkX2VMemZHaHNtZmhETFFqRlpVNjVqclo3a2Q4VEc5bTJCMVhxLXVCb3pqMXdqdDM2SUg0aFVudkRqVmY1UktUeXfSAf8BQVVfeXFMTV9WNFdxNnUwYTlrVWFwanZTZUVoLUJUTTN2TGdiOUE2dEhOTkM5WmRQMUJxUWlLeFViS3pnUTMwa0lodkV6QUFPekpXcUVlcDRJRVBLVnlLWVp2QkhDaDdSZ0ZLbXkwOXlhay1GM1o5bXB1clNjWXIzNEdETDZwSnhXT2V6Ti13b3JrcDFNUXE1M3k3VzZBNktCWTdDM3BIek0yVDZyT1U0NTFDMFNiRjByWVpsNDF4SEJQOFlxZF9lTHpmR2hzbWZoRExRakZaVTY1anJaN2tkOFRHOW0yQjFYcS11Qm96ajF3anQzNklINGhVbnZEalZmNVJLVHl3?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Polisi Amankan Suami yang Ngamuk hingga Lukai Balita di Bandung - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnBESmlnZmJuTjNaRmVWMFNRYjJaTDl3SEx5U0ZHdHJOUWdwYnFCRHFpdmhzZkV1ekdtcXJBbTZWNDJ3OFEzSXJTcXhjeWVQeWhlTkp5Z2h3QWRvU2VRSk9UVk50VjBBcXpZNEJuRmtfRWpkYW5qSkkzR3hXbm1HZ19ja1NfRzh5WkQ3SUc5bU12bklxQVNKZTlIVEtWNzRvYklieTNESnBTdEJDQVVtZ2xTcTlUSlpjODBOcNIBwgFBVV95cUxQNWJlNVZMb3JyYlB3aUJZNEk1ald6bWJxUUZRZklVR24zVVh6d3RvNmZ3dHJVaGVTR25KZm9ZOTktRzZjb0dLVmh6VjluTVNDbVV0Q19WSm1GaThTUUNja2kxMW5zOU5SRTg2QWFkaWpsQnM0QzJNSHFjc1VDUTFoMXdadkRkUVI3MF94dkZBc1k1YnpCV2kxdFFleHJKYm15NWFYT3NjREpFaDZNMFlSajVfN2FoczEyS2tLVHhsMXlWQQ?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVA4cmQ2LWhnZjJZU2NnR0tqRmgwTDl0R3hYUXJucVNlZHVrLUhlTW5VZkhwa0J4ZTdGVUhtS0lWWUFrcHNaQUFpeEd5MWFZZzhXVzc3cWhxelU5bDQ5Ykh2Zm1abjVVRVVja25pXzBvanZJZHc5Y1JiT0RXOFdLc2lhaWx0eEhnRnNJcGJzemZCVzRkVzZSOUt6U2JTSEFkb1JmOGRLbWtwbEk3Mk9sVGlGWXhSdVA0eVVzRjRtdm52SG5Z?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Umuh Muchtar Kelelahan saat Saksikan Persib Bandung vs Viettel FC, Dipapah Kapolresta Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakRtbG1kei1OS3JtaWxSU1R0V1BRSmxNZzlCZWRrN2FMYVZtMjhHVlRUV2h1ZUVEeVBQQ1ZxTWFBZDhGTktaek1RTnVjb3FfRV9xSVhQQ0dlcWhfV2plTXZLcnFHY201MjYtR0FCajFycGxMWVpUaktRSTV1YkJYeGxLQnR6T3BmRFU4TU0yZU9YS3o3dGRUcTFBcXZQTzJ5M2hNWkpLMnJoa2tDT3dkQmc1dkhDN3JGSHNoY3lUUW8wdUtjU3lhNnVCNkdlNU5hb2xVQThB?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -333,7 +333,7 @@
     ],
     "w": [
      1,
-     24,
+     23,
      16
     ]
    },
@@ -357,13 +357,13 @@
      0
     ],
     "g": [
-     7,
+     6,
      2,
      0,
      0,
      2,
      4,
-     1
+     2
     ]
    }
   },
@@ -385,7 +385,7 @@
     {
      "t": "Kemacetan Akibat Proyek Jembatan Munjul 2 Bandung, DBMPR Jawa Barat Buka Suara - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTRxaU9KU3lrZ1lVUmpGMTRzV1NLUkV0eVN6czlOc3l5d1FST2ljcHhyem5leVUwWDFYRy1BNUR3S0NSVDRZdWlXRGJrbDE1bEl2Vlhmd0Z1Qll6SmZLeDA3MGZUanNTbFNBREd6RUZuWG8tWVFuaU1rUWozWllCLVJoNDJRUm4zdnU0SURWYmR5VFctUXNBMzI1VnY5T2ZWTWJXNGg5RVNiODN0U0RvT1h0T2hCZDY2aHlpRFVHNjFaZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTWxjQU1kdW1iWkRFVEdva21oaGFWdkQ5VmhFb19WMEwzZ2s1VDNIZkIxenczMjU0WlJUMEVZSVUzckRxQkFOWFNfZTRiOWJaVEk1LTAwM29MaTVOUU4yV1ltYldYWElSZS0wNEwyNFNsdkwzamNUemJsUVE2b3E2MS1WNktZT1RXQmZESU1va1RTWm1XZFpxSVhpME1oRWJ5VGh3QkhKS25tNHBmckIwNFJVNm82UFA4QXZmX2tfMlB2Y0lfTzdER1JxYlZWWnA4RGZRTFlaTFV2aWJFaXk1Uw?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -415,7 +415,7 @@
     ],
     "w": [
      4,
-     9,
+     8,
      20
     ]
    },
@@ -465,9 +465,9 @@
      "r": "Kompasiana.com"
     },
     {
-     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan - Kompas.com",
+     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan Halaman 1 - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1c0dS1NcEpOUlhYUHBpODNRQkliM1ZoTTg3NFF6czFnMHdIX2ZyTDhoek9NaC1Da0dQcWxwRmRhaE1UN3JZVTlXZnhnMGVDVUlzT2xNa1VENFBjMVRlTlgzOGw3MUplX05fVklXZ1VubUVtTEdEMUtIMlNpOUIyRzdWdGhiRExobFpkZVJ4SzQ2YTJxY08tSVVTOW5DUS1MOFB2TjFhZUc3LVNweWl0b0tJMlJPRFN4QjlSZEJ3?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVENvQ2Z0Z2ZrVW5JdkxhZVRRYkN5RDU3YTRRNnVFUUU4SWwzd19sRFpCUmZ2S0RScGN1ZDQ4VWVibWZfcExFMGhWOEg2WEJoWXVBNTdiLXlPNHNvNzF4WWlfVFZMSXVCU19uMGtUbTNQZUJPX0VCTlVWS0ZqSFZNajB5a1BmRU5EX2tSSW1uYkdkTnB0NWotLU1hTGVyX2RxSHR6V0lXQ2N2NEx6d0plYVhiU3gxazBibFBiUm1sUXBkMUpkQVZJ?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     22,
+     21,
      5
     ]
    },

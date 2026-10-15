@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:18:03.507881+07:00",
+ "updated": "2026-10-16T06:13:06.528738+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   31
   ],
   [
    "Kompas.com",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   18
+   22
   ],
   [
    "detikcom",
@@ -32,10 +32,10 @@
   ],
   [
    "jabarekspres.com",
-   8
+   7
   ],
   [
-   "PPID Kab. Bandung",
+   "Radar Bandung",
    5
   ],
   [
@@ -47,7 +47,7 @@
    4
   ],
   [
-   "Radar Bandung",
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Gaji ASN Lewat KDKMP Belum Pasti, Pemerintah Masih Evaluasi - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRS1rUG1lOHV3dHF5N2tiNUs1eEpPekVjakd0UE82V3MwRk92ZVptdFVsR1BvVEhXdi1fOWZGRHlwTExfcVpDSXBZWTQ3Z19hZmxEcnc2WkowZzJ6ZS0zbEdXZEtiZUlJQTl3T2JNTFV0SGdmX3ZFM2FqMURPRjZmQ3ZhdUVxdXM2RW10T2t4WGZvY2ttb05wSmE3VlllRGZqeGI5X1RETDBRZ2dzcGRnWg?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
      "r": "rmoljabar.id"
     },
     {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
+     "t": "Dulu Rusak Parah, Kini Jalur Lalulintas itu Mulus - RRI.co.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWdYNU1HdHdUT2hnbmtENzJ3QVpKd2FNR0pNX1U0MnpEZzU3Ri1OWXpjdkwtUkpaak8yMjA5RDRDZDNxR0ppRWJ3N2pkaW9qRjJJVHZCZUhXNFFwUjNQU2g1RktPYlJ2WUgxRnMtN2g5Uno4MUVYRXl1NGRyYldHa2RYaHZKN1pQakdMZGJrcFRtLS1zbFVIYlR3?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Syukuran di Pinggir Kebun Teh, Warga Lebakmuncang Berbahagia - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXl2S3dFMHFkNGhxZU41azBEdUNTWDQwU05uYWhJYjJCNldaN1BlQ25JQkJyN09EVExheWsteTZKMDBvYXZoTEh1RkhwREVZY1RxQl9tVmZUZEVCN2xCOXZveFVqX2UyVG16Y0tLalZwVy1JYkZTMFNIbUtnM21ncmNzdV9HTFRVY3NVZGRaRTJOX0owM1lfblhWVzNNWDZSV1c2Xw?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     11,
-     23,
+     12,
+     22,
      5
     ]
    },
@@ -136,9 +136,9 @@
      0,
      1,
      0,
-     1,
+     0,
      10,
-     0
+     2
     ],
     "g": [
      0,
@@ -173,10 +173,10 @@
      "r": "Disway"
     },
     {
-     "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkZzTjFFVXNxblBNU3hQZVdtV1UwUzJhQWM1YUJyVUE0Q3Y5NFY4RlhPQUhHU1pJaWszN1o1cV93Y1NfTVFKRmxpV0lBaEZfamhveXAtdnVDd3dBSXkwd0NfM1JzZERvRndsdV8wQmdZUDlKZ1ZIRGVHSF9IMDlMTm8ydEVvamVjenZsQkZKZWR6RHF1VTZSTTFwOHR0c1dDOFhKcmlZb3lzbUphUVVaSmxxOEpYSkVzc1RELTVETHo1eWpXY0VZaFBxX01RTTdWalBGclZfQThkdw?oc=5",
-     "r": "Bandung Berita"
+     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     3,
+     4,
      6,
      1
     ]
@@ -207,7 +207,7 @@
      0,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [
@@ -332,8 +332,8 @@
      1
     ],
     "w": [
-     2,
-     22,
+     3,
+     21,
      10
     ]
    },
@@ -349,7 +349,7 @@
     ],
     "p": [
      0,
-     1,
+     2,
      0,
      0,
      0,
@@ -414,8 +414,8 @@
      6
     ],
     "w": [
-     5,
-     7,
+     6,
+     8,
      19
     ]
    },
@@ -435,7 +435,7 @@
      0,
      1,
      1,
-     3,
+     4,
      0
     ],
     "g": [
@@ -497,7 +497,7 @@
     ],
     "w": [
      3,
-     22,
+     24,
      4
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:24:59.738946+07:00",
+ "updated": "2026-10-15T09:20:07.660332+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Kompas.com",
-   25
+   26
   ],
   [
    "RRI.co.id",
@@ -23,11 +23,11 @@
    12
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
+   "Ayo Bandung",
+   8
   ],
   [
-   "Ayo Bandung",
+   "ANTARA News Jawa Barat",
    7
   ],
   [
@@ -39,11 +39,11 @@
    6
   ],
   [
-   "PPID Kab. Bandung",
-   5
+   "Pikiran Rakyat Koran",
+   4
   ],
   [
-   "Pikiran Rakyat Koran",
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     3,
-     9,
+     4,
+     8,
      0
     ]
    },
@@ -281,7 +281,7 @@
      0,
      1,
      1,
-     0,
+     1,
      1,
      0,
      0
@@ -395,23 +395,23 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "TERKINI! Drainase Jalan Terusan Bojongsoang Mulai Beres sebagian, Benarkah Banjir Bakal Teratasi?",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=8Zi2XR6tbj0",
+     "r": "YouTube AZZAHRA VLOG"
+    },
+    {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=tsQFTK4vmUc",
      "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
-    },
-    {
-     "t": "KDM Tinjau Solusi Sampah Sungai Margahayu Tengah Part 1",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=Lq9RgnY6M-Q",
-     "r": "YouTube PONGGAWA KDM PAJAMPANGAN"
     }
    ],
    "v": {
     "s": [
      0,
      1,
-     4
+     5
     ],
     "w": [
      3,
@@ -445,7 +445,7 @@
      5,
      3,
      10,
-     2
+     3
     ]
    }
   },

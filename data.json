@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:23:56.967271+07:00",
+ "updated": "2026-10-15T23:20:03.493210+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   30
   ],
   [
    "RRI.co.id",
@@ -24,27 +24,23 @@
   ],
   [
    "jabarekspres.com",
-   11
+   10
   ],
   [
    "Ayo Bandung",
-   8
+   9
   ],
   [
    "ANTARA News Jawa Barat",
-   6
-  ],
-  [
-   "Radar Bandung",
-   6
-  ],
-  [
-   "PPID Kab. Bandung",
-   4
+   7
   ],
   [
    "Disway",
-   4
+   5
+  ],
+  [
+   "Radar Bandung",
+   5
   ],
   [
    "Satumedia.id",
@@ -52,6 +48,10 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Suhendar Siap Wujudkan PWI Kabupaten Bandung Yang Solid, Profesional dan Menjadi Rumah Seluruh Anggota - Sinar Pagi News -",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZwdVMtZ2RTOUNRamtpQVJZdW1pbFpRZzFkZWI5VUNQTE5iSTU5Vnh6ZW5neW9PWENWY25IVGRPNkl2TnNCaHNHMjZsVlZDN0FYRzItekEwVkhuWVdqMkhpeVpORDZvS1ZzdWdkQmRQQ2NTdXEzMVRFSC1ET3gzSTdONTRtT0dCVnhxMDItQV9mZXpIQ1Zwb2gzb05Fa25RZ3c0Nkk5VTFiSE56blZEQ1ZJUTNEa00tMlhuc2F1aURacnRqT2Fv?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     11,
+     12,
      22,
      5
     ]
@@ -138,7 +138,7 @@
      1,
      0,
      2,
-     9
+     10
     ],
     "g": [
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      6,
-     12,
+     11,
      0
     ]
    },
@@ -332,8 +332,8 @@
      0
     ],
     "w": [
-     3,
-     20,
+     2,
+     21,
      10
     ]
    },
@@ -350,7 +350,7 @@
     "p": [
      0,
      0,
-     2,
+     1,
      0,
      0,
      0,
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     24,
+     23,
      4
     ]
    },

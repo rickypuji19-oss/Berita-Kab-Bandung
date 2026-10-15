@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:17:36.792549+07:00",
+ "updated": "2026-10-16T05:18:03.507881+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   18
   ],
   [
    "detikcom",
@@ -27,19 +27,27 @@
    10
   ],
   [
-   "jabarekspres.com",
-   9
-  ],
-  [
    "ANTARA News Jawa Barat",
    8
   ],
   [
-   "Radar Bandung",
+   "jabarekspres.com",
+   8
+  ],
+  [
+   "PPID Kab. Bandung",
    5
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Disway",
+   4
+  ],
+  [
+   "Radar Bandung",
    4
   ],
   [
@@ -51,19 +59,11 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
    "rmoljabar.id",
    2
   ],
   [
    "Ketik",
-   2
-  ],
-  [
-   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Gaji ASN Lewat KDKMP Belum Pasti, Pemerintah Masih Evaluasi - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRS1rUG1lOHV3dHF5N2tiNUs1eEpPekVjakd0UE82V3MwRk92ZVptdFVsR1BvVEhXdi1fOWZGRHlwTExfcVpDSXBZWTQ3Z19hZmxEcnc2WkowZzJ6ZS0zbEdXZEtiZUlJQTl3T2JNTFV0SGdmX3ZFM2FqMURPRjZmQ3ZhdUVxdXM2RW10T2t4WGZvY2ttb05wSmE3VlllRGZqeGI5X1RETDBRZ2dzcGRnWg?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaThLd1U5cmhVNm5OY01XbTZxTFFmQjVrOUkxenZqeUxiTnNnYk9aWXphbTNwMGpYZ3FNcG5Xc0g2b0ZJd0pjSmpobXJYZ1paLUdlWXZzME5zYUpXckdaVmgzY01IeC1HUDhFaElnT1EyWVNqeUtNbm1QSWZkaWxzdE5lUC1nRkJ3cHAwZjQ2cUlxdGlvdzQzV0hqOEJRWTZFZkUwdkExbUpXN1pfQnhVTFNTV3hjZTFtaWZyMTlTQ2xiT2pjTWFCRC1jUVJzbG5HX29GeWhTelZHZ9IB3wFBVV95cUxOMFVQc3cyWGxDcGE5YUg4MkZVNFdsUEVrdHZ5NmQ3QW5sZEdLMkFOMXQwWDhxX01ZRWJuUWh0NlJwbkdwZHAzOU9FbnlPdjE5LUhocGplV1k3NXlwUnVLS0hSNDZuZE9HTWoyNmh5aFNST2ExN1UzWU5sVjNNZ0RDS1JQYXlCM3F4Nmw0U1lmaGY0LUUxZGM3ZFg5enl4SEY5QzFneW1wdU4wM3Q3QTlEYTdUcC1YV2VxQTA1RU1iOVR4LWhucktCRmt4MnBGSjhvMlJaLVY0b0EtcFpmNUxF?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     12,
+     11,
      23,
      5
     ]
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     2,
+     1,
      10,
      0
     ],
@@ -188,7 +188,7 @@
     "w": [
      3,
      6,
-     2
+     1
     ]
    },
    "trend": {
@@ -215,7 +215,7 @@
      0,
      0,
      1,
-     1,
+     0,
      0,
      0
     ]
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     6,
+     7,
      13,
      0
     ]
@@ -277,7 +277,7 @@
      1,
      1,
      1,
-     2,
+     3,
      0
     ],
     "g": [
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     6,
+     5,
      7,
      19
     ]
@@ -435,7 +435,7 @@
      0,
      1,
      1,
-     4,
+     3,
      0
     ],
     "g": [
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "ISPA dan Diare Mengintai Saat Musim Hujan, Dinkes Bandung Ingatkan Warga - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmhLcUJpa01KRHJGeGNZa2RzQzJXc25lVFBxZVdkOGJUWTVxQjJyZGZVeU00d0RYc0hrOTEtUGdYaU1fV3lTemVRV0lwbi1jajkxSWVVVFNsaFZoTTNqTDFhSjVOMkozazluUkR6NEZMTERDSFVCb2JhbkJsV1pTWkd4SlBGRXlCVGNFbUlTczFSRDd2R21KRVlhb0ZQdDN4RnRITnRndkw3UFhRTkd2dzhoQkJQVFpuWDF1UjNkRTU0dw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Ratusan Mahasiswa Poltekkes Kemenkes Bandung Bedah Operasional IPAL Cisirung - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVE5TzFabzBfVndPc0pDWld5TVJJR3RtUndNZXgzYVdXNTFoRnV2NmhYanZpUlZxRm1ibV9oYktacHEtWHc5bXYwSXE5TFpZcTZ0ZUxvYUFacktmTHIwZURyTHkyRjNNdWlzUEI5SG4zWHRCSGVvamFPX2RnM0U1RGNHNjJXWWRiclkzdk56TWhWZk1SbUJXZzE0UUkwUWtuZzg0ajhnVGxxaDdMSmtwcWRnc1NYWDdjTjFQRA?oc=5",
@@ -468,12 +474,6 @@
      "t": "Berita dan Informasi olahraga untuk kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVVV4aDZWenlNM3VwSWx4WU1ZRmphNkdyczRyNmF3UklMOW9heXBmMF94blhCME1ITFk1clZvM19ZZTJRQmJmTEI2NjZWWnhZMV9ELWVWSHBDZjkyWEJWUG1lTkhUZF9WbEctbE9n?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Berita dan Informasi stunting pada remaja Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWU3b2RhakRvWFRPeS15ZGkwZkJUSnFSeldNX1BYZkw1cGktcVdaczBMeU9QSEhRUXdJdDZhY0dPOUJFZFdqaDFEMFlzN2JqbnhHWlF1UVdMWlpKdWpZ?oc=5",
      "r": "RRI.co.id"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:21:22.974961+07:00",
+ "updated": "2026-10-15T20:32:31.239181+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   33
   ],
   [
    "Kompas.com",
@@ -27,16 +27,20 @@
    9
   ],
   [
-   "Radar Bandung",
+   "Ayo Bandung",
    7
   ],
   [
-   "Ayo Bandung",
+   "ANTARA News Jawa Barat",
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   5
+   "Radar Bandung",
+   6
+  ],
+  [
+   "Disway",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -44,10 +48,6 @@
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Disway",
    3
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Galamedia News",
-   2
+   "Pikiran-Rakyat.com",
+   3
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Sekda Jabar Ingatkan Penertiban Bangunan Liar Harus Disertai Mitigasi Dampak Sosial - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakpoc0JSbDlYQmNNay1aV0Vhd3VPMFlKN2RteWs4eENQWkN3czdSd29MSTRLQUFNN1diMUJLZW5USXNYRG1xbDVOcGxEdDV6cG9UZHFyQWdHU296cTBmd1hFdkFReW1YRjNtN0s0U0xZQTdCdTNySkZ3RWVYX3RoaVVmYnNLYzNiaDk0bk9zdmpXcTVIM0U5UHdVa2NOM1JsRmhGVnhuMEhMZFFUdk5UUVVST25veENlMml4alk3T25CMG5LUEJSOVQ3bDVPRW8?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSncwQlZyb042Q1BnZ0tSNHpOMjhpc0g1TFFtN2ljRDlRZW9PMUdvQXBLTVZ4RXRONUZGWFRNeXgwMzl1d2c2WWNFdE4tc0ZRbFAtYXNWQ0h6VXgydzMwSE9GYVlyRlQtSkExbmZhY2YyWVcwSVJMbDRXQlRoOGlBQXhka3JENU1uTm1nV296VXVpeTh5ME5YRVFfenh6UdIBowFBVV95cUxOTjFoUTB0TWVMLTVCY1lwaDlrWG80ZnoxZ2g3bTV4TTA4T2ExLVV6U2hDcHpkZlk4SUJVYzhjaFZSX0VDVUpXeU9BbFhtTHhVbUpnWm9rSVJWTWtrYjIxRW9ySDI4V1lNcmlKUmZTazg2ZXc3cXd2aUYyemhZbGdVaUxJLXV2dDlsODdVal9ERE9GVDBTa3c5d2I0cmdJRWtUdnhJ?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Rumah Tak Layak Huni di Majalaya Diverifikasi, Begini Langkah Pemkab Bandung - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmZTdHhtRTFIOUtBdDE5MkI2OW52ZTc3U2NsY3dyTUUxdVItY1lsdVFoN3AzMU5tRTg0RFd5dE14eFktVDJ4SnZaSWRXU0pQeGQ0d1kwWVRDbDBHb1VsS1FXRTlIanFjZFV1QjlXaWhYR3RtNHZ6TmNaRC1sSFlOeU5ZU0I0TldiWDhfZEhxYWV5Ul9xSGF2eUo4dHUtRy02NzNSV1ZtQlVmVld0TUNKb2dR?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -167,16 +167,16 @@
      "r": "deJurnal.com"
     },
     {
+     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkZzTjFFVXNxblBNU3hQZVdtV1UwUzJhQWM1YUJyVUE0Q3Y5NFY4RlhPQUhHU1pJaWszN1o1cV93Y1NfTVFKRmxpV0lBaEZfamhveXAtdnVDd3dBSXkwd0NfM1JzZERvRndsdV8wQmdZUDlKZ1ZIRGVHSF9IMDlMTm8ydEVvamVjenZsQkZKZWR6RHF1VTZSTTFwOHR0c1dDOFhKcmlZb3lzbUphUVVaSmxxOEpYSkVzc1RELTVETHo1eWpXY0VZaFBxX01RTTdWalBGclZfQThkdw?oc=5",
      "r": "Bandung Berita"
-    },
-    {
-     "t": "Komisi C DPRD Kabupaten Bandung Sidak PT Ramatex, Soroti Limbah dan Perizinan - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHZYOUZnYnZvZEsxUzhLSzBNWjVxQjJHMjBuQlVGdm0xQnJZbEpmVm9NNGkxelduSjRZSHRaczJfMC1OWFpiVFJidTE3TjlXUmpKdlg5TGh6SExxbGItZmFaSkZwd2VPbGVQQXl3eVdNRzFsOTdPT2h3U2FPZUdQaXhzVXZSZUxIakcyQjZ4ZHNPcDNjNzF6QnlteVVTakZpMzVVcmdLajFJYXlvY0JxTFd2QjFPbjRLOGpTOVR0TWR1TTZRdFFz0gG3AUFVX3lxTE5QYnJJbS1fOWU2MmtkZ251V3Z6MnVmNks1S3dpdEx3alRYcUR6d1hOWURqLVdfYlZEc01JQzJSTFFLWXNOTWVxWVpvOGotQmllRkx2M3Y1OUNLcUxfd2hJV3p2MzJ2dkFUQ0VvUUJRVmlWRlFxRnV6anprZjVWWVVpQnZmMVVJNzQtZUtZdWV3TGtVRTFzaFVKWUxHWm5GS3U3N1lGS3VsSXdaWGNHNTNvS0lTMUdYbw?oc=5",
-     "r": "Disway"
     },
     {
      "t": "Puskesdes Bojongloa Resmi Dibuka, Warga Tak Perlu Jauh ke Linggar",
@@ -192,8 +192,8 @@
      0
     ],
     "w": [
-     3,
-     8,
+     4,
+     9,
      2
     ]
    },
@@ -214,7 +214,7 @@
      0,
      1,
      0,
-     1
+     2
     ],
     "g": [
      0,
@@ -237,21 +237,21 @@
    ],
    "h": [
     {
+     "t": "Pengamat Unpas: Kenaikan Upah 2027 Perlu Disesuaikan dengan Kemampuan Usaha - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTVfSTEzOG96NjlXOEg3bjktekNYM09NbXFMQmY0emRGb3E1NEFuVmlhQlpSTDgtVGpvdFA5b0VNbWVrdGZPNDNCME1tU1I0bGpyVTJKbHpNLS1Xb0hTQTlZSXJsNWRGclc5dy1aYmNBVWdWcW5YMWpmcXpvY0RUV2RMaHk5c2ZRVk00UGJMTDlGZldYOC0yS3ozQWo0a0xCcHBSYXh4ejdHOU1GbnlXZTRxYjUxVGxhSE9OSldOalpPXzg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Panen Hortikultura di KBB Tertekan Kekeringan, Sri Dewi Soroti Keberlangsungan Usaha Petani - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0twdmNjRElQREdBckVnOUFXeUxfNEdYM09DOExMV1dxdmJXRnJ6T1RCaFBCQzVhMmxfZmZHU2xIT3FjdURJQ0tMZ0hRckdROWc1cnNUaDJOSThFYkNfb1lIZ0RhckZLUG5CRWlWR3A0cXZvRk04VDloRTY1ajh1SHBIM0p0Unp3SVN2QjZmRHBMR1FMVzhQekJZWWpUMFVIMnJCOXEzMTlhUjRncnYySncySTBjSVYxMWlWeGpldWhXcEN2V24ybzhGVXd3YnY1Tl9HdUZSM0FFanExZEE?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus, KDS: Dorong Ekonomi Warga - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzBLbGlVTFVxd3FZSFQyMkpWakxwTzVMcGRHVk9YUGZVODBLd2M2dVNsZV9IemFPenpYbDBGMlM3T2k4ZTFqOVRwMFNDT3VTeVhxQm01UWNXUkdnQUEzdUlZa0JvWjFWSGpjUE9MUmlpcVdsRUF5Y1dFaVZhR1lIOUJoWFVzZ19RZG95Q3B6cW5xMUE2b0I2a2ZrWVZycmtQZ3NmMW8zdE9jNHA0X0lOeHl2Qy1CU2R6TlZoOWp30gHDAUFVX3lxTFBVbmhESlJZVkpfZ0YzMFZkeHEwMmpQVksxajhQOC1HeE9FVEtmVGhxNFRmaWVselh4Z0wwcTNDbDkxSEF3dHFVZUJOOUxWZnAtbWJHQ0d1UXlHbzE2cmRWSGd6dUZaY1ZLQkxWX04tNHNDNWJFbGdjN3dZUF9VaDdQdGxuWjFmVEhFbTlwdnpIeUN1N0pHcFUteFd2cU4xVDVKc0tCZk9SUU5KX2lzd0pIVjFvc0E5VXBDTGNnRmhHNjhZNA?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Waduk Saguling Terus Surut, Peternak KJA dan Petani Harap-harap Cemas - Ayo Bandung - Ayo Bandung",
+     "t": "Tinjau KDMP di Padalarang, Bima Arya Terima Keluhan Ibu-ibu soal Stok Gas hingga Harga Barang - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem1kaEhta3ZFWkNHbkIyRU5kMHZzYmxjUUVfUE43NlZZby13TzJyX2VkcEpKTkdYMnlnaWtPRE5sbUZiZkhCSEozZTNTZmNCVzVUZ2RxQjR0X2lWcnluaVBZVVN5dlZsR0FUUzdIUENUN3ZVOGRBYmFiME9heUExdkFYenZieFRQS0s5bkk0YURGWTBLNGJDanhTMHpndDFDY3llUVV1X0VWVEZpTjl2VzZOSHJkZmVjX05v0gHAAUFVX3lxTFBVWXBydDREUTJEZkFRaU9FU0JDeE90M09UZDRKTFNSQWloMzFPWDNYSkNYWTl0cUxMaGxXYkg5eThZWnI0LV9pNURCaXcyYU10S0xxaWZQa1pyR3piX001c2JpLXRubTlQVGxjNFg3elk5dTk2TWdqSmpYSXUxelBYTHVCd1IwTVVIZlJ3Q1ZBcXFvNWZPZDNuQTZoc3RxcXY3dmR6Q2paSVFOMEE5TUdnUnFBc2Q0Y1Ffak9vRUU2cw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHdmb1ZsMS1VUUJicE5DNk1XelhXS2pTSzBvU1IwSXU4MU5DVFdibThtSnR2RlA3cU5yMUt1WXFHUzkyVXJ4X01nZG9pbVlHc3h5bFVaTGFsSFhXLVZNVl9UMkd6UHVsd2Z0N3FTaW14b0swZHdETTM5YktfTlZyeFlHcUg3QVdGVWE4RkhlMUN0eDVYNW5kSC1pZk5TMEpDTTJEal9mdy1Ra1d6NXBKMzNTdlRhWmdzdHZwVlVhOGlkWjI1QTZNOVAzRWlQbndPbldaX3FXOEFGeFHSAeABQVVfeXFMT0VoX1FnNWprNFZYSGRhSWUwLUtOMGtfUlBETjlUWUN0aExJRVBFREJxbHJHWjRHMDgtWFgtc2RZWFhIQ3BQR3BiOUNWakRza3F5QXNBSTJLMWN3ZXZxX3Z2QmlPSWU0eHl6M3NGeDl6MFlqbFFJNWswTEhDOTRpeksyM1FZaFpEejlNWlhxeWdVekZFTU1jWU43ckFIRXhVZnVZaUF4UFlpOVI5ZVBqRHpDck5LbklXcE9iQXdzeEhHRVMyRnpGZlp6STFQdGRIUTV1R0Z5Nk9iQ0doLXdsb2I?oc=5",
      "r": "Ayo Bandung"
     }
    ],
@@ -263,7 +263,7 @@
     ],
     "w": [
      4,
-     11,
+     12,
      0
     ]
    },
@@ -333,8 +333,8 @@
     ],
     "w": [
      3,
-     23,
-     9
+     22,
+     10
     ]
    },
    "trend": {
@@ -362,7 +362,7 @@
      0,
      0,
      2,
-     4,
+     5,
      3
     ]
    }
@@ -377,22 +377,22 @@
    ],
    "h": [
     {
+     "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Foto : Wamendagri Bima Arya Pastikan Koperasi Merah Putih Jadi Infrastruktur Subsidi, Bukan Toko Ritel Modern Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUNIRmI1WE05b3ZoZ1Q5WEtzUG1pTF8ySkRQaDF1VXRLTWZaNmh3UXR1QlJwZXhlalBOQ1BPRXc1bUthV0p1c1dMU1R0U0tSMXBxNVVDckpMR09BQXQ1d3pwdGx0c1RjcVhSSkFqUXpERHo3WHNnY0RzVUo3NEdtVWFpYkxxS0VvdFdPZ0lrSWdKNjRuWEFGSHhxRjBZRHlXcHBWQ0FDNFp5eWttRlRkTEcwUGpkblY2b0E3VmZSOURMSThReXhJUmV3?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Tak Terkalahkan di Asia, Lucho Minta Persib Fokus Jalani Laga demi Laga - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnBnQ3lFOFBNVmd3RUJCM055ekVCZXhlTkxSMkFEejNlaFE4WmdCVXI3YkxtY19UaWJ5OGE3SDh1WS1sdC1NZWVNOGRFcnFhUE1DZ2kxUmhGQlkwVmpDM185blhEOWpKMHg3OFBzelBCUV92VWtkOC1lMmNST1R6NGtmaXJYRDBkZUMzQnBfSmxGMkY3dHc0eFNZOF9Ldjk4NnV3Z0JuS2poQ0lnRUhHeFJCdE9oUQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Komisi IV Dorong Penambahan Pekerja di Proyek Jembatan Munjul - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelMxRUN2ODUyZGNsRERzbFJYeW1xS01fZ0ZoQXFYdW1vV1NkV1ladVVZbFk1QjhMcy13bm94LUc5Rmt0R2lXaFl3TlppcUhLRGFJTEJLd2dqdnhoUERNU0ZqaDVrb2hWXzNRdXRsNHpYUzlzYTJnLVVLaDFNVXZEU2JxTnpRQ2JPNjJjdXV6ZlJfZHU3d0Y5OHJuNkZ0M2JFU1U2ZFBWamQ?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Usulan Bupati Bandung ke Presiden Prabowo Berbuah Jalan Mulus Ciwidey-Gununghalu - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFo1bnlWT21vSmZGT0U4WHgtUTRUWVFFZGNxelBUWHdCMWFydFplWG9FaWdYTFlOcDVLUEVoZ0hjWWhGcWZ0UWhvUThWRVpmZGV3QklQMlI3bUh1NmZDSDZTTGtRVkhwNnp2d2JWZDdFeXhmQW5nNGIxVmZ5ZDRWX2dvcHNXdXVDcXlPTllHcHk4bWNKbzlkSlRrV1RPRjc0SG5hcnhnX0p0Wmh2UmpidnlTV3MwTFVy?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "🔥 SAT SET! Tak Perlu Lama, Ini Langkah Teknis KDM Atasi Banjir Kabupaten Bandung!",
@@ -414,8 +414,8 @@
      6
     ],
     "w": [
-     5,
-     7,
+     6,
+     8,
      19
     ]
    },
@@ -436,7 +436,7 @@
      0,
      2,
      1,
-     2
+     3
     ],
     "g": [
      0,

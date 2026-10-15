@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:19:36.524406+07:00",
+ "updated": "2026-10-15T19:21:22.974961+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "detikcom",
-   10
+   11
   ],
   [
    "jabarekspres.com",
@@ -32,19 +32,23 @@
   ],
   [
    "Ayo Bandung",
-   5
+   6
   ],
   [
    "ANTARA News Jawa Barat",
    5
   ],
   [
-   "Disway",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Satumedia.id",
+   3
+  ],
+  [
+   "Disway",
+   3
   ],
   [
    "PPID Kab. Bandung",
@@ -56,10 +60,6 @@
   ],
   [
    "Galamedia News",
-   2
-  ],
-  [
-   "Satumedia.id",
    2
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Jalan Perbatasan Rp 15,24 Miliar Rampung, KDS Bidik Distribusi Hasil Bumi - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHJFWDFJbVo1ZFRTd0JJZF9jRklBa1E2YmhOZjB0dUxnbmdTQzk1blhRV2RWc2RKT0oweTB5T3NRdENMbjRxN1NrcENfYXh0T2VPSDkwUTNyQlNLeG1fbE5sOFF4MEttblRPUDJPNUlpSlFaZGdGODc2T3lfT2h1WElZWTZYUjltZGlleFgtcXlGNm03YllzbHp0UkpxYkllMXY3VFY5QdIBmAFBVV95cUxQTk5oTWNoWFAxVmVPZ0pMNTFRRjVSX2UtVURFM2VsR0RLQ1VyZVVJSVhzM09xbk1PWHktV3Y5ajl3Ymc4T2VvdXRWLVhlZFc2RGtvSDJGekRxejRqSzZqRk51UzBySWFfQmk1ZFBZRDJ3TWpnSm92Wjg4UDJJajBzVmI3cUVkT25jdncyQ0hvMTJkREdKSFU2Ng?oc=5",
-     "r": "Ketik"
-    },
-    {
-     "t": "Dukung Kinerja Pemerintahan Akuntabel, Kemenkum Jabar Tuntaskan Harmonisasi 11 Peraturan Bupati KBB - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2Q5T3pPRFNFcHhZZWZJMWZwX2hlT1luSXR6aTJaQjZoZVJMU1dkZHlKZE9uX01sdlZCdXVvRmpzdVZ2eFY4a2NxWmtSMHcyMVBYZUZCNFdnejZHNWZIWDRfR2RyWFZsT014RzFXMVlDYjhTZVZhVkNtSFZscmUxMkhaZzdrdm5xdjlscDB6WWV2OXJwNkhpTTBuY3ItOHpRX2xuOUUwN1k1LURJWmxZWHdYc2xURzZ2UWtJaW9tSEpMZ2F2OV8zbTlhc2ZoQ1l6eXZWbzdFRWs0bFRxejBfSg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "MTQH XI KBB, Sri Dewi Anggraini: Semangat Qur’ani Harus Tumbuh dari Keluarga hingga Masyarakat - Tribunjabar.id",
+     "t": "Sekda Jabar Ingatkan Penertiban Bangunan Liar Harus Disertai Mitigasi Dampak Sosial - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaENxUHAyREdsOFBKVXJIbGdqV0t5YXg5bUZpWFdOMWZ3NndxV09uYTJySHhZMWR1N0RtU1U5QmZyZERGTHhIZEVYRWJEWEc1ZTNJQUtSS2RnNVRKWmptUkJfOFo3QldpTWJwZ2RRMWstUl9FT0dNLTE5YlRzdm9iS0pIb2l3UURXZGFsazlsOXhyQ1h0bFUtMjhMdExtLTB5OHpfTmw3ZVM2VHJHMml3WDRUd1FhR1R5blNnYTRPOFRqWktlOWNMQVBwZGFIU2ZnZXZXZEhyRHpNcFBwMU56Tw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakpoc0JSbDlYQmNNay1aV0Vhd3VPMFlKN2RteWs4eENQWkN3czdSd29MSTRLQUFNN1diMUJLZW5USXNYRG1xbDVOcGxEdDV6cG9UZHFyQWdHU296cTBmd1hFdkFReW1YRjNtN0s0U0xZQTdCdTNySkZ3RWVYX3RoaVVmYnNLYzNiaDk0bk9zdmpXcTVIM0U5UHdVa2NOM1JsRmhGVnhuMEhMZFFUdk5UUVVST25veENlMml4alk3T25CMG5LUEJSOVQ3bDVPRW8?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Bima Arya Buka Suara Soal Wacana Gaji ASN via Kopdes - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSncwQlZyb042Q1BnZ0tSNHpOMjhpc0g1TFFtN2ljRDlRZW9PMUdvQXBLTVZ4RXRONUZGWFRNeXgwMzl1d2c2WWNFdE4tc0ZRbFAtYXNWQ0h6VXgydzMwSE9GYVlyRlQtSkExbmZhY2YyWVcwSVJMbDRXQlRoOGlBQXhka3JENU1uTm1nV296VXVpeTh5ME5YRVFfenh6UdIBowFBVV95cUxOTjFoUTB0TWVMLTVCY1lwaDlrWG80ZnoxZ2g3bTV4TTA4T2ExLVV6U2hDcHpkZlk4SUJVYzhjaFZSX0VDVUpXeU9BbFhtTHhVbUpnWm9rSVJWTWtrYjIxRW9ySDI4V1lNcmlKUmZTazg2ZXc3cXd2aUYyemhZbGdVaUxJLXV2dDlsODdVal9ERE9GVDBTa3c5d2I0cmdJRWtUdnhJ?oc=5",
+     "r": "detikcom"
+    },
+    {
+     "t": "Rumah Tak Layak Huni di Majalaya Diverifikasi, Begini Langkah Pemkab Bandung - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmZTdHhtRTFIOUtBdDE5MkI2OW52ZTc3U2NsY3dyTUUxdVItY1lsdVFoN3AzMU5tRTg0RFd5dE14eFktVDJ4SnZaSWRXU0pQeGQ0d1kwWVRDbDBHb1VsS1FXRTlIanFjZFV1QjlXaWhYR3RtNHZ6TmNaRC1sSFlOeU5ZU0I0TldiWDhfZEhxYWV5Ul9xSGF2eUo4dHUtRy02NzNSV1ZtQlVmVld0TUNKb2dR?oc=5",
+     "r": "Satumedia.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     11,
-     17,
+     9,
+     20,
      7
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     3,
-     8
+     2,
+     7
     ],
     "g": [
      0,
@@ -161,10 +161,10 @@
    ],
    "h": [
     {
-     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
+     "t": "Kadisbud Kabupaten Bandung Irvan Ahmad: Perkuat Sinergi Melalui Rakor Kebudayaan - deJurnal.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk4zOVA0STcwZDBDNGhNMk9mWWJwejhiY25vRmxkS29qVXN4eF9lNUt5NkZQbFp1X3BrSXBVNHVNWXFuaHg3UXJBN3JRcUFzQU9iZnZEVG1aRG5kVmVScTJQejFVS3hRdFpsV3l2RTNORzBwTVB3ZDVKLV9zRldPYmJ3bEczb2ltbEhodE83SERqM0FJWC1rRHlKUWI1NUw3UElIT3pVbVlyNTZkX2c?oc=5",
+     "r": "deJurnal.com"
     },
     {
      "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
@@ -193,7 +193,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      2
     ]
    },
@@ -237,22 +237,22 @@
    ],
    "h": [
     {
+     "t": "Panen Hortikultura di KBB Tertekan Kekeringan, Sri Dewi Soroti Keberlangsungan Usaha Petani - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0twdmNjRElQREdBckVnOUFXeUxfNEdYM09DOExMV1dxdmJXRnJ6T1RCaFBCQzVhMmxfZmZHU2xIT3FjdURJQ0tMZ0hRckdROWc1cnNUaDJOSThFYkNfb1lIZ0RhckZLUG5CRWlWR3A0cXZvRk04VDloRTY1ajh1SHBIM0p0Unp3SVN2QjZmRHBMR1FMVzhQekJZWWpUMFVIMnJCOXEzMTlhUjRncnYySncySTBjSVYxMWlWeGpldWhXcEN2V24ybzhGVXd3YnY1Tl9HdUZSM0FFanExZEE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus, KDS: Dorong Ekonomi Warga - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzBLbGlVTFVxd3FZSFQyMkpWakxwTzVMcGRHVk9YUGZVODBLd2M2dVNsZV9IemFPenpYbDBGMlM3T2k4ZTFqOVRwMFNDT3VTeVhxQm01UWNXUkdnQUEzdUlZa0JvWjFWSGpjUE9MUmlpcVdsRUF5Y1dFaVZhR1lIOUJoWFVzZ19RZG95Q3B6cW5xMUE2b0I2a2ZrWVZycmtQZ3NmMW8zdE9jNHA0X0lOeHl2Qy1CU2R6TlZoOWp30gHDAUFVX3lxTFBVbmhESlJZVkpfZ0YzMFZkeHEwMmpQVksxajhQOC1HeE9FVEtmVGhxNFRmaWVselh4Z0wwcTNDbDkxSEF3dHFVZUJOOUxWZnAtbWJHQ0d1UXlHbzE2cmRWSGd6dUZaY1ZLQkxWX04tNHNDNWJFbGdjN3dZUF9VaDdQdGxuWjFmVEhFbTlwdnpIeUN1N0pHcFUteFd2cU4xVDVKc0tCZk9SUU5KX2lzd0pIVjFvc0E5VXBDTGNnRmhHNjhZNA?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Wujudkan Ekosistem Perkotaan di Nusantara, Otorita IKN Teken PKS KPBU dan Investasi Langsung Swasta Murni - jabarekspres.com",
+     "t": "Waduk Saguling Terus Surut, Peternak KJA dan Petani Harap-harap Cemas - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSndSZXc0WGE5ZmZrMWIxRUk3WUduSF9lUlZIMHBqQXhVUzFCaDF1UVh5dVVlam9XY1dkVzJoSFpheWUxZlEtdUc1YTl1LXJVSHBpSmNMNnNZaXJIMnNNTTFhOENQX1hFUzdZRzJaYklESlNveTluY3VwSTlpQmwwS2FQRmp2NHpBUEpjeG1CTEFNZGxMM2tJeGRZV20ya1A0Nk5TdFZ4anRjUEtoQUlDTmNHcGxsam1qQTdLWjRTSzE5WU1teWdYZ2d3akJPVFlMYUhPd0ZvUGlRV1M3Szl1eHdR?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Harga Mahal Kemenangan Persib Bandung atas The Cong-Viettel FC, Sang Kapten Harus Absen Satu Laga - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0psWmpTeFBWSm5qMmpPS3lOQWlCdFFMWmtVQ0ZUX3B0QTlSSER1a2pxSlRyNFl5WnNjOGZMV0xyWDBMcUUtVk4tWEsxSjRZOHZZbGlWTGdGRTNSU1dlVWtPbGVuYTJyU01YU09nWnpTM21sSmVnREpjdlZUZkoxNXlfWkg3cGRKbXkwU2ZfQjdORVIzX3M2SFdvMkVDLXV3dTVpVThwdjE4S3BTLW5vNGFNVFNOQ2xKa1FUR0VxTDNuUkFZWndMd3VoRVdBR3NMQ1pkdFh6OTJrWm8?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem1kaEhta3ZFWkNHbkIyRU5kMHZzYmxjUUVfUE43NlZZby13TzJyX2VkcEpKTkdYMnlnaWtPRE5sbUZiZkhCSEozZTNTZmNCVzVUZ2RxQjR0X2lWcnluaVBZVVN5dlZsR0FUUzdIUENUN3ZVOGRBYmFiME9heUExdkFYenZieFRQS0s5bkk0YURGWTBLNGJDanhTMHpndDFDY3llUVV1X0VWVEZpTjl2VzZOSHJkZmVjX05v0gHAAUFVX3lxTFBVWXBydDREUTJEZkFRaU9FU0JDeE90M09UZDRKTFNSQWloMzFPWDNYSkNYWTl0cUxMaGxXYkg5eThZWnI0LV9pNURCaXcyYU10S0xxaWZQa1pyR3piX001c2JpLXRubTlQVGxjNFg3elk5dTk2TWdqSmpYSXUxelBYTHVCd1IwTVVIZlJ3Q1ZBcXFvNWZPZDNuQTZoc3RxcXY3dmR6Q2paSVFOMEE5TUdnUnFBc2Q0Y1Ffak9vRUU2cw?oc=5",
+     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      4,
-     9,
+     11,
      0
     ]
    },
@@ -334,7 +334,7 @@
     "w": [
      3,
      23,
-     10
+     9
     ]
    },
    "trend": {
@@ -358,7 +358,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      2,
@@ -415,7 +415,7 @@
     ],
     "w": [
      5,
-     8,
+     7,
      19
     ]
    },
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi olahraga untuk kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVVV4aDZWenlNM3VwSWx4WU1ZRmphNkdyczRyNmF3UklMOW9heXBmMF94blhCME1ITFk1clZvM19ZZTJRQmJmTEI2NjZWWnhZMV9ELWVWSHBDZjkyWEJWUG1lTkhUZF9WbEctbE9n?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Berita dan Informasi stunting pada remaja Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWU3b2RhakRvWFRPeS15ZGkwZkJUSnFSeldNX1BYZkw1cGktcVdaczBMeU9QSEhRUXdJdDZhY0dPOUJFZFdqaDFEMFlzN2JqbnhHWlF1UVdMWlpKdWpZ?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdnMyVkZaWDFBVzhDdXhYUGdJR0xaSnIwQzF0SWVoX1JkOXRDSm9WVm5CbVJZTUVzWXEzbHRZUzhuT0JIYjVkaXNCZjAxT0dYbXZuVDlSTHczTE1oeDg2TzQxNy1fd2V0RlJ6SzJPRTNZZXE1US15dm5idjBRNFE0Y1kyS1k1Tng1RTBmUWNEc3VrMGM5a2RaQzBISUhEQmdUdFgzSnZxY3hDbnlMalVldGJ0TURtSWxIaGtlVUxnZGphcFFzcWZ0YjRxNHNYbE9y?oc=5",
      "r": "Kompasiana.com"
-    },
-    {
-     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1c0dS1NcEpOUlhYUHBpODNRQkliM1ZoTTg3NFF6czFnMHdIX2ZyTDhoek9NaC1Da0dQcWxwRmRhaE1UN3JZVTlXZnhnMGVDVUlzT2xNa1VENFBjMVRlTlgzOGw3MUplX05fVklXZ1VubUVtTEdEMUtIMlNpOUIyRzdWdGhiRExobFpkZVJ4SzQ2YTJxY08tSVVTOW5DUS1MOFB2TjFhZUc3LVNweWl0b0tJMlJPRFN4QjlSZEJ3?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",

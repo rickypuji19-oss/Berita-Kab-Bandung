@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:24:16.994979+07:00",
+ "updated": "2026-10-16T03:17:36.792549+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,11 +23,11 @@
    11
   ],
   [
-   "jabarekspres.com",
+   "Ayo Bandung",
    10
   ],
   [
-   "Ayo Bandung",
+   "jabarekspres.com",
    9
   ],
   [
@@ -47,6 +47,10 @@
    3
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "PPID Kab. Bandung",
    3
   ],
@@ -60,10 +64,6 @@
   ],
   [
    "Galamedia News",
-   2
-  ],
-  [
-   "Pikiran Rakyat Koran",
    2
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Disway"
     },
     {
-     "t": "Suhendar Siap Wujudkan PWI Kabupaten Bandung Yang Solid, Profesional dan Menjadi Rumah Seluruh Anggota - Sinar Pagi News -",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZwdVMtZ2RTOUNRamtpQVJZdW1pbFpRZzFkZWI5VUNQTE5iSTU5Vnh6ZW5neW9PWENWY25IVGRPNkl2TnNCaHNHMjZsVlZDN0FYRzItekEwVkhuWVdqMkhpeVpORDZvS1ZzdWdkQmRQQ2NTdXEzMVRFSC1ET3gzSTdONTRtT0dCVnhxMDItQV9mZXpIQ1Zwb2gzb05Fa25RZ3c0Nkk5VTFiSE56blZEQ1ZJUTNEa00tMlhuc2F1aURacnRqT2Fv?oc=5",
-     "r": "Sinar Pagi News -"
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaThLd1U5cmhVNm5OY01XbTZxTFFmQjVrOUkxenZqeUxiTnNnYk9aWXphbTNwMGpYZ3FNcG5Xc0g2b0ZJd0pjSmpobXJYZ1paLUdlWXZzME5zYUpXckdaVmgzY01IeC1HUDhFaElnT1EyWVNqeUtNbm1QSWZkaWxzdE5lUC1nRkJ3cHAwZjQ2cUlxdGlvdzQzV0hqOEJRWTZFZkUwdkExbUpXN1pfQnhVTFNTV3hjZTFtaWZyMTlTQ2xiT2pjTWFCRC1jUVJzbG5HX29GeWhTelZHZ9IB3wFBVV95cUxOMFVQc3cyWGxDcGE5YUg4MkZVNFdsUEVrdHZ5NmQ3QW5sZEdLMkFOMXQwWDhxX01ZRWJuUWh0NlJwbkdwZHAzOU9FbnlPdjE5LUhocGplV1k3NXlwUnVLS0hSNDZuZE9HTWoyNmh5aFNST2ExN1UzWU5sVjNNZ0RDS1JQYXlCM3F4Nmw0U1lmaGY0LUUxZGM3ZFg5enl4SEY5QzFneW1wdU4wM3Q3QTlEYTdUcC1YV2VxQTA1RU1iOVR4LWhucktCRmt4MnBGSjhvMlJaLVY0b0EtcFpmNUxF?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -117,7 +117,7 @@
     ],
     "w": [
      12,
-     21,
+     23,
      5
     ]
    },
@@ -237,16 +237,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaThLd1U5cmhVNm5OY01XbTZxTFFmQjVrOUkxenZqeUxiTnNnYk9aWXphbTNwMGpYZ3FNcG5Xc0g2b0ZJd0pjSmpobXJYZ1paLUdlWXZzME5zYUpXckdaVmgzY01IeC1HUDhFaElnT1EyWVNqeUtNbm1QSWZkaWxzdE5lUC1nRkJ3cHAwZjQ2cUlxdGlvdzQzV0hqOEJRWTZFZkUwdkExbUpXN1pfQnhVTFNTV3hjZTFtaWZyMTlTQ2xiT2pjTWFCRC1jUVJzbG5HX29GeWhTelZHZ9IB3wFBVV95cUxOMFVQc3cyWGxDcGE5YUg4MkZVNFdsUEVrdHZ5NmQ3QW5sZEdLMkFOMXQwWDhxX01ZRWJuUWh0NlJwbkdwZHAzOU9FbnlPdjE5LUhocGplV1k3NXlwUnVLS0hSNDZuZE9HTWoyNmh5aFNST2ExN1UzWU5sVjNNZ0RDS1JQYXlCM3F4Nmw0U1lmaGY0LUUxZGM3ZFg5enl4SEY5QzFneW1wdU4wM3Q3QTlEYTdUcC1YV2VxQTA1RU1iOVR4LWhucktCRmt4MnBGSjhvMlJaLVY0b0EtcFpmNUxF?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Pengamat Unpas: Kenaikan Upah 2027 Perlu Disesuaikan dengan Kemampuan Usaha - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTVfSTEzOG96NjlXOEg3bjktekNYM09NbXFMQmY0emRGb3E1NEFuVmlhQlpSTDgtVGpvdFA5b0VNbWVrdGZPNDNCME1tU1I0bGpyVTJKbHpNLS1Xb0hTQTlZSXJsNWRGclc5dy1aYmNBVWdWcW5YMWpmcXpvY0RUV2RMaHk5c2ZRVk00UGJMTDlGZldYOC0yS3ozQWo0a0xCcHBSYXh4ejdHOU1GbnlXZTRxYjUxVGxhSE9OSldOalpPXzg?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      6,
-     11,
+     13,
      0
     ]
    },
@@ -333,7 +333,7 @@
     ],
     "w": [
      2,
-     23,
+     22,
      10
     ]
    },
@@ -414,8 +414,8 @@
      6
     ],
     "w": [
-     7,
      6,
+     7,
      19
     ]
    },
@@ -433,7 +433,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1,
      4,
      0
@@ -497,7 +497,7 @@
     ],
     "w": [
      3,
-     23,
+     22,
      4
     ]
    },

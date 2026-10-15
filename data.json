@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T14:31:25.454132+07:00",
+ "updated": "2026-10-15T15:21:30.405506+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   30
   ],
   [
    "Kompas.com",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "detikcom",
@@ -31,11 +31,11 @@
    6
   ],
   [
-   "Ayo Bandung",
-   6
+   "ANTARA News Jawa Barat",
+   5
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Ayo Bandung",
    5
   ],
   [
@@ -43,11 +43,11 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
+   "PPID Kab. Bandung",
+   4
   ],
   [
-   "PPID Kab. Bandung",
+   "Pikiran Rakyat Koran",
    3
   ],
   [
@@ -118,7 +118,7 @@
     "w": [
      5,
      19,
-     7
+     8
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     0,
+     1,
      6,
      2
     ]
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Preman Pemalak Sopir di Cihampelas Kabur dari Rumah, Polisi Buru Gayung alias Royan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWi16UkoyQ0pjV2Z0VkFxbndsUzIzQjJkdGZqTV9fWDhkWTc4UGp6QmRZYWNyRTFPTS16SkFHQkwxMTJGWkFJNzNmUzBxRUxaTFphR2d5a2RaN0RmTVpmSkYzSVlodGg1YXhKbkExOHN4WWR2YzVjTE1IaFpSZFVQUjA0Z3FYRmdwTGFCamc0T1FmQU1nOEkyZnJwVV83bW4ta25kSXNLRlZKTEdpeDlIVF9CQjNGcHZNLWZTUm9ZZFFMeU5ReFBOWXpESENfdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "2 Pelaku Curanmor di Sadangserang Bandung Dibekuk Polisi, Sajam hingga Narkotika Turut Disita - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVJZMzR1VWRBX0piV0QxbHlwbnJVWXZnYzl3MmxHTEh6YkNlekVxaVc4OGFERmFXakR5Sk9ka0hiZUZqR05ieG1Rc1FSREE0aFhidzRkV2swLWs0RlBROGF0TExNeXZ2dmh0T0xRVUpnRmQyam1XYU9HY2Nvdk9WaEsyM2RCdWx3dXJoZkg1Zkt2b1F2TVRtdVkzM3JIVk5UaGxEblZTV0lZNkxxbUhxVTZkcWEyc2F0aVBkZTQ4cFpRM0V5WlJpbVozTUpZT0ZKTjJKRXg3X1RvYUU?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX1Y0V3E2dTBhOWtVYXBqdlNlRWgtQlRNM3ZMZ2I5QTZ0SE5OQzlaZFAxQnFRaUt4VWJLemdRMzBrSWh2RXpBQU96SldxRWVwNElFUEtWeUtZWnZCSENoN1JnRktteTA5eWFrLUYzWjltcHVyU2NZcjM0R0RMNnBKeFdPZXpOLXdvcmtwMU1RcTUzeTdXNkE2S0JZN0MzcEh6TTJUNnJPVTQ1MUMwU2JGMHJZWmw0MXhIQlA4WXFkX2VMemZHaHNtZmhETFFqRlpVNjVqclo3a2Q4VEc5bTJCMVhxLXVCb3pqMXdqdDM2SUg0aFVudkRqVmY1UktUeXfSAf8BQVVfeXFMTV9WNFdxNnUwYTlrVWFwanZTZUVoLUJUTTN2TGdiOUE2dEhOTkM5WmRQMUJxUWlLeFViS3pnUTMwa0lodkV6QUFPekpXcUVlcDRJRVBLVnlLWVp2QkhDaDdSZ0ZLbXkwOXlhay1GM1o5bXB1clNjWXIzNEdETDZwSnhXT2V6Ti13b3JrcDFNUXE1M3k3VzZBNktCWTdDM3BIek0yVDZyT1U0NTFDMFNiRjByWVpsNDF4SEJQOFlxZF9lTHpmR2hzbWZoRExRakZaVTY1anJaN2tkOFRHOW0yQjFYcS11Qm96ajF3anQzNklINGhVbnZEalZmNVJLVHl3?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Polisi Amankan Suami yang Ngamuk hingga Lukai Balita di Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnBESmlnZmJuTjNaRmVWMFNRYjJaTDl3SEx5U0ZHdHJOUWdwYnFCRHFpdmhzZkV1ekdtcXJBbTZWNDJ3OFEzSXJTcXhjeWVQeWhlTkp5Z2h3QWRvU2VRSk9UVk50VjBBcXpZNEJuRmtfRWpkYW5qSkkzR3hXbm1HZ19ja1NfRzh5WkQ3SUc5bU12bklxQVNKZTlIVEtWNzRvYklieTNESnBTdEJDQVVtZ2xTcTlUSlpjODBOcNIBwgFBVV95cUxQNWJlNVZMb3JyYlB3aUJZNEk1ald6bWJxUUZRZklVR24zVVh6d3RvNmZ3dHJVaGVTR25KZm9ZOTktRzZjb0dLVmh6VjluTVNDbVV0Q19WSm1GaThTUUNja2kxMW5zOU5SRTg2QWFkaWpsQnM0QzJNSHFjc1VDUTFoMXdadkRkUVI3MF94dkZBc1k1YnpCV2kxdFFleHJKYm15NWFYT3NjREpFaDZNMFlSajVfN2FoczEyS2tLVHhsMXlWQQ?oc=5",
-     "r": "detikcom"
     }
    ],
    "v": {
@@ -357,13 +357,13 @@
      0
     ],
     "g": [
-     3,
+     2,
      2,
      0,
      0,
      2,
      4,
-     2
+     3
     ]
    }
   },
@@ -471,9 +471,9 @@
      "r": "Kompasiana.com"
     },
     {
-     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan Halaman 1 - Kompas.com",
+     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVENvQ2Z0Z2ZrVW5JdkxhZVRRYkN5RDU3YTRRNnVFUUU4SWwzd19sRFpCUmZ2S0RScGN1ZDQ4VWVibWZfcExFMGhWOEg2WEJoWXVBNTdiLXlPNHNvNzF4WWlfVFZMSXVCU19uMGtUbTNQZUJPX0VCTlVWS0ZqSFZNajB5a1BmRU5EX2tSSW1uYkdkTnB0NWotLU1hTGVyX2RxSHR6V0lXQ2N2NEx6d0plYVhiU3gxazBibFBiUm1sUXBkMUpkQVZJ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1c0dS1NcEpOUlhYUHBpODNRQkliM1ZoTTg3NFF6czFnMHdIX2ZyTDhoek9NaC1Da0dQcWxwRmRhaE1UN3JZVTlXZnhnMGVDVUlzT2xNa1VENFBjMVRlTlgzOGw3MUplX05fVklXZ1VubUVtTEdEMUtIMlNpOUIyRzdWdGhiRExobFpkZVJ4SzQ2YTJxY08tSVVTOW5DUS1MOFB2TjFhZUc3LVNweWl0b0tJMlJPRFN4QjlSZEJ3?oc=5",
      "r": "Kompas.com"
     },
     {

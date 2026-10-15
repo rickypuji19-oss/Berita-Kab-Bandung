@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:22:05.649664+07:00",
+ "updated": "2026-10-16T01:19:51.643745+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   30
   ],
   [
    "Kompas.com",
@@ -161,16 +161,16 @@
    ],
    "h": [
     {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
-     "r": "Disway"
-    },
-    {
      "t": "Kadisbud Kabupaten Bandung Irvan Ahmad: Perkuat Sinergi Melalui Rakor Kebudayaan - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk4zOVA0STcwZDBDNGhNMk9mWWJwejhiY25vRmxkS29qVXN4eF9lNUt5NkZQbFp1X3BrSXBVNHVNWXFuaHg3UXJBN3JRcUFzQU9iZnZEVG1aRG5kVmVScTJQejFVS3hRdFpsV3l2RTNORzBwTVB3ZDVKLV9zRldPYmJ3bEczb2ltbEhodE83SERqM0FJWC1rRHlKUWI1NUw3UElIT3pVbVlyNTZkX2c?oc=5",
      "r": "deJurnal.com"
+    },
+    {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMNIBywFBVV95cUxQcktjTnJIMWx2YWJOeUtnaVNFcF9ia0ZFUGUxcjFUb2lwZkl4a2FfaWFHLUxTN2pFWjJOdWcwaGZGSHVtY2t2ZDI0bWYxRmNTZlRnOVZCblduakJ6eTZ3WVlrQTNvLVdiYlBCSlNfdkhBWFFxV0VaXzhnOENkTTU1WnJlRDFIbVdrRmRJQ0xvbGhOdndObGdUVWdUYWw0SU91cG1Oc3hvaENsM2VScFkxVGx6SVFZbEV1cjVWOW1wYkN1U1FUelBvSEZjMA?oc=5",
+     "r": "Disway"
     },
     {
      "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
@@ -317,18 +317,24 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX1Y0V3E2dTBhOWtVYXBqdlNlRWgtQlRNM3ZMZ2I5QTZ0SE5OQzlaZFAxQnFRaUt4VWJLemdRMzBrSWh2RXpBQU96SldxRWVwNElFUEtWeUtZWnZCSENoN1JnRktteTA5eWFrLUYzWjltcHVyU2NZcjM0R0RMNnBKeFdPZXpOLXdvcmtwMU1RcTUzeTdXNkE2S0JZN0MzcEh6TTJUNnJPVTQ1MUMwU2JGMHJZWmw0MXhIQlA4WXFkX2VMemZHaHNtZmhETFFqRlpVNjVqclo3a2Q4VEc5bTJCMVhxLXVCb3pqMXdqdDM2SUg0aFVudkRqVmY1UktUeXfSAf8BQVVfeXFMTV9WNFdxNnUwYTlrVWFwanZTZUVoLUJUTTN2TGdiOUE2dEhOTkM5WmRQMUJxUWlLeFViS3pnUTMwa0lodkV6QUFPekpXcUVlcDRJRVBLVnlLWVp2QkhDaDdSZ0ZLbXkwOXlhay1GM1o5bXB1clNjWXIzNEdETDZwSnhXT2V6Ti13b3JrcDFNUXE1M3k3VzZBNktCWTdDM3BIek0yVDZyT1U0NTFDMFNiRjByWVpsNDF4SEJQOFlxZF9lTHpmR2hzbWZoRExRakZaVTY1anJaN2tkOFRHOW0yQjFYcS11Qm96ajF3anQzNklINGhVbnZEalZmNVJLVHl3?oc=5",
      "r": "Radio PRFM"
+    },
+    {
+     "t": "UANG BUMD HILANG? Bupati Bandung Dadan Curhat ke Dedi Mulyadi Soal Kasus PT BDS",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=ipUQFdufrUc",
+     "r": "YouTube TRUE STORIES CHANNEL"
     }
    ],
    "v": {
     "s": [
      0,
      0,
-     0
+     1
     ],
     "w": [
      2,
      22,
-     9
+     10
     ]
    },
    "trend": {
@@ -351,7 +357,7 @@
      0
     ],
     "g": [
-     0,
+     2,
      0,
      0,
      2,
@@ -408,8 +414,8 @@
      6
     ],
     "w": [
-     6,
-     6,
+     7,
+     7,
      19
     ]
    },
@@ -429,7 +435,7 @@
      0,
      2,
      1,
-     3,
+     4,
      0
     ],
     "g": [
@@ -491,7 +497,7 @@
     ],
     "w": [
      3,
-     23,
+     22,
      4
     ]
    },

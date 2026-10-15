@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:21:13.279899+07:00",
+ "updated": "2026-10-15T14:31:25.454132+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Kompas.com",
-   24
+   23
   ],
   [
    "RRI.co.id",
@@ -31,15 +31,15 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
-  ],
-  [
    "Ayo Bandung",
    6
   ],
   [
-   "PPID Kab. Bandung",
+   "ANTARA News Jawa Barat",
+   5
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -47,11 +47,11 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "PPID Kab. Bandung",
    3
   ],
   [
-   "Disway",
+   "Radio PRFM",
    3
   ],
   [
@@ -63,7 +63,7 @@
    2
   ],
   [
-   "Radio PRFM",
+   "Disway",
    2
   ]
  ],
@@ -117,8 +117,8 @@
     ],
     "w": [
      5,
-     18,
-     8
+     19,
+     7
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     0,
      6,
      2
     ]
@@ -193,7 +193,7 @@
     ],
     "w": [
      2,
-     9,
+     8,
      2
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     11,
+     10,
      0
     ]
    },
@@ -280,10 +280,10 @@
     "p": [
      0,
      1,
-     1,
+     0,
      0,
      1,
-     0,
+     1,
      0
     ],
     "g": [
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "2 Pelaku Curanmor di Sadangserang Bandung Dibekuk Polisi, Sajam hingga Narkotika Turut Disita - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVJZMzR1VWRBX0piV0QxbHlwbnJVWXZnYzl3MmxHTEh6YkNlekVxaVc4OGFERmFXakR5Sk9ka0hiZUZqR05ieG1Rc1FSREE0aFhidzRkV2swLWs0RlBROGF0TExNeXZ2dmh0T0xRVUpnRmQyam1XYU9HY2Nvdk9WaEsyM2RCdWx3dXJoZkg1Zkt2b1F2TVRtdVkzM3JIVk5UaGxEblZTV0lZNkxxbUhxVTZkcWEyc2F0aVBkZTQ4cFpRM0V5WlJpbVozTUpZT0ZKTjJKRXg3X1RvYUU?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Viral Pria di Margaasih Ngamuk hingga Bikin Balita Terluka, Polisi Dalami Dugaan Judi Online Penyebabnya - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX1Y0V3E2dTBhOWtVYXBqdlNlRWgtQlRNM3ZMZ2I5QTZ0SE5OQzlaZFAxQnFRaUt4VWJLemdRMzBrSWh2RXpBQU96SldxRWVwNElFUEtWeUtZWnZCSENoN1JnRktteTA5eWFrLUYzWjltcHVyU2NZcjM0R0RMNnBKeFdPZXpOLXdvcmtwMU1RcTUzeTdXNkE2S0JZN0MzcEh6TTJUNnJPVTQ1MUMwU2JGMHJZWmw0MXhIQlA4WXFkX2VMemZHaHNtZmhETFFqRlpVNjVqclo3a2Q4VEc5bTJCMVhxLXVCb3pqMXdqdDM2SUg0aFVudkRqVmY1UktUeXfSAf8BQVVfeXFMTV9WNFdxNnUwYTlrVWFwanZTZUVoLUJUTTN2TGdiOUE2dEhOTkM5WmRQMUJxUWlLeFViS3pnUTMwa0lodkV6QUFPekpXcUVlcDRJRVBLVnlLWVp2QkhDaDdSZ0ZLbXkwOXlhay1GM1o5bXB1clNjWXIzNEdETDZwSnhXT2V6Ti13b3JrcDFNUXE1M3k3VzZBNktCWTdDM3BIek0yVDZyT1U0NTFDMFNiRjByWVpsNDF4SEJQOFlxZF9lTHpmR2hzbWZoRExRakZaVTY1anJaN2tkOFRHOW0yQjFYcS11Qm96ajF3anQzNklINGhVbnZEalZmNVJLVHl3?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Polisi Amankan Suami yang Ngamuk hingga Lukai Balita di Bandung - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnBESmlnZmJuTjNaRmVWMFNRYjJaTDl3SEx5U0ZHdHJOUWdwYnFCRHFpdmhzZkV1ekdtcXJBbTZWNDJ3OFEzSXJTcXhjeWVQeWhlTkp5Z2h3QWRvU2VRSk9UVk50VjBBcXpZNEJuRmtfRWpkYW5qSkkzR3hXbm1HZ19ja1NfRzh5WkQ3SUc5bU12bklxQVNKZTlIVEtWNzRvYklieTNESnBTdEJDQVVtZ2xTcTlUSlpjODBOcNIBwgFBVV95cUxQNWJlNVZMb3JyYlB3aUJZNEk1ald6bWJxUUZRZklVR24zVVh6d3RvNmZ3dHJVaGVTR25KZm9ZOTktRzZjb0dLVmh6VjluTVNDbVV0Q19WSm1GaThTUUNja2kxMW5zOU5SRTg2QWFkaWpsQnM0QzJNSHFjc1VDUTFoMXdadkRkUVI3MF94dkZBc1k1YnpCV2kxdFFleHJKYm15NWFYT3NjREpFaDZNMFlSajVfN2FoczEyS2tLVHhsMXlWQQ?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Kasus Teddy Darmansyah Kembali Disidangkan, Kerugian Disebut Rp 19,4 Miliar - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVA4cmQ2LWhnZjJZU2NnR0tqRmgwTDl0R3hYUXJucVNlZHVrLUhlTW5VZkhwa0J4ZTdGVUhtS0lWWUFrcHNaQUFpeEd5MWFZZzhXVzc3cWhxelU5bDQ5Ykh2Zm1abjVVRVVja25pXzBvanZJZHc5Y1JiT0RXOFdLc2lhaWx0eEhnRnNJcGJzemZCVzRkVzZSOUt6U2JTSEFkb1JmOGRLbWtwbEk3Mk9sVGlGWXhSdVA0eVVzRjRtdm52SG5Z?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Umuh Muchtar Kelelahan saat Saksikan Persib Bandung vs Viettel FC, Dipapah Kapolresta Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakRtbG1kei1OS3JtaWxSU1R0V1BRSmxNZzlCZWRrN2FMYVZtMjhHVlRUV2h1ZUVEeVBQQ1ZxTWFBZDhGTktaek1RTnVjb3FfRV9xSVhQQ0dlcWhfV2plTXZLcnFHY201MjYtR0FCajFycGxMWVpUaktRSTV1YkJYeGxLQnR6T3BmRFU4TU0yZU9YS3o3dGRUcTFBcXZQTzJ5M2hNWkpLMnJoa2tDT3dkQmc1dkhDN3JGSHNoY3lUUW8wdUtjU3lhNnVCNkdlNU5hb2xVQThB?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     22,
-     15
+     23,
+     13
     ]
    },
    "trend": {
@@ -357,13 +357,13 @@
      0
     ],
     "g": [
-     6,
+     3,
      2,
      0,
      0,
      2,
      4,
-     1
+     2
     ]
    }
   },
@@ -416,7 +416,7 @@
     "w": [
      4,
      8,
-     20
+     19
     ]
    },
    "trend": {
@@ -440,7 +440,7 @@
     ],
     "g": [
      0,
-     2,
+     1,
      1,
      5,
      3,
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi stunting pada remaja Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWU3b2RhakRvWFRPeS15ZGkwZkJUSnFSeldNX1BYZkw1cGktcVdaczBMeU9QSEhRUXdJdDZhY0dPOUJFZFdqaDFEMFlzN2JqbnhHWlF1UVdMWlpKdWpZ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Resume : Giat dan Langkah Perjuangan Paguyuban PPPK Kabupaten Bandung Halaman 1 - Kompasiana.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdnMyVkZaWDFBVzhDdXhYUGdJR0xaSnIwQzF0SWVoX1JkOXRDSm9WVm5CbVJZTUVzWXEzbHRZUzhuT0JIYjVkaXNCZjAxT0dYbXZuVDlSTHczTE1oeDg2TzQxNy1fd2V0RlJ6SzJPRTNZZXE1US15dm5idjBRNFE0Y1kyS1k1Tng1RTBmUWNEc3VrMGM5a2RaQzBISUhEQmdUdFgzSnZxY3hDbnlMalVldGJ0TURtSWxIaGtlVUxnZGphcFFzcWZ0YjRxNHNYbE9y?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVENvQ2Z0Z2ZrVW5JdkxhZVRRYkN5RDU3YTRRNnVFUUU4SWwzd19sRFpCUmZ2S0RScGN1ZDQ4VWVibWZfcExFMGhWOEg2WEJoWXVBNTdiLXlPNHNvNzF4WWlfVFZMSXVCU19uMGtUbTNQZUJPX0VCTlVWS0ZqSFZNajB5a1BmRU5EX2tSSW1uYkdkTnB0NWotLU1hTGVyX2RxSHR6V0lXQ2N2NEx6d0plYVhiU3gxazBibFBiUm1sUXBkMUpkQVZJ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Buku Bantuan Tiba, Budaya Baca di Sekolah Lereng Bukit Makin Menyala - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObU1mQTUwR0lLQzBtekZhdDZBVVRqQVJCeE44NjVqSFJZY0V1Vlhqak9uVG1Fd0FiS1owaC0taUU2MmdCd3lJUndZTlU5bC1FTjJtMWY4Q0JXWlVvNHR3ZFhfSGItMldNcTAtdU4xakVFRzdIaHVDei0za0doRkdJWUVVZ25wWmNKdU5uVU5EdzROV2JTcFF6N2V0aGV0R3ZESEFMSUxhS1BLTXZ4RTJuMA?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Analisis Kebijakan Publik & Reformasi Birokrasi Pendidikan",
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     21,
+     22,
      5
     ]
    },

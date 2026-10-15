@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:16:50.703379+07:00",
+ "updated": "2026-10-15T07:15:07.079670+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   27
   ],
   [
    "Kompas.com",
@@ -192,7 +192,7 @@
      0
     ],
     "w": [
-     2,
+     3,
      10,
      2
     ]
@@ -211,7 +211,7 @@
      2,
      0,
      0,
-     0,
+     1,
      1,
      0,
      0
@@ -243,16 +243,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Buruh Jabar Siapkan Aksi, Tuntut Kenaikan UMK 2027 hingga 9,5 Persen - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEZhdG9LQ2c4THgxcXhrRnBzVlNmYlRzY1JqVTFpQzBxSXlObmk5YUNwclpUdS1ncEVBRjlhcjh1U2xGcElqbzFJQmgyb0h2aGNRcWVleG8wSWw0cHpFUnRPWW9tYmF5ZkhubmM4WUI3b2lLVzdPcUVScHpmVW84WEtQVHFSSHBobmN5dk1lQzBQbkN3R1BIcU5Wa2RWNFlKdFgxUG4wLXBDZU84b1luaXdKVVVhSU93?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "IKU Kab Bandung Belum Capai Target, Emisi Kendaraan dan Industri Jadi Sorotan - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2NmeDZxUWEyZV9IeTBQc1UwZ2hXTk9seFVYNjFzNnhzUzNWUGJaY01ELUlFQUNZNTg2NzhWU2RmRVUwcDRhTFRxYzMwVVRIamtZMmc3czl3RTZJZGh5ZkZDXzhTUnR3bk9pVlQ5aTFDOVNoUE82RmVOWnh4TU1QWTRDbnBVM282RzlMSnVoZEkwWVFxMkFQRlFLSUhuVXR4ajRLbkNvWmVtSHJUYzl5MHpkdF84cE0?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Berita Ekonomi Bandung: Pasar, Bisnis & Keuangan Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dzNRNzl3UHR5SV9TVDFNZUprU0JmdFpoMkh1cWcyTGNVd0F0RnlSWFdXeHR6VTduVHZKWFJpZFFFRUJCUWlMOGxzVWo1WXdINVVuRzFDT01EVkV3UllJUU43alA5YmxhTHc?oc=5",
+     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      0
     ]
    },
@@ -439,11 +439,11 @@
      0
     ],
     "g": [
-     1,
+     2,
      2,
      1,
      5,
-     3,
+     2,
      10,
      1
     ]

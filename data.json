@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:18:56.010833+07:00",
+ "updated": "2026-10-15T11:20:03.808352+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,6 +23,10 @@
    12
   ],
   [
+   "jabarekspres.com",
+   9
+  ],
+  [
    "ANTARA News Jawa Barat",
    8
   ],
@@ -32,10 +36,6 @@
   ],
   [
    "Radar Bandung",
-   6
-  ],
-  [
-   "jabarekspres.com",
    6
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Maksimalkan Potensi Energi Bersih - republika.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEswNmdibmF4ZTdsZlNycWRKdVl2akppdHFTLThHcHBpbTRuclk1bW5sUGlqQm1GaDhGeEpoSnROdlRaSkllNFRPQW41RHl4Tk42UHRFU1Z2RUpjSEdNSy1hME52akNJQmllck5peVRrYmw0MzRyVjNveldwQVl1SG1LeWg2UUNHcjV5R3NadzQ3Q2JuTHgwczVwYzJpUQ?oc=5",
+     "r": "republika.co.id"
+    },
+    {
+     "t": "BKAD Kabupaten Bandung Garda Terdepan Pengelolaan Keuangan dan Aset Daerah, Yana Tegaskan Peran Strategisnya - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFJnVmJCdzlhWFRwWjlyTjlFTEZlYnVTVFJ0WWxHRGNuSWpQYWhEdUdOMmkxY3pacmdwcEtDOXJQUkpMLUotWkk4U01aY0hORGZuRlphVVhyQVBoakJJRjJtV3J0MzVDZFVxeXgwOFVJbWxrb3RwTDZWZzFlZDc5YXFJQzVzNFB1bmdhTkFhY1Robkd1NmRZQ0RHcFROUDUwVVozWGJtanQwMXM3WWc3QURvRTc4TlN0eDdPWFJ5bHJYUEFjYjhlazlZeURlZTVfZ1g4QXhkMFRmWlJmZGk2QjRXa1l0bzdDRWszaUtXX2RwS2FkOFo4T2JHZUEyNmR4bzBF0gGDAkFVX3lxTE1EUmdWYkJ3OWFYVHBaOXJOOUVMRmVidVNUUnRZbEdEY25JalBhaER1R04yaTFjelpyZ3BwS0M5clBSSkwtSi1aSThTTVpjSE5EZm5GWmFVWHJBUGhqQklGMm1XcnQzNUNkVXF5eDA4VUltbGtvdHBMNlZnMWVkNzlhcUlDNXM0UHVuZ2FOQWFjVGhuR3U2ZFlDREdwVE5QNTBVWjNYYm1qdDAxczdZZzdBRG9FNzhOU3R4N09YUnlsclhQQWNiOGVrOVl5RGVlNV9nWDhBeGQwVGZaUmZkaTZCNFdrWXRvN0NFazNpS1dfZHBLYWQ4WjhPYkdlQTI2ZHhvMEU?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Atasi Banjir Bandung Raya, KDM Siapkan Danau Retensi Hingga Normalisasi Sungai - rmoljabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JmX21KYnlfcEtBZTFycWZuTTZHRjJuVXNqUFl5clJVOElxSUMwTF9tUEgwNEtra3c4VEdIYWJ0Njl1U0t4eDMxNkIyNkUzaXNJTVlhOUNfRW91TlM1LXdoZUdudWhQdWpVcEpvb1ZXWTVna001Z3RGTzhsaWxnY3BSQ2hvQzNnYjdEOVlDeUpIUUc2STRPbFBqYkhkYlhldUJiSg?oc=5",
-     "r": "rmoljabar.id"
-    },
-    {
-     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
-     "r": "rmoljabar.id"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     5,
-     18,
+     6,
+     20,
      8
     ]
    },
@@ -138,7 +138,7 @@
      1,
      0,
      5,
-     0
+     1
     ],
     "g": [
      0,
@@ -192,7 +192,7 @@
      0
     ],
     "w": [
-     3,
+     2,
      9,
      2
     ]
@@ -211,7 +211,7 @@
      2,
      0,
      0,
-     1,
+     0,
      1,
      0,
      0
@@ -237,22 +237,22 @@
    ],
    "h": [
     {
+     "t": "Wujudkan Ekosistem Perkotaan di Nusantara, Otorita IKN Teken PKS KPBU dan Investasi Langsung Swasta Murni - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSndSZXc0WGE5ZmZrMWIxRUk3WUduSF9lUlZIMHBqQXhVUzFCaDF1UVh5dVVlam9XY1dkVzJoSFpheWUxZlEtdUc1YTl1LXJVSHBpSmNMNnNZaXJIMnNNTTFhOENQX1hFUzdZRzJaYklESlNveTluY3VwSTlpQmwwS2FQRmp2NHpBUEpjeG1CTEFNZGxMM2tJeGRZV20ya1A0Nk5TdFZ4anRjUEtoQUlDTmNHcGxsam1qQTdLWjRTSzE5WU1teWdYZ2d3akJPVFlMYUhPd0ZvUGlRV1M3Szl1eHdR?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Harga Mahal Kemenangan Persib Bandung atas The Cong-Viettel FC, Sang Kapten Harus Absen Satu Laga - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0psWmpTeFBWSm5qMmpPS3lOQWlCdFFMWmtVQ0ZUX3B0QTlSSER1a2pxSlRyNFl5WnNjOGZMV0xyWDBMcUUtVk4tWEsxSjRZOHZZbGlWTGdGRTNSU1dlVWtPbGVuYTJyU01YU09nWnpTM21sSmVnREpjdlZUZkoxNXlfWkg3cGRKbXkwU2ZfQjdORVIzX3M2SFdvMkVDLXV3dTVpVThwdjE4S3BTLW5vNGFNVFNOQ2xKa1FUR0VxTDNuUkFZWndMd3VoRVdBR3NMQ1pkdFh6OTJrWm8?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Aksi Buruh Ditentukan KSPI Daerah, Ini Tuntutan soal Upah Minimum 2027 - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGJqY3pNZmlNeUFJNmpJLU93MUF0SzNEX3FiMC12NTF2Zzg5WXZRc3RWQlNQS09Ib1duVW4xYVRMTkI1d25DSWhsNnZLWWVFQ1FIeUJKcnk2YjRMaVFkcjFkYWZ6OEdnLVdwX1Y2V3lVODNxS1ZsQmpURURMWk5mLVRlRzhhakV0N210dW1sak1lbkloMTh6emg0UmhhNWVJMlMwN093MHV6LVhRb19jT2RHajhUTlpUcEJKMQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Buruh Jabar Siapkan Aksi, Tuntut Kenaikan UMK 2027 hingga 9,5 Persen - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEZhdG9LQ2c4THgxcXhrRnBzVlNmYlRzY1JqVTFpQzBxSXlObmk5YUNwclpUdS1ncEVBRjlhcjh1U2xGcElqbzFJQmgyb0h2aGNRcWVleG8wSWw0cHpFUnRPWW9tYmF5ZkhubmM4WUI3b2lLVzdPcUVScHpmVW84WEtQVHFSSHBobmN5dk1lQzBQbkN3R1BIcU5Wa2RWNFlKdFgxUG4wLXBDZU84b1luaXdKVVVhSU93?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "IKU Kab Bandung Belum Capai Target, Emisi Kendaraan dan Industri Jadi Sorotan - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2NmeDZxUWEyZV9IeTBQc1UwZ2hXTk9seFVYNjFzNnhzUzNWUGJaY01ELUlFQUNZNTg2NzhWU2RmRVUwcDRhTFRxYzMwVVRIamtZMmc3czl3RTZJZGh5ZkZDXzhTUnR3bk9pVlQ5aTFDOVNoUE82RmVOWnh4TU1QWTRDbnBVM282RzlMSnVoZEkwWVFxMkFQRlFLSUhuVXR4ajRLbkNvWmVtSHJUYzl5MHpkdF84cE0?oc=5",
-     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     9,
+     11,
      0
     ]
    },
@@ -377,22 +377,22 @@
    ],
    "h": [
     {
+     "t": "Multifungsi di Lini Serang, Peralta Siap Jalankan Semua Instruksi Pelatih Persib - jabarekspres.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2pyRkd4UXNDTVphNEt5NzVUQW90LTNuR3dja1VCd2puUXA2R01td0d3cENGd3E3TkxTdXJVZEh1ZlRCS21LQnUya25BV0s4Mm5kMVZXLTgtRmhrU3Vud1l3OGNBMWt6U1JEV2Q0QWc2Qlh5SElhQzlGWlpFWlRaUHkxMkdCNmtDNFVXOFdocDVJd1phWGhHNWstcjNQV1V1YXkzOWJHRFFwWXkybVhGV0lLYjJncGpVWjJfTjNpR2o?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Kemacetan Akibat Proyek Jembatan Munjul 2 Bandung, DBMPR Jawa Barat Buka Suara - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTRxaU9KU3lrZ1lVUmpGMTRzV1NLUkV0eVN6czlOc3l5d1FST2ljcHhyem5leVUwWDFYRy1BNUR3S0NSVDRZdWlXRGJrbDE1bEl2Vlhmd0Z1Qll6SmZLeDA3MGZUanNTbFNBREd6RUZuWG8tWVFuaU1rUWozWllCLVJoNDJRUm4zdnU0SURWYmR5VFctUXNBMzI1VnY5T2ZWTWJXNGg5RVNiODN0U0RvT1h0T2hCZDY2aHlpRFVHNjFaZw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Danau Retensi hingga Sodetan, Ini Rencana Penanganan Banjir Bandung Raya 2026-2027 - Pikiran-Rakyat.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRkRHMFBLNFhpa1ZaeEZqbV9tcGROREhtOGI0dmE5LVFoWjlHLXM5NDZHUVZkUmY4aktkSmhMMU8yblYxR1V0TUNZeTB6NUdjUEl1eV9WeDdBQnZuQy1EM2JzcEZob05rQTFtdk1ZS2llNEotay04VkZXaklWb1hxNlI2ZmlNaGk2Y0VZazVvMW5KMXgzSjF4MTEwclRDanNEVGJjZGNPZlZCbTBlSWlkalFqejBpNWdVY2h5cmdmYkFSU05Mc3JvTUhoRdIB0AFBVV95cUxQNHpYUWtPVGpPMWtIWUFKTG90dWN3OWhkWV95YVBQb2g3TVJvdWVvSlBtNXBOa2lPcmdRREl0Xy1UcEx0YW1wX1d6MnB0OE1nYmhCN1JtM2h4aFh5LUdBMzR0dEpyQUdXWWFwRWlfcUtGWVdmVGp6QXVHRnJueWJKOThveWtsQXh2X29ocTN3a3JuVE1UTUhOdHJFbFRITGE4bndLZzBiNWc3VlJpQXV6UWRfUkZuRFpldVlVRk5sc1V3aTk1MTF1S1F0YkVoTWpM?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Tundukan Cong Viettel, Peralta: Persib Jalankan Rencana dengan Sangat Efektif - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEhlelBBcVMwSFJ2RmEyTXlzQm5aMXZ1WnplWjJFeTk3cC1EMnhURFlsNGJpVS1zMUZyMXNnc2hneDdycXBsZzVCWDUwQXJBbkNvTDlOekY4eTNDS0dpMkl6N1JrUHJVcG1CdmpRRFdiVXFYaTJncTBPUXY5YVVQTWgzMWZnelFwdHFabU5pT0M2ZlRmZUJOUnlLdHNtRmtfbDg3T2JQU05VcVkzeGc2c1V3T21WWnNLbGx4Yg?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "TERKINI! Drainase Jalan Terusan Bojongsoang Mulai Beres sebagian, Benarkah Banjir Bakal Teratasi?",
@@ -414,7 +414,7 @@
      5
     ],
     "w": [
-     3,
+     4,
      9,
      20
     ]
@@ -436,16 +436,16 @@
      0,
      2,
      1,
-     0
+     1
     ],
     "g": [
-     1,
+     0,
      2,
      1,
      5,
      3,
      10,
-     3
+     4
     ]
    }
   },
@@ -465,9 +465,9 @@
      "r": "Kompasiana.com"
     },
     {
-     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan Halaman 1 - Kompas.com",
+     "t": "Foto : Pemprov Jabar Bentuk Tim Pemburu Anak Tidak Sekolah, Desa Dilibatkan - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVENvQ2Z0Z2ZrVW5JdkxhZVRRYkN5RDU3YTRRNnVFUUU4SWwzd19sRFpCUmZ2S0RScGN1ZDQ4VWVibWZfcExFMGhWOEg2WEJoWXVBNTdiLXlPNHNvNzF4WWlfVFZMSXVCU19uMGtUbTNQZUJPX0VCTlVWS0ZqSFZNajB5a1BmRU5EX2tSSW1uYkdkTnB0NWotLU1hTGVyX2RxSHR6V0lXQ2N2NEx6d0plYVhiU3gxazBibFBiUm1sUXBkMUpkQVZJ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1c0dS1NcEpOUlhYUHBpODNRQkliM1ZoTTg3NFF6czFnMHdIX2ZyTDhoek9NaC1Da0dQcWxwRmRhaE1UN3JZVTlXZnhnMGVDVUlzT2xNa1VENFBjMVRlTlgzOGw3MUplX05fVklXZ1VubUVtTEdEMUtIMlNpOUIyRzdWdGhiRExobFpkZVJ4SzQ2YTJxY08tSVVTOW5DUS1MOFB2TjFhZUc3LVNweWl0b0tJMlJPRFN4QjlSZEJ3?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     23,
+     22,
      5
     ]
    },

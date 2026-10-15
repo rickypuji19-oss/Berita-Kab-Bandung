@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:32:31.239181+07:00",
+ "updated": "2026-10-15T21:24:04.940770+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    33
   ],
   [
-   "Kompas.com",
-   21
+   "RRI.co.id",
+   20
   ],
   [
-   "RRI.co.id",
-   19
+   "Kompas.com",
+   20
   ],
   [
    "detikcom",
@@ -24,23 +24,19 @@
   ],
   [
    "jabarekspres.com",
-   9
+   10
   ],
   [
    "Ayo Bandung",
-   7
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   6
+   8
   ],
   [
    "Radar Bandung",
    6
   ],
   [
-   "Disway",
-   4
+   "ANTARA News Jawa Barat",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -48,6 +44,10 @@
   ],
   [
    "Satumedia.id",
+   3
+  ],
+  [
+   "Disway",
    3
   ],
   [
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Galamedia News",
+   "Ketik",
    2
   ]
  ],
@@ -79,46 +79,46 @@
    ],
    "h": [
     {
+     "t": "Suhendar Siap Wujudkan PWI Kabupaten Bandung Yang Solid, Profesional dan Menjadi Rumah Seluruh Anggota - Sinar Pagi News -",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZwdVMtZ2RTOUNRamtpQVJZdW1pbFpRZzFkZWI5VUNQTE5iSTU5Vnh6ZW5neW9PWENWY25IVGRPNkl2TnNCaHNHMjZsVlZDN0FYRzItekEwVkhuWVdqMkhpeVpORDZvS1ZzdWdkQmRQQ2NTdXEzMVRFSC1ET3gzSTdONTRtT0dCVnhxMDItQV9mZXpIQ1Zwb2gzb05Fa25RZ3c0Nkk5VTFiSE56blZEQ1ZJUTNEa00tMlhuc2F1aURacnRqT2Fv?oc=5",
+     "r": "Sinar Pagi News -"
+    },
+    {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVgyVHNNeDNmMFhMbnVKRWNHTXRaRTF5TEdpbnRBZkgtTm8yOENncTFHQ3NRZkRZZ18yYVYxdkZaMmtVWWlfeG5tODE0TlZ0LUY0ZjY0d2xVdVpleE9VaG5FenBpTnM1R2ZFRWpWU2dSOU9KYUtWRjdfUHY1ZzR4TTlJbXdVdXlQOEdFdFdFMHZWXzBqT2RoQWd5TXl2dE9zbWNIdzBLNDRhQVpQTVkxa2JER3I5cGRfLUd6YUItSUJDMUt0Y3JQSW83OTLSAbMBQVVfeXFMT3VFUDZSb1pucVJtaUNvVlk4Tm5UeGpUU2p4dGQ0UXF2cU1zdVFud2txXzI3RV9CWF9PT3p3Y0dNWHU3WVBMbzBiVFU4cVA4bGhLbzVmdkR6VzY3TDQ0Wlg2cDg1bzZUUVFRaFVyY0hWRS1JQmVNdU5uZ0NPdDlYR0FvWnV3WTFRSVk0U2JSSnFTd1NPamRzR3pWNmVzemI5TkxoTXZDaFVhS21LVWtuR2dvRU0?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Sekda Jabar Ingatkan Penertiban Bangunan Liar Harus Disertai Mitigasi Dampak Sosial - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakpoc0JSbDlYQmNNay1aV0Vhd3VPMFlKN2RteWs4eENQWkN3czdSd29MSTRLQUFNN1diMUJLZW5USXNYRG1xbDVOcGxEdDV6cG9UZHFyQWdHU296cTBmd1hFdkFReW1YRjNtN0s0U0xZQTdCdTNySkZ3RWVYX3RoaVVmYnNLYzNiaDk0bk9zdmpXcTVIM0U5UHdVa2NOM1JsRmhGVnhuMEhMZFFUdk5UUVVST25veENlMml4alk3T25CMG5LUEJSOVQ3bDVPRW8?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bima Arya Buka Suara Soal Wacana Gaji ASN via Kopdes - detikcom",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSncwQlZyb042Q1BnZ0tSNHpOMjhpc0g1TFFtN2ljRDlRZW9PMUdvQXBLTVZ4RXRONUZGWFRNeXgwMzl1d2c2WWNFdE4tc0ZRbFAtYXNWQ0h6VXgydzMwSE9GYVlyRlQtSkExbmZhY2YyWVcwSVJMbDRXQlRoOGlBQXhka3JENU1uTm1nV296VXVpeTh5ME5YRVFfenh6UdIBowFBVV95cUxOTjFoUTB0TWVMLTVCY1lwaDlrWG80ZnoxZ2g3bTV4TTA4T2ExLVV6U2hDcHpkZlk4SUJVYzhjaFZSX0VDVUpXeU9BbFhtTHhVbUpnWm9rSVJWTWtrYjIxRW9ySDI4V1lNcmlKUmZTazg2ZXc3cXd2aUYyemhZbGdVaUxJLXV2dDlsODdVal9ERE9GVDBTa3c5d2I0cmdJRWtUdnhJ?oc=5",
-     "r": "detikcom"
+     "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=B-8_fkm1WO8",
+     "r": "YouTube CCTV TARAJU OFFICIAL"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=tsQFTK4vmUc",
      "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
-    },
-    {
-     "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion Sijalak Harupat",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=Y7e4ulsg4Yg",
-     "r": "YouTube Kamanunggalan"
     }
    ],
    "v": {
     "s": [
      1,
      2,
-     1
+     2
     ],
     "w": [
-     9,
-     20,
-     7
+     11,
+     21,
+     6
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      1,
      0,
      2,
-     7
+     9
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     6,
-     2
+     5,
+     3
     ]
    }
   },
@@ -193,7 +193,7 @@
     ],
     "w": [
      4,
-     9,
+     8,
      2
     ]
    },
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVgyVHNNeDNmMFhMbnVKRWNHTXRaRTF5TEdpbnRBZkgtTm8yOENncTFHQ3NRZkRZZ18yYVYxdkZaMmtVWWlfeG5tODE0TlZ0LUY0ZjY0d2xVdVpleE9VaG5FenBpTnM1R2ZFRWpWU2dSOU9KYUtWRjdfUHY1ZzR4TTlJbXdVdXlQOEdFdFdFMHZWXzBqT2RoQWd5TXl2dE9zbWNIdzBLNDRhQVpQTVkxa2JER3I5cGRfLUd6YUItSUJDMUt0Y3JQSW83OTLSAbMBQVVfeXFMT3VFUDZSb1pucVJtaUNvVlk4Tm5UeGpUU2p4dGQ0UXF2cU1zdVFud2txXzI3RV9CWF9PT3p3Y0dNWHU3WVBMbzBiVFU4cVA4bGhLbzVmdkR6VzY3TDQ0Wlg2cDg1bzZUUVFRaFVyY0hWRS1JQmVNdU5uZ0NPdDlYR0FvWnV3WTFRSVk0U2JSSnFTd1NPamRzR3pWNmVzemI5TkxoTXZDaFVhS21LVWtuR2dvRU0?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Pengamat Unpas: Kenaikan Upah 2027 Perlu Disesuaikan dengan Kemampuan Usaha - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTVfSTEzOG96NjlXOEg3bjktekNYM09NbXFMQmY0emRGb3E1NEFuVmlhQlpSTDgtVGpvdFA5b0VNbWVrdGZPNDNCME1tU1I0bGpyVTJKbHpNLS1Xb0hTQTlZSXJsNWRGclc5dy1aYmNBVWdWcW5YMWpmcXpvY0RUV2RMaHk5c2ZRVk00UGJMTDlGZldYOC0yS3ozQWo0a0xCcHBSYXh4ejdHOU1GbnlXZTRxYjUxVGxhSE9OSldOalpPXzg?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0twdmNjRElQREdBckVnOUFXeUxfNEdYM09DOExMV1dxdmJXRnJ6T1RCaFBCQzVhMmxfZmZHU2xIT3FjdURJQ0tMZ0hRckdROWc1cnNUaDJOSThFYkNfb1lIZ0RhckZLUG5CRWlWR3A0cXZvRk04VDloRTY1ajh1SHBIM0p0Unp3SVN2QjZmRHBMR1FMVzhQekJZWWpUMFVIMnJCOXEzMTlhUjRncnYySncySTBjSVYxMWlWeGpldWhXcEN2V24ybzhGVXd3YnY1Tl9HdUZSM0FFanExZEE?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Tinjau KDMP di Padalarang, Bima Arya Terima Keluhan Ibu-ibu soal Stok Gas hingga Harga Barang - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHdmb1ZsMS1VUUJicE5DNk1XelhXS2pTSzBvU1IwSXU4MU5DVFdibThtSnR2RlA3cU5yMUt1WXFHUzkyVXJ4X01nZG9pbVlHc3h5bFVaTGFsSFhXLVZNVl9UMkd6UHVsd2Z0N3FTaW14b0swZHdETTM5YktfTlZyeFlHcUg3QVdGVWE4RkhlMUN0eDVYNW5kSC1pZk5TMEpDTTJEal9mdy1Ra1d6NXBKMzNTdlRhWmdzdHZwVlVhOGlkWjI1QTZNOVAzRWlQbndPbldaX3FXOEFGeFHSAeABQVVfeXFMT0VoX1FnNWprNFZYSGRhSWUwLUtOMGtfUlBETjlUWUN0aExJRVBFREJxbHJHWjRHMDgtWFgtc2RZWFhIQ3BQR3BiOUNWakRza3F5QXNBSTJLMWN3ZXZxX3Z2QmlPSWU0eHl6M3NGeDl6MFlqbFFJNWswTEhDOTRpeksyM1FZaFpEejlNWlhxeWdVekZFTU1jWU43ckFIRXhVZnVZaUF4UFlpOVI5ZVBqRHpDck5LbklXcE9iQXdzeEhHRVMyRnpGZlp6STFQdGRIUTV1R0Z5Nk9iQ0doLXdsb2I?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     4,
+     5,
      12,
      0
     ]
@@ -284,7 +284,7 @@
      0,
      1,
      1,
-     1
+     2
     ],
     "g": [
      0,
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     6,
+     4,
      8,
      19
     ]
@@ -434,9 +434,9 @@
      0,
      0,
      0,
-     2,
      1,
-     3
+     1,
+     2
     ],
     "g": [
      0,
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Ratusan Mahasiswa Poltekkes Kemenkes Bandung Bedah Operasional IPAL Cisirung - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVE5TzFabzBfVndPc0pDWld5TVJJR3RtUndNZXgzYVdXNTFoRnV2NmhYanZpUlZxRm1ibV9oYktacHEtWHc5bXYwSXE5TFpZcTZ0ZUxvYUFacktmTHIwZURyTHkyRjNNdWlzUEI5SG4zWHRCSGVvamFPX2RnM0U1RGNHNjJXWWRiclkzdk56TWhWZk1SbUJXZzE0UUkwUWtuZzg0ajhnVGxxaDdMSmtwcWRnc1NYWDdjTjFQRA?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Berita dan Informasi olahraga untuk kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVVV4aDZWenlNM3VwSWx4WU1ZRmphNkdyczRyNmF3UklMOW9heXBmMF94blhCME1ITFk1clZvM19ZZTJRQmJmTEI2NjZWWnhZMV9ELWVWSHBDZjkyWEJWUG1lTkhUZF9WbEctbE9n?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWU3b2RhakRvWFRPeS15ZGkwZkJUSnFSeldNX1BYZkw1cGktcVdaczBMeU9QSEhRUXdJdDZhY0dPOUJFZFdqaDFEMFlzN2JqbnhHWlF1UVdMWlpKdWpZ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Resume : Giat dan Langkah Perjuangan Paguyuban PPPK Kabupaten Bandung Halaman 1 - Kompasiana.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdnMyVkZaWDFBVzhDdXhYUGdJR0xaSnIwQzF0SWVoX1JkOXRDSm9WVm5CbVJZTUVzWXEzbHRZUzhuT0JIYjVkaXNCZjAxT0dYbXZuVDlSTHczTE1oeDg2TzQxNy1fd2V0RlJ6SzJPRTNZZXE1US15dm5idjBRNFE0Y1kyS1k1Tng1RTBmUWNEc3VrMGM5a2RaQzBISUhEQmdUdFgzSnZxY3hDbnlMalVldGJ0TURtSWxIaGtlVUxnZGphcFFzcWZ0YjRxNHNYbE9y?oc=5",
-     "r": "Kompasiana.com"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,7 +497,7 @@
     ],
     "w": [
      2,
-     23,
+     25,
      4
     ]
    },

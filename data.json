@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:21:30.405506+07:00",
+ "updated": "2026-10-15T16:22:03.550900+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   31
   ],
   [
    "Kompas.com",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   19
+   21
   ],
   [
    "detikcom",
@@ -24,7 +24,7 @@
   ],
   [
    "jabarekspres.com",
-   8
+   9
   ],
   [
    "Radar Bandung",
@@ -36,18 +36,14 @@
   ],
   [
    "Ayo Bandung",
-   5
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
    "PPID Kab. Bandung",
-   4
+   3
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -55,15 +51,19 @@
    3
   ],
   [
+   "Satumedia.id",
+   2
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   2
+  ],
+  [
    "rmoljabar.id",
    2
   ],
   [
    "Bisnis.com",
-   2
-  ],
-  [
-   "Disway",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Usulan Bupati Bandung ke Presiden Prabowo Berbuah Jalan Mulus Ciwidey-Gununghalu - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFo1bnlWT21vSmZGT0U4WHgtUTRUWVFFZGNxelBUWHdCMWFydFplWG9FaWdYTFlOcDVLUEVoZ0hjWWhGcWZ0UWhvUThWRVpmZGV3QklQMlI3bUh1NmZDSDZTTGtRVkhwNnp2d2JWZDdFeXhmQW5nNGIxVmZ5ZDRWX2dvcHNXdXVDcXlPTllHcHk4bWNKbzlkSlRrV1RPRjc0SG5hcnhnX0p0Wmh2UmpidnlTV3MwTFVy?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "ASN Pemkot Bandung Dipecat usai Lakukan Tindak Asusila Kepada Siswi Magang hingga Hamil - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmhvQnNzcnRSTUt0c0JyRGNLaDNoVnVmLTBvdFFuQnE2ZjdBenM5RDMzNjU0STZXUkhZV3JYNkxnclBkVnFJOGMtM3N0T2tQMF9fN0xySnZEdExmR2JSSzNUQUdzN0ZaWjNhN0dZRVRDcDhfRTFubHJkSkJnRmxRaXZFWVJsUjR1aVIySzAtYlNJUVRDVW4wV3JiSi1wSWxWdy03YTE1MnNSZ3hqTFBOOVZQd2JLV2JzUzR4UWY1SVdKTGFZaU9VNVloeEs3MVl3N0lrRw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemkab Bandung Maksimalkan Potensi Energi Bersih - republika.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEswNmdibmF4ZTdsZlNycWRKdVl2akppdHFTLThHcHBpbTRuclk1bW5sUGlqQm1GaDhGeEpoSnROdlRaSkllNFRPQW41RHl4Tk42UHRFU1Z2RUpjSEdNSy1hME52akNJQmllck5peVRrYmw0MzRyVjNveldwQVl1SG1LeWg2UUNHcjV5R3NadzQ3Q2JuTHgwczVwYzJpUQ?oc=5",
      "r": "republika.co.id"
-    },
-    {
-     "t": "BKAD Kabupaten Bandung Garda Terdepan Pengelolaan Keuangan dan Aset Daerah, Yana Tegaskan Peran Strategisnya - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFJnVmJCdzlhWFRwWjlyTjlFTEZlYnVTVFJ0WWxHRGNuSWpQYWhEdUdOMmkxY3pacmdwcEtDOXJQUkpMLUotWkk4U01aY0hORGZuRlphVVhyQVBoakJJRjJtV3J0MzVDZFVxeXgwOFVJbWxrb3RwTDZWZzFlZDc5YXFJQzVzNFB1bmdhTkFhY1Robkd1NmRZQ0RHcFROUDUwVVozWGJtanQwMXM3WWc3QURvRTc4TlN0eDdPWFJ5bHJYUEFjYjhlazlZeURlZTVfZ1g4QXhkMFRmWlJmZGk2QjRXa1l0bzdDRWszaUtXX2RwS2FkOFo4T2JHZUEyNmR4bzBF0gGDAkFVX3lxTE1EUmdWYkJ3OWFYVHBaOXJOOUVMRmVidVNUUnRZbEdEY25JalBhaER1R04yaTFjelpyZ3BwS0M5clBSSkwtSi1aSThTTVpjSE5EZm5GWmFVWHJBUGhqQklGMm1XcnQzNUNkVXF5eDA4VUltbGtvdHBMNlZnMWVkNzlhcUlDNXM0UHVuZ2FOQWFjVGhuR3U2ZFlDREdwVE5QNTBVWjNYYm1qdDAxczdZZzdBRG9FNzhOU3R4N09YUnlsclhQQWNiOGVrOVl5RGVlNV9nWDhBeGQwVGZaUmZkaTZCNFdrWXRvN0NFazNpS1dfZHBLYWQ4WjhPYkdlQTI2ZHhvMEU?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Banjir Bandung Raya, Pemprov Jabar Siapkan Danau Retensi dan Normalisasi Sungai - Pikiran Rakyat Koran",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVzMkJHRzRGZ3VaaXdiX0RpS0RTMFZ2MkdrTVlBWFpoYWktcFVHRU00LU1jUmh3bmp2Q0lUSUdCLVdqS3ptWE5HYzdLN1VraUxwRF96VEpWSnh1cnpEalVNSF9FZ2VzWUVORkJ2cVh5T3l1ZWxvdVBGVWRqNW9TcDNkNnBfa2g1czZ1OXdFWi1ZdTBicmVSMmg4bkRScjJkOGNpUHc3Q2owQ2ZmeWtVYzJFMUU1eVl5c0F2Q0x3SmlqYy1TTEJzR1VfZw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     5,
-     19,
-     8
+     7,
+     17,
+     7
     ]
    },
    "trend": {
@@ -137,15 +137,15 @@
      0,
      1,
      0,
-     4,
-     1
+     5,
+     2
     ],
     "g": [
      0,
      0,
      0,
      0,
-     1,
+     0,
      6,
      2
     ]
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     10,
+     11,
      0
     ]
    },
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Usulan Bupati Bandung ke Presiden Prabowo Berbuah Jalan Mulus Ciwidey-Gununghalu - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFo1bnlWT21vSmZGT0U4WHgtUTRUWVFFZGNxelBUWHdCMWFydFplWG9FaWdYTFlOcDVLUEVoZ0hjWWhGcWZ0UWhvUThWRVpmZGV3QklQMlI3bUh1NmZDSDZTTGtRVkhwNnp2d2JWZDdFeXhmQW5nNGIxVmZ5ZDRWX2dvcHNXdXVDcXlPTllHcHk4bWNKbzlkSlRrV1RPRjc0SG5hcnhnX0p0Wmh2UmpidnlTV3MwTFVy?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Multifungsi di Lini Serang, Peralta Siap Jalankan Semua Instruksi Pelatih Persib - jabarekspres.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2pyRkd4UXNDTVphNEt5NzVUQW90LTNuR3dja1VCd2puUXA2R01td0d3cENGd3E3TkxTdXJVZEh1ZlRCS21LQnUya25BV0s4Mm5kMVZXLTgtRmhrU3Vud1l3OGNBMWt6U1JEV2Q0QWc2Qlh5SElhQzlGWlpFWlRaUHkxMkdCNmtDNFVXOFdocDVJd1phWGhHNWstcjNQV1V1YXkzOWJHRFFwWXkybVhGV0lLYjJncGpVWjJfTjNpR2o?oc=5",
@@ -387,12 +393,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTWxjQU1kdW1iWkRFVEdva21oaGFWdkQ5VmhFb19WMEwzZ2s1VDNIZkIxenczMjU0WlJUMEVZSVUzckRxQkFOWFNfZTRiOWJaVEk1LTAwM29MaTVOUU4yV1ltYldYWElSZS0wNEwyNFNsdkwzamNUemJsUVE2b3E2MS1WNktZT1RXQmZESU1va1RTWm1XZFpxSVhpME1oRWJ5VGh3QkhKS25tNHBmckIwNFJVNm82UFA4QXZmX2tfMlB2Y0lfTzdER1JxYlZWWnA4RGZRTFlaTFV2aWJFaXk1Uw?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Danau Retensi hingga Sodetan, Ini Rencana Penanganan Banjir Bandung Raya 2026-2027 - Pikiran-Rakyat.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRkRHMFBLNFhpa1ZaeEZqbV9tcGROREhtOGI0dmE5LVFoWjlHLXM5NDZHUVZkUmY4aktkSmhMMU8yblYxR1V0TUNZeTB6NUdjUEl1eV9WeDdBQnZuQy1EM2JzcEZob05rQTFtdk1ZS2llNEotay04VkZXaklWb1hxNlI2ZmlNaGk2Y0VZazVvMW5KMXgzSjF4MTEwclRDanNEVGJjZGNPZlZCbTBlSWlkalFqejBpNWdVY2h5cmdmYkFSU05Mc3JvTUhoRdIB0AFBVV95cUxQNHpYUWtPVGpPMWtIWUFKTG90dWN3OWhkWV95YVBQb2g3TVJvdWVvSlBtNXBOa2lPcmdRREl0Xy1UcEx0YW1wX1d6MnB0OE1nYmhCN1JtM2h4aFh5LUdBMzR0dEpyQUdXWWFwRWlfcUtGWVdmVGp6QXVHRnJueWJKOThveWtsQXh2X29ocTN3a3JuVE1UTUhOdHJFbFRITGE4bndLZzBiNWc3VlJpQXV6UWRfUkZuRFpldVlVRk5sc1V3aTk1MTF1S1F0YkVoTWpM?oc=5",
-     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "🔥 SAT SET! Tak Perlu Lama, Ini Langkah Teknis KDM Atasi Banjir Kabupaten Bandung!",
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     4,
+     5,
      8,
      19
     ]
@@ -436,7 +436,7 @@
      0,
      2,
      1,
-     1
+     2
     ],
     "g": [
      0,
@@ -497,8 +497,8 @@
     ],
     "w": [
      2,
-     22,
-     5
+     23,
+     4
     ]
    },
    "trend": {
@@ -521,7 +521,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      3,
      0,

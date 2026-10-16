@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:18:25.389171+07:00",
+ "updated": "2026-10-17T06:14:43.296081+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -27,6 +27,10 @@
    9
   ],
   [
+   "ANTARA News Jawa Barat",
+   6
+  ],
+  [
    "Disway",
    6
   ],
@@ -35,20 +39,16 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   5
+   "Satumedia.id",
+   4
   ],
   [
-   "Satumedia.id",
+   "Giwangkara",
    4
   ],
   [
    "Radar Bandung",
    4
-  ],
-  [
-   "Giwangkara",
-   3
   ],
   [
    "Pikiran Rakyat Koran",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     17,
-     21,
+     16,
+     22,
      0
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     2,
      14,
      0
     ],
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     8,
-     16,
+     7,
+     17,
      0
     ]
    },
@@ -288,7 +288,7 @@
      1,
      1,
      0,
-     3,
+     2,
      3,
      0
     ],

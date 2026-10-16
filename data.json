@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:31:01.910142+07:00",
+ "updated": "2026-10-16T21:21:58.231191+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   25
   ],
   [
    "Ayo Bandung",
@@ -24,11 +24,11 @@
   ],
   [
    "detikcom",
-   9
+   10
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   7
   ],
   [
    "jabarekspres.com",
@@ -51,7 +51,11 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "deJurnal.com",
+   3
+  ],
+  [
+   "liputan4.com",
    2
   ],
   [
@@ -59,11 +63,7 @@
    2
   ],
   [
-   "liputan4.com",
-   2
-  ],
-  [
-   "deJurnal.com",
+   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTFiTUJndDVCU3hvdjNuZ08wNG5UOXR5NWdjSFE3N0VUX1RhU09iRzNJWDd5R0w2T3RPdzdMdk9UdWVLeVdaVk1BMWRaVENjQVVCU3F4Zy1iTzNaM1RxSGZCaVJTdFQtQnh5andLWGpZSzV2Yjl2OU1pb0daU3FKUWVwYWlxYmlidkE1YnhlNHdsc1IydHlB?oc=5",
+     "r": "digo.id"
+    },
+    {
      "t": "Dinkes Kabupaten Bandung menggencarkan edukasi cegah ISPA saat pancaroba - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2txLUJzQlUxUC1yQTlfSVlIbE82c0diRF9RbkZndWw4ak50S1hQTmg1eXBNTUVjRnpmdXVuMlpzMkNBcmx4ZkQwcjAteUZjTmlIREpHN2dhNV9veGlmcXUxU3dpbTM2VHM3WmszRGRvUHZoVzBkRUxTZmFsUU16OUUtQ0hNNklHNmt3am95Y3FtVXl1aUIzeFhjT2l4U3I1NV9HdW56X1R1dFFCYzY3QU1qanIwZ9IBuwFBVV95cUxNZ1dOUHFjb3loX01nTG52TXcweDRZaDhWUmttY045M2Qxc3kzWms2M25RdzZucWpsZWl3NEo1X2xjVTNOUkxCeUNpcEJ6TElmenZmcUxRUWZSMm8xZzllclp6QjVhZF9ZdF9YME13Z05TT2ozVjhxTV9Bd091ZW9TRFVzMUNvTGozOHlQZTdVR2Jyek1lMjY2REVVdmoyUm1UanRzcU1VeVk4Zk56WFE4NGwtVDh6ekMwdWZr?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXBKMk1kVFgwaFhWa3hfTjRXanpieEFla2VZZXlKd0NPcHZXU1VHZEY1WkRsMldQREVseWk5UjVTTTBJT1pYUEJVaXNBT3c3NTZnZjdZd2hrRGhrbl91TWZwc0NoVy1VU240MWxndmtQaHZGTWRsM3YxUThpcmpJaDlPSDFxb3JoSGtaMG9oenVCTnhNNVF4Qm5tR2JWSlhfVlVHM1U5SGhXQmYwNTd3VGM5bWp0QkgzQURVOGdqalNWd2w1bXJ4ZXhqNVViT2lRcElZ?oc=5",
      "r": "MediaSakti"
-    },
-    {
-     "t": "Bima Arya Tegaskan Koperasi Merah Putih, Bukan Pesaing Warung Kelontong dan Minimarket - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUS1URWxWSk5fS2wtT19xTVRUdkZITUxweTg5VTNPeXRfRUp2WUpzX0tpVGZjcTViT3BBejR2UDQtRVdjckRFT0J3MEwwMjY3OUhjLXBwMW1OeHhPb21Db3AzMzB3b0VCYXd4RXVBUFliN2Q4ZXd4MGdaZExXUDZ1S3RwR0ktTmZ6eWo1aFpBak1selc1R3p0V0NoNERyYWoyb25yaFFsOWQ4ak1ZYlpqOVJDWUtOeWZOX1l4S0FHbw?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     15,
-     22,
+     14,
+     23,
      0
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      3,
-     12
+     11
     ],
     "g": [
      0,
@@ -188,7 +188,7 @@
     "w": [
      8,
      8,
-     1
+     2
     ]
    },
    "trend": {
@@ -214,7 +214,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      0,
      0
@@ -253,12 +253,18 @@
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=YfSioMxmG0s",
      "r": "YouTube METRO TV "
+    },
+    {
+     "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=mEOFQASFWLQ",
+     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
      0,
-     1,
+     2,
      0
     ],
     "w": [
@@ -339,7 +345,7 @@
     ],
     "w": [
      2,
-     19,
+     18,
      12
     ]
    },
@@ -471,16 +477,16 @@
      "r": "MediaSakti"
     },
     {
+     "t": "Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan, SMPN 5 Ditargetkan Pindah pada 2027 - Giwangkara - Giwangkara",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWhFd3hCRUFpNFJDX1poTE1xbEszZ0NEQ28wTjd6aFpLaHREdjF3ZkdXWjZHRWxEV1VZVFhSVFdtSUVlYnlJY00tRDF4OGduc2hFemgxZTVrLWxLWUpTUFlfYnR2TkNMbkh4UVQ3M0pVQXRGSFdYaWtyYW5KRm5oVVdFWjFDZ2ROWTdwdTc5WlhUSV9va3VxYUs3SmhOWllKbllRWDA4WXgtZnBJQWxVZnpSdFo2SmZ4enl4YkFkQVRqRi1Rbkt4U2Z2ckZPdjhqZnpj0gHYAUFVX3lxTE81MEQzUE9kS0V2MG5OMXBxRFUtQ1dQQTFfaF8yNXVDV1hablZEMWw2THJtdFBFX0g0eGNrcWJWbVc2c1Nua2xSMXIwM0dleHoxbnR2MllSdk0xNG93bTItZHVCSVFrUkhBdkRmVjk5dVBhRXp2UW5pRnhNT3ZWdW5PVFVibjQwandtbHVsam56US0wbFhaT05EUXhxbGZ4TTNISlVQSDcyeFdLbU5KbkFyZ1N1djQ1aDRwYTBjNUQtenVPaTV0emlZV3V0TURJT2dwRzZZV0hkUA?oc=5",
+     "r": "Giwangkara"
+    },
+    {
      "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnIwUXhmT0VWOVZuLTQxdW40eVlUV1MtbEk5akltejEwRlQxOHZVOHBVbUU4LWpTZG9oeTZjZTl1Tnoxa3FXdk8ya1FDSlloejJpZDktNWFkUE9KQkdzOXJBa09rOUtTeTUxU3JkV0s2bUgzb2FPYjdLRzhwdWlidTVodnZ4aE92ZVNuckZmcmZCNTVTNmV4NXZCdjRwOUNiS0Q1RE9FdkdPdm_SAbABQVVfeXFMTVBuZFJKaVdUWTQ3VzFtcUtVX1JibllGdDZzelk0VEE1ODFjb3hicnVqM3ItQ1ByNGNjeEdVM3JrTm9fV2hNY00yMGJ3R0hIdFQwdGNsTHFJSjQ2T1FScW54RGpCZWVveUNxcXpQaVN0dUdlaFU1UEctc0NUMDRjS1l2N1dvMXZnSzlXRmZLSXJjb1BmTDlZYmdZSF9ka3FWeHdUZ0xNQjJYeXdoOWQwMWE?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Gedung Bekas RSUD Soreang Kabupaten Bandung Disiapkan Jadi Sekolah - PenaKuID",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVUXM1SXJYYjVrZTNnSXVtSlN5dXczd0kzZDVVNWtjcWFtUjZwZ3FTZ3ZUWmIyMFlmWHZRVWtrQ3V3NGRHc0dwdzR4dTJDUFZqeXhBS2VLTjBqaHptNkN5aGNGaDhpdHIyR0w3b0piYUZUQ0NlYW5CY3NFZkxXUTBaT0tuTlZZXzBmWjJR0gGWAUFVX3lxTE8wcGV0RHE0cmpGa1Z0X3hWaGpXZFpFdjVHaDBiVWtMa19pRGd1RHRnNy04WV9oVE01RktvNUNiWTcxT1BsdFN0NHYxOFItbmhzb1JQYlBmUG4wMlJlVWU2aWR5VGltM0pHcDlxeGV5Nl9tRmhKTERDZWtseXlhcTZUcDZoMV9oVFo1YjBvTXgxX2VGS1ItUQ?oc=5",
-     "r": "PenaKuID"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -504,7 +510,7 @@
     "w": [
      5,
      25,
-     5
+     4
     ]
    },
    "trend": {
@@ -528,7 +534,7 @@
     ],
     "g": [
      0,
-     3,
+     2,
      0,
      1,
      0,

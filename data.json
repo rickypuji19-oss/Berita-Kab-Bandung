@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:19:45.655882+07:00",
+ "updated": "2026-10-16T12:19:31.557993+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   28
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "Ayo Bandung",
-   14
+   15
   ],
   [
    "detikcom",
@@ -51,10 +51,6 @@
    4
   ],
   [
-   "Galamedia News",
-   3
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
    2
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "PPID Kab. Bandung",
+   2
+  ],
+  [
+   "Ketik",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Pemkab Bandung Siapkan Eks RSUD Soreang Jadi Lokasi Belajar Mengajar - Gerbang Patriot",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2dGYXM4aTkzaHFTMjd0R3dCMjlfUklMRWtPQzJWUURFbzlCUTNmazlWb18tLVM5QWZjWTZWZGF2ckhGbWpjMTVyOHllOTdXMU5TODFxUGxOZk93UldMQ09JU0FJQkJ1WmU4eGVpcUZiSU53ZVYzSG4yRmd3c3BUVkR5X0k2dnlIUlliRFJHUk9qODFEQ0N2SDBCYmJsWDdnM09xZnE4S292YU0?oc=5",
-     "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Talkshow bersama PRFM 107.5 - Pemerintah Kabupaten Bandung",
+     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWpKQmpWZjBmWEZYWFVxM3llblhMcXROQVhmbFp2MWhXeHFnNzdCVjFHU0NMZlRiLWtOaHpZYkR2V0V1T2hmYnIxZ3k0M2dyalNHS0xsRFBNMTI1LTlfUDJwTjNjbkpFc2E3RDhqYnRUVW50YnllNi1oSnUzdUNmbDN5bk14TjA1VE41eQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
+     "r": "rmoljabar.id"
     },
     {
-     "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
+     "t": "SMPN 2 Cicalengka Tampil dengan Wajah Baru, Bupati Bandung Resmikan Revitalisasi - liputan4.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWxDNVdVam1aNFFNd3kwdWVhWUZMOFNneXZRSDdrbjNsVWJvR2ZrNjRWelRaMllwN2QtdW1BTXc0NlZ5bTV5aUNlajNJbXVyZktjUlktZWplcF9VY01BTmlwUDVNa29jOTZoY2NSTWpULVpuMnFOMmNBMUpHVG1jeng1bm1ZZURsc1pITDlJSHlQYnh3RGVYNnJqQWFfT3JoWHdv?oc=5",
+     "r": "liputan4.com"
+    },
+    {
+     "t": "Pemkab Bandung Siapkan Eks RSUD Soreang Jadi Lokasi Belajar Mengajar - bandungraya.net",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
-     "r": "patrolinews86"
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlRJSUVmNUlYTHBvOHFXQW1nYlVRUFNzM05ndzZxLXhraUpGeEkxS254VmV0NnBxbzZZb3VzMXBjVnppUndxa1BDUDh1YWlWTWpVWTRLa0VTNzRLaWpKeFVRZVdJX080ZVFrRXM4a2ZaelpZT1dXTGk1UTl5WDVCLUFYRlg0N2tvdUVCNU1aaF9GekloYzg2MTEtYV94TFFOMUE?oc=5",
+     "r": "bandungraya.net"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     15,
-     22,
+     16,
+     23,
      0
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     8,
+     9,
      7
     ],
     "g": [
@@ -204,8 +204,8 @@
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      3,
      0
@@ -334,7 +334,7 @@
     "w": [
      2,
      20,
-     11
+     10
     ]
    },
    "trend": {
@@ -357,7 +357,7 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
      0,
      2,
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     8,
+     7,
      7,
      19
     ]
@@ -435,7 +435,7 @@
      0,
      1,
      1,
-     4,
+     3,
      2
     ],
     "g": [
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "SMPN 2 Cicalengka Tampil dengan Wajah Baru, Bupati Bandung Resmikan Revitalisasi - liputan4.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWxDNVdVam1aNFFNd3kwdWVhWUZMOFNneXZRSDdrbjNsVWJvR2ZrNjRWelRaMllwN2QtdW1BTXc0NlZ5bTV5aUNlajNJbXVyZktjUlktZWplcF9VY01BTmlwUDVNa29jOTZoY2NSTWpULVpuMnFOMmNBMUpHVG1jeng1bm1ZZURsc1pITDlJSHlQYnh3RGVYNnJqQWFfT3JoWHdv?oc=5",
+     "r": "liputan4.com"
+    },
+    {
      "t": "Gebrakan 4.800 'Kompos Pit' dan KKN Mahasiswa: Strategi Bandung Selesaikan Sampah Organik dari Dapur Warga - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnpkSjFEUFd0SUE5T0J3c05JVzB4ZFBCZW5LNW5CbmNBQkZNNk5Dd2NuU09tek80b3NXaTNSSUl3SWFjQkwyU1NpUS1OZ1dYSF9wTWNZWEc3QXRBcHM0UTNnd3JDR1dBX1Flelg1cFRuYmdUVS1QTXc5ejNMTVo2d25MaUMxOFhldnBENXJnb0tWZWdyQWdlMXdWenlEU1duRWRDcTN1WnB5b0RjN0FqWGl0VDhWVDc2UGxPNnFNUUctU0QxY2ZCZTIzUzVCaUlHQ3E2RkVzYlJDWHdBajhPUFRCdTJKWC1U0gHuAUFVX3lxTE9USnllUF9iRGt3eXNOZHlkQWxBcFQwNkVxdVA3ZGNTUzV2ekl1MWlxMzZNVHRtRjk4Ym5YZzRob0lqZ3lPUnVxVW5meGxWaHBRcFY1YjBUSjAySS1QQ1l5MWdwNDNuTVUzS1A4SmNsSktYVmxBWTRkQ2tKS3lxYXlDWXJKbTlJWjFvdTJmZnA2YVJNeGRkcVJpMW80dFZjZDdLZVR0bloxVy1UamEyeHR2Wm5CQTliUkNaWlpBSzVjYnFMX005Mkx3bDE4c0lqS0lzT2hBWmJSTFE0M2JvOEo0NXZVamM3VkFHNzlHWlE?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmhLcUJpa01KRHJGeGNZa2RzQzJXc25lVFBxZVdkOGJUWTVxQjJyZGZVeU00d0RYc0hrOTEtUGdYaU1fV3lTemVRV0lwbi1jajkxSWVVVFNsaFZoTTNqTDFhSjVOMkozazluUkR6NEZMTERDSFVCb2JhbkJsV1pTWkd4SlBGRXlCVGNFbUlTczFSRDd2R21KRVlhb0ZQdDN4RnRITnRndkw3UFhRTkd2dzhoQkJQVFpuWDF1UjNkRTU0dw?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Berita dan Informasi hari kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfU3dydHlJeUZpOENlTm1VN1FYZnNkTFFpdkV3UGlkQTRUbDNEX2hqSXZaczBZTUN0Q2VnQUNhb1pMVWNOdHhLV3JMWFo2SFJEQURkRThXeXBGenlPeENKMHhn?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,8 +497,8 @@
     ],
     "w": [
      3,
-     23,
-     4
+     24,
+     5
     ]
    },
    "trend": {
@@ -526,7 +526,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0
     ]
    }

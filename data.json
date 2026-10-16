@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:20:18.669507+07:00",
+ "updated": "2026-10-16T10:18:48.730906+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "Kompas.com",
-   22
+   23
   ],
   [
    "RRI.co.id",
-   21
+   20
+  ],
+  [
+   "Ayo Bandung",
+   13
   ],
   [
    "detikcom",
    11
-  ],
-  [
-   "Ayo Bandung",
-   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -51,19 +51,19 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   3
+   "Gerbang Patriot",
+   2
   ],
   [
    "deJurnal.com",
    2
   ],
   [
-   "rmoljabar.id",
+   "Ketik",
    2
   ],
   [
-   "Ketik",
+   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Siapkan Eks RSUD Soreang Jadi Lokasi Belajar Mengajar - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2dGYXM4aTkzaHFTMjd0R3dCMjlfUklMRWtPQzJWUURFbzlCUTNmazlWb18tLVM5QWZjWTZWZGF2ckhGbWpjMTVyOHllOTdXMU5TODFxUGxOZk93UldMQ09JU0FJQkJ1WmU4eGVpcUZiSU53ZVYzSG4yRmd3c3BUVkR5X0k2dnlIUlliRFJHUk9qODFEQ0N2SDBCYmJsWDdnM09xZnE4S292YU0?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Presiden Kabulkan Usulan Bupati Bandung, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHRpQlk5anQtNDdwSFMyUkFHa01pRGlYc1BSUU5BcUxKd2w4TXR5MHlSVUgydVZGanZzSjNwSnRLSXVMWm9IZjZMTkJQZVM5ZXlfZXhmdFcwVTk0akJ1Z2tjNl9UR0RHaWdldVM4NEZQMktuNVlKN0J4MUlZZXhXamk2dk9iV2dUTlpYazgxcjQzMV9SMFJXS0dHZVZTdGVkdDlIYkFGSGFEdjdNNElZU1FrcEwxV00?oc=5",
-     "r": "deJurnal.com"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     14,
-     20,
-     2
+     16,
+     19,
+     0
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      9,
-     5
+     7
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     3,
+     1,
      0
     ]
    }
@@ -173,10 +173,10 @@
      "r": "Disway"
     },
     {
-     "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkZzTjFFVXNxblBNU3hQZVdtV1UwUzJhQWM1YUJyVUE0Q3Y5NFY4RlhPQUhHU1pJaWszN1o1cV93Y1NfTVFKRmxpV0lBaEZfamhveXAtdnVDd3dBSXkwd0NfM1JzZERvRndsdV8wQmdZUDlKZ1ZIRGVHSF9IMDlMTm8ydEVvamVjenZsQkZKZWR6RHF1VTZSTTFwOHR0c1dDOFhKcmlZb3lzbUphUVVaSmxxOEpYSkVzc1RELTVETHo1eWpXY0VZaFBxX01RTTdWalBGclZfQThkdw?oc=5",
-     "r": "Bandung Berita"
+     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     3,
+     4,
      6,
      1
     ]
@@ -207,7 +207,7 @@
      0,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [
@@ -231,10 +231,10 @@
    ],
    "h": [
     {
-     "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
+     "t": "Usai Rekonsiliasi, KDS Minta Kadin Kabupaten Bandung Bawa Investor dan Buka Lapangan Kerja - Gerbang Patriot",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
-     "r": "patrolinews86"
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFcxTUVaQlMxTDZRUjBvZTRPN2ctT3pEbzJDMHlDZlN1TUFzWFA1a19ZTXZkdDl3OWJlemVfRTZyUmlwTFYyUnhWNW9hM29HNVJ5N1J6NkVsc0JNS1hQYjdVRGpwYUR4LVdIR3FkZ1Z3aXhza3R2RGdRc2VlRU9Way1TRXVpeXlPMTIwNGl3dUY1Y1ZKNjQ4R2RuWjY3MEthbzVOM2ZuYVk0bTMtT0oyVWpfbEw1Vjk4NnBhMHFvbWlvbFFna2d3?oc=5",
+     "r": "Gerbang Patriot"
     },
     {
      "t": "Kembali Bersatu, Bupati KDS Tantang Kadin Kabupaten Bandung Undang Investasi dan Buka Lapangan Kerja - Galamedia News",
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     9,
-     13,
+     8,
+     14,
      0
     ]
    },
@@ -276,7 +276,7 @@
      0,
      1,
      1,
-     1,
+     0,
      3,
      3
     ],
@@ -415,7 +415,7 @@
     ],
     "w": [
      6,
-     7,
+     8,
      19
     ]
    },
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Siapkan Eks RSUD Soreang Jadi Lokasi Belajar Mengajar - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2dGYXM4aTkzaHFTMjd0R3dCMjlfUklMRWtPQzJWUURFbzlCUTNmazlWb18tLVM5QWZjWTZWZGF2ckhGbWpjMTVyOHllOTdXMU5TODFxUGxOZk93UldMQ09JU0FJQkJ1WmU4eGVpcUZiSU53ZVYzSG4yRmd3c3BUVkR5X0k2dnlIUlliRFJHUk9qODFEQ0N2SDBCYmJsWDdnM09xZnE4S292YU0?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "ISPA dan Diare Mengintai Saat Musim Hujan, Dinkes Bandung Ingatkan Warga - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmhLcUJpa01KRHJGeGNZa2RzQzJXc25lVFBxZVdkOGJUWTVxQjJyZGZVeU00d0RYc0hrOTEtUGdYaU1fV3lTemVRV0lwbi1jajkxSWVVVFNsaFZoTTNqTDFhSjVOMkozazluUkR6NEZMTERDSFVCb2JhbkJsV1pTWkd4SlBGRXlCVGNFbUlTczFSRDd2R21KRVlhb0ZQdDN4RnRITnRndkw3UFhRTkd2dzhoQkJQVFpuWDF1UjNkRTU0dw?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfU3dydHlJeUZpOENlTm1VN1FYZnNkTFFpdkV3UGlkQTRUbDNEX2hqSXZaczBZTUN0Q2VnQUNhb1pMVWNOdHhLV3JMWFo2SFJEQURkRThXeXBGenlPeENKMHhn?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Ratusan Mahasiswa Poltekkes Kemenkes Bandung Bedah Operasional IPAL Cisirung - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVE5TzFabzBfVndPc0pDWld5TVJJR3RtUndNZXgzYVdXNTFoRnV2NmhYanZpUlZxRm1ibV9oYktacHEtWHc5bXYwSXE5TFpZcTZ0ZUxvYUFacktmTHIwZURyTHkyRjNNdWlzUEI5SG4zWHRCSGVvamFPX2RnM0U1RGNHNjJXWWRiclkzdk56TWhWZk1SbUJXZzE0UUkwUWtuZzg0ajhnVGxxaDdMSmtwcWRnc1NYWDdjTjFQRA?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     3,
-     23,
-     4
+     4,
+     22,
+     5
     ]
    },
    "trend": {
@@ -518,7 +518,7 @@
      1,
      1,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -526,7 +526,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:20:45.919982+07:00",
+ "updated": "2026-10-16T20:31:01.910142+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,20 +15,20 @@
    21
   ],
   [
-   "Kompas.com",
-   21
-  ],
-  [
    "RRI.co.id",
-   18
+   20
   ],
   [
-   "ANTARA News Jawa Barat",
-   9
+   "Kompas.com",
+   20
   ],
   [
    "detikcom",
    9
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "jabarekspres.com",
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "deJurnal.com",
+   "liputan4.com",
    2
   ],
   [
-   "PPID Kab. Bandung",
+   "deJurnal.com",
    2
   ]
  ],
@@ -173,10 +173,10 @@
      "r": "PenaKuID"
     },
     {
-     "t": "Kadisbud Kabupaten Bandung Irvan Ahmad: Perkuat Sinergi Melalui Rakor Kebudayaan - deJurnal.com",
+     "t": "Camping di Pantai Pangasan, Sensasi Menginap di Tepi Laut Selatan! - Kanalindonesia.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk4zOVA0STcwZDBDNGhNMk9mWWJwejhiY25vRmxkS29qVXN4eF9lNUt5NkZQbFp1X3BrSXBVNHVNWXFuaHg3UXJBN3JRcUFzQU9iZnZEVG1aRG5kVmVScTJQejFVS3hRdFpsV3l2RTNORzBwTVB3ZDVKLV9zRldPYmJ3bEczb2ltbEhodE83SERqM0FJWC1rRHlKUWI1NUw3UElIT3pVbVlyNTZkX2c?oc=5",
-     "r": "deJurnal.com"
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3VncGtBMHBEUExUclotd1ozNWc1UTB3ZE0ya08xS3hTaTQzMzlDU3hzYWRCc3pvRGlTbS1sNDdVTVc3R3ByVFUzcm42S19xdllwZEw0ZVBBaFFCNDhQUS1vQ2gwZV9yaDlHZjM0Q2FxcEhRRlRlQVR5NTJteDFpQi04RzcyTkFfSHVHdUctdnJRNVpLRFlDSFdCSnJ4cVFZ?oc=5",
+     "r": "Kanalindonesia.com"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     6,
+     8,
      8,
      1
     ]
@@ -204,11 +204,11 @@
     "p": [
      0,
      0,
-     1,
+     2,
      0,
      0,
      3,
-     2
+     3
     ],
     "g": [
      0,
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     20,
-     11
+     19,
+     12
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      0,
-     0,
+     1,
      2,
      5,
      3,
@@ -421,8 +421,8 @@
     ],
     "w": [
      9,
-     8,
-     18
+     9,
+     17
     ]
    },
    "trend": {
@@ -447,7 +447,7 @@
     "g": [
      1,
      1,
-     2,
+     1,
      1,
      10,
      6,

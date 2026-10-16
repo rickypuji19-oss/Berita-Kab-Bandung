@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:20:31.667323+07:00",
+ "updated": "2026-10-16T14:28:28.338077+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   29
   ],
   [
    "Kompas.com",
@@ -35,6 +35,10 @@
    7
   ],
   [
+   "Disway",
+   5
+  ],
+  [
    "Satumedia.id",
    4
   ],
@@ -43,12 +47,16 @@
    4
   ],
   [
-   "Disway",
+   "Radar Bandung",
    4
   ],
   [
-   "Radar Bandung",
-   4
+   "Galamedia News",
+   3
+  ],
+  [
+   "Koran Gala",
+   2
   ],
   [
    "deJurnal.com",
@@ -56,14 +64,6 @@
   ],
   [
    "Ketik",
-   2
-  ],
-  [
-   "Galamedia News",
-   2
-  ],
-  [
-   "Pikiran-Rakyat.com",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - VISI.NEWS",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanpzZ3BRNkloVzVMdjJzdUEyVnVMUTFWblFHdWxMaWhhcXZ6b0Z6SUg0MnN5UnRLM3hWLXM0c0c3X1BBREx3b2N5VW56dnExakRPb2tlQlhfWWZHUHo5cGliSzJRTlRNZ05xOVNQQW42TG1jTVlqMlI1LTZHbjZXSUt2R2hxa1ZlNVRnbjV6WQ?oc=5",
+     "r": "VISI.NEWS"
+    },
+    {
+     "t": "Gedung Bekas RSUD Soreang Kabupaten Bandung Disiapkan Jadi Sekolah - PenaKuID",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVUXM1SXJYYjVrZTNnSXVtSlN5dXczd0kzZDVVNWtjcWFtUjZwZ3FTZ3ZUWmIyMFlmWHZRVWtrQ3V3NGRHc0dwdzR4dTJDUFZqeXhBS2VLTjBqaHptNkN5aGNGaDhpdHIyR0w3b0piYUZUQ0NlYW5CY3NFZkxXUTBaT0tuTlZZXzBmWjJR0gGWAUFVX3lxTE8wcGV0RHE0cmpGa1Z0X3hWaGpXZFpFdjVHaDBiVWtMa19pRGd1RHRnNy04WV9oVE01RktvNUNiWTcxT1BsdFN0NHYxOFItbmhzb1JQYlBmUG4wMlJlVWU2aWR5VGltM0pHcDlxeGV5Nl9tRmhKTERDZWtseXlhcTZUcDZoMV9oVFo1YjBvTXgxX2VGS1ItUQ?oc=5",
+     "r": "PenaKuID"
+    },
+    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
      "r": "rmoljabar.id"
-    },
-    {
-     "t": "SMPN 2 Cicalengka Tampil dengan Wajah Baru, Bupati Bandung Resmikan Revitalisasi - liputan4.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWxDNVdVam1aNFFNd3kwdWVhWUZMOFNneXZRSDdrbjNsVWJvR2ZrNjRWelRaMllwN2QtdW1BTXc0NlZ5bTV5aUNlajNJbXVyZktjUlktZWplcF9VY01BTmlwUDVNa29jOTZoY2NSTWpULVpuMnFOMmNBMUpHVG1jeng1bm1ZZURsc1pITDlJSHlQYnh3RGVYNnJqQWFfT3JoWHdv?oc=5",
-     "r": "liputan4.com"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Eks RSUD Soreang Jadi Lokasi Belajar Mengajar - bandungraya.net",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlRJSUVmNUlYTHBvOHFXQW1nYlVRUFNzM05ndzZxLXhraUpGeEkxS254VmV0NnBxbzZZb3VzMXBjVnppUndxa1BDUDh1YWlWTWpVWTRLa0VTNzRLaWpKeFVRZVdJX080ZVFrRXM4a2ZaelpZT1dXTGk1UTl5WDVCLUFYRlg0N2tvdUVCNU1aaF9GekloYzg2MTEtYV94TFFOMUE?oc=5",
-     "r": "bandungraya.net"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     16,
-     22,
+     19,
+     24,
      0
     ]
    },
@@ -137,8 +137,8 @@
      1,
      0,
      0,
-     9,
-     7
+     10,
+     9
     ],
     "g": [
      0,
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     6,
+     7,
      1
     ]
    },
@@ -263,7 +263,7 @@
     ],
     "w": [
      8,
-     14,
+     15,
      0
     ]
    },
@@ -471,16 +471,16 @@
      "r": "liputan4.com"
     },
     {
+     "t": "Pemkab Bandung Siapkan Bekas RSUD Soreang Jadi Sekolah, 126 Siswa SMPN 5 Masih Menumpang - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmRCT3NwZ2xzdEpXb0xPY0tBWHNuYXI3eFNaZ29JNm9TdGlBNGllS2tXcFZpV3VkTXRmVmpmQXdvOTVpWUMtZ09MZFBONEwxdk0tX1FOZ3NJeTRqM05aYkhsVm5LWDBNb2I1bkNIM0xPZnBmUDdOeDhFYmg3M3kydnFOYkpOSTRneld6R194RTk5bDJkaElkVHZJWTNCdWVGaGVVZUNQMHNhNVJsOWFVOFE3U1Z1TGdWMm16SlBnUTktbl9LWWhnNmtBRHF1SFHSAc8BQVVfeXFMUFpkQk9zcGdsc3RKV29MT2NLQVhzbmFyN3hTWmdvSTZvU3RpQTRpZUtrV3BWaVd1ZE10ZlZqZkF3bzk1aVlDLWdPTGRQTjRMMXZNLV9RTmdzSXk0ajNOWmJIbFZuS1gwTW9iNW5DSDNMT2ZwZlA3Tng4RWJoNzN5MnZxTmJKTkk0Z3pXekdfeEU5OWwyZGhJZFR2SVkzQnVlRmhlVWVDUDBzYTVSbDlhVThRN1NWdUxnVjJtekpQZ1E5LW5fS1loZzZrQURxdUhR?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Gebrakan 4.800 'Kompos Pit' dan KKN Mahasiswa: Strategi Bandung Selesaikan Sampah Organik dari Dapur Warga - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnpkSjFEUFd0SUE5T0J3c05JVzB4ZFBCZW5LNW5CbmNBQkZNNk5Dd2NuU09tek80b3NXaTNSSUl3SWFjQkwyU1NpUS1OZ1dYSF9wTWNZWEc3QXRBcHM0UTNnd3JDR1dBX1Flelg1cFRuYmdUVS1QTXc5ejNMTVo2d25MaUMxOFhldnBENXJnb0tWZWdyQWdlMXdWenlEU1duRWRDcTN1WnB5b0RjN0FqWGl0VDhWVDc2UGxPNnFNUUctU0QxY2ZCZTIzUzVCaUlHQ3E2RkVzYlJDWHdBajhPUFRCdTJKWC1U0gHuAUFVX3lxTE9USnllUF9iRGt3eXNOZHlkQWxBcFQwNkVxdVA3ZGNTUzV2ekl1MWlxMzZNVHRtRjk4Ym5YZzRob0lqZ3lPUnVxVW5meGxWaHBRcFY1YjBUSjAySS1QQ1l5MWdwNDNuTVUzS1A4SmNsSktYVmxBWTRkQ2tKS3lxYXlDWXJKbTlJWjFvdTJmZnA2YVJNeGRkcVJpMW80dFZjZDdLZVR0bloxVy1UamEyeHR2Wm5CQTliUkNaWlpBSzVjYnFMX005Mkx3bDE4c0lqS0lzT2hBWmJSTFE0M2JvOEo0NXZVamM3VkFHNzlHWlE?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "ISPA dan Diare Mengintai Saat Musim Hujan, Dinkes Bandung Ingatkan Warga - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmhLcUJpa01KRHJGeGNZa2RzQzJXc25lVFBxZVdkOGJUWTVxQjJyZGZVeU00d0RYc0hrOTEtUGdYaU1fV3lTemVRV0lwbi1jajkxSWVVVFNsaFZoTTNqTDFhSjVOMkozazluUkR6NEZMTERDSFVCb2JhbkJsV1pTWkd4SlBGRXlCVGNFbUlTczFSRDd2R21KRVlhb0ZQdDN4RnRITnRndkw3UFhRTkd2dzhoQkJQVFpuWDF1UjNkRTU0dw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",

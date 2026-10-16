@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:19:31.557993+07:00",
+ "updated": "2026-10-16T13:20:31.667323+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   30
   ],
   [
    "Kompas.com",
@@ -51,19 +51,19 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   2
-  ],
-  [
    "deJurnal.com",
    2
   ],
   [
-   "PPID Kab. Bandung",
+   "Ketik",
    2
   ],
   [
-   "Ketik",
+   "Galamedia News",
+   2
+  ],
+  [
+   "Pikiran-Rakyat.com",
    2
   ]
  ],
@@ -97,27 +97,27 @@
      "r": "bandungraya.net"
     },
     {
+     "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=mEOFQASFWLQ",
+     "r": "YouTube Bandung Pemkab"
+    },
+    {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=B-8_fkm1WO8",
      "r": "YouTube CCTV TARAJU OFFICIAL"
-    },
-    {
-     "t": "KDM dan Bupati Bandung Rumuskan Solusi Penanganan Banjir Melalui Normalisasi Sungai",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=tsQFTK4vmUc",
-     "r": "YouTube Dedi Mulyadi \"Bapak Aing\" Daily"
     }
    ],
    "v": {
     "s": [
      1,
-     2,
+     3,
      2
     ],
     "w": [
      16,
-     23,
+     22,
      0
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Apindo Jabar Nilai Tuntutan Kenaikan UMK 2027 hingga 9,5 Persen Tak Rasional - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmJINGJvbWhUaUdKRjROZUE1cHR6WHllMGY1N09abk0xd3djN2lBNWlucGVEdFFCSGhtekJrS2VJZG5NTjdJNW9zS1RZMG5rZVdIaXFNQUNScENCRHAweVB5S3hXQXkwRzh0QjBXZnJGdzBUM09VVGFlTEQxVVpya0NTbHE2UHEyckZtVmNlTXFBQ09EaGlLd09KZ3g3OE42SVRiak9zRXNaT21QTk9DOWRsODNkOVdjTXpoNEdEd3ZYV1B1?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
@@ -243,16 +249,16 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Kadin Kabupaten Bandung Akhiri Dualisme, KDS Siapkan Kolaborasi Dongkrak Ekonomi Daerah - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
-     "r": "Satumedia.id"
+     "t": "[HEADLINE NEWS, 16/10] Kolaborasi Kadin Dorong Pertumbuhaan Ekonomi",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=YfSioMxmG0s",
+     "r": "YouTube METRO TV "
     }
    ],
    "v": {
     "s": [
      0,
-     0,
+     1,
      0
     ],
     "w": [
@@ -333,7 +339,7 @@
     ],
     "w": [
      2,
-     20,
+     19,
      10
     ]
    },
@@ -377,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Hendak Menyeberang, Pejalan Kaki Tewas Ditabrak Sepeda Motor di Jalan Soekarno Hatta Bandung - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCSnpnYVNqVWN3M1FDSkotTE05V3R5eW9CRy1UT0VWWFhjd2szRTZFcTFCTk5tczhtZTkyR2N6Vk5YRmwxQkpoYldRWkZOVHdpQ2pSSzlPUUQ4cW5aZ2tWa3ItVWc1QmNrT01TdDJBazN6Y2RIRFkxTVl1RlhaeFFmT3FmbEM2TnpUSW55UVNQZGdGaWVrcHExVElQUUtIcUxyTUpQSnd5cXJLcThfWGlPcnozRklQQS1OT3ZXSW9PVlVpZWdxR0drajdUQXBwb1hNejVLYkVhQQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kadin Kabupaten Bandung Akhiri Dualisme, KDS Siapkan Kolaborasi Dongkrak Ekonomi Daerah - Satumedia.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
@@ -387,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1JzY0VOR2I2ZndMeWdYV3FIX2FaQjJGdjZ1YVZmYVZlTjZxNjFmdXJkamh5R2hOaVE4ejF4aWVwdk5HN2VzSDE3dndkVGRDdndKVkRsamhnUHJScVpiYVhhU2Nvb0EyV2ZTcWhma3pjbUdIRGNOVEY5NEQ5dEozWFpIbGUxNmRJekxuRGFjSEFhYVg2SG5kVXdEeVJnb2NqS2JJaWVvNXJuV2RTSVhqWjJKYlpnaG1VekttYmV3Sk81MjNNb1oycGhHT1BFLTFYZ0VLa205MNIB3AFBVV95cUxNU1dfMTRHdVM1MU9qVGRDRm1hSnE4anc5WUEyYzBlOE5LdVg3a3pRNGRWallPRjUwcHp2a2lOdGlQS1VDSC16eWJGMWJ4U0FBUUlMYndEeThyRmU4RkdUOUo4WFQwWFpCbjg5NnppNHA0S2lmUWRlNEZTM1hoR3U3UkR2NXREd0k0RFhaOTNlNmhvd2Zxd0RieEZDRTJ6bEpjc1VXbWplX2lfSVg0NTV0VTcydFBQa05fYVl4Nm1HcFJwQ2kxaXhRZE9RM2NlcG02OG1pVld1bHhSbDNG?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "🔥 SAT SET! Tak Perlu Lama, Ini Langkah Teknis KDM Atasi Banjir Kabupaten Bandung!",
@@ -416,7 +422,7 @@
     "w": [
      7,
      7,
-     19
+     20
     ]
    },
    "trend": {
@@ -445,7 +451,7 @@
      3,
      10,
      5,
-     0
+     1
     ]
    }
   },

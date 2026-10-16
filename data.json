@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T07:13:29.538620+07:00",
+ "updated": "2026-10-16T08:24:19.141456+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,43 +11,39 @@
    29
   ],
   [
-   "Kompas.com",
-   24
-  ],
-  [
    "RRI.co.id",
-   21
+   22
   ],
   [
-   "Ayo Bandung",
-   11
+   "Kompas.com",
+   22
   ],
   [
    "detikcom",
    11
   ],
   [
+   "Ayo Bandung",
+   10
+  ],
+  [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "jabarekspres.com",
    7
   ],
   [
-   "Radar Bandung",
-   5
-  ],
-  [
    "Pikiran Rakyat Koran",
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Disway",
    4
   ],
   [
-   "Disway",
+   "Radar Bandung",
    4
   ],
   [
@@ -59,11 +55,15 @@
    3
   ],
   [
-   "deJurnal.com",
-   2
+   "PPID Kab. Bandung",
+   3
   ],
   [
-   "Ketik",
+   "Pikiran-Rakyat.com",
+   3
+  ],
+  [
+   "deJurnal.com",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     13,
-     22,
+     12,
+     21,
      4
     ]
    },
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     2,
-     8,
+     0,
+     9,
      3
     ],
     "g": [
@@ -145,8 +145,8 @@
      0,
      0,
      0,
-     4,
-     2,
+     3,
+     3,
      0
     ]
    }
@@ -173,10 +173,10 @@
      "r": "Disway"
     },
     {
-     "t": "Usulan Bupati Bandung Dikabulkan Presiden, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - radarjabar.disway.id - Disway",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHpCXzMzXzVnTmIxMElrSGR6M1BsWFdvWjBQT1pxRXNVdW5uYWY1R0xFUEl0c05URTg5S0F2bmNQUjQ0NlFnWFpfaElSVWZwWmMwYzl4c2Z3eGkyT1lMd2hnejF0NXd5dlowam5Tem9iN2Njc3dwT2ZadGVYalBIMnUtT3Z0RlUzdTJBSGpWM3VFcXZtSm9lSUh1b3FpYzBpbEtGY21BSmttdUZzM29SVGRqcklxQ0N6SmxqMHVDc29HbGtnZEHSAcYBQVVfeXFMT2h6Ql8zM181Z05iMTBJa0hkejNQbFhXb1owUE9acUVzVXVubmFmNUdMRVBJdHNOVEU4OUtBdm5jUFI0NDZRZ1haX2hJUlVmcFpjMGM5eHNmd3hpMk9ZTHdoZ3oxdDV3eXZaMGpuU3pvYjdjY3N3cE9mWnRlWGpQSDJ1LU92dEZVM3UyQUhqVjN1RXF2bUpvZUlIdW9xaWMwaWxLRmNtQUprbXVGczNvUlRkanJJcUNDekpsajB1Q3NvR2xrZ2RB?oc=5",
-     "r": "Disway"
+     "t": "Melalui Penguatan Kompetensi Lulusan Pelatihan, Disnaker Kabupaten Bandung Perluas Kesempatan Kerja dan Berwirausaha - Bandung Berita",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkZzTjFFVXNxblBNU3hQZVdtV1UwUzJhQWM1YUJyVUE0Q3Y5NFY4RlhPQUhHU1pJaWszN1o1cV93Y1NfTVFKRmxpV0lBaEZfamhveXAtdnVDd3dBSXkwd0NfM1JzZERvRndsdV8wQmdZUDlKZ1ZIRGVHSF9IMDlMTm8ydEVvamVjenZsQkZKZWR6RHF1VTZSTTFwOHR0c1dDOFhKcmlZb3lzbUphUVVaSmxxOEpYSkVzc1RELTVETHo1eWpXY0VZaFBxX01RTTdWalBGclZfQThkdw?oc=5",
+     "r": "Bandung Berita"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     4,
+     3,
      6,
      1
     ]
@@ -207,7 +207,7 @@
      0,
      1,
      0,
-     3,
+     2,
      0
     ],
     "g": [
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "KDS Apresiasi Rekonsiliasi Kadin Kabupaten Bandung, Dualisme Berakhir - jurnalpolisi.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXVib2YyS3R5QkI0RFdnT3B3S0ZtOWNLRjB4M3VRbE43Zzk3Z1Y5ODBJamxUSmg3Wk54WkRhcE0zcWF0aElvcWZVZU9Mbmc3UnpVVTRqa0d0Qm5hNTJNMDN0aEhHLVl5RThGT09TM0RoVTNSLW10T3hRU29HUG1PTDh6UnZZR1M3c0Y2UFl4MjdXRUZwNXpjVlVpV2w?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Kementerian Ekraf memasukkan voice over dalam subsektor ekonomi kreatif - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFIzM0ZEcGtCbDRBamp3SlZUR1FlX2hGTkh0WEhfbmlfRUphNU15ekFJbEpSWF9wM1N5eUxSb3pLRDR6Q3RRN0pjZVJWcWhIenQtOHBJbGxOYjJVRE5Wemk3VUVuekZoZ0RUcXQ3SUhjYzNLTDZSTHFXS2U3V0huQmlTQjBHdjhsRTZwS2lDM0czNUE2ckVQTS1Bcy1hVkNncVJJZFI1NlZWNmFid2RFUzVrdFDSAboBQVVfeXFMTUNDRmJBRldWeTdOcHZJUVdPUWZKNmxHS1RRNDVfTUs0TkVwMVJVMkNyZTh3U3FfMmFDOGhxeFh3R3Vmc0phZVpYZm5OekhCNmQ1TnkwLXVXU2lIUU16QlU0ajZ4WEFLS1dJWDdSd1Bza0xpN2tQU0ZSc21TOHloZ18zZ29yY2JYWEZDYmQ3S3hYTlVoYWdhVW1TX2o1bDRxSDFRWmZ2U1B0X0d1X0R5S0pqYWU4WEFPZV9R?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaThLd1U5cmhVNm5OY01XbTZxTFFmQjVrOUkxenZqeUxiTnNnYk9aWXphbTNwMGpYZ3FNcG5Xc0g2b0ZJd0pjSmpobXJYZ1paLUdlWXZzME5zYUpXckdaVmgzY01IeC1HUDhFaElnT1EyWVNqeUtNbm1QSWZkaWxzdE5lUC1nRkJ3cHAwZjQ2cUlxdGlvdzQzV0hqOEJRWTZFZkUwdkExbUpXN1pfQnhVTFNTV3hjZTFtaWZyMTlTQ2xiT2pjTWFCRC1jUVJzbG5HX29GeWhTelZHZ9IB3wFBVV95cUxOMFVQc3cyWGxDcGE5YUg4MkZVNFdsUEVrdHZ5NmQ3QW5sZEdLMkFOMXQwWDhxX01ZRWJuUWh0NlJwbkdwZHAzOU9FbnlPdjE5LUhocGplV1k3NXlwUnVLS0hSNDZuZE9HTWoyNmh5aFNST2ExN1UzWU5sVjNNZ0RDS1JQYXlCM3F4Nmw0U1lmaGY0LUUxZGM3ZFg5enl4SEY5QzFneW1wdU4wM3Q3QTlEYTdUcC1YV2VxQTA1RU1iOVR4LWhucktCRmt4MnBGSjhvMlJaLVY0b0EtcFpmNUxF?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTdIBswFBVV95cUxPdUVQNlJvWm5xUm1pQ29WWThOblR4alRTanh0ZDRRcXZxTXN1UW53a3FfMjdFX0JYX09PendjR01YdTdZUExvMGJUVThxUDhsaEtvNWZ2RHpXNjdMNDRaWDZwODVvNlRRUVFoVXJjSFZFLUlCZU11Tm5nQ090OVhHQW9adXdZMVFJWTRTYlJKcVN3U09qZHNHelY2ZXN6YjlOTGhNdkNoVWFLbUtVa25HZ29FTQ?oc=5",
-     "r": "Ketik"
     }
    ],
    "v": {
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     7,
+     8,
      13,
      0
     ]
@@ -278,7 +278,7 @@
      1,
      1,
      3,
-     0
+     1
     ],
     "g": [
      0,
@@ -357,11 +357,11 @@
      0
     ],
     "g": [
-     3,
+     2,
      0,
      0,
      2,
-     4,
+     5,
      3,
      0
     ]
@@ -465,16 +465,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
+     "t": "Berita dan Informasi hari kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfU3dydHlJeUZpOENlTm1VN1FYZnNkTFFpdkV3UGlkQTRUbDNEX2hqSXZaczBZTUN0Q2VnQUNhb1pMVWNOdHhLV3JMWFo2SFJEQURkRThXeXBGenlPeENKMHhn?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Ratusan Mahasiswa Poltekkes Kemenkes Bandung Bedah Operasional IPAL Cisirung - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVE5TzFabzBfVndPc0pDWld5TVJJR3RtUndNZXgzYVdXNTFoRnV2NmhYanZpUlZxRm1ibV9oYktacHEtWHc5bXYwSXE5TFpZcTZ0ZUxvYUFacktmTHIwZURyTHkyRjNNdWlzUEI5SG4zWHRCSGVvamFPX2RnM0U1RGNHNjJXWWRiclkzdk56TWhWZk1SbUJXZzE0UUkwUWtuZzg0ajhnVGxxaDdMSmtwcWRnc1NYWDdjTjFQRA?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Berita dan Informasi olahraga untuk kesehatan mental Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVVV4aDZWenlNM3VwSWx4WU1ZRmphNkdyczRyNmF3UklMOW9heXBmMF94blhCME1ITFk1clZvM19ZZTJRQmJmTEI2NjZWWnhZMV9ELWVWSHBDZjkyWEJWUG1lTkhUZF9WbEctbE9n?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,7 +497,7 @@
     ],
     "w": [
      3,
-     22,
+     23,
      4
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:24:19.141456+07:00",
+ "updated": "2026-10-16T09:20:18.669507+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
-  ],
-  [
-   "RRI.co.id",
-   22
+   30
   ],
   [
    "Kompas.com",
    22
+  ],
+  [
+   "RRI.co.id",
+   21
   ],
   [
    "detikcom",
@@ -35,6 +35,10 @@
    7
   ],
   [
+   "Satumedia.id",
+   4
+  ],
+  [
    "Pikiran Rakyat Koran",
    4
   ],
@@ -47,23 +51,19 @@
    4
   ],
   [
-   "Satumedia.id",
-   3
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Pikiran-Rakyat.com",
-   3
-  ],
-  [
    "deJurnal.com",
+   2
+  ],
+  [
+   "rmoljabar.id",
+   2
+  ],
+  [
+   "Ketik",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
+     "r": "patrolinews86"
+    },
+    {
+     "t": "Kadin Kabupaten Bandung Akhiri Dualisme, KDS Siapkan Kolaborasi Dongkrak Ekonomi Daerah - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Presiden Kabulkan Usulan Bupati Bandung, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHRpQlk5anQtNDdwSFMyUkFHa01pRGlYc1BSUU5BcUxKd2w4TXR5MHlSVUgydVZGanZzSjNwSnRLSXVMWm9IZjZMTkJQZVM5ZXlfZXhmdFcwVTk0akJ1Z2tjNl9UR0RHaWdldVM4NEZQMktuNVlKN0J4MUlZZXhXamk2dk9iV2dUTlpYazgxcjQzMV9SMFJXS0dHZVZTdGVkdDlIYkFGSGFEdjdNNElZU1FrcEwxV00?oc=5",
      "r": "deJurnal.com"
-    },
-    {
-     "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
-     "r": "rmoljabar.id"
-    },
-    {
-     "t": "Dulu Rusak Parah, Kini Jalur Lalulintas itu Mulus - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWdYNU1HdHdUT2hnbmtENzJ3QVpKd2FNR0pNX1U0MnpEZzU3Ri1OWXpjdkwtUkpaak8yMjA5RDRDZDNxR0ppRWJ3N2pkaW9qRjJJVHZCZUhXNFFwUjNQU2g1RktPYlJ2WUgxRnMtN2g5Uno4MUVYRXl1NGRyYldHa2RYaHZKN1pQakdMZGJrcFRtLS1zbFVIYlR3?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     12,
-     21,
-     4
+     14,
+     20,
+     2
     ]
    },
    "trend": {
@@ -138,14 +138,14 @@
      0,
      0,
      9,
-     3
+     5
     ],
     "g": [
      0,
      0,
      0,
      0,
-     3,
+     1,
      3,
      0
     ]
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
-     "t": "KDS Apresiasi Rekonsiliasi Kadin Kabupaten Bandung, Dualisme Berakhir - jurnalpolisi.co.id",
+     "t": "Kembali Bersatu, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - patrolinews86",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXVib2YyS3R5QkI0RFdnT3B3S0ZtOWNLRjB4M3VRbE43Zzk3Z1Y5ODBJamxUSmg3Wk54WkRhcE0zcWF0aElvcWZVZU9Mbmc3UnpVVTRqa0d0Qm5hNTJNMDN0aEhHLVl5RThGT09TM0RoVTNSLW10T3hRU29HUG1PTDh6UnZZR1M3c0Y2UFl4MjdXRUZwNXpjVlVpV2w?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
+     "r": "patrolinews86"
     },
     {
-     "t": "Kementerian Ekraf memasukkan voice over dalam subsektor ekonomi kreatif - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFIzM0ZEcGtCbDRBamp3SlZUR1FlX2hGTkh0WEhfbmlfRUphNU15ekFJbEpSWF9wM1N5eUxSb3pLRDR6Q3RRN0pjZVJWcWhIenQtOHBJbGxOYjJVRE5Wemk3VUVuekZoZ0RUcXQ3SUhjYzNLTDZSTHFXS2U3V0huQmlTQjBHdjhsRTZwS2lDM0czNUE2ckVQTS1Bcy1hVkNncVJJZFI1NlZWNmFid2RFUzVrdFDSAboBQVVfeXFMTUNDRmJBRldWeTdOcHZJUVdPUWZKNmxHS1RRNDVfTUs0TkVwMVJVMkNyZTh3U3FfMmFDOGhxeFh3R3Vmc0phZVpYZm5OekhCNmQ1TnkwLXVXU2lIUU16QlU0ajZ4WEFLS1dJWDdSd1Bza0xpN2tQU0ZSc21TOHloZ18zZ29yY2JYWEZDYmQ3S3hYTlVoYWdhVW1TX2o1bDRxSDFRWmZ2U1B0X0d1X0R5S0pqYWU4WEFPZV9R?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "t": "Kembali Bersatu, Bupati KDS Tantang Kadin Kabupaten Bandung Undang Investasi dan Buka Lapangan Kerja - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmhubVl2SHo4ajFnNElrYjhFU2xsM2Y3c0s1ZmhCU1VVOTAyRnFOcndENXB4VVVDTTMxeGd3c0tJTjNfUGVuX3FCR3l4d05hWWFZNmRBU1I0SWZKMGkwbFN2emxvaERnN3dkN0xCVnZGMXRnM3lNZjFfWGQ4UnJDa0xqX1ZDb2M2R3ZvMm1rTDJmUlZSb3RXSzZLcFhZalczS1B1Q2ZXVDEyR3VDRjNBakx4R25ZT0J3WC1MMG84MC1GdEM3SkstZlFFem93TmZVdlpsZGM4T19XSFhKVlBtNWVWaTRBRkQzNUpB?oc=5",
+     "r": "Galamedia News"
     },
     {
-     "t": "Kadin Kabupaten Bandung Kembali Satu, Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaThLd1U5cmhVNm5OY01XbTZxTFFmQjVrOUkxenZqeUxiTnNnYk9aWXphbTNwMGpYZ3FNcG5Xc0g2b0ZJd0pjSmpobXJYZ1paLUdlWXZzME5zYUpXckdaVmgzY01IeC1HUDhFaElnT1EyWVNqeUtNbm1QSWZkaWxzdE5lUC1nRkJ3cHAwZjQ2cUlxdGlvdzQzV0hqOEJRWTZFZkUwdkExbUpXN1pfQnhVTFNTV3hjZTFtaWZyMTlTQ2xiT2pjTWFCRC1jUVJzbG5HX29GeWhTelZHZ9IB3wFBVV95cUxOMFVQc3cyWGxDcGE5YUg4MkZVNFdsUEVrdHZ5NmQ3QW5sZEdLMkFOMXQwWDhxX01ZRWJuUWh0NlJwbkdwZHAzOU9FbnlPdjE5LUhocGplV1k3NXlwUnVLS0hSNDZuZE9HTWoyNmh5aFNST2ExN1UzWU5sVjNNZ0RDS1JQYXlCM3F4Nmw0U1lmaGY0LUUxZGM3ZFg5enl4SEY5QzFneW1wdU4wM3Q3QTlEYTdUcC1YV2VxQTA1RU1iOVR4LWhucktCRmt4MnBGSjhvMlJaLVY0b0EtcFpmNUxF?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Kadin Kabupaten Bandung Akhiri Dualisme, KDS Siapkan Kolaborasi Dongkrak Ekonomi Daerah - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
+     "r": "Satumedia.id"
     }
    ],
    "v": {
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      13,
      0
     ]
@@ -272,13 +272,13 @@
      "Jum"
     ],
     "p": [
-     1,
+     0,
      0,
      1,
      1,
      1,
      3,
-     1
+     3
     ],
     "g": [
      0,
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Kadin Kabupaten Bandung Akhiri Dualisme, KDS Siapkan Kolaborasi Dongkrak Ekonomi Daerah - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUhNYTU4OVIwM3hWejdnd1NVZzdoVXZQSUNsYWFNN3ZvQW5YN1JzNnc5UUdVbmQ1LUpoYnduOEdPRkJPMXVJTkgyd3RIV3pTVWdVamNRN0RFQXVabmdVWWxOdTZ6TEY3eU52T0tJenNkYXVQUkRidnVEaUZVQ0tGb2V5Q1BFV3g3VlhfVUd3X2ZkcXdxTEdYYWZieE53QmVJR0NONl9QSjFkcy1QS29vUTBwMjJsaE9RNXJaQXpFc2M?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "BBPJN merampungkan jalan perbatasan Ciwidey-Gununghalu sepanjang 2,4 km - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDJRQS1UanRtUmZpb1pLU1lweGVaSHBiaEtLa2tpSWFMY2w4bnhnOUtIc0FxaDhGeXJ1NWczZ2d6REFjcWJ1OGhwclpRUm5nbER0d0k4bGc4N0dhbXBhblFPU3g1ekR3UTYxeGhnQmYtaWxWWmF0QnZoelJsc0M4SFR1M1pTelpQcEg2V3puWlA2TFNPektNeGl6ckRnTDNhZVRHUDhPZ2NzamtJaHltRlhyTdIBuAFBVV95cUxNX1ZuZEpZZGpTajZGMVRwQkpuVkthM3FoR25RTWdpdlVwMHhwTDZqWFBYazg4VHg1WlljSk5JMy13Rm95RzA4RVZ3S09ZVFZYRkJTNy1JUEc1YUFaeF9kMU1acUZGME00eFRydmtydXQ2MmxYM2ZnRGs4cEZ4OXMwLUVhcVI2TjJyclAwSUh2R3Z0bXBRVTJsbUtCWGhUVEpjN1I3azd4SHB6MWdHR0R0bmEzWmhDMjVh?oc=5",
@@ -387,12 +393,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUNIRmI1WE05b3ZoZ1Q5WEtzUG1pTF8ySkRQaDF1VXRLTWZaNmh3UXR1QlJwZXhlalBOQ1BPRXc1bUthV0p1c1dMU1R0U0tSMXBxNVVDckpMR09BQXQ1d3pwdGx0c1RjcVhSSkFqUXpERHo3WHNnY0RzVUo3NEdtVWFpYkxxS0VvdFdPZ0lrSWdKNjRuWEFGSHhxRjBZRHlXcHBWQ0FDNFp5eWttRlRkTEcwUGpkblY2b0E3VmZSOURMSThReXhJUmV3?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Tak Terkalahkan di Asia, Lucho Minta Persib Fokus Jalani Laga demi Laga - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnBnQ3lFOFBNVmd3RUJCM055ekVCZXhlTkxSMkFEejNlaFE4WmdCVXI3YkxtY19UaWJ5OGE3SDh1WS1sdC1NZWVNOGRFcnFhUE1DZ2kxUmhGQlkwVmpDM185blhEOWpKMHg3OFBzelBCUV92VWtkOC1lMmNST1R6NGtmaXJYRDBkZUMzQnBfSmxGMkY3dHc0eFNZOF9Ldjk4NnV3Z0JuS2poQ0lnRUhHeFJCdE9oUQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "🔥 SAT SET! Tak Perlu Lama, Ini Langkah Teknis KDM Atasi Banjir Kabupaten Bandung!",
@@ -414,8 +414,8 @@
      6
     ],
     "w": [
-     5,
-     8,
+     6,
+     7,
      19
     ]
    },
@@ -436,7 +436,7 @@
      1,
      1,
      3,
-     0
+     1
     ],
     "g": [
      1,

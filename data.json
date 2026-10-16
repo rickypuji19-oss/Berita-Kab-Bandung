@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:13:06.528738+07:00",
+ "updated": "2026-10-16T07:13:29.538620+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,27 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   29
   ],
   [
    "Kompas.com",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   22
+   21
+  ],
+  [
+   "Ayo Bandung",
+   11
   ],
   [
    "detikcom",
    11
   ],
   [
-   "Ayo Bandung",
-   10
-  ],
-  [
    "ANTARA News Jawa Barat",
-   8
+   7
   ],
   [
    "jabarekspres.com",
@@ -43,11 +43,11 @@
    4
   ],
   [
-   "Disway",
+   "PPID Kab. Bandung",
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Disway",
    4
   ],
   [
@@ -59,7 +59,7 @@
    3
   ],
   [
-   "rmoljabar.id",
+   "deJurnal.com",
    2
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Presiden Kabulkan Usulan Bupati Bandung, Jalan Perbatasan Ciwidey–Gununghalu Kini Mulus - deJurnal.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHRpQlk5anQtNDdwSFMyUkFHa01pRGlYc1BSUU5BcUxKd2w4TXR5MHlSVUgydVZGanZzSjNwSnRLSXVMWm9IZjZMTkJQZVM5ZXlfZXhmdFcwVTk0akJ1Z2tjNl9UR0RHaWdldVM4NEZQMktuNVlKN0J4MUlZZXhXamk2dk9iV2dUTlpYazgxcjQzMV9SMFJXS0dHZVZTdGVkdDlIYkFGSGFEdjdNNElZU1FrcEwxV00?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Pemprov Jabar-Pemkab Bandung Kerja Sama Renovasi Si Jalak Harupat, Pembangunan Dimulai Tahun 2027 - rmoljabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenQwWnk1NkJ2R1phaHNUTE9nRXRxMWlOb2VUV3FyUzNMOGtFZU1tN0ptTU9Qc0xhWlMwOVpmRlVGNHZNc3VfMU56SlREbExxQlJ4VUdsMTVBOVBMS283eGRsbzNGMlhwRUl3YnAyTXBWRVpjZGFKZGtJV2RlbF9uck1IbFRqQjRpNnZKUXAtd1pueVJEU0tfSUJJdFNhWGF4Q0pxeUZzOFFWRWxoSm1jTFNaX1czTk95VlZFWld3?oc=5",
@@ -88,12 +94,6 @@
      "t": "Dulu Rusak Parah, Kini Jalur Lalulintas itu Mulus - RRI.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWdYNU1HdHdUT2hnbmtENzJ3QVpKd2FNR0pNX1U0MnpEZzU3Ri1OWXpjdkwtUkpaak8yMjA5RDRDZDNxR0ppRWJ3N2pkaW9qRjJJVHZCZUhXNFFwUjNQU2g1RktPYlJ2WUgxRnMtN2g5Uno4MUVYRXl1NGRyYldHa2RYaHZKN1pQakdMZGJrcFRtLS1zbFVIYlR3?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Syukuran di Pinggir Kebun Teh, Warga Lebakmuncang Berbahagia - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXl2S3dFMHFkNGhxZU41azBEdUNTWDQwU05uYWhJYjJCNldaN1BlQ25JQkJyN09EVExheWsteTZKMDBvYXZoTEh1RkhwREVZY1RxQl9tVmZUZEVCN2xCOXZveFVqX2UyVG16Y0tLalZwVy1JYkZTMFNIbUtnM21ncmNzdV9HTFRVY3NVZGRaRTJOX0owM1lfblhWVzNNWDZSV1c2Xw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     12,
+     13,
      22,
-     5
+     4
     ]
    },
    "trend": {
@@ -136,9 +136,9 @@
      0,
      1,
      0,
-     0,
-     10,
-     2
+     2,
+     8,
+     3
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      4,
-     3,
+     2,
      0
     ]
    }
@@ -332,9 +332,9 @@
      1
     ],
     "w": [
-     3,
-     21,
-     10
+     2,
+     20,
+     11
     ]
    },
    "trend": {
@@ -349,7 +349,7 @@
     ],
     "p": [
      0,
-     2,
+     1,
      0,
      0,
      0,
@@ -357,7 +357,7 @@
      0
     ],
     "g": [
-     2,
+     3,
      0,
      0,
      2,
@@ -414,7 +414,7 @@
      6
     ],
     "w": [
-     6,
+     5,
      8,
      19
     ]
@@ -435,7 +435,7 @@
      0,
      1,
      1,
-     4,
+     3,
      0
     ],
     "g": [
@@ -497,7 +497,7 @@
     ],
     "w": [
      3,
-     24,
+     22,
      4
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:18:27.594085+07:00",
+ "updated": "2026-10-17T01:17:39.021128+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   20
+   21
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   15
+   17
   ],
   [
    "detikcom",
@@ -31,12 +31,12 @@
    7
   ],
   [
-   "jabarekspres.com",
-   7
-  ],
-  [
    "Disway",
    6
+  ],
+  [
+   "jabarekspres.com",
+   5
   ],
   [
    "Satumedia.id",
@@ -51,19 +51,19 @@
    4
   ],
   [
-   "Giwangkara",
+   "deJurnal.com",
    3
   ],
   [
-   "deJurnal.com",
-   3
+   "Giwangkara",
+   2
   ],
   [
    "Aspirasi Jabar",
    2
   ],
   [
-   "Jurnal Soreang",
+   "Inilahkoran.id",
    2
   ]
  ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      8,
-     8,
+     7,
      2
     ]
    },
@@ -231,7 +231,7 @@
    ],
    "h": [
     {
-     "t": "Munas ke-30 IMA, Pameran UMKM serta UMKM Awards 2026 Siap Digelar di Braga City Walk Bandung - Tribunjabar.id",
+     "t": "IMA Berusia 30 Tahun, Munas serta Pameran UMKM Siap Digelar di Kota Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXcwN0ZPZEJ3ZlBwWjA5NVRFWkVPcFQ1RXkxRDREMENIMk1OSnF1amNlQUtEeDZlZnNaZjM2a3g2QXVJbWpmajlNOTA5eTFJcURkdjFpNERjdVhTbEgtWWR4c0VVM1BEWGFfWmktanpyWGlac0tmUk9KZnU4aENRdFItMFRBZTNSSV9yRUNtSUl6UDZJZnBxT3Jhemd5OHBMby0wZjhOVmVaQ3ZIOFhDYjlPQVVUQS1oS1VPZzlTRTY4RmRzTmlLcEQ0Q3V3c0Q2TmhmM3ozTWxadw?oc=5",
      "r": "Tribunjabar.id"
@@ -340,7 +340,7 @@
     "w": [
      2,
      17,
-     10
+     11
     ]
    },
    "trend": {
@@ -364,7 +364,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      2,
      4,
      3,
@@ -395,9 +395,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Rumah dan Warung di Jalan Galunggung Terbakar, Api Berkobar Hebat Berhasil Dipadamkan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDM3c0hlLWhYdTJ3azJrLVN6TDh0QllkVlpxZ3Vsa0NrRHR5XzZSR29fY0tIX3ZuSWxMbEIyRTlnZDd3b0ZFUzhuY1hqbzd6aWNyMHN6LWI2T3ZHY0E5d3RKUVRlamhBR3NrNGt1X0s5ZHJGaGVKT2ZCMDJfbUJpMWtma3BqRmdzc012V0FOeVo1NV9mV1Z6T1BkQnowcU1NUC1YN0k1RzJpTGZJZ1Q5UmdFV1I0NE5sbEQ4dXEtZ2oxakc2NlAxMmdlejBXNU5G0gHWAUFVX3lxTFBEbGtKanROTFpCZ0NmMElLQ2ZBejVmV3cxUEZNb0lLc084d2I5STNDRHE4MzZ5bS1nZHpGT19VNUhFWEcyWm1oUXQ1YlFHektoZmJlZ0w3bXB5V3hoVGJac0tKOUpaTlRvazdqc1JwYlpoWjFOMGtBWjc0QWZvSlNlZHBjV0FYbGFrZFZfeTZSUFVfRjBIVjhPRFJQaEtPRFhzN2hnNnlnQ1ZfZzhpVDZHdDZqM3lpbDVlRW5hWG1vb19YcEF2ZUFVYnAwa0czRmF6OHB3cHc?oc=5",
+     "t": "[FOTO] Petugas Damkar Padamkan Kebakaran Bangunan di Jalan Galunggung Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkR1VmhwNW9ybE1lTlVWZHJZcHd1dklIOGZ2Y1pFY0tMV044ZWxBTWd4UHk1WTEzdVJNSkNTdDdQYTJHejRoei1odXNJNWtzbVRRT3dsMjlaQUplZWpxa2NCYVVxMm9hQnBGVEhfUVlJT2hhT1BPMWctb1JGcWdxRTQ2Tm1BaFFpZE1ScjhHMnk1MVhIN0ZaVDVtaWJqX3FBX0lTcEh3NzlDNWdQbEhNNUw1a3NaYVJBMnl2OF9CbVRyTU5O0gHKAUFVX3lxTE9rdi1veEc3emJwcURwc3dleG1idjBMekRRYVVsMzVxb2FZNmttN2xVODk4OTl3M3Y4dkJZTXE3OUxsQ1Uzb0twYWhHUC10QXRVSEFHcVNGbUhsYjNOZUpxd1FQNjhxYXNMREFreXl0MGVaNW54SkdTVFNncXdySFd0aEZfdWl5WXZacG0ydG9NeGdQQ2V3My03Z29hYlQyb0ZZM1M2N0NLMTNva2tGTml0TDJQbG9zWDNVNFNCSE9IaFVmaWtuUzBrWXc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -420,8 +420,8 @@
      6
     ],
     "w": [
-     10,
-     7,
+     9,
+     8,
      17
     ]
    },
@@ -438,7 +438,7 @@
     "p": [
      0,
      0,
-     2,
+     1,
      1,
      3,
      4,
@@ -450,8 +450,8 @@
      1,
      10,
      6,
-     4,
-     0
+     3,
+     1
     ]
    }
   },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi kepengurusan olahraga Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEUUlVcEFwTDZKVDlJaW44ei1tRldCX3lnODI1NFppRGt4QUprNnJodGpEeUxqQ3p1dlRzUkFFTUg2X2pidVhlMEY4a3VwT1o2RVgyb180RlJoZTFBS2YzWElXTQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Revitalisasi SMPN 2 Cicalengka Selesai, Bupati Bandung : Revitalisasi Harus Berdampak Pada Mutu Pendidikan - MediaSakti",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXBKMk1kVFgwaFhWa3hfTjRXanpieEFla2VZZXlKd0NPcHZXU1VHZEY1WkRsMldQREVseWk5UjVTTTBJT1pYUEJVaXNBT3c3NTZnZjdZd2hrRGhrbl91TWZwc0NoVy1VU240MWxndmtQaHZGTWRsM3YxUThpcmpJaDlPSDFxb3JoSGtaMG9oenVCTnhNNVF4Qm5tR2JWSlhfVlVHM1U5SGhXQmYwNTd3VGM5bWp0QkgzQURVOGdqalNWd2w1bXJ4ZXhqNVViT2lRcElZ?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTBEM1BPZEtFdjBuTjFwcURVLUNXUEExX2hfMjV1Q1dYWm5WRDFsNkxybXRQRV9INHhja3FiVm1XNnNTbmtsUjFyMDNHZXh6MW50djJZUnZNMTRvd20yLWR1QklRa1JIQXZEZlY5OXVQYUV6dlFuaUZ4TU92VnVuT1RVYm40MGp3bWx1bGpuelEtMGxYWk9ORFF4cWxmeE0zSEpVUEg3MnhXS21OSm5BcmdTdXY0NWg0cGEwYzVELXp1T2k1dHppWVd1dE1ESU9ncEc2WVdIZFDSAdgBQVVfeXFMTzUwRDNQT2RLRXYwbk4xcHFEVS1DV1BBMV9oXzI1dUNXWFpuVkQxbDZMcm10UEVfSDR4Y2txYlZtVzZzU25rbFIxcjAzR2V4ejFudHYyWVJ2TTE0b3dtMi1kdUJJUWtSSEF2RGZWOTl1UGFFenZRbmlGeE1PdlZ1bk9UVWJuNDBqd21sdWxqbnpRLTBsWFpPTkRReHFsZnhNM0hKVVBINzJ4V0ttTkpuQXJnU3V2NDVoNHBhMGM1RC16dU9pNXR6aVlXdXRNRElPZ3BHNllXSGRQ?oc=5",
      "r": "Giwangkara"
-    },
-    {
-     "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnIwUXhmT0VWOVZuLTQxdW40eVlUV1MtbEk5akltejEwRlQxOHZVOHBVbUU4LWpTZG9oeTZjZTl1Tnoxa3FXdk8ya1FDSlloejJpZDktNWFkUE9KQkdzOXJBa09rOUtTeTUxU3JkV0s2bUgzb2FPYjdLRzhwdWlidTVodnZ4aE92ZVNuckZmcmZCNTVTNmV4NXZCdjRwOUNiS0Q1RE9FdkdPdm_SAbABQVVfeXFMTVBuZFJKaVdUWTQ3VzFtcUtVX1JibllGdDZzelk0VEE1ODFjb3hicnVqM3ItQ1ByNGNjeEdVM3JrTm9fV2hNY00yMGJ3R0hIdFQwdGNsTHFJSjQ2T1FScW54RGpCZWVveUNxcXpQaVN0dUdlaFU1UEctc0NUMDRjS1l2N1dvMXZnSzlXRmZLSXJjb1BmTDlZYmdZSF9ka3FWeHdUZ0xNQjJYeXdoOWQwMWE?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -503,7 +503,7 @@
     ],
     "w": [
      5,
-     25,
+     26,
      4
     ]
    },

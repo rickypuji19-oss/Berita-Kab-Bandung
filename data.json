@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:21:58.231191+07:00",
+ "updated": "2026-10-16T22:19:07.174109+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,15 +16,15 @@
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "Kompas.com",
-   20
+   19
   ],
   [
    "detikcom",
-   10
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -55,15 +55,15 @@
    3
   ],
   [
-   "liputan4.com",
-   2
-  ],
-  [
-   "Jurnal Soreang",
+   "Giwangkara",
    2
   ],
   [
    "Inilahkoran.id",
+   2
+  ],
+  [
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     14,
-     23,
+     16,
+     22,
      0
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      3,
-     11
+     13
     ],
     "g": [
      0,
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     17,
+     16,
      0
     ]
    },
@@ -401,9 +401,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Rumah dan Warung di Jalan Galunggung Terbakar, Api Berkobar Hebat Berhasil Dipadamkan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDM3c0hlLWhYdTJ3azJrLVN6TDh0QllkVlpxZ3Vsa0NrRHR5XzZSR29fY0tIX3ZuSWxMbEIyRTlnZDd3b0ZFUzhuY1hqbzd6aWNyMHN6LWI2T3ZHY0E5d3RKUVRlamhBR3NrNGt1X0s5ZHJGaGVKT2ZCMDJfbUJpMWtma3BqRmdzc012V0FOeVo1NV9mV1Z6T1BkQnowcU1NUC1YN0k1RzJpTGZJZ1Q5UmdFV1I0NE5sbEQ4dXEtZ2oxakc2NlAxMmdlejBXNU5G0gHWAUFVX3lxTFBEbGtKanROTFpCZ0NmMElLQ2ZBejVmV3cxUEZNb0lLc084d2I5STNDRHE4MzZ5bS1nZHpGT19VNUhFWEcyWm1oUXQ1YlFHektoZmJlZ0w3bXB5V3hoVGJac0tKOUpaTlRvazdqc1JwYlpoWjFOMGtBWjc0QWZvSlNlZHBjV0FYbGFrZFZfeTZSUFVfRjBIVjhPRFJQaEtPRFhzN2hnNnlnQ1ZfZzhpVDZHdDZqM3lpbDVlRW5hWG1vb19YcEF2ZUFVYnAwa0czRmF6OHB3cHc?oc=5",
+     "t": "[FOTO] Petugas Damkar Padamkan Kebakaran Bangunan di Jalan Galunggung Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkR1VmhwNW9ybE1lTlVWZHJZcHd1dklIOGZ2Y1pFY0tMV044ZWxBTWd4UHk1WTEzdVJNSkNTdDdQYTJHejRoei1odXNJNWtzbVRRT3dsMjlaQUplZWpxa2NCYVVxMm9hQnBGVEhfUVlJT2hhT1BPMWctb1JGcWdxRTQ2Tm1BaFFpZE1ScjhHMnk1MVhIN0ZaVDVtaWJqX3FBX0lTcEh3NzlDNWdQbEhNNUw1a3NaYVJBMnl2OF9CbVRyTU5O0gHKAUFVX3lxTE9rdi1veEc3emJwcURwc3dleG1idjBMekRRYVVsMzVxb2FZNmttN2xVODk4OTl3M3Y4dkJZTXE3OUxsQ1Uzb0twYWhHUC10QXRVSEFHcVNGbUhsYjNOZUpxd1FQNjhxYXNMREFreXl0MGVaNW54SkdTVFNncXdySFd0aEZfdWl5WXZacG0ydG9NeGdQQ2V3My03Z29hYlQyb0ZZM1M2N0NLMTNva2tGTml0TDJQbG9zWDNVNFNCSE9IaFVmaWtuUzBrWXc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      9,
-     9,
-     17
+     8,
+     18
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      1,
      10,
      6,
-     4
+     5
     ]
    }
   },
@@ -479,7 +479,7 @@
     {
      "t": "Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan, SMPN 5 Ditargetkan Pindah pada 2027 - Giwangkara - Giwangkara",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWhFd3hCRUFpNFJDX1poTE1xbEszZ0NEQ28wTjd6aFpLaHREdjF3ZkdXWjZHRWxEV1VZVFhSVFdtSUVlYnlJY00tRDF4OGduc2hFemgxZTVrLWxLWUpTUFlfYnR2TkNMbkh4UVQ3M0pVQXRGSFdYaWtyYW5KRm5oVVdFWjFDZ2ROWTdwdTc5WlhUSV9va3VxYUs3SmhOWllKbllRWDA4WXgtZnBJQWxVZnpSdFo2SmZ4enl4YkFkQVRqRi1Rbkt4U2Z2ckZPdjhqZnpj0gHYAUFVX3lxTE81MEQzUE9kS0V2MG5OMXBxRFUtQ1dQQTFfaF8yNXVDV1hablZEMWw2THJtdFBFX0g0eGNrcWJWbVc2c1Nua2xSMXIwM0dleHoxbnR2MllSdk0xNG93bTItZHVCSVFrUkhBdkRmVjk5dVBhRXp2UW5pRnhNT3ZWdW5PVFVibjQwandtbHVsam56US0wbFhaT05EUXhxbGZ4TTNISlVQSDcyeFdLbU5KbkFyZ1N1djQ1aDRwYTBjNUQtenVPaTV0emlZV3V0TURJT2dwRzZZV0hkUA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTBEM1BPZEtFdjBuTjFwcURVLUNXUEExX2hfMjV1Q1dYWm5WRDFsNkxybXRQRV9INHhja3FiVm1XNnNTbmtsUjFyMDNHZXh6MW50djJZUnZNMTRvd20yLWR1QklRa1JIQXZEZlY5OXVQYUV6dlFuaUZ4TU92VnVuT1RVYm40MGp3bWx1bGpuelEtMGxYWk9ORFF4cWxmeE0zSEpVUEg3MnhXS21OSm5BcmdTdXY0NWg0cGEwYzVELXp1T2k1dHppWVd1dE1ESU9ncEc2WVdIZFDSAdgBQVVfeXFMTzUwRDNQT2RLRXYwbk4xcHFEVS1DV1BBMV9oXzI1dUNXWFpuVkQxbDZMcm10UEVfSDR4Y2txYlZtVzZzU25rbFIxcjAzR2V4ejFudHYyWVJ2TTE0b3dtMi1kdUJJUWtSSEF2RGZWOTl1UGFFenZRbmlGeE1PdlZ1bk9UVWJuNDBqd21sdWxqbnpRLTBsWFpPTkRReHFsZnhNM0hKVVBINzJ4V0ttTkpuQXJnU3V2NDVoNHBhMGM1RC16dU9pNXR6aVlXdXRNRElPZ3BHNllXSGRQ?oc=5",
      "r": "Giwangkara"
     },
     {
@@ -509,7 +509,7 @@
     ],
     "w": [
      5,
-     25,
+     26,
      4
     ]
    },

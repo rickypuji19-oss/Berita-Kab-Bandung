@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:19:07.174109+07:00",
+ "updated": "2026-10-16T23:20:10.725014+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "Inilahkoran.id",
+   "Aspirasi Jabar",
    2
   ],
   [
-   "Jurnal Soreang",
+   "Inilahkoran.id",
    2
   ]
  ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      8,
-     8,
+     9,
      2
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     16,
+     17,
      0
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bongkar 'Kampung Narkoba' di Saritem, Gebrakan Polrestabes Bandung Banjir Apresiasi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm5sdERiTnFXOXB6T1JYS2N4WHVONEFrNmZreGlOc09Bb2lqWlFoMVRqVXBaZE85Ym9FNFB0cDNybmx1Sjc5WGgtZmVYRVRrTnFFLU9QSEdhdVl6dnNtSEZSQ0szUlVtZzdCRy1zZkhFRFZXODh0RVVBOHdwQkZ2b3BBWktIYjJhdzVCNHJoenJDY0VKU2h6UHQxMG5tWVhfcDJyNHFfdUh3cVN2bEhyOXF5Tm9adFdxaDRPUXl3VVRaSUotZ2lpbjA0c9IB0AFBVV95cUxQcUhmY2FlX29rZGt4cmxaVkZnM1ZWd0RCRzZXM1VwOTBrNmxIamtvRC1KSURNWmlRNDFmSGZaQ3h4TWJSUWNSOWlIb2lfQ3FRVFNQNG9EV1BnUVB6dEVmQTRzbVdtTC00NXZGTDNkRnZMbVFyREN3aFprMXZydkZkaW5BZXF3X2dYdGJPY1ZpazBFVmZya0VYLXFPUDZvR3BBdlU5bnhWOTdHc29aV2g4cGZEb0trU2tiR1FXTHBBZUVZYzg4eXpoeDVOTEJ6c3FZ?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JwNUM1MTctT2JNYURzcm9Fb2FvSGFPWU9NOVp3Z0pPUF9idE5pVFY3YVREQTBfUm5rTzdLZlpFZlR5eVFKRFhMN2JNUUk4Mmt3TVNZTnFuNVJCZ1hfYUNnVVpmQXkxM1FRWENRZEhhWGtpdmZlUWJ5ejNPMk5Db29oWVNzYXc1V09rV05wcXlLRGtMaTJmUE01elVDWE1sc2Nfemlqc29reUs5azlBSUVvUGNNOWNMaC1ZMzczMlRsNTBBbnV0bmZFV1hzd280QW9peEdNQdIB3AFBVV95cUxPSnpQUUg3VEZSWHFTTGt2RTlsdHJ1Ry1COVJtbXlGVHRZYmVKc1N1aU5hZVlSdE90R2FaTHdQUEJpcGJkbWg2enJkaDRnTG5HTktPSEJqNW9Jd3FaSDRjR2hKbERvZ09zejFDWTR0SmpMNUVwb25IVVpmWVJIVTdYVFM1MTJBZW5zWlhyelR3NFVmcUI3bS1qT01LQU5rZzBZVlNDZkNFcGU0WHU5azVnYzUyV2NZSEFYYklETTBWRDBNU3BDeFJZTmVNSWc4Wk1yTTgza09YUlpsOWpI?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Dukung Kinerja Pemerintahan Akuntabel, Kemenkum Jabar Tuntaskan Harmonisasi 11 Peraturan Bupati KBB - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2Q5T3pPRFNFcHhZZWZJMWZwX2hlT1luSXR6aTJaQjZoZVJMU1dkZHlKZE9uX01sdlZCdXVvRmpzdVZ2eFY4a2NxWmtSMHcyMVBYZUZCNFdnejZHNWZIWDRfR2RyWFZsT014RzFXMVlDYjhTZVZhVkNtSFZscmUxMkhaZzdrdm5xdjlscDB6WWV2OXJwNkhpTTBuY3ItOHpRX2xuOUUwN1k1LURJWmxZWHdYc2xURzZ2UWtJaW9tSEpMZ2F2OV8zbTlhc2ZoQ1l6eXZWbzdFRWs0bFRxejBfSg?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "UANG BUMD HILANG? Bupati Bandung Dadan Curhat ke Dedi Mulyadi Soal Kasus PT BDS",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     18,
+     19,
      12
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      5,
-     26,
+     25,
      4
     ]
    },

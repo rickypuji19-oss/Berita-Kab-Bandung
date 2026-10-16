@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:21:11.359811+07:00",
+ "updated": "2026-10-16T18:19:14.961813+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,31 +12,31 @@
   ],
   [
    "Kompas.com",
-   22
+   21
+  ],
+  [
+   "Ayo Bandung",
+   20
   ],
   [
    "RRI.co.id",
    20
   ],
   [
-   "Ayo Bandung",
-   18
-  ],
-  [
    "detikcom",
-   11
+   10
   ],
   [
    "Disway",
    7
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    7
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "jabarekspres.com",
+   7
   ],
   [
    "Satumedia.id",
@@ -51,11 +51,11 @@
    4
   ],
   [
-   "Gerbang Patriot",
+   "Inilahkoran.id",
    2
   ],
   [
-   "Inilahkoran.id",
+   "Galamedia News",
    2
   ],
   [
@@ -63,7 +63,7 @@
    2
   ],
   [
-   "Ketik",
+   "Radio PRFM",
    2
   ]
  ],
@@ -93,7 +93,7 @@
     {
      "t": "Pemkab Bandung Dukung Sarana Pendidikan yang Layak dan Pembelajaran Digital - radarjabar.disway.id - Disway",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPd9IBtgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPdw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOak10VENaSkxVR3BBdUFqbl9XMHh4NVp1UkF3RlRYbmVaWFg2QnpoNW05aEl3VjYycVJHVTZjNm9wTEdhNkxfZVNKYWhTWHkwdUFRWVptRWJnSnVabUxjTkJuZ1A5RW12dkJyVjZCLUJiOTJhOWRCTE8zSUVHRVFZc0lzWTBRRG5YR2p0bDV0ODBxcThHLWdNOUhQX3hYT19uZ19HS2VkSnBkNnN4Y2FYVFZWbkM2MTFzOHQtdEJLRy14NlVWNnfSAbYBQVVfeXFMTTJyWmtkeHVuMjFQOGd1UnJsUU9SY0RvZGViZUk4dmhvbWRMemJSYkU0WFA0Q2NleHJKT2c5Qno1WHdrVS11bVdpNGN4TnlCVXZtUm5sYUVDS3FlcFdjVU9VNFFEcm1RZDhmZWdwdjY4SkpYdlVTcEZ6Y2JIeDM0cmh5LXgwUS1weW9ZcmRETV8tSWJMeURDUWl4OVVaRmNVNUsybjRQNU5nT2Jvb1ByZnprNmkwT3c?oc=5",
      "r": "Disway"
     },
     {
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     20,
+     17,
      22,
      0
     ]
@@ -137,8 +137,8 @@
      1,
      0,
      0,
-     5,
-     15
+     3,
+     14
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Kementerian Ekonomi Kreatif Perkuat Daya Saing Karya Seniman Seni Rupa di Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmhpVTMyX0hxUGZNa2VvcU1qellISUJVTEQ4a0tqaXRjLXBzenFmbzZGdFdMeXdqNEx2RGdKZUNmNGZ2WkxQQkFhd1JkQkdsNDJKNnNJX2JiWEtWWktCNXR4dGd1Y1Q0NUtkelU0NWUweHItY3NBSmF3MDVTWnNPVW5rU2k3b0FQUDMzVWFOV0tJTEl3d3I5SWptb3o3RklkWlY4SFJaQ3lJa0U2ODZVZFJ1ZGkydzFvSlU2TjBtamVucXhoRWJBZnNkNzM?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Apindo Jabar Nilai Tuntutan Kenaikan UMK 2027 hingga 9,5 Persen Tak Rasional - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmJINGJvbWhUaUdKRjROZUE1cHR6WHllMGY1N09abk0xd3djN2lBNWlucGVEdFFCSGhtekJrS2VJZG5NTjdJNW9zS1RZMG5rZVdIaXFNQUNScENCRHAweVB5S3hXQXkwRzh0QjBXZnJGdzBUM09VVGFlTEQxVVpya0NTbHE2UHEyckZtVmNlTXFBQ09EaGlLd09KZ3g3OE42SVRiak9zRXNaT21QTk9DOWRsODNkOVdjTXpoNEdEd3ZYV1B1?oc=5",
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnM0SGo4VFF6RFROMFNoc3ZOZzZmUV9HTUtKaE1yOWhOcE5OQWRfalBJQk5YUHA1UFFCQlF2SUp6ajVWNHFzSUpPb2t5U2xHMm41YkU3R3RXcmlqQXVDSmRSODNpbzk0bFMwUUh5ZHBqOHpxYmJOREF6MzZOZGpJenF6OFJZMm40eFRnNVliZGVKWTF3NDFXajVsdXdNdVM2bUs0eEF6RQ?oc=5",
      "r": "patrolinews86"
-    },
-    {
-     "t": "Kembali Bersatu, Bupati KDS Tantang Kadin Kabupaten Bandung Undang Investasi dan Buka Lapangan Kerja - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmhubVl2SHo4ajFnNElrYjhFU2xsM2Y3c0s1ZmhCU1VVOTAyRnFOcndENXB4VVVDTTMxeGd3c0tJTjNfUGVuX3FCR3l4d05hWWFZNmRBU1I0SWZKMGkwbFN2emxvaERnN3dkN0xCVnZGMXRnM3lNZjFfWGQ4UnJDa0xqX1ZDb2M2R3ZvMm1rTDJmUlZSb3RXSzZLcFhZalczS1B1Q2ZXVDEyR3VDRjNBakx4R25ZT0J3WC1MMG84MC1GdEM3SkstZlFFem93TmZVdlpsZGM4T19XSFhKVlBtNWVWaTRBRkQzNUpB?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "[HEADLINE NEWS, 16/10] Kolaborasi Kadin Dorong Pertumbuhaan Ekonomi",
@@ -263,7 +263,7 @@
     ],
     "w": [
      8,
-     14,
+     16,
      0
     ]
    },
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     18,
-     12
+     21,
+     10
     ]
    },
    "trend": {
@@ -367,8 +367,8 @@
      0,
      1,
      2,
-     5,
-     3,
+     4,
+     2,
      1
     ]
    }
@@ -395,10 +395,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pejalan Kaki Tewas di Tempat Usai Terlibat Kecelakaan di Babakan Ciparay - jabarekspres.com",
+     "t": "Rumah di Jalan Galunggung Terbakar, Pemilik Tinggalkan Rumah saat Ponsel Sedang Dicharge dan Kipas Menyala - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3dxSkVSZHFNcDJmZS1LeXFTRkJpeDBiSjNrSGJ2UnBrY1l2S1g4RWhWUzl6Y085VjVzRzNaSUVzQzhHd1FhRmlwNFlaa3B2UXhqZ0dKUUFwdFpReXR2eGplSVBTdldKN3lXUkh5ajRnZnc3bEdUMktTZlNwUWppblVlSjNaMVJ0XzBDVW13UGk4MHcxaHptTEhLU0tyNjZVUFRlc3dDVWRmUnoydC1SbnFWUTdTdG8?oc=5",
-     "r": "jabarekspres.com"
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1FuaEpwajZQQ0dTZFNtRHpGQnVPcFhrZWlsWFVQVDJKUXBxOEl1T3NBRm9WMk5qR3g0RTRZQ1pPTHdOVkFjQUhISlJXZzRMdHJTSVBFQkRTMjY2WUNGZ2tJUU9DTURfbWpFU0tuaTc3MmU5QzNvYV9DZjhzVFJVNVVsTlNGbzRROGl0VXJOSnlMOVFaa0VyV0ZOM25FeWFmbE5jRWQydUV0cEdRY3J4OWcxZHVWaUE2enQxNkZBVzNiUGdTZGFmdmxTY3pxNGd6aWsyV3lqSEdCQ05uZ2FFNTNlM2FCMDF4UFJOeNIB8gFBVV95cUxPbHRabkJkcXBiZ3NleGVMcF9feFJrMkFNMTd2ODh5NUZlQndFaEpGczNueTNOeTNDQVdZb3RJXzlqdXQ4UTZ1eTVLOVg5eHFQQXdoeVdpSWtMQ2otODVDNmRHS2F1TUFVdnBVdGxLUUJyWU9xcVo0RXg5ZnBRMGNRMlNKOGpPVGxnUnA4S2cxUXdZcHVaTnM5NjBoVF9VMGgwNkwzc0J0V0xaQzB4QlNDd0pBMTdYbDROZkZTQUFEck5kcFlXRFRIZUZiTThLUEhWcE5jQ05neWtrVzZyX195QU4tTC1MQWI5b3VpY1ZHWW5HUQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -420,9 +420,9 @@
      7
     ],
     "w": [
+     9,
      8,
-     8,
-     18
+     19
     ]
    },
    "trend": {
@@ -441,17 +441,17 @@
      0,
      1,
      1,
-     3,
+     4,
      3
     ],
     "g": [
      1,
      1,
-     4,
+     3,
      1,
      10,
      6,
-     2
+     4
     ]
    }
   },
@@ -471,16 +471,16 @@
      "r": "MediaSakti"
     },
     {
+     "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUG5kUkppV1RZNDdXMW1xS1VfUmJuWUZ0NnN6WTRUQTU4MWNveGJydWozci1DUHI0Y2N4R1UzcmtOb19XaE1jTTIwYndHSEh0VDB0Y2xMcUlKNDZPUVJxbnhEakJlZW95Q3FxelBpU3R1R2VoVTVQRy1zQ1QwNGNLWXY3V28xdmdLOVdGZktJcmNvUGZMOVliZ1lIX2RrcVZ4d1RnTE1CMlh5d2g5ZDAxYdIBsAFBVV95cUxNUG5kUkppV1RZNDdXMW1xS1VfUmJuWUZ0NnN6WTRUQTU4MWNveGJydWozci1DUHI0Y2N4R1UzcmtOb19XaE1jTTIwYndHSEh0VDB0Y2xMcUlKNDZPUVJxbnhEakJlZW95Q3FxelBpU3R1R2VoVTVQRy1zQ1QwNGNLWXY3V28xdmdLOVdGZktJcmNvUGZMOVliZ1lIX2RrcVZ4d1RnTE1CMlh5d2g5ZDAxYQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Gedung Bekas RSUD Soreang Kabupaten Bandung Disiapkan Jadi Sekolah - PenaKuID",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVUXM1SXJYYjVrZTNnSXVtSlN5dXczd0kzZDVVNWtjcWFtUjZwZ3FTZ3ZUWmIyMFlmWHZRVWtrQ3V3NGRHc0dwdzR4dTJDUFZqeXhBS2VLTjBqaHptNkN5aGNGaDhpdHIyR0w3b0piYUZUQ0NlYW5CY3NFZkxXUTBaT0tuTlZZXzBmWjJR0gGWAUFVX3lxTE8wcGV0RHE0cmpGa1Z0X3hWaGpXZFpFdjVHaDBiVWtMa19pRGd1RHRnNy04WV9oVE01RktvNUNiWTcxT1BsdFN0NHYxOFItbmhzb1JQYlBmUG4wMlJlVWU2aWR5VGltM0pHcDlxeGV5Nl9tRmhKTERDZWtseXlhcTZUcDZoMV9oVFo1YjBvTXgxX2VGS1ItUQ?oc=5",
      "r": "PenaKuID"
-    },
-    {
-     "t": "Bekas RSUD Soreang Disiapkan Jadi Sekolah, SMPN 5 Soreang Ditargetkan Pindah 2027 - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDBKdlhSMjZ1X1lobnpTQXY4dEdWQzlwTFNpVnVMVURZVDJXZGNkanpPM1lmb2N3YXBnMDJqT2g2T0ZNNkhDM2g3TDZjNlZHU2s3YkttNC1FTU1WdDlXVW5NUnVMWW1NNmp5SmN1NkN5cVU5Zk15aW1oRzVPTWxxN1JhTUVRLUJucUFXaHhTVlFoeV9NeHV5YTVBcnN3cHUyWks4QVZ2ZE1rU3M?oc=5",
-     "r": "Inilahkoran.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -504,7 +504,7 @@
     "w": [
      5,
      24,
-     5
+     4
     ]
    },
    "trend": {
@@ -528,7 +528,7 @@
     ],
     "g": [
      0,
-     3,
+     2,
      0,
      1,
      0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:20:10.725014+07:00",
+ "updated": "2026-10-17T00:18:27.594085+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "Ayo Bandung",
-   21
-  ],
-  [
-   "RRI.co.id",
-   19
+   20
   ],
   [
    "Kompas.com",
    19
+  ],
+  [
+   "RRI.co.id",
+   15
   ],
   [
    "detikcom",
@@ -51,19 +51,19 @@
    4
   ],
   [
-   "deJurnal.com",
+   "Giwangkara",
    3
   ],
   [
-   "Giwangkara",
-   2
+   "deJurnal.com",
+   3
   ],
   [
    "Aspirasi Jabar",
    2
   ],
   [
-   "Inilahkoran.id",
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -112,7 +112,7 @@
    "v": {
     "s": [
      1,
-     3,
+     2,
      2
     ],
     "w": [
@@ -123,30 +123,30 @@
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      1,
      0,
      0,
      3,
-     13
+     13,
+     0
     ],
     "g": [
      0,
      0,
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0
     ]
    }
@@ -187,34 +187,34 @@
     ],
     "w": [
      8,
-     9,
+     8,
      2
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      2,
      0,
      0,
      3,
-     3
+     3,
+     0
     ],
     "g": [
      0,
      0,
-     0,
      2,
+     0,
      0,
      0,
      0
@@ -269,28 +269,28 @@
     ],
     "w": [
      8,
-     17,
+     16,
      0
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      1,
      1,
      0,
      3,
-     3
+     3,
+     0
     ],
     "g": [
      0,
@@ -329,53 +329,47 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JwNUM1MTctT2JNYURzcm9Fb2FvSGFPWU9NOVp3Z0pPUF9idE5pVFY3YVREQTBfUm5rTzdLZlpFZlR5eVFKRFhMN2JNUUk4Mmt3TVNZTnFuNVJCZ1hfYUNnVVpmQXkxM1FRWENRZEhhWGtpdmZlUWJ5ejNPMk5Db29oWVNzYXc1V09rV05wcXlLRGtMaTJmUE01elVDWE1sc2Nfemlqc29reUs5azlBSUVvUGNNOWNMaC1ZMzczMlRsNTBBbnV0bmZFV1hzd280QW9peEdNQdIB3AFBVV95cUxPSnpQUUg3VEZSWHFTTGt2RTlsdHJ1Ry1COVJtbXlGVHRZYmVKc1N1aU5hZVlSdE90R2FaTHdQUEJpcGJkbWg2enJkaDRnTG5HTktPSEJqNW9Jd3FaSDRjR2hKbERvZ09zejFDWTR0SmpMNUVwb25IVVpmWVJIVTdYVFM1MTJBZW5zWlhyelR3NFVmcUI3bS1qT01LQU5rZzBZVlNDZkNFcGU0WHU5azVnYzUyV2NZSEFYYklETTBWRDBNU3BDeFJZTmVNSWc4Wk1yTTgza09YUlpsOWpI?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "UANG BUMD HILANG? Bupati Bandung Dadan Curhat ke Dedi Mulyadi Soal Kasus PT BDS",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=ipUQFdufrUc",
-     "r": "YouTube TRUE STORIES CHANNEL"
     }
    ],
    "v": {
     "s": [
      0,
      0,
-     1
+     0
     ],
     "w": [
      2,
-     19,
-     12
+     17,
+     10
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      1,
      0,
      0,
      0,
      1,
+     0,
      0
     ],
     "g": [
-     1,
      0,
-     1,
+     0,
      2,
-     5,
+     4,
      3,
-     1
+     1,
+     0
     ]
    }
   },
@@ -401,9 +395,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "[FOTO] Petugas Damkar Padamkan Kebakaran Bangunan di Jalan Galunggung Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkR1VmhwNW9ybE1lTlVWZHJZcHd1dklIOGZ2Y1pFY0tMV044ZWxBTWd4UHk1WTEzdVJNSkNTdDdQYTJHejRoei1odXNJNWtzbVRRT3dsMjlaQUplZWpxa2NCYVVxMm9hQnBGVEhfUVlJT2hhT1BPMWctb1JGcWdxRTQ2Tm1BaFFpZE1ScjhHMnk1MVhIN0ZaVDVtaWJqX3FBX0lTcEh3NzlDNWdQbEhNNUw1a3NaYVJBMnl2OF9CbVRyTU5O0gHKAUFVX3lxTE9rdi1veEc3emJwcURwc3dleG1idjBMekRRYVVsMzVxb2FZNmttN2xVODk4OTl3M3Y4dkJZTXE3OUxsQ1Uzb0twYWhHUC10QXRVSEFHcVNGbUhsYjNOZUpxd1FQNjhxYXNMREFreXl0MGVaNW54SkdTVFNncXdySFd0aEZfdWl5WXZacG0ydG9NeGdQQ2V3My03Z29hYlQyb0ZZM1M2N0NLMTNva2tGTml0TDJQbG9zWDNVNFNCSE9IaFVmaWtuUzBrWXc?oc=5",
+     "t": "Rumah dan Warung di Jalan Galunggung Terbakar, Api Berkobar Hebat Berhasil Dipadamkan - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDM3c0hlLWhYdTJ3azJrLVN6TDh0QllkVlpxZ3Vsa0NrRHR5XzZSR29fY0tIX3ZuSWxMbEIyRTlnZDd3b0ZFUzhuY1hqbzd6aWNyMHN6LWI2T3ZHY0E5d3RKUVRlamhBR3NrNGt1X0s5ZHJGaGVKT2ZCMDJfbUJpMWtma3BqRmdzc012V0FOeVo1NV9mV1Z6T1BkQnowcU1NUC1YN0k1RzJpTGZJZ1Q5UmdFV1I0NE5sbEQ4dXEtZ2oxakc2NlAxMmdlejBXNU5G0gHWAUFVX3lxTFBEbGtKanROTFpCZ0NmMElLQ2ZBejVmV3cxUEZNb0lLc084d2I5STNDRHE4MzZ5bS1nZHpGT19VNUhFWEcyWm1oUXQ1YlFHektoZmJlZ0w3bXB5V3hoVGJac0tKOUpaTlRvazdqc1JwYlpoWjFOMGtBWjc0QWZvSlNlZHBjV0FYbGFrZFZfeTZSUFVfRjBIVjhPRFJQaEtPRFhzN2hnNnlnQ1ZfZzhpVDZHdDZqM3lpbDVlRW5hWG1vb19YcEF2ZUFVYnAwa0czRmF6OHB3cHc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -423,41 +417,41 @@
     "s": [
      0,
      1,
-     7
+     6
     ],
     "w": [
-     9,
-     8,
-     18
+     10,
+     7,
+     17
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
-     0,
-     1,
+     2,
      1,
      3,
-     4
+     4,
+     0
     ],
     "g": [
      1,
      1,
      1,
-     1,
      10,
      6,
-     5
+     4,
+     0
     ]
    }
   },
@@ -504,7 +498,7 @@
    "v": {
     "s": [
      0,
-     3,
+     2,
      0
     ],
     "w": [
@@ -515,30 +509,30 @@
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
-     0,
      1,
      1,
      1,
      0,
-     2
+     2,
+     0
     ],
     "g": [
-     0,
      2,
      0,
      1,
      0,
      1,
+     0,
      0
     ]
    }

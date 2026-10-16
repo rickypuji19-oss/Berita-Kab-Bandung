@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:19:52.211723+07:00",
+ "updated": "2026-10-17T03:13:58.299273+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   23
   ],
   [
    "Ayo Bandung",
-   21
+   20
   ],
   [
    "Kompas.com",
@@ -51,19 +51,19 @@
    4
   ],
   [
-   "deJurnal.com",
+   "Giwangkara",
    3
   ],
   [
-   "Giwangkara",
-   2
+   "deJurnal.com",
+   3
   ],
   [
    "Aspirasi Jabar",
    2
   ],
   [
-   "Inilahkoran.id",
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      16,
-     22,
+     21,
      0
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     17,
+     16,
      0
     ]
    },
@@ -313,12 +313,6 @@
    ],
    "h": [
     {
-     "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Bongkar 'Kampung Narkoba' di Saritem, Gebrakan Polrestabes Bandung Banjir Apresiasi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm5sdERiTnFXOXB6T1JYS2N4WHVONEFrNmZreGlOc09Bb2lqWlFoMVRqVXBaZE85Ym9FNFB0cDNybmx1Sjc5WGgtZmVYRVRrTnFFLU9QSEdhdVl6dnNtSEZSQ0szUlVtZzdCRy1zZkhFRFZXODh0RVVBOHdwQkZ2b3BBWktIYjJhdzVCNHJoenJDY0VKU2h6UHQxMG5tWVhfcDJyNHFfdUh3cVN2bEhyOXF5Tm9adFdxaDRPUXl3VVRaSUotZ2lpbjA0c9IB0AFBVV95cUxQcUhmY2FlX29rZGt4cmxaVkZnM1ZWd0RCRzZXM1VwOTBrNmxIamtvRC1KSURNWmlRNDFmSGZaQ3h4TWJSUWNSOWlIb2lfQ3FRVFNQNG9EV1BnUVB6dEVmQTRzbVdtTC00NXZGTDNkRnZMbVFyREN3aFprMXZydkZkaW5BZXF3X2dYdGJPY1ZpazBFVmZya0VYLXFPUDZvR3BBdlU5bnhWOTdHc29aV2g4cGZEb0trU2tiR1FXTHBBZUVZYzg4eXpoeDVOTEJ6c3FZ?oc=5",
@@ -329,6 +323,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JwNUM1MTctT2JNYURzcm9Fb2FvSGFPWU9NOVp3Z0pPUF9idE5pVFY3YVREQTBfUm5rTzdLZlpFZlR5eVFKRFhMN2JNUUk4Mmt3TVNZTnFuNVJCZ1hfYUNnVVpmQXkxM1FRWENRZEhhWGtpdmZlUWJ5ejNPMk5Db29oWVNzYXc1V09rV05wcXlLRGtMaTJmUE01elVDWE1sc2Nfemlqc29reUs5azlBSUVvUGNNOWNMaC1ZMzczMlRsNTBBbnV0bmZFV1hzd280QW9peEdNQdIB3AFBVV95cUxPSnpQUUg3VEZSWHFTTGt2RTlsdHJ1Ry1COVJtbXlGVHRZYmVKc1N1aU5hZVlSdE90R2FaTHdQUEJpcGJkbWg2enJkaDRnTG5HTktPSEJqNW9Jd3FaSDRjR2hKbERvZ09zejFDWTR0SmpMNUVwb25IVVpmWVJIVTdYVFM1MTJBZW5zWlhyelR3NFVmcUI3bS1qT01LQU5rZzBZVlNDZkNFcGU0WHU5azVnYzUyV2NZSEFYYklETTBWRDBNU3BDeFJZTmVNSWc4Wk1yTTgza09YUlpsOWpI?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Dukung Kinerja Pemerintahan Akuntabel, Kemenkum Jabar Tuntaskan Harmonisasi 11 Peraturan Bupati KBB - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2Q5T3pPRFNFcHhZZWZJMWZwX2hlT1luSXR6aTJaQjZoZVJMU1dkZHlKZE9uX01sdlZCdXVvRmpzdVZ2eFY4a2NxWmtSMHcyMVBYZUZCNFdnejZHNWZIWDRfR2RyWFZsT014RzFXMVlDYjhTZVZhVkNtSFZscmUxMkhaZzdrdm5xdjlscDB6WWV2OXJwNkhpTTBuY3ItOHpRX2xuOUUwN1k1LURJWmxZWHdYc2xURzZ2UWtJaW9tSEpMZ2F2OV8zbTlhc2ZoQ1l6eXZWbzdFRWs0bFRxejBfSg?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     17,
-     11
+     15,
+     10
     ]
    },
    "trend": {
@@ -367,7 +367,7 @@
      1,
      2,
      4,
-     3,
+     2,
      1,
      0
     ]
@@ -395,9 +395,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "[FOTO] Petugas Damkar Padamkan Kebakaran Bangunan di Jalan Galunggung Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkR1VmhwNW9ybE1lTlVWZHJZcHd1dklIOGZ2Y1pFY0tMV044ZWxBTWd4UHk1WTEzdVJNSkNTdDdQYTJHejRoei1odXNJNWtzbVRRT3dsMjlaQUplZWpxa2NCYVVxMm9hQnBGVEhfUVlJT2hhT1BPMWctb1JGcWdxRTQ2Tm1BaFFpZE1ScjhHMnk1MVhIN0ZaVDVtaWJqX3FBX0lTcEh3NzlDNWdQbEhNNUw1a3NaYVJBMnl2OF9CbVRyTU5O0gHKAUFVX3lxTE9rdi1veEc3emJwcURwc3dleG1idjBMekRRYVVsMzVxb2FZNmttN2xVODk4OTl3M3Y4dkJZTXE3OUxsQ1Uzb0twYWhHUC10QXRVSEFHcVNGbUhsYjNOZUpxd1FQNjhxYXNMREFreXl0MGVaNW54SkdTVFNncXdySFd0aEZfdWl5WXZacG0ydG9NeGdQQ2V3My03Z29hYlQyb0ZZM1M2N0NLMTNva2tGTml0TDJQbG9zWDNVNFNCSE9IaFVmaWtuUzBrWXc?oc=5",
+     "t": "Rumah dan Warung di Jalan Galunggung Terbakar, Api Berkobar Hebat Berhasil Dipadamkan - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDM3c0hlLWhYdTJ3azJrLVN6TDh0QllkVlpxZ3Vsa0NrRHR5XzZSR29fY0tIX3ZuSWxMbEIyRTlnZDd3b0ZFUzhuY1hqbzd6aWNyMHN6LWI2T3ZHY0E5d3RKUVRlamhBR3NrNGt1X0s5ZHJGaGVKT2ZCMDJfbUJpMWtma3BqRmdzc012V0FOeVo1NV9mV1Z6T1BkQnowcU1NUC1YN0k1RzJpTGZJZ1Q5UmdFV1I0NE5sbEQ4dXEtZ2oxakc2NlAxMmdlejBXNU5G0gHWAUFVX3lxTFBEbGtKanROTFpCZ0NmMElLQ2ZBejVmV3cxUEZNb0lLc084d2I5STNDRHE4MzZ5bS1nZHpGT19VNUhFWEcyWm1oUXQ1YlFHektoZmJlZ0w3bXB5V3hoVGJac0tKOUpaTlRvazdqc1JwYlpoWjFOMGtBWjc0QWZvSlNlZHBjV0FYbGFrZFZfeTZSUFVfRjBIVjhPRFJQaEtPRFhzN2hnNnlnQ1ZfZzhpVDZHdDZqM3lpbDVlRW5hWG1vb19YcEF2ZUFVYnAwa0czRmF6OHB3cHc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -422,7 +422,7 @@
     "w": [
      9,
      8,
-     17
+     16
     ]
    },
    "trend": {
@@ -450,7 +450,7 @@
      1,
      10,
      6,
-     3,
+     2,
      1
     ]
    }
@@ -503,7 +503,7 @@
     ],
     "w": [
      5,
-     26,
+     28,
      4
     ]
    },

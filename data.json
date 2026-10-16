@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:18:26.464409+07:00",
+ "updated": "2026-10-17T05:18:25.389171+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "Kompas.com",
-   20
+   19
   ],
   [
    "RRI.co.id",
@@ -27,10 +27,6 @@
    9
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
-  ],
-  [
    "Disway",
    6
   ],
@@ -39,11 +35,11 @@
    6
   ],
   [
-   "Satumedia.id",
-   4
+   "ANTARA News Jawa Barat",
+   5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Satumedia.id",
    4
   ],
   [
@@ -55,7 +51,7 @@
    3
   ],
   [
-   "deJurnal.com",
+   "Pikiran Rakyat Koran",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Inilahkoran.id",
+   2
+  ],
+  [
+   "Jurnal Soreang",
    2
   ]
  ],
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     16,
-     22,
+     17,
+     21,
      0
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      3,
-     13,
+     14,
      0
     ],
     "g": [
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Hasil Survei Adidaya Institute Sebut Tingkat Kepuasan Terhadap Presiden Prabowo Subianto Capai 60,3 Persen - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY1FlNkg4R3RiWWZBT3FsMWlXcXNZRkZpMWJZbHV0cHk3N2Zta1ZpMlJNUzk4ellNbGJIa1RkMzFtQWFpOGpkUXltV0tvU3RlTTZGTkt5VEstOXBqTEloVGF6TGN5R1BZYXhoYlpCMjhleTk3c2tiZXlzUFRidG5tZGdOSkxHejZsdlNuckI2NDhVTWlBZFowaFJlRVp3TjM2bGpGNThGWVZ4a3MzdXlZYzYzUkwxUDZabmVPakNvbXJlRmJrOFJyLTJLd212Z05GX2xzREJJS2VyR1RDZ1U5REVlSQ?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Pemkab Bandung Dukung Sarana Pendidikan yang Layak dan Pembelajaran Digital - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPd9IBtgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPdw?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVUXM1SXJYYjVrZTNnSXVtSlN5dXczd0kzZDVVNWtjcWFtUjZwZ3FTZ3ZUWmIyMFlmWHZRVWtrQ3V3NGRHc0dwdzR4dTJDUFZqeXhBS2VLTjBqaHptNkN5aGNGaDhpdHIyR0w3b0piYUZUQ0NlYW5CY3NFZkxXUTBaT0tuTlZZXzBmWjJR0gGWAUFVX3lxTE8wcGV0RHE0cmpGa1Z0X3hWaGpXZFpFdjVHaDBiVWtMa19pRGd1RHRnNy04WV9oVE01RktvNUNiWTcxT1BsdFN0NHYxOFItbmhzb1JQYlBmUG4wMlJlVWU2aWR5VGltM0pHcDlxeGV5Nl9tRmhKTERDZWtseXlhcTZUcDZoMV9oVFo1YjBvTXgxX2VGS1ItUQ?oc=5",
      "r": "PenaKuID"
-    },
-    {
-     "t": "Camping di Pantai Pangasan, Sensasi Menginap di Tepi Laut Selatan! - Kanalindonesia.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3VncGtBMHBEUExUclotd1ozNWc1UTB3ZE0ya08xS3hTaTQzMzlDU3hzYWRCc3pvRGlTbS1sNDdVTVc3R3ByVFUzcm42S19xdllwZEw0ZVBBaFFCNDhQUS1vQ2gwZV9yaDlHZjM0Q2FxcEhRRlRlQVR5NTJteDFpQi04RzcyTkFfSHVHdUctdnJRNVpLRFlDSFdCSnJ4cVFZ?oc=5",
-     "r": "Kanalindonesia.com"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     8,
-     8,
+     7,
+     9,
      2
     ]
    },
@@ -206,7 +206,7 @@
      2,
      0,
      0,
-     3,
+     2,
      3,
      0
     ],
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     17,
+     16,
      0
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     17,
+     16,
      11
     ]
    },
@@ -415,14 +415,14 @@
    ],
    "v": {
     "s": [
-     0,
+     1,
      1,
      6
     ],
     "w": [
      9,
      8,
-     17
+     16
     ]
    },
    "trend": {
@@ -438,7 +438,7 @@
     "p": [
      0,
      0,
-     1,
+     2,
      1,
      3,
      4,
@@ -446,7 +446,7 @@
     ],
     "g": [
      1,
-     2,
+     1,
      1,
      10,
      6,
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     5,
-     27,
-     4
+     4,
+     26,
+     5
     ]
    },
    "trend": {
@@ -521,13 +521,13 @@
      0,
      1,
      1,
-     1,
+     0,
      0,
      2,
      0
     ],
     "g": [
-     2,
+     3,
      0,
      1,
      0,

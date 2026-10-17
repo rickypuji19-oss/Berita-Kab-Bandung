@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:14:05.630631+07:00",
+ "updated": "2026-10-17T19:14:02.830847+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "Kompas.com",
-   18
+   17
   ],
   [
    "Disway",
@@ -47,12 +47,16 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
    "Radar Bandung",
    3
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "Galamedia News",
+   2
   ],
   [
    "Ketik",
@@ -60,10 +64,6 @@
   ],
   [
    "republika.co.id",
-   2
-  ],
-  [
-   "jurnalpolisi.co.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS Dukung Penuh Revitalisasi Sekolah, Kabupaten Bandung Dapat Bantuan Rp137 Miliar dari Kemendikdasmen - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkstM2hoVXdxOWthc05yZHplUE5oaWp5cHM1V1NfbWtUd3hqQ2xXOHNDSG1YRXR5N2VvVURFNEsweUlmTUhYV0NkYno2bWIxZE9oMWEwd3dQSWVzZ0ktODI5Yzg1em9nMlhPaG1QTHZoOFNiREJCTWx6VDh0MDFwZEJUamRjc21veV8zM2lXS0UxNXVhWDUyRDNvTmFSRTU4aVE5VUNxM0JtcTRtbUhlMjJEVV83Z1Z3bjJwNFpRS1ZoODhIWFdaaHRXaU00VVVUSXJNeUFCY2l0VGFJM0JzRVM4VnNfZUtXajQtYUg4cw?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Pemkab Bandung Dukung Sarana Pendidikan yang Layak dan Pembelajaran Digital - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFZyU0IwRVJyMGJ5WTlkcnBzSWZFdjhPS1pmYXlKM3E3VVhGeFJOOE9aQXg1WXV5MWVnZXJwRWRKMHNtdjlYNjZlYTRzTjNRdTRDV2pOQUp3aTRhU2dldFpPWWRWd3ZxYkprUmFUT0hyb3VqREwxcnFQVFFSVUhfVmRveWhhbERkRVdfT1N5MVY2alN0a0VJcWF0WmFTMXBMbXRzMFBzQUR6b29aMlhPWW5SZGFZUdIBtgFBVV95cUxQMFZyU0IwRVJyMGJ5WTlkcnBzSWZFdjhPS1pmYXlKM3E3VVhGeFJOOE9aQXg1WXV5MWVnZXJwRWRKMHNtdjlYNjZlYTRzTjNRdTRDV2pOQUp3aTRhU2dldFpPWWRWd3ZxYkprUmFUT0hyb3VqREwxcnFQVFFSVUhfVmRveWhhbERkRVdfT1N5MVY2alN0a0VJcWF0WmFTMXBMbXRzMFBzQUR6b29aMlhPWW5SZGFZUQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTdxUU0tU29ibjhNWjFVLVM2SzlLdGg2aTBLWWpiV3dJTTN5VjRGdVNGSTZHckkyTTEyckY0N3RaTDY4b01SelNwNUowU1hrd3RybTk4bjV2SjA4b2FLR0EtS095X05qVkxyd3FZXzRPWDlfaWFnQ0hySWtDV3piQ01xWVotUTBRdVJUTE92VDBSTFcwaVMwMHBTTFdNc21TQlU2aUtpQTZVaGdDa2Q4Z180V0c?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Hampir 95 Persen Sekolah di Kabupaten Bandung Butuh Revitalisasi, APBD Tak Mampu Menanggung - Ketik",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3BDbGt0Rnp6MGFMdGNCdnFDWjBZcWZYb0tsT0RzQVVUaWJfNjhHNzloUkVuLWV6Q080aC1CaDZIWG5BNWNlUFNkTUIweWNNcE54Qmtocjc5NTdzbGRLNUNQNjBfOE5NazZhM054elZ4ajRhbDR4QTdNYThEY3B2ZHVTUlNIQzRjQnIwbUxlalJrMmtuYjYxdWh6azF6MUFpNC01VWwtMEFjeXpKdlk2c0dB0gGyAUFVX3lxTE5fcENsa3RGenowYUx0Y0J2cUNaMFlxZlhvS2xPRHNBVVRpYl82OEc3OWhSRW4tZXpDTzRoLUJoNkhYbkE1Y2VQU2RNQjB5Y01wTnhCa2hyNzk1N3NsZEs1Q1A2MF84Tk1rNmEzTnh6VnhqNGFsNHhBN01hOERjcHZkdVNSU0hDNGNCcjBtTGVqUmsya25iNjF1aHprMXoxQWk0LTVVbC0wQWN5ekp2WTZzR0E?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     15,
-     24,
+     16,
+     23,
      0
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      12,
-     3
+     4
     ],
     "g": [
      0,
@@ -319,16 +319,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "RINGKASAN DAPTAR PELAKSANAAN ANGGARAN (DPA) SATUAN POLISI PAMONG PRAJA KABUPATEN BANDUNG TAHUN 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeWlIQUtUSE1LVXpMdFZkSFJULWxQYi1HTTNzOVZDSTBnWW5CM0I1SG1ybnhablNOOHhHeWlVUVh5SndzQW9mT2JpWmp3QmdkWjAweGc5Uk9jSGJ2RlpYa2JNWFB6aVozU2l5M3RxcWVZWWZ3a0RHXzEzSXpYN3lBbkZyd2hkdld6VG1ldUMwMURSSlhFc01Db18zRDd3aTg2VGVwbmhxVm1uZXA0RV81NWxXaW1TQnpMZlBudm9Del9meHd1MXNOYWh2cTk4b0xVeUo3NWlldXIwR0VnN3dpUHZTNlU3TXMxb3k0NTVmMjFPeUU?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bongkar 'Kampung Narkoba' di Saritem, Gebrakan Polrestabes Bandung Banjir Apresiasi - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm5sdERiTnFXOXB6T1JYS2N4WHVONEFrNmZreGlOc09Bb2lqWlFoMVRqVXBaZE85Ym9FNFB0cDNybmx1Sjc5WGgtZmVYRVRrTnFFLU9QSEdhdVl6dnNtSEZSQ0szUlVtZzdCRy1zZkhFRFZXODh0RVVBOHdwQkZ2b3BBWktIYjJhdzVCNHJoenJDY0VKU2h6UHQxMG5tWVhfcDJyNHFfdUh3cVN2bEhyOXF5Tm9adFdxaDRPUXl3VVRaSUotZ2lpbjA0c9IB0AFBVV95cUxQcUhmY2FlX29rZGt4cmxaVkZnM1ZWd0RCRzZXM1VwOTBrNmxIamtvRC1KSURNWmlRNDFmSGZaQ3h4TWJSUWNSOWlIb2lfQ3FRVFNQNG9EV1BnUVB6dEVmQTRzbVdtTC00NXZGTDNkRnZMbVFyREN3aFprMXZydkZkaW5BZXF3X2dYdGJPY1ZpazBFVmZya0VYLXFPUDZvR3BBdlU5bnhWOTdHc29aV2g4cGZEb0trU2tiR1FXTHBBZUVZYzg4eXpoeDVOTEJ6c3FZ?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     17,
-     12
+     18,
+     11
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      1,
      2,
-     5,
+     4,
      2,
      1,
      1
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "KDS Dukung Penuh Revitalisasi Sekolah, Kabupaten Bandung Dapat Bantuan Rp137 Miliar dari Kemendikdasmen - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkstM2hoVXdxOWthc05yZHplUE5oaWp5cHM1V1NfbWtUd3hqQ2xXOHNDSG1YRXR5N2VvVURFNEsweUlmTUhYV0NkYno2bWIxZE9oMWEwd3dQSWVzZ0ktODI5Yzg1em9nMlhPaG1QTHZoOFNiREJCTWx6VDh0MDFwZEJUamRjc21veV8zM2lXS0UxNXVhWDUyRDNvTmFSRTU4aVE5VUNxM0JtcTRtbUhlMjJEVV83Z1Z3bjJwNFpRS1ZoODhIWFdaaHRXaU00VVVUSXJNeUFCY2l0VGFJM0JzRVM4VnNfZUtXajQtYUg4cw?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Pemkab Bandung Dukung Revitalisasi Sekolah dan Digitalisasi Pembelajaran - Radio PRFM",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQWYwY0VlbnRWU0RtRF9yamp2WUUtSzJZN2diUUIzVnRJVWJiNWtRNGcwWi1iSWZrOXhkcGFrYTdVclBoTU8yVW16QWRkbDN3SVVGR0tWakdzTmNyeE1uMkdPbmZKQ2xOUHV0TnJfUUkyWGxUNmN4LUZyOE43cUtNZk50NmFVN0VzNm5Pd3BTQmM0T19mR3o5N1RwRUEySzdwdGJkRjRuVlRNOWlvczA5Ykt1bzk1X0YyZTRNOU1MelRPSFhRdFFxZmo2dVpROUlNaWNBRk1n0gHWAUFVX3lxTFBBZjBjRWVudFZTRG1EX3JqanZZRS1LMlk3Z2JRQjNWdElVYmI1a1E0ZzBaLWJJZms5eGRwYWthN1VyUGhNTzJVbXpBZGRsM3dJVUZHS1ZqR3NOY3J4TW4yR09uZkpDbE5QdXROcl9RSTJYbFQ2Y3gtRnI4TjdxS01mTnQ2YVU3RXM2bk93cFNCYzRPX2ZHejk3VHBFQTJLN3B0YmRGNG5WVE05aW9zMDliS3VvOTVfRjJlNE05TUx6VE9IWFF0UXFmajZ1WlE5SU1pY0FGTWc?oc=5",
@@ -475,12 +481,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0RxTmVDb3Q4ejZTZXp2QzBMSDhaOUw1M2M0M2hGZ0p6X2pJUk1TdmxuR0hoUXItbFRHZUJneHYxcUxoc21QaVZZeW1lUnpMc255ekRaTGFxVUFBWTF0TXlSSWNoQ0pjRlVOZVZzT2duUjFWUFdOZmpENzZNcElSdFJEUzFRUDF4cHpfRVdQeHVyV0dFZWhzTTJrVER0SHVjWEpoY2ZuVC1vcnVXQmQ5TmNxdE9QOEVGeDJXWnln0gHDAUFVX3lxTFBUYWYyQ1p0dHhmeEFISjBBRThfd3pxZ3ZHY19QTXI2bWZCQl9WY1JZSjBMX1ZzYnFMc01lME1kZkljN2Z6OF9zcEw0S1NZMk1uQVNlZjR4S2FaRnBBUGpUZzQ3MkpRTlNMTVNxUGMtWU5tckljU0FmQ09ueE1mUER2cHhPRXRpQ09mdnMxVlFsSjlsenAycUd4TjhVZU5XVXJ3ZGE3b0V4V0Qxdy1hNUhMc1lwMF9seWJ4dlNfbFBIU2xkUQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Dinkes Kabupaten Bandung Tingkatkan Edukasi Cegah ISPA Pancaroba - Zonautara.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFlXMWNObEk1SFBlcm5Zd0N5dlBlMnhIaWZScUFYcnVlZ25lNVh4Y3VpSnQxQkhQd0w4UGNhb19nWk9hcjNDRFd4bVllTm5YdnNuaS1MNWdlTEVWRVlJSGI2ejZGamJ4RXNQY25NcmlSYWh0VWdSY2xpT05KV295V09fb3llYlFNTzBvT3J0NFE3SDdMai1IWEE1NGpLMm8?oc=5",
-     "r": "Zonautara.com"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -503,7 +503,7 @@
     ],
     "w": [
      7,
-     28,
+     27,
      3
     ]
    },
@@ -519,12 +519,12 @@
     ],
     "p": [
      0,
-     1,
+     0,
      1,
      1,
      0,
      2,
-     3
+     4
     ],
     "g": [
      0,

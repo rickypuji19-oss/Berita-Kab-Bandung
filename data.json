@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:25:00.086335+07:00",
+ "updated": "2026-10-17T15:14:36.144665+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,11 +15,11 @@
    21
   ],
   [
-   "RRI.co.id",
-   18
+   "Kompas.com",
+   19
   ],
   [
-   "Kompas.com",
+   "RRI.co.id",
    18
   ],
   [
@@ -87,7 +87,7 @@
     {
      "t": "Hampir 95 Persen Sekolah di Kabupaten Bandung Butuh Revitalisasi, APBD Tak Mampu Menanggung - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEIwUUFOTFdoaFpoUmF3czN3Nk5wQ3BaODVfMG0zNnBMTnBFT2IzYjFEdWtHU3VDUFNNQjRLRHNRZ2tNOEpYaFhoa0lMNzhjYmhZWjJabjNmdGoxSlpQSDBQV2d1THpNcF91ek9rblNKX3FlWTJReUtHcnhObFJCWnUyWUNuTlhza3NGMmhhdzRheDB0OHBTa2V2bXpmUUtBTDJ2TkttUm5LQnZZcVhMSWczMnluUUM1dXpZR0RjV3FtWF9xTXfSAbIBQVVfeXFMTl9wQ2xrdEZ6ejBhTHRjQnZxQ1owWXFmWG9LbE9Ec0FVVGliXzY4Rzc5aFJFbi1lekNPNGgtQmg2SFhuQTVjZVBTZE1CMHljTXBOeEJraHI3OTU3c2xkSzVDUDYwXzhOTWs2YTNOeHpWeGo0YWw0eEE3TWE4RGNwdmR1U1JTSEM0Y0JyMG1MZWpSazJrbmI2MXVoemsxejFBaTQtNVVsLTBBY3l6SnZZNnNHQQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3BDbGt0Rnp6MGFMdGNCdnFDWjBZcWZYb0tsT0RzQVVUaWJfNjhHNzloUkVuLWV6Q080aC1CaDZIWG5BNWNlUFNkTUIweWNNcE54Qmtocjc5NTdzbGRLNUNQNjBfOE5NazZhM054elZ4ajRhbDR4QTdNYThEY3B2ZHVTUlNIQzRjQnIwbUxlalJrMmtuYjYxdWh6azF6MUFpNC01VWwtMEFjeXpKdlk2c0dB0gGyAUFVX3lxTE5fcENsa3RGenowYUx0Y0J2cUNaMFlxZlhvS2xPRHNBVVRpYl82OEc3OWhSRW4tZXpDTzRoLUJoNkhYbkE1Y2VQU2RNQjB5Y01wTnhCa2hyNzk1N3NsZEs1Q1A2MF84Tk1rNmEzTnh6VnhqNGFsNHhBN01hOERjcHZkdVNSU0hDNGNCcjBtTGVqUmsya25iNjF1aHprMXoxQWk0LTVVbC0wQWN5ekp2WTZzR0E?oc=5",
      "r": "Ketik"
     },
     {
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     15,
-     22,
+     14,
+     23,
      0
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     13,
+     12,
      2
     ],
     "g": [

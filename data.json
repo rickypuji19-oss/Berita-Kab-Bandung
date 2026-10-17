@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:14:43.296081+07:00",
+ "updated": "2026-10-17T07:14:11.422543+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   20
+   21
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   17
+   18
   ],
   [
    "detikcom",
@@ -43,12 +43,12 @@
    4
   ],
   [
-   "Giwangkara",
+   "Radar Bandung",
    4
   ],
   [
-   "Radar Bandung",
-   4
+   "Giwangkara",
+   3
   ],
   [
    "Pikiran Rakyat Koran",
@@ -63,7 +63,7 @@
    2
   ],
   [
-   "Jurnal Soreang",
+   "liputan4.com",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Polsek Cicalengka Laksanakan Pengamanan Kunjungan Bupati Bandung di SMPN 2 Cicalengka - jurnalpolisi.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVlfSGdCaFdrUXdnVnhSTVhwSVUxUExmV1lTdDdrY2l4aHJyN0ZCMXpITkpXdXFaNjJmZGpjSEhjNG1PMjFILTFweGwtTWJhaE94UnFSUGQ5bjlCUW9vSHlPQnMtdVZOaWI3dno5QThBQmQzVks3N0J4NlRkdjNrOWJVdEh6eF9Nc08wbXBDT3JqNFhiUGtGWHVFUHZxcElMQ3A1ZzA3bERmT1piajRWN1B2TQ?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - digo.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTFiTUJndDVCU3hvdjNuZ08wNG5UOXR5NWdjSFE3N0VUX1RhU09iRzNJWDd5R0w2T3RPdzdMdk9UdWVLeVdaVk1BMWRaVENjQVVCU3F4Zy1iTzNaM1RxSGZCaVJTdFQtQnh5andLWGpZSzV2Yjl2OU1pb0daU3FKUWVwYWlxYmlidkE1YnhlNHdsc1IydHlB?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2txLUJzQlUxUC1yQTlfSVlIbE82c0diRF9RbkZndWw4ak50S1hQTmg1eXBNTUVjRnpmdXVuMlpzMkNBcmx4ZkQwcjAteUZjTmlIREpHN2dhNV9veGlmcXUxU3dpbTM2VHM3WmszRGRvUHZoVzBkRUxTZmFsUU16OUUtQ0hNNklHNmt3am95Y3FtVXl1aUIzeFhjT2l4U3I1NV9HdW56X1R1dFFCYzY3QU1qanIwZ9IBuwFBVV95cUxNZ1dOUHFjb3loX01nTG52TXcweDRZaDhWUmttY045M2Qxc3kzWms2M25RdzZucWpsZWl3NEo1X2xjVTNOUkxCeUNpcEJ6TElmenZmcUxRUWZSMm8xZzllclp6QjVhZF9ZdF9YME13Z05TT2ozVjhxTV9Bd091ZW9TRFVzMUNvTGozOHlQZTdVR2Jyek1lMjY2REVVdmoyUm1UanRzcU1VeVk4Zk56WFE4NGwtVDh6ekMwdWZr?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Revitalisasi SMPN 2 Cicalengka Selesai, Bupati Bandung : Revitalisasi Harus Berdampak Pada Mutu Pendidikan - MediaSakti",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXBKMk1kVFgwaFhWa3hfTjRXanpieEFla2VZZXlKd0NPcHZXU1VHZEY1WkRsMldQREVseWk5UjVTTTBJT1pYUEJVaXNBT3c3NTZnZjdZd2hrRGhrbl91TWZwc0NoVy1VU240MWxndmtQaHZGTWRsM3YxUThpcmpJaDlPSDFxb3JoSGtaMG9oenVCTnhNNVF4Qm5tR2JWSlhfVlVHM1U5SGhXQmYwNTd3VGM5bWp0QkgzQURVOGdqalNWd2w1bXJ4ZXhqNVViT2lRcElZ?oc=5",
-     "r": "MediaSakti"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     16,
-     22,
+     17,
+     21,
      0
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     2,
+     3,
      14,
      0
     ],
@@ -269,7 +269,7 @@
     ],
     "w": [
      7,
-     17,
+     16,
      0
     ]
    },
@@ -395,9 +395,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Rumah dan Warung di Jalan Galunggung Terbakar, Api Berkobar Hebat Berhasil Dipadamkan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDM3c0hlLWhYdTJ3azJrLVN6TDh0QllkVlpxZ3Vsa0NrRHR5XzZSR29fY0tIX3ZuSWxMbEIyRTlnZDd3b0ZFUzhuY1hqbzd6aWNyMHN6LWI2T3ZHY0E5d3RKUVRlamhBR3NrNGt1X0s5ZHJGaGVKT2ZCMDJfbUJpMWtma3BqRmdzc012V0FOeVo1NV9mV1Z6T1BkQnowcU1NUC1YN0k1RzJpTGZJZ1Q5UmdFV1I0NE5sbEQ4dXEtZ2oxakc2NlAxMmdlejBXNU5G0gHWAUFVX3lxTFBEbGtKanROTFpCZ0NmMElLQ2ZBejVmV3cxUEZNb0lLc084d2I5STNDRHE4MzZ5bS1nZHpGT19VNUhFWEcyWm1oUXQ1YlFHektoZmJlZ0w3bXB5V3hoVGJac0tKOUpaTlRvazdqc1JwYlpoWjFOMGtBWjc0QWZvSlNlZHBjV0FYbGFrZFZfeTZSUFVfRjBIVjhPRFJQaEtPRFhzN2hnNnlnQ1ZfZzhpVDZHdDZqM3lpbDVlRW5hWG1vb19YcEF2ZUFVYnAwa0czRmF6OHB3cHc?oc=5",
+     "t": "[FOTO] Petugas Damkar Padamkan Kebakaran Bangunan di Jalan Galunggung Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkR1VmhwNW9ybE1lTlVWZHJZcHd1dklIOGZ2Y1pFY0tMV044ZWxBTWd4UHk1WTEzdVJNSkNTdDdQYTJHejRoei1odXNJNWtzbVRRT3dsMjlaQUplZWpxa2NCYVVxMm9hQnBGVEhfUVlJT2hhT1BPMWctb1JGcWdxRTQ2Tm1BaFFpZE1ScjhHMnk1MVhIN0ZaVDVtaWJqX3FBX0lTcEh3NzlDNWdQbEhNNUw1a3NaYVJBMnl2OF9CbVRyTU5O0gHKAUFVX3lxTE9rdi1veEc3emJwcURwc3dleG1idjBMekRRYVVsMzVxb2FZNmttN2xVODk4OTl3M3Y4dkJZTXE3OUxsQ1Uzb0twYWhHUC10QXRVSEFHcVNGbUhsYjNOZUpxd1FQNjhxYXNMREFreXl0MGVaNW54SkdTVFNncXdySFd0aEZfdWl5WXZacG0ydG9NeGdQQ2V3My03Z29hYlQyb0ZZM1M2N0NLMTNva2tGTml0TDJQbG9zWDNVNFNCSE9IaFVmaWtuUzBrWXc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -420,9 +420,9 @@
      6
     ],
     "w": [
-     9,
+     10,
      8,
-     16
+     17
     ]
    },
    "trend": {
@@ -438,7 +438,7 @@
     "p": [
      0,
      0,
-     2,
+     3,
      1,
      3,
      4,
@@ -450,7 +450,7 @@
      1,
      10,
      6,
-     2,
+     3,
      1
     ]
    }
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Polsek Cicalengka Laksanakan Pengamanan Kunjungan Bupati Bandung di SMPN 2 Cicalengka - jurnalpolisi.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVlfSGdCaFdrUXdnVnhSTVhwSVUxUExmV1lTdDdrY2l4aHJyN0ZCMXpITkpXdXFaNjJmZGpjSEhjNG1PMjFILTFweGwtTWJhaE94UnFSUGQ5bjlCUW9vSHlPQnMtdVZOaWI3dno5QThBQmQzVks3N0J4NlRkdjNrOWJVdEh6eF9Nc08wbXBDT3JqNFhiUGtGWHVFUHZxcElMQ3A1ZzA3bERmT1piajRWN1B2TQ?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Berita dan Informasi kepengurusan olahraga Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEUUlVcEFwTDZKVDlJaW44ei1tRldCX3lnODI1NFppRGt4QUprNnJodGpEeUxqQ3p1dlRzUkFFTUg2X2pidVhlMEY4a3VwT1o2RVgyb180RlJoZTFBS2YzWElXTQ?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXBKMk1kVFgwaFhWa3hfTjRXanpieEFla2VZZXlKd0NPcHZXU1VHZEY1WkRsMldQREVseWk5UjVTTTBJT1pYUEJVaXNBT3c3NTZnZjdZd2hrRGhrbl91TWZwc0NoVy1VU240MWxndmtQaHZGTWRsM3YxUThpcmpJaDlPSDFxb3JoSGtaMG9oenVCTnhNNVF4Qm5tR2JWSlhfVlVHM1U5SGhXQmYwNTd3VGM5bWp0QkgzQURVOGdqalNWd2w1bXJ4ZXhqNVViT2lRcElZ?oc=5",
      "r": "MediaSakti"
-    },
-    {
-     "t": "Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan, SMPN 5 Ditargetkan Pindah pada 2027 - Giwangkara - Giwangkara",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTBEM1BPZEtFdjBuTjFwcURVLUNXUEExX2hfMjV1Q1dYWm5WRDFsNkxybXRQRV9INHhja3FiVm1XNnNTbmtsUjFyMDNHZXh6MW50djJZUnZNMTRvd20yLWR1QklRa1JIQXZEZlY5OXVQYUV6dlFuaUZ4TU92VnVuT1RVYm40MGp3bWx1bGpuelEtMGxYWk9ORFF4cWxmeE0zSEpVUEg3MnhXS21OSm5BcmdTdXY0NWg0cGEwYzVELXp1T2k1dHppWVd1dE1ESU9ncEc2WVdIZFDSAdgBQVVfeXFMTzUwRDNQT2RLRXYwbk4xcHFEVS1DV1BBMV9oXzI1dUNXWFpuVkQxbDZMcm10UEVfSDR4Y2txYlZtVzZzU25rbFIxcjAzR2V4ejFudHYyWVJ2TTE0b3dtMi1kdUJJUWtSSEF2RGZWOTl1UGFFenZRbmlGeE1PdlZ1bk9UVWJuNDBqd21sdWxqbnpRLTBsWFpPTkRReHFsZnhNM0hKVVBINzJ4V0ttTkpuQXJnU3V2NDVoNHBhMGM1RC16dU9pNXR6aVlXdXRNRElPZ3BHNllXSGRQ?oc=5",
-     "r": "Giwangkara"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -503,7 +503,7 @@
     ],
     "w": [
      4,
-     26,
+     27,
      5
     ]
    },

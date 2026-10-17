@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:13:37.437207+07:00",
+ "updated": "2026-10-18T05:11:53.551623+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   22
+   "Ayo Bandung",
+   21
   ],
   [
-   "Ayo Bandung",
-   20
+   "Tribunjabar.id",
+   21
   ],
   [
    "RRI.co.id",
@@ -35,11 +35,11 @@
    6
   ],
   [
-   "Satumedia.id",
+   "Disway",
    5
   ],
   [
-   "Disway",
+   "Satumedia.id",
    5
   ],
   [
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     15,
+     16,
      22,
      0
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      9,
-     6,
+     7,
      0
     ],
     "g": [
@@ -269,7 +269,7 @@
     ],
     "w": [
      6,
-     18,
+     17,
      0
     ]
    },
@@ -319,16 +319,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "RINGKASAN DAPTAR PELAKSANAAN ANGGARAN (DPA) SATUAN POLISI PAMONG PRAJA KABUPATEN BANDUNG TAHUN 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeWlIQUtUSE1LVXpMdFZkSFJULWxQYi1HTTNzOVZDSTBnWW5CM0I1SG1ybnhablNOOHhHeWlVUVh5SndzQW9mT2JpWmp3QmdkWjAweGc5Uk9jSGJ2RlpYa2JNWFB6aVozU2l5M3RxcWVZWWZ3a0RHXzEzSXpYN3lBbkZyd2hkdld6VG1ldUMwMURSSlhFc01Db18zRDd3aTg2VGVwbmhxVm1uZXA0RV81NWxXaW1TQnpMZlBudm9Del9meHd1MXNOYWh2cTk4b0xVeUo3NWlldXIwR0VnN3dpUHZTNlU3TXMxb3k0NTVmMjFPeUU?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bongkar 'Kampung Narkoba' di Saritem, Gebrakan Polrestabes Bandung Banjir Apresiasi - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm5sdERiTnFXOXB6T1JYS2N4WHVONEFrNmZreGlOc09Bb2lqWlFoMVRqVXBaZE85Ym9FNFB0cDNybmx1Sjc5WGgtZmVYRVRrTnFFLU9QSEdhdVl6dnNtSEZSQ0szUlVtZzdCRy1zZkhFRFZXODh0RVVBOHdwQkZ2b3BBWktIYjJhdzVCNHJoenJDY0VKU2h6UHQxMG5tWVhfcDJyNHFfdUh3cVN2bEhyOXF5Tm9adFdxaDRPUXl3VVRaSUotZ2lpbjA0c9IB0AFBVV95cUxQcUhmY2FlX29rZGt4cmxaVkZnM1ZWd0RCRzZXM1VwOTBrNmxIamtvRC1KSURNWmlRNDFmSGZaQ3h4TWJSUWNSOWlIb2lfQ3FRVFNQNG9EV1BnUVB6dEVmQTRzbVdtTC00NXZGTDNkRnZMbVFyREN3aFprMXZydkZkaW5BZXF3X2dYdGJPY1ZpazBFVmZya0VYLXFPUDZvR3BBdlU5bnhWOTdHc29aV2g4cGZEb0trU2tiR1FXTHBBZUVZYzg4eXpoeDVOTEJ6c3FZ?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     12,
-     11
+     13,
+     12
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      2,
-     4,
+     5,
      2,
      1,
      1,
@@ -422,7 +422,7 @@
     "w": [
      10,
      8,
-     16
+     17
     ]
    },
    "trend": {
@@ -449,7 +449,7 @@
      0,
      10,
      6,
-     2,
+     3,
      2,
      1
     ]

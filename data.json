@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:18:01.106353+07:00",
+ "updated": "2026-10-17T11:17:20.125487+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   16
+   18
   ],
   [
    "detikcom",
@@ -55,15 +55,15 @@
    3
   ],
   [
+   "Ketik",
+   2
+  ],
+  [
    "jurnalpolisi.co.id",
    2
   ],
   [
    "Aspirasi Jabar",
-   2
-  ],
-  [
-   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Polsek Cicalengka Laksanakan Pengamanan Kunjungan Bupati Bandung di SMPN 2 Cicalengka - jurnalpolisi.co.id",
+     "t": "Hampir 95 Persen Sekolah di Kabupaten Bandung Butuh Revitalisasi, APBD Tak Mampu Menanggung - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVlfSGdCaFdrUXdnVnhSTVhwSVUxUExmV1lTdDdrY2l4aHJyN0ZCMXpITkpXdXFaNjJmZGpjSEhjNG1PMjFILTFweGwtTWJhaE94UnFSUGQ5bjlCUW9vSHlPQnMtdVZOaWI3dno5QThBQmQzVks3N0J4NlRkdjNrOWJVdEh6eF9Nc08wbXBDT3JqNFhiUGtGWHVFUHZxcElMQ3A1ZzA3bERmT1piajRWN1B2TQ?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEIwUUFOTFdoaFpoUmF3czN3Nk5wQ3BaODVfMG0zNnBMTnBFT2IzYjFEdWtHU3VDUFNNQjRLRHNRZ2tNOEpYaFhoa0lMNzhjYmhZWjJabjNmdGoxSlpQSDBQV2d1THpNcF91ek9rblNKX3FlWTJReUtHcnhObFJCWnUyWUNuTlhza3NGMmhhdzRheDB0OHBTa2V2bXpmUUtBTDJ2TkttUm5LQnZZcVhMSWczMnluUUM1dXpZR0RjV3FtWF9xTXfSAbIBQVVfeXFMTl9wQ2xrdEZ6ejBhTHRjQnZxQ1owWXFmWG9LbE9Ec0FVVGliXzY4Rzc5aFJFbi1lekNPNGgtQmg2SFhuQTVjZVBTZE1CMHljTXBOeEJraHI3OTU3c2xkSzVDUDYwXzhOTWs2YTNOeHpWeGo0YWw0eEE3TWE4RGNwdmR1U1JTSEM0Y0JyMG1MZWpSazJrbmI2MXVoemsxejFBaTQtNVVsLTBBY3l6SnZZNnNHQQ?oc=5",
+     "r": "Ketik"
     },
     {
-     "t": "Dukung Kemajuan Pendidikan, Bhabinkamtibmas Polsek Cicalengka Monitoring Kunjungan Bupati Bandung - jurnalpolisi.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9ENmM2TnNNb3UtZGQ0MTR6SG1IZldkRUtPZWxYWl9XMWd6MXNCMkh0YUZRUEFTRnFyRzBMd3dRZXNCNE51OEhoeDk0SDc5cXhaLTJtS0N1bzBfZm5WdjVRSHBhOC0yR1pFZjJoVmRlY1RPQkFtaHAzODVkcU1xR1BSYVdzVjdMSTg0ZGVQeVo2QzBXM0ZjcUtqQmJGSzFnSmtDVXNVbTg5bjVYcFRUWmxiRzh5Z2NJelpnak5qMFZQZw?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "t": "Kabupaten Bandung Terima Bantuan Revitalisasi Pendidikan TH 2026 Senilai 137 Miliar - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVNNemJ1U2VHbkUwYmNSSDdwM1FDWmNfV1JpMk4xdUpIYVlOd2hlcDFWS21zcENMMXFRd01FSy0zdDN2d05TNFMyWTJmeV91eFRXM1ZTUzFpNGd1dDRSS3A5dTRYc1B5dGd0Yk5QbHRzLW8yNzMtZlVwdkdQcHJEYTk0S1NFTjNpOGZlczBhQ1hOZUdLTFZxUzNMaFE4LXBWYXpkRjc2QkZiVEQ5bTFMMU9mMERmVTlrUGc?oc=5",
+     "r": "Antarwaktu.com"
     },
     {
-     "t": "Pemkab Bandung Targetkan Eks RSUD Soreang Jadi Sekolah pada 2027 - digo.id",
+     "t": "Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTFiTUJndDVCU3hvdjNuZ08wNG5UOXR5NWdjSFE3N0VUX1RhU09iRzNJWDd5R0w2T3RPdzdMdk9UdWVLeVdaVk1BMWRaVENjQVVCU3F4Zy1iTzNaM1RxSGZCaVJTdFQtQnh5andLWGpZSzV2Yjl2OU1pb0daU3FKUWVwYWlxYmlidkE1YnhlNHdsc1IydHlB?oc=5",
-     "r": "digo.id"
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWd0Q1czcDNuSFlfc3dYNVJZejZhUEVYdk1LbjdsSWFqNV94RlhmN196UFZ1cnhCa21JbERIOE44SmhjZUgydXBvckk4NXFVdlAyNkRoejNzOTZreHhLcWVENE42OTFPNFJCTzJMQWVLUE1QR1liR25sY080UndOaXFOdndGc1dtUEV2ajhCMWY1QzBsRzFOVjVKYVVaUQ?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     17,
-     21,
+     15,
+     23,
      0
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     2,
+     0,
      14,
      1
     ],
@@ -231,21 +231,21 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWd0Q1czcDNuSFlfc3dYNVJZejZhUEVYdk1LbjdsSWFqNV94RlhmN196UFZ1cnhCa21JbERIOE44SmhjZUgydXBvckk4NXFVdlAyNkRoejNzOTZreHhLcWVENE42OTFPNFJCTzJMQWVLUE1QR1liR25sY080UndOaXFOdndGc1dtUEV2ajhCMWY1QzBsRzFOVjVKYVVaUQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Dualisme Berakhir, Kadin Kabupaten Bandung Ditantang Gerakkan Ekonomi - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXpEZkoyQzFmbk4zYm9xUE1TeUJySmI5c2R1dURjNlZKRm02OXVxd0YtcjJ3dUxOUUtjX3JtcklGNVUwckhGYlFOWjlzUl81MTNwT3kyb2dFbldlcEdwZEhHYkhnN0FYRHF4TlZCY21IM0RmakdfM2ktYWk5ajh6T19jMk04b2YxaUlVRXNWWEgtTnJJd0pDOWtISmxpSy1ONVJRTWVOWnpPdlg0VW9VYQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "IMA Berusia 30 Tahun, Munas serta Pameran UMKM Siap Digelar di Kota Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXcwN0ZPZEJ3ZlBwWjA5NVRFWkVPcFQ1RXkxRDREMENIMk1OSnF1amNlQUtEeDZlZnNaZjM2a3g2QXVJbWpmajlNOTA5eTFJcURkdjFpNERjdVhTbEgtWWR4c0VVM1BEWGFfWmktanpyWGlac0tmUk9KZnU4aENRdFItMFRBZTNSSV9yRUNtSUl6UDZJZnBxT3Jhemd5OHBMby0wZjhOVmVaQ3ZIOFhDYjlPQVVUQS1oS1VPZzlTRTY4RmRzTmlLcEQ0Q3V3c0Q2TmhmM3ozTWxadw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kementerian Ekonomi Kreatif Perkuat Daya Saing Karya Seniman Seni Rupa di Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmhpVTMyX0hxUGZNa2VvcU1qellISUJVTEQ4a0tqaXRjLXBzenFmbzZGdFdMeXdqNEx2RGdKZUNmNGZ2WkxQQkFhd1JkQkdsNDJKNnNJX2JiWEtWWktCNXR4dGd1Y1Q0NUtkelU0NWUweHItY3NBSmF3MDVTWnNPVW5rU2k3b0FQUDMzVWFOV0tJTEl3d3I5SWptb3o3RklkWlY4SFJaQ3lJa0U2ODZVZFJ1ZGkydzFvSlU2TjBtamVucXhoRWJBZnNkNzM?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Apindo Jabar Nilai Tuntutan Kenaikan UMK 2027 hingga 9,5 Persen Tak Rasional - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmJINGJvbWhUaUdKRjROZUE1cHR6WHllMGY1N09abk0xd3djN2lBNWlucGVEdFFCSGhtekJrS2VJZG5NTjdJNW9zS1RZMG5rZVdIaXFNQUNScENCRHAweVB5S3hXQXkwRzh0QjBXZnJGdzBUM09VVGFlTEQxVVpya0NTbHE2UHEyckZtVmNlTXFBQ09EaGlLd09KZ3g3OE42SVRiak9zRXNaT21QTk9DOWRsODNkOVdjTXpoNEdEd3ZYV1B1?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -269,7 +269,7 @@
     ],
     "w": [
      7,
-     17,
+     19,
      0
     ]
    },
@@ -504,7 +504,7 @@
     "w": [
      6,
      27,
-     4
+     3
     ]
    },
    "trend": {
@@ -532,7 +532,7 @@
      1,
      0,
      1,
-     1,
+     0,
      0
     ]
    }

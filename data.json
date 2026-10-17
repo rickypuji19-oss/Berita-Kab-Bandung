@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:18:58.587440+07:00",
+ "updated": "2026-10-17T10:18:01.106353+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,11 +20,11 @@
   ],
   [
    "RRI.co.id",
-   17
+   16
   ],
   [
    "detikcom",
-   8
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     18,
+     17,
      21,
      0
     ]
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     2,
      14,
      1
     ],
@@ -340,7 +340,7 @@
     "w": [
      2,
      16,
-     11
+     9
     ]
    },
    "trend": {
@@ -364,10 +364,10 @@
     ],
     "g": [
      0,
-     1,
+     0,
      2,
      4,
-     3,
+     2,
      1,
      0
     ]
@@ -383,15 +383,15 @@
    ],
    "h": [
     {
-     "t": "Tinjau Tiga Titik Rawan Banjir di Cibiru Bandung, Farhan: Bakal Banyak Galian dan Kena Bangunan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVJtUkxKZEx5YUFLanBrZFZ5ZkpoTV9lRDlYeU9wOFF1ZlZQSVNOVW1TWXM3MndOXzdrZ3c5ZGlZUlBiZWMxVXZpVUJyRzlLX01kU0t4NFR0LXJ1NERtWUVjb1M0anFleUJmcmJoZ0N5TUR2ejZEbUhoX2JIVXB6dHZHaVpDQjdVYV9aUGtGQ2REVEZ0REJFNTk2M0FrLTBIWjVBdmN3WllLRUFMYkVqNENtTElVOHZ3UDB0bjhRalZaUDI5X2FSWVpqSjRFYzh2bGNWeWxOY3RoVl9N?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Siap-Siap Bandung Berpotensi Macet 17–18 Oktober 2026: Ultra Marathon hingga Reuni Akbar - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmNTZm1qMjhZUjFQbkZxUE96RFpoaVJGS0RrbWE3amlxSlI4enJMVDNlWlBGVUxKUU1uOWducXU4VUNLbHhReTdPaE9LcHVMaFhVQ19SMlFqczFHSnFHMS1jX2VEZG5PYmdkN2hIdFhCVkZXQmtJSEE5elRmWnhUdXhEWWVGX0p3QkJUaUtMMWhWTm9iRWtiUG1xTXItSERUVGpuaVVNZnFkZDR3X0ZHXzZDWXphYXRKQk1reTZiVnEyQ1lONjhpMFZaOW5DaW82VW5wSA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Tinjau Tiga Titik Rawan Banjir di Cibiru Bandung, Farhan: Bakal Banyak Galian dan Kena Bangunan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVJtUkxKZEx5YUFLanBrZFZ5ZkpoTV9lRDlYeU9wOFF1ZlZQSVNOVW1TWXM3MndOXzdrZ3c5ZGlZUlBiZWMxVXZpVUJyRzlLX01kU0t4NFR0LXJ1NERtWUVjb1M0anFleUJmcmJoZ0N5TUR2ejZEbUhoX2JIVXB6dHZHaVpDQjdVYV9aUGtGQ2REVEZ0REJFNTk2M0FrLTBIWjVBdmN3WllLRUFMYkVqNENtTElVOHZ3UDB0bjhRalZaUDI5X2FSWVpqSjRFYzh2bGNWeWxOY3RoVl9N?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,7 +421,7 @@
     ],
     "w": [
      9,
-     8,
+     7,
      18
     ]
    },
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     5,
+     6,
      27,
-     5
+     4
     ]
    },
    "trend": {
@@ -521,13 +521,13 @@
      0,
      1,
      1,
-     0,
+     1,
      0,
      2,
      1
     ],
     "g": [
-     2,
+     1,
      0,
      1,
      0,

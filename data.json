@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:14:02.830847+07:00",
+ "updated": "2026-10-17T20:20:31.473871+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,22 +8,22 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   24
   ],
   [
    "Ayo Bandung",
-   22
+   21
   ],
   [
    "RRI.co.id",
-   19
-  ],
-  [
-   "Kompas.com",
    17
   ],
   [
-   "Disway",
+   "Kompas.com",
+   16
+  ],
+  [
+   "ANTARA News Jawa Barat",
    7
   ],
   [
@@ -31,7 +31,7 @@
    7
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Disway",
    6
   ],
   [
@@ -47,16 +47,16 @@
    4
   ],
   [
+   "Galamedia News",
+   3
+  ],
+  [
    "Radar Bandung",
    3
   ],
   [
    "Pikiran Rakyat Koran",
    3
-  ],
-  [
-   "Galamedia News",
-   2
   ],
   [
    "Ketik",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "KDS Dukung Penuh Revitalisasi Sekolah, Kabupaten Bandung Dapat Bantuan Rp137 Miliar dari Kemendikdasmen - Galamedia News",
+     "t": "Pemkab Bandung Revitalisasi 192 Sekolah, Kucurkan Anggaran Rp137 Miliar - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Gedung Eks RSUD Soreang Disiapkan Jadi Sekolah, Target Tahun 2027 SMPN 5 Soreang Sudah Bisa Menempati - Galamedia News",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkstM2hoVXdxOWthc05yZHplUE5oaWp5cHM1V1NfbWtUd3hqQ2xXOHNDSG1YRXR5N2VvVURFNEsweUlmTUhYV0NkYno2bWIxZE9oMWEwd3dQSWVzZ0ktODI5Yzg1em9nMlhPaG1QTHZoOFNiREJCTWx6VDh0MDFwZEJUamRjc21veV8zM2lXS0UxNXVhWDUyRDNvTmFSRTU4aVE5VUNxM0JtcTRtbUhlMjJEVV83Z1Z3bjJwNFpRS1ZoODhIWFdaaHRXaU00VVVUSXJNeUFCY2l0VGFJM0JzRVM4VnNfZUtXajQtYUg4cw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHo4TjVKeGpFajFQOHNIOTNMYUNvdGxJOU84cXU2a3Z1QkZfV3dEbnByZUF2YW52WlFFUVUwN240V2Qxd1h1aHJYSW95RFR3Wm5fUWJNY2Zrd2RoQ1JXd0pyaHdic1UtQzVJSlU5Y0FLWV95VF80b1VhMmltOVNkNi1RWWc3YkdMUDRoY2dBbURraDRmZjJnYmlVT3BiMThnWS1lTVNLWlM4dG9hOWxzSk1CWWgzV0NvcVBGdjY2N2VFaU1odnJUaGMwVnNVdndmYjNQZE1PaFlvVGh2cmNzV3QydE1wNl81N2s0Tw?oc=5",
      "r": "Galamedia News"
     },
     {
-     "t": "Pemkab Bandung Dukung Sarana Pendidikan yang Layak dan Pembelajaran Digital - radarjabar.disway.id - Disway",
+     "t": "Revitalisasi Sekolah Dorong Peningkatan Mutu Pendidikan di Kabupaten Bandung - Mudanesia",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFZyU0IwRVJyMGJ5WTlkcnBzSWZFdjhPS1pmYXlKM3E3VVhGeFJOOE9aQXg1WXV5MWVnZXJwRWRKMHNtdjlYNjZlYTRzTjNRdTRDV2pOQUp3aTRhU2dldFpPWWRWd3ZxYkprUmFUT0hyb3VqREwxcnFQVFFSVUhfVmRveWhhbERkRVdfT1N5MVY2alN0a0VJcWF0WmFTMXBMbXRzMFBzQUR6b29aMlhPWW5SZGFZUdIBtgFBVV95cUxQMFZyU0IwRVJyMGJ5WTlkcnBzSWZFdjhPS1pmYXlKM3E3VVhGeFJOOE9aQXg1WXV5MWVnZXJwRWRKMHNtdjlYNjZlYTRzTjNRdTRDV2pOQUp3aTRhU2dldFpPWWRWd3ZxYkprUmFUT0hyb3VqREwxcnFQVFFSVUhfVmRveWhhbERkRVdfT1N5MVY2alN0a0VJcWF0WmFTMXBMbXRzMFBzQUR6b29aMlhPWW5SZGFZUQ?oc=5",
-     "r": "Disway"
-    },
-    {
-     "t": "Anggaran Revitalisasi Rp 137 Miliar, 192 Sekolah di Kabupaten Bandung Dibenahi - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTdxUU0tU29ibjhNWjFVLVM2SzlLdGg2aTBLWWpiV3dJTTN5VjRGdVNGSTZHckkyTTEyckY0N3RaTDY4b01SelNwNUowU1hrd3RybTk4bjV2SjA4b2FLR0EtS095X05qVkxyd3FZXzRPWDlfaWFnQ0hySWtDV3piQ01xWVotUTBRdVJUTE92VDBSTFcwaVMwMHBTTFdNc21TQlU2aUtpQTZVaGdDa2Q4Z180V0c?oc=5",
-     "r": "Satumedia.id"
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmVfNmxiblNXclRrLVN2SXR2RjRzeTZTRkQ4amRrT2ViSkZ2UUlQQWdyOHN1cnItT2tRam1jU3RSYk9oRmJobWFTd2hZeWpuc1pNUVk2Wm5IeWx0dnF2NjZMNUpFcUJyUDZYVGd6YktGMU5vYVZLcVlSTlJxZ05FMm9fbjBiYmZLbjNtS29kZDU4dWRjalAyQnRXb0RJTDJOREhIWGV4aUtKLTJZamdCckIxY3VQeDZCNG5Tckl4bGNieWRrdmJubFZBNHBEUkVJVF9XdXJrVlFJTU55aUHSAeMBQVVfeXFMTzlHUDl4WTFIQzN0R2RPT0g4X1VPZVZxa2tSZGlydkRkcV8zVVlEWERfaGZOdFliSDVvYjRzenV0c0FSeDBld1o4WXRfMm5SUGxmXy1nd1FrZjRqR0JScTlRQTlLem5PbUlUWXhrVFhGQVFlcXJNcWg5RlpKdGN4REVIUlB1YVpfTGZFUHdrZjBRbWQyLUJMSGhpZDhvZm5WalJORnE2UGRZb3V6UWIxbkVJbXh5U3pyem8wZWs1dDFXakw4OUdYQ0lNdXFrakUxRjdvLTJGU0Nkcm9IbFd6TE5MMWs?oc=5",
+     "r": "Mudanesia"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     16,
+     15,
      23,
      0
     ]
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     12,
-     4
+     10,
+     5
     ],
     "g": [
      0,
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Revitalisasi 192 Sekolah, Kucurkan Anggaran Rp137 Miliar - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Revitalisasi Sekolah Dorong Peningkatan Mutu Pendidikan di Kabupaten Bandung - Mudanesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmVfNmxiblNXclRrLVN2SXR2RjRzeTZTRkQ4amRrT2ViSkZ2UUlQQWdyOHN1cnItT2tRam1jU3RSYk9oRmJobWFTd2hZeWpuc1pNUVk2Wm5IeWx0dnF2NjZMNUpFcUJyUDZYVGd6YktGMU5vYVZLcVlSTlJxZ05FMm9fbjBiYmZLbjNtS29kZDU4dWRjalAyQnRXb0RJTDJOREhIWGV4aUtKLTJZamdCckIxY3VQeDZCNG5Tckl4bGNieWRrdmJubFZBNHBEUkVJVF9XdXJrVlFJTU55aUHSAeMBQVVfeXFMTzlHUDl4WTFIQzN0R2RPT0g4X1VPZVZxa2tSZGlydkRkcV8zVVlEWERfaGZOdFliSDVvYjRzenV0c0FSeDBld1o4WXRfMm5SUGxmXy1nd1FrZjRqR0JScTlRQTlLem5PbUlUWXhrVFhGQVFlcXJNcWg5RlpKdGN4REVIUlB1YVpfTGZFUHdrZjBRbWQyLUJMSGhpZDhvZm5WalJORnE2UGRZb3V6UWIxbkVJbXh5U3pyem8wZWs1dDFXakw4OUdYQ0lNdXFrakUxRjdvLTJGU0Nkcm9IbFd6TE5MMWs?oc=5",
+     "r": "Mudanesia"
+    },
+    {
      "t": "KDS Dukung Penuh Revitalisasi Sekolah, Kabupaten Bandung Dapat Bantuan Rp137 Miliar dari Kemendikdasmen - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkstM2hoVXdxOWthc05yZHplUE5oaWp5cHM1V1NfbWtUd3hqQ2xXOHNDSG1YRXR5N2VvVURFNEsweUlmTUhYV0NkYno2bWIxZE9oMWEwd3dQSWVzZ0ktODI5Yzg1em9nMlhPaG1QTHZoOFNiREJCTWx6VDh0MDFwZEJUamRjc21veV8zM2lXS0UxNXVhWDUyRDNvTmFSRTU4aVE5VUNxM0JtcTRtbUhlMjJEVV83Z1Z3bjJwNFpRS1ZoODhIWFdaaHRXaU00VVVUSXJNeUFCY2l0VGFJM0JzRVM4VnNfZUtXajQtYUg4cw?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Pemkab Bandung Dukung Revitalisasi Sekolah dan Digitalisasi Pembelajaran - Radio PRFM",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQWYwY0VlbnRWU0RtRF9yamp2WUUtSzJZN2diUUIzVnRJVWJiNWtRNGcwWi1iSWZrOXhkcGFrYTdVclBoTU8yVW16QWRkbDN3SVVGR0tWakdzTmNyeE1uMkdPbmZKQ2xOUHV0TnJfUUkyWGxUNmN4LUZyOE43cUtNZk50NmFVN0VzNm5Pd3BTQmM0T19mR3o5N1RwRUEySzdwdGJkRjRuVlRNOWlvczA5Ykt1bzk1X0YyZTRNOU1MelRPSFhRdFFxZmo2dVpROUlNaWNBRk1n0gHWAUFVX3lxTFBBZjBjRWVudFZTRG1EX3JqanZZRS1LMlk3Z2JRQjNWdElVYmI1a1E0ZzBaLWJJZms5eGRwYWthN1VyUGhNTzJVbXpBZGRsM3dJVUZHS1ZqR3NOY3J4TW4yR09uZkpDbE5QdXROcl9RSTJYbFQ2Y3gtRnI4TjdxS01mTnQ2YVU3RXM2bk93cFNCYzRPX2ZHejk3VHBFQTJLN3B0YmRGNG5WVE05aW9zMDliS3VvOTVfRjJlNE05TUx6VE9IWFF0UXFmajZ1WlE5SU1pY0FGTWc?oc=5",
-     "r": "Radio PRFM"
-    },
-    {
-     "t": "KDS Dukung Revitalisasi Sekolah, Dorong Peningkatan Kualitas Pendidikan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0RxTmVDb3Q4ejZTZXp2QzBMSDhaOUw1M2M0M2hGZ0p6X2pJUk1TdmxuR0hoUXItbFRHZUJneHYxcUxoc21QaVZZeW1lUnpMc255ekRaTGFxVUFBWTF0TXlSSWNoQ0pjRlVOZVZzT2duUjFWUFdOZmpENzZNcElSdFJEUzFRUDF4cHpfRVdQeHVyV0dFZWhzTTJrVER0SHVjWEpoY2ZuVC1vcnVXQmQ5TmNxdE9QOEVGeDJXWnln0gHDAUFVX3lxTFBUYWYyQ1p0dHhmeEFISjBBRThfd3pxZ3ZHY19QTXI2bWZCQl9WY1JZSjBMX1ZzYnFMc01lME1kZkljN2Z6OF9zcEw0S1NZMk1uQVNlZjR4S2FaRnBBUGpUZzQ3MkpRTlNMTVNxUGMtWU5tckljU0FmQ09ueE1mUER2cHhPRXRpQ09mdnMxVlFsSjlsenAycUd4TjhVZU5XVXJ3ZGE3b0V4V0Qxdy1hNUhMc1lwMF9seWJ4dlNfbFBIU2xkUQ?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     7,
+     8,
      27,
      3
     ]
@@ -524,7 +524,7 @@
      1,
      0,
      2,
-     4
+     5
     ],
     "g": [
      0,

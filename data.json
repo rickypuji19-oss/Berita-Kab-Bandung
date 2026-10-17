@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:16:36.749989+07:00",
+ "updated": "2026-10-17T13:16:47.989890+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -24,7 +24,7 @@
   ],
   [
    "detikcom",
-   7
+   8
   ],
   [
    "ANTARA News Jawa Barat",
@@ -35,15 +35,15 @@
    6
   ],
   [
+   "Satumedia.id",
+   5
+  ],
+  [
    "jabarekspres.com",
    5
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
-   "Radar Bandung",
+   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -51,7 +51,7 @@
    3
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Radar Bandung",
    3
   ],
   [
@@ -79,9 +79,15 @@
    ],
    "h": [
     {
+     "t": "Anggaran Revitalisasi Rp 137 Miliar, 192 Sekolah di Kabupaten Bandung Dibenahi - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTdxUU0tU29ibjhNWjFVLVM2SzlLdGg2aTBLWWpiV3dJTTN5VjRGdVNGSTZHckkyTTEyckY0N3RaTDY4b01SelNwNUowU1hrd3RybTk4bjV2SjA4b2FLR0EtS095X05qVkxyd3FZXzRPWDlfaWFnQ0hySWtDV3piQ01xWVotUTBRdVJUTE92VDBSTFcwaVMwMHBTTFdNc21TQlU2aUtpQTZVaGdDa2Q4Z180V0c?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Hampir 95 Persen Sekolah di Kabupaten Bandung Butuh Revitalisasi, APBD Tak Mampu Menanggung - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEIwUUFOTFdoaFpoUmF3czN3Nk5wQ3BaODVfMG0zNnBMTnBFT2IzYjFEdWtHU3VDUFNNQjRLRHNRZ2tNOEpYaFhoa0lMNzhjYmhZWjJabjNmdGoxSlpQSDBQV2d1THpNcF91ek9rblNKX3FlWTJReUtHcnhObFJCWnUyWUNuTlhza3NGMmhhdzRheDB0OHBTa2V2bXpmUUtBTDJ2TkttUm5LQnZZcVhMSWczMnluUUM1dXpZR0RjV3FtWF9xTXfSAbIBQVVfeXFMTl9wQ2xrdEZ6ejBhTHRjQnZxQ1owWXFmWG9LbE9Ec0FVVGliXzY4Rzc5aFJFbi1lekNPNGgtQmg2SFhuQTVjZVBTZE1CMHljTXBOeEJraHI3OTU3c2xkSzVDUDYwXzhOTWs2YTNOeHpWeGo0YWw0eEE3TWE4RGNwdmR1U1JTSEM0Y0JyMG1MZWpSazJrbmI2MXVoemsxejFBaTQtNVVsLTBBY3l6SnZZNnNHQQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3BDbGt0Rnp6MGFMdGNCdnFDWjBZcWZYb0tsT0RzQVVUaWJfNjhHNzloUkVuLWV6Q080aC1CaDZIWG5BNWNlUFNkTUIweWNNcE54Qmtocjc5NTdzbGRLNUNQNjBfOE5NazZhM054elZ4ajRhbDR4QTdNYThEY3B2ZHVTUlNIQzRjQnIwbUxlalJrMmtuYjYxdWh6azF6MUFpNC01VWwtMEFjeXpKdlk2c0dB0gGyAUFVX3lxTE5fcENsa3RGenowYUx0Y0J2cUNaMFlxZlhvS2xPRHNBVVRpYl82OEc3OWhSRW4tZXpDTzRoLUJoNkhYbkE1Y2VQU2RNQjB5Y01wTnhCa2hyNzk1N3NsZEs1Q1A2MF84Tk1rNmEzTnh6VnhqNGFsNHhBN01hOERjcHZkdVNSU0hDNGNCcjBtTGVqUmsya25iNjF1aHprMXoxQWk0LTVVbC0wQWN5ekp2WTZzR0E?oc=5",
      "r": "Ketik"
     },
     {
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVNNemJ1U2VHbkUwYmNSSDdwM1FDWmNfV1JpMk4xdUpIYVlOd2hlcDFWS21zcENMMXFRd01FSy0zdDN2d05TNFMyWTJmeV91eFRXM1ZTUzFpNGd1dDRSS3A5dTRYc1B5dGd0Yk5QbHRzLW8yNzMtZlVwdkdQcHJEYTk0S1NFTjNpOGZlczBhQ1hOZUdLTFZxUzNMaFE4LXBWYXpkRjc2QkZiVEQ5bTFMMU9mMERmVTlrUGc?oc=5",
      "r": "Antarwaktu.com"
-    },
-    {
-     "t": "Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWd0Q1czcDNuSFlfc3dYNVJZejZhUEVYdk1LbjdsSWFqNV94RlhmN196UFZ1cnhCa21JbERIOE44SmhjZUgydXBvckk4NXFVdlAyNkRoejNzOTZreHhLcWVENE42OTFPNFJCTzJMQWVLUE1QR1liR25sY080UndOaXFOdndGc1dtUEV2ajhCMWY1QzBsRzFOVjVKYVVaUQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -117,7 +117,7 @@
     ],
     "w": [
      15,
-     22,
+     23,
      0
     ]
    },
@@ -249,21 +249,21 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=o5cDG7k7pHc",
+     "r": "YouTube pu_dkijabar"
+    },
+    {
      "t": "[HEADLINE NEWS, 16/10] Kolaborasi Kadin Dorong Pertumbuhaan Ekonomi",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=YfSioMxmG0s",
      "r": "YouTube METRO TV "
-    },
-    {
-     "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=mEOFQASFWLQ",
-     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      2,
      0
     ],
@@ -289,7 +289,7 @@
      1,
      0,
      2,
-     3,
+     4,
      0
     ],
     "g": [
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bongkar 'Kampung Narkoba' di Saritem, Gebrakan Polrestabes Bandung Banjir Apresiasi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm5sdERiTnFXOXB6T1JYS2N4WHVONEFrNmZreGlOc09Bb2lqWlFoMVRqVXBaZE85Ym9FNFB0cDNybmx1Sjc5WGgtZmVYRVRrTnFFLU9QSEdhdVl6dnNtSEZSQ0szUlVtZzdCRy1zZkhFRFZXODh0RVVBOHdwQkZ2b3BBWktIYjJhdzVCNHJoenJDY0VKU2h6UHQxMG5tWVhfcDJyNHFfdUh3cVN2bEhyOXF5Tm9adFdxaDRPUXl3VVRaSUotZ2lpbjA0c9IB0AFBVV95cUxQcUhmY2FlX29rZGt4cmxaVkZnM1ZWd0RCRzZXM1VwOTBrNmxIamtvRC1KSURNWmlRNDFmSGZaQ3h4TWJSUWNSOWlIb2lfQ3FRVFNQNG9EV1BnUVB6dEVmQTRzbVdtTC00NXZGTDNkRnZMbVFyREN3aFprMXZydkZkaW5BZXF3X2dYdGJPY1ZpazBFVmZya0VYLXFPUDZvR3BBdlU5bnhWOTdHc29aV2g4cGZEb0trU2tiR1FXTHBBZUVZYzg4eXpoeDVOTEJ6c3FZ?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JwNUM1MTctT2JNYURzcm9Fb2FvSGFPWU9NOVp3Z0pPUF9idE5pVFY3YVREQTBfUm5rTzdLZlpFZlR5eVFKRFhMN2JNUUk4Mmt3TVNZTnFuNVJCZ1hfYUNnVVpmQXkxM1FRWENRZEhhWGtpdmZlUWJ5ejNPMk5Db29oWVNzYXc1V09rV05wcXlLRGtMaTJmUE01elVDWE1sc2Nfemlqc29reUs5azlBSUVvUGNNOWNMaC1ZMzczMlRsNTBBbnV0bmZFV1hzd280QW9peEdNQdIB3AFBVV95cUxPSnpQUUg3VEZSWHFTTGt2RTlsdHJ1Ry1COVJtbXlGVHRZYmVKc1N1aU5hZVlSdE90R2FaTHdQUEJpcGJkbWg2enJkaDRnTG5HTktPSEJqNW9Jd3FaSDRjR2hKbERvZ09zejFDWTR0SmpMNUVwb25IVVpmWVJIVTdYVFM1MTJBZW5zWlhyelR3NFVmcUI3bS1qT01LQU5rZzBZVlNDZkNFcGU0WHU5azVnYzUyV2NZSEFYYklETTBWRDBNU3BDeFJZTmVNSWc4Wk1yTTgza09YUlpsOWpI?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Dukung Kinerja Pemerintahan Akuntabel, Kemenkum Jabar Tuntaskan Harmonisasi 11 Peraturan Bupati KBB - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2Q5T3pPRFNFcHhZZWZJMWZwX2hlT1luSXR6aTJaQjZoZVJMU1dkZHlKZE9uX01sdlZCdXVvRmpzdVZ2eFY4a2NxWmtSMHcyMVBYZUZCNFdnejZHNWZIWDRfR2RyWFZsT014RzFXMVlDYjhTZVZhVkNtSFZscmUxMkhaZzdrdm5xdjlscDB6WWV2OXJwNkhpTTBuY3ItOHpRX2xuOUUwN1k1LURJWmxZWHdYc2xURzZ2UWtJaW9tSEpMZ2F2OV8zbTlhc2ZoQ1l6eXZWbzdFRWs0bFRxejBfSg?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     15,
+     17,
      10
     ]
    },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Anggaran Revitalisasi Rp 137 Miliar, 192 Sekolah di Kabupaten Bandung Dibenahi - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTdxUU0tU29ibjhNWjFVLVM2SzlLdGg2aTBLWWpiV3dJTTN5VjRGdVNGSTZHckkyTTEyckY0N3RaTDY4b01SelNwNUowU1hrd3RybTk4bjV2SjA4b2FLR0EtS095X05qVkxyd3FZXzRPWDlfaWFnQ0hySWtDV3piQ01xWVotUTBRdVJUTE92VDBSTFcwaVMwMHBTTFdNc21TQlU2aUtpQTZVaGdDa2Q4Z180V0c?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Siap-Siap Bandung Berpotensi Macet 17–18 Oktober 2026: Ultra Marathon hingga Reuni Akbar - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmNTZm1qMjhZUjFQbkZxUE96RFpoaVJGS0RrbWE3amlxSlI4enJMVDNlWlBGVUxKUU1uOWducXU4VUNLbHhReTdPaE9LcHVMaFhVQ19SMlFqczFHSnFHMS1jX2VEZG5PYmdkN2hIdFhCVkZXQmtJSEE5elRmWnhUdXhEWWVGX0p3QkJUaUtMMWhWTm9iRWtiUG1xTXItSERUVGpuaVVNZnFkZDR3X0ZHXzZDWXphYXRKQk1reTZiVnEyQ1lONjhpMFZaOW5DaW82VW5wSA?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVJtUkxKZEx5YUFLanBrZFZ5ZkpoTV9lRDlYeU9wOFF1ZlZQSVNOVW1TWXM3MndOXzdrZ3c5ZGlZUlBiZWMxVXZpVUJyRzlLX01kU0t4NFR0LXJ1NERtWUVjb1M0anFleUJmcmJoZ0N5TUR2ejZEbUhoX2JIVXB6dHZHaVpDQjdVYV9aUGtGQ2REVEZ0REJFNTk2M0FrLTBIWjVBdmN3WllLRUFMYkVqNENtTElVOHZ3UDB0bjhRalZaUDI5X2FSWVpqSjRFYzh2bGNWeWxOY3RoVl9N?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Jembatan Munjul 2 Ditargetkan Rampung Desember - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDRxZEFaN2VEdWM3NmhodlNhXzlIZzgxMllsd2hlSl9YMkpvRnd2NTl3T1FRU1lPS1EtZmQtV0hsQkVfaVJEdy1zZDJwdlZiajhsRXBaWWhvWkluazd0a3V1OE9HVFJSdkRrOGs0TlpsZWROUk9VaTJHNTRyenpOVGdCT25ZandiRnFlWmIxOXVLZm8?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
@@ -421,8 +421,8 @@
     ],
     "w": [
      9,
-     7,
-     18
+     8,
+     17
     ]
    },
    "trend": {
@@ -447,7 +447,7 @@
     "g": [
      1,
      1,
-     1,
+     0,
      10,
      6,
      3,
@@ -489,22 +489,22 @@
      "r": "YouTube humas slbncintaasih"
     },
     {
-     "t": "Analisis Kebijakan Publik & Reformasi Birokrasi Pendidikan",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=70K8_aXvThs",
-     "r": "YouTube Gita Pratama"
+     "t": "SEKOLAH MANUSIA UNGGUL (MAUNG) SMAN 1 SOREANG KAB.BANDUNG",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=-wcapho8uAg",
+     "r": "YouTube Tikomdik Disdik Jabar"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      2,
      0
     ],
     "w": [
-     6,
+     5,
      27,
-     4
+     5
     ]
    },
    "trend": {
@@ -527,7 +527,7 @@
      1
     ],
     "g": [
-     1,
+     2,
      0,
      1,
      0,

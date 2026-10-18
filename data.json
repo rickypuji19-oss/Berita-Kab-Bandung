@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:12:01.810618+07:00",
+ "updated": "2026-10-19T06:10:53.031968+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
+   "RRI.co.id",
    20
   ],
   [
-   "RRI.co.id",
-   19
+   "Ayo Bandung",
+   20
   ],
   [
    "Tribunjabar.id",
@@ -20,7 +20,7 @@
   ],
   [
    "Kompas.com",
-   9
+   11
   ],
   [
    "detikcom",
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     11,
+     12,
      10
     ]
    },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
@@ -474,12 +480,6 @@
      "t": "Bupati Siapkan Sarana Pendidikan Layak dan Pembelajaran Digital - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0pjOXJzQWtQazcwVjdZMHZjVnhUME41VS1ub0FUcEZESmVpcVhwUnpSdmhNQnNHallZUy10S1dxdzljVTdXeThuRXY1TFV6R3FDaVAySUVzV2RzMmFfUWppQnNtcnAtTnNEdUhFa0JCM3VTNF9ucXpDZVE2ak54SE1TM2lCaFh3ZXhWS1QtN3E1RkNKTHBLbGtRRHM5c3A4dzNoRlF3?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     30,
+     32,
      3
     ]
    },

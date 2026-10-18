@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:14:55.760176+07:00",
+ "updated": "2026-10-18T18:13:44.192383+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    19
   ],
   [
-   "RRI.co.id",
-   18
+   "Tribunjabar.id",
+   19
   ],
   [
-   "Tribunjabar.id",
-   18
+   "RRI.co.id",
+   17
   ],
   [
    "Kompas.com",
@@ -39,15 +39,11 @@
    5
   ],
   [
-   "jabarekspres.com",
-   5
-  ],
-  [
    "Giwangkara",
    4
   ],
   [
-   "Radar Bandung",
+   "jabarekspres.com",
    4
   ],
   [
@@ -56,6 +52,10 @@
   ],
   [
    "jurnalpolisi.co.id",
+   3
+  ],
+  [
+   "Radar Bandung",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      11,
-     21,
+     20,
      0
     ]
    },
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      8,
      2
     ]
@@ -202,7 +202,7 @@
      "Min"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      2,
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Kebakaran Melahap Pabrik Cokelat KBB, Korsleting Mesin Diduga Jadi Pemicu - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWpiSzNXZnMxNzBXejkzQ0MwdGNTWkVmRTc5Ujdvdk95QnlQdmVQTzVCLU1rQTV5OGFkc1hsdGh1MDZMbWJFTEt4Rmh4VFFQNmlnajVSaTZ0QWFScDhQUTFLMXBKTDJlLWVGNzlRMEx2cHhOU1RjQ0R5UExkUTFUakMtV3JPaVFBOWl5U3Z1VkRnUnpVRlBkUDVTaUVkMXhTZ2xJUDVTdk01SWZiS2JPdzA2d3czQdIBuwFBVV95cUxPVVlEeG1IRWRSU0RkUGw1V1Q5blFjaDRNVGFDb19vNGtXV2FVWTNxNTFLZVlYMFpPcFRWNDFDb0R4ZkROWWF0Q3JLOTRqRnNyeUI0TUNWNzZqaEtxQVBGVE5MeWxZRGUtb3Awekt0N3BiWlFfNHprcl9JWGxVbTI2ak0zaERXNHVOTUZwNllHZmZzY1VrMmxfeVdsdzB1aTVidG1aNXpsbzJ4eFQxTnhfaWR1VXppZF9YWGZF?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWd0Q1czcDNuSFlfc3dYNVJZejZhUEVYdk1LbjdsSWFqNV94RlhmN196UFZ1cnhCa21JbERIOE44SmhjZUgydXBvckk4NXFVdlAyNkRoejNzOTZreHhLcWVENE42OTFPNFJCTzJMQWVLUE1QR1liR25sY080UndOaXFOdndGc1dtUEV2ajhCMWY1QzBsRzFOVjVKYVVaUQ?oc=5",
@@ -247,6 +241,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXpEZkoyQzFmbk4zYm9xUE1TeUJySmI5c2R1dURjNlZKRm02OXVxd0YtcjJ3dUxOUUtjX3JtcklGNVUwckhGYlFOWjlzUl81MTNwT3kyb2dFbldlcEdwZEhHYkhnN0FYRHF4TlZCY21IM0RmakdfM2ktYWk5ajh6T19jMk04b2YxaUlVRXNWWEgtTnJJd0pDOWtISmxpSy1ONVJRTWVOWnpPdlg0VW9VYQ?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "IMA Berusia 30 Tahun, Munas serta Pameran UMKM Siap Digelar di Kota Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXcwN0ZPZEJ3ZlBwWjA5NVRFWkVPcFQ1RXkxRDREMENIMk1OSnF1amNlQUtEeDZlZnNaZjM2a3g2QXVJbWpmajlNOTA5eTFJcURkdjFpNERjdVhTbEgtWWR4c0VVM1BEWGFfWmktanpyWGlac0tmUk9KZnU4aENRdFItMFRBZTNSSV9yRUNtSUl6UDZJZnBxT3Jhemd5OHBMby0wZjhOVmVaQ3ZIOFhDYjlPQVVUQS1oS1VPZzlTRTY4RmRzTmlLcEQ0Q3V3c0Q2TmhmM3ozTWxadw?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,8 +269,8 @@
     ],
     "w": [
      6,
-     17,
-     1
+     16,
+     0
     ]
    },
    "trend": {
@@ -299,7 +299,7 @@
      0,
      0,
      0,
-     1
+     0
     ]
    }
   },
@@ -420,7 +420,7 @@
      6
     ],
     "w": [
-     9,
+     8,
      8,
      16
     ]
@@ -437,7 +437,7 @@
     ],
     "p": [
      0,
-     4,
+     3,
      1,
      3,
      3,
@@ -446,8 +446,8 @@
     ],
     "g": [
      1,
-     1,
-     9,
+     0,
+     10,
      6,
      2,
      2,
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Kabar Duka ITB Ultra Marathon 2026, Mahasiswa Institut Teknologi Bandung Meninggal Dunia Saat Event - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREF1VXVRZXg4cmpXMEJwbE1KaVpqanBfYTFiNWVqbTdyZWlTc2JYMlhJcUJsRUEyZ3AzanlnNlNtekxkc0dqQndCZGh6ZEZtVWpOUHh1bFV4d2JOR3daNVVKLVFWMWItMm1FMkw4UXZ0Y09wcVlzTFNFUWE3RGZSUnlJYTBzRW1meWZMU3c4Nm1sWnNUTXRrNGRBRkc5TjBlN3VqUElQSmV1azRPQVJ1dmdTN2ZUMHQ5TkpyN2VuSnVRT1pJOU8zZFl1SVZiNkJuTWQ4VTdSTGs5V3hoalJqd1FEWdIB6AFBVV95cUxQZGdiZFUxRVpCMWlXQzlRd2otZFhRUDhJcVNvWFBHUGw3VjNwbEd0bTJwSTY3aWVnNDNDT1BMdW9TY0RFbnpRNVpGd2RsQVAxMm1oMUg3WkxoQUx6bzd4b3kxRzRKWXEwUFNjdWF3YUp4WkdGRmZCNUxxSmdkTjFtVjhSWU42WnVvZW9ONmRYQ3k4Mm1UZGJBMVBuLXpXeXhIbURObDJNWWZOaWNXSG1URnZQOXdsS0xpMGtERzc1eUxocVZ2eFplRGxnZTVXcGtuWEl1d1RqV0M2eW1pVTIwdUlpRENoSWFR?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Mahasiswa Psikologi UNISBA Gelar Psikoedukasi di Cisarua, Perkuat Peran Orang tua - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzFWVExJVThuZUFreENaendTRFNkd1BFUnVFVHdFbXBmWXp2WlI0QjRNc1R4eDU2bXhUdGs3SUNvcUNnd1pGZmc1UElfX2dFZGtMQW05dGpIWmFaT3hUSE5vY3I5Q19UQWFITWRZVEtBY2lGbU9HTWlXZE9nbzVhTHJrSy1oSGttRld5VmtLY3ZQd2xOQ2x2SjBNcmYyZVpqRXNScmlHZTRZS1N3TFU2SUc5S1hoaEtxVTJyWWRHSUU?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnVqYWdZUGkxVm9JUVhDRmdJM2ROZ0szMnFTZ2pqZGRpeThmSXlTUGNWeFFwVjJsVDhKbWh2ZkJnamRFTm9aWjJLaHNISjlCblZ1bnN6LXFlbE1uMkhucGFRcXZsa0RlMGZlZ1BjSlgyQmotZU9rcWJ5d2UyMk1YYjh0cXU0emZuZ3Z3dE5GckloUUlTTk1tVXNBc2xBYkd2akE3Qktzc1A?oc=5",
      "r": "MetroTVNews.com"
-    },
-    {
-     "t": "Pemkab Bandung menargetkan eks RSUD Soreang jadi sekolah pada 2027 - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUUzQkxfQllEZFlpWlRZT2pfeG5tZlkwT2FHMmtrdmxLSE1vY2xCSkM4cXVqYzZGTk9sMlluVmpUelpzejRlZ0xsa1A0Y25ZWERFaU1ia0NVNU5qb1NYWHRndVUzaHFVc25YTWhjZ3dOTWRZdWlUQ284NmtpeEcwZTBBMnY3T0NXRHF3OFI4LWFERjZvY1AzTUs3NWlOYWtJU283bGczem1jU0g3T3fSAbMBQVVfeXFMUGV3dXhMQUtKV0wyU3U3cWlSb0ZoV21DYVI5cUkyYV8xUE9EVnFZS2ZRekxkS0k0dXpzVXpIQU94MnpsQldyWVpXakQ1djVPcVRqOXU2bTBuVmxYdWgzSHk5eEVaVWtqR3lnOWF3UVJEbzE1cUxtVlA2S0gwRWpmTWUyenhROUYyaWxad1VTS0ota2ZjMnVWcGg3XzFoVWlEbGY4VHlrY2RwaTNFNnVnN1hQUzg?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -504,7 +504,7 @@
     "w": [
      8,
      29,
-     2
+     3
     ]
    },
    "trend": {
@@ -533,7 +533,7 @@
      1,
      1,
      0,
-     0
+     1
     ]
    }
   }

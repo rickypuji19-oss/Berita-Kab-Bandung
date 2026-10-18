@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:16:12.189622+07:00",
+ "updated": "2026-10-18T14:24:44.116287+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    20
   ],
   [
-   "Tribunjabar.id",
-   20
+   "RRI.co.id",
+   19
   ],
   [
-   "RRI.co.id",
-   18
+   "Tribunjabar.id",
+   19
   ],
   [
    "Kompas.com",
@@ -31,15 +31,15 @@
    7
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
    "Disway",
    5
   ],
   [
    "Satumedia.id",
+   5
+  ],
+  [
+   "jabarekspres.com",
    5
   ],
   [
@@ -163,7 +163,7 @@
     {
      "t": "Ketua DPRD KBB Murka soal Warga Cililin Disekap di Dubai, Minta Agen Pengirim Diusut - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0dieVE1Ty1DcjNnUlg4a1RRWHZhdkpfdTJlb2hBVjQtUUZvc3RmdFJBbXMzZzBWQU03N0d2c1FPeDh0elhQbXA1OXlSSVo4OE1iV2JvcTNrdzd6akFDZS1maFRiZUxxUDZCSUhCVGVmR29Ed2p3X0daN1d3dTF3c1YxeF9xTTVmTXZyR0tMSzNXVkNxajFUUXVRMmg4OUF6NWFNc21oMzFDLUlkTl84QjNFU3prelIxVHhLUDNXQkY3Q0t40gHKAUFVX3lxTE5QRGtUZWtmZHFlU09VYllpb1o3enpwTUNKZDhjaDlCR01oSTJ4clVxTENUdGY3dldLS0Z6WnNfNU45MlZGc2ItUGtNVjZ5Q0FoUDJUUGFNS1VqZTdSaDVkeFlLejBab2lhN1hJb201WTdiNXJXYktMZGE2MXl0Ti1pRFlqQ0gwcVlDQ09xTHI4TF9VVnVKb0VTYi1zdEktY2I3YzRsejZxSGIxYnh4ZC1EeGRRTHRrUktNbmFkaVRrdzV1N0dlWjNRUlE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUERrVGVrZmRxZVNPVWJZaW9aN3p6cE1DSmQ4Y2g5QkdNaEkyeHJVcUxDVHRmN3ZXS0tGelpzXzVOOTJWRnNiLVBrTVY2eUNBaFAyVFBhTUtVamU3Umg1ZHhZS3owWm9pYTdYSW9tNVk3YjVyV2JLTGRhNjF5dE4taURZakNIMHFZQ0NPcUxyOExfVVZ1Sm9FU2Itc3RJLWNiN2M0bHo2cUhiMWJ4eGQtRHhkUUx0a1JLTW5hZGlUa3c1dTdHZVozUVJR0gHKAUFVX3lxTE5QRGtUZWtmZHFlU09VYllpb1o3enpwTUNKZDhjaDlCR01oSTJ4clVxTENUdGY3dldLS0Z6WnNfNU45MlZGc2ItUGtNVjZ5Q0FoUDJUUGFNS1VqZTdSaDVkeFlLejBab2lhN1hJb201WTdiNXJXYktMZGE2MXl0Ti1pRFlqQ0gwcVlDQ09xTHI4TF9VVnVKb0VTYi1zdEktY2I3YzRsejZxSGIxYnh4ZC1EeGRRTHRrUktNbmFkaVRrdzV1N0dlWjNRUlE?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -187,7 +187,7 @@
     ],
     "w": [
      6,
-     7,
+     8,
      2
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      6,
-     18,
+     17,
      0
     ]
    },
@@ -421,7 +421,7 @@
     ],
     "w": [
      10,
-     9,
+     8,
      16
     ]
    },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Mahasiswa Psikologi UNISBA Gelar Psikoedukasi di Cisarua, Perkuat Peran Orang tua - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzFWVExJVThuZUFreENaendTRFNkd1BFUnVFVHdFbXBmWXp2WlI0QjRNc1R4eDU2bXhUdGs3SUNvcUNnd1pGZmc1UElfX2dFZGtMQW05dGpIWmFaT3hUSE5vY3I5Q19UQWFITWRZVEtBY2lGbU9HTWlXZE9nbzVhTHJrSy1oSGttRld5VmtLY3ZQd2xOQ2x2SjBNcmYyZVpqRXNScmlHZTRZS1N3TFU2SUc5S1hoaEtxVTJyWWRHSUU?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Bangunan Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan - MetroTVNews.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnVqYWdZUGkxVm9JUVhDRmdJM2ROZ0szMnFTZ2pqZGRpeThmSXlTUGNWeFFwVjJsVDhKbWh2ZkJnamRFTm9aWjJLaHNISjlCblZ1bnN6LXFlbE1uMkhucGFRcXZsa0RlMGZlZ1BjSlgyQmotZU9rcWJ5d2UyMk1YYjh0cXU0emZuZ3Z3dE5GckloUUlTTk1tVXNBc2xBYkd2akE3Qktzc1A?oc=5",
@@ -474,12 +480,6 @@
      "t": "Pemkab Bandung menargetkan eks RSUD Soreang jadi sekolah pada 2027 - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUUzQkxfQllEZFlpWlRZT2pfeG5tZlkwT2FHMmtrdmxLSE1vY2xCSkM4cXVqYzZGTk9sMlluVmpUelpzejRlZ0xsa1A0Y25ZWERFaU1ia0NVNU5qb1NYWHRndVUzaHFVc25YTWhjZ3dOTWRZdWlUQ284NmtpeEcwZTBBMnY3T0NXRHF3OFI4LWFERjZvY1AzTUs3NWlOYWtJU283bGczem1jU0g3T3fSAbMBQVVfeXFMUGV3dXhMQUtKV0wyU3U3cWlSb0ZoV21DYVI5cUkyYV8xUE9EVnFZS2ZRekxkS0k0dXpzVXpIQU94MnpsQldyWVpXakQ1djVPcVRqOXU2bTBuVmxYdWgzSHk5eEVaVWtqR3lnOWF3UVJEbzE1cUxtVlA2S0gwRWpmTWUyenhROUYyaWxad1VTS0ota2ZjMnVWcGg3XzFoVWlEbGY4VHlrY2RwaTNFNnVnN1hQUzg?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pemkab Bandung Revitalisasi 192 Sekolah, Kucurkan Anggaran Rp137 Miliar - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      7,
-     27,
+     28,
      2
     ]
    },

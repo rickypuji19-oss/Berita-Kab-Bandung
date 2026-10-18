@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:24:44.116287+07:00",
+ "updated": "2026-10-18T15:14:54.619635+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
+   "Tribunjabar.id",
    20
   ],
   [
-   "RRI.co.id",
+   "Ayo Bandung",
    19
   ],
   [
-   "Tribunjabar.id",
-   19
+   "RRI.co.id",
+   17
   ],
   [
    "Kompas.com",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Galamedia News",
-   2
+   "Puskesmas Kabupaten Bandung",
+   3
   ],
   [
-   "Ketik",
+   "Galamedia News",
    2
   ]
  ],
@@ -269,7 +269,7 @@
     ],
     "w": [
      6,
-     17,
+     16,
      0
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Rumah Warga Pameungpeuk Dilempari Bom Molotov, Kapolresta Bandung Segera Tindak Lanjuti - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnJMNEgxREZvZEItYXhPdnBSSkZGeFFOa1hqNU9SajNOWHF4ejAzN29jSkd6T3R6UzQ0WlVQOG81emFXbzJUN1BzYklPV09QRUdPVmNTbmJNZThDSlh4M3JOb0FKNHRWaUJ4SGVMRk5peWpzN0pCbDNTbzZ0WUREZU9JMzR5RmVaX1Bta3VzbElsNkRVc1F4YXNMNjhmWTktU29tMG1pdENaaUlMXzRiRTRqcWJkaTM0c0tFODdad2FfRDdNUThQeFpPXzd0Tk42RTFr?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Diduga Korban Penipuan, Pria Tergeletak Terikat Lakban di Cimenyan - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemNaWDltdWxpTDYyQWEwcjZCMzVZYmpya3dlNHVUTHBkTmlvOXZpbUhiei11WUlPdFh4ZHQ0WFRwemJpdDZJMTBWTGg5LUI4Wmlvelc2OHF0dnFHdk5JQW9Eb1Z2NVdhSXdWVVNYcXZLcEpKWFhna3dxMW9aV2NHSUJNTnhQT0lHVjNhTGx6N2xLaWdtY2ZGQ1FtWXdwRlVDLTVTVk9aZ2g0aFNvSXFxQg?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeWlIQUtUSE1LVXpMdFZkSFJULWxQYi1HTTNzOVZDSTBnWW5CM0I1SG1ybnhablNOOHhHeWlVUVh5SndzQW9mT2JpWmp3QmdkWjAweGc5Uk9jSGJ2RlpYa2JNWFB6aVozU2l5M3RxcWVZWWZ3a0RHXzEzSXpYN3lBbkZyd2hkdld6VG1ldUMwMURSSlhFc01Db18zRDd3aTg2VGVwbmhxVm1uZXA0RV81NWxXaW1TQnpMZlBudm9Del9meHd1MXNOYWh2cTk4b0xVeUo3NWlldXIwR0VnN3dpUHZTNlU3TXMxb3k0NTVmMjFPeUU?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Operasi Antik di Saritem Bandung: Polisi Amankan Beberapa Warga yang Positif Gunakan Narkotika - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbm1ndlF5LU9qTFUzcE9ETE9UMm8yc05xX0VDQnV4MFpUYmdYaE92bmV3QkNxeGZyal9kdENubjRLZ0p2M1h5WkRoS21zaC0zb0JKeThudEd4N0JjY1YtUzV3aGZESWVKZVFVeXFaR2xLdjhJS0o5eGplTmlLSEUtNzJGQkE2bWdud0x2bzFZazhhWUJ3UWMwMU01dFJnam5WbGVOOXJtRDVyMGNwYmFUUS1hMnJ5R1l6VEV5UzV3UFZVc0hZY19oQVNHOWstcEp1cDltbFVqU19PV3ll?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     13,
+     14,
      12
     ]
    },
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     7,
+     8,
      28,
      2
     ]
@@ -521,7 +521,7 @@
      0,
      1,
      0,
-     0,
+     1,
      2,
      5,
      0

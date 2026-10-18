@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:12:01.725337+07:00",
+ "updated": "2026-10-19T02:13:52.411668+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -39,10 +39,6 @@
    5
   ],
   [
-   "Giwangkara",
-   4
-  ],
-  [
    "jabarekspres.com",
    4
   ],
@@ -56,6 +52,10 @@
   ],
   [
    "jurnalpolisi.co.id",
+   3
+  ],
+  [
+   "Giwangkara",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     24,
+     23,
      0
     ]
    },

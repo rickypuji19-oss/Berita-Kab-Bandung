@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:09:24.468166+07:00",
+ "updated": "2026-10-18T07:13:16.344847+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Ayo Bandung",
-   21
+   20
   ],
   [
    "Tribunjabar.id",
-   21
+   20
   ],
   [
    "RRI.co.id",
-   18
+   17
   ],
   [
    "Kompas.com",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Realisasi Transfer ke Daerah (TKD) Pemkab Bandung per Oktober 2026 | Pusat Data Ekonomi dan Bisnis Indonesia - Databoks",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3p4U1FZLU00cjZBTHltVW93RUtZWUF6MmFEOWpqc2pBNWVNd2szb181VmxBakpfb2puN3ZqcVAwMDlSYWFBc0M3Nzk2U2JDelRla3hZMWQ2WXlTZ0JOdGVKVEZBSDV5LWF2YjFWS2RqeGFNbVdRdjVpUDk5SmJKY1M5TUdQQzc1djJ4QnZOUXFtQmhCVmtzTUxHc1NYX2dHaVpnZzVYTjZaaFZaQkExM1EyOS1Udkd3alhBYWRwd3RndjE3S2I5cGlmNVYySURWa0E?oc=5",
+     "r": "Databoks"
+    },
+    {
      "t": "Pemkab Bandung Revitalisasi 192 Sekolah, Kucurkan Anggaran Rp137 Miliar - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHo4TjVKeGpFajFQOHNIOTNMYUNvdGxJOU84cXU2a3Z1QkZfV3dEbnByZUF2YW52WlFFUVUwN240V2Qxd1h1aHJYSW95RFR3Wm5fUWJNY2Zrd2RoQ1JXd0pyaHdic1UtQzVJSlU5Y0FLWV95VF80b1VhMmltOVNkNi1RWWc3YkdMUDRoY2dBbURraDRmZjJnYmlVT3BiMThnWS1lTVNLWlM4dG9hOWxzSk1CWWgzV0NvcVBGdjY2N2VFaU1odnJUaGMwVnNVdndmYjNQZE1PaFlvVGh2cmNzV3QydE1wNl81N2s0Tw?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Revitalisasi Sekolah Dorong Peningkatan Mutu Pendidikan di Kabupaten Bandung - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmVfNmxiblNXclRrLVN2SXR2RjRzeTZTRkQ4amRrT2ViSkZ2UUlQQWdyOHN1cnItT2tRam1jU3RSYk9oRmJobWFTd2hZeWpuc1pNUVk2Wm5IeWx0dnF2NjZMNUpFcUJyUDZYVGd6YktGMU5vYVZLcVlSTlJxZ05FMm9fbjBiYmZLbjNtS29kZDU4dWRjalAyQnRXb0RJTDJOREhIWGV4aUtKLTJZamdCckIxY3VQeDZCNG5Tckl4bGNieWRrdmJubFZBNHBEUkVJVF9XdXJrVlFJTU55aUHSAeMBQVVfeXFMTzlHUDl4WTFIQzN0R2RPT0g4X1VPZVZxa2tSZGlydkRkcV8zVVlEWERfaGZOdFliSDVvYjRzenV0c0FSeDBld1o4WXRfMm5SUGxmXy1nd1FrZjRqR0JScTlRQTlLem5PbUlUWXhrVFhGQVFlcXJNcWg5RlpKdGN4REVIUlB1YVpfTGZFUHdrZjBRbWQyLUJMSGhpZDhvZm5WalJORnE2UGRZb3V6UWIxbkVJbXh5U3pyem8wZWs1dDFXakw4OUdYQ0lNdXFrakUxRjdvLTJGU0Nkcm9IbFd6TE5MMWs?oc=5",
-     "r": "Mudanesia"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -117,7 +117,7 @@
     ],
     "w": [
      16,
-     22,
+     23,
      0
     ]
    },
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Gerai Belum Beroperasi Penuh, Manajer Kopdes Tetap Digaji hingga Rp9,3 Juta - Jabariber News - Jabariber News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlVHZVVydHNQUXZzSjkzOTRtclY5VERqTXc2NHJ0Q0otOTlDRXdaR2RUQ2N3Njk4aG9fa09vUVlpRjJrSmJqZXA3ZF9IX2VHenNfVjl6SllIUk9tV2N2MFdQWlUxajkyNlpialkwc3huQWFPNjhGMmNNaEI5VGFaVVhEMkNhY1lIU2JFSHdVVzI4Nl96VGp2Uklyb2tLVlplVHZYY1FyT3RjZW5QcG1ZeWlzaS1TS3J0RHRnYWFoWS1RRE52eURza25B0gHPAUFVX3lxTFBZeGVMd3o4bVRfXzlEcXlWQy1BZHhUbHF5TUNoSUFIT2JhVWdMUHJDOHZvQjhYdDhMdWVXYzZpVTlrZ0VISGUwbXQtOGRDbGhyRlpLSVlQOVNrR1ZOS0NRN0g1YU42eF9EZkEteTc0MXZOSUNuQTEwNEFTNm1PVGEtMTV4SkpXQlJKT0l1cnN4OFVFRUFXZmRzTkl0TFhyc3BDMVVMZDFUMEdSYldZbmhncWZiMzdzUjJ0RnROWkg5MWgxM3JrUVo2cE9qNXQybw?oc=5",
-     "r": "Jabariber News"
-    },
-    {
      "t": "Ketua DPRD KBB Murka soal Warga Cililin Disekap di Dubai, Minta Agen Pengirim Diusut - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0dieVE1Ty1DcjNnUlg4a1RRWHZhdkpfdTJlb2hBVjQtUUZvc3RmdFJBbXMzZzBWQU03N0d2c1FPeDh0elhQbXA1OXlSSVo4OE1iV2JvcTNrdzd6akFDZS1maFRiZUxxUDZCSUhCVGVmR29Ed2p3X0daN1d3dTF3c1YxeF9xTTVmTXZyR0tMSzNXVkNxajFUUXVRMmg4OUF6NWFNc21oMzFDLUlkTl84QjNFU3prelIxVHhLUDNXQkY3Q0t40gHKAUFVX3lxTE5QRGtUZWtmZHFlU09VYllpb1o3enpwTUNKZDhjaDlCR01oSTJ4clVxTENUdGY3dldLS0Z6WnNfNU45MlZGc2ItUGtNVjZ5Q0FoUDJUUGFNS1VqZTdSaDVkeFlLejBab2lhN1hJb201WTdiNXJXYktMZGE2MXl0Ti1pRFlqQ0gwcVlDQ09xTHI4TF9VVnVKb0VTYi1zdEktY2I3YzRsejZxSGIxYnh4ZC1EeGRRTHRrUktNbmFkaVRrdzV1N0dlWjNRUlE?oc=5",
@@ -177,6 +171,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPd9IBtgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPdw?oc=5",
      "r": "Disway"
+    },
+    {
+     "t": "Gedung Bekas RSUD Soreang Kabupaten Bandung Disiapkan Jadi Sekolah - PenaKuID",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVUXM1SXJYYjVrZTNnSXVtSlN5dXczd0kzZDVVNWtjcWFtUjZwZ3FTZ3ZUWmIyMFlmWHZRVWtrQ3V3NGRHc0dwdzR4dTJDUFZqeXhBS2VLTjBqaHptNkN5aGNGaDhpdHIyR0w3b0piYUZUQ0NlYW5CY3NFZkxXUTBaT0tuTlZZXzBmWjJR0gGWAUFVX3lxTE8wcGV0RHE0cmpGa1Z0X3hWaGpXZFpFdjVHaDBiVWtMa19pRGd1RHRnNy04WV9oVE01RktvNUNiWTcxT1BsdFN0NHYxOFItbmhzb1JQYlBmUG4wMlJlVWU2aWR5VGltM0pHcDlxeGV5Nl9tRmhKTERDZWtseXlhcTZUcDZoMV9oVFo1YjBvTXgxX2VGS1ItUQ?oc=5",
+     "r": "PenaKuID"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      7,
-     9,
+     8,
      2
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      6,
-     17,
+     16,
      0
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      10,
      8,
-     17
+     16
     ]
    },
    "trend": {
@@ -449,7 +449,7 @@
      0,
      10,
      6,
-     3,
+     2,
      2,
      1
     ]
@@ -504,7 +504,7 @@
     "w": [
      7,
      26,
-     3
+     2
     ]
    },
    "trend": {
@@ -528,7 +528,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      1,
      1,

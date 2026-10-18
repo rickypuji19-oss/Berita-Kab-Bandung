@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:14:09.006993+07:00",
+ "updated": "2026-10-19T00:15:16.527945+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "Ayo Bandung",
@@ -20,7 +20,7 @@
   ],
   [
    "Kompas.com",
-   13
+   12
   ],
   [
    "detikcom",
@@ -47,6 +47,10 @@
    4
   ],
   [
+   "Radar Bandung",
+   4
+  ],
+  [
    "Puskesmas Kabupaten Bandung",
    4
   ],
@@ -56,10 +60,6 @@
   ],
   [
    "jurnalpolisi.co.id",
-   3
-  ],
-  [
-   "Radar Bandung",
    3
   ],
   [
@@ -111,40 +111,40 @@
    ],
    "v": {
     "s": [
-     1,
+     0,
      2,
      2
     ],
     "w": [
      8,
-     25,
+     24,
      0
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      0,
      8,
+     0,
      0
     ],
     "g": [
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0,
      0,
      0
@@ -167,16 +167,16 @@
      "r": "Bedanews"
     },
     {
+     "t": "Desakan Kiai dan PKB: Perbup Pesantren KBB Tak Kunjung Terbit, Komitmen Bupati Jeje Dipertanyakan - Primetimenews.co.id - Primetimenews.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaWlxNWtrVVdHOFkzUkRqSVhMRXp5VGlvbXowaHVCMmZfMUNkck9yWS1fRFk4TjFlRzkwLUY4cmJwalFJWTZIenZLcnFCbG5IM2xsMjNDX2NjNWhMQVgzekNRdGRmaE8xNnlFbm93bG1YQ3BfVS1iTGlnNjUtV0NtX2NodlZwa0Z5YnJvbEJzNDNDTnNMNEwza1ZrVTZEYWpmenVPY0JBYmNzYTJiY3dSN3I4c2FQMi1PZGNmQTVPTTRXcWRSSk9pazhTc0VRWG1aSG9XUzJzQU5lOWdDQ1NpbEZ5Tk9ranVmT1dMLU9Za3PSAfYBQVVfeXFMT201NjNNa1BTU1NDVGRVbjA4NHl6T2hkb0wwWG5VNnFleDhFOGdZcy0tSTBRckZ1cV9YYlRqaTNFM2JESm5xZndLNkNXWklJaVMzZWxKMWpiNEtDWHotVmRIMGk0d0JJN1hTZmtvWDJMTzFrWjUzbm5sanFfclRGVzVWRlJBV21vTWVZYUI4U2Jvd3g5Z21sbXRYQ2F6S09ad0pqVjdpME43OUVIeVhubVo3aXZvWEFyM2pWdkIzdmF4cEdla1VTRE1FbFZwYTNyYzJtZEFsdHBERy0xUy16eEpISEVlXzl4UGl1R3VNX3B6aUNPU2hn?oc=5",
+     "r": "Primetimenews.co.id"
+    },
+    {
      "t": "Ketua DPRD KBB Murka soal Warga Cililin Disekap di Dubai, Minta Agen Pengirim Diusut - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUERrVGVrZmRxZVNPVWJZaW9aN3p6cE1DSmQ4Y2g5QkdNaEkyeHJVcUxDVHRmN3ZXS0tGelpzXzVOOTJWRnNiLVBrTVY2eUNBaFAyVFBhTUtVamU3Umg1ZHhZS3owWm9pYTdYSW9tNVk3YjVyV2JLTGRhNjF5dE4taURZakNIMHFZQ0NPcUxyOExfVVZ1Sm9FU2Itc3RJLWNiN2M0bHo2cUhiMWJ4eGQtRHhkUUx0a1JLTW5hZGlUa3c1dTdHZVozUVJR0gHKAUFVX3lxTE5QRGtUZWtmZHFlU09VYllpb1o3enpwTUNKZDhjaDlCR01oSTJ4clVxTENUdGY3dldLS0Z6WnNfNU45MlZGc2ItUGtNVjZ5Q0FoUDJUUGFNS1VqZTdSaDVkeFlLejBab2lhN1hJb201WTdiNXJXYktMZGE2MXl0Ti1pRFlqQ0gwcVlDQ09xTHI4TF9VVnVKb0VTYi1zdEktY2I3YzRsejZxSGIxYnh4ZC1EeGRRTHRrUktNbmFkaVRrdzV1N0dlWjNRUlE?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Pemkab Bandung Dukung Sarana Pendidikan yang Layak dan Pembelajaran Digital - radarjabar.disway.id - Disway",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPd9IBtgFBVV95cUxNMnJaa2R4dW4yMVA4Z3VScmxRT1JjRG9kZWJlSTh2aG9tZEx6YlJiRTRYUDRDY2V4ckpPZzlCejVYd2tVLXVtV2k0Y3hOeUJVdm1SbmxhRUNLcWVwV2NVT1U0UURybVFkOGZlZ3B2NjhKSlh2VVNwRnpjYkh4MzRyaHkteDBRLXB5b1lyZERNXy1JYkx5RENRaXg5VVpGY1U1SzJuNFA1TmdPYm9vUHJmems2aTBPdw?oc=5",
-     "r": "Disway"
     }
    ],
    "v": {
@@ -186,33 +186,33 @@
      0
     ],
     "w": [
-     5,
-     7,
-     2
+     4,
+     8,
+     1
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      0,
      2,
      2,
+     0,
      0,
      0
     ],
     "g": [
+     1,
      0,
-     2,
      0,
      0,
      0,
@@ -268,27 +268,27 @@
      0
     ],
     "w": [
-     6,
+     5,
      18,
      1
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      1,
      0,
      2,
      3,
+     0,
      0,
      0
     ],
@@ -298,8 +298,8 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -339,36 +339,36 @@
     ],
     "w": [
      1,
-     13,
+     12,
      9
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     0,
-     1,
-     4,
+     2,
+     3,
      2,
      1,
      1,
+     0,
      0
     ]
    }
@@ -417,41 +417,41 @@
     "s": [
      2,
      1,
-     6
+     5
     ],
     "w": [
      8,
-     8,
-     15
+     7,
+     16
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      3,
      1,
      3,
      3,
+     0,
      0,
      0
     ],
     "g": [
      1,
-     0,
      9,
      6,
      2,
      2,
-     1
+     1,
+     0
     ]
    }
   },
@@ -503,37 +503,37 @@
     ],
     "w": [
      8,
-     30,
+     31,
      3
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      1,
      0,
      1,
      2,
      5,
+     0,
      0
     ],
     "g": [
      0,
      0,
-     0,
      1,
      1,
      0,
-     1
+     1,
+     0
     ]
    }
   }

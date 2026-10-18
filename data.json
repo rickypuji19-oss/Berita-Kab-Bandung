@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:18:41.686531+07:00",
+ "updated": "2026-10-18T10:17:26.134744+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Ayo Bandung",
-   21
+   20
   ],
   [
    "Tribunjabar.id",
-   21
+   20
   ],
   [
    "RRI.co.id",
-   17
+   19
   ],
   [
    "Kompas.com",
@@ -31,6 +31,10 @@
    7
   ],
   [
+   "Disway",
+   5
+  ],
+  [
    "Satumedia.id",
    5
   ],
@@ -43,14 +47,6 @@
    4
   ],
   [
-   "Disway",
-   4
-  ],
-  [
-   "Galamedia News",
-   3
-  ],
-  [
    "jurnalpolisi.co.id",
    3
   ],
@@ -61,6 +57,10 @@
   [
    "Pikiran Rakyat Koran",
    3
+  ],
+  [
+   "Galamedia News",
+   2
   ],
   [
    "Ketik",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bangunan Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan - MetroTVNews.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnVqYWdZUGkxVm9JUVhDRmdJM2ROZ0szMnFTZ2pqZGRpeThmSXlTUGNWeFFwVjJsVDhKbWh2ZkJnamRFTm9aWjJLaHNISjlCblZ1bnN6LXFlbE1uMkhucGFRcXZsa0RlMGZlZ1BjSlgyQmotZU9rcWJ5d2UyMk1YYjh0cXU0emZuZ3Z3dE5GckloUUlTTk1tVXNBc2xBYkd2akE3Qktzc1A?oc=5",
+     "r": "MetroTVNews.com"
+    },
+    {
      "t": "Pemkab Bandung menargetkan eks RSUD Soreang jadi sekolah pada 2027 - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUUzQkxfQllEZFlpWlRZT2pfeG5tZlkwT2FHMmtrdmxLSE1vY2xCSkM4cXVqYzZGTk9sMlluVmpUelpzejRlZ0xsa1A0Y25ZWERFaU1ia0NVNU5qb1NYWHRndVUzaHFVc25YTWhjZ3dOTWRZdWlUQ284NmtpeEcwZTBBMnY3T0NXRHF3OFI4LWFERjZvY1AzTUs3NWlOYWtJU283bGczem1jU0g3T3fSAbMBQVVfeXFMUGV3dXhMQUtKV0wyU3U3cWlSb0ZoV21DYVI5cUkyYV8xUE9EVnFZS2ZRekxkS0k0dXpzVXpIQU94MnpsQldyWVpXakQ1djVPcVRqOXU2bTBuVmxYdWgzSHk5eEVaVWtqR3lnOWF3UVJEbzE1cUxtVlA2S0gwRWpmTWUyenhROUYyaWxad1VTS0ota2ZjMnVWcGg3XzFoVWlEbGY4VHlrY2RwaTNFNnVnN1hQUzg?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3p4U1FZLU00cjZBTHltVW93RUtZWUF6MmFEOWpqc2pBNWVNd2szb181VmxBakpfb2puN3ZqcVAwMDlSYWFBc0M3Nzk2U2JDelRla3hZMWQ2WXlTZ0JOdGVKVEZBSDV5LWF2YjFWS2RqeGFNbVdRdjVpUDk5SmJKY1M5TUdQQzc1djJ4QnZOUXFtQmhCVmtzTUxHc1NYX2dHaVpnZzVYTjZaaFZaQkExM1EyOS1Udkd3alhBYWRwd3RndjE3S2I5cGlmNVYySURWa0E?oc=5",
      "r": "Databoks"
-    },
-    {
-     "t": "Pemkab Bandung Revitalisasi 192 Sekolah, Kucurkan Anggaran Rp137 Miliar - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     15,
+     14,
      24,
      0
     ]
@@ -136,8 +136,8 @@
      0,
      0,
      0,
-     9,
-     6,
+     7,
+     7,
      0
     ],
     "g": [
@@ -187,7 +187,7 @@
     ],
     "w": [
      7,
-     7,
+     8,
      2
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      6,
-     17,
+     19,
      0
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     15,
+     13,
      12
     ]
    },
@@ -447,9 +447,9 @@
     "g": [
      1,
      0,
-     9,
+     10,
      6,
-     3,
+     2,
      2,
      1
     ]
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Bangunan Bekas RSUD Soreang Disiapkan Jadi Fasilitas Pendidikan - MetroTVNews.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnVqYWdZUGkxVm9JUVhDRmdJM2ROZ0szMnFTZ2pqZGRpeThmSXlTUGNWeFFwVjJsVDhKbWh2ZkJnamRFTm9aWjJLaHNISjlCblZ1bnN6LXFlbE1uMkhucGFRcXZsa0RlMGZlZ1BjSlgyQmotZU9rcWJ5d2UyMk1YYjh0cXU0emZuZ3Z3dE5GckloUUlTTk1tVXNBc2xBYkd2akE3Qktzc1A?oc=5",
+     "r": "MetroTVNews.com"
+    },
+    {
      "t": "Pemkab Bandung menargetkan eks RSUD Soreang jadi sekolah pada 2027 - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUUzQkxfQllEZFlpWlRZT2pfeG5tZlkwT2FHMmtrdmxLSE1vY2xCSkM4cXVqYzZGTk9sMlluVmpUelpzejRlZ0xsa1A0Y25ZWERFaU1ia0NVNU5qb1NYWHRndVUzaHFVc25YTWhjZ3dOTWRZdWlUQ284NmtpeEcwZTBBMnY3T0NXRHF3OFI4LWFERjZvY1AzTUs3NWlOYWtJU283bGczem1jU0g3T3fSAbMBQVVfeXFMUGV3dXhMQUtKV0wyU3U3cWlSb0ZoV21DYVI5cUkyYV8xUE9EVnFZS2ZRekxkS0k0dXpzVXpIQU94MnpsQldyWVpXakQ1djVPcVRqOXU2bTBuVmxYdWgzSHk5eEVaVWtqR3lnOWF3UVJEbzE1cUxtVlA2S0gwRWpmTWUyenhROUYyaWxad1VTS0ota2ZjMnVWcGg3XzFoVWlEbGY4VHlrY2RwaTNFNnVnN1hQUzg?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ00tQTBJTTg2Nkx0dmlOcThmU2RTbUxaaHFBaXprSS1jbW1jNlFxUVNlcGdrM29HX1liNmlxc3dkVzNuZWpXNVhwSHJwSWVmYlVnZTVVbG1iZzl2S3RSOE9ocE9ORHdfTnVoY0xIcm1QdlZPNDJsdVdocDZ4cmk3clNfMFAyaFNYSW1Gd2R5dXlLMkZJRUVQaUpXSXlHWkYzWWs0a3h6TW5ET1NxaVlnMzg5Y9IBuAFBVV95cUxPT0ZiTkdKSG9BYThtYjlyellGQmJ3Y2h3czVCaWpXdUZicGs2RWE4eUJSRnJUU2ZtdGNmWWp0UkhTbjBPa0c2T1JveEhPdHRxa2Z4OUItamJYLWc1TEl1b29lQ3dac2NOc0pvVGNFNGZJb3Q4YklyQS13VlNyYU42dHpsQ1AxY3JYVU9rZmVTWndQWGlmMkxOWHoycnRWZVl6SHZVX0pTc1VvdXRSc0tQMmQ1d0UxdUN2?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Revitalisasi Sekolah Dorong Peningkatan Mutu Pendidikan di Kabupaten Bandung - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmVfNmxiblNXclRrLVN2SXR2RjRzeTZTRkQ4amRrT2ViSkZ2UUlQQWdyOHN1cnItT2tRam1jU3RSYk9oRmJobWFTd2hZeWpuc1pNUVk2Wm5IeWx0dnF2NjZMNUpFcUJyUDZYVGd6YktGMU5vYVZLcVlSTlJxZ05FMm9fbjBiYmZLbjNtS29kZDU4dWRjalAyQnRXb0RJTDJOREhIWGV4aUtKLTJZamdCckIxY3VQeDZCNG5Tckl4bGNieWRrdmJubFZBNHBEUkVJVF9XdXJrVlFJTU55aUHSAeMBQVVfeXFMTzlHUDl4WTFIQzN0R2RPT0g4X1VPZVZxa2tSZGlydkRkcV8zVVlEWERfaGZOdFliSDVvYjRzenV0c0FSeDBld1o4WXRfMm5SUGxmXy1nd1FrZjRqR0JScTlRQTlLem5PbUlUWXhrVFhGQVFlcXJNcWg5RlpKdGN4REVIUlB1YVpfTGZFUHdrZjBRbWQyLUJMSGhpZDhvZm5WalJORnE2UGRZb3V6UWIxbkVJbXh5U3pyem8wZWs1dDFXakw4OUdYQ0lNdXFrakUxRjdvLTJGU0Nkcm9IbFd6TE5MMWs?oc=5",
-     "r": "Mudanesia"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",

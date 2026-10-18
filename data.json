@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:15:37.871408+07:00",
+ "updated": "2026-10-18T17:14:55.760176+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   20
-  ],
-  [
    "Ayo Bandung",
    19
   ],
   [
    "RRI.co.id",
-   17
+   18
+  ],
+  [
+   "Tribunjabar.id",
+   18
   ],
   [
    "Kompas.com",
@@ -47,15 +47,15 @@
    4
   ],
   [
+   "Radar Bandung",
+   4
+  ],
+  [
    "Puskesmas Kabupaten Bandung",
    4
   ],
   [
    "jurnalpolisi.co.id",
-   3
-  ],
-  [
-   "Radar Bandung",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      11,
-     22,
+     21,
      0
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Kebakaran Melahap Pabrik Cokelat KBB, Korsleting Mesin Diduga Jadi Pemicu - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWpiSzNXZnMxNzBXejkzQ0MwdGNTWkVmRTc5Ujdvdk95QnlQdmVQTzVCLU1rQTV5OGFkc1hsdGh1MDZMbWJFTEt4Rmh4VFFQNmlnajVSaTZ0QWFScDhQUTFLMXBKTDJlLWVGNzlRMEx2cHhOU1RjQ0R5UExkUTFUakMtV3JPaVFBOWl5U3Z1VkRnUnpVRlBkUDVTaUVkMXhTZ2xJUDVTdk01SWZiS2JPdzA2d3czQdIBuwFBVV95cUxPVVlEeG1IRWRSU0RkUGw1V1Q5blFjaDRNVGFDb19vNGtXV2FVWTNxNTFLZVlYMFpPcFRWNDFDb0R4ZkROWWF0Q3JLOTRqRnNyeUI0TUNWNzZqaEtxQVBGVE5MeWxZRGUtb3Awekt0N3BiWlFfNHprcl9JWGxVbTI2ak0zaERXNHVOTUZwNllHZmZzY1VrMmxfeVdsdzB1aTVidG1aNXpsbzJ4eFQxTnhfaWR1VXppZF9YWGZF?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Bupati KDS Tantang Undang Investasi dan Lapangan Kerja - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWd0Q1czcDNuSFlfc3dYNVJZejZhUEVYdk1LbjdsSWFqNV94RlhmN196UFZ1cnhCa21JbERIOE44SmhjZUgydXBvckk4NXFVdlAyNkRoejNzOTZreHhLcWVENE42OTFPNFJCTzJMQWVLUE1QR1liR25sY080UndOaXFOdndGc1dtUEV2ajhCMWY1QzBsRzFOVjVKYVVaUQ?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXpEZkoyQzFmbk4zYm9xUE1TeUJySmI5c2R1dURjNlZKRm02OXVxd0YtcjJ3dUxOUUtjX3JtcklGNVUwckhGYlFOWjlzUl81MTNwT3kyb2dFbldlcEdwZEhHYkhnN0FYRHF4TlZCY21IM0RmakdfM2ktYWk5ajh6T19jMk04b2YxaUlVRXNWWEgtTnJJd0pDOWtISmxpSy1ONVJRTWVOWnpPdlg0VW9VYQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "IMA Berusia 30 Tahun, Munas serta Pameran UMKM Siap Digelar di Kota Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXcwN0ZPZEJ3ZlBwWjA5NVRFWkVPcFQ1RXkxRDREMENIMk1OSnF1amNlQUtEeDZlZnNaZjM2a3g2QXVJbWpmajlNOTA5eTFJcURkdjFpNERjdVhTbEgtWWR4c0VVM1BEWGFfWmktanpyWGlac0tmUk9KZnU4aENRdFItMFRBZTNSSV9yRUNtSUl6UDZJZnBxT3Jhemd5OHBMby0wZjhOVmVaQ3ZIOFhDYjlPQVVUQS1oS1VPZzlTRTY4RmRzTmlLcEQ0Q3V3c0Q2TmhmM3ozTWxadw?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,8 +269,8 @@
     ],
     "w": [
      6,
-     16,
-     0
+     17,
+     1
     ]
    },
    "trend": {
@@ -299,7 +299,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     14,
+     13,
      12
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      9,
      8,
-     17
+     16
     ]
    },
    "trend": {
@@ -446,10 +446,10 @@
     ],
     "g": [
      1,
-     0,
-     10,
+     1,
+     9,
      6,
-     3,
+     2,
      2,
      1
     ]

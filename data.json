@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:20:57.560480+07:00",
+ "updated": "2026-10-18T21:14:17.213877+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -59,8 +59,8 @@
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
+   "Radio PRFM",
+   2
   ],
   [
    "Koran Gala",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     9,
-     22,
+     8,
+     23,
      0
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     2,
+     1,
      7,
      0
     ],
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      8,
      2
     ]
@@ -202,7 +202,7 @@
      "Min"
     ],
     "p": [
-     1,
+     2,
      0,
      0,
      2,
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      11
     ]
    },
@@ -477,10 +477,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Kabar Duka ITB Ultra Marathon 2026, Mahasiswa Institut Teknologi Bandung Meninggal Dunia Saat Event - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREF1VXVRZXg4cmpXMEJwbE1KaVpqanBfYTFiNWVqbTdyZWlTc2JYMlhJcUJsRUEyZ3AzanlnNlNtekxkc0dqQndCZGh6ZEZtVWpOUHh1bFV4d2JOR3daNVVKLVFWMWItMm1FMkw4UXZ0Y09wcVlzTFNFUWE3RGZSUnlJYTBzRW1meWZMU3c4Nm1sWnNUTXRrNGRBRkc5TjBlN3VqUElQSmV1azRPQVJ1dmdTN2ZUMHQ5TkpyN2VuSnVRT1pJOU8zZFl1SVZiNkJuTWQ4VTdSTGs5V3hoalJqd1FEWdIB6AFBVV95cUxQZGdiZFUxRVpCMWlXQzlRd2otZFhRUDhJcVNvWFBHUGw3VjNwbEd0bTJwSTY3aWVnNDNDT1BMdW9TY0RFbnpRNVpGd2RsQVAxMm1oMUg3WkxoQUx6bzd4b3kxRzRKWXEwUFNjdWF3YUp4WkdGRmZCNUxxSmdkTjFtVjhSWU42WnVvZW9ONmRYQ3k4Mm1UZGJBMVBuLXpXeXhIbURObDJNWWZOaWNXSG1URnZQOXdsS0xpMGtERzc1eUxocVZ2eFplRGxnZTVXcGtuWEl1d1RqV0M2eW1pVTIwdUlpRENoSWFR?oc=5",
-     "r": "Ayo Bandung"
+     "t": "192 Sekolah di Kabupaten Bandung Direvitalisasi, Anggaran Capai Rp137 Miliar - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZE9YOWh5UUE0X001clVPb2xUdUQ5cU9UMVEybEZFT0VST3AzZnRYeWVPWVZHNXBqeE9jdGVwUnZhelJIMml2R1lVNHVpT21TVG51S2NGaVZGLWtBWVVaRVo5dDNqSEtwYTE4eUpybGRQSUtncG9FMlNMZ2REc1dkbndJMmI2Sy11N3RHZnpRUTZyRkVhLTFaYzU3anhUdGd5OTVkNG1wSkJqb3VlOVB0eEFTamhUcnYySVlTOWU4emV5SDFkNmlSWlJDRGRHU29GXzk2RWFfeml5UdIB2gFBVV95cUxPZE9YOWh5UUE0X001clVPb2xUdUQ5cU9UMVEybEZFT0VST3AzZnRYeWVPWVZHNXBqeE9jdGVwUnZhelJIMml2R1lVNHVpT21TVG51S2NGaVZGLWtBWVVaRVo5dDNqSEtwYTE4eUpybGRQSUtncG9FMlNMZ2REc1dkbndJMmI2Sy11N3RHZnpRUTZyRkVhLTFaYzU3anhUdGd5OTVkNG1wSkJqb3VlOVB0eEFTamhUcnYySVlTOWU4emV5SDFkNmlSWlJDRGRHU29GXzk2RWFfeml5UQ?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     29,
+     30,
      3
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:19:51.751374+07:00",
+ "updated": "2026-10-19T10:21:23.063224+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,11 +11,11 @@
    21
   ],
   [
-   "Tribunjabar.id",
-   20
+   "Ayo Bandung",
+   21
   ],
   [
-   "Ayo Bandung",
+   "Tribunjabar.id",
    20
   ],
   [
@@ -36,10 +36,6 @@
   ],
   [
    "Satumedia.id",
-   5
-  ],
-  [
-   "Radar Bandung",
    4
   ],
   [
@@ -47,15 +43,19 @@
    4
   ],
   [
+   "Jurnal Soreang",
+   3
+  ],
+  [
    "Radio PRFM",
    3
   ],
   [
-   "jurnalpolisi.co.id",
+   "Galamedia News",
    3
   ],
   [
-   "jabarekspres.com",
+   "jurnalpolisi.co.id",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "BAZNAS Kabupaten Bandung Gelar Upgrading Ratusan Ustaz dan Ustazah, KH Yusuf: Mereka Pewaris Nabi - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb2ExUmtVeEVsN0VRSUNLRTVBQ19TMU11bGJ5eG82V3RDaWF0bHd2cS1HcG5xd3NEbGdFVUpUV19SWGtiVUJVbTBmZjMzRGp1bF9xd3RZamRCX01CNy1YZVhBOGszNS14RE9vMUo5MGF4bDI2M1NfTmFqaGk5M05Vbm1wUk5ZVVA4UEVSaGJTb09may1CaXJzczNzcHJHX0RTSkt0RmVIUkRmc3lBbHd6NlNjMWp1RkV0Wi1QVDFuOTB2Q1RfSm1Bb0s1cTFnVVYwTkdRdThka21VQkloMi16UXhOakEyZkxlRkJBNGd30gHzAUFVX3lxTE4tSHBXR3p4TkI2TzVVNjJBT3hsdWdtWUNCSXdjbl9oWlcwSkdxV192cVlSaHZDOUdqZl9QSHNDQWMxSzYzc1J0VzF0RXRyX3podW9kSTFDSUlZUklsVXR0V2lJY0FldHpfdHRHUlZDemc0UC1lY2QzSHRXT3hWeFhRbWdSOFlyUFFZMjJMaVdwYUdTam5xSVZVaDBOMTBtQVJpa05Hd1AxQWwzVTY1QkR2QkFSVnA2SmdRY2FaamhxS2QtdnhvcmtCUDNFUXhfSUlVUTMyaGFKaEhVb1cxNUV3dHkzeWNZWERyWGMwX1BqNkpOTQ?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFROVDUtZzh5SXpyUTR6dGdqTFEzNDNUS25hRjBORHZrRXFDSzlHbmRPYWswck5lSzNCX1NnYVRnYkt2R0EzR1ZiOXFXNDV3OE42NHB5XzItVDYxdnNqYUtyRm5vdWt6cVJIVk1FWjRLVlFnRzZNVnJXNFlSbWEtcE00TnB6ejlYTUxwWUxtdndMUVhINkxnbjZidkdwd2hha1RhSkRDR281bHJOZnNtZGdOU2MzWEVOWkVoRVVxaDgzY0Q4X1c2MERVVmw0S3M?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     6,
+     7,
      24,
      0
     ]
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     6,
+     7,
      0,
      0
     ],
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     18,
+     17,
      1
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "KIRAB dan GALAKSI Bakal Gelar Aksi di Kejari Kabupaten Bandung, Tagih Perkembangan Kasus RSUD Cikalong Wetan - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclZsMXcxZDRjYTl0Vk9MRGRqWFRHLU5fRU9wYWtrTlJ4bmJmRExMS012NThnV0dXZTNMSVFIbmUyd0d5YkNTNGJPMVJuS0JlYkl3WHFEZWYzX041akwyVmNkZnY3S2wtcEQ3X0FmYUdKNW9wclpLTE1hVXFsVF9iVm5abVZmb1B6R0FNZW5saVZ4czRVdmFSRmh3ZHA3MXdsYkw4NllWZUFCU0NzTWJ0aHNwbUhLTWNjVVdIWDdmanYwRnRSNFprN1NYUU1CV1U1aGZuTm9XYm0zMnFxQ0VDRE5IQU4yUHg4Z1hoMjBNbDRXbGRHRnc?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Polresta Bandung Razia Narkoba di Pameungpeuk, Dua Orang Positif Benzodiazepine - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGpKNGhKX0xQMmhWbl9hRTUzc3NyR1IyVENZeDVTM1FKMFVnczY3ajJVd1FOQm1kVGNPRWw0ZWpNQ09jazlOQWc5dWxKcW5hbW56dmE0UFFwOVZUeUNrbm9kSUlZejlBajlhaEkxTWtNU19XU18tbnNfRDk3QlRkbERDWFZwMjJHekx3MzdCeDhNVHdXd1p6Z0RlM0JEY0pDLU84bWpZc1BnZk5nOEpoSm1ReF95NGNDeGtxYXFlS25Rdw?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVzFySzdMaXRCTzliZ0FqZGFhWHNBSTVYLWdFUTVkNkZ5OXk5Q0Q4eklETVp5WnlFTGNfSXB1WTFYdTctdUQ2NE56cmhvMHl6b256NjlycEpVajNpVGlyNWdzZm1RbUM4U1AyTTlUazd2WHoyXzZUZ3VwWVE4dmhnbVlJaXhqRGswQ0NkbEc2UjgzVGJ2eEZLX1BZQU5oMUpZeHlEWVVJajNJOW02WGVSdnBLejlZeWFXZWhMdWlCNHdZcWVVQlgwNDl2VXFSazBWVHJr0gHYAUFVX3lxTE5KSE1kbHVRLV94LU9qdmczY2MyeXpOSEQ2SkdqYnlLM1hkRHRnNW5BUDZHQlpHNzJQemJHSmUyTnVlLXE2R1UyWHN1NzNhZUN6RUVwVE9MQ1JWRFQybERleFZONW4yeHkwdWRvMkJ1cWprTFJwSGNxU3lqUE1ubDdDblpFQXRRZktXdHZkVmFTTDVzZkJwQUhsRWRhLWo5Z19jR0ktNk41RkNRM2x0N29xRjVhcXdtWEFaS3VGTlJCdEc3MHZGemhjSHdtekw4SUNsMVZGd3BsQg?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Rumah Warga Pameungpeuk Dilempari Bom Molotov, Kapolresta Bandung Segera Tindak Lanjuti - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnJMNEgxREZvZEItYXhPdnBSSkZGeFFOa1hqNU9SajNOWHF4ejAzN29jSkd6T3R6UzQ0WlVQOG81emFXbzJUN1BzYklPV09QRUdPVmNTbmJNZThDSlh4M3JOb0FKNHRWaUJ4SGVMRk5peWpzN0pCbDNTbzZ0WUREZU9JMzR5RmVaX1Bta3VzbElsNkRVc1F4YXNMNjhmWTktU29tMG1pdENaaUlMXzRiRTRqcWJkaTM0c0tFODdad2FfRDdNUThQeFpPXzd0Tk42RTFr?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      9
     ]
    },
@@ -389,16 +389,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Keributan Debt Collector dan Ormas di Jalan Mohammad Toha Bandung, Ban Dibakar - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObURwMV9BVWt2TTN1eUZJbEdmaU5MMklKckV4VFJWX3NPdFBGTUdUczlNMkN3U21qd1NjZ1ZGSUtjSHZ1SmZzM2dGZUtEOEJ3enpQZGtkYWpaQlVjaXNYX0VubzZXMUNsOGp3TEFwOHFuekJTeE90cnhwSE1oVU0yMmcxTHBMc0JpdkVXa1lCR2pRWVJpZVo5aDR6WlExMlBYa21HWDFLUU5WcjRhSDZWNTVybUhUbFpqUXFVM0hCNGUyd0RHLVU00gHMAUFVX3lxTE05LW92MHRTWnJmcE1fVGh2cGhLMzIya1F1ZnFCSWJTSURtOVZNY25UampBdmlSZGI2UDNHZG1vOFM1dS0zQ0hxakxGLW1fbDJLTVVKTmV0VUhfQmhhMjBQcjdGcmNYa2lFWXRYbk9XNjA3NzlGZDM4SktWQ2oxSVJIY1ZRX09qaW5acHRmYU1yOFl2LTJuRVFVMkpBdVByYWNQdmI3bldieEVlV0x5OUxqWlRNVF93bFJGaFJQd3NyaEJRNTVWZVRjbnYtZg?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Anggaran Revitalisasi Rp 137 Miliar, 192 Sekolah di Kabupaten Bandung Dibenahi - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTdxUU0tU29ibjhNWjFVLVM2SzlLdGg2aTBLWWpiV3dJTTN5VjRGdVNGSTZHckkyTTEyckY0N3RaTDY4b01SelNwNUowU1hrd3RybTk4bjV2SjA4b2FLR0EtS095X05qVkxyd3FZXzRPWDlfaWFnQ0hySWtDV3piQ01xWVotUTBRdVJUTE92VDBSTFcwaVMwMHBTTFdNc21TQlU2aUtpQTZVaGdDa2Q4Z180V0c?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Tinjau Tiga Titik Rawan Banjir di Cibiru Bandung, Farhan: Bakal Banyak Galian dan Kena Bangunan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVJtUkxKZEx5YUFLanBrZFZ5ZkpoTV9lRDlYeU9wOFF1ZlZQSVNOVW1TWXM3MndOXzdrZ3c5ZGlZUlBiZWMxVXZpVUJyRzlLX01kU0t4NFR0LXJ1NERtWUVjb1M0anFleUJmcmJoZ0N5TUR2ejZEbUhoX2JIVXB6dHZHaVpDQjdVYV9aUGtGQ2REVEZ0REJFNTk2M0FrLTBIWjVBdmN3WllLRUFMYkVqNENtTElVOHZ3UDB0bjhRalZaUDI5X2FSWVpqSjRFYzh2bGNWeWxOY3RoVl9N?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
@@ -420,8 +420,8 @@
      5
     ],
     "w": [
-     7,
-     7,
+     6,
+     8,
      15
     ]
    },
@@ -436,7 +436,7 @@
      "Sen"
     ],
     "p": [
-     3,
+     2,
      1,
      2,
      3,
@@ -445,9 +445,9 @@
      0
     ],
     "g": [
-     1,
+     0,
      9,
-     5,
+     6,
      2,
      2,
      1,
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     30,
+     29,
      3
     ]
    },

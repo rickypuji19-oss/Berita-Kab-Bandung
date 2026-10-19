@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:19:29.397911+07:00",
+ "updated": "2026-10-20T06:19:15.045583+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Rencana Pemfungsian Eks RSUD Soreang Untuk Sekolah SMPN 5 - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1B5MFUwb0N4cHcxOFRRZXFNNzV5dVB3clUtdTdzN1U3WTg2SVJ5SFpxcFdGUkhDOEYtLWJVVVI4UFl6akdfbVRucmdWa1QtVHBHWWVfRDBQVW1FS1AzeUU2bm9OclVrWk1mZi1KbWpuVXRTcEp1blloRUtGVF83UUdOWEF4N2VDTnRmQkN2V1VBZmxGd1gxODh3WVhyN0JMOHAwa3kwUG45bW56dzByQk5DX2JpbEE?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "BSPS Kabupaten Bandung Sasar 3.047 Rumah pada 2026 - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDF0MVAxb0VXdnhKUFdNQlhBS1BwRFJ6ZTFsMFpxcWhIdEVPNi1VRlNVVGtnUGNrcUZ0cV9HbXhESC1pbDhOMXBZRXd2VXlPWFhOSnBZT2hZTWliTDRmbG0ySVcxVTBNX1J1SzN2cTl5V0p3REd3aGFqbFVNUlBTUFZ6ZjVkOS1pWWdiMUFzbk01ZlZfMU9lSjRLUDdHak5BajByUw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTE9XekNrUG9kTnNyM0o5VnJGTGc5OVhQT1ZwbVdyZjJ2bDVPTllycEswdjdFYW5XS2hTNjdUWlB0ZWdYWXRPd1d5eXNMRXU3dU5fWUZ5cEdhRkRxaEJDS3ljSmR5bUdfMEZJOW5xSzY4RE0?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Bedah Rumah 3.047 Unit di Kabupaten Bandung Didukung Anggaran APBN - VISI.NEWS",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczgxNHJMWEZxYUpwa2VCeThRNHpILXJzQUNsbExjczlvUXdNNXRHM3dyaThzbUMtMFdkRXppWFkyYUtOV1I1Nm5jZm02VkNCLUpUejdSdWdQd01BN29TRl8tbXNfWmVBaGw4RUM5c0h1Z2VBNVdOOXRRWGJYUHpBa05VNU9QTXpzYlUtZmlCTF96RVRsZlJESk1uRjg?oc=5",
-     "r": "VISI.NEWS"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     4,
+     3,
      27,
      5
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     5,
+     4,
      0
     ],
     "g": [

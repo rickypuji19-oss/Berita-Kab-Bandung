@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:20:57.522979+07:00",
+ "updated": "2026-10-19T19:23:26.571217+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -28,7 +28,11 @@
   ],
   [
    "detikcom",
-   7
+   6
+  ],
+  [
+   "jabarekspres.com",
+   5
   ],
   [
    "ANTARA News Jawa Barat",
@@ -39,11 +43,11 @@
    4
   ],
   [
-   "jabarekspres.com",
-   4
+   "Koran Gala",
+   3
   ],
   [
-   "Koran Gala",
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -59,11 +63,7 @@
    3
   ],
   [
-   "Puskesmas Kabupaten Bandung",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
+   "Galamedia News",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Siapkan Skema Penyaluran DBH ke Desa, Percepatan Pembangunan dan Kesejahteraan Warga Jadi Sasaran Utama - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcU5wT0NDNVA1SU9yUTdYQzJXNlV1ckIwYWprbTZOSWNraWIxc0l6WDVYTHE0RGg3UEpiNl8tSkhFbV9sRWIwd0JxTlNNdWRRMlV2N2c3ZFNiZEhNeXVKMnoxVDc1TVRndGUzUU1LcDBXWHZZenNwNUlFUDNLak8xdWM4Mlp5UFEwYWVXb0Z0NzNLcVJ4T2dYTU5YbDVuaFlyU0M3LTJDbk9NQnFZbjEyY2JUczBjMEZTbHNBeEU4OWFyYTlNSDI2c1RSalhTR05lZG53c0tQNDh6NjJOcHc?oc=5",
+     "r": "digo.id"
+    },
+    {
      "t": "Tanggap Darurat Kebakaran Pasar Pemkab Fokus Pemulihan Sarpras - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjNST3ZIMG5ocWduOGJna3g5U0hfVW13amk1dERIR0JxMDMzRmpGRXY3ZGxQcm13WWp2TnBnN3FmR19QUFJoYjZYQzR1blFlZVR4R2FiQjgtemlvQ3pHSjdSUXNZOUY5VDRHSm1uWmZkSVRmX214M2J1eXkxSmphaUdFdEhoam9qRk4wNzZzdXpkZlR2c21Ka2xISlVrT29PY0JzTXRxSm0?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUF3VFRuMWRvYmszY1lwaWFyYjMyTkl3eUkwRnV4eUdhbDVWSjRiX3Jhel8tdWc1V0FhU1VBRlJsZGJPYlV2aEZEaTlLaFhNSnZjRE05WE5MeU1ZaEJsU284SW9vZ1BmVlFBbDhfeHlqbVBzdVAzdFhrRm5HR0RqM0dTMTRZQzlqR0ROM1BBdWM5QmhXZFJXeW0tYU9xQnNnN0plQ3VYSkt6M1VtNWlYZHd1aUhHdGg2?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Revitalisasi 192 Sekolah di Kabupaten Bandung Didukung Anggaran Rp137 Miliar - VISI.NEWS",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFpLOTR1V20wYWMwdUs4U0cyZjFoNkY5bkkwWk5WSVgzRHp5dFdRczdoWTdLT083Q2pkSVRpODZzMWFKc1RKZk1KQjhpR3JXYWkzb013T3RuWTRiR05pRGM1ZEZxSFdEc0d4dnh4cDVxTEtfUUF2d1R6c0hIUjRUc2lyalVheXkxWV84N3pPWTRNZTFoZjFJN1Fn?oc=5",
-     "r": "VISI.NEWS"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     21,
+     20,
      4
     ]
    },
@@ -188,7 +188,7 @@
     "w": [
      3,
      11,
-     1
+     2
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      1
     ],
     "g": [
-     1,
+     2,
      0,
      0,
      0,
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      8
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     17
+     16
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     9,
+     8,
      6,
      2,
      2,
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     29,
+     28,
      3
     ]
    },

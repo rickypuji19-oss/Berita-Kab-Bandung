@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:25:58.436139+07:00",
+ "updated": "2026-10-19T17:24:32.122860+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "RRI.co.id",
+   24
+  ],
+  [
+   "Tribunjabar.id",
    22
   ],
   [
    "Ayo Bandung",
-   22
-  ],
-  [
-   "Tribunjabar.id",
-   19
+   21
   ],
   [
    "Kompas.com",
-   9
+   10
   ],
   [
    "detikcom",
@@ -59,12 +59,12 @@
    3
   ],
   [
-   "Galamedia News",
+   "Pikiran Rakyat Koran",
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
+   "Pemerintah Kabupaten Bandung",
+   2
   ]
  ],
  "topics": [
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     10,
-     20,
+     8,
+     22,
      4
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     6,
+     4,
      0,
      5
     ],
@@ -167,16 +167,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Pemkab Bandung Komitmen Sukseskan Program Bedah Rumah Menuju Masyarakat Sehat - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGs4djFqbXE5QnRBb3RmdlI3cUNzbUxDTzFDUnJBMFp0WUY5SkVJNjFfU0ZhU0F3bVdqd2pKVGFkSGpqWjJvRmRZc0JwalFfVFdsdE8tMGV3Q1hMbDNhazhmZjhfcUREdjhsNXV3amVidlZNWXJ3Sm1SRnBFVzY3VE5CbUQzcHp2d1ZKUjUtcmJHSDNWNU9jWDAzaG52b1JUTFQxWTVRdWhwWVNDOWh4Q2JWcGxjbVhHSk1fZjBTZXZrMGE5NDBqdNIBuAFBVV95cUxOSnZ5NjAxaVpkVGV3QVN2QWIybWpQaWE2M3UxalRrRzVGLW5uMGZEN1Z1SEF3UF83U2R1ZjVaWGhZLVEtYWZ5aHhVN2ROTHdYU3BEYnlpa2hDbTZOZGJwUndkcHlPMWM1Q1d2RzFfOXdVeDFacWEyNkZLX1h4VnhfUmRyR29OWnBsdTBWalhadnpWUUdrclR0YTFsN29lQkpUSmhJMkdoMEVfNkhzVmJYeHpPWG1VMURI?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "BAZNAS Kabupaten Bandung Gelar Uppgrading Ratusan Ustaz dan Ustazah - radarjabar.disway.id - Disway",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHVCZkJSZDRDSWF3T1IyenpqUUhZcHFvNGsxcGRyLUJvYzBkRnJRczluRWhxR0hwYTZOUGJ4SXc4UnY3ZEp4YzRienpTN1NUaTg2STQyM19aVWgyWmY3Y0hBOGpRYzVYbnVFSlNGa2UxSmpuY0haTXJLX0dIcVA4c0VyN1JlV2NweldEbTZOVlp6RFpqYnYtYmtVTDJnWEFYVWZ6UE5ab0hMYU3SAasBQVVfeXFMTVB1QmZCUmQ0Q0lhd09SMnp6alFIWXBxbzRrMXBkci1Cb2MwZEZyUXM5bkVocUdIcGE2TlBieEl3OFJ2N2RKeGM0Ynp6UzdTVGk4Nkk0MjNfWlVoMlpmN2NIQThqUWM1WG51RUpTRmtlMUpqbmNIWk1yS19HSHFQOHNFcjdSZVdjcHpXRG02TlZaekRaamJ2LWJrVUwyZ1hBWFVmelBOWm9ITGFN?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "Ketua Fraksi Demokrat H. Asep Ikhsan Tanggapi Program Pembagian Ponsel Gratis untuk Masyarakat - Bedanews",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFE1N0xJNTdTbzJYbkUtNmZURGZpdDJ6WnZjaTJrMTJJTlN3S0lZcGVaSnlaenFmNXdYUTJleV81NzVKV1BiYWU3VkFGZllQbW9Jc0U3Y1hMc0VFcWptRHV4R25zY21EZ3VsS1htaTc1dFBYa28tWjZadVRCTTZ6bGFnVTc4VWdVbHFmbzRxTGN4QXRWMERuLXB0SW92NkhaMjZjb0VBcHRlWk5JN1c5RXg0SnF6QQ?oc=5",
-     "r": "Bedanews"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     2,
+     3,
      11,
      1
     ]
@@ -208,7 +208,7 @@
      1,
      0,
      0,
-     0
+     1
     ],
     "g": [
      1,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Pabrik Obat Ilegal di Kopo Bandung Digerebek Polisi, Farhan: Musuh Kita Sekarang Tramadol - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnNvUXdVM21PeDJtUTlQWFVLSERyMmVlOVl5MVBwSl9BMTc2alRjcVRTMzVnSVBQNVJHX2U0RF8tTGNvQ00yVVg5TTFubWVoV0Y0dUVZendSWkpMbVFjY25FTkhRbExKTXBCQWVTMWRHbkJJZU5TODdMcE55a25XTkRrbDhvRWltX2xzQ3VSbVRxb2JGMmNtZEg5VjBfbWhiRDJpdkE5aFE2N2h4M3R0dnUtdnIzRjFvSU5kSktWWjU0S2ZPR0hTU0pNWTBURURqai1WNg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Geger! Di Bandung Ada Pabrik Obat Keras Ilegal Produksi 8 Juta Butir Sehari - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFFXdnR6OTRIa01fVmcyRHNvNDFZbGowZ1NYWnVsb0M4bUJzTWxlN1JnTm0zXy1MZndwbUJ4V0RHR3BzZ1p1UTBzcVJiZE85QWU4RkNxa29FZkljWlpIbkpCUVRCbUgycnBvaGlQeU5zZk1oODFrcGhUZldFTmNDd1c2cFBTMVZWWDF4cjFROGpMUWhCZTQwcEdBcTdMdVhMaXk4NHNVWHRuT0FjQlBzOWhPdWkyV25pT2pkdDI1d2VVRnfSAcgBQVVfeXFMUGVwcHpGWnBRVVIxVlZhaEdzRmFOeGdPTHFXa2FjT3NydUkxbGw5N1VJWkc5bHAwNWZraGQxWlVxWlRVZUtzZ2t3eWtral83ZlBFbWJGVExhd2R0OExMMkhxOG5vS0VqMXQtZFBXd1hPb2kxRFdRNEhaWkhsRmhpdFM0NUNyeXgyTUYxQUZoanNyVUVtQkt1V3lld1Y2MlVSZVlWUW5EbkZGblJ2VTlhelE4c1pkQmxsUnpoTVVWOTZwWFozYTdKdXY?oc=5",
@@ -240,12 +246,6 @@
      "t": "Kronologi Penggerebekan Pabrik Obat Ilegal di Bizpark Kopo Bandung: Berawal dari 600 Ribu Pil di Tol - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGJuSy12S0c4dXJ2STA4dk4wOWxreWRoYXhRbDRTWkdyNnBudmt4UDdFb0dZaVJ2ZGM0WXFPZEpvU19RWnkzcnoxQmhRUVh4RV9hM0k4c25XdjZzczV5cjJRb3hYc0trYVo4cU43bWxrRWk2UjVwVXo0X0tXUXFkOUdLRnJtY3BKWlhHcWhfVkxhdlVOSnlHeVFvNEdHVUlrWHdiUXVkbHBXeWNpNXk1cmFvbDlzdkd6Mk1seHozZFRRUGZVUUY1UlFyNEoxTE80T292X3lWd1dSd2lKRWxJWjV1S1I?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pabrik Raksasa Obat Ilegal di Kopo Bandung Digerebek, Kapolda: Bisa Produksi 250 Juta Butir - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2d4eEo4cW5OMHl0cFdmMXhOTVppdTZxQTRBTV9GMkZLMkNnTEszTkRSLTNNdEEyMjFnNXVKbTlRYTFGaThRQzlXMVBhUnJZOGJNMHNIMENFbC10dm9NdG00RGdfVVVsX01NbTlQZ0tGeF9mQ0EyajFETVpmd01FZXZhOFk5dTl3YU1nYmlEdlZpck9mZ2R6VWhJZWxfMHhBR2lWVW42eEtGTGd2X29xOF8zYWNSUUNCb0FxXzBUN0RIWHlmSmt1LUZ2QVY1VUI2ZTE4NUxoZw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     5,
-     17,
+     4,
+     18,
      2
     ]
    },
@@ -284,7 +284,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     0,
      0,
      2,
      3,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Berantas Peredaran Gelap Narkoba, Polisi Gelar Razia di Sejumlah Tempat Hiburan Malam - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpFMXZWTF9xUTJCVmY0TTVJclplRXpJUFZPNFQ5dEtBa0dFNTE3YThJVE8zcWdhY0dEWEtRR0hFNjFmMm9lcHlkdEtVLUg5clhZZWdMWVBvbDY3WnJUOE9pVVdQYnFKSkQ0Vms2QW4yTFVNbGxZRl9tc2U0M05CRElMV0dYWWtDME82aXREWXhFQkxQYkRVUzl2VXRlRnY3dTM3azJ1SWhrSkRaQUZ3dUxvRUo0bEZWSFlxck9YVzRMQmg1dVlN?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "KIRAB dan GALAKSI Bakal Gelar Aksi di Kejari Kabupaten Bandung, Tagih Perkembangan Kasus RSUD Cikalong Wetan - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclZsMXcxZDRjYTl0Vk9MRGRqWFRHLU5fRU9wYWtrTlJ4bmJmRExMS012NThnV0dXZTNMSVFIbmUyd0d5YkNTNGJPMVJuS0JlYkl3WHFEZWYzX041akwyVmNkZnY3S2wtcEQ3X0FmYUdKNW9wclpLTE1hVXFsVF9iVm5abVZmb1B6R0FNZW5saVZ4czRVdmFSRmh3ZHA3MXdsYkw4NllWZUFCU0NzTWJ0aHNwbUhLTWNjVVdIWDdmanYwRnRSNFprN1NYUU1CV1U1aGZuTm9XYm0zMnFxQ0VDRE5IQU4yUHg4Z1hoMjBNbDRXbGRHRnc?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGpKNGhKX0xQMmhWbl9hRTUzc3NyR1IyVENZeDVTM1FKMFVnczY3ajJVd1FOQm1kVGNPRWw0ZWpNQ09jazlOQWc5dWxKcW5hbW56dmE0UFFwOVZUeUNrbm9kSUlZejlBajlhaEkxTWtNU19XU18tbnNfRDk3QlRkbERDWFZwMjJHekx3MzdCeDhNVHdXd1p6Z0RlM0JEY0pDLU84bWpZc1BnZk5nOEpoSm1ReF95NGNDeGtxYXFlS25Rdw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Gudang di Bandung Jadi Tempat Produksi dan Penyimpanan Obat Keras, Lima Orang Ditangkap - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVzFySzdMaXRCTzliZ0FqZGFhWHNBSTVYLWdFUTVkNkZ5OXk5Q0Q4eklETVp5WnlFTGNfSXB1WTFYdTctdUQ2NE56cmhvMHl6b256NjlycEpVajNpVGlyNWdzZm1RbUM4U1AyTTlUazd2WHoyXzZUZ3VwWVE4dmhnbVlJaXhqRGswQ0NkbEc2UjgzVGJ2eEZLX1BZQU5oMUpZeHlEWVVJajNJOW02WGVSdnBLejlZeWFXZWhMdWlCNHdZcWVVQlgwNDl2VXFSazBWVHJr0gHYAUFVX3lxTE5KSE1kbHVRLV94LU9qdmczY2MyeXpOSEQ2SkdqYnlLM1hkRHRnNW5BUDZHQlpHNzJQemJHSmUyTnVlLXE2R1UyWHN1NzNhZUN6RUVwVE9MQ1JWRFQybERleFZONW4yeHkwdWRvMkJ1cWprTFJwSGNxU3lqUE1ubDdDblpFQXRRZktXdHZkVmFTTDVzZkJwQUhsRWRhLWo5Z19jR0ktNk41RkNRM2x0N29xRjVhcXdtWEFaS3VGTlJCdEc3MHZGemhjSHdtekw4SUNsMVZGd3BsQg?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     14,
-     8
+     13,
+     9
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      3,
-     1,
+     2,
      1,
      1,
      1,
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Terminal Ledeng Bandung Ditutup demi Dijadikan Stasiun Akhir BRT, Angkutan Dialihkan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSy1hc3lxQ3lmaXFnQ1ZCZXUxRDQ1MnVhVnZaY2ViblBxcnl1ZXN0aXpxNkNtazFMOUcyZEZWMGpaMjRJQUhZT2c0dkd4cUJIY3BFUHJXMGI2RFRwVDhOa2xRcTJNMmhPTVE5VmRZQmE1M3hmNUFBZHRpR1h3b0VYb3FHbFFET1E2WFJwSFdWZzhNZXl1ZmVwUmRuWk16Qm1rVjZSRTFEVzdoM2dsNzJfZXNXUnRlMjZfSDQ1X0NoR2VkWGRvOU15TmNvRk5CTVU?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Halte BRT di Tengah Jalan Cicadas Bandung Sudah Berdiri Kokoh, Kemacetan Masih jadi Sorotan - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWtIRklaRllRbDZRV3VXQjJUSE9fWjNPbkNIcWtZXzFlSEZ4QWJRX2NELWYtdTNQei1LMUl6ck91Q3I0dU85Unh5ZE1LRDZiSEFMZHIxTG5kNkJiSFNYSjduYWZvclhYS016YUxJa2tvTThZQzYwMFN5cFR2V2NuMjFVNm11bUtEa1RsbkE3amZyZW1NOVRMd0RpSDkwU2tPLU9aaDIwUTJ6LVIxamNPaFJtbVlyMGh1Rl9lemNhMEpsMTI1anRaNFZaVmdweEdKTGxlbVJiaFo?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXFac01McjRqckN4X2hUalRncjgtazJsNGZhRVBva3c4SE01eFlqdHBWUmNXRzNwSU5GRkw3dzdtZnhwbWN4STRGUVpZQnNGUExCeGdxbG5iLXBWNjhaMnNWb0pJcUFmMW1iOGw2ZFhRTFpFQzZTWmJGdk5IU05Gek4tT3QzOWpRTEhBeHdhdWUxUzNKUTFYbGtjdW4zWTd4eFBZ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Siap-Siap Bandung Berpotensi Macet 17–18 Oktober 2026: Ultra Marathon hingga Reuni Akbar - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmNTZm1qMjhZUjFQbkZxUE96RFpoaVJGS0RrbWE3amlxSlI4enJMVDNlWlBGVUxKUU1uOWducXU4VUNLbHhReTdPaE9LcHVMaFhVQ19SMlFqczFHSnFHMS1jX2VEZG5PYmdkN2hIdFhCVkZXQmtJSEE5elRmWnhUdXhEWWVGX0p3QkJUaUtMMWhWTm9iRWtiUG1xTXItSERUVGpuaVVNZnFkZDR3X0ZHXzZDWXphYXRKQk1reTZiVnEyQ1lONjhpMFZaOW5DaW82VW5wSA?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     16
+     17
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      2,
      2,
      1,
-     1
+     2
     ]
    }
   },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
@@ -474,12 +480,6 @@
      "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati Siapkan Sarana Pendidikan Layak dan Pembelajaran Digital - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0pjOXJzQWtQazcwVjdZMHZjVnhUME41VS1ub0FUcEZESmVpcVhwUnpSdmhNQnNHallZUy10S1dxdzljVTdXeThuRXY1TFV6R3FDaVAySUVzV2RzMmFfUWppQnNtcnAtTnNEdUhFa0JCM3VTNF9ucXpDZVE2ak54SE1TM2lCaFh3ZXhWS1QtN3E1RkNKTHBLbGtRRHM5c3A4dzNoRlF3?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      9,
-     27,
+     29,
      3
     ]
    },

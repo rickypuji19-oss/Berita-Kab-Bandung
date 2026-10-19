@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T02:26:01.914416+07:00",
+ "updated": "2026-10-20T03:20:52.801782+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,11 +16,15 @@
   ],
   [
    "Ayo Bandung",
-   22
+   20
   ],
   [
    "Kompas.com",
-   7
+   8
+  ],
+  [
+   "detikcom",
+   6
   ],
   [
    "Ketik",
@@ -32,10 +36,6 @@
   ],
   [
    "Koran Gala",
-   5
-  ],
-  [
-   "detikcom",
    5
   ],
   [
@@ -51,8 +51,8 @@
    4
   ],
   [
-   "jurnalpolisi.co.id",
-   3
+   "Puskesmas Kabupaten Bandung",
+   4
   ],
   [
    "PPID Kab. Bandung",
@@ -91,10 +91,10 @@
      "r": "Ketik"
     },
     {
-     "t": "KDS Benahi Skema Bonus Produksi Panas Bumi, 60 Persen Dana Untuk Infrastruktur dan Layanan Dasar Masyarakat - jurnalpolisi.co.id",
+     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXctMXk3THpleFNVc01GQjlBNUU5M0VCR2NMRHVhUEItT084TVZmajZSd1ZmS1Nud0VRRzB0dkh0SzQ4N1lZWXJFNTVHbkhzb0Z4blF3T2pONW43Mjg3RWVCNnZ2bUNoVURwTy1DY1dBSl9HX1FOc2JoSHRjeHprLWxoSEFQNVRaeWVBTGhzS0IzbXp6N3dTamExbXJWdzBUT0FYR2ZFV2tILWR6YklPWUxFODhLcUdxdF92M1VEVkZHM3dwbWJBSDJwQzc5UHM?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "r": "Disway"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     4,
+     5,
      26,
      4
     ]
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      4,
      0
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     12,
+     11,
      0
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     18,
+     17,
      3
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     17
+     18
     ]
    },
    "trend": {
@@ -436,16 +436,16 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      3,
-     3,
+     2,
      0,
      0,
      1,
      0
     ],
     "g": [
-     8,
+     9,
      6,
      2,
      2,
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      28,
      4
     ]
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      3,
      5,
      0,

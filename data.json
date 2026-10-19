@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:22:24.016270+07:00",
+ "updated": "2026-10-20T00:19:50.417217+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,15 +20,7 @@
   ],
   [
    "Kompas.com",
-   10
-  ],
-  [
-   "detikcom",
-   7
-  ],
-  [
-   "Disway",
-   6
+   8
   ],
   [
    "Ketik",
@@ -37,6 +29,14 @@
   [
    "Koran Gala",
    5
+  ],
+  [
+   "detikcom",
+   5
+  ],
+  [
+   "Disway",
+   4
   ],
   [
    "ANTARA News Jawa Barat",
@@ -112,42 +112,42 @@
    "v": {
     "s": [
      1,
-     2,
+     1,
      2
     ],
     "w": [
-     5,
-     25,
+     4,
+     26,
      4
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
      0,
      0,
+     1,
      0,
-     2,
-     0,
-     4
+     4,
+     0
     ],
     "g": [
-     0,
      1,
      1,
      0,
      0,
      0,
-     4
+     4,
+     0
     ]
    }
   },
@@ -187,31 +187,31 @@
     ],
     "w": [
      3,
-     13,
-     2
+     11,
+     0
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
-     0,
      1,
      1,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     2,
+     0,
      0,
      0,
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Bantuan Alsintan Dioptimalkan, Produktivitas Petani Kab Bandung Digenjot - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1DTzRMTTY5X0hMRE8yOHp3RG5sT05IVE1VM3E2Mkpub2N3SV96d2pZOURlX2hWZTNjWlpydXVHalJsN2NJVGxmQmJjZ0h1b2FZWHJfSmV0TVR4NFZsMjg3X3Z0Z0VUY1pSMTRkaVkzcERqelNTaUtDU1MtU3ZJWHBGcHUyNFNOWkVkYTJBa25FSWFEZFFTSklrRDFGTzBsNjRSUUdQTFBzM0Uxa2lHWA?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Pabrik Obat Ilegal di Kopo Bandung Digerebek Polisi, Farhan: Musuh Kita Sekarang Tramadol - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnNvUXdVM21PeDJtUTlQWFVLSERyMmVlOVl5MVBwSl9BMTc2alRjcVRTMzVnSVBQNVJHX2U0RF8tTGNvQ00yVVg5TTFubWVoV0Y0dUVZendSWkpMbVFjY25FTkhRbExKTXBCQWVTMWRHbkJJZU5TODdMcE55a25XTkRrbDhvRWltX2xzQ3VSbVRxb2JGMmNtZEg5VjBfbWhiRDJpdkE5aFE2N2h4M3R0dnUtdnIzRjFvSU5kSktWWjU0S2ZPR0hTU0pNWTBURURqai1WNg?oc=5",
@@ -241,12 +247,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFFXdnR6OTRIa01fVmcyRHNvNDFZbGowZ1NYWnVsb0M4bUJzTWxlN1JnTm0zXy1MZndwbUJ4V0RHR3BzZ1p1UTBzcVJiZE85QWU4RkNxa29FZkljWlpIbkpCUVRCbUgycnBvaGlQeU5zZk1oODFrcGhUZldFTmNDd1c2cFBTMVZWWDF4cjFROGpMUWhCZTQwcEdBcTdMdVhMaXk4NHNVWHRuT0FjQlBzOWhPdWkyV25pT2pkdDI1d2VVRnfSAcgBQVVfeXFMUGVwcHpGWnBRVVIxVlZhaEdzRmFOeGdPTHFXa2FjT3NydUkxbGw5N1VJWkc5bHAwNWZraGQxWlVxWlRVZUtzZ2t3eWtral83ZlBFbWJGVExhd2R0OExMMkhxOG5vS0VqMXQtZFBXd1hPb2kxRFdRNEhaWkhsRmhpdFM0NUNyeXgyTUYxQUZoanNyVUVtQkt1V3lld1Y2MlVSZVlWUW5EbkZGblJ2VTlhelE4c1pkQmxsUnpoTVVWOTZwWFozYTdKdXY?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Kronologi Penggerebekan Pabrik Obat Ilegal di Bizpark Kopo Bandung: Berawal dari 600 Ribu Pil di Tol - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGJuSy12S0c4dXJ2STA4dk4wOWxreWRoYXhRbDRTWkdyNnBudmt4UDdFb0dZaVJ2ZGM0WXFPZEpvU19RWnkzcnoxQmhRUVh4RV9hM0k4c25XdjZzczV5cjJRb3hYc0trYVo4cU43bWxrRWk2UjVwVXo0X0tXUXFkOUdLRnJtY3BKWlhHcWhfVkxhdlVOSnlHeVFvNEdHVUlrWHdiUXVkbHBXeWNpNXk1cmFvbDlzdkd6Mk1seHozZFRRUGZVUUY1UlFyNEoxTE80T292X3lWd1dSd2lKRWxJWjV1S1I?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,28 +268,28 @@
      0
     ],
     "w": [
-     4,
+     5,
      17,
      3
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      0,
      2,
      3,
      0,
      0,
+     1,
      0
     ],
     "g": [
@@ -297,9 +297,9 @@
      0,
      0,
      0,
-     0,
      2,
-     1
+     1,
+     0
     ]
    }
   },
@@ -339,37 +339,37 @@
     ],
     "w": [
      1,
-     12,
-     9
+     9,
+     8
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
-     0,
      1,
+     0,
      0,
      0,
      0,
      0
     ],
     "g": [
-     1,
      3,
      1,
      1,
      1,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -415,43 +415,43 @@
    ],
    "v": {
     "s": [
-     2,
-     1,
+     0,
+     0,
      5
     ],
     "w": [
      7,
      6,
-     18
+     17
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     2,
-     1,
-     2,
+     0,
+     3,
      3,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
-     9,
+     8,
      6,
      2,
      2,
      1,
-     3
+     3,
+     0
     ]
    }
   },
@@ -487,17 +487,11 @@
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=cBMiT0cZNNI",
      "r": "YouTube humas slbncintaasih"
-    },
-    {
-     "t": "SEKOLAH MANUSIA UNGGUL (MAUNG) SMAN 1 SOREANG KAB.BANDUNG",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=-wcapho8uAg",
-     "r": "YouTube Tikomdik Disdik Jabar"
     }
    ],
    "v": {
     "s": [
-     1,
+     0,
      1,
      0
     ],
@@ -509,31 +503,31 @@
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     1,
      0,
      0,
      3,
      5,
      0,
+     0,
      0
     ],
     "g": [
      0,
-     0,
      1,
      1,
      0,
      1,
-     1
+     1,
+     0
     ]
    }
   }

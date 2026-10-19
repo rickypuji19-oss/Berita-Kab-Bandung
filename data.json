@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:28:13.745434+07:00",
+ "updated": "2026-10-19T09:19:51.751374+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -23,12 +23,12 @@
    9
   ],
   [
-   "ANTARA News Jawa Barat",
+   "detikcom",
    7
   ],
   [
-   "detikcom",
-   7
+   "ANTARA News Jawa Barat",
+   6
   ],
   [
    "Disway",
@@ -37,10 +37,6 @@
   [
    "Satumedia.id",
    5
-  ],
-  [
-   "jabarekspres.com",
-   4
   ],
   [
    "Radar Bandung",
@@ -56,6 +52,10 @@
   ],
   [
    "jurnalpolisi.co.id",
+   3
+  ],
+  [
+   "jabarekspres.com",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     25,
+     24,
      0
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      1,
      12,
-     10
+     9
     ]
    },
    "trend": {
@@ -364,7 +364,7 @@
     ],
     "g": [
      1,
-     4,
+     3,
      2,
      1,
      1,
@@ -421,7 +421,7 @@
     ],
     "w": [
      7,
-     8,
+     7,
      15
     ]
    },

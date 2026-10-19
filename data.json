@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:14:20.243009+07:00",
+ "updated": "2026-10-19T08:28:13.745434+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,23 +12,23 @@
   ],
   [
    "Tribunjabar.id",
-   19
+   20
   ],
   [
    "Ayo Bandung",
-   19
+   20
   ],
   [
    "Kompas.com",
-   10
+   9
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
    "detikcom",
    7
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   6
   ],
   [
    "Disway",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Koran Gala",
+   "PPID Kab. Bandung",
    2
   ],
   [
-   "Galamedia News",
+   "Koran Gala",
    2
   ]
  ],
@@ -85,15 +85,15 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "TANDA TERIMA PERMOHONAN INFORMASI DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFROVDUtZzh5SXpyUTR6dGdqTFEzNDNUS25hRjBORHZrRXFDSzlHbmRPYWswck5lSzNCX1NnYVRnYkt2R0EzR1ZiOXFXNDV3OE42NHB5XzItVDYxdnNqYUtyRm5vdWt6cVJIVk1FWjRLVlFnRzZNVnJXNFlSbWEtcE00TnB6ejlYTUxwWUxtdndMUVhINkxnbjZidkdwd2hha1RhSkRDR281bHJOZnNtZGdOU2MzWEVOWkVoRVVxaDgzY0Q4X1c2MERVVmw0S3M?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Kadisdik: Eks RSUD Soreang Bakal Dimanfaatkan Jadi Sekolah - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFpaZERwclFSQlRhcDBzd293eXloVWFfeGk1TUVPTTRFbmw0UWJXWVRnUVlpSVc0dFl6Wm9uYkp2VjdmbFV4aFoyMmxhVzlKOE40MFUwOHBialBJd2NFSFU2TTlmWkh4elVoalJCclcxVFpyUHA0dExnUjFSS3hVd01VUC1PMnJNcjVZd2txRVJsWURRcVd1cTV6R3JCZw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     8,
-     23,
+     6,
+     25,
      0
     ]
    },
@@ -135,8 +135,8 @@
      0,
      0,
      0,
-     1,
-     7,
+     0,
+     6,
      0,
      0
     ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     10,
+     9,
      1
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Kronologi Penggerebekan Pabrik Obat Ilegal di Bizpark Kopo Bandung: Berawal dari 600 Ribu Pil di Tol - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGJuSy12S0c4dXJ2STA4dk4wOWxreWRoYXhRbDRTWkdyNnBudmt4UDdFb0dZaVJ2ZGM0WXFPZEpvU19RWnkzcnoxQmhRUVh4RV9hM0k4c25XdjZzczV5cjJRb3hYc0trYVo4cU43bWxrRWk2UjVwVXo0X0tXUXFkOUdLRnJtY3BKWlhHcWhfVkxhdlVOSnlHeVFvNEdHVUlrWHdiUXVkbHBXeWNpNXk1cmFvbDlzdkd6Mk1seHozZFRRUGZVUUY1UlFyNEoxTE80T292X3lWd1dSd2lKRWxJWjV1S1I?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pabrik Raksasa Obat Ilegal Digerebek di Kopo Bandung, Kapolda: Bisa Produksi 250 Juta Butir - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2d4eEo4cW5OMHl0cFdmMXhOTVppdTZxQTRBTV9GMkZLMkNnTEszTkRSLTNNdEEyMjFnNXVKbTlRYTFGaThRQzlXMVBhUnJZOGJNMHNIMENFbC10dm9NdG00RGdfVVVsX01NbTlQZ0tGeF9mQ0EyajFETVpmd01FZXZhOFk5dTl3YU1nYmlEdlZpck9mZ2R6VWhJZWxfMHhBR2lWVW42eEtGTGd2X29xOF8zYWNSUUNCb0FxXzBUN0RIWHlmSmt1LUZ2QVY1VUI2ZTE4NUxoZw?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdllMZTFJa09kMjBFS2dnamxFc29LcVhGaEgzM3ZwZ0lRR21IQ2xDdF9nNVFnZGRiQkphOVFfMEl1X3JaeERBdVczSXp2S05YTzBBMDRrekpEUFBqY01UeW9XV01ieWNYLUdfbk0ya2FHQUJzQ1pUM2NNTHNSM1hHVUxUOHJnTmhYTjNjeXlTUGpuRVRxQzktOHRleE8taHFoaHM5UUJLMkhXUWJPOGNONVUwczAtYUhUMFp3VVR6VFNkdGRDenFxc3VXUURYWVFyc2lUNVpyd2xHWTA0TS1ZS01R?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Polisi Gerebek Pabrik dan Gudang OKT di Bandung - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2E1YVp3bmh5UzV4XzFfOV9TSXBJbnlYSzBENUhYeGxIWW0teElNdnRuUEdNMkRWZWRNNDRsSjEwZ0ZyY3d0eXhTSmN2ams4OUMxdmJJQXZWeGw3S0pjNUFlTUpQZEN1Q1d3TFRVcTFZdlpnNDR6X0gyQkgycVdBMW5DbDgtbnlsOVQ3cWtTYmxTQVFjZWs5Z3BLSUhpakZXM1E?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -340,7 +340,7 @@
     "w": [
      1,
      12,
-     9
+     10
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      4,
-     1,
+     2,
      1,
      1,
      1,
@@ -421,8 +421,8 @@
     ],
     "w": [
      7,
-     7,
-     16
+     8,
+     15
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      1,
-     10,
+     9,
      5,
      2,
      2,
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
@@ -474,12 +480,6 @@
      "t": "Bupati Siapkan Sarana Pendidikan Layak dan Pembelajaran Digital - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0pjOXJzQWtQazcwVjdZMHZjVnhUME41VS1ub0FUcEZESmVpcVhwUnpSdmhNQnNHallZUy10S1dxdzljVTdXeThuRXY1TFV6R3FDaVAySUVzV2RzMmFfUWppQnNtcnAtTnNEdUhFa0JCM3VTNF9ucXpDZVE2ak54SE1TM2lCaFh3ZXhWS1QtN3E1RkNKTHBLbGtRRHM5c3A4dzNoRlF3?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     31,
+     30,
      3
     ]
    },

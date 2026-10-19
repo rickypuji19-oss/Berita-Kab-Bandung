@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:35:27.959839+07:00",
+ "updated": "2026-10-19T21:29:01.361920+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   23
+   24
   ],
   [
    "Ayo Bandung",
@@ -16,11 +16,11 @@
   ],
   [
    "Tribunjabar.id",
-   20
+   21
   ],
   [
    "Kompas.com",
-   9
+   10
   ],
   [
    "Disway",
@@ -28,15 +28,11 @@
   ],
   [
    "detikcom",
-   7
-  ],
-  [
-   "jabarekspres.com",
-   5
+   6
   ],
   [
    "Koran Gala",
-   4
+   5
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,7 +43,19 @@
    4
   ],
   [
+   "jabarekspres.com",
+   4
+  ],
+  [
+   "jurnalpolisi.co.id",
+   3
+  ],
+  [
    "Ketik",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -57,14 +65,6 @@
   [
    "Radio PRFM",
    3
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
-   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS Benahi Skema Bonus Produksi Panas Bumi, 60 Persen Dana Untuk Infrastruktur dan Layanan Dasar Masyarakat - jurnalpolisi.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXctMXk3THpleFNVc01GQjlBNUU5M0VCR2NMRHVhUEItT084TVZmajZSd1ZmS1Nud0VRRzB0dkh0SzQ4N1lZWXJFNTVHbkhzb0Z4blF3T2pONW43Mjg3RWVCNnZ2bUNoVURwTy1DY1dBSl9HX1FOc2JoSHRjeHprLWxoSEFQNVRaeWVBTGhzS0IzbXp6N3dTamExbXJWdzBUT0FYR2ZFV2tILWR6YklPWUxFODhLcUdxdF92M1VEVkZHM3dwbWJBSDJwQzc5UHM?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Bupati KDS Pastikan Bonus Produksi Panas Bumi Berdampak bagi 56 Desa di Kabupaten Bandung - Ketik",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczBpVDNJZV9DZTB0T04wMk0yakdwNUdZeFFvd1lYR243OHpXbGFCZ2hJOXJGMnkwX2VzOVRhODByVDgtdDJwLTBjcV9QQ2FWbUh2NjdzS1FlTUtlMk9TUE9FRm16Zlh3WUhzWDZ1amtCbnpXWTV0aEMweThFSGJ3d01YV1hveU5weGMxRXlzblVyaHhvY0o3REJabkZJdmc5WDFpY01IUHVLUkpOVHcwVHcwQ2NQX083cDlxSlFRY9IBsAFBVV95cUxOb1RsVmNqalF0UHoyUThKSExYQ1FGWEx3QTFycG1oTmtGVXpacTlqOFF4N3pVemttc1U1eUtWRXU0SG9SVzBCZnVNQTJrVXlFeFNuZXpjamhFX3dJb2FxU2xYbjFaZFIwcWZoOFVZSVIwVjZxWWdVSjIxeVlXdVB0ckxnSHNlMnVqaG15OWpMc1k5WGdFeWlQUzVIRjZUMDRhYnNlcnRIaTBqWmFTQ1VZdw?oc=5",
      "r": "Ketik"
     },
     {
-     "t": "Pemkab Bandung Siapkan Skema Penyaluran DBH ke Desa, Percepatan Pembangunan dan Kesejahteraan Warga Jadi Sasaran Utama - digo.id",
+     "t": "Pemkab Bandung Alokasikan Rp40 Miliar Bonus Panas Bumi untuk 56 Desa - Koran Gala - Koran Gala",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcU5wT0NDNVA1SU9yUTdYQzJXNlV1ckIwYWprbTZOSWNraWIxc0l6WDVYTHE0RGg3UEpiNl8tSkhFbV9sRWIwd0JxTlNNdWRRMlV2N2c3ZFNiZEhNeXVKMnoxVDc1TVRndGUzUU1LcDBXWHZZenNwNUlFUDNLak8xdWM4Mlp5UFEwYWVXb0Z0NzNLcVJ4T2dYTU5YbDVuaFlyU0M3LTJDbk9NQnFZbjEyY2JUczBjMEZTbHNBeEU4OWFyYTlNSDI2c1RSalhTR05lZG53c0tQNDh6NjJOcHc?oc=5",
-     "r": "digo.id"
-    },
-    {
-     "t": "Tanggap Darurat Kebakaran Pasar Pemkab Fokus Pemulihan Sarpras - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjNST3ZIMG5ocWduOGJna3g5U0hfVW13amk1dERIR0JxMDMzRmpGRXY3ZGxQcm13WWp2TnBnN3FmR19QUFJoYjZYQzR1blFlZVR4R2FiQjgtemlvQ3pHSjdSUXNZOUY5VDRHSm1uWmZkSVRmX214M2J1eXkxSmphaUdFdEhoam9qRk4wNzZzdXpkZlR2c21Ka2xISlVrT29PY0JzTXRxSm0?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObnhvRGE2UEhXblVCeFNSSVVHZjdpeGtiN0w1UEY1b1pKamJPbld1UjFfOWx6NGxGNWhUdFFkQ2hlbHdmRUdDS0FmZ09JTmZ3aDUycEcyekYxb3pVS2czdGp0Z3pkRzFwNTJlaHZoZWswMmYycEpWWVJ5VmEtTTRGVEZNdjcwN2Q5QWdZMmxIbUdOZVZHY2hKYVBNTUdNMFNrYTdiN1djR21XNkhFNTFhetIBtgFBVV95cUxQd3I0SlZRX2tJVlE4Q3NGbVpBWmVRdWdEcmZNSWpCUnFLc2w1SzBISVY1QmJiU3ZONEFJcU9hem52VmtObVdPa20yMEFySzRvWXlEdXlMbTRPYld4MGdGWW1sdFFFLW90OTFVMkRqNC1JNzNUU1J4NTgxZ2hGZkI1TWFMVDlTX1Nsa1l1d0dkdWZ5V1NuVjJrTXpKSkNGZDF0dWNEdXRnbTdacGI3QTZBOG9iTWFDdw?oc=5",
+     "r": "Koran Gala"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     22,
+     24,
      4
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     16,
+     17,
      3
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      8
     ]
    },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Eceng Gondok Disulap Jadi Pupuk dan Paving Block untuk Bantu Korban Longsor Pasirlangu - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2hBUHFadkNUMzViYmtIdm1rajFpYlRWRWdmdGpnNUFzSWNWVGZ2dzdXQzZQMWhET3kzT3c1NXJtR0R0bEZscFBDNXVoc3NaZm1JdGxxemtoT29IRjBjQ3RmaFB0TFZjaG95MzVNQ1U1VmxsUmVjWDhNSEhRVDlLSGdVRHFnTjQtNURic18tU29Dc2MwcW1mSGZPWWMzNDZSVXdjVnh4UTlSNllwZFZfZm51Yzd0eF96eXFqX0ViU09sZzhXV0QxZEsxOE01VmtIWXJr0gHYAUFVX3lxTE1MRDVCbzlsN0VoaWpodzFycVVZMmVKY1pQNVpJQ1I5UFBwVG9oNE9fT2VweURwdkRxVHZ1Uk52WVpZbXo0RkRuekM5ckh3NTJiLUY5NTd4dGc4OUFkM1Radm82SkdIdzUySEM5UWc5U3RvVFF0UG1Sd19qNy1JV1lWd1dxSThDaW5jS3FJeXNMMjVsWjcyUXFEaTl6dFFueXRJMjBtNkFIX011S01rbWF0YUZkYzBuNnlDcS0wZko5eVVSbjI2V3JlaTJycDhsWXBhNjJLRmJ3bw?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Terminal Ledeng Bandung Ditutup demi Dijadikan Stasiun Akhir BRT, Angkutan Dialihkan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSy1hc3lxQ3lmaXFnQ1ZCZXUxRDQ1MnVhVnZaY2ViblBxcnl1ZXN0aXpxNkNtazFMOUcyZEZWMGpaMjRJQUhZT2c0dkd4cUJIY3BFUHJXMGI2RFRwVDhOa2xRcTJNMmhPTVE5VmRZQmE1M3hmNUFBZHRpR1h3b0VYb3FHbFFET1E2WFJwSFdWZzhNZXl1ZmVwUmRuWk16Qm1rVjZSRTFEVzdoM2dsNzJfZXNXUnRlMjZfSDQ1X0NoR2VkWGRvOU15TmNvRk5CTVU?oc=5",
@@ -393,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWtIRklaRllRbDZRV3VXQjJUSE9fWjNPbkNIcWtZXzFlSEZ4QWJRX2NELWYtdTNQei1LMUl6ck91Q3I0dU85Unh5ZE1LRDZiSEFMZHIxTG5kNkJiSFNYSjduYWZvclhYS016YUxJa2tvTThZQzYwMFN5cFR2V2NuMjFVNm11bUtEa1RsbkE3amZyZW1NOVRMd0RpSDkwU2tPLU9aaDIwUTJ6LVIxamNPaFJtbVlyMGh1Rl9lemNhMEpsMTI1anRaNFZaVmdweEdKTGxlbVJiaFo?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kebakaran TPA, Pemkab : Momentum Perbaikan Pengelolaan Sampah - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXFac01McjRqckN4X2hUalRncjgtazJsNGZhRVBva3c4SE01eFlqdHBWUmNXRzNwSU5GRkw3dzdtZnhwbWN4STRGUVpZQnNGUExCeGdxbG5iLXBWNjhaMnNWb0pJcUFmMW1iOGw2ZFhRTFpFQzZTWmJGdk5IU05Gek4tT3QzOWpRTEhBeHdhdWUxUzNKUTFYbGtjdW4zWTd4eFBZ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
@@ -446,12 +446,12 @@
     ],
     "g": [
      0,
-     9,
+     8,
      6,
      2,
      2,
      1,
-     2
+     3
     ]
    }
   },
@@ -471,15 +471,15 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     27,
+     29,
      3
     ]
    },

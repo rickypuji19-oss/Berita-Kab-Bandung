@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T01:19:27.953919+07:00",
+ "updated": "2026-10-20T02:26:01.914416+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,15 +16,11 @@
   ],
   [
    "Ayo Bandung",
-   20
+   22
   ],
   [
    "Kompas.com",
-   9
-  ],
-  [
-   "detikcom",
-   6
+   7
   ],
   [
    "Ketik",
@@ -36,6 +32,10 @@
   ],
   [
    "Koran Gala",
+   5
+  ],
+  [
+   "detikcom",
    5
   ],
   [
@@ -51,6 +51,10 @@
    4
   ],
   [
+   "jurnalpolisi.co.id",
+   3
+  ],
+  [
    "PPID Kab. Bandung",
    3
   ],
@@ -60,10 +64,6 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   3
-  ],
-  [
-   "Puskesmas Kabupaten Bandung",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Ketik"
     },
     {
-     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "t": "KDS Benahi Skema Bonus Produksi Panas Bumi, 60 Persen Dana Untuk Infrastruktur dan Layanan Dasar Masyarakat - jurnalpolisi.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXctMXk3THpleFNVc01GQjlBNUU5M0VCR2NMRHVhUEItT084TVZmajZSd1ZmS1Nud0VRRzB0dkh0SzQ4N1lZWXJFNTVHbkhzb0Z4blF3T2pONW43Mjg3RWVCNnZ2bUNoVURwTy1DY1dBSl9HX1FOc2JoSHRjeHprLWxoSEFQNVRaeWVBTGhzS0IzbXp6N3dTamExbXJWdzBUT0FYR2ZFV2tILWR6YklPWUxFODhLcUdxdF92M1VEVkZHM3dwbWJBSDJwQzc5UHM?oc=5",
+     "r": "jurnalpolisi.co.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     5,
-     25,
+     4,
+     26,
      4
     ]
    },
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     2,
+     1,
      0,
      4,
      0
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     3,
-     11,
+     4,
+     12,
      0
     ]
    },
@@ -206,7 +206,7 @@
      1,
      1,
      0,
-     0,
+     1,
      1,
      0
     ],
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Brimob Tanam Bawang Putih di Ciater, Pengamat Pertanian Ingatkan Jangan Jadikan Polisi Ekonomi - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlpkZ0lmWjVFdmhhd3UzYndFMTFELVdKN0hsZ1pxc2FudU5oZVJoYmlXWS1ZNGl6VmhXbkx6Yld6TVdIS25vdDcxOUlJM2NUalRKdTZtVDRwTjc5aVYxdlhLQ2xvS0lWTG5rQ09aQTItcFhaRWZ1SWszek96bDZ3LU9BQ2pHbDVaS1ZOM0tqM0ZremJwanVQN25XTXFzZkdlYmd4NlZ3WWhSWnc1TU9qVWtSUHgtRXpETl8zX1VrcER0VGVDWS1XRjNYMXNMUngzUG43amtKXzF6d09T0gHiAUFVX3lxTFBjSUJzYjVGWW11eG5CT0podmtKelVOZ1hsQW1aTWVJSVJyX1MzOEFFdzNsUUdZaERqSUNaOXZjOEk2SXNTUm51aTM0MzdoWDJVbjRicl9yQzhOSlN0ZjNmcUNobGx5OFd4SnRtNjRHZXlUN1BkTFhmaU1wcXN3QlRZaGRESnBVdFVwQ0VYUGJqWjlJcGV5YVdwazhHTGtrWDdQWTBNQlhLck1vaDE5dm5DSC12dUVIT2NMQ1RHN29mNXIxanZ6ZGlYRHBOS24yU2FUS0wzdFU3N1pKVWMtckV3cWc?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Bantuan Alsintan Dioptimalkan, Produktivitas Petani Kab Bandung Digenjot - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1DTzRMTTY5X0hMRE8yOHp3RG5sT05IVE1VM3E2Mkpub2N3SV96d2pZOURlX2hWZTNjWlpydXVHalJsN2NJVGxmQmJjZ0h1b2FZWHJfSmV0TVR4NFZsMjg3X3Z0Z0VUY1pSMTRkaVkzcERqelNTaUtDU1MtU3ZJWHBGcHUyNFNOWkVkYTJBa25FSWFEZFFTSklrRDFGTzBsNjRSUUdQTFBzM0Uxa2lHWA?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnNvUXdVM21PeDJtUTlQWFVLSERyMmVlOVl5MVBwSl9BMTc2alRjcVRTMzVnSVBQNVJHX2U0RF8tTGNvQ00yVVg5TTFubWVoV0Y0dUVZendSWkpMbVFjY25FTkhRbExKTXBCQWVTMWRHbkJJZU5TODdMcE55a25XTkRrbDhvRWltX2xzQ3VSbVRxb2JGMmNtZEg5VjBfbWhiRDJpdkE5aFE2N2h4M3R0dnUtdnIzRjFvSU5kSktWWjU0S2ZPR0hTU0pNWTBURURqai1WNg?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Geger! Di Bandung Ada Pabrik Obat Keras Ilegal Produksi 8 Juta Butir Sehari - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFFXdnR6OTRIa01fVmcyRHNvNDFZbGowZ1NYWnVsb0M4bUJzTWxlN1JnTm0zXy1MZndwbUJ4V0RHR3BzZ1p1UTBzcVJiZE85QWU4RkNxa29FZkljWlpIbkpCUVRCbUgycnBvaGlQeU5zZk1oODFrcGhUZldFTmNDd1c2cFBTMVZWWDF4cjFROGpMUWhCZTQwcEdBcTdMdVhMaXk4NHNVWHRuT0FjQlBzOWhPdWkyV25pT2pkdDI1d2VVRnfSAcgBQVVfeXFMUGVwcHpGWnBRVVIxVlZhaEdzRmFOeGdPTHFXa2FjT3NydUkxbGw5N1VJWkc5bHAwNWZraGQxWlVxWlRVZUtzZ2t3eWtral83ZlBFbWJGVExhd2R0OExMMkhxOG5vS0VqMXQtZFBXd1hPb2kxRFdRNEhaWkhsRmhpdFM0NUNyeXgyTUYxQUZoanNyVUVtQkt1V3lld1Y2MlVSZVlWUW5EbkZGblJ2VTlhelE4c1pkQmxsUnpoTVVWOTZwWFozYTdKdXY?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     17,
+     18,
      3
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     18
+     17
     ]
    },
    "trend": {
@@ -436,16 +436,16 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      3,
-     2,
+     3,
      0,
      0,
      1,
      0
     ],
     "g": [
-     9,
+     8,
      6,
      2,
      2,
@@ -477,10 +477,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
+     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,7 +497,7 @@
     ],
     "w": [
      8,
-     29,
+     28,
      4
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:29:01.361920+07:00",
+ "updated": "2026-10-19T22:25:36.654423+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "Tribunjabar.id",
-   21
+   22
   ],
   [
    "Kompas.com",
@@ -24,14 +24,22 @@
   ],
   [
    "Disway",
-   7
+   6
   ],
   [
    "detikcom",
    6
   ],
   [
+   "Ketik",
+   5
+  ],
+  [
    "Koran Gala",
+   5
+  ],
+  [
+   "jabarekspres.com",
    5
   ],
   [
@@ -43,15 +51,7 @@
    4
   ],
   [
-   "jabarekspres.com",
-   4
-  ],
-  [
    "jurnalpolisi.co.id",
-   3
-  ],
-  [
-   "Ketik",
    3
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Kabupaten Bandung Peringkat Kedua Nasional Penerima Bantuan Bedah Rumah BSPS - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0QySWpNV19QMUhZMGFYSG9fWWNNVWZ2cGxkRHF6WmI5NHBPZ0s1emtUM0FGdm5rT0NQQ3FIN2hKWFRmOGhaZFFVMGE2QjdMdFpZZ2tkWjhJZ1htUmZ1bVRUeF9iaFo3VnRaZEhyU0Fid3BKY2lkWU5yTTJyXy1TOExnR196MVN1ckRZM3FqUXdYeXI2Z0NvdEtxbzdOYlXSAZ8BQVVfeXFMUEtEMklqTVdfUDFIWTBhWEhvX1ljTVVmdnBsZERxelpiOTRwT2dLNXprVDNBRnZua09DUENxSDdoSlhUZjhoWmRRVTBhNkI3THRaWWdrZFo4SWdYbVJmdW1UVHhfYmhaN1Z0WmRIclNBYndwSmNpZFlOck0ycl8tUzhMZ0dfejFTdXJEWTNxalF3WHlyNmdDb3RLcW83TmJV?oc=5",
+     "r": "Ketik"
+    },
+    {
+     "t": "Kabupaten Bandung Peringkat Kedua Nasional Penerima Bantuan Bedah Rumah BSPS - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3hHUk1jdHFlanZRT29na3BkbjYwNTJIMkdKUHBwMTRPTkw2RUVrQTdqS29kTm4tUmNmZUg4YlJWaUtqOHZjQTZkTndJMndSangyNnEtNnJSckc5QXpBV0xqZWg2enVBcG9RQno4cUZlcmhKSlg3R2ZpV0ttZVdoTkxDVUdaYjk1NVNFZGU4cS00dG9RU3UwN0xxMGlLTW94S1ZlVnlRNktzRzdxSHfSAZ8BQVVfeXFMUEtEMklqTVdfUDFIWTBhWEhvX1ljTVVmdnBsZERxelpiOTRwT2dLNXprVDNBRnZua09DUENxSDdoSlhUZjhoWmRRVTBhNkI3THRaWWdrZFo4SWdYbVJmdW1UVHhfYmhaN1Z0WmRIclNBYndwSmNpZFlOck0ycl8tUzhMZ0dfejFTdXJEWTNxalF3WHlyNmdDb3RLcW83TmJV?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "KDS Benahi Skema Bonus Produksi Panas Bumi, 60 Persen Dana Untuk Infrastruktur dan Layanan Dasar Masyarakat - jurnalpolisi.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXctMXk3THpleFNVc01GQjlBNUU5M0VCR2NMRHVhUEItT084TVZmajZSd1ZmS1Nud0VRRzB0dkh0SzQ4N1lZWXJFNTVHbkhzb0Z4blF3T2pONW43Mjg3RWVCNnZ2bUNoVURwTy1DY1dBSl9HX1FOc2JoSHRjeHprLWxoSEFQNVRaeWVBTGhzS0IzbXp6N3dTamExbXJWdzBUT0FYR2ZFV2tILWR6YklPWUxFODhLcUdxdF92M1VEVkZHM3dwbWJBSDJwQzc5UHM?oc=5",
      "r": "jurnalpolisi.co.id"
-    },
-    {
-     "t": "Bupati KDS Pastikan Bonus Produksi Panas Bumi Berdampak bagi 56 Desa di Kabupaten Bandung - Ketik",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczBpVDNJZV9DZTB0T04wMk0yakdwNUdZeFFvd1lYR243OHpXbGFCZ2hJOXJGMnkwX2VzOVRhODByVDgtdDJwLTBjcV9QQ2FWbUh2NjdzS1FlTUtlMk9TUE9FRm16Zlh3WUhzWDZ1amtCbnpXWTV0aEMweThFSGJ3d01YV1hveU5weGMxRXlzblVyaHhvY0o3REJabkZJdmc5WDFpY01IUHVLUkpOVHcwVHcwQ2NQX083cDlxSlFRY9IBsAFBVV95cUxOb1RsVmNqalF0UHoyUThKSExYQ1FGWEx3QTFycG1oTmtGVXpacTlqOFF4N3pVemttc1U1eUtWRXU0SG9SVzBCZnVNQTJrVXlFeFNuZXpjamhFX3dJb2FxU2xYbjFaZFIwcWZoOFVZSVIwVjZxWWdVSjIxeVlXdVB0ckxnSHNlMnVqaG15OWpMc1k5WGdFeWlQUzVIRjZUMDRhYnNlcnRIaTBqWmFTQ1VZdw?oc=5",
-     "r": "Ketik"
-    },
-    {
-     "t": "Pemkab Bandung Alokasikan Rp40 Miliar Bonus Panas Bumi untuk 56 Desa - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObnhvRGE2UEhXblVCeFNSSVVHZjdpeGtiN0w1UEY1b1pKamJPbld1UjFfOWx6NGxGNWhUdFFkQ2hlbHdmRUdDS0FmZ09JTmZ3aDUycEcyekYxb3pVS2czdGp0Z3pkRzFwNTJlaHZoZWswMmYycEpWWVJ5VmEtTTRGVEZNdjcwN2Q5QWdZMmxIbUdOZVZHY2hKYVBNTUdNMFNrYTdiN1djR21XNkhFNTFhetIBtgFBVV95cUxQd3I0SlZRX2tJVlE4Q3NGbVpBWmVRdWdEcmZNSWpCUnFLc2w1SzBISVY1QmJiU3ZONEFJcU9hem52VmtObVdPa20yMEFySzRvWXlEdXlMbTRPYld4MGdGWW1sdFFFLW90OTFVMkRqNC1JNzNUU1J4NTgxZ2hGZkI1TWFMVDlTX1Nsa1l1d0dkdWZ5V1NuVjJrTXpKSkNGZDF0dWNEdXRnbTdacGI3QTZBOG9iTWFDdw?oc=5",
-     "r": "Koran Gala"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     8,
-     24,
+     6,
+     27,
      4
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     4,
+     2,
      0,
      5
     ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      3,
-     12,
+     13,
      2
     ]
    },
@@ -237,16 +237,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Musim Panen Tiba, Mangga Harumanis Diburu Pembeli dengan Harga Lebih Terjangkau - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEFzSkFkczFGd0JlR0hjZWJKRzd4VDE1ekJTblBya1MxeFgxVUhqVmIwZmdKZkwwbWI0UDNBOE4wMlBUY1ROa1A5RUVhU2dEZ3lURXhCYUtnazFJZmt2cU9iOExfRkE0ejRHUVNyYThDeGVfdXBjUUlqdTRLNmhaWWZ5eDlCSnotQUtJeWw1eGhKOUdnWEhqdUJ3VUVfRE9PdlQxNm5vRzZFM1prc3p3Nk04NlplODRDUWpuLUdwZzU3ZGpuNUtWdNIBzgFBVV95cUxPbEJRdkc1N1pIVTdXV1BYczBxcWRKc2JEZ2pEek43Z3RuWXoyanVIdVJWMkVVRnNEU2F1cHpXaFZabG1uVVVRVGdDNzZVV093T3RGQVlqYVJQVGM0bjFaclNCVHl4bkl4YXVrNVBzcjQ1VGFkZVp1M1owQ2NBZmVDb01nYXVKQ0xVeHdpRWJqTFE0RDBMSE5VLWdfc25QVWxhYXk2TjU2bDJDVy1NMlpIeDdlMFNEYjhacE9HbW1VeUQwRUtoc2dyUnRMRzBndw?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Geger! Di Bandung Ada Pabrik Obat Keras Ilegal Produksi 8 Juta Butir Sehari - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFFXdnR6OTRIa01fVmcyRHNvNDFZbGowZ1NYWnVsb0M4bUJzTWxlN1JnTm0zXy1MZndwbUJ4V0RHR3BzZ1p1UTBzcVJiZE85QWU4RkNxa29FZkljWlpIbkpCUVRCbUgycnBvaGlQeU5zZk1oODFrcGhUZldFTmNDd1c2cFBTMVZWWDF4cjFROGpMUWhCZTQwcEdBcTdMdVhMaXk4NHNVWHRuT0FjQlBzOWhPdWkyV25pT2pkdDI1d2VVRnfSAcgBQVVfeXFMUGVwcHpGWnBRVVIxVlZhaEdzRmFOeGdPTHFXa2FjT3NydUkxbGw5N1VJWkc5bHAwNWZraGQxWlVxWlRVZUtzZ2t3eWtral83ZlBFbWJGVExhd2R0OExMMkhxOG5vS0VqMXQtZFBXd1hPb2kxRFdRNEhaWkhsRmhpdFM0NUNyeXgyTUYxQUZoanNyVUVtQkt1V3lld1Y2MlVSZVlWUW5EbkZGblJ2VTlhelE4c1pkQmxsUnpoTVVWOTZwWFozYTdKdXY?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Kronologi Penggerebekan Pabrik Obat Ilegal di Bizpark Kopo Bandung: Berawal dari 600 Ribu Pil di Tol - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGJuSy12S0c4dXJ2STA4dk4wOWxreWRoYXhRbDRTWkdyNnBudmt4UDdFb0dZaVJ2ZGM0WXFPZEpvU19RWnkzcnoxQmhRUVh4RV9hM0k4c25XdjZzczV5cjJRb3hYc0trYVo4cU43bWxrRWk2UjVwVXo0X0tXUXFkOUdLRnJtY3BKWlhHcWhfVkxhdlVOSnlHeVFvNEdHVUlrWHdiUXVkbHBXeWNpNXk1cmFvbDlzdkd6Mk1seHozZFRRUGZVUUY1UlFyNEoxTE80T292X3lWd1dSd2lKRWxJWjV1S1I?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     5,
+     4,
      17,
      3
     ]
@@ -290,7 +290,7 @@
      3,
      0,
      0,
-     1
+     0
     ],
     "g": [
      0,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Tersangka Narkoba di KBB Mengaku Beli Senjata Api Rakitan Secara Daring - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWc3WFVDa1Y5Smg2M01KUXVMVDhJZFhhMFhDd1FDNEhCWVg2RUI3RHpTNUxieHBhVHotOEVUV2REQjZHcjhxSUh4RHVoeUg2MnlWX3Q1dE8tbDd6WlR3Ri1kYkVTLXJQVWhveUV2RjgtYUdTSXNYcXFaNTc3eXd6Nnl1NlVQVERYUU41SmhRNHFvZ1Vfc1hZcXk0QjBmSHEzMnR5N3BUZmJzZHg1RFgyUFUxdFpVWTk1?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Berantas Peredaran Gelap Narkoba, Polisi Gelar Razia di Sejumlah Tempat Hiburan Malam - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpFMXZWTF9xUTJCVmY0TTVJclplRXpJUFZPNFQ5dEtBa0dFNTE3YThJVE8zcWdhY0dEWEtRR0hFNjFmMm9lcHlkdEtVLUg5clhZZWdMWVBvbDY3WnJUOE9pVVdQYnFKSkQ0Vms2QW4yTFVNbGxZRl9tc2U0M05CRElMV0dYWWtDME82aXREWXhFQkxQYkRVUzl2VXRlRnY3dTM3azJ1SWhrSkRaQUZ3dUxvRUo0bEZWSFlxck9YVzRMQmg1dVlN?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclZsMXcxZDRjYTl0Vk9MRGRqWFRHLU5fRU9wYWtrTlJ4bmJmRExMS012NThnV0dXZTNMSVFIbmUyd0d5YkNTNGJPMVJuS0JlYkl3WHFEZWYzX041akwyVmNkZnY3S2wtcEQ3X0FmYUdKNW9wclpLTE1hVXFsVF9iVm5abVZmb1B6R0FNZW5saVZ4czRVdmFSRmh3ZHA3MXdsYkw4NllWZUFCU0NzTWJ0aHNwbUhLTWNjVVdIWDdmanYwRnRSNFprN1NYUU1CV1U1aGZuTm9XYm0zMnFxQ0VDRE5IQU4yUHg4Z1hoMjBNbDRXbGRHRnc?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Polresta Bandung Razia Narkoba di Pameungpeuk, Dua Orang Positif Benzodiazepine - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGpKNGhKX0xQMmhWbl9hRTUzc3NyR1IyVENZeDVTM1FKMFVnczY3ajJVd1FOQm1kVGNPRWw0ZWpNQ09jazlOQWc5dWxKcW5hbW56dmE0UFFwOVZUeUNrbm9kSUlZejlBajlhaEkxTWtNU19XU18tbnNfRDk3QlRkbERDWFZwMjJHekx3MzdCeDhNVHdXd1p6Z0RlM0JEY0pDLU84bWpZc1BnZk5nOEpoSm1ReF95NGNDeGtxYXFlS25Rdw?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     12,
-     8
+     13,
+     9
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     0
+     1
     ]
    }
   },
@@ -471,16 +471,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Dua Tahun Pemerintahan Prabowo-Gibran, JPPI Kritik Anggaran MBG Masuk Pos Pendidikan - Halaman 2 - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0hnN3YtLXBHclg2bWYzYTY0dm9Ha0RqMGQtWkltY283QklwVVp0by1DWXdZMUVvX3dkOS1LS1VWbHlpMldZc0dVeTdHYkFqbnVaVWJOWDlBdXd5OFpsSU5LdGllamN3Y1RwYWxpM0NNem9VeWIyX1J0MFFFcWUtMHM0cGZPei00ZkUteDBTTnRIcGFUNW00djdIUVZIVWFPbkRvck5rTWRRVFdjZ203bVBLMHd1SXhkSkdjdDRwUXFzcEVCSUc0SkNPaktMa1VNX0t6Q0ExTHM?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -503,8 +503,8 @@
     ],
     "w": [
      8,
-     29,
-     3
+     28,
+     4
     ]
    },
    "trend": {
@@ -533,7 +533,7 @@
      1,
      0,
      1,
-     0
+     1
     ]
    }
   }

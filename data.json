@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:24:32.122860+07:00",
+ "updated": "2026-10-19T18:20:57.522979+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,24 +11,24 @@
    24
   ],
   [
-   "Tribunjabar.id",
+   "Ayo Bandung",
    22
   ],
   [
-   "Ayo Bandung",
-   21
+   "Tribunjabar.id",
+   20
   ],
   [
    "Kompas.com",
    10
   ],
   [
-   "detikcom",
+   "Disway",
    7
   ],
   [
-   "Disway",
-   6
+   "detikcom",
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,10 +40,6 @@
   ],
   [
    "jabarekspres.com",
-   4
-  ],
-  [
-   "Puskesmas Kabupaten Bandung",
    4
   ],
   [
@@ -63,7 +59,11 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Puskesmas Kabupaten Bandung",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    2
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Apel Pagi Disdukcapil - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0tKdU9RdmZEdXBFUUoyUTItOVh0T2d5NmhFTlRCMC03TzF3UEUzd0hHMkQyX2VFc3NaYmJOS3hxNVdvTGxoTTg3UTNMMjV5TklzVEdIMUhtanNMZFU1azhtLTRaNElCT2t1SFhyZ2FUenFXUkV2VHdYXzM3RHE1MlhFaE9uUQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "t": "Pemkab Mulai Pasang Insfratruktur Ratusan Kios Pasar Andir Pasca Kebakaran - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUF3VFRuMWRvYmszY1lwaWFyYjMyTkl3eUkwRnV4eUdhbDVWSjRiX3Jhel8tdWc1V0FhU1VBRlJsZGJPYlV2aEZEaTlLaFhNSnZjRE05WE5MeU1ZaEJsU284SW9vZ1BmVlFBbDhfeHlqbVBzdVAzdFhrRm5HR0RqM0dTMTRZQzlqR0ROM1BBdWM5QmhXZFJXeW0tYU9xQnNnN0plQ3VYSkt6M1VtNWlYZHd1aUhHdGg2?oc=5",
+     "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Dukung Perumahan Layak Huni, Tingkatkan Kualitas Hidup Masyarakat - Gerbang Patriot",
+     "t": "Revitalisasi 192 Sekolah di Kabupaten Bandung Didukung Anggaran Rp137 Miliar - VISI.NEWS",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1ZvMDJCYkR0VUJtZjJZeUNWN0cyeEllYzRsNW5qMUJHaS1Oc1NUMGJjN0lfdXU3VHJQdGlqNFdQU19fN0tMYzQ0XzlTcWdNUXJrbnU1NmRET0Q4ODE2WXl5N2Rqdmphc09ra3ZQdno5WkMydXBEcldWRVNXQkNHM2RJQ0hNX3IyRmRIbWgzcmFuckpOS3JrdGZSQTNfLTNXM2l5SE9LVE1SaDRzM0prbUtMU0o1aTk2VXc?oc=5",
-     "r": "Gerbang Patriot"
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFpLOTR1V20wYWMwdUs4U0cyZjFoNkY5bkkwWk5WSVgzRHp5dFdRczdoWTdLT083Q2pkSVRpODZzMWFKc1RKZk1KQjhpR3JXYWkzb013T3RuWTRiR05pRGM1ZEZxSFdEc0d4dnh4cDVxTEtfUUF2d1R6c0hIUjRUc2lyalVheXkxWV84N3pPWTRNZTFoZjFJN1Fn?oc=5",
+     "r": "VISI.NEWS"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     22,
+     21,
      4
     ]
    },
@@ -237,16 +237,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Musim Panen Tiba, Mangga Harumanis Diburu Pembeli dengan Harga Lebih Terjangkau - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEFzSkFkczFGd0JlR0hjZWJKRzd4VDE1ekJTblBya1MxeFgxVUhqVmIwZmdKZkwwbWI0UDNBOE4wMlBUY1ROa1A5RUVhU2dEZ3lURXhCYUtnazFJZmt2cU9iOExfRkE0ejRHUVNyYThDeGVfdXBjUUlqdTRLNmhaWWZ5eDlCSnotQUtJeWw1eGhKOUdnWEhqdUJ3VUVfRE9PdlQxNm5vRzZFM1prc3p3Nk04NlplODRDUWpuLUdwZzU3ZGpuNUtWdNIBzgFBVV95cUxPbEJRdkc1N1pIVTdXV1BYczBxcWRKc2JEZ2pEek43Z3RuWXoyanVIdVJWMkVVRnNEU2F1cHpXaFZabG1uVVVRVGdDNzZVV093T3RGQVlqYVJQVGM0bjFaclNCVHl4bkl4YXVrNVBzcjQ1VGFkZVp1M1owQ2NBZmVDb01nYXVKQ0xVeHdpRWJqTFE0RDBMSE5VLWdfc25QVWxhYXk2TjU2bDJDVy1NMlpIeDdlMFNEYjhacE9HbW1VeUQwRUtoc2dyUnRMRzBndw?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Geger! Di Bandung Ada Pabrik Obat Keras Ilegal Produksi 8 Juta Butir Sehari - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFFXdnR6OTRIa01fVmcyRHNvNDFZbGowZ1NYWnVsb0M4bUJzTWxlN1JnTm0zXy1MZndwbUJ4V0RHR3BzZ1p1UTBzcVJiZE85QWU4RkNxa29FZkljWlpIbkpCUVRCbUgycnBvaGlQeU5zZk1oODFrcGhUZldFTmNDd1c2cFBTMVZWWDF4cjFROGpMUWhCZTQwcEdBcTdMdVhMaXk4NHNVWHRuT0FjQlBzOWhPdWkyV25pT2pkdDI1d2VVRnfSAcgBQVVfeXFMUGVwcHpGWnBRVVIxVlZhaEdzRmFOeGdPTHFXa2FjT3NydUkxbGw5N1VJWkc5bHAwNWZraGQxWlVxWlRVZUtzZ2t3eWtral83ZlBFbWJGVExhd2R0OExMMkhxOG5vS0VqMXQtZFBXd1hPb2kxRFdRNEhaWkhsRmhpdFM0NUNyeXgyTUYxQUZoanNyVUVtQkt1V3lld1Y2MlVSZVlWUW5EbkZGblJ2VTlhelE4c1pkQmxsUnpoTVVWOTZwWFozYTdKdXY?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Kronologi Penggerebekan Pabrik Obat Ilegal di Bizpark Kopo Bandung: Berawal dari 600 Ribu Pil di Tol - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGJuSy12S0c4dXJ2STA4dk4wOWxreWRoYXhRbDRTWkdyNnBudmt4UDdFb0dZaVJ2ZGM0WXFPZEpvU19RWnkzcnoxQmhRUVh4RV9hM0k4c25XdjZzczV5cjJRb3hYc0trYVo4cU43bWxrRWk2UjVwVXo0X0tXUXFkOUdLRnJtY3BKWlhHcWhfVkxhdlVOSnlHeVFvNEdHVUlrWHdiUXVkbHBXeWNpNXk1cmFvbDlzdkd6Mk1seHozZFRRUGZVUUY1UlFyNEoxTE80T292X3lWd1dSd2lKRWxJWjV1S1I?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     4,
-     18,
+     5,
+     17,
      2
     ]
    },
@@ -290,7 +290,7 @@
      3,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     13,
-     9
+     12,
+     8
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      3,
-     2,
+     1,
      1,
      1,
      1,
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     9,
+     8,
      29,
      3
     ]
@@ -520,7 +520,7 @@
     "p": [
      1,
      0,
-     1,
+     0,
      3,
      5,
      0,

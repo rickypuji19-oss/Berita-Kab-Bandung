@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:28:37.932459+07:00",
+ "updated": "2026-10-19T16:25:58.436139+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   24
+   22
   ],
   [
    "Ayo Bandung",
@@ -20,7 +20,11 @@
   ],
   [
    "Kompas.com",
-   8
+   9
+  ],
+  [
+   "detikcom",
+   7
   ],
   [
    "Disway",
@@ -28,11 +32,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   5
-  ],
-  [
-   "detikcom",
-   5
+   4
   ],
   [
    "Satumedia.id",
@@ -63,8 +63,8 @@
    3
   ],
   [
-   "VISI.NEWS",
-   2
+   "Pikiran Rakyat Koran",
+   3
   ]
  ],
  "topics": [
@@ -85,16 +85,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Apel Pagi Disdukcapil - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0tKdU9RdmZEdXBFUUoyUTItOVh0T2d5NmhFTlRCMC03TzF3UEUzd0hHMkQyX2VFc3NaYmJOS3hxNVdvTGxoTTg3UTNMMjV5TklzVEdIMUhtanNMZFU1azhtLTRaNElCT2t1SFhyZ2FUenFXUkV2VHdYXzM3RHE1MlhFaE9uUQ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Pemkab Bandung Dukung Perumahan Layak Huni, Tingkatkan Kualitas Hidup Masyarakat - Gerbang Patriot",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1ZvMDJCYkR0VUJtZjJZeUNWN0cyeEllYzRsNW5qMUJHaS1Oc1NUMGJjN0lfdXU3VHJQdGlqNFdQU19fN0tMYzQ0XzlTcWdNUXJrbnU1NmRET0Q4ODE2WXl5N2Rqdmphc09ra3ZQdno5WkMydXBEcldWRVNXQkNHM2RJQ0hNX3IyRmRIbWgzcmFuckpOS3JrdGZSQTNfLTNXM2l5SE9LVE1SaDRzM0prbUtMU0o1aTk2VXc?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Pemkab Mulai Pasang Insfratruktur Ratusan Kios Pasar Andir Pasca Kebakaran - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUF3VFRuMWRvYmszY1lwaWFyYjMyTkl3eUkwRnV4eUdhbDVWSjRiX3Jhel8tdWc1V0FhU1VBRlJsZGJPYlV2aEZEaTlLaFhNSnZjRE05WE5MeU1ZaEJsU284SW9vZ1BmVlFBbDhfeHlqbVBzdVAzdFhrRm5HR0RqM0dTMTRZQzlqR0ROM1BBdWM5QmhXZFJXeW0tYU9xQnNnN0plQ3VYSkt6M1VtNWlYZHd1aUhHdGg2?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     8,
-     23,
+     10,
+     20,
      4
     ]
    },
@@ -136,9 +136,9 @@
      0,
      0,
      0,
-     5,
+     6,
      0,
-     4
+     5
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Dua Tahun Pemerintahan Prabowo-Gibran, Mahasiswa Bandung Siap Demonstrasi di Gedung DPRD Jabar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkduX25wdUFZbV96YVlGSmt2djNjOXhhNWc5ajNiMHpYOHZsR05ZZW1uYlJ1R1hIb1hOeUp4V2hOWlRGb3d3Y1NYdFFlbHdhLW5uUXRlRVdOc1VmRG5TR29YNG40dExqaVF1TTVaLXJmaUIyQm1zb21sejByd0JVak5NbjFvdi1PWEJjNGhtMkpwSHhLU2J3emR5S01jQ2hiMkl6aDdpRXJhTUktdFJTVjE2NlRBNEZIeEJJQXRabFJ0NXFRVkVqOGtHOTA4QWY1S29fTVhwMWEzLWQt?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "BAZNAS Kabupaten Bandung Gelar Uppgrading Ratusan Ustaz dan Ustazah - radarjabar.disway.id - Disway",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHVCZkJSZDRDSWF3T1IyenpqUUhZcHFvNGsxcGRyLUJvYzBkRnJRczluRWhxR0hwYTZOUGJ4SXc4UnY3ZEp4YzRienpTN1NUaTg2STQyM19aVWgyWmY3Y0hBOGpRYzVYbnVFSlNGa2UxSmpuY0haTXJLX0dIcVA4c0VyN1JlV2NweldEbTZOVlp6RFpqYnYtYmtVTDJnWEFYVWZ6UE5ab0hMYU3SAasBQVVfeXFMTVB1QmZCUmQ0Q0lhd09SMnp6alFIWXBxbzRrMXBkci1Cb2MwZEZyUXM5bkVocUdIcGE2TlBieEl3OFJ2N2RKeGM0Ynp6UzdTVGk4Nkk0MjNfWlVoMlpmN2NIQThqUWM1WG51RUpTRmtlMUpqbmNIWk1yS19HSHFQOHNFcjdSZVdjcHpXRG02TlZaekRaamJ2LWJrVUwyZ1hBWFVmelBOWm9ITGFN?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFE1N0xJNTdTbzJYbkUtNmZURGZpdDJ6WnZjaTJrMTJJTlN3S0lZcGVaSnlaenFmNXdYUTJleV81NzVKV1BiYWU3VkFGZllQbW9Jc0U3Y1hMc0VFcWptRHV4R25zY21EZ3VsS1htaTc1dFBYa28tWjZadVRCTTZ6bGFnVTc4VWdVbHFmbzRxTGN4QXRWMERuLXB0SW92NkhaMjZjb0VBcHRlWk5JN1c5RXg0SnF6QQ?oc=5",
      "r": "Bedanews"
-    },
-    {
-     "t": "Desakan Kiai dan PKB: Perbup Pesantren KBB Tak Kunjung Terbit, Komitmen Bupati Jeje Dipertanyakan - Primetimenews.co.id - Primetimenews.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaWlxNWtrVVdHOFkzUkRqSVhMRXp5VGlvbXowaHVCMmZfMUNkck9yWS1fRFk4TjFlRzkwLUY4cmJwalFJWTZIenZLcnFCbG5IM2xsMjNDX2NjNWhMQVgzekNRdGRmaE8xNnlFbm93bG1YQ3BfVS1iTGlnNjUtV0NtX2NodlZwa0Z5YnJvbEJzNDNDTnNMNEwza1ZrVTZEYWpmenVPY0JBYmNzYTJiY3dSN3I4c2FQMi1PZGNmQTVPTTRXcWRSSk9pazhTc0VRWG1aSG9XUzJzQU5lOWdDQ1NpbEZ5Tk9ranVmT1dMLU9Za3PSAfYBQVVfeXFMT201NjNNa1BTU1NDVGRVbjA4NHl6T2hkb0wwWG5VNnFleDhFOGdZcy0tSTBRckZ1cV9YYlRqaTNFM2JESm5xZndLNkNXWklJaVMzZWxKMWpiNEtDWHotVmRIMGk0d0JJN1hTZmtvWDJMTzFrWjUzbm5sanFfclRGVzVWRlJBV21vTWVZYUI4U2Jvd3g5Z21sbXRYQ2F6S09ad0pqVjdpME43OUVIeVhubVo3aXZvWEFyM2pWdkIzdmF4cEdla1VTRE1FbFZwYTNyYzJtZEFsdHBERy0xUy16eEpISEVlXzl4UGl1R3VNX3B6aUNPU2hn?oc=5",
-     "r": "Primetimenews.co.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     3,
-     10,
+     2,
+     11,
      1
     ]
    },
@@ -204,7 +204,7 @@
     "p": [
      0,
      0,
-     2,
+     1,
      1,
      0,
      0,
@@ -340,7 +340,7 @@
     "w": [
      1,
      14,
-     7
+     8
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      3,
-     0,
+     1,
      1,
      1,
      1,
@@ -420,9 +420,9 @@
      5
     ],
     "w": [
-     6,
      7,
-     15
+     6,
+     16
     ]
    },
    "trend": {
@@ -437,7 +437,7 @@
     ],
     "p": [
      2,
-     0,
+     1,
      2,
      3,
      0,
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     8,
+     9,
      6,
      2,
      2,
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     8,
-     29,
+     9,
+     27,
      3
     ]
    },
@@ -521,7 +521,7 @@
      1,
      0,
      1,
-     2,
+     3,
      5,
      0,
      0

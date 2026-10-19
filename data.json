@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:25:36.654423+07:00",
+ "updated": "2026-10-19T23:22:24.016270+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,11 +11,11 @@
    24
   ],
   [
-   "Ayo Bandung",
-   23
+   "Tribunjabar.id",
+   22
   ],
   [
-   "Tribunjabar.id",
+   "Ayo Bandung",
    22
   ],
   [
@@ -23,11 +23,11 @@
    10
   ],
   [
-   "Disway",
-   6
+   "detikcom",
+   7
   ],
   [
-   "detikcom",
+   "Disway",
    6
   ],
   [
@@ -39,11 +39,11 @@
    5
   ],
   [
-   "jabarekspres.com",
-   5
+   "ANTARA News Jawa Barat",
+   4
   ],
   [
-   "ANTARA News Jawa Barat",
+   "jabarekspres.com",
    4
   ],
   [
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Radio PRFM",
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     6,
-     27,
+     5,
+     25,
      4
     ]
    },
@@ -138,7 +138,7 @@
      0,
      2,
      0,
-     5
+     4
     ],
     "g": [
      0,
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      9
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     17
+     18
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     8,
+     9,
      6,
      2,
      2,

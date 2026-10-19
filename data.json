@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:19:50.417217+07:00",
+ "updated": "2026-10-20T01:19:27.953919+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,27 +16,27 @@
   ],
   [
    "Ayo Bandung",
-   22
+   20
   ],
   [
    "Kompas.com",
-   8
+   9
+  ],
+  [
+   "detikcom",
+   6
   ],
   [
    "Ketik",
    5
   ],
   [
+   "Disway",
+   5
+  ],
+  [
    "Koran Gala",
    5
-  ],
-  [
-   "detikcom",
-   5
-  ],
-  [
-   "Disway",
-   4
   ],
   [
    "ANTARA News Jawa Barat",
@@ -51,10 +51,6 @@
    4
   ],
   [
-   "jurnalpolisi.co.id",
-   3
-  ],
-  [
    "PPID Kab. Bandung",
    3
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "Puskesmas Kabupaten Bandung",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Ketik"
     },
     {
-     "t": "KDS Benahi Skema Bonus Produksi Panas Bumi, 60 Persen Dana Untuk Infrastruktur dan Layanan Dasar Masyarakat - jurnalpolisi.co.id",
+     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXctMXk3THpleFNVc01GQjlBNUU5M0VCR2NMRHVhUEItT084TVZmajZSd1ZmS1Nud0VRRzB0dkh0SzQ4N1lZWXJFNTVHbkhzb0Z4blF3T2pONW43Mjg3RWVCNnZ2bUNoVURwTy1DY1dBSl9HX1FOc2JoSHRjeHprLWxoSEFQNVRaeWVBTGhzS0IzbXp6N3dTamExbXJWdzBUT0FYR2ZFV2tILWR6YklPWUxFODhLcUdxdF92M1VEVkZHM3dwbWJBSDJwQzc5UHM?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "r": "Disway"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     4,
-     26,
+     5,
+     25,
      4
     ]
    },
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      4,
      0
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Dua Tahun Pemerintahan Prabowo-Gibran, Mahasiswa Bandung Siap Demonstrasi di Gedung DPRD Jabar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkduX25wdUFZbV96YVlGSmt2djNjOXhhNWc5ajNiMHpYOHZsR05ZZW1uYlJ1R1hIb1hOeUp4V2hOWlRGb3d3Y1NYdFFlbHdhLW5uUXRlRVdOc1VmRG5TR29YNG40dExqaVF1TTVaLXJmaUIyQm1zb21sejByd0JVak5NbjFvdi1PWEJjNGhtMkpwSHhLU2J3emR5S01jQ2hiMkl6aDdpRXJhTUktdFJTVjE2NlRBNEZIeEJJQXRabFJ0NXFRVkVqOGtHOTA4QWY1S29fTVhwMWEzLWQt?oc=5",
@@ -170,12 +176,6 @@
      "t": "Pemkab Bandung Komitmen Sukseskan Program Bedah Rumah Menuju Masyarakat Sehat - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGs4djFqbXE5QnRBb3RmdlI3cUNzbUxDTzFDUnJBMFp0WUY5SkVJNjFfU0ZhU0F3bVdqd2pKVGFkSGpqWjJvRmRZc0JwalFfVFdsdE8tMGV3Q1hMbDNhazhmZjhfcUREdjhsNXV3amVidlZNWXJ3Sm1SRnBFVzY3VE5CbUQzcHp2d1ZKUjUtcmJHSDNWNU9jWDAzaG52b1JUTFQxWTVRdWhwWVNDOWh4Q2JWcGxjbVhHSk1fZjBTZXZrMGE5NDBqdNIBuAFBVV95cUxOSnZ5NjAxaVpkVGV3QVN2QWIybWpQaWE2M3UxalRrRzVGLW5uMGZEN1Z1SEF3UF83U2R1ZjVaWGhZLVEtYWZ5aHhVN2ROTHdYU3BEYnlpa2hDbTZOZGJwUndkcHlPMWM1Q1d2RzFfOXdVeDFacWEyNkZLX1h4VnhfUmRyR29OWnBsdTBWalhadnpWUUdrclR0YTFsN29lQkpUSmhJMkdoMEVfNkhzVmJYeHpPWG1VMURI?oc=5",
-     "r": "Disway"
-    },
-    {
-     "t": "BAZNAS Kabupaten Bandung Gelar Uppgrading Ratusan Ustaz dan Ustazah - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHVCZkJSZDRDSWF3T1IyenpqUUhZcHFvNGsxcGRyLUJvYzBkRnJRczluRWhxR0hwYTZOUGJ4SXc4UnY3ZEp4YzRienpTN1NUaTg2STQyM19aVWgyWmY3Y0hBOGpRYzVYbnVFSlNGa2UxSmpuY0haTXJLX0dIcVA4c0VyN1JlV2NweldEbTZOVlp6RFpqYnYtYmtVTDJnWEFYVWZ6UE5ab0hMYU3SAasBQVVfeXFMTVB1QmZCUmQ0Q0lhd09SMnp6alFIWXBxbzRrMXBkci1Cb2MwZEZyUXM5bkVocUdIcGE2TlBieEl3OFJ2N2RKeGM0Ynp6UzdTVGk4Nkk0MjNfWlVoMlpmN2NIQThqUWM1WG51RUpTRmtlMUpqbmNIWk1yS19HSHFQOHNFcjdSZVdjcHpXRG02TlZaekRaamJ2LWJrVUwyZ1hBWFVmelBOWm9ITGFN?oc=5",
      "r": "Disway"
     }
    ],
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     17
+     18
     ]
    },
    "trend": {
@@ -436,16 +436,16 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      3,
-     3,
+     2,
      0,
      0,
      1,
      0
     ],
     "g": [
-     8,
+     9,
      6,
      2,
      2,
@@ -497,7 +497,7 @@
     ],
     "w": [
      8,
-     28,
+     29,
      4
     ]
    },

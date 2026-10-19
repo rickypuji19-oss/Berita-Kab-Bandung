@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:10:53.031968+07:00",
+ "updated": "2026-10-19T07:14:20.243009+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "RRI.co.id",
-   20
-  ],
-  [
-   "Ayo Bandung",
-   20
+   21
   ],
   [
    "Tribunjabar.id",
-   17
+   19
+  ],
+  [
+   "Ayo Bandung",
+   19
   ],
   [
    "Kompas.com",
-   11
+   10
   ],
   [
    "detikcom",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
+   "Koran Gala",
    2
   ],
   [
-   "Koran Gala",
+   "Galamedia News",
    2
   ]
  ],
@@ -85,15 +85,15 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "TANDA TERIMA PERMOHONAN INFORMASI DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFROVDUtZzh5SXpyUTR6dGdqTFEzNDNUS25hRjBORHZrRXFDSzlHbmRPYWswck5lSzNCX1NnYVRnYkt2R0EzR1ZiOXFXNDV3OE42NHB5XzItVDYxdnNqYUtyRm5vdWt6cVJIVk1FWjRLVlFnRzZNVnJXNFlSbWEtcE00TnB6ejlYTUxwWUxtdndMUVhINkxnbjZidkdwd2hha1RhSkRDR281bHJOZnNtZGdOU2MzWEVOWkVoRVVxaDgzY0Q4X1c2MERVVmw0S3M?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Kadisdik: Eks RSUD Soreang Bakal Dimanfaatkan Jadi Sekolah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFpaZERwclFSQlRhcDBzd293eXloVWFfeGk1TUVPTTRFbmw0UWJXWVRnUVlpSVc0dFl6Wm9uYkp2VjdmbFV4aFoyMmxhVzlKOE40MFUwOHBialBJd2NFSFU2TTlmWkh4elVoalJCclcxVFpyUHA0dExnUjFSS3hVd01VUC1PMnJNcjVZd2txRVJsWURRcVd1cTV6R3JCZw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     7,
-     25,
+     8,
+     23,
      0
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     6,
+     7,
      0,
      0
     ],
@@ -167,16 +167,16 @@
      "r": "Bedanews"
     },
     {
+     "t": "Antisipasi Karhutla di Jabar, DPRD Bakal Perketat Pengawasan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHQ2N05Cc2o5Tk00d0UwMEVrdm9JLTJsczROZ2pIS2Z1aW1kdmF5VllSdXdyT1otNkU5S1MtWGQxMG1mMGZBdHR3MDRnRWVpZ25qY2FVclY4MmgzR1hUcmd5TF9ubWJ2T3dxNXJmaVFIQnUtQVo5dWhvQUJMMFA1eXVzTVJ3d0wtZWs0a1pVazJkRTRWMVVwbFlMdVZFNGFXZnNSOTk1Z2N2d3M?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Desakan Kiai dan PKB: Perbup Pesantren KBB Tak Kunjung Terbit, Komitmen Bupati Jeje Dipertanyakan - Primetimenews.co.id - Primetimenews.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaWlxNWtrVVdHOFkzUkRqSVhMRXp5VGlvbXowaHVCMmZfMUNkck9yWS1fRFk4TjFlRzkwLUY4cmJwalFJWTZIenZLcnFCbG5IM2xsMjNDX2NjNWhMQVgzekNRdGRmaE8xNnlFbm93bG1YQ3BfVS1iTGlnNjUtV0NtX2NodlZwa0Z5YnJvbEJzNDNDTnNMNEwza1ZrVTZEYWpmenVPY0JBYmNzYTJiY3dSN3I4c2FQMi1PZGNmQTVPTTRXcWRSSk9pazhTc0VRWG1aSG9XUzJzQU5lOWdDQ1NpbEZ5Tk9ranVmT1dMLU9Za3PSAfYBQVVfeXFMT201NjNNa1BTU1NDVGRVbjA4NHl6T2hkb0wwWG5VNnFleDhFOGdZcy0tSTBRckZ1cV9YYlRqaTNFM2JESm5xZndLNkNXWklJaVMzZWxKMWpiNEtDWHotVmRIMGk0d0JJN1hTZmtvWDJMTzFrWjUzbm5sanFfclRGVzVWRlJBV21vTWVZYUI4U2Jvd3g5Z21sbXRYQ2F6S09ad0pqVjdpME43OUVIeVhubVo3aXZvWEFyM2pWdkIzdmF4cEdla1VTRE1FbFZwYTNyYzJtZEFsdHBERy0xUy16eEpISEVlXzl4UGl1R3VNX3B6aUNPU2hn?oc=5",
      "r": "Primetimenews.co.id"
-    },
-    {
-     "t": "Ketua DPRD KBB Murka soal Warga Cililin Disekap di Dubai, Minta Agen Pengirim Diusut - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUERrVGVrZmRxZVNPVWJZaW9aN3p6cE1DSmQ4Y2g5QkdNaEkyeHJVcUxDVHRmN3ZXS0tGelpzXzVOOTJWRnNiLVBrTVY2eUNBaFAyVFBhTUtVamU3Umg1ZHhZS3owWm9pYTdYSW9tNVk3YjVyV2JLTGRhNjF5dE4taURZakNIMHFZQ0NPcUxyOExfVVZ1Sm9FU2Itc3RJLWNiN2M0bHo2cUhiMWJ4eGQtRHhkUUx0a1JLTW5hZGlUa3c1dTdHZVozUVJR0gHKAUFVX3lxTE5QRGtUZWtmZHFlU09VYllpb1o3enpwTUNKZDhjaDlCR01oSTJ4clVxTENUdGY3dldLS0Z6WnNfNU45MlZGc2ItUGtNVjZ5Q0FoUDJUUGFNS1VqZTdSaDVkeFlLejBab2lhN1hJb201WTdiNXJXYktMZGE2MXl0Ti1pRFlqQ0gwcVlDQ09xTHI4TF9VVnVKb0VTYi1zdEktY2I3YzRsejZxSGIxYnh4ZC1EeGRRTHRrUktNbmFkaVRrdzV1N0dlWjNRUlE?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     8,
+     10,
      1
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Pabrik Raksasa Obat Ilegal Digerebek di Kopo Bandung, Kapolda: Bisa Produksi 250 Juta Butir - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2d4eEo4cW5OMHl0cFdmMXhOTVppdTZxQTRBTV9GMkZLMkNnTEszTkRSLTNNdEEyMjFnNXVKbTlRYTFGaThRQzlXMVBhUnJZOGJNMHNIMENFbC10dm9NdG00RGdfVVVsX01NbTlQZ0tGeF9mQ0EyajFETVpmd01FZXZhOFk5dTl3YU1nYmlEdlZpck9mZ2R6VWhJZWxfMHhBR2lWVW42eEtGTGd2X29xOF8zYWNSUUNCb0FxXzBUN0RIWHlmSmt1LUZ2QVY1VUI2ZTE4NUxoZw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pabrik Obat Terlarang di Bandung Baru Bekerja 22 Hari, Punya Bahan Baku Cukup untuk 265 Juta Butir - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdllMZTFJa09kMjBFS2dnamxFc29LcVhGaEgzM3ZwZ0lRR21IQ2xDdF9nNVFnZGRiQkphOVFfMEl1X3JaeERBdVczSXp2S05YTzBBMDRrekpEUFBqY01UeW9XV01ieWNYLUdfbk0ya2FHQUJzQ1pUM2NNTHNSM1hHVUxUOHJnTmhYTjNjeXlTUGpuRVRxQzktOHRleE8taHFoaHM5UUJLMkhXUWJPOGNONVUwczAtYUhUMFp3VVR6VFNkdGRDenFxc3VXUURYWVFyc2lUNVpyd2xHWTA0TS1ZS01R?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2E1YVp3bmh5UzV4XzFfOV9TSXBJbnlYSzBENUhYeGxIWW0teElNdnRuUEdNMkRWZWRNNDRsSjEwZ0ZyY3d0eXhTSmN2ams4OUMxdmJJQXZWeGw3S0pjNUFlTUpQZEN1Q1d3TFRVcTFZdlpnNDR6X0gyQkgycVdBMW5DbDgtbnlsOVQ3cWtTYmxTQVFjZWs5Z3BLSUhpakZXM1E?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kebakaran Melahap Pabrik Cokelat KBB, Korsleting Mesin Diduga Jadi Pemicu - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWpiSzNXZnMxNzBXejkzQ0MwdGNTWkVmRTc5Ujdvdk95QnlQdmVQTzVCLU1rQTV5OGFkc1hsdGh1MDZMbWJFTEt4Rmh4VFFQNmlnajVSaTZ0QWFScDhQUTFLMXBKTDJlLWVGNzlRMEx2cHhOU1RjQ0R5UExkUTFUakMtV3JPaVFBOWl5U3Z1VkRnUnpVRlBkUDVTaUVkMXhTZ2xJUDVTdk01SWZiS2JPdzA2d3czQdIBuwFBVV95cUxPVVlEeG1IRWRSU0RkUGw1V1Q5blFjaDRNVGFDb19vNGtXV2FVWTNxNTFLZVlYMFpPcFRWNDFDb0R4ZkROWWF0Q3JLOTRqRnNyeUI0TUNWNzZqaEtxQVBGVE5MeWxZRGUtb3Awekt0N3BiWlFfNHprcl9JWGxVbTI2ak0zaERXNHVOTUZwNllHZmZzY1VrMmxfeVdsdzB1aTVidG1aNXpsbzJ4eFQxTnhfaWR1VXppZF9YWGZF?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     17,
+     18,
      1
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      1,
      12,
-     10
+     9
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      1,
      4,
-     2,
+     1,
      1,
      1,
      1,
@@ -422,7 +422,7 @@
     "w": [
      7,
      7,
-     15
+     16
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      1,
-     9,
+     10,
      5,
      2,
      2,
@@ -465,12 +465,6 @@
    ],
    "h": [
     {
-     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
@@ -480,6 +474,12 @@
      "t": "Bupati Siapkan Sarana Pendidikan Layak dan Pembelajaran Digital - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0pjOXJzQWtQazcwVjdZMHZjVnhUME41VS1ub0FUcEZESmVpcVhwUnpSdmhNQnNHallZUy10S1dxdzljVTdXeThuRXY1TFV6R3FDaVAySUVzV2RzMmFfUWppQnNtcnAtTnNEdUhFa0JCM3VTNF9ucXpDZVE2ak54SE1TM2lCaFh3ZXhWS1QtN3E1RkNKTHBLbGtRRHM5c3A4dzNoRlF3?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Kadisdik: Gedung Eks RSUD untuk Siswa SMPN 5 - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXN1LS1reUZoUWxEcExHMUJhRy1ScFZta2xUeFNTdExHVGFsV3NDYndyTE9zQWYtdEQ0LTRVdWZYRjFzYlNqZTNUOVRZTzdqeno5RWNCOFNXcnVFczNMS0JqUFUxTUVkRlpJZFRueVVZRzQxaTRyQnZ5d0luTVFhcGgxTFE0LTNFOWVv?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     32,
+     31,
      3
     ]
    },

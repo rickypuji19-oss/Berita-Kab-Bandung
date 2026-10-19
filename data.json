@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:23:26.571217+07:00",
+ "updated": "2026-10-19T20:35:27.959839+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "RRI.co.id",
-   24
+   23
   ],
   [
    "Ayo Bandung",
-   22
+   23
   ],
   [
    "Tribunjabar.id",
@@ -20,7 +20,7 @@
   ],
   [
    "Kompas.com",
-   10
+   9
   ],
   [
    "Disway",
@@ -28,11 +28,15 @@
   ],
   [
    "detikcom",
-   6
+   7
   ],
   [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Koran Gala",
+   4
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,11 +47,7 @@
    4
   ],
   [
-   "Koran Gala",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
+   "Ketik",
    3
   ],
   [
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Galamedia News",
+   "PPID Kab. Bandung",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Pastikan Bonus Produksi Panas Bumi Berdampak bagi 56 Desa di Kabupaten Bandung - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczBpVDNJZV9DZTB0T04wMk0yakdwNUdZeFFvd1lYR243OHpXbGFCZ2hJOXJGMnkwX2VzOVRhODByVDgtdDJwLTBjcV9QQ2FWbUh2NjdzS1FlTUtlMk9TUE9FRm16Zlh3WUhzWDZ1amtCbnpXWTV0aEMweThFSGJ3d01YV1hveU5weGMxRXlzblVyaHhvY0o3REJabkZJdmc5WDFpY01IUHVLUkpOVHcwVHcwQ2NQX083cDlxSlFRY9IBsAFBVV95cUxOb1RsVmNqalF0UHoyUThKSExYQ1FGWEx3QTFycG1oTmtGVXpacTlqOFF4N3pVemttc1U1eUtWRXU0SG9SVzBCZnVNQTJrVXlFeFNuZXpjamhFX3dJb2FxU2xYbjFaZFIwcWZoOFVZSVIwVjZxWWdVSjIxeVlXdVB0ckxnSHNlMnVqaG15OWpMc1k5WGdFeWlQUzVIRjZUMDRhYnNlcnRIaTBqWmFTQ1VZdw?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Pemkab Bandung Siapkan Skema Penyaluran DBH ke Desa, Percepatan Pembangunan dan Kesejahteraan Warga Jadi Sasaran Utama - digo.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcU5wT0NDNVA1SU9yUTdYQzJXNlV1ckIwYWprbTZOSWNraWIxc0l6WDVYTHE0RGg3UEpiNl8tSkhFbV9sRWIwd0JxTlNNdWRRMlV2N2c3ZFNiZEhNeXVKMnoxVDc1TVRndGUzUU1LcDBXWHZZenNwNUlFUDNLak8xdWM4Mlp5UFEwYWVXb0Z0NzNLcVJ4T2dYTU5YbDVuaFlyU0M3LTJDbk9NQnFZbjEyY2JUczBjMEZTbHNBeEU4OWFyYTlNSDI2c1RSalhTR05lZG53c0tQNDh6NjJOcHc?oc=5",
@@ -88,12 +94,6 @@
      "t": "Tanggap Darurat Kebakaran Pasar Pemkab Fokus Pemulihan Sarpras - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjNST3ZIMG5ocWduOGJna3g5U0hfVW13amk1dERIR0JxMDMzRmpGRXY3ZGxQcm13WWp2TnBnN3FmR19QUFJoYjZYQzR1blFlZVR4R2FiQjgtemlvQ3pHSjdSUXNZOUY5VDRHSm1uWmZkSVRmX214M2J1eXkxSmphaUdFdEhoam9qRk4wNzZzdXpkZlR2c21Ka2xISlVrT29PY0JzTXRxSm0?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Mulai Pasang Insfratruktur Ratusan Kios Pasar Andir Pasca Kebakaran - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUF3VFRuMWRvYmszY1lwaWFyYjMyTkl3eUkwRnV4eUdhbDVWSjRiX3Jhel8tdWc1V0FhU1VBRlJsZGJPYlV2aEZEaTlLaFhNSnZjRE05WE5MeU1ZaEJsU284SW9vZ1BmVlFBbDhfeHlqbVBzdVAzdFhrRm5HR0RqM0dTMTRZQzlqR0ROM1BBdWM5QmhXZFJXeW0tYU9xQnNnN0plQ3VYSkt6M1VtNWlYZHd1aUhHdGg2?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     20,
+     22,
      4
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      3,
-     11,
+     12,
      2
     ]
    },
@@ -269,8 +269,8 @@
     ],
     "w": [
      5,
-     17,
-     2
+     16,
+     3
     ]
    },
    "trend": {
@@ -298,7 +298,7 @@
      0,
      0,
      0,
-     1,
+     2,
      1
     ]
    }
@@ -422,7 +422,7 @@
     "w": [
      7,
      6,
-     16
+     17
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     8,
+     9,
      6,
      2,
      2,
@@ -465,10 +465,10 @@
    ],
    "h": [
     {
-     "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
+     "t": "Dua Tahun Pemerintahan Prabowo : JPPI Minta Pemerintah Segera Realisasikan Pendidikan Dasar Gratis - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelA3RkpFb3NGSHdWMVZUNGd4TVprQVVtLVFyeDFZMEdidlRhMHVLWm5pQnhoVUxYdmJOaWlKQkYwMmtNYnBzcDE4YTJsbURVcTl5bU53NzNVVS02V0lEM2FrWnA3NXlfYXZkZmVMOEN6SVRQby14eHdhbnpwZ2lLWlRfM3A0Q3JYaTZ5aF80MjlSM2NyUUd3WktRbTRnT2RuSkpOR3ViSHBCZWV5T2VWTC1PX3JfVjRGS2ctNGx1dkpFVmVGRXFBWnZKWmxGMExPaENiT3k0RjNISUV1NE93cw?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     28,
+     27,
      3
     ]
    },

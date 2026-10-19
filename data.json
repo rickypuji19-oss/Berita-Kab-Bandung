@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:18:20.918542+07:00",
+ "updated": "2026-10-20T05:19:29.397911+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   25
+   23
   ],
   [
    "Tribunjabar.id",
@@ -16,15 +16,19 @@
   ],
   [
    "Ayo Bandung",
-   16
+   21
   ],
   [
    "Kompas.com",
-   9
+   7
   ],
   [
-   "detikcom",
+   "Koran Gala",
    6
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
    "Disway",
@@ -35,7 +39,7 @@
    5
   ],
   [
-   "Koran Gala",
+   "detikcom",
    5
   ],
   [
@@ -51,10 +55,6 @@
    4
   ],
   [
-   "Puskesmas Kabupaten Bandung",
-   4
-  ],
-  [
    "PPID Kab. Bandung",
    3
   ],
@@ -63,8 +63,8 @@
    3
   ],
   [
-   "Pikiran Rakyat Koran",
-   3
+   "Inilahkoran.id",
+   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "t": "BSPS Kabupaten Bandung Sasar 3.047 Rumah pada 2026 - Pikiran Rakyat Koran",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDF0MVAxb0VXdnhKUFdNQlhBS1BwRFJ6ZTFsMFpxcWhIdEVPNi1VRlNVVGtnUGNrcUZ0cV9HbXhESC1pbDhOMXBZRXd2VXlPWFhOSnBZT2hZTWliTDRmbG0ySVcxVTBNX1J1SzN2cTl5V0p3REd3aGFqbFVNUlBTUFZ6ZjVkOS1pWWdiMUFzbk01ZlZfMU9lSjRLUDdHak5BajByUw?oc=5",
+     "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Kabupaten Bandung Peringkat Kedua Nasional Penerima Bantuan Bedah Rumah BSPS - Ketik",
+     "t": "Menyatukan Lahan, Membuka Jalan Harapan - Inilahkoran.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0QySWpNV19QMUhZMGFYSG9fWWNNVWZ2cGxkRHF6WmI5NHBPZ0s1emtUM0FGdm5rT0NQQ3FIN2hKWFRmOGhaZFFVMGE2QjdMdFpZZ2tkWjhJZ1htUmZ1bVRUeF9iaFo3VnRaZEhyU0Fid3BKY2lkWU5yTTJyXy1TOExnR196MVN1ckRZM3FqUXdYeXI2Z0NvdEtxbzdOYlXSAZ8BQVVfeXFMUEtEMklqTVdfUDFIWTBhWEhvX1ljTVVmdnBsZERxelpiOTRwT2dLNXprVDNBRnZua09DUENxSDdoSlhUZjhoWmRRVTBhNkI3THRaWWdrZFo4SWdYbVJmdW1UVHhfYmhaN1Z0WmRIclNBYndwSmNpZFlOck0ycl8tUzhMZ0dfejFTdXJEWTNxalF3WHlyNmdDb3RLcW83TmJV?oc=5",
-     "r": "Ketik"
+     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTE9XekNrUG9kTnNyM0o5VnJGTGc5OVhQT1ZwbVdyZjJ2bDVPTllycEswdjdFYW5XS2hTNjdUWlB0ZWdYWXRPd1d5eXNMRXU3dU5fWUZ5cEdhRkRxaEJDS3ljSmR5bUdfMEZJOW5xSzY4RE0?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
-     "t": "Kabupaten Bandung Peringkat Kedua Nasional Penerima Bantuan Bedah Rumah BSPS - Ketik",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3hHUk1jdHFlanZRT29na3BkbjYwNTJIMkdKUHBwMTRPTkw2RUVrQTdqS29kTm4tUmNmZUg4YlJWaUtqOHZjQTZkTndJMndSangyNnEtNnJSckc5QXpBV0xqZWg2enVBcG9RQno4cUZlcmhKSlg3R2ZpV0ttZVdoTkxDVUdaYjk1NVNFZGU4cS00dG9RU3UwN0xxMGlLTW94S1ZlVnlRNktzRzdxSHfSAZ8BQVVfeXFMUEtEMklqTVdfUDFIWTBhWEhvX1ljTVVmdnBsZERxelpiOTRwT2dLNXprVDNBRnZua09DUENxSDdoSlhUZjhoWmRRVTBhNkI3THRaWWdrZFo4SWdYbVJmdW1UVHhfYmhaN1Z0WmRIclNBYndwSmNpZFlOck0ycl8tUzhMZ0dfejFTdXJEWTNxalF3WHlyNmdDb3RLcW83TmJV?oc=5",
-     "r": "Ketik"
+     "t": "Bedah Rumah 3.047 Unit di Kabupaten Bandung Didukung Anggaran APBN - VISI.NEWS",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczgxNHJMWEZxYUpwa2VCeThRNHpILXJzQUNsbExjczlvUXdNNXRHM3dyaThzbUMtMFdkRXppWFkyYUtOV1I1Nm5jZm02VkNCLUpUejdSdWdQd01BN29TRl8tbXNfWmVBaGw4RUM5c0h1Z2VBNVdOOXRRWGJYUHpBa05VNU9QTXpzYlUtZmlCTF96RVRsZlJESk1uRjg?oc=5",
+     "r": "VISI.NEWS"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -117,8 +117,8 @@
     ],
     "w": [
      4,
-     26,
-     4
+     27,
+     5
     ]
    },
    "trend": {
@@ -135,9 +135,9 @@
      0,
      0,
      0,
-     1,
      0,
-     4,
+     0,
+     5,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     4,
+     5,
      0
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     12,
+     13,
      0
     ]
    },
@@ -233,7 +233,7 @@
     {
      "t": "Brimob Tanam Bawang Putih di Ciater, Pengamat Pertanian Ingatkan Jangan Jadikan Polisi Ekonomi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0lCc2I1RlltdXhuQk9KaHZrSnpVTmdYbEFtWk1lSUlScl9TMzhBRXczbFFHWWhEaklDWjl2YzhJNklzU1JudWkzNDM3aFgyVW40YnJfckM4TkpTdGYzZnFDaGxseThXeEp0bTY0R2V5VDdQZExYZmlNcHFzd0JUWWhkREpwVXRVcENFWFBialo5SXBleWFXcGs4R0xra1g3UFkwTUJYS3JNb2gxOXZuQ0gtdnVFSE9jTENURzdvZjVyMWp2emRpWERwTktuMlNhVEtMM3RVNzdaSlVjLXJFd3Fn0gHiAUFVX3lxTFBjSUJzYjVGWW11eG5CT0podmtKelVOZ1hsQW1aTWVJSVJyX1MzOEFFdzNsUUdZaERqSUNaOXZjOEk2SXNTUm51aTM0MzdoWDJVbjRicl9yQzhOSlN0ZjNmcUNobGx5OFd4SnRtNjRHZXlUN1BkTFhmaU1wcXN3QlRZaGRESnBVdFVwQ0VYUGJqWjlJcGV5YVdwazhHTGtrWDdQWTBNQlhLck1vaDE5dm5DSC12dUVIT2NMQ1RHN29mNXIxanZ6ZGlYRHBOS24yU2FUS0wzdFU3N1pKVWMtckV3cWc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlpkZ0lmWjVFdmhhd3UzYndFMTFELVdKN0hsZ1pxc2FudU5oZVJoYmlXWS1ZNGl6VmhXbkx6Yld6TVdIS25vdDcxOUlJM2NUalRKdTZtVDRwTjc5aVYxdlhLQ2xvS0lWTG5rQ09aQTItcFhaRWZ1SWszek96bDZ3LU9BQ2pHbDVaS1ZOM0tqM0ZremJwanVQN25XTXFzZkdlYmd4NlZ3WWhSWnc1TU9qVWtSUHgtRXpETl8zX1VrcER0VGVDWS1XRjNYMXNMUngzUG43amtKXzF6d09T0gHiAUFVX3lxTFBjSUJzYjVGWW11eG5CT0podmtKelVOZ1hsQW1aTWVJSVJyX1MzOEFFdzNsUUdZaERqSUNaOXZjOEk2SXNTUm51aTM0MzdoWDJVbjRicl9yQzhOSlN0ZjNmcUNobGx5OFd4SnRtNjRHZXlUN1BkTFhmaU1wcXN3QlRZaGRESnBVdFVwQ0VYUGJqWjlJcGV5YVdwazhHTGtrWDdQWTBNQlhLck1vaDE5dm5DSC12dUVIT2NMQ1RHN29mNXIxanZ6ZGlYRHBOS24yU2FUS0wzdFU3N1pKVWMtckV3cWc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     15,
+     17,
      3
     ]
    },
@@ -420,9 +420,9 @@
      5
     ],
     "w": [
-     7,
      6,
-     18
+     6,
+     17
     ]
    },
    "trend": {
@@ -436,7 +436,7 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      3,
      2,
      0,
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     9,
+     8,
      6,
      2,
      2,
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Rencana Pemfungsian Eks RSUD Soreang Untuk Sekolah SMPN 5 - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1B5MFUwb0N4cHcxOFRRZXFNNzV5dVB3clUtdTdzN1U3WTg2SVJ5SFpxcFdGUkhDOEYtLWJVVVI4UFl6akdfbVRucmdWa1QtVHBHWWVfRDBQVW1FS1AzeUU2bm9OclVrWk1mZi1KbWpuVXRTcEp1blloRUtGVF83UUdOWEF4N2VDTnRmQkN2V1VBZmxGd1gxODh3WVhyN0JMOHAwa3kwUG45bW56dzByQk5DX2JpbEE?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Dua Tahun Pemerintahan Prabowo : JPPI Minta Pemerintah Segera Realisasikan Pendidikan Dasar Gratis - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelA3RkpFb3NGSHdWMVZUNGd4TVprQVVtLVFyeDFZMEdidlRhMHVLWm5pQnhoVUxYdmJOaWlKQkYwMmtNYnBzcDE4YTJsbURVcTl5bU53NzNVVS02V0lEM2FrWnA3NXlfYXZkZmVMOEN6SVRQby14eHdhbnpwZ2lLWlRfM3A0Q3JYaTZ5aF80MjlSM2NyUUd3WktRbTRnT2RuSkpOR3ViSHBCZWV5T2VWTC1PX3JfVjRGS2ctNGx1dkpFVmVGRXFBWnZKWmxGMExPaENiT3k0RjNISUV1NE93cw?oc=5",
@@ -475,12 +481,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0hnN3YtLXBHclg2bWYzYTY0dm9Ha0RqMGQtWkltY283QklwVVp0by1DWXdZMUVvX3dkOS1LS1VWbHlpMldZc0dVeTdHYkFqbnVaVWJOWDlBdXd5OFpsSU5LdGllamN3Y1RwYWxpM0NNem9VeWIyX1J0MFFFcWUtMHM0cGZPei00ZkUteDBTTnRIcGFUNW00djdIUVZIVWFPbkRvck5rTWRRVFdjZ203bVBLMHd1SXhkSkdjdDRwUXFzcEVCSUc0SkNPaktMa1VNX0t6Q0ExTHM?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : \"Langit Seharusnya Biru\", Pesan Bobotoh Persib untuk Bencana Karhutla Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3RqTGFCV3hYOWh2U0dDWk83TmxIMEptRHZJSkpZOEpxc2wtOWlCMFhvTkpwTmx0dEJvT2pILTdlZWNTaDJTNE12VXhHbllEUE05QUpNaHcwZzBqLS1lTjlTYTg4TlRhZ053dlk4XzViNnBBSk5KMEFtejd2VnFDZWNpcWEwU1pkSWluSGJnaWRJcnVSaDNNemR6S1B3Vm9kOVJ4VGxFc2F2Y0JabkpQdTVWSGJVZlFrNmJGb0l1VmJhRnl3dEE?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     9,
-     29,
-     3
+     7,
+     27,
+     4
     ]
    },
    "trend": {
@@ -513,8 +513,8 @@
     ],
     "p": [
      0,
-     1,
-     3,
+     0,
+     2,
      5,
      0,
      0,
@@ -525,7 +525,7 @@
      1,
      1,
      0,
-     0,
+     1,
      1,
      0
     ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:18:33.386971+07:00",
+ "updated": "2026-10-21T04:20:48.502191+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
@@ -16,23 +16,27 @@
   ],
   [
    "Ayo Bandung",
-   21
+   22
   ],
   [
    "Kompas.com",
-   7
-  ],
-  [
-   "Disway",
    6
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Disway",
    5
   ],
   [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Inilahkoran.id",
+   4
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   4
   ],
   [
    "Satumedia.id",
@@ -45,10 +49,6 @@
   [
    "detikcom",
    4
-  ],
-  [
-   "Inilahkoran.id",
-   3
   ],
   [
    "Ketik",
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     6,
-     12,
+     5,
+     10,
      1
     ]
    },
@@ -207,7 +207,7 @@
      0,
      1,
      0,
-     3,
+     2,
      0
     ],
     "g": [
@@ -269,8 +269,8 @@
     ],
     "w": [
      3,
-     13,
-     2
+     12,
+     3
     ]
    },
    "trend": {
@@ -297,7 +297,7 @@
      0,
      0,
      2,
-     0,
+     1,
      0,
      0
     ]
@@ -321,7 +321,7 @@
     {
      "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0J3UXctci1qdjF3Q09xek5FV29qQUtRdE03RG1yWTJvNi1EeTRyYlpxRDB4UVNmVVZQWDJ3aWk3cHE2ZnU5VGVPYkpMTU1FbjZQNWEzbnQySTVGMnlJc1c3TDJibEdHaXBUSER1UENvempfeFU0bWY4bXlqWlZwcWFZQnNkNExGXy1laEhBUk84MzdOVjVLNy1aRGhXblA1Q2ZnREFHelFwYmJIQzN6RDg0MjA4WVR4cGFJb1Z1b1htMzlxeWFXSl9laGdmUFp5LXo2R3NYNXJSNGxNN056V09iMkk?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVhpWl9ONW4xQk9INHRZQl9NU0dQUUJsU0ZyYm1zSm9WbVJQOElMdEhrenJnNHNva2ZvaDJYZFJMSGJhVGNlLWt3VGNBMk55cnE4Y3dVN0E1dzF5SHdaUjdkRlBGeDJFYVJuOGZPSlZSd01md1B0R3FMTW9nTUp5UEhHaXpWOGNXWmhQMU9hdWtpZDVHLTFaejYzU3hjdXNlZ1BwSE9iZzZDRi1fWXpHbWh4MmZBbUpVTnpIZFF3N1ZMWHdVWWc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      6,
-     7,
-     11
+     8,
+     12
     ]
    },
    "trend": {
@@ -456,7 +456,7 @@
      2,
      1,
      3,
-     2,
+     3,
      0
     ]
    }
@@ -471,12 +471,6 @@
    ],
    "h": [
     {
-     "t": "Mensos Siapkan 30.000 Laptop Tambahan untuk Siswa Sekolah Rakyat - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGJ6UjNBS1BYcHV6cjFUUkF4RWxyUkhVMk0zYUQ2YmJOUmcwSlJMaE9UUTFqd0NTa1hSTWEzSVc1emNONVZEZGhTanJJSEFudTdNNXNDMWEyWW5sVWFSYmlCS2ltT0Q4bWg0aWljWmljTXZnVWtvM0MweTlKNFlQelRUaGh6eUpNb0I0a3dValZPSndGRS1taEJpTUpsWWRrNmhOdVVuRmM5R3Z1dGNlTHpRcGdYeXc?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Eks RSUD Soreang Ditargetkan Jadi Fasilitas Pendidikan pada 2027, Tampung Siswa SMPN 5 - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0R5dW5MRHExdzREOHNMU3FibjB4Mk93clVOSVN5WWY1OUVCMVhsZzg0MG1yTUtsaUh3Q0dsTWlfLUswSHFTVmlxbFp4VFBpZ1JOdTdZclBtdlNsZll0RDUxbU54UWoxd0FNUmc0N0lKN2lhWmNlWGtsMEU3dkw5Z3lnTEF2MDFDMGhDci1pb1RXOHpoQjVlUzdkRHdGRGFRVEUwNkNRRWlVZHAwdDFwUU9mbWd3M0pjSGtaR2w1b1duUzdSQ09aeVBXaUFQWWR5aVRpSVVpQ01GemhJenBNNTB30gHnAUFVX3lxTE9tVUJEMVpFSWpFNk12LXh2NE9EeTFrZGVuYW9ib2NJeDNGdkg1UE1WeUFUNXp5Q2xQNlpOZmJZd0xPdW9NRXdROVU5d28xYUhBdlRxQ2hNbDdOLU01ZElBTGFzNXVSMFhBU3ViZER5c0Y1dWFLQXA1NUQ4UmptTEhWN1BySGRieWl1SmpHWlZiYWZfd2R1SEM0blgwZWpNU3lrR3UzY0VwNGd2UWJFSUlqVFkxYlNQTUlVemJtSURCblhvMk8zNnh2OGVOYzFEQVkxaExGb25McEwwNjNEMEE1ejhpQzhGOA?oc=5",
@@ -487,6 +481,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXZ1UlBycG55VE1xZ3lQTTIzbkpvUjZyNGpQSGZobUs4Qy1Idl81RjFkRmZpY1RMUUl0ZndtMVM4UmVmNU52ZHRlZUJjcVBzUzVxR1Vmd01kdWVESVFWbjZMT0pJc09ZRzFnQUdaUlEtUUtsRXJUWC1rcWN4QUdyY3NtR0hUUkJMZzh1N0VqUzVtZ045T1FEOEtRTm9idzU4RG12QnIyNXNSTXM4UU9JS2NqcF9aTnlPX1RUeGdhOGp4RF9KajM0bzA3Y1VDVHU4dlHSAdcBQVVfeXFMT0MwTW1RWTA1OE5tUWV1ZV9KYWF0cTlCeDZ3YWRXWU1oOHBBRDMyNUJKVTZfR0tyR2NNNnJnVk9nVW5qYzFqNnZFbjcyZjFVMDhNUF9FR0NrbGF1cS1KcVFiV193LWZQVVVkTDRDak85RENHb1VRbmp4RGVUcWRCUDlRVlktZjF0N1NkRUFIaUZuMkRYUkJtMjFhU0sxTy0tQTY3ZlZYdWV2UnBLaElyeUZacUppOXRaNUI0OFIxNUxDUGJUV3JvLVFJa0RsQW5DVkFtSmxJS2M?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Gus Ipul Pastikan Laptop Siswa Sekolah Rakyat Hanya untuk di Kelas - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UdIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     3,
-     28,
+     4,
+     26,
      5
     ]
    },
@@ -520,7 +520,7 @@
     "p": [
      0,
      1,
-     1,
+     2,
      0,
      0,
      1,

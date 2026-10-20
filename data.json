@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:20:15.053954+07:00",
+ "updated": "2026-10-20T11:20:31.856056+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "RRI.co.id",
-   23
+   25
   ],
   [
    "Tribunjabar.id",
-   21
+   22
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Kompas.com",
@@ -31,10 +31,6 @@
    6
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
-  ],
-  [
    "Koran Gala",
    5
   ],
@@ -45,6 +41,10 @@
   [
    "detikcom",
    5
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   4
   ],
   [
    "Satumedia.id",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab. Bandung, Program Bedah Rumah menuju Masyarakat Sehat - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JxTUNaNThvdEJyM0luYkZEUzhLeDJ5RXVnWmZGVkVSUE1wb2JDWXZtSHFWcFcyOUtNZU9WM2xEMXBhQTM1MU9LZFZMTWx3TFpuRVFzbEhkeUlfclpGN29NNnNnUnB2QUxXU0ZpRFI1S1VIOFV3eEFIZVpCbndlMGlXb1A0YUFXRjdwVTNMUHpSd0Y5Z3RnM2ZXbkhzdDhvR3Zv?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "KDS Dorong Rp 40 Miliar Bonus Produksi Panas Bumi Tahun 2026 Mengalir ke 56 Desa di Kabupaten Bandung - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQlN3NE0zQ3F5bUdaN1FGekhUVnY3UTZGV1JIZmVVTmhoSHB3Uy1vbFRqSVhzR2xJX1NjMkV0RnV2QUdsbzFKNU9PTmRXVTRGV2MwMi0zUEZPYUZza1BjeXo4NGVLcnkyUWRidDRhT0p1VFdCYWt6aFZzYTBjOWlxS0dwRFB2MVBnOUtjTGFTYnlfaVNINl9LdllybDJQejE4Y1RtZ0tROEtaaFVKZkxmOElfaFcwMWVvS3VxSWpvSEd1LUl5cm1ScWl0ZWRjV1pZUFNtdGVkT0Y0S1VOMVVJV1VzMzVveUw2bG1mZEtB?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHZmLTB4ZUowVnl4YkdsWDBIOHlOT2cxV2tXWGR6cWg0QkdsT3hOVW9mS3VpcTExNDd5QVdQT2I0Y3AzSWNqM2pHYVZadUZkZm01NmlyckxITFlmRjVXczBHSE1EaDFuSnlJb3hjQl81Tkt5X2QyZVdvZDRUMjMxQzNsRmdtSElNVzJqa1BBVkp2X0I5bjlzcjRyZjFuN0hvbVVqbnBqbkhIRDNJejlkRVJMZ0JaanZaSXI3S3ln?oc=5",
      "r": "BandungBergerak.id"
-    },
-    {
-     "t": "Tak Hanya Insentif, 1.012 Ustaz dan Ustazah di Kabupaten Bandung Dapat Perlindungan BPJS Ketenagakerjaan - Ketik",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEZ2NHVvb0dQblpxQ1ZvMXhNTkdIVVhRM3VROVRtZ20tTTNDTHJWMnVsQmllLWJCSmt1Y1J1QmtRN0k0VFRRQVRFQU9ZM3BpMTl2amJIbDJWaDBwdHBGemFJVktzX2NzV09NQ2N1MjdVSTdkYVprUmNCZ1E5eE5ERUNGTi1fSF9CRFhGLXJfdDI0bEpTZU5BZVl3REpNNkg5MzNhdlZQVXJXWk15bEZ5YmNTcTRiOUsxaGN0Q3lMM0NxZ9IBwgFBVV95cUxQbEZ2NHVvb0dQblpxQ1ZvMXhNTkdIVVhRM3VROVRtZ20tTTNDTHJWMnVsQmllLWJCSmt1Y1J1QmtRN0k0VFRRQVRFQU9ZM3BpMTl2amJIbDJWaDBwdHBGemFJVktzX2NzV09NQ2N1MjdVSTdkYVprUmNCZ1E5eE5ERUNGTi1fSF9CRFhGLXJfdDI0bEpTZU5BZVl3REpNNkg5MzNhdlZQVXJXWk15bEZ5YmNTcTRiOUsxaGN0Q3lMM0NxZw?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     4,
-     26,
+     5,
+     28,
      5
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     4,
+     5,
      1
     ],
     "g": [
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Tangkap 52 Tersangka Narkoba, Bukti Ditaksir Rp 1 Miliar, Sabu Dikendalikan dari Lapas - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHRGTGxFeWYxQmd1OVNBS014dHFQQUpyZkxXS21kUm1qMmFtNldrMnhGT1NDOHRLSDBQWHdWUWJNUC1tRjE0SlZ1RFRwREdVQVZnNEdDaVI3dEo0dFNySF94ZTdFTlF4SGYxdTc1cEZiNlMzUG5OdlFnaTl5YUtYcVR4UTBpa1BOZGFHUXVWTTlUTWJGUF84VFZnRk9hdWJrTWNuaU13emJkRjFwTWhUSTJBVU5xMURVUVFGTkU0X0pwTkk?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Tersangka Narkoba di KBB Mengaku Beli Senjata Api Rakitan Secara Daring - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWc3WFVDa1Y5Smg2M01KUXVMVDhJZFhhMFhDd1FDNEhCWVg2RUI3RHpTNUxieHBhVHotOEVUV2REQjZHcjhxSUh4RHVoeUg2MnlWX3Q1dE8tbDd6WlR3Ri1kYkVTLXJQVWhveUV2RjgtYUdTSXNYcXFaNTc3eXd6Nnl1NlVQVERYUU41SmhRNHFvZ1Vfc1hZcXk0QjBmSHEzMnR5N3BUZmJzZHg1RFgyUFUxdFpVWTk1?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpFMXZWTF9xUTJCVmY0TTVJclplRXpJUFZPNFQ5dEtBa0dFNTE3YThJVE8zcWdhY0dEWEtRR0hFNjFmMm9lcHlkdEtVLUg5clhZZWdMWVBvbDY3WnJUOE9pVVdQYnFKSkQ0Vms2QW4yTFVNbGxZRl9tc2U0M05CRElMV0dYWWtDME82aXREWXhFQkxQYkRVUzl2VXRlRnY3dTM3azJ1SWhrSkRaQUZ3dUxvRUo0bEZWSFlxck9YVzRMQmg1dVlN?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "KIRAB dan GALAKSI Bakal Gelar Aksi di Kejari Kabupaten Bandung, Tagih Perkembangan Kasus RSUD Cikalong Wetan - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclZsMXcxZDRjYTl0Vk9MRGRqWFRHLU5fRU9wYWtrTlJ4bmJmRExMS012NThnV0dXZTNMSVFIbmUyd0d5YkNTNGJPMVJuS0JlYkl3WHFEZWYzX041akwyVmNkZnY3S2wtcEQ3X0FmYUdKNW9wclpLTE1hVXFsVF9iVm5abVZmb1B6R0FNZW5saVZ4czRVdmFSRmh3ZHA3MXdsYkw4NllWZUFCU0NzTWJ0aHNwbUhLTWNjVVdIWDdmanYwRnRSNFprN1NYUU1CV1U1aGZuTm9XYm0zMnFxQ0VDRE5IQU4yUHg4Z1hoMjBNbDRXbGRHRnc?oc=5",
-     "r": "Galamedia News"
     }
    ],
    "v": {
@@ -340,7 +340,7 @@
     "w": [
      1,
      9,
-     8
+     9
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     0
+     1
     ]
    }
   },
@@ -422,7 +422,7 @@
     "w": [
      6,
      5,
-     17
+     16
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     8,
+     7,
      5,
      2,
      2,
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi cegah perundungan sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRVdCQkVNczM3dTBsb2dramNyeUtKWVBaYzhWbG1BeVBYV0lxUzFwWEZJYjQ0Qmszb3E3ak5KVzBKRXhxTmdOOVYydzF6Mk1IR1Nta05CUjU5Y2Njb056UG83TmxwZGtBR0RjU3ZB?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "126 Siswa Masih Menumpang Belajar, Eks RSUD Soreang Ditargetkan Jadi Sekolah pada 2027 - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVFsQU5RZmVlOVJ5S1J6SjJDUjh3MFBxZ0lkMFduS2VzWFFJYnctM0dZWjRPSDFlMDlTTTZVYXQ4eklfeWkzLVJCbU1jcW9mMjg2TVVta2J3MkRxZDh0eEZSdU1nemEzSUJKMmZvZTdmb0dxOHVoYXYzOE5oSHpsc1pZQUdyM3hNemVMQjZNQ2Z2ODJCNUZXTjlCN3o4aGo3ZGg2WGpEdW9WbGVBdHJNelVPdDd0V2FMSzlXZE83VTAzeVhQT0lEQ3lRaUlwRjBMSjJHVWZobXNGOXZjUXdzSkp30gHnAUFVX3lxTE1KdUJyVFZYQ0RKc1k4T0lVd2pXT2tjeDBnRHhuQ0ExWEdfb05ZMlN2amtuY3BuOVIteHlkbWtmSkdMS0RrMThYZkdoRng2LU80RGU2ZUpvWG00b2VmWmVLdkIxamJJUGgycXRrZkx2NW5GbXNvRjdDVGNXc2JkZ1NBZjM4WnZzTjF6RlMzTlk1QTY3eXd2SWo4NDMtX09MeHZNZnp4di1feUNnVFZtVktmQVpHakhtOGRfMWxVTGR5QTBLWndJRmpyMVZXaTRnczNFOW1sa2xfN3hDYk0xdTBKSlRWRG5tMA?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Rencana Pemfungsian Eks RSUD Soreang Untuk Sekolah SMPN 5 - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1B5MFUwb0N4cHcxOFRRZXFNNzV5dVB3clUtdTdzN1U3WTg2SVJ5SFpxcFdGUkhDOEYtLWJVVVI4UFl6akdfbVRucmdWa1QtVHBHWWVfRDBQVW1FS1AzeUU2bm9OclVrWk1mZi1KbWpuVXRTcEp1blloRUtGVF83UUdOWEF4N2VDTnRmQkN2V1VBZmxGd1gxODh3WVhyN0JMOHAwa3kwUG45bW56dzByQk5DX2JpbEE?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Dua Tahun Pemerintahan Prabowo : JPPI Minta Pemerintah Segera Realisasikan Pendidikan Dasar Gratis - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelA3RkpFb3NGSHdWMVZUNGd4TVprQVVtLVFyeDFZMEdidlRhMHVLWm5pQnhoVUxYdmJOaWlKQkYwMmtNYnBzcDE4YTJsbURVcTl5bU53NzNVVS02V0lEM2FrWnA3NXlfYXZkZmVMOEN6SVRQby14eHdhbnpwZ2lLWlRfM3A0Q3JYaTZ5aF80MjlSM2NyUUd3WktRbTRnT2RuSkpOR3ViSHBCZWV5T2VWTC1PX3JfVjRGS2ctNGx1dkpFVmVGRXFBWnZKWmxGMExPaENiT3k0RjNISUV1NE93cw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -522,11 +522,11 @@
     ],
     "g": [
      0,
-     1,
-     1,
      0,
      1,
      0,
+     1,
+     1,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:18:37.149244+07:00",
+ "updated": "2026-10-20T08:27:18.655484+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
-   23
-  ],
-  [
    "Tribunjabar.id",
    21
+  ],
+  [
+   "RRI.co.id",
+   20
   ],
   [
    "Ayo Bandung",
@@ -39,6 +39,10 @@
    5
   ],
   [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
@@ -56,10 +60,6 @@
   ],
   [
    "Jurnal Soreang",
-   3
-  ],
-  [
-   "jabarekspres.com",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      3,
-     27,
+     26,
      4
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     13,
+     14,
      0
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     16,
+     15,
      3
     ]
    },
@@ -313,12 +313,6 @@
    ],
    "h": [
     {
-     "t": "Tersangka Narkoba di KBB Mengaku Beli Senjata Api Rakitan Secara Daring - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWc3WFVDa1Y5Smg2M01KUXVMVDhJZFhhMFhDd1FDNEhCWVg2RUI3RHpTNUxieHBhVHotOEVUV2REQjZHcjhxSUh4RHVoeUg2MnlWX3Q1dE8tbDd6WlR3Ri1kYkVTLXJQVWhveUV2RjgtYUdTSXNYcXFaNTc3eXd6Nnl1NlVQVERYUU41SmhRNHFvZ1Vfc1hZcXk0QjBmSHEzMnR5N3BUZmJzZHg1RFgyUFUxdFpVWTk1?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Berantas Peredaran Gelap Narkoba, Polisi Gelar Razia di Sejumlah Tempat Hiburan Malam - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpFMXZWTF9xUTJCVmY0TTVJclplRXpJUFZPNFQ5dEtBa0dFNTE3YThJVE8zcWdhY0dEWEtRR0hFNjFmMm9lcHlkdEtVLUg5clhZZWdMWVBvbDY3WnJUOE9pVVdQYnFKSkQ0Vms2QW4yTFVNbGxZRl9tc2U0M05CRElMV0dYWWtDME82aXREWXhFQkxQYkRVUzl2VXRlRnY3dTM3azJ1SWhrSkRaQUZ3dUxvRUo0bEZWSFlxck9YVzRMQmg1dVlN?oc=5",
@@ -329,6 +323,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclZsMXcxZDRjYTl0Vk9MRGRqWFRHLU5fRU9wYWtrTlJ4bmJmRExMS012NThnV0dXZTNMSVFIbmUyd0d5YkNTNGJPMVJuS0JlYkl3WHFEZWYzX041akwyVmNkZnY3S2wtcEQ3X0FmYUdKNW9wclpLTE1hVXFsVF9iVm5abVZmb1B6R0FNZW5saVZ4czRVdmFSRmh3ZHA3MXdsYkw4NllWZUFCU0NzTWJ0aHNwbUhLTWNjVVdIWDdmanYwRnRSNFprN1NYUU1CV1U1aGZuTm9XYm0zMnFxQ0VDRE5IQU4yUHg4Z1hoMjBNbDRXbGRHRnc?oc=5",
      "r": "Galamedia News"
+    },
+    {
+     "t": "Polresta Bandung Razia Narkoba di Pameungpeuk, Dua Orang Positif Benzodiazepine - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGpKNGhKX0xQMmhWbl9hRTUzc3NyR1IyVENZeDVTM1FKMFVnczY3ajJVd1FOQm1kVGNPRWw0ZWpNQ09jazlOQWc5dWxKcW5hbW56dmE0UFFwOVZUeUNrbm9kSUlZejlBajlhaEkxTWtNU19XU18tbnNfRDk3QlRkbERDWFZwMjJHekx3MzdCeDhNVHdXd1p6Z0RlM0JEY0pDLU84bWpZc1BnZk5nOEpoSm1ReF95NGNDeGtxYXFlS25Rdw?oc=5",
+     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     9,
+     10,
      8
     ]
    },
@@ -364,11 +364,11 @@
     ],
     "g": [
      3,
+     2,
      1,
      1,
      1,
-     1,
-     1,
+     0,
      0
     ]
    }
@@ -421,7 +421,7 @@
     ],
     "w": [
      6,
-     5,
+     6,
      16
     ]
    },
@@ -445,8 +445,8 @@
      0
     ],
     "g": [
-     6,
-     6,
+     7,
+     5,
      2,
      2,
      1,
@@ -471,16 +471,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Dua Tahun Pemerintahan Prabowo : JPPI Minta Pemerintah Segera Realisasikan Pendidikan Dasar Gratis - Tribunjabar.id",
+     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelA3RkpFb3NGSHdWMVZUNGd4TVprQVVtLVFyeDFZMEdidlRhMHVLWm5pQnhoVUxYdmJOaWlKQkYwMmtNYnBzcDE4YTJsbURVcTl5bU53NzNVVS02V0lEM2FrWnA3NXlfYXZkZmVMOEN6SVRQby14eHdhbnpwZ2lLWlRfM3A0Q3JYaTZ5aF80MjlSM2NyUUd3WktRbTRnT2RuSkpOR3ViSHBCZWV5T2VWTC1PX3JfVjRGS2ctNGx1dkpFVmVGRXFBWnZKWmxGMExPaENiT3k0RjNISUV1NE93cw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
+     "r": "RRI.co.id"
     },
     {
-     "t": "Dua Tahun Pemerintahan Prabowo-Gibran, JPPI Kritik Anggaran MBG Masuk Pos Pendidikan - Halaman 2 - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0hnN3YtLXBHclg2bWYzYTY0dm9Ha0RqMGQtWkltY283QklwVVp0by1DWXdZMUVvX3dkOS1LS1VWbHlpMldZc0dVeTdHYkFqbnVaVWJOWDlBdXd5OFpsSU5LdGllamN3Y1RwYWxpM0NNem9VeWIyX1J0MFFFcWUtMHM0cGZPei00ZkUteDBTTnRIcGFUNW00djdIUVZIVWFPbkRvck5rTWRRVFdjZ203bVBLMHd1SXhkSkdjdDRwUXFzcEVCSUc0SkNPaktMa1VNX0t6Q0ExTHM?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Bupati Anggarkan Rp137 Miliar, Sekolah Kabupaten Bandung Diperbaiki - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2lLZ0NfSnhra3lzblBBYTJIMmt5MVFLU0J3cHFIWG9PYVB2dVFMakt4VzhXSkF1R0pKcUZYS2dYZkJOeHFqTHpub3pDMlNiVklOa1RzdnNMaGd0NFQ1c1VjZldyMVVRSURuYmV1Q0FRRXVqZVVBcEtKME16c0NJdURHcWFWVlJwbWNnWXBHdkxQc1NNVDBwWEhqNUZOY3dFVGtuWENBcWR6dw?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,8 +497,8 @@
     ],
     "w": [
      7,
-     28,
-     4
+     26,
+     3
     ]
    },
    "trend": {
@@ -526,7 +526,7 @@
      1,
      0,
      1,
-     1,
+     0,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:20:48.502191+07:00",
+ "updated": "2026-10-21T05:19:14.099780+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "RRI.co.id",
@@ -20,19 +20,15 @@
   ],
   [
    "Kompas.com",
+   7
+  ],
+  [
+   "Pikiran Rakyat Koran",
    6
   ],
   [
    "Disway",
    5
-  ],
-  [
-   "jabarekspres.com",
-   5
-  ],
-  [
-   "Inilahkoran.id",
-   4
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,12 +39,16 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
+   "jabarekspres.com",
    4
   ],
   [
    "detikcom",
    4
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ],
   [
    "Ketik",
@@ -187,7 +187,7 @@
     ],
     "w": [
      5,
-     10,
+     9,
      1
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "INFORMASI PROSEDUR PERINGATAN DINI DAN PROSEDUR EVAKUASI KEADAAN DARURAT DINAS PARIWISATA DAN EKONOMI KREATIF KABUPATEN BANDUNG - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMEdzem91aWFESzBDTWVoa1hPMDU4RXNMSlNmQTMwc3o3Wk52REROWVdLanZoVkNKX1E5LWRORFh0U0VOOE5McjhGSklRSmh5UDFucmtUY1QyMmJiVXdzMGlaZWs1Vl82b29GV01UWldEWUU1YmRYdUlBSGx5NTJXRlRFS2N4WkV1UThNWDBzR1RVVEE3NktZSDlzdWwwRS1WN0RNSmFQYjE4a0dvUDViVGxsdUNQTlJiVG4wODN4VXQ5RHNSVjFoM2tqMjJlSlNJX1BpYTZwOGVRbVZ4c0w1eUFMMmw1ZWVaTGN6NVFna1FXRVlGSkhnTWJGVDlrXy1BMGVkYm5MRF9PNlZ6b05JbmlfRVRGYjdxeWx1OGdxeF8?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Kabupaten Bandung perkuat regenerasi petani dan pasar produk lokal - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
@@ -240,12 +246,6 @@
      "t": "HIPMI Jabar Gandeng Pengusaha Muda Selangor, Bidik Peluang Investasi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUZzNTdVa3l3TzVEVDlHX2owTWJUVkVVUzV6VTIxdDctVzRpeFNZdWl2N1JjV2hkY2l0X3VjbEtEdGx0dUctTjVYMWJFSUNreXZpUUd5OFJWT2dBb2l0SEhRZUlmUVRyMzJWaWttci12enJKb01XejRHRV9pbkg5dXZQQ1dsVkJVWURNOTBYUDZzaWFPLWJsdkpyTGUzWjJ1b2MxaW4teXhjZFBYUUdTdHdCakMtV1BQLVE?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Ekonomi Global Kacau, Muhaimin Iskandar Dorong UMKM di Bandung Perkuat Pasar Domestik - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXFQX2Z6OUs3aFZZX2R1Zkd3R2FReUdJMDdpNG02V3VHYUZZMEw1R2ZPSW5IdDZkTUx6ZDNIUzQ2ZVZpWnJ2cHRPLTZzdnJtcnZOOWwzRl8xYVdrUkVKd182S3pKWFVPV2dyVUNFSE56eE9XVjZfMFlSV0NBS214UDYxNXl2XzdaeHB2ci1HNUNJLWZKQThvUkEzZ0FaZzhWWTZGOE9YSEZfcFVXUmhlcFc0c0E3RHVaQkJ1NEVHVlJCNUtycGlNWUNXclA0WUlZ?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     3,
+     1,
      12,
      3
     ]
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     3,
+     1,
      0,
      0,
      1,
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "Narkoba Polresta Bandung, 52 Tersangka Ditangkap saat Operasi Antik Lodaya - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0NMT1VSbUxqMFdFZzZlenQ4MXZCMUVuUnFLczZUeTNpd0FZVi03OS1SVERSQkotcldNZFcwdG1iNUkzZWhhdFh4cFN2MWFaTlV0WnpPSmQyTjVueXF5bnJzeEgwY2wybzNrVHY2aUhFQUM2UWZKRlNyOU02WE5VU3VpUkhleGY0ajc3ZEFuWW5WU2RROVQzRld5VHc1OHR4SWNjRDlrUl8xZVlnMVBGbU1LbG93TjRlSjB2R3FZUExQbEZ6?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Tiga Polisi Terluka Akibat Penyerangan Truk Dalmas Polrestabes Bandung di Sulanjana-Cikapayang - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOWdRU1QwUjZOOEpTM3JCUFpKQ1BTZGt3LTBNVE9QZGFKN01MUlFOeFZJZm1wTFcwdHVfSnJKV050b3kxNHZOaDhrcVRMem5QRHcxUnN5SWhQeElCZjUwazg4bFZpNWIyVFdZRExyaGFMRks4dFI4VVJMZjFkSUFzZUpwVmNoREh5UVVucEw1NHRqdFNJdDNiT2NUYk1WX2tPV3FNWThPemJwY0s0VDc1T3NsYlZqUGVUekZfd3h0NUV3dVhOemJFckV0Y3ZTZklPVGl6UTRxejBrWm5kbnc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVhpWl9ONW4xQk9INHRZQl9NU0dQUUJsU0ZyYm1zSm9WbVJQOElMdEhrenJnNHNva2ZvaDJYZFJMSGJhVGNlLWt3VGNBMk55cnE4Y3dVN0E1dzF5SHdaUjdkRlBGeDJFYVJuOGZPSlZSd01md1B0R3FMTW9nTUp5UEhHaXpWOGNXWmhQMU9hdWtpZDVHLTFaejYzU3hjdXNlZ1BwSE9iZzZDRi1fWXpHbWh4MmZBbUpVTnpIZFF3N1ZMWHdVWWc?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Dalam 10 Hari Polresta Bandung Gulung 52 Tersangka Narkoba dan Sita Barbuk Bernilai Rp1 Miliar - | kejakimpolnews.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpCendMb0d3NXNZUzJBd3RPZkFINXF5VVBBTTFqWHRxOVVRbGVTbmRpZ1h4NC05cDlqbnZqLVMxY012UjFLZ1lISFQtVG9FbUMtS2N3RncySzFOZnM1UFVyd2dySERXNTJmb1dVVHRtTGY3VTFMV2tkbFJheVhmbjg4SFlMenZuc3hvWGFyeHRwVmZ0UkoyVENpUDh2V3NTR1E4RVcxUWpST1FrUUhDckpJblJobWdfbGlDcGlKYW1SbW85UXIteFhScHlMTF9VSjZoZHZtZ3ZNSGx0M25rQ1UwekZuZU9QNjVwNGV3?oc=5",
-     "r": "| kejakimpolnews.com"
+     "t": "Tiga Polisi yang Terluka Diserang Massa di Simpang Sulanjana Bandung Sudah Dapat Penanganan Medis - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRU5rNUU4cXBvMF9UZV9TQTNlR2MyTUVRODc1d0JPOHVtUElGT3hiTnNFMEhJMnpkZWtWdHNKN3YyWW5ILXJNcVVzUjdoWFhoSzBsS1dqeW9uWFMzenZ2dVVCV0tLTllsV3k3NnRwd3E3cURId19KTE1uYkdnb3psM1JnUHBmSjhFQ3laOE05M01DWDd0ZE9vdFFrZGVwekdrak4zaFZvWXJRRV81ZG44dTUyZHppOUhZYS10ZG1lT3A3QVEwYjFfblY2clZUUG14ay12Wmltd1Y5QXRhQUl6c0FR?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -346,7 +346,7 @@
     "w": [
      2,
      14,
-     14
+     15
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      1,
      1,
      10,
-     0
+     1
     ]
    }
   },
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Sekolah Rakyat, 7.000 Keluarga Dapat Bantuan Perbaikan Rumah - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RkT2NlR1NJdExTaWtfaEZndVJOQ3l2SjN6WjRNdWZHTUpqaGFJWFZ1d0dOeDMzRFZLUHhoc1Vyd0I1UjZKS3pPYnF6RmFJU2FCN01zY3VUQmF4anhCRG9zTTNhUlRoSDNOb3lobkpNcHVLWmIxQUQwRlNnN1B0a1N3bUdJb0JyaGMybmZDR3ExVWx4cTk3d2RrczhXYk9VbWxJemlyWXBabVJTaTV1dQ?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Massa yang Demo di Jalan Braga Bandung Membubarkan Diri - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmswb1dRSDl6VFdqRk5zUGVLeXBsQnlwT09jNUNjTWUzR2dvNnlJeVQ0SHVIcUdURjZvcnVnWUhwRlRDUzVCQkdoY2hyaWxqVUR5Z0dlZmlvN0hURS1sUUJOWkU1bXNoVXlVdVp1QVp4dEJkYnYtbmc2QjAxS2s2UTd4cnVvZjZkSWZHVmY0ZWtKZ09yMEhtV1JKN09Ic1pEVHhUMFczS1F4UdIBrwFBVV95cUxQaTlsT3FYc2xscEpwQ3RPRnprb2xQR0dZVG9TTkhwZThGNkN1T1BBSmthQ1JqdnVLWUtuMTd3VnY1b2JCX0JwSjBDMDB4Q2JlVGgwT0I3TkdqekVBa2hYaGtBV01xcHJtTUdBSk9JYU1rNkw0cTNXdUNPcU44cVJFc3ZUS2NNbldMSkN4cFQtb0NjVHd4Qlh5X0tMVEtlenduNURmR3dEUTFlWnFkTjlF?oc=5",
@@ -399,12 +405,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3BCRW0wUmJPR3pCQk50UnM0T013WnNUNEh3dWxxb2ZTamF2REw5MEpSMERfXzhjNDJIVjZ3b0dyUzllQmN2SHBIaGxPSFRYVzFTMENIakFwUjZjQkw1NDJ5T2pUa2FXU0pZTVVXZVRNNXdBUkhDa3pMQkNVeWpuZ01iTUZkRXhWWF84emlZSmFxRDl2LXdyQ3ZYQXNPQTFpOUxnLXptSzE2MElwclYzLUV0a9IBuAFBVV95cUxOaHBTYW9seml1Q1F0ZVlvMS1fWE5vWjJCZ0lOalp6ZXRsdWpZYnl3WW1IVUNqRjNDRVNCbzZzRFBrVUJmVWNzT3J6Rk9zYjRSVDVUTjV0R1dKVUc2RWhDUWFvVVhrLUtKcnpndDlqUUhtd0pabjZoZmdybExoaXZacWJLOHhCZ2xkUXBuOHBXUk1VRHFWR3FyQ1lxLU13WU5oZFkzUV9lNGJveVlGQjJYR29rb2pDRUNz?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Igor Tolic Bongkar Siasat Persib Bandung di Liga Tandang ke Depan, Kunci di Perjalanan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGVNdm1aODNtNkcwSGhFMTFMSVhheFFySjR5a21VVnc5N0tVYTN6RTkyZkZyV2wxWlNZbWd4RXRSbklIU2lvUGFRQUplaW9EMXd6cl81X1BLT2pucGtwRkREYmJSU2tXQnhqbGZrOEtFVG1WQ0lKVXE1Z0RLZHVBSWNZVXA3ano0S2F4aGNXanQzRmJPRVBaVkliVm1KVHpKMFBoUmw2UV9mWTluNVBSVzN0YVlKNXdKcENjRWhlMWZWdko3YmdMY19qZlY?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -427,7 +427,7 @@
     ],
     "w": [
      6,
-     8,
+     9,
      12
     ]
    },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Mensos Siapkan 30.000 Laptop Tambahan untuk Siswa Sekolah Rakyat - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGJ6UjNBS1BYcHV6cjFUUkF4RWxyUkhVMk0zYUQ2YmJOUmcwSlJMaE9UUTFqd0NTa1hSTWEzSVc1emNONVZEZGhTanJJSEFudTdNNXNDMWEyWW5sVWFSYmlCS2ltT0Q4bWg0aWljWmljTXZnVWtvM0MweTlKNFlQelRUaGh6eUpNb0I0a3dValZPSndGRS1taEJpTUpsWWRrNmhOdVVuRmM5R3Z1dGNlTHpRcGdYeXc?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Eks RSUD Soreang Ditargetkan Jadi Fasilitas Pendidikan pada 2027, Tampung Siswa SMPN 5 - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0R5dW5MRHExdzREOHNMU3FibjB4Mk93clVOSVN5WWY1OUVCMVhsZzg0MG1yTUtsaUh3Q0dsTWlfLUswSHFTVmlxbFp4VFBpZ1JOdTdZclBtdlNsZll0RDUxbU54UWoxd0FNUmc0N0lKN2lhWmNlWGtsMEU3dkw5Z3lnTEF2MDFDMGhDci1pb1RXOHpoQjVlUzdkRHdGRGFRVEUwNkNRRWlVZHAwdDFwUU9mbWd3M0pjSGtaR2w1b1duUzdSQ09aeVBXaUFQWWR5aVRpSVVpQ01GemhJenBNNTB30gHnAUFVX3lxTE9tVUJEMVpFSWpFNk12LXh2NE9EeTFrZGVuYW9ib2NJeDNGdkg1UE1WeUFUNXp5Q2xQNlpOZmJZd0xPdW9NRXdROVU5d28xYUhBdlRxQ2hNbDdOLU01ZElBTGFzNXVSMFhBU3ViZER5c0Y1dWFLQXA1NUQ4UmptTEhWN1BySGRieWl1SmpHWlZiYWZfd2R1SEM0blgwZWpNU3lrR3UzY0VwNGd2UWJFSUlqVFkxYlNQTUlVemJtSURCblhvMk8zNnh2OGVOYzFEQVkxaExGb25McEwwNjNEMEE1ejhpQzhGOA?oc=5",
@@ -481,12 +487,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXZ1UlBycG55VE1xZ3lQTTIzbkpvUjZyNGpQSGZobUs4Qy1Idl81RjFkRmZpY1RMUUl0ZndtMVM4UmVmNU52ZHRlZUJjcVBzUzVxR1Vmd01kdWVESVFWbjZMT0pJc09ZRzFnQUdaUlEtUUtsRXJUWC1rcWN4QUdyY3NtR0hUUkJMZzh1N0VqUzVtZ045T1FEOEtRTm9idzU4RG12QnIyNXNSTXM4UU9JS2NqcF9aTnlPX1RUeGdhOGp4RF9KajM0bzA3Y1VDVHU4dlHSAdcBQVVfeXFMT0MwTW1RWTA1OE5tUWV1ZV9KYWF0cTlCeDZ3YWRXWU1oOHBBRDMyNUJKVTZfR0tyR2NNNnJnVk9nVW5qYzFqNnZFbjcyZjFVMDhNUF9FR0NrbGF1cS1KcVFiV193LWZQVVVkTDRDak85RENHb1VRbmp4RGVUcWRCUDlRVlktZjF0N1NkRUFIaUZuMkRYUkJtMjFhU0sxTy0tQTY3ZlZYdWV2UnBLaElyeUZacUppOXRaNUI0OFIxNUxDUGJUV3JvLVFJa0RsQW5DVkFtSmxJS2M?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Gus Ipul Pastikan Laptop Siswa Sekolah Rakyat Hanya untuk di Kelas - detikcom",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UdIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     26,
+     3,
+     27,
      5
     ]
    },
@@ -520,7 +520,7 @@
     "p": [
      0,
      1,
-     2,
+     1,
      0,
      0,
      1,

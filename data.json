@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T02:25:31.157051+07:00",
+ "updated": "2026-10-21T03:18:33.386971+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   24
+   22
   ],
   [
    "Ayo Bandung",
-   20
+   21
   ],
   [
    "Kompas.com",
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Rehab Jalan Pasir Malang Berjalan Lancar, Warga Margaluyu Sampaikan Apresiasi - Delegasi Pemersatu Rakyat",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0OUZLczRuOE5VLWdRTXEyS2drMy1nT1dpT20zU2RRblVvekhoc1ZpQlBrVGJBMHQ3dFRJVk1uYXF0ZkFPdU5KSVpDMzZYLXg1bjBDY2NTY1FiN2VtVEFPeHdBYjl5djZCMG5NdzdqQWxYWnVGY3d6MTFHb2g?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT0J3bDVVSUg3cHkxeURaWDhvMms5MFRwcHlSdkdkSEdkNGdIN2M5NXd3Z3JtOVZNZGlZRjBtYWRaeVNTUGM2WmhoSmR3Njc4dS12RWpGRlQxdTBfREpiZENhdUZvUTI4RzVNX3NZbDZBZE9jYnFzYXlUS0RLQ2VpWE1BeVpnYVNZRXZwZGMyeDZUVC1SbUxXOUZwUkpsSEZiQ1Badld6U3Bzb2hzWTdURXRxWUhzbDUzRGRXMGZsaTJKSUkwYkJUYldYdmlWeHdMMWtXV9IBxAFBVV95cUxQb2t1M1JUUTRDamxKNV9HQ05hSUNjODAwR1YyeTZESVBGSHBLZUwwdGhfN1M3aC1zQkZiS1ZiLUJDdW1kRWVOYkM0OEdPd280dTFVWVpLVDNFR1JJek03bmJ1N1JYSXdZQW12SVN1MnJNN3dudmdpWEhnMGxXNEZPb3ktQ3ZST28xd3N2d0x6b3FYVmtjNm5aMUFnUlB4Q081RGNWby1KY0dKMVlNcThqVUxkVzlxemhpME5la25kbEFWNng3?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "Gus Ipul: Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - Inilah.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxqM1pFNkJiUjJXMEs0R0dUazhtLTN5NXktM09rQWVoX2xJRXI0a1ZabFRUaklMSDJmYW1OOEUzbm9hSmNIS2htc1JXSV91dDNmS2lvSmZ3dV9jUDdpdWRQanMyRVQwTHJoSmtqbk9ldV8yaUhaT1Q4UktaUUt2M2JnOE1sM0V4V3c?oc=5",
-     "r": "Inilah.com"
     }
    ],
    "v": {
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     14,
+     13,
      2
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      2,
      14,
-     13
+     14
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      1,
      1,
-     9,
+     10,
      0
     ]
    }
@@ -426,8 +426,8 @@
      4
     ],
     "w": [
+     6,
      7,
-     8,
      11
     ]
    },
@@ -442,7 +442,7 @@
      "Rab"
     ],
     "p": [
-     3,
+     2,
      2,
      0,
      0,
@@ -483,10 +483,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "Gus Ipul Pastikan Laptop Siswa Sekolah Rakyat Hanya untuk di Kelas - detikcom",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UdIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
-     "r": "detikcom"
+     "t": "Dengar Langsung Aspirasi Mahasiswa Bandung, Wakil Rakyat Siap Mundur jika Ingkar Janji - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXZ1UlBycG55VE1xZ3lQTTIzbkpvUjZyNGpQSGZobUs4Qy1Idl81RjFkRmZpY1RMUUl0ZndtMVM4UmVmNU52ZHRlZUJjcVBzUzVxR1Vmd01kdWVESVFWbjZMT0pJc09ZRzFnQUdaUlEtUUtsRXJUWC1rcWN4QUdyY3NtR0hUUkJMZzh1N0VqUzVtZ045T1FEOEtRTm9idzU4RG12QnIyNXNSTXM4UU9JS2NqcF9aTnlPX1RUeGdhOGp4RF9KajM0bzA3Y1VDVHU4dlHSAdcBQVVfeXFMT0MwTW1RWTA1OE5tUWV1ZV9KYWF0cTlCeDZ3YWRXWU1oOHBBRDMyNUJKVTZfR0tyR2NNNnJnVk9nVW5qYzFqNnZFbjcyZjFVMDhNUF9FR0NrbGF1cS1KcVFiV193LWZQVVVkTDRDak85RENHb1VRbmp4RGVUcWRCUDlRVlktZjF0N1NkRUFIaUZuMkRYUkJtMjFhU0sxTy0tQTY3ZlZYdWV2UnBLaElyeUZacUppOXRaNUI0OFIxNUxDUGJUV3JvLVFJa0RsQW5DVkFtSmxJS2M?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -503,8 +503,8 @@
     ],
     "w": [
      3,
-     29,
-     4
+     28,
+     5
     ]
    },
    "trend": {
@@ -532,7 +532,7 @@
      0,
      1,
      0,
-     2,
+     3,
      0
     ]
    }

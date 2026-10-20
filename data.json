@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:21:39.341324+07:00",
+ "updated": "2026-10-20T14:32:10.904075+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   25
+   26
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   14
   ],
   [
    "Kompas.com",
@@ -24,18 +24,14 @@
   ],
   [
    "Ketik",
-   6
+   7
   ],
   [
    "Disway",
    6
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
-  ],
-  [
-   "jabarekspres.com",
+   "PPID Kab. Bandung",
    5
   ],
   [
@@ -47,7 +43,15 @@
    4
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Koran Gala",
+   4
+  ],
+  [
+   "jabarekspres.com",
    4
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Radio PRFM",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,21 +79,21 @@
    ],
    "h": [
     {
+     "t": "Rp334 Miliar Disetujui untuk Irigasi, Kabupaten Bandung Perkuat Perlindungan Lahan Pertanian - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWZDSTMwV09RM2FHVnJNNHpMTXg1TjA5Skl4elhhcFpuMWplZFY5ekNhdU5ycVdmVUlBcG5ZU21VZHFzN3VpSnVSXzhuc29CVnlJdzNSYkIyTVpmc1RuRGxHNlQ4M2tqSGZDUXRSeTJwTGowR09palF1SzZSUWlWNFI2TjFRNU1uel9mdElzMkVOLVNTQXJ4VV9helN4NG5jVkZwQ3FtbUUtOG9KUktzaDBiWdIBswFBVV95cUxNSWZDSTMwV09RM2FHVnJNNHpMTXg1TjA5Skl4elhhcFpuMWplZFY5ekNhdU5ycVdmVUlBcG5ZU21VZHFzN3VpSnVSXzhuc29CVnlJdzNSYkIyTVpmc1RuRGxHNlQ4M2tqSGZDUXRSeTJwTGowR09palF1SzZSUWlWNFI2TjFRNU1uel9mdElzMkVOLVNTQXJ4VV9helN4NG5jVkZwQ3FtbUUtOG9KUktzaDBiWQ?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Wujudkan Komitmen Swasembada Pangan, Pemkab Bandung Gelar Ajang Taniverse 2026 - Gerbang Patriot",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGRHYjQ3UnN3OUkzLXV2OFJNWThqaXBjRnJLV3ViN1htYlU0azZiZ1NPenBIZFRhaF9mRlUtaGxCYThpZnhtNXkzR3VieFByU3kwenF3Uk42Z25sLTJOWjZQVU9oOGM1NUVadHdaU3M2TDRoYnhsQk5WeEVxVkRNODJiRlJqRUFZaDlCaUNSd2JyZTZVekl3bzlHYW5vT0JPNDZmc09pVFMxemRuSG1uaHh3U3ZJSDQ?oc=5",
      "r": "Gerbang Patriot"
     },
     {
-     "t": "Bupati KDS Siap Sukseskan Bedah Rumah 3.047 Unit di Kabupaten Bandung yang Didukung APBN - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzVQcEQ1WXpMX2hQcEQtc3RKSGpWY1JRVVV5VjczYjgwcnFaSTJZT1FTMmh6YjBieTdmNzBoOGFVZWE4N19iRzBQdHFxU2Z1TWVXd19GOElOU1gtRHZRZDI5WHRTZXhMMFN5bXJ1YjhCS09TUmNJS3dla2gtbVdmX1duY1pyamwzOWhuc1BiNTdzV0tueV9JUjN2WTZGTmxHcmJpbWdjRWliY0JaN2NoUXpnTGhYWkNIeWV3WWhnMDdyek1VOGE5V2ZJY3NUUFRmRmtOb3I5UGU2cHM?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Pemkab. Bandung, Program Bedah Rumah menuju Masyarakat Sehat - RRI.co.id",
+     "t": "Hari Pangan Sedunia Pemkab Salurkan Bantuan Benih - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JxTUNaNThvdEJyM0luYkZEUzhLeDJ5RXVnWmZGVkVSUE1wb2JDWXZtSHFWcFcyOUtNZU9WM2xEMXBhQTM1MU9LZFZMTWx3TFpuRVFzbEhkeUlfclpGN29NNnNnUnB2QUxXU0ZpRFI1S1VIOFV3eEFIZVpCbndlMGlXb1A0YUFXRjdwVTNMUHpSd0Y5Z3RnM2ZXbkhzdDhvR3Zv?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnRXN1JFM0tCNmZhTENkZVFCbEI4Mm5YSmRSdEktcEJ4a2pvVWJnc0VPV09pTEZYdWtXVE5WWWFPaE5JVUZSRlJBRkhET0FPMzREbnM1RE5UMUZWQVptZV9OYk1pem1EMElsem9fYmpLUWc2aEJleXJkQVk1M3pKdzlGdmRxUHo1SDZwWEFiYWFYSnBmcEpj?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -421,7 +421,7 @@
     ],
     "w": [
      6,
-     5,
+     4,
      16
     ]
    },
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Kebijakan Siswa Tak Otomatis Naik Kelas, SMA Pasundan 1 Bandung Sudah Terapkan Sejak Lama - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzJtdV9nVEFFVVoxQXdzLTVWTXd6RXJfSmViU0pZcWdjMGZlbWlRdGV1WkVXUXM4UEttczR3YWUxaXRVTlRVRVpIV2RRVVZPX2xRR1VQZWc1V2ZkbVh4MnNuSnlYZmlVbVV0ZVgzbU1VRU1wZXJmbVRjVl9JVDJBdXRBdVAzZnFwLTNja29KU0lIX3VHWjZCOE53NkxJWmhUVG9DUEQ3c29BZ1kzYm5ZYUNHY1lTSDBLZ3JNY2pCV3JEVUhHazk2aHRrSkVtRHZYcDZFd2RR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Kepala Dinas Sosial Kabupaten Bandung Dampingi Bantuan Renovasi Rumah Keluarga Siswa Sekolah Rakyat di Rancaekek - PPID Kab. Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOUpCck0tQzRDXzVqWFUxSUc5Yl9mcUs1WXVRcnNSRVc1dnlGUVRJS3pCTHFKSUZTSVJDeDNCZE1MUFFsczJkU0gyN1NhNW9JeTNCSmhpWlQtWmFNVC1Gd3VheGtaRmV2SXI4MHhydlpPUko2a3pDZTRjamo2WVg0bHhOZnZjSEpiWTZ2MGJIOG5tV3BWNU0tT1NvemtqR0hURU9aNWNvelJzMmVtQ19fdVdVRXQ2OUpDS01HMEZGTFY0dU5pbEtRUHBaTHpURC1UQ2lJQ0wzNjJaLS1tcEIyQVJmbEdjdFhhcks1X1h0Q0ZLc0dJSmc?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Berita dan Informasi cegah perundungan sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRVdCQkVNczM3dTBsb2dramNyeUtKWVBaYzhWbG1BeVBYV0lxUzFwWEZJYjQ0Qmszb3E3ak5KVzBKRXhxTmdOOVYydzF6Mk1IR1Nta05CUjU5Y2Njb056UG83TmxwZGtBR0RjU3ZB?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "126 Siswa Masih Menumpang Belajar, Eks RSUD Soreang Ditargetkan Jadi Sekolah pada 2027 - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVFsQU5RZmVlOVJ5S1J6SjJDUjh3MFBxZ0lkMFduS2VzWFFJYnctM0dZWjRPSDFlMDlTTTZVYXQ4eklfeWkzLVJCbU1jcW9mMjg2TVVta2J3MkRxZDh0eEZSdU1nemEzSUJKMmZvZTdmb0dxOHVoYXYzOE5oSHpsc1pZQUdyM3hNemVMQjZNQ2Z2ODJCNUZXTjlCN3o4aGo3ZGg2WGpEdW9WbGVBdHJNelVPdDd0V2FMSzlXZE83VTAzeVhQT0lEQ3lRaUlwRjBMSjJHVWZobXNGOXZjUXdzSkp30gHnAUFVX3lxTE1KdUJyVFZYQ0RKc1k4T0lVd2pXT2tjeDBnRHhuQ0ExWEdfb05ZMlN2amtuY3BuOVIteHlkbWtmSkdMS0RrMThYZkdoRng2LU80RGU2ZUpvWG00b2VmWmVLdkIxamJJUGgycXRrZkx2NW5GbXNvRjdDVGNXc2JkZ1NBZjM4WnZzTjF6RlMzTlk1QTY3eXd2SWo4NDMtX09MeHZNZnp4di1feUNnVFZtVktmQVpHakhtOGRfMWxVTGR5QTBLWndJRmpyMVZXaTRnczNFOW1sa2xfN3hDYk0xdTBKSlRWRG5tMA?oc=5",
-     "r": "Radio PRFM"
-    },
-    {
-     "t": "Hasil Lab Menu MBG Negatif, Keracunan Siswa di Cisarua Diduga Imbas Perilaku Tak Higienis - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVlBX0NHOHpXY1kyeTllaW05cG12N0VkQ09iN0xMQlZXYVR6TEl2OFJPbWlzb0JJdjl4ODUwU1QzSlB3Vy1UcXc2WXZlSDFlRnpjT3ZOS3hZWExmREZ5Nm8tUThCaHVnUmpfX2tSdU8wQ0Rjb0ZtSlBoUTM4dm90UkdlMHEtRXlFV2RhVEk3Um9ZalNmSE1qZG9oY3Z6WVF3ZGtIbUxSaUNFVjQxSW5SWTJ1NVQzOUY5OTdVT2VHNjl0a2NvQ2lkUEVMZko0d3RX0gHQAUFVX3lxTE9NWUFfQ0c4eldjWTJ5OWVpbTlwbXY3RWRDT2I3TExCVldhVHpMSXY4Uk9taXNvQkl2OXg4NTBTVDNKUHdXLVRxdzZZdmVIMWVGemNPdk5LeFlYTGZERnk2by1ROEJodWdSal9fa1J1TzBDRGNvRm1KUGhRMzh2b3RSR2UwcS1FeUVXZGFUSTdSb1lqU2ZITWpkb2hjdnpZUXdka0htTFJpQ0VWNDFJblJZMnU1VDM5Rjk5N1VPZUc2OXRrY29DaWRQRUxmSjR3dFc?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     27,
+     26,
      4
     ]
    },
@@ -514,11 +514,11 @@
     "p": [
      0,
      0,
-     2,
+     1,
      5,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -526,8 +526,8 @@
      1,
      0,
      1,
-     1,
-     1
+     0,
+     2
     ]
    }
   }

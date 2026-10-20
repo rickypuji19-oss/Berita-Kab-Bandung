@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:19:15.045583+07:00",
+ "updated": "2026-10-20T07:18:37.149244+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,18 +12,14 @@
   ],
   [
    "Tribunjabar.id",
-   22
-  ],
-  [
-   "Ayo Bandung",
    21
   ],
   [
-   "Kompas.com",
-   7
+   "Ayo Bandung",
+   20
   ],
   [
-   "Koran Gala",
+   "Kompas.com",
    6
   ],
   [
@@ -39,15 +35,15 @@
    5
   ],
   [
+   "Koran Gala",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
   [
    "ANTARA News Jawa Barat",
-   4
-  ],
-  [
-   "jabarekspres.com",
    4
   ],
   [
@@ -60,6 +56,10 @@
   ],
   [
    "Jurnal Soreang",
+   3
+  ],
+  [
+   "jabarekspres.com",
    3
   ],
   [
@@ -118,7 +118,7 @@
     "w": [
      3,
      27,
-     5
+     4
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     5,
+     4,
      0
     ]
    }
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     17,
+     16,
      3
     ]
    },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Proyek BRT Bikin Cicadas Makin Macet, Farhan Tegaskan Bakal Galak ke Pelaksana Proyek - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUERGY3NEZFFjcG9ZQnFfTkRjdGllTFF1MV9rT1lLMW0yb1BJemwycjhWN3EzdWYyNERlX01wcHR5RTVESVFkT2w2emgzOTIzR1dKZFItWFFfNGtUeWRvaUhSUVJ6WFFLY0I4Tm1WelJXcXpEbTF0ZnZXVi1CM0tqc0U4eGNPT05ZN2ZkNVRSSzdMUGV1aERXWEdJeTNFRHdTRWx4NHpPU0VRRHpiYWdMNHNLX1hNa3JYQXZsRWQxYmZ2a296RW9BZzVKSEV1QVZk?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Eceng Gondok Disulap Jadi Pupuk dan Paving Block untuk Bantu Korban Longsor Pasirlangu - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2hBUHFadkNUMzViYmtIdm1rajFpYlRWRWdmdGpnNUFzSWNWVGZ2dzdXQzZQMWhET3kzT3c1NXJtR0R0bEZscFBDNXVoc3NaZm1JdGxxemtoT29IRjBjQ3RmaFB0TFZjaG95MzVNQ1U1VmxsUmVjWDhNSEhRVDlLSGdVRHFnTjQtNURic18tU29Dc2MwcW1mSGZPWWMzNDZSVXdjVnh4UTlSNllwZFZfZm51Yzd0eF96eXFqX0ViU09sZzhXV0QxZEsxOE01VmtIWXJr0gHYAUFVX3lxTE1MRDVCbzlsN0VoaWpodzFycVVZMmVKY1pQNVpJQ1I5UFBwVG9oNE9fT2VweURwdkRxVHZ1Uk52WVpZbXo0RkRuekM5ckh3NTJiLUY5NTd4dGc4OUFkM1Radm82SkdIdzUySEM5UWc5U3RvVFF0UG1Sd19qNy1JV1lWd1dxSThDaW5jS3FJeXNMMjVsWjcyUXFEaTl6dFFueXRJMjBtNkFIX011S01rbWF0YUZkYzBuNnlDcS0wZko5eVVSbjI2V3JlaTJycDhsWXBhNjJLRmJ3bw?oc=5",
@@ -392,12 +398,6 @@
      "t": "Terminal Ledeng Bandung Ditutup demi Dijadikan Stasiun Akhir BRT, Angkutan Dialihkan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSy1hc3lxQ3lmaXFnQ1ZCZXUxRDQ1MnVhVnZaY2ViblBxcnl1ZXN0aXpxNkNtazFMOUcyZEZWMGpaMjRJQUhZT2c0dkd4cUJIY3BFUHJXMGI2RFRwVDhOa2xRcTJNMmhPTVE5VmRZQmE1M3hmNUFBZHRpR1h3b0VYb3FHbFFET1E2WFJwSFdWZzhNZXl1ZmVwUmRuWk16Qm1rVjZSRTFEVzdoM2dsNzJfZXNXUnRlMjZfSDQ1X0NoR2VkWGRvOU15TmNvRk5CTVU?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Halte BRT di Tengah Jalan Cicadas Bandung Sudah Berdiri Kokoh, Kemacetan Masih jadi Sorotan - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWtIRklaRllRbDZRV3VXQjJUSE9fWjNPbkNIcWtZXzFlSEZ4QWJRX2NELWYtdTNQei1LMUl6ck91Q3I0dU85Unh5ZE1LRDZiSEFMZHIxTG5kNkJiSFNYSjduYWZvclhYS016YUxJa2tvTThZQzYwMFN5cFR2V2NuMjFVNm11bUtEa1RsbkE3amZyZW1NOVRMd0RpSDkwU2tPLU9aaDIwUTJ6LVIxamNPaFJtbVlyMGh1Rl9lemNhMEpsMTI1anRaNFZaVmdweEdKTGxlbVJiaFo?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      6,
-     6,
-     17
+     5,
+     16
     ]
    },
    "trend": {
@@ -445,13 +445,13 @@
      0
     ],
     "g": [
-     8,
+     6,
      6,
      2,
      2,
      1,
      3,
-     0
+     1
     ]
    }
   },
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     27,
+     28,
      4
     ]
    },

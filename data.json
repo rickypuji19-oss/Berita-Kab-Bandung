@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:20:50.518820+07:00",
+ "updated": "2026-10-20T19:21:04.577341+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   26
+   24
   ],
   [
    "Tribunjabar.id",
@@ -23,12 +23,16 @@
    8
   ],
   [
-   "Kompas.com",
-   8
-  ],
-  [
    "Disway",
    7
+  ],
+  [
+   "Kompas.com",
+   7
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   5
   ],
   [
    "Satumedia.id",
@@ -41,10 +45,6 @@
   [
    "detikcom",
    5
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   4
   ],
   [
    "Inilahkoran.id",
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     7,
-     27,
-     4
+     6,
+     28,
+     2
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     3,
+     2,
      5
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     0,
      2
     ]
    }
@@ -340,7 +340,7 @@
     "w": [
      1,
      11,
-     14
+     13
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     7
+     6
     ]
    }
   },
@@ -422,7 +422,7 @@
     "w": [
      6,
      7,
-     13
+     14
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      4,
-     5,
+     6,
      2,
      2,
      1,
@@ -467,7 +467,7 @@
     {
      "t": "Gus Ipul Pastikan Laptop Siswa Sekolah Rakyat Hanya untuk di Kelas - detikcom",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UdIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTm42bGstZlMtNHlscnN5c1ZKY08xQTlmMC01c2JUa09qLV9aRGNkaW9SdTBJdFYtYlRTTmUzeDlFUnQ1MV9tb1ZmdTRsUUEwczdydWlqMnhZR2VkMjM1Wm95dEdfUkI3OW53MmJZUkhrQVJ1ejVnLVp1Tl9ER1ZSZGRVTEs0TVVYeU5FZmlhbm9xaTVJWGdOTGxfZk1JMVZ2d1VFZUp2aEV1S3RfS1VzddIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
      "r": "detikcom"
     },
     {
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      28,
      4
     ]
@@ -514,7 +514,7 @@
     "p": [
      0,
      0,
-     1,
+     2,
      3,
      0,
      0,

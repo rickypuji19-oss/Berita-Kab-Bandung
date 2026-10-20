@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:23:40.229171+07:00",
+ "updated": "2026-10-20T22:22:44.942807+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
@@ -20,7 +20,7 @@
   ],
   [
    "Kompas.com",
-   9
+   8
   ],
   [
    "detikcom",
@@ -31,10 +31,6 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   5
-  ],
-  [
    "Satumedia.id",
    5
   ],
@@ -43,7 +39,7 @@
    5
   ],
   [
-   "Inilahkoran.id",
+   "ANTARA News Jawa Barat",
    4
   ],
   [
@@ -57,6 +53,10 @@
   [
    "Pikiran Rakyat Koran",
    4
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ],
   [
    "Galamedia News",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sespimma Polri Angkatan 76 Perkuat Arsitektur Sinergi Lintas Sektoral di Kabupaten Bandung, 126 Calon Pemimpin Polri Dalami Strategi Pembangunan Daerah - SwaraJabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3VWbzNwb05mN1h1elFBVXpoY2g0UUVyTDlXUXJUd2NNSTU3T1AwYnhiWTVMcTBvbWFrcy1TekZPeFJyUGptcnk5dFBaZWg2WGtPdVVHQnRIR1hQMTFZbVMzZVpjeVlIT1lyQXdIQ2plNnlObnBTbVFYZllXd2hYTmNJTDdUR2o0RTB1OHFCZHdhM3lUMUREQ2FZUVZ5bF9QbE5GWWtlWDlDaXJuNlBjUnh6NnBWWXFNeHpZR2x5UVVraXl2RHhlYmNfc3FzYnJvRnRWOFNHTzBTc2ZhcTlqbm5rYnkydTVKS3hwV2FZemtQdjFEZk4wLU5sbEI0SGQ5OXhj?oc=5",
+     "r": "SwaraJabar.id"
+    },
+    {
      "t": "Pemkab Bandung Alokasikan Rp40 Miliar Dana Panas Bumi untuk 56 Desa pada 2026, Infrastruktur Jadi Prioritas - pantau.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV29jWXlRamh1R1hHX081cG5yNWcxSWNraDUxVXFQRkczai1PODZfNGFOd01NNGhsNXY3cnVUanRYeFhubFIxeHlDRUg1eFhiUnBnME8wMTZIT19JYUdQbWVLVUhlVDJ2VGt5NzIzN0lRSTRXa2lKNlpqOWZCUGc3RWRiSHRsalFkcEdJd2c3WEpRVDBYV09Eb3NvNXlvUWVyZHBzUGRoRXU3ZFNDOTk4NmxYWmIwdXBBcjRQeTFWTDVwTUJ1NUxwX3FnQWFzVnVGTTVzQ3NYTE5KWTJY?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "126 Siswa Sespimma Polri Gelar Diskusi Lintas Sektoral dengan Pemkab Bandung - guecikarang.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1ZWSW5jcFBNUWFNSENZUXBQcmlYQXNfUlhTcmRtTzBBV3VmTGNQT3NEZVdOZUpLLVNTclR1MWdrWU8zeXZTOGVQeE9aWHg2elRVVGt5Nk5pWElMN2VmSUpkWGdMYXc5MWhxZEFmRlJZSVFCTHVfWnMwNml0dDltYjZZdDJTYzhWYlA2Z0NDRG1oWkk3eWtTTW1OSndMazVQUWpUR3pVa1lsOGo1UGh4bEF2N04?oc=5",
-     "r": "guecikarang.co.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     15,
+     14,
      2
     ]
    },
@@ -420,7 +420,7 @@
      5
     ],
     "w": [
-     7,
+     5,
      7,
      13
     ]
@@ -437,11 +437,11 @@
     ],
     "p": [
      0,
-     3,
+     2,
      2,
      0,
      0,
-     1,
+     0,
      2
     ],
     "g": [

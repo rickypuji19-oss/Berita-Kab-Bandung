@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:23:46.702785+07:00",
+ "updated": "2026-10-21T00:24:16.215759+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,22 +16,14 @@
   ],
   [
    "Ayo Bandung",
-   14
+   15
   ],
   [
    "Kompas.com",
-   10
-  ],
-  [
-   "detikcom",
    7
   ],
   [
    "Inilahkoran.id",
-   5
-  ],
-  [
-   "Satumedia.id",
    5
   ],
   [
@@ -47,11 +39,15 @@
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Satumedia.id",
    4
   ],
   [
    "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "detikcom",
    4
   ],
   [
@@ -60,6 +56,10 @@
   ],
   [
    "Galamedia News",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ],
   [
@@ -113,41 +113,41 @@
     "s": [
      1,
      1,
-     2
+     1
     ],
     "w": [
-     6,
-     27,
+     5,
+     26,
      2
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
-     2,
-     5
+     1,
+     5,
+     0
     ],
     "g": [
      1,
-     1,
      0,
      0,
      0,
      0,
-     2
+     2,
+     0
     ]
    }
   },
@@ -167,16 +167,16 @@
      "r": "Delegasi Pemersatu Rakyat"
     },
     {
+     "t": "Cegah Kelangkaan Pangan, Sespimma Polri 76 Gelar FGD Bersama Dispakan Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT0J3bDVVSUg3cHkxeURaWDhvMms5MFRwcHlSdkdkSEdkNGdIN2M5NXd3Z3JtOVZNZGlZRjBtYWRaeVNTUGM2WmhoSmR3Njc4dS12RWpGRlQxdTBfREpiZENhdUZvUTI4RzVNX3NZbDZBZE9jYnFzYXlUS0RLQ2VpWE1BeVpnYVNZRXZwZGMyeDZUVC1SbUxXOUZwUkpsSEZiQ1Badld6U3Bzb2hzWTdURXRxWUhzbDUzRGRXMGZsaTJKSUkwYkJUYldYdmlWeHdMMWtXV9IBxAFBVV95cUxQb2t1M1JUUTRDamxKNV9HQ05hSUNjODAwR1YyeTZESVBGSHBLZUwwdGhfN1M3aC1zQkZiS1ZiLUJDdW1kRWVOYkM0OEdPd280dTFVWVpLVDNFR1JJek03bmJ1N1JYSXdZQW12SVN1MnJNN3dudmdpWEhnMGxXNEZPb3ktQ3ZST28xd3N2d0x6b3FYVmtjNm5aMUFnUlB4Q081RGNWby1KY0dKMVlNcThqVUxkVzlxemhpME5la25kbEFWNng3?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Gus Ipul: Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - Inilah.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxqM1pFNkJiUjJXMEs0R0dUazhtLTN5NXktM09rQWVoX2xJRXI0a1ZabFRUaklMSDJmYW1OOEUzbm9hSmNIS2htc1JXSV91dDNmS2lvSmZ3dV9jUDdpdWRQanMyRVQwTHJoSmtqbk9ldV8yaUhaT1Q4UktaUUt2M2JnOE1sM0V4V3c?oc=5",
      "r": "Inilah.com"
-    },
-    {
-     "t": "Populasi 77 Ribu Petani di Kabupaten Bandung, Mayoritas Berusia Lanjut - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXBvQjNTcm5ObFM1eXh0TDNBal9BcUZ2OFl3QnFUeE9vcGJZeGpKTURFZ2MydF9CY1pMdHhsblh2c0dHUnNGQzNTYng4YmlWcmJDbHZSeU9GdjhjMXhlVWpLYWpfY1JGSGUzLUYybFhNeFRld0h0LXd3Nml2NnZGcm9ra1Y2NDh0aDAyUEpuSW1oUVAwazhNVFhwaTE?oc=5",
-     "r": "Inilahkoran.id"
     }
    ],
    "v": {
@@ -187,28 +187,28 @@
     ],
     "w": [
      6,
-     13,
+     11,
      2
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      1,
      1,
      0,
      1,
      0,
-     3
+     3,
+     0
     ],
     "g": [
      0,
@@ -216,8 +216,8 @@
      0,
      0,
      0,
-     0,
-     2
+     2,
+     0
     ]
    }
   },
@@ -275,29 +275,29 @@
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      0,
      3,
      0,
      0,
      1,
+     0,
      0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      2,
+     0,
      0,
      0
     ]
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Tiga Polisi Terluka Akibat Penyerangan Truk Dalmas Polrestabes Bandung di Sulanjana-Cikapayang - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOWdRU1QwUjZOOEpTM3JCUFpKQ1BTZGt3LTBNVE9QZGFKN01MUlFOeFZJZm1wTFcwdHVfSnJKV050b3kxNHZOaDhrcVRMem5QRHcxUnN5SWhQeElCZjUwazg4bFZpNWIyVFdZRExyaGFMRks4dFI4VVJMZjFkSUFzZUpwVmNoREh5UVVucEw1NHRqdFNJdDNiT2NUYk1WX2tPV3FNWThPemJwY0s0VDc1T3NsYlZqUGVUekZfd3h0NUV3dVhOemJFckV0Y3ZTZklPVGl6UTRxejBrWm5kbnc?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVhpWl9ONW4xQk9INHRZQl9NU0dQUUJsU0ZyYm1zSm9WbVJQOElMdEhrenJnNHNva2ZvaDJYZFJMSGJhVGNlLWt3VGNBMk55cnE4Y3dVN0E1dzF5SHdaUjdkRlBGeDJFYVJuOGZPSlZSd01md1B0R3FMTW9nTUp5UEhHaXpWOGNXWmhQMU9hdWtpZDVHLTFaejYzU3hjdXNlZ1BwSE9iZzZDRi1fWXpHbWh4MmZBbUpVTnpIZFF3N1ZMWHdVWWc?oc=5",
@@ -323,12 +329,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpCendMb0d3NXNZUzJBd3RPZkFINXF5VVBBTTFqWHRxOVVRbGVTbmRpZ1h4NC05cDlqbnZqLVMxY012UjFLZ1lISFQtVG9FbUMtS2N3RncySzFOZnM1UFVyd2dySERXNTJmb1dVVHRtTGY3VTFMV2tkbFJheVhmbjg4SFlMenZuc3hvWGFyeHRwVmZ0UkoyVENpUDh2V3NTR1E4RVcxUWpST1FrUUhDckpJblJobWdfbGlDcGlKYW1SbW85UXIteFhScHlMTF9VSjZoZHZtZ3ZNSGx0M25rQ1UwekZuZU9QNjVwNGV3?oc=5",
      "r": "| kejakimpolnews.com"
-    },
-    {
-     "t": "Dari Sajam ke Sajadah, Upaya Polisi Redam Aksi Geng Motor di Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTJ1OFRWc0hSN1BNNHlsU01NQk5RcDF5ajY1S3ZwUFNXcFVRMkRkekt2WFI1ZF9WTUhmS2FGTGcyNUI0YVItUVBBYUZuaUpmLTVmRmVYd2toWlpNc2hOTW00Rk1LeVpxWmRtZkNsN0RxYk8zVmljS2k4RlhtSm41Yk1NeU5fVi0tWVZ5aTEtV2xkQlNkOUpJeUN2V011VXpOUm9uRFBTTm9QZ282V1B6VTBxaFhwOXJJdFhOMXNBWFgtRU1vZ1FV0gHHAUFVX3lxTE9RMnU4VFZzSFI3UE00eWxTTU1CTlFwMXlqNjVLdnBQU1dwVVEyRGR6S3ZYUjVkX1ZNSGZLYUZMZzI1QjRhUi1RUEFhRm5pSmYtNWZGZVh3a2haWk1zaE5NbTRGTUt5WnFaZG1mQ2w3RHFiTzNWaWNLaThGWG1KbjViTU15Tl9WLS1ZVnlpMS1XbGRCU2Q5Skl5Q3ZXTXVVek5Sb25EUFNOb1BnbzZXUHpVMHFoWHA5ckl0WE4xc0FYWC1FTW9nUVU?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -345,37 +345,37 @@
     ],
     "w": [
      2,
-     13,
-     16
+     11,
+     14
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      1,
      0,
      0,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     2,
      1,
      1,
      1,
      1,
      1,
-     10
+     10,
+     0
     ]
    }
   },
@@ -423,41 +423,41 @@
     "s": [
      1,
      0,
-     5
+     4
     ],
     "w": [
-     6,
      7,
-     13
+     7,
+     10
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
-     2,
+     3,
      2,
      0,
      0,
      1,
-     2
+     2,
+     0
     ],
     "g": [
-     4,
      5,
      2,
      2,
      1,
      3,
-     1
+     1,
+     0
     ]
    }
   },
@@ -493,18 +493,12 @@
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=0nie2O5wOp0",
      "r": "YouTube Info Burinyay"
-    },
-    {
-     "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=cBMiT0cZNNI",
-     "r": "YouTube humas slbncintaasih"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     1,
      0
     ],
     "w": [
@@ -515,31 +509,31 @@
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      0,
      2,
      1,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
-     0,
      1,
      0,
      1,
      0,
-     2
+     2,
+     0
     ]
    }
   }

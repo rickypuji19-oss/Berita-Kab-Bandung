@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:22:00.322095+07:00",
+ "updated": "2026-10-21T02:25:31.157051+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,31 +12,27 @@
   ],
   [
    "RRI.co.id",
-   22
+   24
   ],
   [
    "Ayo Bandung",
-   19
+   20
   ],
   [
    "Kompas.com",
-   6
-  ],
-  [
-   "Inilahkoran.id",
-   5
+   7
   ],
   [
    "Disway",
+   6
+  ],
+  [
+   "ANTARA News Jawa Barat",
    5
   ],
   [
    "jabarekspres.com",
    5
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   4
   ],
   [
    "Satumedia.id",
@@ -49,6 +45,10 @@
   [
    "detikcom",
    4
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ],
   [
    "Ketik",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Sespimma Polri Angkatan 76 Perkuat Arsitektur Sinergi Lintas Sektoral di Kabupaten Bandung, 126 Calon Pemimpin Polri Dalami Strategi Pembangunan Daerah - SwaraJabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3VWbzNwb05mN1h1elFBVXpoY2g0UUVyTDlXUXJUd2NNSTU3T1AwYnhiWTVMcTBvbWFrcy1TekZPeFJyUGptcnk5dFBaZWg2WGtPdVVHQnRIR1hQMTFZbVMzZVpjeVlIT1lyQXdIQ2plNnlObnBTbVFYZllXd2hYTmNJTDdUR2o0RTB1OHFCZHdhM3lUMUREQ2FZUVZ5bF9QbE5GWWtlWDlDaXJuNlBjUnh6NnBWWXFNeHpZR2x5UVVraXl2RHhlYmNfc3FzYnJvRnRWOFNHTzBTc2ZhcTlqbm5rYnkydTVKS3hwV2FZemtQdjFEZk4wLU5sbEI0SGQ5OXhj?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXBvQjNTcm5ObFM1eXh0TDNBal9BcUZ2OFl3QnFUeE9vcGJZeGpKTURFZ2MydF9CY1pMdHhsblh2c0dHUnNGQzNTYng4YmlWcmJDbHZSeU9GdjhjMXhlVWpLYWpfY1JGSGUzLUYybFhNeFRld0h0LXd3Nml2NnZGcm9ra1Y2NDh0aDAyUEpuSW1oUVAwazhNVFhwaTE?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Pemkab Bandung Alokasikan Rp40 Miliar Dana Panas Bumi untuk 56 Desa pada 2026, Infrastruktur Jadi Prioritas - pantau.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV29jWXlRamh1R1hHX081cG5yNWcxSWNraDUxVXFQRkczai1PODZfNGFOd01NNGhsNXY3cnVUanRYeFhubFIxeHlDRUg1eFhiUnBnME8wMTZIT19JYUdQbWVLVUhlVDJ2VGt5NzIzN0lRSTRXa2lKNlpqOWZCUGc3RWRiSHRsalFkcEdJd2c3WEpRVDBYV09Eb3NvNXlvUWVyZHBzUGRoRXU3ZFNDOTk4NmxYWmIwdXBBcjRQeTFWTDVwTUJ1NUxwX3FnQWFzVnVGTTVzQ3NYTE5KWTJY?oc=5",
-     "r": "pantau.com"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -187,8 +187,8 @@
     ],
     "w": [
      6,
-     11,
-     2
+     12,
+     1
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      0,
      0,
-     2,
+     1,
      0
     ]
    }
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     13,
+     14,
      2
     ]
    },
@@ -319,16 +319,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0J3UXctci1qdjF3Q09xek5FV29qQUtRdE03RG1yWTJvNi1EeTRyYlpxRDB4UVNmVVZQWDJ3aWk3cHE2ZnU5VGVPYkpMTU1FbjZQNWEzbnQySTVGMnlJc1c3TDJibEdHaXBUSER1UENvempfeFU0bWY4bXlqWlZwcWFZQnNkNExGXy1laEhBUk84MzdOVjVLNy1aRGhXblA1Q2ZnREFHelFwYmJIQzN6RDg0MjA4WVR4cGFJb1Z1b1htMzlxeWFXSl9laGdmUFp5LXo2R3NYNXJSNGxNN056V09iMkk?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Dalam 10 Hari Polresta Bandung Gulung 52 Tersangka Narkoba dan Sita Barbuk Bernilai Rp1 Miliar - | kejakimpolnews.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpCendMb0d3NXNZUzJBd3RPZkFINXF5VVBBTTFqWHRxOVVRbGVTbmRpZ1h4NC05cDlqbnZqLVMxY012UjFLZ1lISFQtVG9FbUMtS2N3RncySzFOZnM1UFVyd2dySERXNTJmb1dVVHRtTGY3VTFMV2tkbFJheVhmbjg4SFlMenZuc3hvWGFyeHRwVmZ0UkoyVENpUDh2V3NTR1E4RVcxUWpST1FrUUhDckpJblJobWdfbGlDcGlKYW1SbW85UXIteFhScHlMTF9VSjZoZHZtZ3ZNSGx0M25rQ1UwekZuZU9QNjVwNGV3?oc=5",
      "r": "| kejakimpolnews.com"
-    },
-    {
-     "t": "Dari Sajam ke Sajadah, Upaya Polisi Redam Aksi Geng Motor di Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTJ1OFRWc0hSN1BNNHlsU01NQk5RcDF5ajY1S3ZwUFNXcFVRMkRkekt2WFI1ZF9WTUhmS2FGTGcyNUI0YVItUVBBYUZuaUpmLTVmRmVYd2toWlpNc2hOTW00Rk1LeVpxWmRtZkNsN0RxYk8zVmljS2k4RlhtSm41Yk1NeU5fVi0tWVZ5aTEtV2xkQlNkOUpJeUN2V011VXpOUm9uRFBTTm9QZ282V1B6VTBxaFhwOXJJdFhOMXNBWFgtRU1vZ1FV0gHHAUFVX3lxTE9RMnU4VFZzSFI3UE00eWxTTU1CTlFwMXlqNjVLdnBQU1dwVVEyRGR6S3ZYUjVkX1ZNSGZLYUZMZzI1QjRhUi1RUEFhRm5pSmYtNWZGZVh3a2haWk1zaE5NbTRGTUt5WnFaZG1mQ2w3RHFiTzNWaWNLaThGWG1KbjViTU15Tl9WLS1ZVnlpMS1XbGRCU2Q5Skl5Q3ZXTXVVek5Sb25EUFNOb1BnbzZXUHpVMHFoWHA5ckl0WE4xc0FYWC1FTW9nUVU?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -346,7 +346,7 @@
     "w": [
      2,
      14,
-     12
+     13
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      1,
      1,
-     8,
+     9,
      0
     ]
    }
@@ -427,7 +427,7 @@
     ],
     "w": [
      7,
-     7,
+     8,
      11
     ]
    },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     28,
+     3,
+     29,
      4
     ]
    },
@@ -519,7 +519,7 @@
     ],
     "p": [
      0,
-     2,
+     1,
      1,
      0,
      0,

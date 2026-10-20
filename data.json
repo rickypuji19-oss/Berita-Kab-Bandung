@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:32:10.904075+07:00",
+ "updated": "2026-10-20T15:22:19.145167+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "RRI.co.id",
-   26
+   27
   ],
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "Ayo Bandung",
@@ -35,6 +35,10 @@
    5
   ],
   [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
@@ -48,10 +52,6 @@
   ],
   [
    "Koran Gala",
-   4
-  ],
-  [
-   "jabarekspres.com",
    4
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Dukung Program Bedah Rumah untuk Wujudkan Hunian Layak - republika.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmI4cU5uQnhsU3pUTmxTaHVmblY2S1VLUEtxZFBGU3dNN2I2QW9RMTJkbUhuUTFMbkhyVHFGSkNLUUl1SzhKTGY0eklwaU9YbmNBQmVGUFhxTGREVjE1MTFsdmY0LXg5bmZSZXhEbXNPTngxdkJRNXlwSTFMSWFSVWNHMG5LSTRnUGxROHcwSlJ2dEZibXpjWG5lVDlnWTNLSW9NeDJXV1c5NFhOOW9VY3lHRFBaeUZWMlE?oc=5",
+     "r": "republika.co.id"
+    },
+    {
      "t": "Rp334 Miliar Disetujui untuk Irigasi, Kabupaten Bandung Perkuat Perlindungan Lahan Pertanian - Ketik",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWZDSTMwV09RM2FHVnJNNHpMTXg1TjA5Skl4elhhcFpuMWplZFY5ekNhdU5ycVdmVUlBcG5ZU21VZHFzN3VpSnVSXzhuc29CVnlJdzNSYkIyTVpmc1RuRGxHNlQ4M2tqSGZDUXRSeTJwTGowR09palF1SzZSUWlWNFI2TjFRNU1uel9mdElzMkVOLVNTQXJ4VV9helN4NG5jVkZwQ3FtbUUtOG9KUktzaDBiWdIBswFBVV95cUxNSWZDSTMwV09RM2FHVnJNNHpMTXg1TjA5Skl4elhhcFpuMWplZFY5ekNhdU5ycVdmVUlBcG5ZU21VZHFzN3VpSnVSXzhuc29CVnlJdzNSYkIyTVpmc1RuRGxHNlQ4M2tqSGZDUXRSeTJwTGowR09palF1SzZSUWlWNFI2TjFRNU1uel9mdElzMkVOLVNTQXJ4VV9helN4NG5jVkZwQ3FtbUUtOG9KUktzaDBiWQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGRHYjQ3UnN3OUkzLXV2OFJNWThqaXBjRnJLV3ViN1htYlU0azZiZ1NPenBIZFRhaF9mRlUtaGxCYThpZnhtNXkzR3VieFByU3kwenF3Uk42Z25sLTJOWjZQVU9oOGM1NUVadHdaU3M2TDRoYnhsQk5WeEVxVkRNODJiRlJqRUFZaDlCaUNSd2JyZTZVekl3bzlHYW5vT0JPNDZmc09pVFMxemRuSG1uaHh3U3ZJSDQ?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Hari Pangan Sedunia Pemkab Salurkan Bantuan Benih - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnRXN1JFM0tCNmZhTENkZVFCbEI4Mm5YSmRSdEktcEJ4a2pvVWJnc0VPV09pTEZYdWtXVE5WWWFPaE5JVUZSRlJBRkhET0FPMzREbnM1RE5UMUZWQVptZV9OYk1pem1EMElsem9fYmpLUWc2aEJleXJkQVk1M3pKdzlGdmRxUHo1SDZwWEFiYWFYSnBmcEpj?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     7,
-     27,
+     8,
+     26,
      5
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      5,
-     3
+     4
     ],
     "g": [
      1,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Ungkap 50 Kasus Narkoba, 52 Tersangka Ditangkap - PenaKuID",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeW0xZ1VOZ0U3NzlKblJsa1RwVDhrazlDMWh3NjlZcFVucFJnUDRtYlI2dGxldXQ1UklhQ0k1ci1JLVpQQnhzbEpzZi1ZU01EUmhwRGVIZnZyR0NQcklIaGREY1Z0M045ODJsc2pKaEhOSTVHYWFoMWNUeUZKWHh4VVdTMEpKTlRxUnpNSnJpT1pEZ9IBkgFBVV95cUxOeW0xZ1VOZ0U3NzlKblJsa1RwVDhrazlDMWh3NjlZcFVucFJnUDRtYlI2dGxldXQ1UklhQ0k1ci1JLVpQQnhzbEpzZi1ZU01EUmhwRGVIZnZyR0NQcklIaGREY1Z0M045ODJsc2pKaEhOSTVHYWFoMWNUeUZKWHh4VVdTMEpKTlRxUnpNSnJpT1pEZw?oc=5",
+     "r": "PenaKuID"
+    },
+    {
      "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkduX25wdUFZbV96YVlGSmt2djNjOXhhNWc5ajNiMHpYOHZsR05ZZW1uYlJ1R1hIb1hOeUp4V2hOWlRGb3d3Y1NYdFFlbHdhLW5uUXRlRVdOc1VmRG5TR29YNG40dExqaVF1TTVaLXJmaUIyQm1zb21sejByd0JVak5NbjFvdi1PWEJjNGhtMkpwSHhLU2J3emR5S01jQ2hiMkl6aDdpRXJhTUktdFJTVjE2NlRBNEZIeEJJQXRabFJ0NXFRVkVqOGtHOTA4QWY1S29fTVhwMWEzLWQt?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Pemkab Bandung Komitmen Sukseskan Program Bedah Rumah Menuju Masyarakat Sehat - radarjabar.disway.id - Disway",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGs4djFqbXE5QnRBb3RmdlI3cUNzbUxDTzFDUnJBMFp0WUY5SkVJNjFfU0ZhU0F3bVdqd2pKVGFkSGpqWjJvRmRZc0JwalFfVFdsdE8tMGV3Q1hMbDNhazhmZjhfcUREdjhsNXV3amVidlZNWXJ3Sm1SRnBFVzY3VE5CbUQzcHp2d1ZKUjUtcmJHSDNWNU9jWDAzaG52b1JUTFQxWTVRdWhwWVNDOWh4Q2JWcGxjbVhHSk1fZjBTZXZrMGE5NDBqdNIBuAFBVV95cUxOSnZ5NjAxaVpkVGV3QVN2QWIybWpQaWE2M3UxalRrRzVGLW5uMGZEN1Z1SEF3UF83U2R1ZjVaWGhZLVEtYWZ5aHhVN2ROTHdYU3BEYnlpa2hDbTZOZGJwUndkcHlPMWM1Q1d2RzFfOXdVeDFacWEyNkZLX1h4VnhfUmRyR29OWnBsdTBWalhadnpWUUdrclR0YTFsN29lQkpUSmhJMkdoMEVfNkhzVmJYeHpPWG1VMURI?oc=5",
-     "r": "Disway"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      5,
      13,
-     0
+     1
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Ekonomi Global Kacau, Muhaimin Iskandar Dorong UMKM di Bandung Perkuat Pasar Domestik - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXFQX2Z6OUs3aFZZX2R1Zkd3R2FReUdJMDdpNG02V3VHYUZZMEw1R2ZPSW5IdDZkTUx6ZDNIUzQ2ZVZpWnJ2cHRPLTZzdnJtcnZOOWwzRl8xYVdrUkVKd182S3pKWFVPV2dyVUNFSE56eE9XVjZfMFlSV0NBS214UDYxNXl2XzdaeHB2ci1HNUNJLWZKQThvUkEzZ0FaZzhWWTZGOE9YSEZfcFVXUmhlcFc0c0E3RHVaQkJ1NEVHVlJCNUtycGlNWUNXclA0WUlZ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Brimob Tanam Bawang Putih di Ciater, Pengamat Pertanian Ingatkan Jangan Jadikan Polisi Ekonomi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlpkZ0lmWjVFdmhhd3UzYndFMTFELVdKN0hsZ1pxc2FudU5oZVJoYmlXWS1ZNGl6VmhXbkx6Yld6TVdIS25vdDcxOUlJM2NUalRKdTZtVDRwTjc5aVYxdlhLQ2xvS0lWTG5rQ09aQTItcFhaRWZ1SWszek96bDZ3LU9BQ2pHbDVaS1ZOM0tqM0ZremJwanVQN25XTXFzZkdlYmd4NlZ3WWhSWnc1TU9qVWtSUHgtRXpETl8zX1VrcER0VGVDWS1XRjNYMXNMUngzUG43amtKXzF6d09T0gHiAUFVX3lxTFBjSUJzYjVGWW11eG5CT0podmtKelVOZ1hsQW1aTWVJSVJyX1MzOEFFdzNsUUdZaERqSUNaOXZjOEk2SXNTUm51aTM0MzdoWDJVbjRicl9yQzhOSlN0ZjNmcUNobGx5OFd4SnRtNjRHZXlUN1BkTFhmaU1wcXN3QlRZaGRESnBVdFVwQ0VYUGJqWjlJcGV5YVdwazhHTGtrWDdQWTBNQlhLck1vaDE5dm5DSC12dUVIT2NMQ1RHN29mNXIxanZ6ZGlYRHBOS24yU2FUS0wzdFU3N1pKVWMtckV3cWc?oc=5",
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1DTzRMTTY5X0hMRE8yOHp3RG5sT05IVE1VM3E2Mkpub2N3SV96d2pZOURlX2hWZTNjWlpydXVHalJsN2NJVGxmQmJjZ0h1b2FZWHJfSmV0TVR4NFZsMjg3X3Z0Z0VUY1pSMTRkaVkzcERqelNTaUtDU1MtU3ZJWHBGcHUyNFNOWkVkYTJBa25FSWFEZFFTSklrRDFGTzBsNjRSUUdQTFBzM0Uxa2lHWA?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Pabrik Obat Ilegal di Kopo Bandung Digerebek Polisi, Farhan: Musuh Kita Sekarang Tramadol - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnNvUXdVM21PeDJtUTlQWFVLSERyMmVlOVl5MVBwSl9BMTc2alRjcVRTMzVnSVBQNVJHX2U0RF8tTGNvQ00yVVg5TTFubWVoV0Y0dUVZendSWkpMbVFjY25FTkhRbExKTXBCQWVTMWRHbkJJZU5TODdMcE55a25XTkRrbDhvRWltX2xzQ3VSbVRxb2JGMmNtZEg5VjBfbWhiRDJpdkE5aFE2N2h4M3R0dnUtdnIzRjFvSU5kSktWWjU0S2ZPR0hTU0pNWTBURURqai1WNg?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     5,
-     15,
+     6,
+     16,
      2
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     2,
+     3,
      3,
      0,
      0,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Aksi Pemerasan Sopir dan Pengrusakan Kendaraan di KBB, Pelaku Ditangkap Polisi - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzFGeEFSaUhsOXZuUGZrNnhMd2pTdHJHNkR1Y2NHX2d1Y19PajNfVGlwenFPOWI1QnlCdlpuZTBkSS1PWm0yM2xYVlJPejhtRlNGM0RMaTFNYlBBYVdOLWFRQ2NCOENqR0RVM1c1b0hfV1lBMno2SExjdDNPLUczNGNHb3RWdExLSnFybzFWZUtSc0ctSGJTQXRNdk5zUkVwenJfY2huR2dSZV80T1ctU2VRVmVyMVFQMzdjSlZSWGQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "52 Pengedar Narkoba Diringkus Polresta Bandung dalam 10 Hari, Sitaan Barang Bukti Hampir Rp1 Miliar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc012TTRKRWNIN1ROYUVreElSRlRKMFNTUkZIYWZJM0s0MmJnNW5ydUFYZUo5RW5fUms2cnNfVXRKU21kTlZWWGhLZXNDUTJiNmxESWgzeVdENXIxSkllRWhVdEVxVjdOY0Q1Yk9BbWFPb3VQRXF1NXBJajJmX0JPTFMyN2xjTG5rVm1Ra2ZUTmdLejRDczhFczd3ZHRLNnZLNWpiTGJpWEpDNjlPdjcwUmpOU3d3VnZBcjh1a01XMmg5SXhkWVN4cUJ6VmtSNXczNE1YVmNZSjVUQmJMaGcwNUdVN3k5SG52?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWtWTnpCcDF5SlJLeDZKQ2lZTFNfVlhlRHVVSHVEWWdnSk9TSFQ3WlBNclBtT1hhOGJOTGxvWk05MFJFY2VIRWVWRGZrLU1ucmt2RTVyU2NEaklmQ0owRlZfQjJOaWg1bFBJSzZRZU5qSFNQSk1QN0ltZE8zR2lZaENrWnR1ZXBMV3VBaExIdmtRdkJyQlF2Tm81TUM3RUVRR0RhZzNTS09OTmVuMmlTbUpjYjU?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Keberhasilan Besar Polresta Bandung Ungkap Peredaran Narkoba 52 Tersangka Diamankan Barang Bukti Hampir Satu Miliar Rupiah - Tribratanews Polda Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcUd0TXY0MmtjYlAwZURjUUgyVUQtUnB6UEVuR2FWNUtydUtlb1NCWVFsanhzWXFZclI3TUt0TEVmblZwMFd4SWc5b0NXSHNpTFV0YVp1Wmc5NWh0SllpdW5xc2ViS1d5VHViRWltUE9NM3ZfR29GdWFzNVhsUDB6LXpwMUwwcXlVNm1JeUFyRGhCMGNEWV9acFBvXzZ2dHB3X1VDSDhqVlJqQzlDUV9ldHRsbWFaYnZkMmljSUVfRzdNMkI5czNJcHRldEF6NkJQSmtnRlluaVlaaU9OWFM5OTVhTjE3QXl3TVVBZlA3ZXBTUFFW?oc=5",
-     "r": "Tribratanews Polda Jabar"
     }
    ],
    "v": {
@@ -340,7 +340,7 @@
     "w": [
      1,
      11,
-     11
+     12
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     3
+     4
     ]
    }
   },
@@ -401,27 +401,27 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=hcJ9yJ1jVOQ",
+     "r": "YouTube AZZAHRA VLOG"
+    },
+    {
      "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=sQaFoZ5vNic",
      "r": "YouTube Lagi Ramai Nih"
-    },
-    {
-     "t": "JALAN BARU MENUJU GBLA | PENANGANAN BANJIR | RELOKASI RUMAH 3 KERJASAMA PEMPROV & PEMKAB BANDUNG",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=B-8_fkm1WO8",
-     "r": "YouTube CCTV TARAJU OFFICIAL"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      0,
      5
     ],
     "w": [
      6,
-     4,
+     5,
      16
     ]
    },
@@ -442,7 +442,7 @@
      0,
      0,
      1,
-     0
+     1
     ],
     "g": [
      7,
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     7,
+     8,
      26,
      4
     ]
@@ -514,7 +514,7 @@
     "p": [
      0,
      0,
-     1,
+     2,
      5,
      0,
      0,

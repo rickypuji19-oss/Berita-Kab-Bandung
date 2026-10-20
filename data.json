@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:20:31.856056+07:00",
+ "updated": "2026-10-20T12:19:48.381528+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,7 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   17
+   16
   ],
   [
    "Kompas.com",
@@ -43,7 +43,15 @@
    5
   ],
   [
+   "Galamedia News",
+   4
+  ],
+  [
    "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -55,15 +63,7 @@
    4
   ],
   [
-   "Galamedia News",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Jurnal Soreang",
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Siap Sukseskan Bedah Rumah 3.047 Unit di Kabupaten Bandung yang Didukung APBN - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzVQcEQ1WXpMX2hQcEQtc3RKSGpWY1JRVVV5VjczYjgwcnFaSTJZT1FTMmh6YjBieTdmNzBoOGFVZWE4N19iRzBQdHFxU2Z1TWVXd19GOElOU1gtRHZRZDI5WHRTZXhMMFN5bXJ1YjhCS09TUmNJS3dla2gtbVdmX1duY1pyamwzOWhuc1BiNTdzV0tueV9JUjN2WTZGTmxHcmJpbWdjRWliY0JaN2NoUXpnTGhYWkNIeWV3WWhnMDdyek1VOGE5V2ZJY3NUUFRmRmtOb3I5UGU2cHM?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Pemkab. Bandung, Program Bedah Rumah menuju Masyarakat Sehat - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JxTUNaNThvdEJyM0luYkZEUzhLeDJ5RXVnWmZGVkVSUE1wb2JDWXZtSHFWcFcyOUtNZU9WM2xEMXBhQTM1MU9LZFZMTWx3TFpuRVFzbEhkeUlfclpGN29NNnNnUnB2QUxXU0ZpRFI1S1VIOFV3eEFIZVpCbndlMGlXb1A0YUFXRjdwVTNMUHpSd0Y5Z3RnM2ZXbkhzdDhvR3Zv?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQlN3NE0zQ3F5bUdaN1FGekhUVnY3UTZGV1JIZmVVTmhoSHB3Uy1vbFRqSVhzR2xJX1NjMkV0RnV2QUdsbzFKNU9PTmRXVTRGV2MwMi0zUEZPYUZza1BjeXo4NGVLcnkyUWRidDRhT0p1VFdCYWt6aFZzYTBjOWlxS0dwRFB2MVBnOUtjTGFTYnlfaVNINl9LdllybDJQejE4Y1RtZ0tROEtaaFVKZkxmOElfaFcwMWVvS3VxSWpvSEd1LUl5cm1ScWl0ZWRjV1pZUFNtdGVkT0Y0S1VOMVVJV1VzMzVveUw2bG1mZEtB?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Perda Penertiban PKL Bandung Dinilai Bertentangan dengan Prinsip HAM - BandungBergerak.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHZmLTB4ZUowVnl4YkdsWDBIOHlOT2cxV2tXWGR6cWg0QkdsT3hOVW9mS3VpcTExNDd5QVdQT2I0Y3AzSWNqM2pHYVZadUZkZm01NmlyckxITFlmRjVXczBHSE1EaDFuSnlJb3hjQl81Tkt5X2QyZVdvZDRUMjMxQzNsRmdtSElNVzJqa1BBVkp2X0I5bjlzcjRyZjFuN0hvbVVqbnBqbkhIRDNJejlkRVJMZ0JaanZaSXI3S3ln?oc=5",
-     "r": "BandungBergerak.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     5,
+     6,
      28,
-     5
+     6
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      5,
-     1
+     2
     ],
     "g": [
      1,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     4,
+     5,
      1
     ]
    }
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Keberhasilan Besar Polresta Bandung Ungkap Peredaran Narkoba 52 Tersangka Diamankan Barang Bukti Hampir Satu Miliar Rupiah - Tribratanews Polda Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcUd0TXY0MmtjYlAwZURjUUgyVUQtUnB6UEVuR2FWNUtydUtlb1NCWVFsanhzWXFZclI3TUt0TEVmblZwMFd4SWc5b0NXSHNpTFV0YVp1Wmc5NWh0SllpdW5xc2ViS1d5VHViRWltUE9NM3ZfR29GdWFzNVhsUDB6LXpwMUwwcXlVNm1JeUFyRGhCMGNEWV9acFBvXzZ2dHB3X1VDSDhqVlJqQzlDUV9ldHRsbWFaYnZkMmljSUVfRzdNMkI5czNJcHRldEF6NkJQSmtnRlluaVlaaU9OWFM5OTVhTjE3QXl3TVVBZlA3ZXBTUFFW?oc=5",
+     "r": "Tribratanews Polda Jabar"
+    },
+    {
      "t": "Polresta Bandung Tangkap 52 Tersangka Narkoba, Bukti Ditaksir Rp 1 Miliar, Sabu Dikendalikan dari Lapas - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHRGTGxFeWYxQmd1OVNBS014dHFQQUpyZkxXS21kUm1qMmFtNldrMnhGT1NDOHRLSDBQWHdWUWJNUC1tRjE0SlZ1RFRwREdVQVZnNEdDaVI3dEo0dFNySF94ZTdFTlF4SGYxdTc1cEZiNlMzUG5OdlFnaTl5YUtYcVR4UTBpa1BOZGFHUXVWTTlUTWJGUF84VFZnRk9hdWJrTWNuaU13emJkRjFwTWhUSTJBVU5xMURVUVFGTkU0X0pwTkk?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWc3WFVDa1Y5Smg2M01KUXVMVDhJZFhhMFhDd1FDNEhCWVg2RUI3RHpTNUxieHBhVHotOEVUV2REQjZHcjhxSUh4RHVoeUg2MnlWX3Q1dE8tbDd6WlR3Ri1kYkVTLXJQVWhveUV2RjgtYUdTSXNYcXFaNTc3eXd6Nnl1NlVQVERYUU41SmhRNHFvZ1Vfc1hZcXk0QjBmSHEzMnR5N3BUZmJzZHg1RFgyUFUxdFpVWTk1?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Berantas Peredaran Gelap Narkoba, Polisi Gelar Razia di Sejumlah Tempat Hiburan Malam - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpFMXZWTF9xUTJCVmY0TTVJclplRXpJUFZPNFQ5dEtBa0dFNTE3YThJVE8zcWdhY0dEWEtRR0hFNjFmMm9lcHlkdEtVLUg5clhZZWdMWVBvbDY3WnJUOE9pVVdQYnFKSkQ0Vms2QW4yTFVNbGxZRl9tc2U0M05CRElMV0dYWWtDME82aXREWXhFQkxQYkRVUzl2VXRlRnY3dTM3azJ1SWhrSkRaQUZ3dUxvRUo0bEZWSFlxck9YVzRMQmg1dVlN?oc=5",
-     "r": "jabarekspres.com"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     9,
+     10,
      9
     ]
    },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Kepala Dinas Sosial Kabupaten Bandung Dampingi Bantuan Renovasi Rumah Keluarga Siswa Sekolah Rakyat di Rancaekek - PPID Kab. Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOUpCck0tQzRDXzVqWFUxSUc5Yl9mcUs1WXVRcnNSRVc1dnlGUVRJS3pCTHFKSUZTSVJDeDNCZE1MUFFsczJkU0gyN1NhNW9JeTNCSmhpWlQtWmFNVC1Gd3VheGtaRmV2SXI4MHhydlpPUko2a3pDZTRjamo2WVg0bHhOZnZjSEpiWTZ2MGJIOG5tV3BWNU0tT1NvemtqR0hURU9aNWNvelJzMmVtQ19fdVdVRXQ2OUpDS01HMEZGTFY0dU5pbEtRUHBaTHpURC1UQ2lJQ0wzNjJaLS1tcEIyQVJmbEdjdFhhcks1X1h0Q0ZLc0dJSmc?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Berita dan Informasi cegah perundungan sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRVdCQkVNczM3dTBsb2dramNyeUtKWVBaYzhWbG1BeVBYV0lxUzFwWEZJYjQ0Qmszb3E3ak5KVzBKRXhxTmdOOVYydzF6Mk1IR1Nta05CUjU5Y2Njb056UG83TmxwZGtBR0RjU3ZB?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVFsQU5RZmVlOVJ5S1J6SjJDUjh3MFBxZ0lkMFduS2VzWFFJYnctM0dZWjRPSDFlMDlTTTZVYXQ4eklfeWkzLVJCbU1jcW9mMjg2TVVta2J3MkRxZDh0eEZSdU1nemEzSUJKMmZvZTdmb0dxOHVoYXYzOE5oSHpsc1pZQUdyM3hNemVMQjZNQ2Z2ODJCNUZXTjlCN3o4aGo3ZGg2WGpEdW9WbGVBdHJNelVPdDd0V2FMSzlXZE83VTAzeVhQT0lEQ3lRaUlwRjBMSjJHVWZobXNGOXZjUXdzSkp30gHnAUFVX3lxTE1KdUJyVFZYQ0RKc1k4T0lVd2pXT2tjeDBnRHhuQ0ExWEdfb05ZMlN2amtuY3BuOVIteHlkbWtmSkdMS0RrMThYZkdoRng2LU80RGU2ZUpvWG00b2VmWmVLdkIxamJJUGgycXRrZkx2NW5GbXNvRjdDVGNXc2JkZ1NBZjM4WnZzTjF6RlMzTlk1QTY3eXd2SWo4NDMtX09MeHZNZnp4di1feUNnVFZtVktmQVpHakhtOGRfMWxVTGR5QTBLWndJRmpyMVZXaTRnczNFOW1sa2xfN3hDYk0xdTBKSlRWRG5tMA?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Rencana Pemfungsian Eks RSUD Soreang Untuk Sekolah SMPN 5 - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1B5MFUwb0N4cHcxOFRRZXFNNzV5dVB3clUtdTdzN1U3WTg2SVJ5SFpxcFdGUkhDOEYtLWJVVVI4UFl6akdfbVRucmdWa1QtVHBHWWVfRDBQVW1FS1AzeUU2bm9OclVrWk1mZi1KbWpuVXRTcEp1blloRUtGVF83UUdOWEF4N2VDTnRmQkN2V1VBZmxGd1gxODh3WVhyN0JMOHAwa3kwUG45bW56dzByQk5DX2JpbEE?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     28,
+     27,
      3
     ]
    },
@@ -514,11 +514,11 @@
     "p": [
      0,
      0,
-     2,
+     1,
      5,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,

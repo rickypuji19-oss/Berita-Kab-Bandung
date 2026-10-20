@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:19:48.381528+07:00",
+ "updated": "2026-10-20T13:21:39.341324+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "Tribunjabar.id",
-   22
+   24
   ],
   [
    "Ayo Bandung",
-   16
+   15
   ],
   [
    "Kompas.com",
-   7
+   8
   ],
   [
    "Ketik",
@@ -31,7 +31,7 @@
    6
   ],
   [
-   "Koran Gala",
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -47,11 +47,7 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
-   "PPID Kab. Bandung",
+   "Koran Gala",
    4
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Radio PRFM",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Wujudkan Komitmen Swasembada Pangan, Pemkab Bandung Gelar Ajang Taniverse 2026 - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGRHYjQ3UnN3OUkzLXV2OFJNWThqaXBjRnJLV3ViN1htYlU0azZiZ1NPenBIZFRhaF9mRlUtaGxCYThpZnhtNXkzR3VieFByU3kwenF3Uk42Z25sLTJOWjZQVU9oOGM1NUVadHdaU3M2TDRoYnhsQk5WeEVxVkRNODJiRlJqRUFZaDlCaUNSd2JyZTZVekl3bzlHYW5vT0JPNDZmc09pVFMxemRuSG1uaHh3U3ZJSDQ?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "Bupati KDS Siap Sukseskan Bedah Rumah 3.047 Unit di Kabupaten Bandung yang Didukung APBN - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzVQcEQ1WXpMX2hQcEQtc3RKSGpWY1JRVVV5VjczYjgwcnFaSTJZT1FTMmh6YjBieTdmNzBoOGFVZWE4N19iRzBQdHFxU2Z1TWVXd19GOElOU1gtRHZRZDI5WHRTZXhMMFN5bXJ1YjhCS09TUmNJS3dla2gtbVdmX1duY1pyamwzOWhuc1BiNTdzV0tueV9JUjN2WTZGTmxHcmJpbWdjRWliY0JaN2NoUXpnTGhYWkNIeWV3WWhnMDdyek1VOGE5V2ZJY3NUUFRmRmtOb3I5UGU2cHM?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JxTUNaNThvdEJyM0luYkZEUzhLeDJ5RXVnWmZGVkVSUE1wb2JDWXZtSHFWcFcyOUtNZU9WM2xEMXBhQTM1MU9LZFZMTWx3TFpuRVFzbEhkeUlfclpGN29NNnNnUnB2QUxXU0ZpRFI1S1VIOFV3eEFIZVpCbndlMGlXb1A0YUFXRjdwVTNMUHpSd0Y5Z3RnM2ZXbkhzdDhvR3Zv?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "KDS Dorong Rp 40 Miliar Bonus Produksi Panas Bumi Tahun 2026 Mengalir ke 56 Desa di Kabupaten Bandung - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQlN3NE0zQ3F5bUdaN1FGekhUVnY3UTZGV1JIZmVVTmhoSHB3Uy1vbFRqSVhzR2xJX1NjMkV0RnV2QUdsbzFKNU9PTmRXVTRGV2MwMi0zUEZPYUZza1BjeXo4NGVLcnkyUWRidDRhT0p1VFdCYWt6aFZzYTBjOWlxS0dwRFB2MVBnOUtjTGFTYnlfaVNINl9LdllybDJQejE4Y1RtZ0tROEtaaFVKZkxmOElfaFcwMWVvS3VxSWpvSEd1LUl5cm1ScWl0ZWRjV1pZUFNtdGVkT0Y0S1VOMVVJV1VzMzVveUw2bG1mZEtB?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,9 +116,9 @@
      2
     ],
     "w": [
-     6,
-     28,
-     6
+     7,
+     27,
+     5
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      5,
-     2
+     3
     ],
     "g": [
      1,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     5,
+     4,
      1
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      5,
-     14,
+     13,
      0
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     16,
+     15,
      2
     ]
    },
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "52 Pengedar Narkoba Diringkus Polresta Bandung dalam 10 Hari, Sitaan Barang Bukti Hampir Rp1 Miliar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc012TTRKRWNIN1ROYUVreElSRlRKMFNTUkZIYWZJM0s0MmJnNW5ydUFYZUo5RW5fUms2cnNfVXRKU21kTlZWWGhLZXNDUTJiNmxESWgzeVdENXIxSkllRWhVdEVxVjdOY0Q1Yk9BbWFPb3VQRXF1NXBJajJmX0JPTFMyN2xjTG5rVm1Ra2ZUTmdLejRDczhFczd3ZHRLNnZLNWpiTGJpWEpDNjlPdjcwUmpOU3d3VnZBcjh1a01XMmg5SXhkWVN4cUJ6VmtSNXczNE1YVmNZSjVUQmJMaGcwNUdVN3k5SG52?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Polresta Bandung Ungkap 50 Kasus Narkoba, Puluhan Tersangka Diamankan - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWtWTnpCcDF5SlJLeDZKQ2lZTFNfVlhlRHVVSHVEWWdnSk9TSFQ3WlBNclBtT1hhOGJOTGxvWk05MFJFY2VIRWVWRGZrLU1ucmt2RTVyU2NEaklmQ0owRlZfQjJOaWg1bFBJSzZRZU5qSFNQSk1QN0ltZE8zR2lZaENrWnR1ZXBMV3VBaExIdmtRdkJyQlF2Tm81TUM3RUVRR0RhZzNTS09OTmVuMmlTbUpjYjU?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Keberhasilan Besar Polresta Bandung Ungkap Peredaran Narkoba 52 Tersangka Diamankan Barang Bukti Hampir Satu Miliar Rupiah - Tribratanews Polda Jabar",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcUd0TXY0MmtjYlAwZURjUUgyVUQtUnB6UEVuR2FWNUtydUtlb1NCWVFsanhzWXFZclI3TUt0TEVmblZwMFd4SWc5b0NXSHNpTFV0YVp1Wmc5NWh0SllpdW5xc2ViS1d5VHViRWltUE9NM3ZfR29GdWFzNVhsUDB6LXpwMUwwcXlVNm1JeUFyRGhCMGNEWV9acFBvXzZ2dHB3X1VDSDhqVlJqQzlDUV9ldHRsbWFaYnZkMmljSUVfRzdNMkI5czNJcHRldEF6NkJQSmtnRlluaVlaaU9OWFM5OTVhTjE3QXl3TVVBZlA3ZXBTUFFW?oc=5",
      "r": "Tribratanews Polda Jabar"
-    },
-    {
-     "t": "Polresta Bandung Tangkap 52 Tersangka Narkoba, Bukti Ditaksir Rp 1 Miliar, Sabu Dikendalikan dari Lapas - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHRGTGxFeWYxQmd1OVNBS014dHFQQUpyZkxXS21kUm1qMmFtNldrMnhGT1NDOHRLSDBQWHdWUWJNUC1tRjE0SlZ1RFRwREdVQVZnNEdDaVI3dEo0dFNySF94ZTdFTlF4SGYxdTc1cEZiNlMzUG5OdlFnaTl5YUtYcVR4UTBpa1BOZGFHUXVWTTlUTWJGUF84VFZnRk9hdWJrTWNuaU13emJkRjFwTWhUSTJBVU5xMURVUVFGTkU0X0pwTkk?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Tersangka Narkoba di KBB Mengaku Beli Senjata Api Rakitan Secara Daring - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWc3WFVDa1Y5Smg2M01KUXVMVDhJZFhhMFhDd1FDNEhCWVg2RUI3RHpTNUxieHBhVHotOEVUV2REQjZHcjhxSUh4RHVoeUg2MnlWX3Q1dE8tbDd6WlR3Ri1kYkVTLXJQVWhveUV2RjgtYUdTSXNYcXFaNTc3eXd6Nnl1NlVQVERYUU41SmhRNHFvZ1Vfc1hZcXk0QjBmSHEzMnR5N3BUZmJzZHg1RFgyUFUxdFpVWTk1?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     10,
-     9
+     11,
+     11
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     1
+     3
     ]
    }
   },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Aksi Brutal Kelompok Motor di Jalan Bojong Raya Bandung, Dua Korban Dibacok - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUjVGZFlqNUlQZFBYbFBucHZWc1NRbDE5TjlyU3dLVW9RakVuT0JMZno4Z0RLZ18yYkVJb1d3ai1kN2lRaGd6VE1kY3NwSEp1SC1wdWpBZGxQV2FnVklHS3ByeTJYTGpkRjF4UnFXNEhYcG84ckFYNXFOSFRtYW5ZUm5FaXFQM3QxakNaQTFicTJwRHY1Zk9HYVppS1Y4aFZDOUdKR09aRXNwVDNudVRqWmxKTXM3Wkw4cXE3U0duaTF4VjQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Proyek BRT Bikin Cicadas Makin Macet, Farhan Tegaskan Bakal Galak ke Pelaksana Proyek - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUERGY3NEZFFjcG9ZQnFfTkRjdGllTFF1MV9rT1lLMW0yb1BJemwycjhWN3EzdWYyNERlX01wcHR5RTVESVFkT2w2emgzOTIzR1dKZFItWFFfNGtUeWRvaUhSUVJ6WFFLY0I4Tm1WelJXcXpEbTF0ZnZXVi1CM0tqc0U4eGNPT05ZN2ZkNVRSSzdMUGV1aERXWEdJeTNFRHdTRWx4NHpPU0VRRHpiYWdMNHNLX1hNa3JYQXZsRWQxYmZ2a296RW9BZzVKSEV1QVZk?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2hBUHFadkNUMzViYmtIdm1rajFpYlRWRWdmdGpnNUFzSWNWVGZ2dzdXQzZQMWhET3kzT3c1NXJtR0R0bEZscFBDNXVoc3NaZm1JdGxxemtoT29IRjBjQ3RmaFB0TFZjaG95MzVNQ1U1VmxsUmVjWDhNSEhRVDlLSGdVRHFnTjQtNURic18tU29Dc2MwcW1mSGZPWWMzNDZSVXdjVnh4UTlSNllwZFZfZm51Yzd0eF96eXFqX0ViU09sZzhXV0QxZEsxOE01VmtIWXJr0gHYAUFVX3lxTE1MRDVCbzlsN0VoaWpodzFycVVZMmVKY1pQNVpJQ1I5UFBwVG9oNE9fT2VweURwdkRxVHZ1Uk52WVpZbXo0RkRuekM5ckh3NTJiLUY5NTd4dGc4OUFkM1Radm82SkdIdzUySEM5UWc5U3RvVFF0UG1Sd19qNy1JV1lWd1dxSThDaW5jS3FJeXNMMjVsWjcyUXFEaTl6dFFueXRJMjBtNkFIX011S01rbWF0YUZkYzBuNnlDcS0wZko5eVVSbjI2V3JlaTJycDhsWXBhNjJLRmJ3bw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Terminal Ledeng Bandung Ditutup demi Dijadikan Stasiun Akhir BRT, Angkutan Dialihkan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSy1hc3lxQ3lmaXFnQ1ZCZXUxRDQ1MnVhVnZaY2ViblBxcnl1ZXN0aXpxNkNtazFMOUcyZEZWMGpaMjRJQUhZT2c0dkd4cUJIY3BFUHJXMGI2RFRwVDhOa2xRcTJNMmhPTVE5VmRZQmE1M3hmNUFBZHRpR1h3b0VYb3FHbFFET1E2WFJwSFdWZzhNZXl1ZmVwUmRuWk16Qm1rVjZSRTFEVzdoM2dsNzJfZXNXUnRlMjZfSDQ1X0NoR2VkWGRvOU15TmNvRk5CTVU?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
@@ -465,12 +465,6 @@
    ],
    "h": [
     {
-     "t": "Kepala Dinas Sosial Kabupaten Bandung Dampingi Bantuan Renovasi Rumah Keluarga Siswa Sekolah Rakyat di Rancaekek - PPID Kab. Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOUpCck0tQzRDXzVqWFUxSUc5Yl9mcUs1WXVRcnNSRVc1dnlGUVRJS3pCTHFKSUZTSVJDeDNCZE1MUFFsczJkU0gyN1NhNW9JeTNCSmhpWlQtWmFNVC1Gd3VheGtaRmV2SXI4MHhydlpPUko2a3pDZTRjamo2WVg0bHhOZnZjSEpiWTZ2MGJIOG5tV3BWNU0tT1NvemtqR0hURU9aNWNvelJzMmVtQ19fdVdVRXQ2OUpDS01HMEZGTFY0dU5pbEtRUHBaTHpURC1UQ2lJQ0wzNjJaLS1tcEIyQVJmbEdjdFhhcks1X1h0Q0ZLc0dJSmc?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Berita dan Informasi cegah perundungan sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRVdCQkVNczM3dTBsb2dramNyeUtKWVBaYzhWbG1BeVBYV0lxUzFwWEZJYjQ0Qmszb3E3ak5KVzBKRXhxTmdOOVYydzF6Mk1IR1Nta05CUjU5Y2Njb056UG83TmxwZGtBR0RjU3ZB?oc=5",
@@ -481,6 +475,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVFsQU5RZmVlOVJ5S1J6SjJDUjh3MFBxZ0lkMFduS2VzWFFJYnctM0dZWjRPSDFlMDlTTTZVYXQ4eklfeWkzLVJCbU1jcW9mMjg2TVVta2J3MkRxZDh0eEZSdU1nemEzSUJKMmZvZTdmb0dxOHVoYXYzOE5oSHpsc1pZQUdyM3hNemVMQjZNQ2Z2ODJCNUZXTjlCN3o4aGo3ZGg2WGpEdW9WbGVBdHJNelVPdDd0V2FMSzlXZE83VTAzeVhQT0lEQ3lRaUlwRjBMSjJHVWZobXNGOXZjUXdzSkp30gHnAUFVX3lxTE1KdUJyVFZYQ0RKc1k4T0lVd2pXT2tjeDBnRHhuQ0ExWEdfb05ZMlN2amtuY3BuOVIteHlkbWtmSkdMS0RrMThYZkdoRng2LU80RGU2ZUpvWG00b2VmWmVLdkIxamJJUGgycXRrZkx2NW5GbXNvRjdDVGNXc2JkZ1NBZjM4WnZzTjF6RlMzTlk1QTY3eXd2SWo4NDMtX09MeHZNZnp4di1feUNnVFZtVktmQVpHakhtOGRfMWxVTGR5QTBLWndJRmpyMVZXaTRnczNFOW1sa2xfN3hDYk0xdTBKSlRWRG5tMA?oc=5",
      "r": "Radio PRFM"
+    },
+    {
+     "t": "Hasil Lab Menu MBG Negatif, Keracunan Siswa di Cisarua Diduga Imbas Perilaku Tak Higienis - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVlBX0NHOHpXY1kyeTllaW05cG12N0VkQ09iN0xMQlZXYVR6TEl2OFJPbWlzb0JJdjl4ODUwU1QzSlB3Vy1UcXc2WXZlSDFlRnpjT3ZOS3hZWExmREZ5Nm8tUThCaHVnUmpfX2tSdU8wQ0Rjb0ZtSlBoUTM4dm90UkdlMHEtRXlFV2RhVEk3Um9ZalNmSE1qZG9oY3Z6WVF3ZGtIbUxSaUNFVjQxSW5SWTJ1NVQzOUY5OTdVT2VHNjl0a2NvQ2lkUEVMZko0d3RX0gHQAUFVX3lxTE9NWUFfQ0c4eldjWTJ5OWVpbTlwbXY3RWRDT2I3TExCVldhVHpMSXY4Uk9taXNvQkl2OXg4NTBTVDNKUHdXLVRxdzZZdmVIMWVGemNPdk5LeFlYTGZERnk2by1ROEJodWdSal9fa1J1TzBDRGNvRm1KUGhRMzh2b3RSR2UwcS1FeUVXZGFUSTdSb1lqU2ZITWpkb2hjdnpZUXdka0htTFJpQ0VWNDFJblJZMnU1VDM5Rjk5N1VPZUc2OXRrY29DaWRQRUxmSjR3dFc?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -498,7 +498,7 @@
     "w": [
      7,
      27,
-     3
+     4
     ]
    },
    "trend": {
@@ -514,11 +514,11 @@
     "p": [
      0,
      0,
-     1,
+     2,
      5,
      0,
      0,
-     1
+     0
     ],
     "g": [
      0,
@@ -527,7 +527,7 @@
      0,
      1,
      1,
-     0
+     1
     ]
    }
   }

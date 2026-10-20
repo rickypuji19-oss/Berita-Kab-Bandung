@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:24:16.215759+07:00",
+ "updated": "2026-10-21T01:22:00.322095+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "RRI.co.id",
-   23
+   22
   ],
   [
    "Ayo Bandung",
-   15
+   19
   ],
   [
    "Kompas.com",
-   7
+   6
   ],
   [
    "Inilahkoran.id",
@@ -319,16 +319,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVhpWl9ONW4xQk9INHRZQl9NU0dQUUJsU0ZyYm1zSm9WbVJQOElMdEhrenJnNHNva2ZvaDJYZFJMSGJhVGNlLWt3VGNBMk55cnE4Y3dVN0E1dzF5SHdaUjdkRlBGeDJFYVJuOGZPSlZSd01md1B0R3FMTW9nTUp5UEhHaXpWOGNXWmhQMU9hdWtpZDVHLTFaejYzU3hjdXNlZ1BwSE9iZzZDRi1fWXpHbWh4MmZBbUpVTnpIZFF3N1ZMWHdVWWc?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Dalam 10 Hari Polresta Bandung Gulung 52 Tersangka Narkoba dan Sita Barbuk Bernilai Rp1 Miliar - | kejakimpolnews.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpCendMb0d3NXNZUzJBd3RPZkFINXF5VVBBTTFqWHRxOVVRbGVTbmRpZ1h4NC05cDlqbnZqLVMxY012UjFLZ1lISFQtVG9FbUMtS2N3RncySzFOZnM1UFVyd2dySERXNTJmb1dVVHRtTGY3VTFMV2tkbFJheVhmbjg4SFlMenZuc3hvWGFyeHRwVmZ0UkoyVENpUDh2V3NTR1E4RVcxUWpST1FrUUhDckpJblJobWdfbGlDcGlKYW1SbW85UXIteFhScHlMTF9VSjZoZHZtZ3ZNSGx0M25rQ1UwekZuZU9QNjVwNGV3?oc=5",
      "r": "| kejakimpolnews.com"
+    },
+    {
+     "t": "Dari Sajam ke Sajadah, Upaya Polisi Redam Aksi Geng Motor di Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTJ1OFRWc0hSN1BNNHlsU01NQk5RcDF5ajY1S3ZwUFNXcFVRMkRkekt2WFI1ZF9WTUhmS2FGTGcyNUI0YVItUVBBYUZuaUpmLTVmRmVYd2toWlpNc2hOTW00Rk1LeVpxWmRtZkNsN0RxYk8zVmljS2k4RlhtSm41Yk1NeU5fVi0tWVZ5aTEtV2xkQlNkOUpJeUN2V011VXpOUm9uRFBTTm9QZ282V1B6VTBxaFhwOXJJdFhOMXNBWFgtRU1vZ1FV0gHHAUFVX3lxTE9RMnU4VFZzSFI3UE00eWxTTU1CTlFwMXlqNjVLdnBQU1dwVVEyRGR6S3ZYUjVkX1ZNSGZLYUZMZzI1QjRhUi1RUEFhRm5pSmYtNWZGZVh3a2haWk1zaE5NbTRGTUt5WnFaZG1mQ2w3RHFiTzNWaWNLaThGWG1KbjViTU15Tl9WLS1ZVnlpMS1XbGRCU2Q5Skl5Q3ZXTXVVek5Sb25EUFNOb1BnbzZXUHpVMHFoWHA5ckl0WE4xc0FYWC1FTW9nUVU?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     11,
-     14
+     14,
+     12
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      1,
      1,
-     10,
+     8,
      0
     ]
    }
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Massa yang Demo di Jalan Braga Bandung Membubarkan Diri - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmswb1dRSDl6VFdqRk5zUGVLeXBsQnlwT09jNUNjTWUzR2dvNnlJeVQ0SHVIcUdURjZvcnVnWUhwRlRDUzVCQkdoY2hyaWxqVUR5Z0dlZmlvN0hURS1sUUJOWkU1bXNoVXlVdVp1QVp4dEJkYnYtbmc2QjAxS2s2UTd4cnVvZjZkSWZHVmY0ZWtKZ09yMEhtV1JKN09Ic1pEVHhUMFczS1F4UdIBrwFBVV95cUxQaTlsT3FYc2xscEpwQ3RPRnprb2xQR0dZVG9TTkhwZThGNkN1T1BBSmthQ1JqdnVLWUtuMTd3VnY1b2JCX0JwSjBDMDB4Q2JlVGgwT0I3TkdqekVBa2hYaGtBV01xcHJtTUdBSk9JYU1rNkw0cTNXdUNPcU44cVJFc3ZUS2NNbldMSkN4cFQtb0NjVHd4Qlh5X0tMVEtlenduNURmR3dEUTFlWnFkTjlF?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Kabupaten Bandung alokasikan Rp334 miliar untuk perbaikan irigasi tani - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3BCRW0wUmJPR3pCQk50UnM0T013WnNUNEh3dWxxb2ZTamF2REw5MEpSMERfXzhjNDJIVjZ3b0dyUzllQmN2SHBIaGxPSFRYVzFTMENIakFwUjZjQkw1NDJ5T2pUa2FXU0pZTVVXZVRNNXdBUkhDa3pMQkNVeWpuZ01iTUZkRXhWWF84emlZSmFxRDl2LXdyQ3ZYQXNPQTFpOUxnLXptSzE2MElwclYzLUV0a9IBuAFBVV95cUxOaHBTYW9seml1Q1F0ZVlvMS1fWE5vWjJCZ0lOalp6ZXRsdWpZYnl3WW1IVUNqRjNDRVNCbzZzRFBrVUJmVWNzT3J6Rk9zYjRSVDVUTjV0R1dKVUc2RWhDUWFvVVhrLUtKcnpndDlqUUhtd0pabjZoZmdybExoaXZacWJLOHhCZ2xkUXBuOHBXUk1VRHFWR3FyQ1lxLU13WU5oZFkzUV9lNGJveVlGQjJYR29rb2pDRUNz?oc=5",
@@ -398,12 +404,6 @@
      "t": "Igor Tolic Bongkar Siasat Persib Bandung di Liga Tandang ke Depan, Kunci di Perjalanan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGVNdm1aODNtNkcwSGhFMTFMSVhheFFySjR5a21VVnc5N0tVYTN6RTkyZkZyV2wxWlNZbWd4RXRSbklIU2lvUGFRQUplaW9EMXd6cl81X1BLT2pucGtwRkREYmJSU2tXQnhqbGZrOEtFVG1WQ0lKVXE1Z0RLZHVBSWNZVXA3ano0S2F4aGNXanQzRmJPRVBaVkliVm1KVHpKMFBoUmw2UV9mWTluNVBSVzN0YVlKNXdKcENjRWhlMWZWdko3YmdMY19qZlY?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "BREAKING NEWS: Massa Blokade Jalan Asia Afrika Bandung, Sampaikan 4 Tuntutan 2 Tahun Prabowo-Gibran - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd3pETGs1aDVWS1dURy1YS0RCRWx4MnpZaVI1Y0NnR0txY21Ta3NoNHpnaXZ4UG5DVFgxVHV0blpRRHQ1amtrcTVYTV92bUNHX2IzRThNR0VybTRLN2pMLUpOdjlHTk5QM3BJLUhpV2IxMGh2YTBhZEQxNk10MGhSSVJJdHpGY0ZjRlppLVJaOE1IWXN0SUoxNS1RMTJJZHBsTk9rcU1qbnZGMFgzcEZtWEFlbU5WUzJuVzZsb1Z2Uko5THJMb2xfTG5IRk5Gb2pMeEFEOUlHeWphRS1EVXd6Rml3?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -428,7 +428,7 @@
     "w": [
      7,
      7,
-     10
+     11
     ]
    },
    "trend": {
@@ -456,7 +456,7 @@
      2,
      1,
      3,
-     1,
+     2,
      0
     ]
    }

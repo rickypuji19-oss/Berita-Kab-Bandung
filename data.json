@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:22:51.015014+07:00",
+ "updated": "2026-10-20T17:18:21.152862+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Tribunjabar.id",
-   26
+   23
   ],
   [
    "Ayo Bandung",
@@ -23,15 +23,19 @@
    8
   ],
   [
+   "Disway",
+   8
+  ],
+  [
    "Kompas.com",
    8
   ],
   [
-   "Disway",
-   7
+   "Satumedia.id",
+   5
   ],
   [
-   "Satumedia.id",
+   "jabarekspres.com",
    5
   ],
   [
@@ -55,15 +59,11 @@
    4
   ],
   [
-   "jabarekspres.com",
-   4
-  ],
-  [
    "ANTARA News Jawa Barat",
    4
   ],
   [
-   "Jurnal Soreang",
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bandung alokasikan Rp40 miliar bonus produksi panas bumi untuk 56 desa - ANTARA News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmlibkVORm15U2gxb1BPZVphbUNZWlBDRUF1aTdOTXRCOU4tSE5YN0ZscDI2amUyb3FOdHVfTFhpSjg5eTgyNkpYaWkwV2pHODNFT2g5TkpxSEJUYmRUbndUa0c5UFpUM0NQdHpTMVFzMk1xbFd4ZnpvZDlKckRCS3E5RTN4aFV6bEl4UTZZZXJXRGxDWXJfOEpUdlZIb0xBQko5Uzlna0E1TDViclgwVE930gG0AUFVX3lxTFB3LWYxYzlQdmhneU1Fa0p6ZHR4cklFMFoxZmRvazFTWkpCZ3ZFS3RMSXJ3VmRLY1hBaFhrakhSazVDc1BfakNkSDVaZU5ic1lfb2czQWhDcXhJLThJaEZYSXN6ODNrTjVfdEFCSF9zcExzZVBiRHFSd2lRS1IyRVJxcC1ZMUsxOXRkX216VWQ1SjBBaU81d3RJeThtWmNnU25OX3QzckV1eDNyazI4c0s1b01vSA?oc=5",
+     "r": "ANTARA News"
+    },
+    {
      "t": "APBN Dukung Perbaikan 3.047 Rumah di Kabupaten Bandung, KDS Minta Camat dan Kades Bergerak - Satumedia.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkJsMTJEbVBadjJGNG5ZM1U2QzlVcGpJSkQzdlVHUmluQVZYZ08tWW55aXljeG5JZE5MVjAzOTJqcnFjQmxoNklncVNGeXhKV0hTblhPVmswV2dRc2JTRDZneFM3OXM0djRMTDRwOGJnd0hvVHA2UERCR2VwV0pZSTJmTHZsMURCMWprQm81a1liTDViOG1XQWo1c2EyNUZ4TDdnUkVhXzBHRno5SGlVNW56T3VtOU9qSEdRdGNXNGhhb1N2?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmI4cU5uQnhsU3pUTmxTaHVmblY2S1VLUEtxZFBGU3dNN2I2QW9RMTJkbUhuUTFMbkhyVHFGSkNLUUl1SzhKTGY0eklwaU9YbmNBQmVGUFhxTGREVjE1MTFsdmY0LXg5bmZSZXhEbXNPTngxdkJRNXlwSTFMSWFSVWNHMG5LSTRnUGxROHcwSlJ2dEZibXpjWG5lVDlnWTNLSW9NeDJXV1c5NFhOOW9VY3lHRFBaeUZWMlE?oc=5",
      "r": "republika.co.id"
-    },
-    {
-     "t": "Bupati Bandung Alokasikan Rp40 Miliar DBH Panas Bumi untuk 56 Desa, Fokus Infrastruktur hingga Kemiskinan - Jurnal Soreang",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdWFySzluZDJ2VXNFRTcwc3hWdFlMSDg1NE9NcEVuZDB6MFBZRG0tT1Jhd2Q5LTZaMWtGMkRGbkdQb0RHR256eUotWU8zUTRjTUcwd1piSEwyVEdwNUlaN2hMWmVkSXhOZDNmRjFuVXB2dXFlTWtXVjFocmxYOUs3UEFIbVZ2R1pNVXJjYzVJM2dvNFNaNHpXcjczYmxUdmZBYUgxZzVlaEwyc284ak1BZi1ROTctai1zWHRVcEl1N1RTVWViVVNDS05lbXduVnozWDRtSUszQVhKU2dqblJGR2wyZDlRN3Z4TXduUHpwYU1oaFhqZnNxbjdaTVlDQ3fSAf8BQVVfeXFMT3Vhcks5bmQydlVzRUU3MHN4VnRZTEg4NTRPTXBFbmQwejBQWURtLU9SYXdkOS02WjFrRjJERm5HUG9ER0duenlKLVlPM1E0Y01HMHdaYkhMMlRHcDVJWjdoTFplZEl4TmQzZkYxblVwdnVxZU1rV1YxaHJsWDlLN1BBSG1WdkdaTVVyY2M1STNnbzRTWjR6V3I3M2JsVHZmQWFIMWc1ZWhMMnNvOGpNQWYtUTk3LWotc1h0VXBJdTdUU1VlYlVTQ0tOZW13blZ6M1g0bUlLM0FYSlNnam5SRkdsMmQ5UTd2eE13blB6cGFNaGhYamZzcW43Wk1ZQ0N3?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     11,
-     23,
+     10,
+     24,
      6
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     6,
+     5,
      6
     ],
     "g": [
@@ -173,9 +173,9 @@
      "r": "Inilahkoran.id"
     },
     {
-     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
+     "t": "Gelar Taniverse 2026, Pemkab Bandung Tegaskan Komitmen Kuat Majukan Sektor Pertanian - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0xRUmJyYTYxLXpwbDF6M3hiYzBLazRjSzhGUFg0cnU3YmFTVkgyX3JWUWxIV2tkaHNjLV82anI1N1BYUVFBMUNYSG85UXliVHdCQXBKZTQ3U3JwaEdhNk9qVkxjRWxTWHQ5cU9fZHZ0YVRFejAxcjdZTW5xQmpsTFAxeDZHb05oSmFiUzlvbDFRNlpuNXZvcUpaNG5sUHdQUW83dGhWcENHWnFFamoyakRxdTB3dXB5dEJBYVEybzJpeWcyX0doMVAybHRxNkRX0gHAAUFVX3lxTE13TUxBLWppdThFT0RrcGU3Z0JfbHVQVk84VXRYS3pQeUppZjZiU05QX0l5RFQyT0NfUV9rR2l2bTdHVTlBeEwtSWdieEUxX1FiWWZLd1dJV3JxMklHUHJXMjRaZVJSRXpkZjB0VkszcFFMLTkyVUhCZks2WTVSU0tBTTByaHRyTW0tQmFlbWhHQjF2RkdxQWFoQjQwSFd0bjBlX1lNY0dEN2tmbjhWRDVqZmNsV1hxZURLcDMtYUE2TQ?oc=5",
      "r": "Disway"
     }
    ],
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      13,
      2
     ]
@@ -208,7 +208,7 @@
      0,
      2,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "HIPMI Jabar Gandeng Pengusaha Muda Selangor, Bidik Peluang Investasi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUZzNTdVa3l3TzVEVDlHX2owTWJUVkVVUzV6VTIxdDctVzRpeFNZdWl2N1JjV2hkY2l0X3VjbEtEdGx0dUctTjVYMWJFSUNreXZpUUd5OFJWT2dBb2l0SEhRZUlmUVRyMzJWaWttci12enJKb01XejRHRV9pbkg5dXZQQ1dsVkJVWURNOTBYUDZzaWFPLWJsdkpyTGUzWjJ1b2MxaW4teXhjZFBYUUdTdHdCakMtV1BQLVE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Ekonomi Global Kacau, Muhaimin Iskandar Dorong UMKM di Bandung Perkuat Pasar Domestik - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXFQX2Z6OUs3aFZZX2R1Zkd3R2FReUdJMDdpNG02V3VHYUZZMEw1R2ZPSW5IdDZkTUx6ZDNIUzQ2ZVZpWnJ2cHRPLTZzdnJtcnZOOWwzRl8xYVdrUkVKd182S3pKWFVPV2dyVUNFSE56eE9XVjZfMFlSV0NBS214UDYxNXl2XzdaeHB2ci1HNUNJLWZKQThvUkEzZ0FaZzhWWTZGOE9YSEZfcFVXUmhlcFc0c0E3RHVaQkJ1NEVHVlJCNUtycGlNWUNXclA0WUlZ?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVgxQ2FKSHZBeG05QTAzSWx1NGJYSkRPVU5nMUpZTUhUQmgyZlhkdUtrb000TjV4MUxVMmJDUjNUZjUzc21LWUE5VWtiS3hweEgtMXl2ak15eHZwdzlHbEg0b2UzZzAtdTJkejBSM1lSSzVoTjl4Y0hBR3dkM1Vpa2h3TFJicW1sX0Y1RzRERVZ2N05BcWdJQWV1Q0ZBTFZnZ3JzOFdvVnZpWlVzWGFJUEdtckkyWGI3UUlaN3ZBeW8?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Brimob Tanam Bawang Putih di Ciater, Pengamat Pertanian Ingatkan Jangan Jadikan Polisi Ekonomi - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlpkZ0lmWjVFdmhhd3UzYndFMTFELVdKN0hsZ1pxc2FudU5oZVJoYmlXWS1ZNGl6VmhXbkx6Yld6TVdIS25vdDcxOUlJM2NUalRKdTZtVDRwTjc5aVYxdlhLQ2xvS0lWTG5rQ09aQTItcFhaRWZ1SWszek96bDZ3LU9BQ2pHbDVaS1ZOM0tqM0ZremJwanVQN25XTXFzZkdlYmd4NlZ3WWhSWnc1TU9qVWtSUHgtRXpETl8zX1VrcER0VGVDWS1XRjNYMXNMUngzUG43amtKXzF6d09T0gHiAUFVX3lxTFBjSUJzYjVGWW11eG5CT0podmtKelVOZ1hsQW1aTWVJSVJyX1MzOEFFdzNsUUdZaERqSUNaOXZjOEk2SXNTUm51aTM0MzdoWDJVbjRicl9yQzhOSlN0ZjNmcUNobGx5OFd4SnRtNjRHZXlUN1BkTFhmaU1wcXN3QlRZaGRESnBVdFVwQ0VYUGJqWjlJcGV5YVdwazhHTGtrWDdQWTBNQlhLck1vaDE5dm5DSC12dUVIT2NMQ1RHN29mNXIxanZ6ZGlYRHBOS24yU2FUS0wzdFU3N1pKVWMtckV3cWc?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     5,
-     17,
+     4,
+     15,
      2
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     2,
+     1,
      3,
      0,
      0,
@@ -340,7 +340,7 @@
     "w": [
      1,
      11,
-     11
+     12
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      1,
      1,
      1,
-     4
+     5
     ]
    }
   },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Igor Tolic Bongkar Siasat Persib Bandung di Liga Tandang ke Depan, Kunci di Perjalanan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGVNdm1aODNtNkcwSGhFMTFMSVhheFFySjR5a21VVnc5N0tVYTN6RTkyZkZyV2wxWlNZbWd4RXRSbklIU2lvUGFRQUplaW9EMXd6cl81X1BLT2pucGtwRkREYmJSU2tXQnhqbGZrOEtFVG1WQ0lKVXE1Z0RLZHVBSWNZVXA3ano0S2F4aGNXanQzRmJPRVBaVkliVm1KVHpKMFBoUmw2UV9mWTluNVBSVzN0YVlKNXdKcENjRWhlMWZWdko3YmdMY19qZlY?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "BREAKING NEWS: Massa Blokade Jalan Asia Afrika Bandung, Sampaikan 4 Tuntutan 2 Tahun Prabowo-Gibran - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd3pETGs1aDVWS1dURy1YS0RCRWx4MnpZaVI1Y0NnR0txY21Ta3NoNHpnaXZ4UG5DVFgxVHV0blpRRHQ1amtrcTVYTV92bUNHX2IzRThNR0VybTRLN2pMLUpOdjlHTk5QM3BJLUhpV2IxMGh2YTBhZEQxNk10MGhSSVJJdHpGY0ZjRlppLVJaOE1IWXN0SUoxNS1RMTJJZHBsTk9rcU1qbnZGMFgzcEZtWEFlbU5WUzJuVzZsb1Z2Uko5THJMb2xfTG5IRk5Gb2pMeEFEOUlHeWphRS1EVXd6Rml3?oc=5",
@@ -393,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkJsMTJEbVBadjJGNG5ZM1U2QzlVcGpJSkQzdlVHUmluQVZYZ08tWW55aXljeG5JZE5MVjAzOTJqcnFjQmxoNklncVNGeXhKV0hTblhPVmswV2dRc2JTRDZneFM3OXM0djRMTDRwOGJnd0hvVHA2UERCR2VwV0pZSTJmTHZsMURCMWprQm81a1liTDViOG1XQWo1c2EyNUZ4TDdnUkVhXzBHRno5SGlVNW56T3VtOU9qSEdRdGNXNGhhb1N2?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Aksi Brutal Kelompok Motor di Jalan Bojong Raya Bandung, Dua Korban Dibacok - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUjVGZFlqNUlQZFBYbFBucHZWc1NRbDE5TjlyU3dLVW9RakVuT0JMZno4Z0RLZ18yYkVJb1d3ai1kN2lRaGd6VE1kY3NwSEp1SC1wdWpBZGxQV2FnVklHS3ByeTJYTGpkRjF4UnFXNEhYcG84ckFYNXFOSFRtYW5ZUm5FaXFQM3QxakNaQTFicTJwRHY1Zk9HYVppS1Y4aFZDOUdKR09aRXNwVDNudVRqWmxKTXM3Wkw4cXE3U0duaTF4VjQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -421,8 +421,8 @@
     ],
     "w": [
      7,
-     5,
-     16
+     6,
+     15
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      2
     ],
     "g": [
-     7,
+     6,
      5,
      2,
      2,
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     7,
-     28,
+     8,
+     27,
      4
     ]
    },
@@ -514,7 +514,7 @@
     "p": [
      0,
      0,
-     1,
+     2,
      5,
      0,
      0,

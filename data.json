@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T19:21:04.577341+07:00",
+ "updated": "2026-10-20T20:32:22.150193+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,35 +7,39 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Tribunjabar.id",
+   24
+  ],
+  [
    "RRI.co.id",
    24
   ],
   [
-   "Tribunjabar.id",
-   23
+   "Ayo Bandung",
+   15
   ],
   [
-   "Ayo Bandung",
-   14
+   "Kompas.com",
+   8
   ],
   [
    "Ketik",
-   8
+   7
   ],
   [
    "Disway",
    7
   ],
   [
-   "Kompas.com",
-   7
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   5
+   "detikcom",
+   6
   ],
   [
    "Satumedia.id",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -43,28 +47,24 @@
    5
   ],
   [
-   "detikcom",
-   5
+   "ANTARA News Jawa Barat",
+   4
   ],
   [
    "Inilahkoran.id",
-   4
+   3
   ],
   [
    "Galamedia News",
-   4
+   3
   ],
   [
    "PPID Kab. Bandung",
-   4
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
-   "Koran Gala",
    3
+  ],
+  [
+   "ANTARA News",
+   2
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Kabupaten Bandung perkuat regenerasi petani dan pasar produk lokal - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "126 Siswa Sespimma Polri Gelar Diskusi Lintas Sektoral dengan Pemkab Bandung - guecikarang.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1ZWSW5jcFBNUWFNSENZUXBQcmlYQXNfUlhTcmRtTzBBV3VmTGNQT3NEZVdOZUpLLVNTclR1MWdrWU8zeXZTOGVQeE9aWHg2elRVVGt5Nk5pWElMN2VmSUpkWGdMYXc5MWhxZEFmRlJZSVFCTHVfWnMwNml0dDltYjZZdDJTYzhWYlA2Z0NDRG1oWkk3eWtTTW1OSndMazVQUWpUR3pVa1lsOGo1UGh4bEF2N04?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaF9Ub2d0S0hKUlJKYVNDUlRjTFdxWTZxWDBJaFhhVWNUaWNyNEhDR2k3cHc2ZzhJYXRQNldUWDEwYkJkVHVoYWxOOTQ4M2xOZEdOTUFmb1ExcUcwekZBM3NJcG03YzNnYk14UkE5dkNFLUdESFZnYXNHOTR0NmswdU1GZmtwWnFGN2NVbVI4MnR4d3FLcUtNNk1JUGZCRUNYVldJN1YxWmFVWTRFUVIyZ3g5QmlxR2djVFpVSmVTUVI3a2I3cExFSnRUYVNKTks1eGtNSzU1QVFmUWJ1Z2tfWW4xbTU?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kabupaten Bandung alokasikan Rp334 miliar untuk perbaikan irigasi tani - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3BCRW0wUmJPR3pCQk50UnM0T013WnNUNEh3dWxxb2ZTamF2REw5MEpSMERfXzhjNDJIVjZ3b0dyUzllQmN2SHBIaGxPSFRYVzFTMENIakFwUjZjQkw1NDJ5T2pUa2FXU0pZTVVXZVRNNXdBUkhDa3pMQkNVeWpuZ01iTUZkRXhWWF84emlZSmFxRDl2LXdyQ3ZYQXNPQTFpOUxnLXptSzE2MElwclYzLUV0a9IBuAFBVV95cUxOaHBTYW9seml1Q1F0ZVlvMS1fWE5vWjJCZ0lOalp6ZXRsdWpZYnl3WW1IVUNqRjNDRVNCbzZzRFBrVUJmVWNzT3J6Rk9zYjRSVDVUTjV0R1dKVUc2RWhDUWFvVVhrLUtKcnpndDlqUUhtd0pabjZoZmdybExoaXZacWJLOHhCZ2xkUXBuOHBXUk1VRHFWR3FyQ1lxLU13WU5oZFkzUV9lNGJveVlGQjJYR29rb2pDRUNz?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      2
     ],
     "w": [
-     6,
-     28,
+     7,
+     27,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     2,
+     3,
      5
     ],
     "g": [
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Kabupaten Bandung perkuat regenerasi petani dan pasar produk lokal - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "HIPMI Jabar Gandeng Pengusaha Muda Selangor, Bidik Peluang Investasi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUZzNTdVa3l3TzVEVDlHX2owTWJUVkVVUzV6VTIxdDctVzRpeFNZdWl2N1JjV2hkY2l0X3VjbEtEdGx0dUctTjVYMWJFSUNreXZpUUd5OFJWT2dBb2l0SEhRZUlmUVRyMzJWaWttci12enJKb01XejRHRV9pbkg5dXZQQ1dsVkJVWURNOTBYUDZzaWFPLWJsdkpyTGUzWjJ1b2MxaW4teXhjZFBYUUdTdHdCakMtV1BQLVE?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXFQX2Z6OUs3aFZZX2R1Zkd3R2FReUdJMDdpNG02V3VHYUZZMEw1R2ZPSW5IdDZkTUx6ZDNIUzQ2ZVZpWnJ2cHRPLTZzdnJtcnZOOWwzRl8xYVdrUkVKd182S3pKWFVPV2dyVUNFSE56eE9XVjZfMFlSV0NBS214UDYxNXl2XzdaeHB2ci1HNUNJLWZKQThvUkEzZ0FaZzhWWTZGOE9YSEZfcFVXUmhlcFc0c0E3RHVaQkJ1NEVHVlJCNUtycGlNWUNXclA0WUlZ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Menko PM Dorong Kolaborasi Pemberdayaan UMKM Perintis Berdaya Connect di Bandung - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVgxQ2FKSHZBeG05QTAzSWx1NGJYSkRPVU5nMUpZTUhUQmgyZlhkdUtrb000TjV4MUxVMmJDUjNUZjUzc21LWUE5VWtiS3hweEgtMXl2ak15eHZwdzlHbEg0b2UzZzAtdTJkejBSM1lSSzVoTjl4Y0hBR3dkM1Vpa2h3TFJicW1sX0Y1RzRERVZ2N05BcWdJQWV1Q0ZBTFZnZ3JzOFdvVnZpWlVzWGFJUEdtckkyWGI3UUlaN3ZBeW8?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     5,
+     3,
      15,
      2
     ]
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     2,
+     0,
      3,
      0,
      0,
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "Rumah Keluarga Aktivis di Kabupaten Bandung Dilempar Bom Molotov, Polisi Lakukan Penyelidikan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHNVX0JPYnFzcmx4TzI3bnM1ODRZYlJhT3g2blhTTlVBOE96T3lqYzN1VXFOUDdfSllDZzdzeDBhQ0VXS001Q0dOWHFQWHFObHZsVHExYVVOY0ZtWDhkYTgyUTNOZW00RGlXQnI2Y3lnZ3QwMHRWQjBJSlFRMC1zVHF2UEFjYnJfY1lLTjB5N1JoV19WdkJZYkNtYmV5V2dLMWY1aWhId2pBRk51NUdqNzF1ZkdaZU44b01UdkV6TVp0TGQ1VURISXdaNWhrZ1d3Q0Nja0VMd2g3UEJzeFlabA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Tangan Diborgol, Nyali Berandalan Narkoba Bandung Ciut Digulung Polisi - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExuZWZTREpFYkRRTFRtcDd3cUVadWJRN21GSlhJT3VPanVNSkRSUW95WVp4cllCeWVRRzU3ZEp1U3FWZjlrNVlKSE5GZ2w4VzdmZE8yTXZ6aTE4REo5TFY1SkVlUk5ROTlseS1FUDU2N3ZGYldIQW1qUWM3ZHB3TVpveW5Mb0VWTDV3THlQQW9PbUVlaHd5N2pRcElDNGlGOUxtM3NhVDd5a2d3blBfcVJwWFZDYTVZMWlHbV9Mc09GdTlz0gHKAUFVX3lxTFBxekRCVDhQbDFYdEhCTlNLaFRrTndoZ1U5UlBMR3dwU0N5T1ZmVTlybWxzUlAxRU5rQUR5TURjWWo2WmRBQ2xGVkduUmMzaFZ2TUZkMUNtMF9pb3hJYkRmRl9INGhZZWlnODllUG5yVGpsWm5VQURWWUI1UlhVSk5jVGRtUk9Sc3F3Tk9fZmc5M2R3Wm5BUGhpM3gwc3k3bXFFd21nQjQzenBGOGl5WEF2YWRWaV9uLU5oMjhBRktIcE40RHpwRUpvLXc?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Mahasiswa-Elemen Masyarakat Lanjutkan Demo di Sekitar Tugu Simpang Lima Bandung, Polisi Bersiaga - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGUwV3VUaHFwaVFkUEhXeWdfVmRlcjR0Y2cxM0d0WHN1SmMxQkxlb1piZktGTFJDYWs1c0N6aWJrUEVCNG9zNFJWZXk0aVM5Rm5TYVlMbDVFQVBGX0N1RnJjdEZ3V2lKbUVGVThiQTVHNXJKLThKR0wwQVduNTA4NTNBc25kUjhILXN2MXZOTFFZcHhMQVdpNDBfVUEwWTBPU2RXX0FuTms2eG4xdmhmSWlnX0RDZTU2UXFFd19wamZlaEtuSnZlM1d2WkoxR1RsWHA0WDQ1bGpQUTFORmlV0gHkAUFVX3lxTE5LNUpuM1ZqSl83dDh0aGpuc2tSZDdSVjdJTVVfQ0ZKTXZkV003SUVJbGhZYVlSbS1Qc2lQSDVfeDlvU2tTaERZc0gyRC1yTTNnRzRxOUNreklwd1o4UXJwZTA4cm9FNXFvLWcySjV1Q0FqbFJOeE55VWdhRGdEcGtxdGtHa1c4djZzZXItbXVKbVVkU2hIYzJMRENMZWFSenFUM0FfcHpLY1ExSUdMeUUyRDhqODlLT0RmUi0yMGJaWkRnTHpiUDZMM3BZVUtoSWxUNEE5ZjkyTkRBeHBvTHJoSV9uVw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Aksi Pemerasan Sopir dan Pengrusakan Kendaraan di KBB, Pelaku Ditangkap Polisi - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzFGeEFSaUhsOXZuUGZrNnhMd2pTdHJHNkR1Y2NHX2d1Y19PajNfVGlwenFPOWI1QnlCdlpuZTBkSS1PWm0yM2xYVlJPejhtRlNGM0RMaTFNYlBBYVdOLWFRQ2NCOENqR0RVM1c1b0hfV1lBMno2SExjdDNPLUczNGNHb3RWdExLSnFybzFWZUtSc0ctSGJTQXRNdk5zUkVwenJfY2huR2dSZV80T1ctU2VRVmVyMVFQMzdjSlZSWGQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "52 Pengedar Narkoba Diringkus Polresta Bandung dalam 10 Hari, Sitaan Barang Bukti Hampir Rp1 Miliar - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc012TTRKRWNIN1ROYUVreElSRlRKMFNTUkZIYWZJM0s0MmJnNW5ydUFYZUo5RW5fUms2cnNfVXRKU21kTlZWWGhLZXNDUTJiNmxESWgzeVdENXIxSkllRWhVdEVxVjdOY0Q1Yk9BbWFPb3VQRXF1NXBJajJmX0JPTFMyN2xjTG5rVm1Ra2ZUTmdLejRDczhFczd3ZHRLNnZLNWpiTGJpWEpDNjlPdjcwUmpOU3d3VnZBcjh1a01XMmg5SXhkWVN4cUJ6VmtSNXczNE1YVmNZSjVUQmJMaGcwNUdVN3k5SG52?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     11,
+     13,
      13
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      6,
      7,
-     14
+     13
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      4,
-     6,
+     5,
      2,
      2,
      1,
@@ -465,21 +465,21 @@
    ],
    "h": [
     {
+     "t": "Mensos Siapkan 30.000 Laptop Tambahan untuk Siswa Sekolah Rakyat - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGJ6UjNBS1BYcHV6cjFUUkF4RWxyUkhVMk0zYUQ2YmJOUmcwSlJMaE9UUTFqd0NTa1hSTWEzSVc1emNONVZEZGhTanJJSEFudTdNNXNDMWEyWW5sVWFSYmlCS2ltT0Q4bWg0aWljWmljTXZnVWtvM0MweTlKNFlQelRUaGh6eUpNb0I0a3dValZPSndGRS1taEJpTUpsWWRrNmhOdVVuRmM5R3Z1dGNlTHpRcGdYeXc?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Gus Ipul Pastikan Laptop Siswa Sekolah Rakyat Hanya untuk di Kelas - detikcom",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTm42bGstZlMtNHlscnN5c1ZKY08xQTlmMC01c2JUa09qLV9aRGNkaW9SdTBJdFYtYlRTTmUzeDlFUnQ1MV9tb1ZmdTRsUUEwczdydWlqMnhZR2VkMjM1Wm95dEdfUkI3OW53MmJZUkhrQVJ1ejVnLVp1Tl9ER1ZSZGRVTEs0TVVYeU5FZmlhbm9xaTVJWGdOTGxfZk1JMVZ2d1VFZUp2aEV1S3RfS1VzddIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UdIBtgFBVV95cUxQYzk1Vlpwa242X3hmVXIwSTRnT080dEg1UngtZDlVZnZFTnZpWHZSdV92U1Q3ajRicGM1NFN0T3FGOE8zVUN3Yl9EUGZvdHBNcm5tajRLMUdISTM0aUpaZjRNR1BvZm9mejkyYkxJZ2UzdHR5LS1PV19vYmJkeXJMVVFIdko1ZXhWX25Sck5vUVJZeFVsemZITGJuSmczbmR6dW1DQ01WLUllSGdCV1hmNHdtVTh0UQ?oc=5",
      "r": "detikcom"
     },
     {
      "t": "SMA di Bandung Perketat Pengawasan Siswa, Gerbang Sekolah Dikunci saat KBM - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXV0U01XcUotcnB3MnZCN1dCMnhYbXlrRnhEakFxYzBHQVhWSXhJcXh2bXczc2JadThxQmZ3aFBUTXZ3VWttaE50OXhJNUMwR09DZ0NTNlIxRUFuUFUyVTJ5R25pOHh2dTdXeWpLWm9uRzltbWN0d2xxUEIzZGFEbEJIMUJIVE1yMi1VY2hRdXB0YWJINDUtbXQ3TmJpWlBmTjl4R1ZGbFBMcHI2RGVsU3hIR3oyZERQMkhDb21kaE1tUQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kebijakan Siswa Tak Otomatis Naik Kelas, SMA Pasundan 1 Bandung Sudah Terapkan Sejak Lama - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzJtdV9nVEFFVVoxQXdzLTVWTXd6RXJfSmViU0pZcWdjMGZlbWlRdGV1WkVXUXM4UEttczR3YWUxaXRVTlRVRVpIV2RRVVZPX2xRR1VQZWc1V2ZkbVh4MnNuSnlYZmlVbVV0ZVgzbU1VRU1wZXJmbVRjVl9JVDJBdXRBdVAzZnFwLTNja29KU0lIX3VHWjZCOE53NkxJWmhUVG9DUEQ3c29BZ1kzYm5ZYUNHY1lTSDBLZ3JNY2pCV3JEVUhHazk2aHRrSkVtRHZYcDZFd2RR?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     6,
+     4,
      28,
-     4
+     5
     ]
    },
    "trend": {
@@ -515,14 +515,14 @@
      0,
      0,
      2,
-     3,
+     1,
      0,
      0,
      1
     ],
     "g": [
      0,
-     0,
+     1,
      1,
      0,
      1,

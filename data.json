@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:22:44.942807+07:00",
+ "updated": "2026-10-20T23:23:46.702785+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "RRI.co.id",
@@ -20,18 +20,22 @@
   ],
   [
    "Kompas.com",
-   8
+   10
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Disway",
-   6
+   "Inilahkoran.id",
+   5
   ],
   [
    "Satumedia.id",
+   5
+  ],
+  [
+   "Disway",
    5
   ],
   [
@@ -43,10 +47,6 @@
    4
   ],
   [
-   "Ketik",
-   4
-  ],
-  [
    "PPID Kab. Bandung",
    4
   ],
@@ -55,7 +55,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "Ketik",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "SwaraJabar.id"
     },
     {
+     "t": "Populasi 77 Ribu Petani di Kabupaten Bandung, Mayoritas Berusia Lanjut - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXBvQjNTcm5ObFM1eXh0TDNBal9BcUZ2OFl3QnFUeE9vcGJZeGpKTURFZ2MydF9CY1pMdHhsblh2c0dHUnNGQzNTYng4YmlWcmJDbHZSeU9GdjhjMXhlVWpLYWpfY1JGSGUzLUYybFhNeFRld0h0LXd3Nml2NnZGcm9ra1Y2NDh0aDAyUEpuSW1oUVAwazhNVFhwaTE?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Pemkab Bandung Alokasikan Rp40 Miliar Dana Panas Bumi untuk 56 Desa pada 2026, Infrastruktur Jadi Prioritas - pantau.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV29jWXlRamh1R1hHX081cG5yNWcxSWNraDUxVXFQRkczai1PODZfNGFOd01NNGhsNXY3cnVUanRYeFhubFIxeHlDRUg1eFhiUnBnME8wMTZIT19JYUdQbWVLVUhlVDJ2VGt5NzIzN0lRSTRXa2lKNlpqOWZCUGc3RWRiSHRsalFkcEdJd2c3WEpRVDBYV09Eb3NvNXlvUWVyZHBzUGRoRXU3ZFNDOTk4NmxYWmIwdXBBcjRQeTFWTDVwTUJ1NUxwX3FnQWFzVnVGTTVzQ3NYTE5KWTJY?oc=5",
      "r": "pantau.com"
-    },
-    {
-     "t": "Kabupaten Bandung perkuat regenerasi petani dan pasar produk lokal - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,7 +116,7 @@
      2
     ],
     "w": [
-     7,
+     6,
      27,
      2
     ]
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     3,
+     2,
      5
     ],
     "g": [
@@ -161,21 +161,21 @@
    ],
    "h": [
     {
+     "t": "Rehab Jalan Pasir Malang Berjalan Lancar, Warga Margaluyu Sampaikan Apresiasi - Delegasi Pemersatu Rakyat",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0OUZLczRuOE5VLWdRTXEyS2drMy1nT1dpT20zU2RRblVvekhoc1ZpQlBrVGJBMHQ3dFRJVk1uYXF0ZkFPdU5KSVpDMzZYLXg1bjBDY2NTY1FiN2VtVEFPeHdBYjl5djZCMG5NdzdqQWxYWnVGY3d6MTFHb2g?oc=5",
+     "r": "Delegasi Pemersatu Rakyat"
+    },
+    {
      "t": "Gus Ipul: Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - Inilah.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxqM1pFNkJiUjJXMEs0R0dUazhtLTN5NXktM09rQWVoX2xJRXI0a1ZabFRUaklMSDJmYW1OOEUzbm9hSmNIS2htc1JXSV91dDNmS2lvSmZ3dV9jUDdpdWRQanMyRVQwTHJoSmtqbk9ldV8yaUhaT1Q4UktaUUt2M2JnOE1sM0V4V3c?oc=5",
      "r": "Inilah.com"
     },
     {
-     "t": "Polresta Bandung Ungkap 50 Kasus Narkoba, 52 Tersangka Ditangkap - PenaKuID",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeW0xZ1VOZ0U3NzlKblJsa1RwVDhrazlDMWh3NjlZcFVucFJnUDRtYlI2dGxldXQ1UklhQ0k1ci1JLVpQQnhzbEpzZi1ZU01EUmhwRGVIZnZyR0NQcklIaGREY1Z0M045ODJsc2pKaEhOSTVHYWFoMWNUeUZKWHh4VVdTMEpKTlRxUnpNSnJpT1pEZ9IBkgFBVV95cUxOeW0xZ1VOZ0U3NzlKblJsa1RwVDhrazlDMWh3NjlZcFVucFJnUDRtYlI2dGxldXQ1UklhQ0k1ci1JLVpQQnhzbEpzZi1ZU01EUmhwRGVIZnZyR0NQcklIaGREY1Z0M045ODJsc2pKaEhOSTVHYWFoMWNUeUZKWHh4VVdTMEpKTlRxUnpNSnJpT1pEZw?oc=5",
-     "r": "PenaKuID"
-    },
-    {
-     "t": "Banjir Trusmiland Klayan Terus Berulang, Aktivis Desak DPRD Bentuk Tim Investigasi - Inilahkoran.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT210Um9tMndETnlXZ0tEMmlraDdzcmJfZ1VleHJJaHBTd1Fpb3JWMENQOFhaTE5KSkI4cVlRMS1HeXlaNy1WUnRYb2t4bmxKdG85ajZHNFRQR292Vm83bVpkdnUtQ3lWTTdhSzhtYlVmTHhXNXVJZ1d1YzM0Rms0dXpvdmVIMm43T3BFNWk5eFl0b0hvNGtkUHlBcHFPOUlEVDhKakVBMkpDSmta?oc=5",
+     "t": "Populasi 77 Ribu Petani di Kabupaten Bandung, Mayoritas Berusia Lanjut - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXBvQjNTcm5ObFM1eXh0TDNBal9BcUZ2OFl3QnFUeE9vcGJZeGpKTURFZ2MydF9CY1pMdHhsblh2c0dHUnNGQzNTYng4YmlWcmJDbHZSeU9GdjhjMXhlVWpLYWpfY1JGSGUzLUYybFhNeFRld0h0LXd3Nml2NnZGcm9ra1Y2NDh0aDAyUEpuSW1oUVAwazhNVFhwaTE?oc=5",
      "r": "Inilahkoran.id"
     }
    ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      6,
-     12,
+     13,
      2
     ]
    },
@@ -206,9 +206,9 @@
      1,
      1,
      0,
-     2,
+     1,
      0,
-     2
+     3
     ],
     "g": [
      0,
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     14,
+     13,
      2
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Demo di Bandung Ricuh, Truk Dalmas Polisi Dilempari Batu hingga Bom Molotov - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVhpWl9ONW4xQk9INHRZQl9NU0dQUUJsU0ZyYm1zSm9WbVJQOElMdEhrenJnNHNva2ZvaDJYZFJMSGJhVGNlLWt3VGNBMk55cnE4Y3dVN0E1dzF5SHdaUjdkRlBGeDJFYVJuOGZPSlZSd01md1B0R3FMTW9nTUp5UEhHaXpWOGNXWmhQMU9hdWtpZDVHLTFaejYzU3hjdXNlZ1BwSE9iZzZDRi1fWXpHbWh4MmZBbUpVTnpIZFF3N1ZMWHdVWWc?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Dalam 10 Hari Polresta Bandung Gulung 52 Tersangka Narkoba dan Sita Barbuk Bernilai Rp1 Miliar - | kejakimpolnews.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpCendMb0d3NXNZUzJBd3RPZkFINXF5VVBBTTFqWHRxOVVRbGVTbmRpZ1h4NC05cDlqbnZqLVMxY012UjFLZ1lISFQtVG9FbUMtS2N3RncySzFOZnM1UFVyd2dySERXNTJmb1dVVHRtTGY3VTFMV2tkbFJheVhmbjg4SFlMenZuc3hvWGFyeHRwVmZ0UkoyVENpUDh2V3NTR1E4RVcxUWpST1FrUUhDckpJblJobWdfbGlDcGlKYW1SbW85UXIteFhScHlMTF9VSjZoZHZtZ3ZNSGx0M25rQ1UwekZuZU9QNjVwNGV3?oc=5",
@@ -321,26 +327,26 @@
     {
      "t": "Dari Sajam ke Sajadah, Upaya Polisi Redam Aksi Geng Motor di Bandung - detikcom",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczhXeUwxUkNZanFQU0ZPVEZ6NENVelJDellza3NQV1VHdE1aWGpqZWRLQTdLT1pKRzZNdnFxbVoyMWhfMkdjMFRzcGV2UTYxeHZTeEpuVUZ3NXltLUlsRWdXaVBXLVpvUllrUzZ0Q1d5dHRPMWs5TXpoTURvNThEZFpsTmpteV9qUDVpWVlIVkdlMl9BTExUVFNKdnZTWWxXZG92RnNmX0ZzaFFVM3dyQmxMbGxadnlfTDVocURhVzFMQdIBxwFBVV95cUxPUTJ1OFRWc0hSN1BNNHlsU01NQk5RcDF5ajY1S3ZwUFNXcFVRMkRkekt2WFI1ZF9WTUhmS2FGTGcyNUI0YVItUVBBYUZuaUpmLTVmRmVYd2toWlpNc2hOTW00Rk1LeVpxWmRtZkNsN0RxYk8zVmljS2k4RlhtSm41Yk1NeU5fVi0tWVZ5aTEtV2xkQlNkOUpJeUN2V011VXpOUm9uRFBTTm9QZ282V1B6VTBxaFhwOXJJdFhOMXNBWFgtRU1vZ1FV?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTJ1OFRWc0hSN1BNNHlsU01NQk5RcDF5ajY1S3ZwUFNXcFVRMkRkekt2WFI1ZF9WTUhmS2FGTGcyNUI0YVItUVBBYUZuaUpmLTVmRmVYd2toWlpNc2hOTW00Rk1LeVpxWmRtZkNsN0RxYk8zVmljS2k4RlhtSm41Yk1NeU5fVi0tWVZ5aTEtV2xkQlNkOUpJeUN2V011VXpOUm9uRFBTTm9QZ282V1B6VTBxaFhwOXJJdFhOMXNBWFgtRU1vZ1FV0gHHAUFVX3lxTE9RMnU4VFZzSFI3UE00eWxTTU1CTlFwMXlqNjVLdnBQU1dwVVEyRGR6S3ZYUjVkX1ZNSGZLYUZMZzI1QjRhUi1RUEFhRm5pSmYtNWZGZVh3a2haWk1zaE5NbTRGTUt5WnFaZG1mQ2w3RHFiTzNWaWNLaThGWG1KbjViTU15Tl9WLS1ZVnlpMS1XbGRCU2Q5Skl5Q3ZXTXVVek5Sb25EUFNOb1BnbzZXUHpVMHFoWHA5ckl0WE4xc0FYWC1FTW9nUVU?oc=5",
      "r": "detikcom"
     },
     {
-     "t": "Rumah Keluarga Aktivis di Kabupaten Bandung Dilempar Bom Molotov, Polisi Lakukan Penyelidikan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHNVX0JPYnFzcmx4TzI3bnM1ODRZYlJhT3g2blhTTlVBOE96T3lqYzN1VXFOUDdfSllDZzdzeDBhQ0VXS001Q0dOWHFQWHFObHZsVHExYVVOY0ZtWDhkYTgyUTNOZW00RGlXQnI2Y3lnZ3QwMHRWQjBJSlFRMC1zVHF2UEFjYnJfY1lLTjB5N1JoV19WdkJZYkNtYmV5V2dLMWY1aWhId2pBRk51NUdqNzF1ZkdaZU44b01UdkV6TVp0TGQ1VURISXdaNWhrZ1d3Q0Nja0VMd2g3UEJzeFlabA?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=eIODLw2KpEc",
+     "r": "YouTube Command Center Teh Aanya"
     }
    ],
    "v": {
     "s": [
      0,
      0,
-     0
+     1
     ],
     "w": [
      2,
      13,
-     14
+     16
     ]
    },
    "trend": {
@@ -369,7 +375,7 @@
      1,
      1,
      1,
-     7
+     10
     ]
    }
   },
@@ -420,7 +426,7 @@
      5
     ],
     "w": [
-     5,
+     6,
      7,
      13
     ]
@@ -441,7 +447,7 @@
      2,
      0,
      0,
-     0,
+     1,
      2
     ],
     "g": [
@@ -483,6 +489,12 @@
      "r": "detikcom"
     },
     {
+     "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=0nie2O5wOp0",
+     "r": "YouTube Info Burinyay"
+    },
+    {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=cBMiT0cZNNI",
@@ -492,7 +504,7 @@
    "v": {
     "s": [
      0,
-     1,
+     2,
      0
     ],
     "w": [

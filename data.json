@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:18:49.588564+07:00",
+ "updated": "2026-10-20T10:20:15.053954+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Tribunjabar.id",
-   22
+   21
   ],
   [
    "Ayo Bandung",
-   19
+   18
   ],
   [
    "Kompas.com",
@@ -55,16 +55,16 @@
    4
   ],
   [
+   "Galamedia News",
+   3
+  ],
+  [
    "PPID Kab. Bandung",
    3
   ],
   [
    "Jurnal Soreang",
    3
-  ],
-  [
-   "Inilahkoran.id",
-   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS Dorong Rp 40 Miliar Bonus Produksi Panas Bumi Tahun 2026 Mengalir ke 56 Desa di Kabupaten Bandung - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQlN3NE0zQ3F5bUdaN1FGekhUVnY3UTZGV1JIZmVVTmhoSHB3Uy1vbFRqSVhzR2xJX1NjMkV0RnV2QUdsbzFKNU9PTmRXVTRGV2MwMi0zUEZPYUZza1BjeXo4NGVLcnkyUWRidDRhT0p1VFdCYWt6aFZzYTBjOWlxS0dwRFB2MVBnOUtjTGFTYnlfaVNINl9LdllybDJQejE4Y1RtZ0tROEtaaFVKZkxmOElfaFcwMWVvS3VxSWpvSEd1LUl5cm1ScWl0ZWRjV1pZUFNtdGVkT0Y0S1VOMVVJV1VzMzVveUw2bG1mZEtB?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Perda Penertiban PKL Bandung Dinilai Bertentangan dengan Prinsip HAM - BandungBergerak.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHZmLTB4ZUowVnl4YkdsWDBIOHlOT2cxV2tXWGR6cWg0QkdsT3hOVW9mS3VpcTExNDd5QVdQT2I0Y3AzSWNqM2pHYVZadUZkZm01NmlyckxITFlmRjVXczBHSE1EaDFuSnlJb3hjQl81Tkt5X2QyZVdvZDRUMjMxQzNsRmdtSElNVzJqa1BBVkp2X0I5bjlzcjRyZjFuN0hvbVVqbnBqbkhIRDNJejlkRVJMZ0JaanZaSXI3S3ln?oc=5",
+     "r": "BandungBergerak.id"
+    },
+    {
      "t": "Tak Hanya Insentif, 1.012 Ustaz dan Ustazah di Kabupaten Bandung Dapat Perlindungan BPJS Ketenagakerjaan - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnFubWhXbGNzNnBBa3NWZUdOUlpINkVlcGpvcnpBZ2FiR2p1QzRWLXRMUnlneW1qNXZNLXhhb09oZ3dBdGxCS3g1bGxEU3dINXhlR3paWFVZNWQtY3VxcExSSDNYMUx5ZDZNMlhhM3VCZGhWbU04dlFESVBJdG9tU3RGMEN1R1JzZ3Z4dmVKV0ZSMFlwMEhxbFRXNll4T2JpYXFDNXBxVFE4d1JzbWpfSkpleGhZS3VTNVgwSnBtbDNIVThETW04RVM5ZnFPRjlz0gHCAUFVX3lxTFBsRnY0dW9vR1BuWnFDVm8xeE1OR0hVWFEzdVE5VG1nbS1NM0NMclYydWxCaWUtYkJKa3VjUnVCa1E3STRUVFFBVEVBT1kzcGkxOXZqYkhsMlZoMHB0cEZ6YUlWS3NfY3NXT01DY3UyN1VJN2RhWmtSY0JnUTl4TkRFQ0ZOLV9IX0JEWEYtcl90MjRsSlNlTkFlWXdESk02SDkzM2F2VlBVcldaTXlsRnliY1NxNGI5SzFoY3RDeUwzQ3Fn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEZ2NHVvb0dQblpxQ1ZvMXhNTkdIVVhRM3VROVRtZ20tTTNDTHJWMnVsQmllLWJCSmt1Y1J1QmtRN0k0VFRRQVRFQU9ZM3BpMTl2amJIbDJWaDBwdHBGemFJVktzX2NzV09NQ2N1MjdVSTdkYVprUmNCZ1E5eE5ERUNGTi1fSF9CRFhGLXJfdDI0bEpTZU5BZVl3REpNNkg5MzNhdlZQVXJXWk15bEZ5YmNTcTRiOUsxaGN0Q3lMM0NxZ9IBwgFBVV95cUxQbEZ2NHVvb0dQblpxQ1ZvMXhNTkdIVVhRM3VROVRtZ20tTTNDTHJWMnVsQmllLWJCSmt1Y1J1QmtRN0k0VFRRQVRFQU9ZM3BpMTl2amJIbDJWaDBwdHBGemFJVktzX2NzV09NQ2N1MjdVSTdkYVprUmNCZ1E5eE5ERUNGTi1fSF9CRFhGLXJfdDI0bEpTZU5BZVl3REpNNkg5MzNhdlZQVXJXWk15bEZ5YmNTcTRiOUsxaGN0Q3lMM0NxZw?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Rencana Pemfungsian Eks RSUD Soreang Untuk Sekolah SMPN 5 - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1B5MFUwb0N4cHcxOFRRZXFNNzV5dVB3clUtdTdzN1U3WTg2SVJ5SFpxcFdGUkhDOEYtLWJVVVI4UFl6akdfbVRucmdWa1QtVHBHWWVfRDBQVW1FS1AzeUU2bm9OclVrWk1mZi1KbWpuVXRTcEp1blloRUtGVF83UUdOWEF4N2VDTnRmQkN2V1VBZmxGd1gxODh3WVhyN0JMOHAwa3kwUG45bW56dzByQk5DX2JpbEE?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "BSPS Kabupaten Bandung Sasar 3.047 Rumah pada 2026 - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDF0MVAxb0VXdnhKUFdNQlhBS1BwRFJ6ZTFsMFpxcWhIdEVPNi1VRlNVVGtnUGNrcUZ0cV9HbXhESC1pbDhOMXBZRXd2VXlPWFhOSnBZT2hZTWliTDRmbG0ySVcxVTBNX1J1SzN2cTl5V0p3REd3aGFqbFVNUlBTUFZ6ZjVkOS1pWWdiMUFzbk01ZlZfMU9lSjRLUDdHak5BajByUw?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -117,8 +117,8 @@
     ],
     "w": [
      4,
-     27,
-     4
+     26,
+     5
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     5,
-     0
+     4,
+     1
     ],
     "g": [
      1,
@@ -147,7 +147,7 @@
      0,
      0,
      4,
-     0
+     1
     ]
    }
   },
@@ -270,7 +270,7 @@
     "w": [
      5,
      16,
-     3
+     2
     ]
    },
    "trend": {
@@ -298,7 +298,7 @@
      0,
      0,
      2,
-     1,
+     0,
      0
     ]
    }
@@ -477,10 +477,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Dua Tahun Pemerintahan Prabowo-Gibran, JPPI Kritik Anggaran MBG Masuk Pos Pendidikan - Halaman 2 - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0hnN3YtLXBHclg2bWYzYTY0dm9Ha0RqMGQtWkltY283QklwVVp0by1DWXdZMUVvX3dkOS1LS1VWbHlpMldZc0dVeTdHYkFqbnVaVWJOWDlBdXd5OFpsSU5LdGllamN3Y1RwYWxpM0NNem9VeWIyX1J0MFFFcWUtMHM0cGZPei00ZkUteDBTTnRIcGFUNW00djdIUVZIVWFPbkRvck5rTWRRVFdjZ203bVBLMHd1SXhkSkdjdDRwUXFzcEVCSUc0SkNPaktMa1VNX0t6Q0ExTHM?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Berita dan Informasi program revitalisasi sekolah Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnRLOEdNZ0N3ZGhZS3ZYMk9IQ0dKWDdlbUZXMmZWeE4yTkV4dkdtaG9Vd2FJcGdud20yVVcyRTJFYXM5VUp4MHc0VnU1YktUbGhqZlpWU0RSVS1vbkZrWHhUaldrdjczbDM1RUFR?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan mitigasi bencana bersama BPBD Kab. bandung. SLBN Cinta Asih",
@@ -497,8 +497,8 @@
     ],
     "w": [
      7,
-     27,
-     4
+     28,
+     3
     ]
    },
    "trend": {
@@ -526,7 +526,7 @@
      1,
      0,
      1,
-     1,
+     0,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:20:40.101604+07:00",
+ "updated": "2026-10-22T02:25:14.226615+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   31
   ],
   [
    "RRI.co.id",
-   24
+   23
   ],
   [
    "Ayo Bandung",
-   15
+   23
   ],
   [
    "PPID Kab. Bandung",
@@ -28,35 +28,35 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "detikcom",
    6
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
-   "Radio PRFM",
-   5
-  ],
-  [
    "Satumedia.id",
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Jurnal Soreang",
    4
   ],
   [
-   "Inilahkoran.id",
+   "Radio PRFM",
    4
   ],
   [
    "jabarekspres.com",
    4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ],
   [
    "Ketik",
@@ -85,16 +85,16 @@
      "r": "VISI.NEWS"
     },
     {
+     "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Kopi Spesialti Kab Bandung Tembus Pasar Ekspor, Pemkab Bidik Pasar Lebih Luas - Melansir - Melansir",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1dNaXJUX1ZlY0tWcm02SmlzcEJPUEhnN0NKZU8zN0EzTGZzZVpKRGl1OGpNMWFMRnA1d3Y2bnNVTWNGWHBzaUFOOEJZcm5TX3pSWU1kbENkeS1EVnFBNENsNzBWZTUyM05VaEY0T0NPOUhHbVdJQS1NYjNMaGZiUEctX3pTN3FhQldtS1NSa0lKQjl1ZUl6SFBSckFBeFVvV2FOY0Y0VE9xeWdtdVN3YlgzYnRFSGNyaGfSAb8BQVVfeXFMUGFsODd1cDYyTG5rVDZid2VSWkZPS3NEWThWTm1JRnU1TE5FMHM0M2xONS1sX1hRVG5ZVVpHbnVCS3pHd0pYTEI1OVpBOUE1SEtZRlFZMEdob3oxZG8yR3NoTGU2UDVNYW82dmtVbGRkOEtVUTVjd0I3ZGVQa0dEOWYwLW1NY0xHMEFSaVlXR0ZsTVRPVjNFQkVnYmxIY0ZuaDhQdjlSS1VHd3BWd1FxWmoxZ0s4TTJsQW9PVGVnSUk?oc=5",
      "r": "Melansir"
-    },
-    {
-     "t": "Pemkab Bandung Dorong Sekolah Rakyat Jadi Pengungkit Kesejahteraan Masyarakat - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE93c19MQURnUmtSajBZZjJuQnN6MTMzaW4zMFNyM0JSX2pXS0g2bC1NNVA3Q2Uwa0RnMjJUZlhVUFFMcHpzMWVlSEdJUXJwdWZmQlFJSFNROW5RZ0k2c0VPdHV3X2tEWVhQOVBDZWtscTNJR2NrVF9PaUc3d1RsVV85S3c2ZWVIemtkUkxyNHR6VUlKYkRVMGo1ZjcwZ2hOX2I3YzFjM0JRTXFPQTVhV2YyRzU?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      31,
      2
     ]
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     1,
+     2,
      4,
      0
     ],
@@ -163,13 +163,13 @@
     {
      "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung bina petani pembakar jerami yang ganggu warga - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlE1d3ZETkh0MU1rRVhjbzF2d1RCa2pmMXcyZ1ZWcUU5Z3RFNmc0Ukg4dERsRGlCRERCR1N2Y0FYVHcwWEJfMHEzb1czbXpsTTN3LXVZQ2FRN0JpeXZpeWhscUVyZmg0a0ktMkpTaDhmYW1yTkpyX3VHVnA5eFR3ZjFoM2hNelpHcUFmX0d0OFlhbldaSV9XQUMtMk5ZcnBIYzFGalZSMF_SAa4BQVVfeXFMUGNCNGNHSEpUWmxBLXhYS2ZNR09mSnMybHJmRkZWTGdLaWkyVVNqOTEtd1NvRE5nVTBwVVBWX1hHOENiakhSaVhINm54TW05ajduS2MtTTBMTGk1cUhYeWhQeTdrcnFPUFBXUE1MbnpSaS03MXIwQTRueTN2UnBwZW1YTG5SOUUxbHZ5T2F1OVRhVWdEU3BQNkNVUFYxRzhLaFluUVNpV0lFU2hFcWF3?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTExNRVVTM01scGdvTmVWNTFRbkpJVEJPeXZzUW1jRFVXZlVRcUFHSDh4Sm1WVkhnclNFNXZrbTRneGJzYVphTF9RSU9jQ004R2UtdUZmTVFLX1B6Ri12Z3JiVEEwdUpBZGhCb1NrWTk3YUtQM0FRaFAxek55Rkg0Z2lpMFo5cm14enUyM05Qc2RKZ2taRWJWMFpEaExhQkV0SGhhZGtaOHZoS0htUnBPUzgtR2d3b29sWGpScmxxel9HaXNzeU9jOQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0FiNGYzNHZBNHhydEJpbHpxcDJOY19TX1RiVUZ2bVRJWFh3OUJvR2x2M0JSaHVIb283VnpUSXY1NGRuaWlVSUd4U2tQVng1NWkzMFZ3dmxhZUoyUFkxNmZKZnZHRUpQN1hYOHJEaUVONWY4SENKTHZEa3NJWkl0NUlWNWlCRFBYeW54ajJub082b0d2UVg0STVYT25MelhlUGs4eTZMbzNpZ0JiQ0VWM2FYd0htam1MR2c2TGJn?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Serdik Sespimma Polri Angkatan ke-76 Bahas Stabilitas Harga Bahan Pokok Bareng Dispakan Kabupaten Bandung - Pikiran Rakyat Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTl2WmZPT25oa1g1SENqT3NmNElGTVhBNXU1cFVST3NqdFJtcFAzRkJxZElHS1RVT1c3RmxZNGpPUWxmM2VzYnFIZnM1WjN1UVFVREI2d2xKX1VZNXdEUjlfOFh4aWF0RkdqMHRqLXpsVWc2RFZScThfSUY4SUs4VVpVU0Nsc0VRSWE4ZzRNVkN2SFUyY1JfakM1YlpfRFpRLVBHU3I3OWJYZmJvQzk1cWE3NzRsQkRNblpmNEJ5MHp4NXdFcmpKM3FZRnVLN1R5T1dlR1h2S0dFU0xaTVhqcEtoRXpnRG9faUNUS05pY1NTdW13ZjVB0gH8AUFVX3lxTE5IaWFqeFEtUXotYkdtNm9BUm5EQzdkYXNmclFzTXVfR2JkRVRPcWY3a0g3WnV0bmlhdEh2cTl1WlhneEpKTWJ2Q1lVTFdhSHNzRURGN0MtM3dQVExsS3FPbFU1ZVlVa25iODZTdXAxRmdjd21fQXg4OHJFd3hwR0RrUFVaSFY2blo5QXM2dHZHa2I2eS1jcEZuRWRiXzVlVEhaMjV5T3JDcmQyVjRpWGRzWHhMYzEzSmREZlJTV21RVV81eWVaejAtemhtNlNHR3Ixdzl6bWIwc0dWNVNmUzJZSVozSV94NHBpMzItOGNlQ2NULWxtNDNzSnBfcA?oc=5",
-     "r": "Pikiran Rakyat Jabar"
-    },
-    {
-     "t": "Sespimma Polri Angkatan 76 Soroti Harga Sembako di Kabupaten Bandung, Ini Empat Langkah Strategisnya - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbTNRWVdqdTdJcTF2aWw3d3V0Tzc4d2xycmhTNXc4WDhmRVVabW1BUk5ueEVjOHZFcVpPWTNIcVdxNWdRNWtCcHluYTF5cWRrT3VGd0VmSmRMX1I4aVBIdGcxd2pFYnp5VXpQbHlIREdmUjVkLWhQY0RsUzBscnBxSkpKdVViN201X3BTR2NPclFDTTBLNW1zYnJRNC1MelNFSlpvSGIyX2ZfWld4NG55SEhiWmRCWEg3bzhWNlAzU3QxZ1dfdXY4YWdFb3NxaW5CV3F0NUE4X2x0Z1lUSV91dlZ5cXc4RmphQVVpVUc4QjFCa0XSAfgBQVVfeXFMTTZybWdKaFBaOG9taE5tZDllVGVUcGVDTjM5YTJvZUNFVnJHYUc0SVRrZV9lX1pVY2hDN05MeUZXQ2pDaDh6R0pCNWczdlAyZGFYclpzeWhkZXJSaWJtdm1jbGFWX005R3hDdXRYLTBvWlVycTFXeFpRaV9rQ1B5LVRDdFVUWFNzeFpyUHFaVnMwX1ljS0pwUzFrM3lfSEluUkNHV0lHdkRlTFg0WHYwZTd3VzIxTjFGNkppNTVCOGNybmtFdXE4WVdBcUhhaGhSdmlCb3hvQkdLb19NbkFCNzJTWHNaOGxRQmRYbzlzMHFxYm1IMmFXY3k?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     3,
-     16,
+     2,
+     18,
      5
     ]
    },
@@ -284,7 +284,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      2,
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     18,
+     21,
      20
     ]
    },
@@ -369,11 +369,11 @@
      0
     ],
     "g": [
-     0,
      1,
      1,
      1,
-     11,
+     1,
+     10,
      7,
      0
     ]
@@ -426,7 +426,7 @@
      1
     ],
     "w": [
-     2,
+     3,
      7,
      8
     ]
@@ -442,7 +442,7 @@
      "Kam"
     ],
     "p": [
-     1,
+     2,
      0,
      0,
      0,
@@ -451,11 +451,11 @@
      0
     ],
     "g": [
-     1,
+     2,
      2,
      1,
      3,
-     2,
+     1,
      0,
      0
     ]
@@ -471,12 +471,6 @@
    ],
    "h": [
     {
-     "t": "INFORMASI NERACA 2025 Dinas Pendidikan Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JSeEVnb3dNNWtIZlZ0SnpCN3p6bHh1Y1U3S2xEdlBFNEE5cFQ4c2ZURjYxM3V5b2djTnlXOFI1OGRTN3FHQmpFRDI0VEpTYWJxYnc5U0xDVzhodEFJNWNmSWM5LXpjNEdOeEo0YzNJT2Z2aFhyRElIMjE0LVJiWEhrbWdKXzE3QzlJVUozbktPc0pXQ1M2NVpfSmFvcUhKbUhZajhUZDVrczY3WGo0?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
@@ -487,6 +481,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
      "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Mensos Pastikan Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -503,8 +503,8 @@
     ],
     "w": [
      4,
-     28,
-     4
+     25,
+     5
     ]
    },
    "trend": {
@@ -527,11 +527,11 @@
      0
     ],
     "g": [
+     0,
+     0,
      1,
      0,
-     0,
-     0,
-     2,
+     3,
      1,
      0
     ]

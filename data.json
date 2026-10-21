@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:28:48.979962+07:00",
+ "updated": "2026-10-21T09:19:40.085656+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,11 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   24
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   6
+   23
   ],
   [
    "Kompas.com",
@@ -31,20 +27,28 @@
    5
   ],
   [
-   "ANTARA News Jawa Barat",
+   "jabarekspres.com",
    5
+  ],
+  [
+   "detikcom",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   5
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   4
   ],
   [
    "Satumedia.id",
    4
   ],
   [
-   "jabarekspres.com",
-   4
-  ],
-  [
-   "detikcom",
-   4
+   "Jurnal Soreang",
+   3
   ],
   [
    "Inilahkoran.id",
@@ -61,10 +65,6 @@
   [
    "Radio PRFM",
    3
-  ],
-  [
-   "ANTARA News",
-   2
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sespimma Polri Angkatan 76 Soroti Harga Sembako di Kabupaten Bandung, Ini Empat Langkah Strategisnya - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbTNRWVdqdTdJcTF2aWw3d3V0Tzc4d2xycmhTNXc4WDhmRVVabW1BUk5ueEVjOHZFcVpPWTNIcVdxNWdRNWtCcHluYTF5cWRrT3VGd0VmSmRMX1I4aVBIdGcxd2pFYnp5VXpQbHlIREdmUjVkLWhQY0RsUzBscnBxSkpKdVViN201X3BTR2NPclFDTTBLNW1zYnJRNC1MelNFSlpvSGIyX2ZfWld4NG55SEhiWmRCWEg3bzhWNlAzU3QxZ1dfdXY4YWdFb3NxaW5CV3F0NUE4X2x0Z1lUSV91dlZ5cXc4RmphQVVpVUc4QjFCa0XSAfgBQVVfeXFMTTZybWdKaFBaOG9taE5tZDllVGVUcGVDTjM5YTJvZUNFVnJHYUc0SVRrZV9lX1pVY2hDN05MeUZXQ2pDaDh6R0pCNWczdlAyZGFYclpzeWhkZXJSaWJtdm1jbGFWX005R3hDdXRYLTBvWlVycTFXeFpRaV9rQ1B5LVRDdFVUWFNzeFpyUHFaVnMwX1ljS0pwUzFrM3lfSEluUkNHV0lHdkRlTFg0WHYwZTd3VzIxTjFGNkppNTVCOGNybmtFdXE4WVdBcUhhaGhSdmlCb3hvQkdLb19NbkFCNzJTWHNaOGxRQmRYbzlzMHFxYm1IMmFXY3k?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3VWbzNwb05mN1h1elFBVXpoY2g0UUVyTDlXUXJUd2NNSTU3T1AwYnhiWTVMcTBvbWFrcy1TekZPeFJyUGptcnk5dFBaZWg2WGtPdVVHQnRIR1hQMTFZbVMzZVpjeVlIT1lyQXdIQ2plNnlObnBTbVFYZllXd2hYTmNJTDdUR2o0RTB1OHFCZHdhM3lUMUREQ2FZUVZ5bF9QbE5GWWtlWDlDaXJuNlBjUnh6NnBWWXFNeHpZR2x5UVVraXl2RHhlYmNfc3FzYnJvRnRWOFNHTzBTc2ZhcTlqbm5rYnkydTVKS3hwV2FZemtQdjFEZk4wLU5sbEI0SGQ5OXhj?oc=5",
      "r": "SwaraJabar.id"
-    },
-    {
-     "t": "Populasi 77 Ribu Petani di Kabupaten Bandung, Mayoritas Berusia Lanjut - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXBvQjNTcm5ObFM1eXh0TDNBal9BcUZ2OFl3QnFUeE9vcGJZeGpKTURFZ2MydF9CY1pMdHhsblh2c0dHUnNGQzNTYng4YmlWcmJDbHZSeU9GdjhjMXhlVWpLYWpfY1JGSGUzLUYybFhNeFRld0h0LXd3Nml2NnZGcm9ra1Y2NDh0aDAyUEpuSW1oUVAwazhNVFhwaTE?oc=5",
-     "r": "Inilahkoran.id"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     5,
-     26,
+     6,
+     25,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     5,
+     6,
      0
     ],
     "g": [
@@ -187,7 +187,7 @@
     ],
     "w": [
      5,
-     9,
+     10,
      1
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Sespimma Polri Angkatan 76 Soroti Harga Sembako di Kabupaten Bandung, Ini Empat Langkah Strategisnya - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbTNRWVdqdTdJcTF2aWw3d3V0Tzc4d2xycmhTNXc4WDhmRVVabW1BUk5ueEVjOHZFcVpPWTNIcVdxNWdRNWtCcHluYTF5cWRrT3VGd0VmSmRMX1I4aVBIdGcxd2pFYnp5VXpQbHlIREdmUjVkLWhQY0RsUzBscnBxSkpKdVViN201X3BTR2NPclFDTTBLNW1zYnJRNC1MelNFSlpvSGIyX2ZfWld4NG55SEhiWmRCWEg3bzhWNlAzU3QxZ1dfdXY4YWdFb3NxaW5CV3F0NUE4X2x0Z1lUSV91dlZ5cXc4RmphQVVpVUc4QjFCa0XSAfgBQVVfeXFMTTZybWdKaFBaOG9taE5tZDllVGVUcGVDTjM5YTJvZUNFVnJHYUc0SVRrZV9lX1pVY2hDN05MeUZXQ2pDaDh6R0pCNWczdlAyZGFYclpzeWhkZXJSaWJtdm1jbGFWX005R3hDdXRYLTBvWlVycTFXeFpRaV9rQ1B5LVRDdFVUWFNzeFpyUHFaVnMwX1ljS0pwUzFrM3lfSEluUkNHV0lHdkRlTFg0WHYwZTd3VzIxTjFGNkppNTVCOGNybmtFdXE4WVdBcUhhaGhSdmlCb3hvQkdLb19NbkFCNzJTWHNaOGxRQmRYbzlzMHFxYm1IMmFXY3k?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Musim Hujan 2026/2027 Lebih Pendek: Panduan Strategi Tanam dan Pengelolaan Air bagi Petani - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTlCVngwaDhHaExUNGVtQ01hQ3IwVjZ3OFVRUHFOVWtlV1Bic3ktMFBqTHo4aHFiZGlTX1FGZDM2RDNFdTAweTdJY1hDWFdjMXVRQjdZbzFrTEM3cnN6Z0w3NDVlUl9qbjBKMkhMaUc2RlZkcGluTEVBckMtS1NHZ0diZFlXYXZKV2lMOU5qUFd4SFhUdkJfSXhKVkZLWXhVNHJnVl91VWx4dEpTUW1MbUxCZkQwZUhhYmtvN1hObDFEdmliVkFwd2E1Z0RGTDlYMlEtWTBn0gHbAUFVX3lxTE5rVXhvRFdJOGg4YVRTdk5QbFZZeWhWUUdFanMzVllwbWJOTHRWZnpIS1dwOWVHc2s1LWk1eEVPX3UwMlh4TUo4NmxNakxiQmUtY2xCYWVxRzFpbmRqbUExeTNIY1JYT2tpclF4dG9yMk13TWFybUVkRmRWMEJKdm8wMm1jT0RGTC11U1pvOWJZSGZxdk5wc2IyV2YwcFRGbHhUZW41U1N1aGg5VGFQbkxmSWVXdDJtVWNWUkVDX3ZnUW1BRXBTMklrckpLc29RNm1UMU9BRVQ2cmpicw?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "HIPMI Jabar Gandeng Pengusaha Muda Selangor, Bidik Peluang Investasi - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUZzNTdVa3l3TzVEVDlHX2owTWJUVkVVUzV6VTIxdDctVzRpeFNZdWl2N1JjV2hkY2l0X3VjbEtEdGx0dUctTjVYMWJFSUNreXZpUUd5OFJWT2dBb2l0SEhRZUlmUVRyMzJWaWttci12enJKb01XejRHRV9pbkg5dXZQQ1dsVkJVWURNOTBYUDZzaWFPLWJsdkpyTGUzWjJ1b2MxaW4teXhjZFBYUUdTdHdCakMtV1BQLVE?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     15,
+     14,
      3
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Rumah Keluarga Desta GIE Diteror Molotov, Polisi Turun Tangan - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnlUanoySmswM2g2c3BrWFMtcjhXaDgxamo5SHpick11eW8xeTJWUGx4WG9aTWZIT2xWLS1pV3FpVUxPTXBWdUtWS1BUdXY1RGxnOGpMNlRweGdXaUZ3dlJ0VXlKamdkSlhsdmJqa2FBakdoOWd0VTNudE11c0oxcDZrUWxST3ZFcTFMb2VjUGFfamg2T19PTW1famgyZmV6LTFzV3JsR01hak04LXozVDlITGpTanc20gG-AUFVX3lxTFBuOUNmMmxBdDNsTXJHVnVsMWdZamQxdGhFQnp4bG5SUEM5cG5wNEF1ZlNsc01PSXBjT2dkSWtnRFlXazM0QzRCUFBSMVU4cVFweEllMURuMG4taXNQUTItTWVwUjBTVHZZSnFHelpSYklUaDBXcV9WdDI1ZDNUbW5ET1I3Q3YyTG0xZlBGM3FTOGF5TUM5ZHZDeG1aQTg4a1hGYlhwSVBqdjBCc2JlYnVJM1JsWjJpeTNrZGFJUmc?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Truk Dalmas di Bandung Diserang, Polisi Masih Berjaga - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMC1DZUtEZ3RmLXY2YnZnbGk3cV9sNVpoX0lJVnMtMVF1blg4Q0FTek95b25SVjNITEZUaER2UHlGb1dsSWlpY0NCTGdQYWV4WDJXVmJTSENXdE9kWVZFUC1GQjZvNk4tZHVMM2Z0dFNwZS1BMi03dHpOMklYQzNScVFCRUdRWXJaaE5FZU05UDlHWXlwTDNoODAtLTUweTFYUTVvaUJB0gGrAUFVX3lxTE11ZHpnV1FXN3J3MlBncHJ2WFFySU16Z253dGNGY2NPNDNpVzJqM3FjRmw2aFlXamV4Q2NmUkw5VnJfM1FSenZYYVpUcm4zREE0aUhieWd6SGNncXpJWHByQ2pTM2l4VGI0akxTWUZaMTJIdjYzakEzYTNFQm9yM1gwbUhEU1BlYkFIV3ctejFTQjFpRmtqRDZiWkZRam40VzRRNXd2QmJYN2tnOA?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0NMT1VSbUxqMFdFZzZlenQ4MXZCMUVuUnFLczZUeTNpd0FZVi03OS1SVERSQkotcldNZFcwdG1iNUkzZWhhdFh4cFN2MWFaTlV0WnpPSmQyTjVueXF5bnJzeEgwY2wybzNrVHY2aUhFQUM2UWZKRlNyOU02WE5VU3VpUkhleGY0ajc3ZEFuWW5WU2RROVQzRld5VHc1OHR4SWNjRDlrUl8xZVlnMVBGbU1LbG93TjRlSjB2R3FZUExQbEZ6?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Tiga Polisi Terluka Akibat Penyerangan Truk Dalmas Polrestabes Bandung di Sulanjana-Cikapayang - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOWdRU1QwUjZOOEpTM3JCUFpKQ1BTZGt3LTBNVE9QZGFKN01MUlFOeFZJZm1wTFcwdHVfSnJKV050b3kxNHZOaDhrcVRMem5QRHcxUnN5SWhQeElCZjUwazg4bFZpNWIyVFdZRExyaGFMRks4dFI4VVJMZjFkSUFzZUpwVmNoREh5UVVucEw1NHRqdFNJdDNiT2NUYk1WX2tPV3FNWThPemJwY0s0VDc1T3NsYlZqUGVUekZfd3h0NUV3dVhOemJFckV0Y3ZTZklPVGl6UTRxejBrWm5kbnc?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     14,
+     15,
      15
     ]
    },
@@ -428,7 +428,7 @@
     "w": [
      6,
      9,
-     12
+     11
     ]
    },
    "trend": {
@@ -452,7 +452,7 @@
     ],
     "g": [
      5,
-     2,
+     1,
      2,
      1,
      3,
@@ -503,7 +503,7 @@
     ],
     "w": [
      3,
-     28,
+     25,
      5
     ]
    },

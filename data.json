@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:18:46.090990+07:00",
+ "updated": "2026-10-22T06:16:39.684065+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   31
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Ayo Bandung",
@@ -20,7 +20,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   11
+   12
   ],
   [
    "Kompas.com",
@@ -35,19 +35,19 @@
    6
   ],
   [
+   "Satumedia.id",
+   4
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
-   5
+   4
   ],
   [
    "Jurnal Soreang",
-   5
+   4
   ],
   [
    "Radio PRFM",
-   5
-  ],
-  [
-   "Satumedia.id",
    4
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      5,
-     32,
+     31,
      2
     ]
    },
@@ -237,9 +237,9 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga - Kompas.com",
+     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga Halaman 1 - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTU5alFRNWRCWktfcmxzbVRBZTB0QUxUUTNXMkZTTkNYeFNDUjZPSXFPRzRpR2dfVTNxZmI1alo0SmZtY0s5NWkyWFg5NWhCU3hjYmtfQ2FPaV9uQ1lUaFM2TnMwMVJaOFp3RG5Qa2c1NlhRLUVYWEJBUnNyQmlIYjk1VmxLcVBxalR5emlDclk1TzRlQVptMnNZTVV3NGFXNm5lYy13emtVdWNVZ0xWREhxNVJVYS1FV0o4SEJ1NA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTExNRVVTM01scGdvTmVWNTFRbkpJVEJPeXZzUW1jRFVXZlVRcUFHSDh4Sm1WVkhnclNFNXZrbTRneGJzYVphTF9RSU9jQ004R2UtdUZmTVFLX1B6Ri12Z3JiVEEwdUpBZGhCb1NrWTk3YUtQM0FRaFAxek55Rkg0Z2lpMFo5cm14enUyM05Qc2RKZ2taRWJWMFpEaExhQkV0SGhhZGtaOHZoS0htUnBPUzgtR2d3b29sWGpScmxxel9HaXNzeU9jOQ?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -269,7 +269,7 @@
     ],
     "w": [
      2,
-     17,
+     18,
      5
     ]
    },
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     22,
-     18
+     21,
+     17
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      1,
      10,
      7,
@@ -451,11 +451,11 @@
      0
     ],
     "g": [
-     1,
+     2,
      2,
      1,
      3,
-     2,
+     1,
      0,
      0
     ]
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "INFORMASI NERACA 2025 Dinas Pendidikan Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JSeEVnb3dNNWtIZlZ0SnpCN3p6bHh1Y1U3S2xEdlBFNEE5cFQ4c2ZURjYxM3V5b2djTnlXOFI1OGRTN3FHQmpFRDI0VEpTYWJxYnc5U0xDVzhodEFJNWNmSWM5LXpjNEdOeEo0YzNJT2Z2aFhyRElIMjE0LVJiWEhrbWdKXzE3QzlJVUozbktPc0pXQ1M2NVpfSmFvcUhKbUhZajhUZDVrczY3WGo0?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Mensos Pastikan Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -503,7 +503,7 @@
     ],
     "w": [
      4,
-     25,
+     26,
      5
     ]
    },

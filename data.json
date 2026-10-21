@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:22:09.799944+07:00",
+ "updated": "2026-10-21T14:34:40.443247+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   28
   ],
   [
    "RRI.co.id",
-   25
+   23
   ],
   [
    "Ayo Bandung",
@@ -24,6 +24,14 @@
   ],
   [
    "PPID Kab. Bandung",
+   7
+  ],
+  [
+   "Ketik",
+   5
+  ],
+  [
+   "Jurnal Soreang",
    5
   ],
   [
@@ -39,11 +47,11 @@
    5
   ],
   [
-   "Jurnal Soreang",
+   "Inilahkoran.id",
    4
   ],
   [
-   "Disway",
+   "ANTARA News Jawa Barat",
    4
   ],
   [
@@ -55,15 +63,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
-   3
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   3
-  ],
-  [
-   "Ketik",
+   "Koran Gala",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Sespimma Polri dan Disperindag Kabupaten Bandung Perkuat Pengawasan Harga Bapok - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdW5Rc3EyaUo1SjdpYkpxUEMtNUpqQUdyM1RjelpFcXdMSjRmNHFWeDFGaDZYb3FzWTRhVzdPdW5UeEszOEtrMjd3eFQ1b3lNTXh3bEVOSXptZ3dKOUZteTJZa2IxVkpFYTRwQy1QTkwtbkl5cS1FVTlkZ2hDNGw3d2x0LWszd2xFMW9UTmtzZ3RCVTFaSF8yMGlxTVZIVWZ6T29z0gGjAUFVX3lxTE51blFzcTJpSjVKN2liSnFQQy01SmpBR3IzVGN6WkVxd0xKNGY0cVZ4MUZoNlhvcXNZNGFXN091blR4SzM4S2syN3d4VDVveU1NeHdsRU5Jem1nd0o5Rm15MllrYjFWSkVhNHBDLVBOTC1uSXlxLUVVOWRnaEM0bDd3bHQtazN3bEUxb1ROa3NndEJVMVpIXzIwaXFNVkhVZnpPb3M?oc=5",
+     "r": "Ketik"
+    },
+    {
+     "t": "200 Ribu Warga Kabupaten Bandung Masih Miskin, M Akhiri Hailuki Dorong Sekolah Rakyat Jadi Solusi Nyata - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHlfODVRMGlUTTVQbWN1NDE5MWNDeUwwUGc4QWZpR1hUeTNKWHlvTEl5Z2tCakp0WUVMZWs5Z0VGbVhzOXpiMkFnX2k2ZzNlb1ZMYi1UdUszdkRxRm1zdDd2LUl0YnU1bXloQjFjMkplUHMzd1BqQXA2cXZOVC1ZVWExTk52d1llWDNnbjV6NjQwbmI3am93NkR6QWx0aW9qTjBSYWNNTEU4MjJ4alh1SjRqUlh1enJPc2wyb2NLM3pMeTBWcURVaHJYRWxRY0R0a0F4a3RCSHk1SHpfcmczWUtGSTRvWWVOTzlZTFZsQWJyR21oa2Nj0gH8AUFVX3lxTE14dGpOUWVtOF9odWlEdlR0VnV2N3prd1VrYW42V3V3d3J2LWFLVnlhQlNjWkJCR3c4bFJNYW9GTVRuNGxHbEJVNFpiN3NTNjBuMWxzVS1MVlJFaG15RVpFZVhydjFEOWo5eWlHRTRCMFFMVzZwTzg0OU5zMTVRNVA2eDdOWUpHa0NxVkJOWnNhWlJxa1Ytbi0yaWEzQmVZcV9TX1ZpbEVDc3h3RjZON2xDOVpBTkFBRnFnSEVTWDdNV3IyaGxWNUpjYnpGYXYwNG4zLUxfTGtvM2lQZkpKbEhJUUJUVE9UN3FUeUZ4WGFEMXVKejFOVjhxLVpiXw?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Warga Dua Desa di Cipatat Pasang Spanduk, Protes Ruas Jalan Citatah-Pasegan Tak Tersentuh Pembangunan - Koran Gala - Koran Gala",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTAxRERCTE5aZl9SWERlakdPNjZudk51Y1R2c1BiNWJfSjd4aWxPcGNycFZESDhEMDBTbTFxR201Q0NVcFJkU0Zjbk1ub0IybEZjRHpRZXBtak9hNkdfNHgtZ1lIRFVsdnV2aEJzZlhZaXUzN0MxcVdRNlZoVElHSlV6UmhRU1V6QlRmNERIOFlmeTNSSkdSd3ViN2xjaDQ0ckdxUF8xVUYzVVpGMDRleEo1NVpzZXFxYVZLQkg0b0dyVXVCZ1p4WnBrSktKZnhHc0lnV0lzVlZhd1HSAeABQVVfeXFMT1FzUU8za2dWd1BjMGpnVWVRbTRscFJyajNneFBPUV9MQ0w5cnJUbXlPLVZnTlBtaGUzc2hmQlNwUkdOaEFzZ0Eyanl6U3psN1ZQS0c3QXJRZDRsMTVsdXpZUnlwVDhhN21lVDRHWTlLeG42eHV4cmVBanVtS3RzQ3RBZURQWE5ab2V4NnAzaThBdUhLcG9WX1ByNXh5R2Y2VG5rYUstRTNPcngxRjV1TGZibEN2bjZQVmlTSXpDR2FmemRoR0c3N0lRNjlQelJiSGRHNUdvd25waDV6UHZYZVI?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "Gerai Bursa Kerja (GBK) - Dashnaker+ Kab. Bandung - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81VXdKUVpzZGRlS19xZURpQ3JfcTN2UEZhcXdvcnpxNGd4YWItd3NIbTJXNHduZ1JybGx4M1dqTXp0dkFLRnpXNFlBSElhTDdmc0pBSGt3SEVUUDQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Rp334 Miliar untuk Irigasi Pertanian - VISI.NEWS",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTk5SXJxUWwwQldjWXY4TGpRWEtLQm13UHcxWlhwT1ZsN25ncVo1OU93Q01LR0tDdDBULV9LcHc5SFpXSU43Zkxob1hnSDduSnBESnBtS1Z6Vk5pNWgwLWtTWnJMTjhhem9YbHVObXh1djNyb3AzOUR5TWlTQWdiVXB5WmdTRHc4?oc=5",
-     "r": "VISI.NEWS"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -118,76 +118,6 @@
     "w": [
      4,
      28,
-     3
-    ]
-   },
-   "trend": {
-    "d": [
-     "Kam",
-     "Jum",
-     "Sab",
-     "Min",
-     "Sen",
-     "Sel",
-     "Rab"
-    ],
-    "p": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     4,
-     0
-    ],
-    "g": [
-     1,
-     0,
-     0,
-     0,
-     0,
-     2,
-     1
-    ]
-   }
-  },
-  {
-   "n": "Politik",
-   "d": "Situasi politik",
-   "k": [
-    "DPRD",
-    "partai",
-    "pilkada"
-   ],
-   "h": [
-    {
-     "t": "Mensos Gus Ipul: Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - kabarbaik.co",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVdURElHYWFsSUlkNERRUkt6TW5QOF9pT2FzeW5DSTVqUkJZSGMyUXhRX25qMnRMQWU1bUdIY2dmcm8ySlhJZlEwNGdKRWlPZ2xJM2dkdzlQTnZOOHZUSGZkenJCektMZGRBZW54Q1ZQbU9ETWQ0VDRXZmxkbnFudkpNeWczaFVoY1FlajNNcGhSZw?oc=5",
-     "r": "kabarbaik.co"
-    },
-    {
-     "t": "Ketua DPRD Kab.Bandung Kembali Melaksanakan Agenda Rutin Boling Di Solokan Jeruk - liputan4.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakFBUkp6Q2J4T3lZUWFTSWp0QjNxeWdQN0NaaFFxYXdyTEYwb1c4TWxVdDBlTmFzcm9wS0JTWHBOX1hpOXQ3X25DT1lFZm5aVENIVEJXQWFkLVRFdmYtcFFRM3lubTJBS19IMjhzeV9BVGd4eVVGTWxIeXlaZEViLWxXeG9oUUNpQTNtMHNiWUdpd0R1R1g1WXlwNTd2Z25DTHRPSA?oc=5",
-     "r": "liputan4.com"
-    },
-    {
-     "t": "200 Ribu Warga Kabupaten Bandung Masih Miskin, M Akhiri Hailuki Dorong Sekolah Rakyat Jadi Solusi Nyata - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHlfODVRMGlUTTVQbWN1NDE5MWNDeUwwUGc4QWZpR1hUeTNKWHlvTEl5Z2tCakp0WUVMZWs5Z0VGbVhzOXpiMkFnX2k2ZzNlb1ZMYi1UdUszdkRxRm1zdDd2LUl0YnU1bXloQjFjMkplUHMzd1BqQXA2cXZOVC1ZVWExTk52d1llWDNnbjV6NjQwbmI3am93NkR6QWx0aW9qTjBSYWNNTEU4MjJ4alh1SjRqUlh1enJPc2wyb2NLM3pMeTBWcURVaHJYRWxRY0R0a0F4a3RCSHk1SHpfcmczWUtGSTRvWWVOTzlZTFZsQWJyR21oa2Nj0gH8AUFVX3lxTE14dGpOUWVtOF9odWlEdlR0VnV2N3prd1VrYW42V3V3d3J2LWFLVnlhQlNjWkJCR3c4bFJNYW9GTVRuNGxHbEJVNFpiN3NTNjBuMWxzVS1MVlJFaG15RVpFZVhydjFEOWo5eWlHRTRCMFFMVzZwTzg0OU5zMTVRNVA2eDdOWUpHa0NxVkJOWnNhWlJxa1Ytbi0yaWEzQmVZcV9TX1ZpbEVDc3h3RjZON2xDOVpBTkFBRnFnSEVTWDdNV3IyaGxWNUpjYnpGYXYwNG4zLUxfTGtvM2lQZkpKbEhJUUJUVE9UN3FUeUZ4WGFEMXVKejFOVjhxLVpiXw?oc=5",
-     "r": "Jurnal Soreang"
-    }
-   ],
-   "v": {
-    "s": [
-     0,
-     0,
-     0
-    ],
-    "w": [
-     7,
-     13,
      4
     ]
    },
@@ -202,13 +132,83 @@
      "Rab"
     ],
     "p": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     3,
+     1
+    ],
+    "g": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "n": "Politik",
+   "d": "Situasi politik",
+   "k": [
+    "DPRD",
+    "partai",
+    "pilkada"
+   ],
+   "h": [
+    {
+     "t": "Warga Rancawaas Kabupaten Bandung Kesulitan Air, Sumur Bor Jadi Harapan Baru - PenaKuID",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaS1QbXZwQkpSRDhzZHVSU2xJSzB0QU1xeTZfeWNERTFhYllwRHRTdGd4LVgxZm83dVVDVEZpWkVSdDY5R0trcVo1YUhOUjMzRDEwOEMtb2FicG55bXhNU3JJUFh1WVE5N1A0dFREWjlieVVRMElQRl95M1NQQ09qc3otcGdvazdLbkUxYldRZkNFZDh2X0dlblJB0gGiAUFVX3lxTE1IWllaakVmM1BibjdldE5MZ29LVUpTMmw5T3VNS0FhVkF6cnJDcDNSREhpeUhwSURmeHpBZURrUTdKU1RXdmYyMzl0SGNSMGc1Vk5XUjctbkxWekxZRTZRRk5wU3VkWkZTclJ6d0Q5bkYyQlMyRGRnSXFyaUJ4Qk9icWdfczRWeVAzUzZfTGhPNWNKZTh0cWNLMV83cVlNU0hNZw?oc=5",
+     "r": "PenaKuID"
+    },
+    {
+     "t": "Sespimma Polri dan Disperindag Kabupaten Bandung Perkuat Pengawasan Harga Bapok - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09NYmxNcUNGOGFQSTV0U0NzWXBNWHhTSDVJZ0RNSUpNT05sTXA4WUtocm1NejZwMjd6UTl2UG40dUhBa0ktQkI3bl9YU0otNzk0SW1mUUZOaklRSjdBVnlhdjFHUGw1UkRtUWZyQVVkXzNIaXpNdE12T2dFYXlERUhhei1KaHJHUDZ3dDExaUNjU3YyQUdiSUJrT3BNMmlhdWlzcU1DNXYxTk9lR3hiWVZB0gGjAUFVX3lxTE51blFzcTJpSjVKN2liSnFQQy01SmpBR3IzVGN6WkVxd0xKNGY0cVZ4MUZoNlhvcXNZNGFXN091blR4SzM4S2syN3d4VDVveU1NeHdsRU5Jem1nd0o5Rm15MllrYjFWSkVhNHBDLVBOTC1uSXlxLUVVOWRnaEM0bDd3bHQtazN3bEUxb1ROa3NndEJVMVpIXzIwaXFNVkhVZnpPb3M?oc=5",
+     "r": "Ketik"
+    },
+    {
+     "t": "Ketua DPRD Kab.Bandung Kembali Melaksanakan Agenda Rutin Boling Di Solokan Jeruk - liputan4.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakFBUkp6Q2J4T3lZUWFTSWp0QjNxeWdQN0NaaFFxYXdyTEYwb1c4TWxVdDBlTmFzcm9wS0JTWHBOX1hpOXQ3X25DT1lFZm5aVENIVEJXQWFkLVRFdmYtcFFRM3lubTJBS19IMjhzeV9BVGd4eVVGTWxIeXlaZEViLWxXeG9oUUNpQTNtMHNiWUdpd0R1R1g1WXlwNTd2Z25DTHRPSA?oc=5",
+     "r": "liputan4.com"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     8,
+     11,
+     5
+    ]
+   },
+   "trend": {
+    "d": [
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen",
+     "Sel",
+     "Rab"
+    ],
+    "p": [
      1,
      1,
      0,
-     1,
+     0,
      0,
      1,
-     3
+     5
     ],
     "g": [
      0,
@@ -217,7 +217,7 @@
      0,
      0,
      1,
-     3
+     4
     ]
    }
   },
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     17,
+     15,
      3
     ]
    },
@@ -426,7 +426,7 @@
      4
     ],
     "w": [
-     6,
+     5,
      9,
      11
     ]
@@ -446,7 +446,7 @@
      2,
      0,
      0,
-     1,
+     0,
      2,
      0
     ],
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Mensos Pastikan Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "200 Ribu Warga Kabupaten Bandung Masih Miskin, M Akhiri Hailuki Dorong Sekolah Rakyat Jadi Solusi Nyata - Jurnal Soreang",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHlfODVRMGlUTTVQbWN1NDE5MWNDeUwwUGc4QWZpR1hUeTNKWHlvTEl5Z2tCakp0WUVMZWs5Z0VGbVhzOXpiMkFnX2k2ZzNlb1ZMYi1UdUszdkRxRm1zdDd2LUl0YnU1bXloQjFjMkplUHMzd1BqQXA2cXZOVC1ZVWExTk52d1llWDNnbjV6NjQwbmI3am93NkR6QWx0aW9qTjBSYWNNTEU4MjJ4alh1SjRqUlh1enJPc2wyb2NLM3pMeTBWcURVaHJYRWxRY0R0a0F4a3RCSHk1SHpfcmczWUtGSTRvWWVOTzlZTFZsQWJyR21oa2Nj0gH8AUFVX3lxTE14dGpOUWVtOF9odWlEdlR0VnV2N3prd1VrYW42V3V3d3J2LWFLVnlhQlNjWkJCR3c4bFJNYW9GTVRuNGxHbEJVNFpiN3NTNjBuMWxzVS1MVlJFaG15RVpFZVhydjFEOWo5eWlHRTRCMFFMVzZwTzg0OU5zMTVRNVA2eDdOWUpHa0NxVkJOWnNhWlJxa1Ytbi0yaWEzQmVZcV9TX1ZpbEVDc3h3RjZON2xDOVpBTkFBRnFnSEVTWDdNV3IyaGxWNUpjYnpGYXYwNG4zLUxfTGtvM2lQZkpKbEhJUUJUVE9UN3FUeUZ4WGFEMXVKejFOVjhxLVpiXw?oc=5",
@@ -481,12 +487,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmdHRE9wNUlQeGtBUjRGcy1HWlAtNVFzWkJ5TjROYTQ1U1I0NENxZXRDNF9PaEstT0QxSkdLa1NUZXNMX21hU3M5dFV2cHVkSUdISFlDeWdRaWVhTXJTR2tqV2h1VFhiQUZvSnJtWnExUXlIMUZrbnR1enFwLXEyNUlzWFd2eTZiQjdvRVl6Yllab1M2TWZ2cHJqZFRUcHFReW9wMFE1dXZyTG0zQkJOaUF4clJNWUJJb2hWNGZ2VDI4Z1h6MDVRRm41SVRnVEs2cGVKR1pTRDhkQ0lRYkNlN1ltZkQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Mensos Siapkan 30.000 Laptop Tambahan untuk Siswa Sekolah Rakyat - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGJ6UjNBS1BYcHV6cjFUUkF4RWxyUkhVMk0zYUQ2YmJOUmcwSlJMaE9UUTFqd0NTa1hSTWEzSVc1emNONVZEZGhTanJJSEFudTdNNXNDMWEyWW5sVWFSYmlCS2ltT0Q4bWg0aWljWmljTXZnVWtvM0MweTlKNFlQelRUaGh6eUpNb0I0a3dValZPSndGRS1taEJpTUpsWWRrNmhOdVVuRmM5R3Z1dGNlTHpRcGdYeXc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",

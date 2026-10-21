@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:22:35.698715+07:00",
+ "updated": "2026-10-22T00:21:04.562760+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,27 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   32
   ],
   [
    "RRI.co.id",
-   25
+   22
   ],
   [
    "Ayo Bandung",
-   25
+   22
   ],
   [
-   "Kompas.com",
+   "PPID Kab. Bandung",
    11
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "Kompas.com",
+   9
   ],
   [
-   "jabarekspres.com",
-   6
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
    "detikcom",
@@ -36,15 +36,7 @@
   ],
   [
    "Satumedia.id",
-   5
-  ],
-  [
-   "Jurnal Soreang",
-   5
-  ],
-  [
-   "PPID Kab. Bandung",
-   5
+   4
   ],
   [
    "Inilahkoran.id",
@@ -55,15 +47,23 @@
    4
   ],
   [
+   "jabarekspres.com",
+   4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
    "Ketik",
    3
   ],
   [
-   "Disway",
+   "Jurnal Soreang",
    3
   ],
   [
-   "PenaKuID",
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "VISI.NEWS"
     },
     {
-     "t": "Pemkab Bandung Dorong Sekolah Rakyat Jadi Pengungkit Kesejahteraan Masyarakat - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE93c19MQURnUmtSajBZZjJuQnN6MTMzaW4zMFNyM0JSX2pXS0g2bC1NNVA3Q2Uwa0RnMjJUZlhVUFFMcHpzMWVlSEdJUXJwdWZmQlFJSFNROW5RZ0k2c0VPdHV3X2tEWVhQOVBDZWtscTNJR2NrVF9PaUc3d1RsVV85S3c2ZWVIemtkUkxyNHR6VUlKYkRVMGo1ZjcwZ2hOX2I3YzFjM0JRTXFPQTVhV2YyRzU?oc=5",
-     "r": "Satumedia.id"
+     "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "t": "Kopi Spesialti Kab Bandung Tembus Pasar Ekspor, Pemkab Bidik Pasar Lebih Luas - Melansir - Melansir",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1dNaXJUX1ZlY0tWcm02SmlzcEJPUEhnN0NKZU8zN0EzTGZzZVpKRGl1OGpNMWFMRnA1d3Y2bnNVTWNGWHBzaUFOOEJZcm5TX3pSWU1kbENkeS1EVnFBNENsNzBWZTUyM05VaEY0T0NPOUhHbVdJQS1NYjNMaGZiUEctX3pTN3FhQldtS1NSa0lKQjl1ZUl6SFBSckFBeFVvV2FOY0Y0VE9xeWdtdVN3YlgzYnRFSGNyaGfSAb8BQVVfeXFMUGFsODd1cDYyTG5rVDZid2VSWkZPS3NEWThWTm1JRnU1TE5FMHM0M2xONS1sX1hRVG5ZVVpHbnVCS3pHd0pYTEI1OVpBOUE1SEtZRlFZMEdob3oxZG8yR3NoTGU2UDVNYW82dmtVbGRkOEtVUTVjd0I3ZGVQa0dEOWYwLW1NY0xHMEFSaVlXR0ZsTVRPVjNFQkVnYmxIY0ZuaDhQdjlSS1VHd3BWd1FxWmoxZ0s4TTJsQW9PVGVnSUk?oc=5",
+     "r": "Melansir"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
@@ -112,42 +112,42 @@
    "v": {
     "s": [
      1,
-     2,
-     1
+     1,
+     0
     ],
     "w": [
-     6,
-     24,
-     4
+     4,
+     32,
+     2
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
-     3,
-     3
+     0,
+     4,
+     0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
      0,
      2,
-     2
+     0
     ]
    }
   },
@@ -163,13 +163,13 @@
     {
      "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -186,29 +186,29 @@
      0
     ],
     "w": [
-     9,
-     13,
-     5
+     7,
+     8,
+     4
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      1,
-     1,
      0,
      0,
      0,
-     1,
-     6
+     0,
+     6,
+     0
     ],
     "g": [
      0,
@@ -216,8 +216,8 @@
      0,
      0,
      0,
-     1,
-     4
+     4,
+     0
     ]
    }
   },
@@ -264,42 +264,42 @@
    "v": {
     "s": [
      1,
-     2,
+     1,
      0
     ],
     "w": [
-     4,
-     14,
+     3,
+     15,
      5
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     0,
-     3,
+     2,
      0,
      0,
      2,
+     0,
      0,
      0
     ],
     "g": [
      0,
      0,
-     0,
      2,
      1,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -351,21 +351,21 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      1,
+     0,
      0
     ],
     "g": [
@@ -373,9 +373,9 @@
      1,
      1,
      1,
-     1,
-     10,
-     7
+     11,
+     7,
+     0
     ]
    }
   },
@@ -423,40 +423,40 @@
     "s": [
      1,
      0,
-     4
+     1
     ],
     "w": [
-     6,
-     9,
-     10
+     2,
+     7,
+     9
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     3,
-     2,
+     1,
      0,
      0,
      0,
      2,
+     0,
      0
     ],
     "g": [
-     4,
-     2,
+     1,
      2,
      1,
      3,
-     2,
+     3,
+     0,
      0
     ]
    }
@@ -509,31 +509,31 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
-     0,
      1,
      0,
      0,
      1,
-     2
+     2,
+     0
     ],
     "g": [
-     0,
      0,
      0,
      1,
      0,
      3,
-     1
+     1,
+     0
     ]
    }
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:22:23.312742+07:00",
+ "updated": "2026-10-21T18:21:17.812892+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   30
   ],
   [
    "RRI.co.id",
@@ -20,14 +20,18 @@
   ],
   [
    "Kompas.com",
-   9
-  ],
-  [
-   "PPID Kab. Bandung",
-   8
+   10
   ],
   [
    "Jurnal Soreang",
+   6
+  ],
+  [
+   "PPID Kab. Bandung",
+   6
+  ],
+  [
+   "jabarekspres.com",
    6
   ],
   [
@@ -43,10 +47,6 @@
    5
   ],
   [
-   "jabarekspres.com",
-   5
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
    4
   ],
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "Radio PRFM",
+   4
+  ],
+  [
    "Pikiran Rakyat Koran",
    4
   ],
   [
    "Ketik",
-   3
-  ],
-  [
-   "Radio PRFM",
    3
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     28,
+     26,
      4
     ]
    },
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     7,
-     6,
-     4
+     9,
+     11,
+     5
     ]
    },
    "trend": {
@@ -207,8 +207,8 @@
      0,
      0,
      0,
-     0,
-     5
+     1,
+     6
     ],
     "g": [
      0,
@@ -216,7 +216,7 @@
      0,
      0,
      0,
-     0,
+     1,
      4
     ]
    }
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "PN Bale Bandung Tolak Eksepsi Taufik Hidayat, Pekan Depan Agenda Sidang Saksi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFRLTHhrQVVpVTNtNjhOMjBrU2ZYcHhoUjVOZ0dxcEIyZVhQZENCOERKaXpUbGlrU2ZnV2FQdHp1UE02b1FGVjdTYnlzN21SYkdNTTFBbnhfZlFQYTA3NjNtZUtJY1VwRGZMRG84Nml4NGxoeXphWEJXOGNUX1BfU1BvcXZEMGJMOW56TVphSmlnU083Q3pBVS16TTFDX1RpWDlLUk9nWHNLTFBEeGUwWUlSSFpiRmgxS2lpYVFtZXF6WXJDM2F5VjUwVQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "8 Mahasiswa di Bandung Diamankan Polisi Buntut Demo Dua Tahun Prabowo-Gibran - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1dKVDRUWmhodWVaTWhTdVk2R1B2RU5jcjlpcE16WDVUcVhieTVzU2hRYjdxTVdkdEZzTjZIOXdaOGhkR2ZFdzZMSXJ1WGltc09hQzBuWTZQdFE1TGZnNE1xYno5eFBpZ1h2eGk2RkltT2FhRHFYekNfRlVFTnNHOXRtSGRhRjVjeWJoQ3pJemthOFRxdW9TeXJHMEZXY0hFT09nLS10bTkyN0hNZ0JxNHBnaFVlcjVVM3hvVnh4ZTdaUmFCOVE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "16 Personel Kepolisian Jadi Korban Penyerangan di Sulanjana, Polrestabes Bandung Tetap Siaga - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSnMtQjB3R05CMlAwLTg4dGdHSUYtam84MWFOYWRfVnl6V2VfVVZUczlraUdQU254NUNRZ21idE5FNHFocjBHdHZ5Y1JyWF91SGR1TS1jMTMwQmtic1diS0FJd1F0ZFVUU0NUS2Z0dzF2blFocTVGN1prMVZ6aTZUZktvRW5ZMjRxU1RNN2FxMzFMZlZoNFdEcGZhOUhlVFZtNmVjVktEY2pLaHRkeWxyVDNjZGxuMjJSM1hrcDlCUU9Pc1lHRTVfNHVncjdiWTlkMGhYV2VYcDZUUQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bukan Kenakalan Biasa, 11 Remaja SMP-SMA di Bandung Bawa Sajam di Bandung, Berujung Diamankan Polisi - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTDc0TmlxSFVBak1iYW85bGdmU1JGMEhnQm12ZmFqVUQ3MEM2X0RpV3pXMFFuQlltQXp5SDdjOTVXMk1leUNtZTBkSWJHSl84WWNCcjNTX3JpVnZJVl9EVWFYS1QxdGJmazhfNDBvSF9iaVZJTnBkNDlWVXI4c0JLRGlmNW1QYm5jRm0xeE5oUklVdG1ieDRzQ3BsM1BHT1pzSWw5dDVSMmFRZzAyN0VyaVkwWnJtQVVfWG5WUkVJNlVrckJTOExZR0JuN2c1Si1EaEhGVmZmMXV0T2dGT25zcUowc21naHVx?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Sidang Taufik Hidayat Berlanjut, Hakim Minta JPU Hadirkan Saksi - detikcom",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUxwenVwamFPa0hXMmU2d1h0UzlMSnNVS1VzOVpBX2ttS1kzMzVfanNsN0JpV3o2bl9LS1BEQWowUG9WbE1oeEJKZG93bDhuLU9LNmpfX0pCSnRPSF9LMDl1cDBjeVlFZHJIcnBCd1M5RWpLMFNXVnc4aVRJZjRrUDMzNUxOdzFxejJLRGJUcG8yR1c0RU4yV3Y4S1BtdjQtenBfaU43Ymp3SWRsTkQ1MDFhRktTUkhLVGRmWUk3OFTSAcABQVVfeXFMTTVMcHp1cGphT2tIVzJlNndYdFM5TEpzVUtVczlaQV9rbUtZMzM1X2pzbDdCaVd6Nm5fS0tQREFqMFBvVmxNaHhCSmRvd2w4bi1PSzZqX19KQkp0T0hfSzA5dXAwY3lZRWRySHJwQndTOUVqSzBTV1Z3OGlUSWY0a1AzMzVMTncxcXoyS0RiVHBvMkdXNEVOMld2OEtQbXY0LXpwX2lON2Jqd0lkbE5ENTAxYUZLU1JIS1RkZllJNzhU?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -344,8 +344,8 @@
      1
     ],
     "w": [
-     2,
-     19,
+     1,
+     21,
      19
     ]
    },
@@ -360,7 +360,7 @@
      "Rab"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -373,9 +373,9 @@
      1,
      1,
      1,
-     2,
+     1,
      11,
-     4
+     5
     ]
    }
   },
@@ -427,7 +427,7 @@
     ],
     "w": [
      6,
-     8,
+     10,
      12
     ]
    },
@@ -442,10 +442,10 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
-     1,
+     0,
      0,
      2,
      0
@@ -503,8 +503,8 @@
     ],
     "w": [
      4,
-     24,
-     7
+     25,
+     6
     ]
    },
    "trend": {
@@ -530,7 +530,7 @@
      0,
      1,
      0,
-     2,
+     1,
      0,
      3,
      1

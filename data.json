@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:19:46.716579+07:00",
+ "updated": "2026-10-22T05:18:46.090990+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,38 +12,42 @@
   ],
   [
    "RRI.co.id",
-   21
+   20
   ],
   [
    "Ayo Bandung",
    20
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
-  ],
-  [
    "PPID Kab. Bandung",
-   7
+   11
   ],
   [
    "Kompas.com",
-   7
+   9
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "detikcom",
    6
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
    "Jurnal Soreang",
    5
   ],
   [
-   "Satumedia.id",
-   4
+   "Radio PRFM",
+   5
   ],
   [
-   "Radio PRFM",
+   "Satumedia.id",
    4
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Disway",
-   3
-  ],
-  [
-   "PenaKuID",
    3
   ]
  ],
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     6,
-     26,
-     4
+     5,
+     32,
+     2
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      0,
      1,
-     3,
-     3,
+     1,
+     4,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     2,
+     0,
      2,
      0
     ]
@@ -237,16 +237,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTU5alFRNWRCWktfcmxzbVRBZTB0QUxUUTNXMkZTTkNYeFNDUjZPSXFPRzRpR2dfVTNxZmI1alo0SmZtY0s5NWkyWFg5NWhCU3hjYmtfQ2FPaV9uQ1lUaFM2TnMwMVJaOFp3RG5Qa2c1NlhRLUVYWEJBUnNyQmlIYjk1VmxLcVBxalR5emlDclk1TzRlQVptMnNZTVV3NGFXNm5lYy13emtVdWNVZ0xWREhxNVJVYS1FV0o4SEJ1NA?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0FiNGYzNHZBNHhydEJpbHpxcDJOY19TX1RiVUZ2bVRJWFh3OUJvR2x2M0JSaHVIb283VnpUSXY1NGRuaWlVSUd4U2tQVng1NWkzMFZ3dmxhZUoyUFkxNmZKZnZHRUpQN1hYOHJEaUVONWY4SENKTHZEa3NJWkl0NUlWNWlCRFBYeW54ajJub082b0d2UVg0STVYT25MelhlUGs4eTZMbzNpZ0JiQ0VWM2FYd0htam1MR2c2TGJn?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Sespimma Polri Angkatan 76 Soroti Harga Sembako di Kabupaten Bandung, Ini Empat Langkah Strategisnya - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbTNRWVdqdTdJcTF2aWw3d3V0Tzc4d2xycmhTNXc4WDhmRVVabW1BUk5ueEVjOHZFcVpPWTNIcVdxNWdRNWtCcHluYTF5cWRrT3VGd0VmSmRMX1I4aVBIdGcxd2pFYnp5VXpQbHlIREdmUjVkLWhQY0RsUzBscnBxSkpKdVViN201X3BTR2NPclFDTTBLNW1zYnJRNC1MelNFSlpvSGIyX2ZfWld4NG55SEhiWmRCWEg3bzhWNlAzU3QxZ1dfdXY4YWdFb3NxaW5CV3F0NUE4X2x0Z1lUSV91dlZ5cXc4RmphQVVpVUc4QjFCa0XSAfgBQVVfeXFMTTZybWdKaFBaOG9taE5tZDllVGVUcGVDTjM5YTJvZUNFVnJHYUc0SVRrZV9lX1pVY2hDN05MeUZXQ2pDaDh6R0pCNWczdlAyZGFYclpzeWhkZXJSaWJtdm1jbGFWX005R3hDdXRYLTBvWlVycTFXeFpRaV9rQ1B5LVRDdFVUWFNzeFpyUHFaVnMwX1ljS0pwUzFrM3lfSEluUkNHV0lHdkRlTFg0WHYwZTd3VzIxTjFGNkppNTVCOGNybmtFdXE4WVdBcUhhaGhSdmlCb3hvQkdLb19NbkFCNzJTWHNaOGxRQmRYbzlzMHFxYm1IMmFXY3k?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,7 +269,7 @@
     ],
     "w": [
      2,
-     15,
+     17,
      5
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      1,
      22,
-     17
+     18
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      0,
      1,
      1,
-     9,
+     10,
      7,
      0
     ]
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     7
+     8
     ]
    },
    "trend": {
@@ -455,7 +455,7 @@
      2,
      1,
      3,
-     1,
+     2,
      0,
      0
     ]
@@ -471,12 +471,6 @@
    ],
    "h": [
     {
-     "t": "INFORMASI NERACA 2025 Dinas Pendidikan Kabupaten Bandung - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JSeEVnb3dNNWtIZlZ0SnpCN3p6bHh1Y1U3S2xEdlBFNEE5cFQ4c2ZURjYxM3V5b2djTnlXOFI1OGRTN3FHQmpFRDI0VEpTYWJxYnc5U0xDVzhodEFJNWNmSWM5LXpjNEdOeEo0YzNJT2Z2aFhyRElIMjE0LVJiWEhrbWdKXzE3QzlJVUozbktPc0pXQ1M2NVpfSmFvcUhKbUhZajhUZDVrczY3WGo0?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
@@ -487,6 +481,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
      "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Mensos Pastikan Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",

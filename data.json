@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:24:12.944105+07:00",
+ "updated": "2026-10-21T17:22:23.312742+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   31
   ],
   [
    "RRI.co.id",
@@ -24,30 +24,30 @@
   ],
   [
    "PPID Kab. Bandung",
-   7
+   8
   ],
   [
    "Jurnal Soreang",
    6
   ],
   [
+   "detikcom",
+   6
+  ],
+  [
+   "Inilahkoran.id",
+   5
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   5
+  ],
+  [
    "jabarekspres.com",
    5
   ],
   [
-   "detikcom",
-   5
-  ],
-  [
-   "Disway",
-   4
-  ],
-  [
-   "Inilahkoran.id",
-   4
-  ],
-  [
-   "ANTARA News Jawa Barat",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -55,15 +55,15 @@
    4
   ],
   [
-   "Ketik",
-   4
-  ],
-  [
    "Pikiran Rakyat Koran",
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Ketik",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,46 +79,46 @@
    ],
    "h": [
     {
-     "t": "Gelar Taniverse 2026, Pemkab Bandung Tegaskan Komitmen Kuat Majukan Sektor Pertanian - radarjabar.disway.id - Disway",
+     "t": "Wujudkan Komitmen Swasembada Pangan, Pemkab Bandung Gelar Ajang Taniverse 2026 - republika.co.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0xRUmJyYTYxLXpwbDF6M3hiYzBLazRjSzhGUFg0cnU3YmFTVkgyX3JWUWxIV2tkaHNjLV82anI1N1BYUVFBMUNYSG85UXliVHdCQXBKZTQ3U3JwaEdhNk9qVkxjRWxTWHQ5cU9fZHZ0YVRFejAxcjdZTW5xQmpsTFAxeDZHb05oSmFiUzlvbDFRNlpuNXZvcUpaNG5sUHdQUW83dGhWcENHWnFFamoyakRxdTB3dXB5dEJBYVEybzJpeWcyX0doMVAybHRxNkRX0gHAAUFVX3lxTE13TUxBLWppdThFT0RrcGU3Z0JfbHVQVk84VXRYS3pQeUppZjZiU05QX0l5RFQyT0NfUV9rR2l2bTdHVTlBeEwtSWdieEUxX1FiWWZLd1dJV3JxMklHUHJXMjRaZVJSRXpkZjB0VkszcFFMLTkyVUhCZks2WTVSU0tBTTByaHRyTW0tQmFlbWhHQjF2RkdxQWFoQjQwSFd0bjBlX1lNY0dEN2tmbjhWRDVqZmNsV1hxZURLcDMtYUE2TQ?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0ItVzJkcVRhUjk5aVpMamJ1SGN1WVNZczB6S0VxaUY4dmJIajdMekNZaGhrVU1DMG9pYkFKRVYwSzZFVGF6dDYyUzhRUEh6dW9lQUY2Q085blNISEtlbjJFTWJDLVBQMVo2SlhrOEdPUFhyT3hha3RIZGliZlBPZmhiTDY5RWRGaC0wTWVibzlKVC1TeWxicVZfQzM2QUJYMl82ZjRRN3pPOGxGbVFiQ3Fkd1hMNy1TVjJOSURVYUxfM01t?oc=5",
+     "r": "republika.co.id"
     },
     {
-     "t": "Pemkab Bandung Bakal Sulap Eks RSUD Soreang Jadi SMPN 5 - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Lowongan MARKETING - Dashnaker+ - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45M0loc3dzWk1fbk1NN2FlaURFMTJUQlFhZTlSOHYzNmlxUngwNTBNX1E2TG5YUzdOYlo0T0NJQzFtdERTWEpDRG51eDJVNmtxa0ZRMmRQLXhhbHo3dFNPT3lBck1tcVZ3?oc=5",
+     "t": "Kolaborasi Disdukcapil bersama Wisata Hutan Pinus PAKAWA - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGhoRnFLSHFhWFpMb09mcTR5UjJwVEN4NDV0SldBb2Vwb1l6cnp2b21CUDc0a2V0bVpxWG5Pc05PS3VaY2JnZEsydExsUlBPY0ctT1FXM2lzaEtoM25qRVFGZ3BocWRsUTNkMTl5T2dCcDk1WXY1a0U5RXhHUGtCMmtTWnJrU0o2UVlIX1EzLUxWcVg5SzR5Xy1ha05HV3V2NGliUUpqUjIyREVJS2w5ZFYxZ1o?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
+     "t": "Pemkab Bandung Siapkan Rp334 Miliar untuk Irigasi Pertanian - VISI.NEWS",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTk5SXJxUWwwQldjWXY4TGpRWEtLQm13UHcxWlhwT1ZsN25ncVo1OU93Q01LR0tDdDBULV9LcHc5SFpXSU43Zkxob1hnSDduSnBESnBtS1Z6Vk5pNWgwLWtTWnJMTjhhem9YbHVObXh1djNyb3AzOUR5TWlTQWdiVXB5WmdTRHc4?oc=5",
+     "r": "VISI.NEWS"
+    },
+    {
+     "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=9KEVwQUDWmY",
+     "r": "YouTube Pengadilan Agama Soreang"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=b0zjogIex28",
      "r": "YouTube JABAR HITS NEWS"
-    },
-    {
-     "t": "Rapat Pimpinan Kabupaten (RAPIMKAB) I KADIN Kabupaten Bandung Tahun 2026",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=mEOFQASFWLQ",
-     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
      1,
-     1,
+     2,
      1
     ],
     "w": [
-     5,
+     6,
      28,
-     3
+     4
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      1,
      3,
-     2
+     3
     ],
     "g": [
      1,
@@ -147,7 +147,7 @@
      0,
      0,
      2,
-     1
+     2
     ]
    }
   },
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     8,
-     11,
-     5
+     7,
+     6,
+     4
     ]
    },
    "trend": {
@@ -207,7 +207,7 @@
      0,
      0,
      0,
-     1,
+     0,
      5
     ],
     "g": [
@@ -216,7 +216,7 @@
      0,
      0,
      0,
-     1,
+     0,
      4
     ]
    }
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     16,
+     17,
      4
     ]
    },
@@ -325,10 +325,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Kondisi Bandung Pasca-ricuh: 4 Polisi Luka Berat, Kelompok Berbaju Hitam Pelaku Penyerangan Diusut - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTQ3Zm1HdWdnelp3anJzcXRDTUc0eEE1b3E3VEhsSlYzTnpmNmtZWGFmSGptVG5WODA2Y0lSS1FfcVAzY2tPaVUzRFFta19vV0NOcmo0RnYxMU1teFhYUjVyclI0aW8tTWNRMEh6QjRBWU83WnVYczR5MHVuVkZoeTBtalZ2MFlMejA3VzN3SlRXcnNCdzBPQktGbmR2M2xFcFdsTGlrRnQyM09va1I2dldrbGJhUWhkWVpid3RWSE1Ta2t2YVlFMXlVdkZjYTFvOUt3Nzk3ZXBleUZlTkN3Vw?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Sidang Taufik Hidayat Berlanjut, Hakim Minta JPU Hadirkan Saksi - detikcom",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUxwenVwamFPa0hXMmU2d1h0UzlMSnNVS1VzOVpBX2ttS1kzMzVfanNsN0JpV3o2bl9LS1BEQWowUG9WbE1oeEJKZG93bDhuLU9LNmpfX0pCSnRPSF9LMDl1cDBjeVlFZHJIcnBCd1M5RWpLMFNXVnc4aVRJZjRrUDMzNUxOdzFxejJLRGJUcG8yR1c0RU4yV3Y4S1BtdjQtenBfaU43Ymp3SWRsTkQ1MDFhRktTUkhLVGRmWUk3OFTSAcABQVVfeXFMTTVMcHp1cGphT2tIVzJlNndYdFM5TEpzVUtVczlaQV9rbUtZMzM1X2pzbDdCaVd6Nm5fS0tQREFqMFBvVmxNaHhCSmRvd2w4bi1PSzZqX19KQkp0T0hfSzA5dXAwY3lZRWRySHJwQndTOUVqSzBTV1Z3OGlUSWY0a1AzMzVMTncxcXoyS0RiVHBvMkdXNEVOMld2OEtQbXY0LXpwX2lON2Jqd0lkbE5ENTAxYUZLU1JIS1RkZllJNzhU?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     18,
-     18
+     19,
+     19
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      1,
      1,
      1,
-     1,
+     2,
      11,
      4
     ]
@@ -426,8 +426,8 @@
      4
     ],
     "w": [
-     5,
-     9,
+     6,
+     8,
      12
     ]
    },
@@ -445,7 +445,7 @@
      2,
      2,
      0,
-     0,
+     1,
      0,
      2,
      0
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Pemkab Bandung Bakal Sulap Eks RSUD Soreang Jadi SMPN 5 - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "200 Ribu Warga Kabupaten Bandung Masih Miskin, M Akhiri Hailuki Dorong Sekolah Rakyat Jadi Solusi Nyata - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHlfODVRMGlUTTVQbWN1NDE5MWNDeUwwUGc4QWZpR1hUeTNKWHlvTEl5Z2tCakp0WUVMZWs5Z0VGbVhzOXpiMkFnX2k2ZzNlb1ZMYi1UdUszdkRxRm1zdDd2LUl0YnU1bXloQjFjMkplUHMzd1BqQXA2cXZOVC1ZVWExTk52d1llWDNnbjV6NjQwbmI3am93NkR6QWx0aW9qTjBSYWNNTEU4MjJ4alh1SjRqUlh1enJPc2wyb2NLM3pMeTBWcURVaHJYRWxRY0R0a0F4a3RCSHk1SHpfcmczWUtGSTRvWWVOTzlZTFZsQWJyR21oa2Nj0gH8AUFVX3lxTE14dGpOUWVtOF9odWlEdlR0VnV2N3prd1VrYW42V3V3d3J2LWFLVnlhQlNjWkJCR3c4bFJNYW9GTVRuNGxHbEJVNFpiN3NTNjBuMWxzVS1MVlJFaG15RVpFZVhydjFEOWo5eWlHRTRCMFFMVzZwTzg0OU5zMTVRNVA2eDdOWUpHa0NxVkJOWnNhWlJxa1Ytbi0yaWEzQmVZcV9TX1ZpbEVDc3h3RjZON2xDOVpBTkFBRnFnSEVTWDdNV3IyaGxWNUpjYnpGYXYwNG4zLUxfTGtvM2lQZkpKbEhJUUJUVE9UN3FUeUZ4WGFEMXVKejFOVjhxLVpiXw?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     3,
-     26,
-     6
+     4,
+     24,
+     7
     ]
    },
    "trend": {
@@ -524,13 +524,13 @@
      0,
      0,
      1,
-     1
+     2
     ],
     "g": [
      0,
      1,
      0,
-     1,
+     2,
      0,
      3,
      1

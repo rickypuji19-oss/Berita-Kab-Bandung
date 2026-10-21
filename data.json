@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:19:40.085656+07:00",
+ "updated": "2026-10-21T10:21:09.480346+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
   ],
   [
    "RRI.co.id",
-   24
+   25
   ],
   [
    "Ayo Bandung",
@@ -20,7 +20,11 @@
   ],
   [
    "Kompas.com",
-   6
+   7
+  ],
+  [
+   "PPID Kab. Bandung",
+   5
   ],
   [
    "Disway",
@@ -35,15 +39,15 @@
    5
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
-  ],
-  [
    "ANTARA News Jawa Barat",
    4
   ],
   [
    "Satumedia.id",
+   4
+  ],
+  [
+   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -59,11 +63,7 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Radio PRFM",
+   "Galamedia News",
    3
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "Jurnal Soreang"
     },
     {
-     "t": "KDS Dorong Bonus Produksi Panas Bumi Mengalir ke Desa, Rp40 Miliar untuk 56 Desa di Kabupaten Bandung - radarjabar.disway.id - Disway",
+     "t": "Aksesibilitas bagi Penyandang Disabilitas Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbE9IYXE4NE1oOWl0YVZKZ3k0R3dhYTFodnVYbFBmZTZmUHhOYWVpT2pUUkhhelRoZG50MS11VW9rTFNSTnJLbkt0WUQ2T3R6YU5UcFJQejdvY19GMnpTaFMwQ2Y4Uld5eTFjbW02YWVuWUlJRDFveExUVk55X1ZpU0NEQkdkUENMTFg4a0ZqNzAyZDRpQWR4WHZ0SnN6aGV0eEhmcU01VkNQQ01HTFVPRGw0aHFOOFlnSnlLT2RPOXRaem54aXhPUi1nem5JU0p1N3BXU3NDaVVISDB6bUFWYi1WNXpYajDSAdcBQVVfeXFMTjJxdEpLT0ZOLVlQcjBjT3AtUEh5WXpQTDBZU09oTzlXTm5jakRhYnJKU1Q2MXNoRmdyaTkwd19YbVVieUNUclRGQW9QZVJ3VGxQcmdxaDIzbVVjV0FfS2lodkFhZmhwdWRQYUl1N3hZcDIxZWxsdDE4RmZ5bVR4cVpJQk5UZW1GLThub1lyemwxT25tYlFGVUJ6dkJLbFpITGRCcm03UTR6NENJYjJvUURPWWR3SUtHUVZCWE94b1o3aFFfMXY1c0FUc210M1B4bWpxaGk2ckU?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMjVCaFk5RmRnb3ZSdUV2TUZyNXVtdldXZm4wREtoQi1OSmhmN1h2dzU4OENYNVRHRnZQaS0tZEFwWFJEMUVuVmpsYTZFdmU4RVBmUjMtNnczbmVIV3hkODlRb0pEUHY4ZGJualNBUHJoTVVFMVBaVUg2TDhQeGFyQ2dqZTU5NmRfaHpRNjJmeGw4bURyVWFtLWM3RDhvX3hMN2ZFXzZzSlpIN3JUeEhUMHE2dElPNFprU0RwMVRMT3dvV1NaUXZFaXpDSmpMN3l6QXlhT19UVjdKVnZsV3VaZEdXUVpVRTA?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Sespimma Polri Angkatan 76 Perkuat Arsitektur Sinergi Lintas Sektoral di Kabupaten Bandung, 126 Calon Pemimpin Polri Dalami Strategi Pembangunan Daerah - SwaraJabar.id",
+     "t": "Ruangan Permohonan Informasi Publik Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3VWbzNwb05mN1h1elFBVXpoY2g0UUVyTDlXUXJUd2NNSTU3T1AwYnhiWTVMcTBvbWFrcy1TekZPeFJyUGptcnk5dFBaZWg2WGtPdVVHQnRIR1hQMTFZbVMzZVpjeVlIT1lyQXdIQ2plNnlObnBTbVFYZllXd2hYTmNJTDdUR2o0RTB1OHFCZHdhM3lUMUREQ2FZUVZ5bF9QbE5GWWtlWDlDaXJuNlBjUnh6NnBWWXFNeHpZR2x5UVVraXl2RHhlYmNfc3FzYnJvRnRWOFNHTzBTc2ZhcTlqbm5rYnkydTVKS3hwV2FZemtQdjFEZk4wLU5sbEI0SGQ5OXhj?oc=5",
-     "r": "SwaraJabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcHNPTXpWZ2c5TlRTTTd2ZzZkUk1wYmxnMWdmZWxiaFR5djdvNzM1MkNuVUJXeWNzUW41QUJETHFWVzBpTkVjVFdkbGZXbzBPTW1HNDZpVHVTa1ZOSHpWdWhYMWpEMUFFR0ljUFMwSlRJQlJXTlVURFpVeHdqRWIzNm9LQTJlamw2OEJDTmVFNTMzemJIdkdBaUN0SFBDMHBVenpXUkpZaXc2SGNHeExzakwzQ3Zvb01qVWRCQVNpYUlvcW1GU1JNek1fa0dGNi1jLUd5N0JfYjNtaDJFMG1JaVNn?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Selain GBLA KDM Juga Akan Kerjasama Dengan Pemkab Bandung Untuk Merawat Stadion #kdm #dedimulyadi",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     6,
-     25,
+     5,
+     27,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     6,
+     5,
      0
     ],
     "g": [
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      10,
      1
     ]
@@ -207,7 +207,7 @@
      0,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [
@@ -243,10 +243,10 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Kabupaten Bandung perkuat regenerasi petani dan pasar produk lokal - ANTARA News Jawa Barat",
+     "t": "INFORMASI PROSEDUR PERINGATAN DINI DAN PROSEDUR EVAKUASI KEADAAN DARURAT DINAS PARIWISATA DAN EKONOMI KREATIF KABUPATEN BANDUNG - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa19jVmlOR0FRTHdWbG0yTTdRU1lSRm5ab0ZyalE5aVcxZUsyakFIdzRDZkZseW9fWnBxdXhDRFpBMUJHbzh1aU9la3lLQTVMTDI3NGlCZ0xCN0hjclZBNVpfcW5VYmZPODhWQ1hCcUNNSGo1LXVlZWZudWRXWG1QeFRrRXBiRi0zOFpuRUd6RlZHU0dkNlNlT21sZkJuX2VsbXppRDB2MmxqalU3UUHSAbMBQVVfeXFMTklWdU9iUXJXQUkxcko2VkM1MFpfOEF6c05fa3JGYWpsVXk3eHFnbVJDUjZ3RGNmVDBydDhOQjlnVUFMSVBobE5mQ0ZqN21LTmFkRXdCM0Q2dmI3S0RoUjlaRVd1cTl4VnRGbXhHOXE1U0tLZE5lRWdWMXV0TmE2Wkc4YXdvaHdMdU9PemhiQ2paeV9VNkxXYmh1OUZTUURsSllZZ052Vnc5SWpNXzFsVTFxbFk?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMEdzem91aWFESzBDTWVoa1hPMDU4RXNMSlNmQTMwc3o3Wk52REROWVdLanZoVkNKX1E5LWRORFh0U0VOOE5McjhGSklRSmh5UDFucmtUY1QyMmJiVXdzMGlaZWs1Vl82b29GV01UWldEWUU1YmRYdUlBSGx5NTJXRlRFS2N4WkV1UThNWDBzR1RVVEE3NktZSDlzdWwwRS1WN0RNSmFQYjE4a0dvUDViVGxsdUNQTlJiVG4wODN4VXQ5RHNSVjFoM2tqMjJlSlNJX1BpYTZwOGVRbVZ4c0w1eUFMMmw1ZWVaTGN6NVFna1FXRVlGSkhnTWJGVDlrXy1BMGVkYm5MRF9PNlZ6b05JbmlfRVRGYjdxeWx1OGdxeF8?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     14,
+     15,
      3
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "11 Polisi Terluka Diserang Massa Hitam-Hitam di Bandung, Pemkot Siaga 2x24 Jam - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNySUc4NkFLMGNOWTFteG1GZTJXdUNWNmtHTUwzR21XcTBBSGpaMG95YlBRdjJKNlF1RTdDNWlKbkpCQ3hGSFdYakRfTFNob3Nfd1JMWUdmaDRkb1B2dkZEWk1ubHJtcGtoWWt2dVlLRW5oNkpPZ2pvMjVQYklXTFJWN1pEMWdQR2pUOUFjX0NkOVQ1ZVBBbGVBc0hiNU9HdTBYLVpkZWJ6ckxTRW82ZERzSHZXWFRZYlNiT2dNUFJaTDBmdGU0?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Rumah Keluarga Desta GIE Diteror Molotov, Polisi Turun Tangan - detikcom",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnlUanoySmswM2g2c3BrWFMtcjhXaDgxamo5SHpick11eW8xeTJWUGx4WG9aTWZIT2xWLS1pV3FpVUxPTXBWdUtWS1BUdXY1RGxnOGpMNlRweGdXaUZ3dlJ0VXlKamdkSlhsdmJqa2FBakdoOWd0VTNudE11c0oxcDZrUWxST3ZFcTFMb2VjUGFfamg2T19PTW1famgyZmV6LTFzV3JsR01hak04LXozVDlITGpTanc20gG-AUFVX3lxTFBuOUNmMmxBdDNsTXJHVnVsMWdZamQxdGhFQnp4bG5SUEM5cG5wNEF1ZlNsc01PSXBjT2dkSWtnRFlXazM0QzRCUFBSMVU4cVFweEllMURuMG4taXNQUTItTWVwUjBTVHZZSnFHelpSYklUaDBXcV9WdDI1ZDNUbW5ET1I3Q3YyTG0xZlBGM3FTOGF5TUM5ZHZDeG1aQTg4a1hGYlhwSVBqdjBCc2JlYnVJM1JsWjJpeTNrZGFJUmc?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMC1DZUtEZ3RmLXY2YnZnbGk3cV9sNVpoX0lJVnMtMVF1blg4Q0FTek95b25SVjNITEZUaER2UHlGb1dsSWlpY0NCTGdQYWV4WDJXVmJTSENXdE9kWVZFUC1GQjZvNk4tZHVMM2Z0dFNwZS1BMi03dHpOMklYQzNScVFCRUdRWXJaaE5FZU05UDlHWXlwTDNoODAtLTUweTFYUTVvaUJB0gGrAUFVX3lxTE11ZHpnV1FXN3J3MlBncHJ2WFFySU16Z253dGNGY2NPNDNpVzJqM3FjRmw2aFlXamV4Q2NmUkw5VnJfM1FSenZYYVpUcm4zREE0aUhieWd6SGNncXpJWHByQ2pTM2l4VGI0akxTWUZaMTJIdjYzakEzYTNFQm9yM1gwbUhEU1BlYkFIV3ctejFTQjFpRmtqRDZiWkZRam40VzRRNXd2QmJYN2tnOA?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Narkoba Polresta Bandung, 52 Tersangka Ditangkap saat Operasi Antik Lodaya - Pikiran Rakyat Koran",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0NMT1VSbUxqMFdFZzZlenQ4MXZCMUVuUnFLczZUeTNpd0FZVi03OS1SVERSQkotcldNZFcwdG1iNUkzZWhhdFh4cFN2MWFaTlV0WnpPSmQyTjVueXF5bnJzeEgwY2wybzNrVHY2aUhFQUM2UWZKRlNyOU02WE5VU3VpUkhleGY0ajc3ZEFuWW5WU2RROVQzRld5VHc1OHR4SWNjRDlrUl8xZVlnMVBGbU1LbG93TjRlSjB2R3FZUExQbEZ6?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -346,7 +346,7 @@
     "w": [
      2,
      15,
-     15
+     16
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      1,
      1,
-     10,
+     11,
      1
     ]
    }
@@ -428,7 +428,7 @@
     "w": [
      6,
      9,
-     11
+     12
     ]
    },
    "trend": {
@@ -456,7 +456,7 @@
      2,
      1,
      3,
-     3,
+     4,
      0
     ]
    }
@@ -503,7 +503,7 @@
     ],
     "w": [
      3,
-     25,
+     26,
      5
     ]
    },

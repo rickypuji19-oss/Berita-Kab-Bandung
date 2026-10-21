@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:32:08.700036+07:00",
+ "updated": "2026-10-21T21:24:44.597388+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -19,12 +19,12 @@
    25
   ],
   [
-   "Kompas.com",
+   "PPID Kab. Bandung",
    10
   ],
   [
-   "PPID Kab. Bandung",
-   9
+   "Kompas.com",
+   10
   ],
   [
    "jabarekspres.com",
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
+   "PenaKuID",
+   3
   ],
   [
-   "PenaKuID",
+   "Ketik",
    3
   ]
  ],
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     4,
-     15,
+     3,
+     16,
      4
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     3,
+     2,
      0,
      0,
      2,
@@ -428,7 +428,7 @@
     "w": [
      6,
      9,
-     11
+     10
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      0
     ],
     "g": [
-     5,
+     4,
      2,
      2,
      1,

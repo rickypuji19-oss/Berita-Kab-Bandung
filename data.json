@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:21:17.812892+07:00",
+ "updated": "2026-10-21T19:22:57.248980+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,15 @@
   ],
   [
    "RRI.co.id",
-   23
+   25
   ],
   [
    "Ayo Bandung",
    23
+  ],
+  [
+   "PPID Kab. Bandung",
+   10
   ],
   [
    "Kompas.com",
@@ -24,10 +28,6 @@
   ],
   [
    "Jurnal Soreang",
-   6
-  ],
-  [
-   "PPID Kab. Bandung",
    6
   ],
   [
@@ -39,7 +39,7 @@
    6
   ],
   [
-   "Inilahkoran.id",
+   "Satumedia.id",
    5
   ],
   [
@@ -47,11 +47,11 @@
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Inilahkoran.id",
+   5
   ],
   [
-   "Satumedia.id",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Dorong Sekolah Rakyat Jadi Pengungkit Kesejahteraan Masyarakat - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE93c19MQURnUmtSajBZZjJuQnN6MTMzaW4zMFNyM0JSX2pXS0g2bC1NNVA3Q2Uwa0RnMjJUZlhVUFFMcHpzMWVlSEdJUXJwdWZmQlFJSFNROW5RZ0k2c0VPdHV3X2tEWVhQOVBDZWtscTNJR2NrVF9PaUc3d1RsVV85S3c2ZWVIemtkUkxyNHR6VUlKYkRVMGo1ZjcwZ2hOX2I3YzFjM0JRTXFPQTVhV2YyRzU?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Wujudkan Komitmen Swasembada Pangan, Pemkab Bandung Gelar Ajang Taniverse 2026 - republika.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0ItVzJkcVRhUjk5aVpMamJ1SGN1WVNZczB6S0VxaUY4dmJIajdMekNZaGhrVU1DMG9pYkFKRVYwSzZFVGF6dDYyUzhRUEh6dW9lQUY2Q085blNISEtlbjJFTWJDLVBQMVo2SlhrOEdPUFhyT3hha3RIZGliZlBPZmhiTDY5RWRGaC0wTWVibzlKVC1TeWxicVZfQzM2QUJYMl82ZjRRN3pPOGxGbVFiQ3Fkd1hMNy1TVjJOSURVYUxfM01t?oc=5",
      "r": "republika.co.id"
-    },
-    {
-     "t": "Kolaborasi Disdukcapil bersama Wisata Hutan Pinus PAKAWA - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGhoRnFLSHFhWFpMb09mcTR5UjJwVEN4NDV0SldBb2Vwb1l6cnp2b21CUDc0a2V0bVpxWG5Pc05PS3VaY2JnZEsydExsUlBPY0ctT1FXM2lzaEtoM25qRVFGZ3BocWRsUTNkMTl5T2dCcDk1WXY1a0U5RXhHUGtCMmtTWnJrU0o2UVlIX1EzLUxWcVg5SzR5Xy1ha05HV3V2NGliUUpqUjIyREVJS2w5ZFYxZ1o?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Rp334 Miliar untuk Irigasi Pertanian - VISI.NEWS",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTk5SXJxUWwwQldjWXY4TGpRWEtLQm13UHcxWlhwT1ZsN25ncVo1OU93Q01LR0tDdDBULV9LcHc5SFpXSU43Zkxob1hnSDduSnBESnBtS1Z6Vk5pNWgwLWtTWnJMTjhhem9YbHVObXh1djNyb3AzOUR5TWlTQWdiVXB5WmdTRHc4?oc=5",
-     "r": "VISI.NEWS"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     6,
-     26,
-     4
+     7,
+     30,
+     2
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      1,
      3,
-     3
+     4
     ],
     "g": [
      1,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     2,
-     2
+     1,
+     1
     ]
    }
   },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Warga Rancawaas Kabupaten Bandung Kesulitan Air, Sumur Bor Jadi Harapan Baru - PenaKuID",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaS1QbXZwQkpSRDhzZHVSU2xJSzB0QU1xeTZfeWNERTFhYllwRHRTdGd4LVgxZm83dVVDVEZpWkVSdDY5R0trcVo1YUhOUjMzRDEwOEMtb2FicG55bXhNU3JJUFh1WVE5N1A0dFREWjlieVVRMElQRl95M1NQQ09qc3otcGdvazdLbkUxYldRZkNFZDh2X0dlblJB0gGiAUFVX3lxTE1IWllaakVmM1BibjdldE5MZ29LVUpTMmw5T3VNS0FhVkF6cnJDcDNSREhpeUhwSURmeHpBZURrUTdKU1RXdmYyMzl0SGNSMGc1Vk5XUjctbkxWekxZRTZRRk5wU3VkWkZTclJ6d0Q5bkYyQlMyRGRnSXFyaUJ4Qk9icWdfczRWeVAzUzZfTGhPNWNKZTh0cWNLMV83cVlNU0hNZw?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09NYmxNcUNGOGFQSTV0U0NzWXBNWHhTSDVJZ0RNSUpNT05sTXA4WUtocm1NejZwMjd6UTl2UG40dUhBa0ktQkI3bl9YU0otNzk0SW1mUUZOaklRSjdBVnlhdjFHUGw1UkRtUWZyQVVkXzNIaXpNdE12T2dFYXlERUhhei1KaHJHUDZ3dDExaUNjU3YyQUdiSUJrT3BNMmlhdWlzcU1DNXYxTk9lR3hiWVZB0gGjAUFVX3lxTE51blFzcTJpSjVKN2liSnFQQy01SmpBR3IzVGN6WkVxd0xKNGY0cVZ4MUZoNlhvcXNZNGFXN091blR4SzM4S2syN3d4VDVveU1NeHdsRU5Jem1nd0o5Rm15MllrYjFWSkVhNHBDLVBOTC1uSXlxLUVVOWRnaEM0bDd3bHQtazN3bEUxb1ROa3NndEJVMVpIXzIwaXFNVkhVZnpPb3M?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Ketua DPRD Kab.Bandung Kembali Melaksanakan Agenda Rutin Boling Di Solokan Jeruk - liputan4.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakFBUkp6Q2J4T3lZUWFTSWp0QjNxeWdQN0NaaFFxYXdyTEYwb1c4TWxVdDBlTmFzcm9wS0JTWHBOX1hpOXQ3X25DT1lFZm5aVENIVEJXQWFkLVRFdmYtcFFRM3lubTJBS19IMjhzeV9BVGd4eVVGTWxIeXlaZEViLWxXeG9oUUNpQTNtMHNiWUdpd0R1R1g1WXlwNTd2Z25DTHRPSA?oc=5",
-     "r": "liputan4.com"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      9,
-     11,
+     12,
      5
     ]
    },
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     3,
-     17,
+     4,
+     16,
      4
     ]
    },
@@ -288,7 +288,7 @@
      3,
      0,
      0,
-     1,
+     2,
      0,
      0
     ],
@@ -325,10 +325,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "16 Personel Kepolisian Jadi Korban Penyerangan di Sulanjana, Polrestabes Bandung Tetap Siaga - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSnMtQjB3R05CMlAwLTg4dGdHSUYtam84MWFOYWRfVnl6V2VfVVZUczlraUdQU254NUNRZ21idE5FNHFocjBHdHZ5Y1JyWF91SGR1TS1jMTMwQmtic1diS0FJd1F0ZFVUU0NUS2Z0dzF2blFocTVGN1prMVZ6aTZUZktvRW5ZMjRxU1RNN2FxMzFMZlZoNFdEcGZhOUhlVFZtNmVjVktEY2pLaHRkeWxyVDNjZGxuMjJSM1hrcDlCUU9Pc1lHRTVfNHVncjdiWTlkMGhYV2VYcDZUUQ?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Polresta Bandung Tangkap 52 Tersangka Kasus Narkoba, Nilai Barang Bukti Hampir Rp1 Miliar - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUzVINXpIVXczZ3ktVG93TnVLNDBuVURWR2tKTVBWT3JoNGRYaUstMWNPVThXbkhmaHFQdGpYRUVkMnlZNm4yY1ZzWUdUbGFlVVhPcFRvV3lobzhfa2oyYlg0UmlwUy1jM0w5WnNmVEQzR1Z0QkdYNTlldFRwWlRxQ1ZLZWkxT19mclZyWFo3WVlpcHVyUEN2XzBRSHdUUlZKSHkyU1FiM2NxRzdLVTYzMXVFc2daTE9iSExCRzBVd0RRSkc2SS0xQUdKT0g5dUg3OUhIWnFCQ2k4a1VoS2pYYXd4WmpMZ9IB6wFBVV95cUxOYnBoWk1PMDY1eVdnWkZNVlB4ZDlHQS1KMlV5LWlwUFF1SkU0bEtGeGJZTGY5NExQQ1o4U2psbVEtUUJDRUN1WjhCd1FVSjJXS3ZmWVdoVGJCU1JKT0l5Z2t5Q2M5R080RjFEcEJXNDJTOUQ0dzhHQjIzQjg5ZzdUZzRQM2VTbUJIbDNnOWxGdXFOb2U2Q0xEaEJPNUQzNVRsc2xqOW9GeGVxS2lZXzBwRWxJaUVmSExUYnYwWTg1NFBBemtpY3dvbWotOGJSb0Y5THJ3Z0xnTjA1MXlvWUlnUkJPRDRGRDR3Umsw?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     21,
-     19
+     20,
+     20
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      1,
      1,
      11,
-     5
+     6
     ]
    }
   },
@@ -427,8 +427,8 @@
     ],
     "w": [
      6,
-     10,
-     12
+     9,
+     11
     ]
    },
    "trend": {
@@ -456,7 +456,7 @@
      2,
      1,
      3,
-     3,
+     2,
      0
     ]
    }
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     25,
+     3,
+     26,
      6
     ]
    },
@@ -524,7 +524,7 @@
      0,
      0,
      1,
-     2
+     1
     ],
     "g": [
      0,

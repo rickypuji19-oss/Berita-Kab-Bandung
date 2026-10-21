@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T02:25:14.226615+07:00",
+ "updated": "2026-10-22T03:18:20.403839+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
-  ],
-  [
-   "RRI.co.id",
-   23
+   32
   ],
   [
    "Ayo Bandung",
    23
   ],
   [
+   "RRI.co.id",
+   22
+  ],
+  [
    "PPID Kab. Bandung",
-   11
+   12
   ],
   [
    "Kompas.com",
@@ -33,6 +33,10 @@
   [
    "detikcom",
    6
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   5
   ],
   [
    "Satumedia.id",
@@ -49,10 +53,6 @@
   [
    "jabarekspres.com",
    4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
   ],
   [
    "Inilahkoran.id",
@@ -87,7 +87,7 @@
     {
      "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -118,7 +118,7 @@
     "w": [
      6,
      31,
-     2
+     1
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     1,
      0
     ]
    }
@@ -163,13 +163,13 @@
     {
      "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "DPRD Bandung nilai Sekolah Rakyat berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
+     "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelVUT0laTWlBcGRZeWhrTHBwSWZVd01CUjdTX2hPazkxZnRXTlRXVVhrMWhSbEZ0R0lheWVPMlpFSHRqdzNZeERqNmFSTDd1eG51UDVBM2h2YnNDRUNYTUt3LWNRZlNLUHQxUEotdlpSbmZkZUZRMXJxUFpWWlg4QkctM3hpeXk1NTBHRmtsM045QTJmQ3FLMnRlMGNHdkJWbnpKcU1MdVozQXd0R3VyMWttclF2YkdqNkRR0gHAAUFVX3lxTE4yYi1aUllJeGcwYmMxbkxTSlhpaGhHQU5Qb2hPdGJXa3NxLWJlY0pxU1BsQjNKZmYzMjZGRlRuRVhYZm9zcFJiUFZWbEtiOHJFUTVQNzFOSmJuTHU2bVBsZjVzNXJiOTlsR0hRVWR6WjB6cEdMai1kZkNkd3ZVN1Z6NlFYNGQyTGxKUzJnVXFTbUg3VDRIVTV2UFhnWFM3RlFLejZPODJFT0t1cVluUGlCcjdKcDRXbDc3eFBfWXN4Xw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -345,7 +345,7 @@
     ],
     "w": [
      1,
-     21,
+     22,
      20
     ]
    },
@@ -471,6 +471,12 @@
    ],
    "h": [
     {
+     "t": "INFORMASI NERACA 2025 Dinas Pendidikan Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JSeEVnb3dNNWtIZlZ0SnpCN3p6bHh1Y1U3S2xEdlBFNEE5cFQ4c2ZURjYxM3V5b2djTnlXOFI1OGRTN3FHQmpFRDI0VEpTYWJxYnc5U0xDVzhodEFJNWNmSWM5LXpjNEdOeEo0YzNJT2Z2aFhyRElIMjE0LVJiWEhrbWdKXzE3QzlJVUozbktPc0pXQ1M2NVpfSmFvcUhKbUhZajhUZDVrczY3WGo0?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
@@ -481,12 +487,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Mensos Pastikan Sekolah Rakyat Padukan Pendidikan dan Pemberdayaan - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1dES3Y2d0NqdjZodzQ5Qlk5TnJaVzBWdVhXdEZjV0lSeDFzOWJuZGV4dERFSWlxVTUxS3JZNHRUTzczSUREeFBpQWpVQU9LRlpsN3hPeFRQcVphVEhJSG1aRFpzR2Q2MWpBODB5Nko1T2M0a2Z3RURRdkJxVUhGS2NyUmtDWkZ5YmtLMGVPSUE5cTYtWklXelJpVnp5cmhZRElhMkRhb0dhZnVuWi00NEVfNk53SmhPUnU3cA?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -503,7 +503,7 @@
     ],
     "w": [
      4,
-     25,
+     26,
      5
     ]
    },

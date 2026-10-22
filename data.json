@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:20:15.055503+07:00",
+ "updated": "2026-10-22T10:20:39.083742+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,18 +16,18 @@
   ],
   [
    "Ayo Bandung",
-   19
+   18
   ],
   [
    "PPID Kab. Bandung",
    12
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
+   "Kompas.com",
+   10
   ],
   [
-   "Kompas.com",
+   "ANTARA News Jawa Barat",
    8
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      5,
-     32,
+     33,
      2
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Jihad Ekologis Para Santri - TIMES Indonesia",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52WnQ1ZnFUUlRaYVpxTDhOdXRLSGlJX1dpQUNzVjhaeDQzNXBkM09jUXh4MW5mVTNSSHVHRjNLZFdKS0NTS2gxa2FpMThWTGhQOW1OVEhFeTNndWNjTE1pN3VDQTZrVEtuRmpMSWhnSS1xMzRDdHByc0Z5WG8tQQ?oc=5",
+     "r": "TIMES Indonesia"
+    },
+    {
      "t": "DPRD Kabupaten Bandung nilai SR berpotensi tingkatkan ekonomi warga miskin - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhxamNOM2pZOGVyelllcG9rYi1ZaGR2Q2FtMDRCVGN1ajMtTnVMWk44ZFZlcmdpNmptNkllb1F5SFY4N1FJbWhYRUZ3TnBVbXRLMGJobnJLWTBweUVSWEZaamtSeXY5b05OU1B2eU1HbXFSNVVxR3JxQlpsM1VYYUxJZVZmSmlkMnloV0NmYXMtcU9OZlV6UklocUpWTUdkX3BsRzdOU2FhLU5xWU53UF9iOUR5OUx5ckUxck530gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FfeWgyQVNkVFhvT2VvWld0b1ZVM0g0eWdjcU1RRG1KakMyUU1KelBVaE5MYlk5US1lN3pnQzNybXNmaGV4MnZYQjlPTnVkU0ZDTHZZTEt5ZTZ4NlR0NnJLdUMyQ0kxOHBtTDJJTUY0QjM1UXJMUzBzN3dFU3RLb19aYTNSMnhzQ3F5TmJqRGN3eTBheVBZa3BWSGtsNEpDT3dERnEtM2ZmemJaUVM0VnBhenFQRGR50gG-AUFVX3lxTFBRSHFqY04zalk4ZXJ6WWVwb2tiLVloZHZDYW0wNEJUY3VqMy1OdUxaTjhkVmVyZ2k2am02SWVvUXlIVjg3UUltaFhFRndOcFVtdEswYmhucktZMHB5RVJYRlpqa1J5djlvTk5TUHZ5TUdtcVI1VXFHcnFCWmwzVVhhTEllVmZKaWQyeWhXQ2Zhcy1xT05mVXpSSWhxSlZNR2RfcGxHN05TYWEtTnFZTndQX2I5RHk5THlyRTFyTnc?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Warga Rancawaas Kabupaten Bandung Kesulitan Air, Sumur Bor Jadi Harapan Baru - PenaKuID",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaS1QbXZwQkpSRDhzZHVSU2xJSzB0QU1xeTZfeWNERTFhYllwRHRTdGd4LVgxZm83dVVDVEZpWkVSdDY5R0trcVo1YUhOUjMzRDEwOEMtb2FicG55bXhNU3JJUFh1WVE5N1A0dFREWjlieVVRMElQRl95M1NQQ09qc3otcGdvazdLbkUxYldRZkNFZDh2X0dlblJB0gGiAUFVX3lxTE1IWllaakVmM1BibjdldE5MZ29LVUpTMmw5T3VNS0FhVkF6cnJDcDNSREhpeUhwSURmeHpBZURrUTdKU1RXdmYyMzl0SGNSMGc1Vk5XUjctbkxWekxZRTZRRk5wU3VkWkZTclJ6d0Q5bkYyQlMyRGRnSXFyaUJ4Qk9icWdfczRWeVAzUzZfTGhPNWNKZTh0cWNLMV83cVlNU0hNZw?oc=5",
-     "r": "PenaKuID"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      7,
      11,
-     5
+     6
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      4,
-     0
+     1
     ]
    }
   },
@@ -237,9 +237,9 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga Halaman 1 - Kompas.com",
+     "t": "Foto : Petani di Bandung Bakar Jerami hingga Asapnya Masuk Perumahan Warga - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTExNRVVTM01scGdvTmVWNTFRbkpJVEJPeXZzUW1jRFVXZlVRcUFHSDh4Sm1WVkhnclNFNXZrbTRneGJzYVphTF9RSU9jQ004R2UtdUZmTVFLX1B6Ri12Z3JiVEEwdUpBZGhCb1NrWTk3YUtQM0FRaFAxek55Rkg0Z2lpMFo5cm14enUyM05Qc2RKZ2taRWJWMFpEaExhQkV0SGhhZGtaOHZoS0htUnBPUzgtR2d3b29sWGpScmxxel9HaXNzeU9jOQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTU5alFRNWRCWktfcmxzbVRBZTB0QUxUUTNXMkZTTkNYeFNDUjZPSXFPRzRpR2dfVTNxZmI1alo0SmZtY0s5NWkyWFg5NWhCU3hjYmtfQ2FPaV9uQ1lUaFM2TnMwMVJaOFp3RG5Qa2c1NlhRLUVYWEJBUnNyQmlIYjk1VmxLcVBxalR5emlDclk1TzRlQVptMnNZTVV3NGFXNm5lYy13emtVdWNVZ0xWREhxNVJVYS1FV0o4SEJ1NA?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -270,7 +270,7 @@
     "w": [
      2,
      18,
-     5
+     4
     ]
    },
    "trend": {
@@ -296,7 +296,7 @@
      0,
      0,
      2,
-     1,
+     0,
      1,
      1,
      0
@@ -346,7 +346,7 @@
     "w": [
      1,
      22,
-     18
+     19
     ]
    },
    "trend": {
@@ -374,7 +374,7 @@
      1,
      1,
      9,
-     7,
+     8,
      0
     ]
    }
@@ -428,7 +428,7 @@
     "w": [
      2,
      7,
-     7
+     6
     ]
    },
    "trend": {
@@ -454,7 +454,7 @@
      1,
      2,
      1,
-     3,
+     2,
      1,
      0,
      0
@@ -503,8 +503,8 @@
     ],
     "w": [
      4,
-     26,
-     4
+     25,
+     5
     ]
    },
    "trend": {
@@ -529,7 +529,7 @@
     "g": [
      0,
      0,
-     1,
+     2,
      0,
      2,
      1,

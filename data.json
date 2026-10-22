@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:24:18.553099+07:00",
+ "updated": "2026-10-23T00:19:45.456114+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,15 @@
   ],
   [
    "RRI.co.id",
-   25
+   23
   ],
   [
    "Ayo Bandung",
-   18
+   16
   ],
   [
    "Kompas.com",
-   13
-  ],
-  [
-   "Satumedia.id",
-   6
+   12
   ],
   [
    "jabarekspres.com",
@@ -40,6 +36,10 @@
   ],
   [
    "Radar Bandung",
+   5
+  ],
+  [
+   "Satumedia.id",
    5
   ],
   [
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
+     "t": "Hari Santri 2026: Dadang Supriatna Dorong 160.000 Santri Berani Bersaing - Melansir - Melansir",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
-     "r": "WestJavaToday.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUsyNmVDX2RYS1RYV2FoRmFvRUtTR2lXSzBMZDZfY0JNWExCNFNzNEpXX0xDZlhUQTliQUVwa0hpclVCS0NUNFFRSTZhRDFvRGhLMUgtVXhOSk9IQV9mTGVJMEl4b3paa3ZEREk0cFhEODh2V2U5UGF3RHlwenBtQXVDd1I4OUhXSDRzM2NVUUFFYkZlQ2RpaWtvSFVTUndueUVPbnl2dGg3QkNiQmd0ZERn0gG3AUFVX3lxTE44VF90bW5jUkpjM0lJSmlFLTYzbHJLVVBTT2FzbWk3ZlYxaWFiUlkxT1R5djJSWHRxcldVM2xoN0ItMlgwcHhRZGdHc0V5MVRyM29WVDk1SVd5OE9jSEdlN2N2cTNPUlVXUWFhYVlNOXVWVFZ5WXlFOGRSUHBpN2JXZjVzNHJPdUE0LW54VnJzdXFjRjBhYWNMMzhNRk40azMtNmVxbHVhNmVBRHhjTEI4Y0paSjhpSQ?oc=5",
+     "r": "Melansir"
     },
     {
      "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
@@ -116,38 +116,38 @@
      0
     ],
     "w": [
-     18,
+     19,
      20,
      2
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
-     0,
      1,
      0,
-     3,
-     15
+     4,
+     15,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -186,38 +186,38 @@
      0
     ],
     "w": [
-     11,
+     10,
      9,
      7
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      0,
      6,
-     4
+     4,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      1,
      4,
-     2
+     2,
+     0
     ]
    }
   },
@@ -238,8 +238,8 @@
     },
     {
      "t": "Inkubator Bisnis UNIBI Siap Dukung Langkah Kementerian Perkuat UMKM - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjN6eWdJd0wxMTJGazBjZXF4VFRHZW5IQVcwY1NFWUw1dGNZTE4zR2tMOEJlUVJzN0hpVTByLWdTQUZILU1vZFVMNGZlb3dvTlJhOWFLVUwtRjllZWI4azQ3LUplNjB6czR0bmdDTlRlM2lOZTA0ZmJ0c21RaGFZZU9PcGpxc01Xb3IxYXFYZ21qZXMyV21FZWlCR1ZQR0xMaGljWHRxQ2I5V05Ua190TGM4Y1Q?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -247,58 +247,46 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0k4UEZCM1ZUZ0RRWS0yRlQ2SnJ5Wjk0NGU4MHNNWEJ4X0w5bkgxVzVfZjVUZ09MZ0F1ZWFCQ0NZME8yVXRxUWRTODlSSHpCNDFTUlVhbTJwNHRiTUpQODJLYUYtR3hoRDlMVTJFdDVXMjN0bXlKNFF6LURDeG1va1NwTWttSnI3OFlrVXE2MnJPSnJSTmh5ZHY0bUduNkU5ckl1dkE1bjNhOEZyMDZuNm9kQm0?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=o5cDG7k7pHc",
-     "r": "YouTube pu_dkijabar"
-    },
-    {
-     "t": "[HEADLINE NEWS, 16/10] Kolaborasi Kadin Dorong Pertumbuhaan Ekonomi",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=YfSioMxmG0s",
-     "r": "YouTube METRO TV "
     }
    ],
    "v": {
     "s": [
-     1,
-     1,
+     0,
+     0,
      0
     ],
     "w": [
-     3,
+     4,
      17,
-     4
+     3
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      0,
      0,
      1,
      0,
      0,
-     2
+     3,
+     0
     ],
     "g": [
      0,
-     0,
-     2,
+     1,
      0,
      1,
      1,
+     0,
      0
     ]
    }
@@ -357,31 +345,31 @@
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
+     0,
      0,
      0
     ],
     "g": [
      0,
      0,
-     0,
      1,
      9,
      8,
-     2
+     2,
+     0
     ]
    }
   },
@@ -432,36 +420,36 @@
      1
     ],
     "w": [
-     6,
-     8,
-     7
+     5,
+     7,
+     4
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      0,
      1,
      0,
-     2,
-     0,
-     3
-    ],
-    "g": [
-     2,
      2,
      0,
      3,
+     0
+    ],
+    "g": [
+     2,
+     0,
+     2,
      1,
+     0,
      0,
      0
     ]
@@ -515,37 +503,37 @@
     ],
     "w": [
      6,
-     22,
+     21,
      6
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      1,
-     4
+     4,
+     0
     ],
     "g": [
-     0,
      0,
      1,
      0,
      3,
      1,
-     1
+     1,
+     0
     ]
    }
   }

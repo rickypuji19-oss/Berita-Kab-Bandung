@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:24:11.681785+07:00",
+ "updated": "2026-10-22T20:35:04.973123+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   28
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "Ayo Bandung",
-   20
+   19
   ],
   [
    "Kompas.com",
-   14
+   13
   ],
   [
    "detikcom",
@@ -55,7 +55,7 @@
    5
   ],
   [
-   "Jurnal Soreang",
+   "Inilahkoran.id",
    4
   ],
   [
@@ -63,7 +63,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "Disway",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
+     "r": "WestJavaToday.com"
+    },
+    {
+     "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaU9tZGZ1WHVldFU0YTQwQUlfTms1bkU2QndmNnlUTkd2MF9CdnRVeHJ4U3JRYzRaeWg4dmpCdXo3SjlxazVGSkdUZmRpdTRPWFczSUNjMjRQajByUXdXLWRrZ0luZGhKdFA0enpoVjZDcHlTOWgzSEpXamt4VUlZa1E5MW9oRVBmZmduQm5LZ19oQ1NiT1NiLVRxZzJ1dkx4STZOQXh6dWQxUEVmSFNrWkRmX0g0eGZvYWxaeHUwaUVzdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Bersama Dengan Inspektorat dan Diskominfo, BKPSDM Kabupaten Bandung Lakukan Verifikasi Data ASN Yang Terindikasi Bermain Judol - Bandung Berita",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2hnOFdFN2NYRTdleEVIZWtqUzViQ1lVZllDU1BaRkZMeThwWExNRWx6cHk5SmhfdlU5c2FrOXAzMHphMTd6OE5VMHIweEZEcnZMQXN2cnhUdW04ckdaX1VyMlNmdnc1Qkw1bnd2UzZLdGRJTFRtOHNfdlR5c1BnR3BlSkN5S0Faa3hpRVpMLU9wakQyLXRvbnR3MVNyTmRiODBnY3ozWVZXRmxKZkJPTFBRRTgzc3MyZmtyV01nd2RQY1RCTFlpX18yQWlmTlY3NGl4V2RtUVFrUENwY0diaWRiVUdYT0k?oc=5",
      "r": "Bandung Berita"
-    },
-    {
-     "t": "160 Ribu Santri Kab Bandung, Potensi Besar Calon Pemimpin Masa Depan - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkpGUnVCMC1SMWg0azJvbzlHdE9PcmNVR2lsRE1kOXlfVnJjRzhyUUJoRVVOemNuUHM3VDNaVGhVcGplMGhTTi1hcUFVQWVjWFZTVE40eUQzUnBYdFFQRHZUNUdJa2VaZHJGa1huNWVvbHVIMGtNS0x6RThmNEluZHZ5aU5wM0l6cWI3OGcxNTJOTC15UzQzU3I3WFVHc3dhSmo0ZHpIU3hTaVU?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "Telan Rp15,2 Miliar, Jalan Cibeber-Sukahaji Sepanjang 2,4 Km Akhirnya Tuntas - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -117,8 +117,8 @@
     ],
     "w": [
      18,
-     22,
-     3
+     21,
+     2
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1
     ]
    }
@@ -173,10 +173,10 @@
      "r": "Ketik"
     },
     {
-     "t": "Ketua DPRD Renie Bahas Pentingnya Pembangunan Infrastruktur bagi Pembangunan - Bedanews",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWm5Eb0F5SDhLOFRRTHRLak5JTF9DTXJvXzFUU2VvUVBweTJ0THVUN3c3Y0dhNnkzQ3F1cFNnLW9lS3hMX3Ewa1VOby0zdm1MeVJobUpYWGhXSnlNc29jTGZWZ3ZQZDJ6dkk3ZmZQdkZhblIteDRTdlJtQmp1YWg4dzh1SnhGZnFsUF85d3pUWVhqWGN5UGNGMXBlTEZuNnM?oc=5",
-     "r": "Bedanews"
+     "t": "HSN ke-11, KDS Dorong 160 Ribu Santri Jadi Kekuatan Pembangunan Bangsa - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTNDRzA1N2F0S2RwY0FIQncxWVBFOW5YOU1NdEFISjNyalg5RXdNWWFfeHpBamx6aE5ha1U3dUtHOFoxVXFqeW5qRlE4VE9RNDVEX25INGJHMHlNYVdib2o4OWt6MV84cmlGNlNPNWtUdWxXTzFtb043R1J0RjlSZEtVVTRsNmhGeFMxQnFqLVc3bEw3MWfSAZYBQVVfeXFMUHUzQ0cwNTdhdEtkcGNBSEJ3MVlQRTluWDlNTXRBSEozcmpYOUV3TVlhX3h6QWpsemhOYWtVN3VLRzhaMVVxanluakZROFRPUTQ1RF9uSDRiRzB5TWFXYm9qODlrejFfOHJpRjZTTzVrVHVsV08xbW9ON0dSdEY5UmRLVVU0bDZoRnhTMUJxai1XN2xMNzFn?oc=5",
+     "r": "Ketik"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
-     8,
-     5
+     11,
+     9,
+     7
     ]
    },
    "trend": {
@@ -208,16 +208,16 @@
      0,
      0,
      6,
-     3
+     4
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
+     1,
      4,
-     1
+     2
     ]
    }
   },
@@ -238,8 +238,8 @@
     },
     {
      "t": "Inkubator Bisnis UNIBI Siap Dukung Langkah Kementerian Perkuat UMKM - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjN6eWdJd0wxMTJGazBjZXF4VFRHZW5IQVcwY1NFWUw1dGNZTE4zR2tMOEJlUVJzN0hpVTByLWdTQUZILU1vZFVMNGZlb3dvTlJhOWFLVUwtRjllZWI4azQ3LUplNjB6czR0bmdDTlRlM2lOZTA0ZmJ0c21RaGFZZU9PcGpxc01Xb3IxYXFYZ21qZXMyV21FZWlCR1ZQR0xMaGljWHRxQ2I5V05Ua190TGM4Y1Q?oc=5",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     4,
-     17,
+     3,
+     18,
      4
     ]
    },
@@ -290,7 +290,7 @@
      1,
      0,
      0,
-     3
+     2
     ],
     "g": [
      0,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Kerugian Negara Rp128,52 Miliar, Jaksa Kejari Kabupaten Bandung Tuntut Castam 18 Tahun, Yanuar 16 Tahun - Desk Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkRtTUJWZUNpdjVSSGNLdDNUYlU2and0S2w2UmtEUmR2WGMxLTQ5alA0Uy1sV05PMlpyUUlGai01S0o4UzdXcm96RGJEd0YwNk1UQ08tSzJXSFpQbzlsUUVLdDJOMkRMM256VTlmRFpCXzZHYS1Kb2JMdzdFLXdRWUhIb1ViUTI3YnZrd0ZIWWV5d29iRmZ6bXAwWlUxdWdGSHFXbVY0Yy12Q0hKc2NmUFNWaTR3Z3NkTzlmc3MwSWpFRVNDb0haWEx5QjZleXJvU1N5ZDRibnZuZ2NuWHA5TDZYT2NyR1Q3SFV0TFVoUdIB9AFBVV95cUxQOTRibkJrcnJJeDBaalBlRFlYeU9janVrMXZGaHEta3lYQndaelo3NEZmQ0J1eUltQXBUdW53SGY2clZOVHF6UGwxUGFFRVhLLUpIWGpGVGZZLWJ2UXk1UnM0NnZkaWtRaW84dUJndXRSYks0QXJXVVVRMFJXeVk4ay1fTVZXWXg1RXZQRmdkRHFxNHRMZTd1MVd2ckJoQWN0a3NOM0I5b3dvSWY5ZVlrblZYc3EzN3pNVHhoRzNJNEV3bE1kd1J0X1MxUC1vZHlzTW9tMGgyOEVtZ3E5bkNibFQ3RWc3anMwYjF3dXY4ckVSbjV4?oc=5",
+     "r": "Desk Jabar"
+    },
+    {
      "t": "Lansia Jadi Korban Jambret di Taman Kopo Indah, Polisi Buru Pelaku - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORE9PMS1LMlgwTzF5Zk9UNGFISWtXY1BlWGlrelJhaUpDY2c1Z1FZMldOYVY0M0lHSG9LajlhVU41WG5uOUJSd2lkTWF4alBDN2c1MjRmNTkxa1VVZTlLQ0JPM2NNdHdNM1N1OTh6c096NGtDYTh3cmxzX3lkT3dZdm9MTmp5ZFdveUR6S3JRM0RpU0dLTXpUb01BQi1NeFdxVmdqTlpnS0JhMExHUnpaT3dTbTl6amZKQ1V3UXdRS1NTbk9tb2RZ0gHMAUFVX3lxTE1ZcWFWZ1k0QVVLZ29WUWlEREkwZHRpZHM1Q0t1U2N5ZWhZeUNzbk1KOWZIQnJPcVl6OVRNS2ZUbnNOb0xoeHZIZ0k0eVNHS2I1RE1tTVFrc1I4SVdqMWNTc040Xzk5ZjVKUjZvTERYaFhyWUZ2VUVEV2xUSlNWSF9mVHVPa01jYmphbnB6WjZqUjNsTFZlZ1IxSS1xbEpLMlR4OGRUaWEtX2o4MG1pN0ZBYlVyZDhmUEpFbi1rWGM0d2tFbFFxcngwLXFKVQ?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Teror Bom Molotov Hantam Kediaman Keluarga Aktivis di Pameungpeuk Bandung, Polisi Lakukan Penyelidikan - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX19Xd2t2b01pRXVmSzB2NmFKQU1JNGN6a0toYlZZbjJRTU1Tdlpxa0FlUWFtaXpZTEd2XzBPMXYwVjFUVDJRbUpCcXpESHVLZU11aFU0TWdkRm92YWFPM2F1SkZzejFLcmZvT2J3OFA2dmhqTFdQSW05NUpMQjJUdXJLSFA1cUg1anhObF8xbmdCOThZNEo5bXpXVlAxRWl6ZjhLYzdFZ3Q5V2hxLXM5R1VieGFMX1lkbC1ENS1wMlU5MFlfQnNLNTNQVEEyNE9NZE5JMWJxU1VEZjR4Y3JfSVV1UjhsOTjSAewBQVVfeXFMTXU5WU52VHdUWEFxaFhZa0dBbDVUTUVmbXprRjZHanNLbllVQnRNQnFvRnRBTGZNb0gzekh4aWtyaDZ2TnZ5aHpnVjJvcEJzaDQtV0V4d2xpeUhJMHFpNHMwbWZwZVBKQkpVelpiR3V5a1hpZzVfQ0NzMHRkbXlIMGZ1aUNsakZ6LVpZSFZURDZUcU1FWGs4LXVkSXVLaFQ2dWpMNFdxdGMydjFfaFQyeTVpVUlBUEFWbTYwWmo0QnI2MFZNczBMZmhaYlRCaHlsUW1FSUd3WEw2ZHpiRWEyYURyT1JXQUMycXZDeFA?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
@@ -371,10 +371,10 @@
     "g": [
      0,
      0,
-     1,
+     0,
      1,
      9,
-     7,
+     8,
      1
     ]
    }
@@ -427,8 +427,8 @@
     ],
     "w": [
      5,
-     7,
-     7
+     8,
+     6
     ]
    },
    "trend": {
@@ -453,7 +453,7 @@
     "g": [
      1,
      2,
-     1,
+     0,
      2,
      2,
      0,
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     7,
-     18,
+     6,
+     19,
      6
     ]
    },
@@ -523,15 +523,15 @@
      0,
      0,
      1,
-     2,
+     1,
      4
     ],
     "g": [
      0,
      0,
      1,
-     1,
-     2,
+     0,
+     3,
      1,
      1
     ]

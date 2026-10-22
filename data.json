@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:25:36.190801+07:00",
+ "updated": "2026-10-22T22:25:05.614256+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   31
   ],
   [
    "RRI.co.id",
-   25
+   20
   ],
   [
    "Ayo Bandung",
-   15
+   17
   ],
   [
    "Kompas.com",
-   14
+   12
   ],
   [
    "Satumedia.id",
@@ -28,10 +28,6 @@
   ],
   [
    "jabarekspres.com",
-   6
-  ],
-  [
-   "Jurnal Soreang",
    6
   ],
   [
@@ -47,24 +43,28 @@
    5
   ],
   [
-   "Ketik",
+   "Jurnal Soreang",
    5
+  ],
+  [
+   "Radio PRFM",
+   5
+  ],
+  [
+   "Ketik",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
    4
   ],
   [
+   "Inilahkoran.id",
+   4
+  ],
+  [
    "PPID Kab. Bandung",
    4
-  ],
-  [
-   "Radio PRFM",
-   4
-  ],
-  [
-   "Inilahkoran.id",
-   3
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
      18,
-     3
+     19,
+     2
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      1,
      0,
      4,
-     13
+     14
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1
     ]
    }
@@ -169,7 +169,7 @@
     {
      "t": "Hari Santri Nasional 2026, Ketua DPRD Kabupaten Bandung Renie Rahayu Fauzi Tegaskan Komitmen Perkuat Pesantren - Jurnal Soreang",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHBNUVF4ZF9TMHVWQ2wtTHluTHdUY1NUbGNTREk2MG9uR2dTdzNxcTVJWjM3cmgyUjQxSUx1RUhkQ0xjZzFRME1tN2R3dVVUY1VmX2diakFoTndWQW12amF6MUFMM2xKcUt5MFRMWVk2WlZJTlM3TUxFUXpfUkxRNjhtWWF2WlU3ZnRkRFdKdHBaeXZsNXhZYURONktqem8zZkpDOXpnRW1yQmVVeXNQQXJZUXBoNWdhQThYb3E2MHVIQmp0M2hsX3dfUmtoZDg3SURIcEdnb0cydlFVc0NhcDhoOU40aHNMVC1EZ0hZTkQwQ0VSSFZiZXpBb2pLMHgw0gGGAkFVX3lxTE1tb0gtOXRtcWhDbVEyR0FNdkJ5VTZLVmVKVC1LVDVKZ2Z5ZEdlZnc1Z1lZTTM1aWZ4eEk5TWdhZWkybU8xa1VCNjF5Vl9JUkpYbUhnZ2hNNmRpaW9xeVI2UXhtRGJFRUdROVo5Q1JKZUtQTEZ5eXVKNUVMMWJ5eHpVSktLUlFIZXVIVzEzbnk1TFZHYTNGc255d3AxcnJHRW9ZblNVSmUxM3RsZzIwQWxMNkZFT1NhMFlvWVJRWUh4RW5vT2ZHLVJXd0FRclJLeU5tQjBqQzlTUG9fcXlPQk9rZlZfdy1lakZ2VWoxSXRINFVlNURhQTItU1lRdmZUa1ZSaHBzYVE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbW9ILTl0bXFoQ21RMkdBTXZCeVU2S1ZlSlQtS1Q1SmdmeWRHZWZ3NWdZWU0zNWlmeHhJOU1nYWVpMm1PMWtVQjYxeVZfSVJKWG1IZ2doTTZkaWlvcXlSNlF4bURiRUVHUTlaOUNSSmVLUExGeXl1SjVFTDFieXh6VUpLS1JRSGV1SFcxM255NUxWR2EzRnNueXdwMXJyR0VvWW5TVUplMTN0bGcyMEFsTDZGRU9TYTBZb1lSUVlIeEVub09mRy1SV3dBUXJSS3lObUIwakM5U1BvX3F5T0JPa2ZWX3ctZWpGdlVqMUl0SDRVZTVEYUEyLVNZUXZmVGtWUmhwc2FR0gGGAkFVX3lxTE1tb0gtOXRtcWhDbVEyR0FNdkJ5VTZLVmVKVC1LVDVKZ2Z5ZEdlZnc1Z1lZTTM1aWZ4eEk5TWdhZWkybU8xa1VCNjF5Vl9JUkpYbUhnZ2hNNmRpaW9xeVI2UXhtRGJFRUdROVo5Q1JKZUtQTEZ5eXVKNUVMMWJ5eHpVSktLUlFIZXVIVzEzbnk1TFZHYTNGc255d3AxcnJHRW9ZblNVSmUxM3RsZzIwQWxMNkZFT1NhMFlvWVJRWUh4RW5vT2ZHLVJXd0FRclJLeU5tQjBqQzlTUG9fcXlPQk9rZlZfdy1lakZ2VWoxSXRINFVlNURhQTItU1lRdmZUa1ZSaHBzYVE?oc=5",
      "r": "Jurnal Soreang"
     },
     {
@@ -188,7 +188,7 @@
     "w": [
      11,
      9,
-     7
+     8
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      4,
-     2
+     3
     ]
    }
   },
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     20,
+     19,
      3
     ]
    },
@@ -319,16 +319,16 @@
      "r": "Desk Jabar"
     },
     {
+     "t": "Lansia Jadi Korban Jambret di Taman Kopo Indah, Polisi Buru Pelaku - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORE9PMS1LMlgwTzF5Zk9UNGFISWtXY1BlWGlrelJhaUpDY2c1Z1FZMldOYVY0M0lHSG9LajlhVU41WG5uOUJSd2lkTWF4alBDN2c1MjRmNTkxa1VVZTlLQ0JPM2NNdHdNM1N1OTh6c096NGtDYTh3cmxzX3lkT3dZdm9MTmp5ZFdveUR6S3JRM0RpU0dLTXpUb01BQi1NeFdxVmdqTlpnS0JhMExHUnpaT3dTbTl6amZKQ1V3UXdRS1NTbk9tb2RZ0gHMAUFVX3lxTE1ZcWFWZ1k0QVVLZ29WUWlEREkwZHRpZHM1Q0t1U2N5ZWhZeUNzbk1KOWZIQnJPcVl6OVRNS2ZUbnNOb0xoeHZIZ0k0eVNHS2I1RE1tTVFrc1I4SVdqMWNTc040Xzk5ZjVKUjZvTERYaFhyWUZ2VUVEV2xUSlNWSF9mVHVPa01jYmphbnB6WjZqUjNsTFZlZ1IxSS1xbEpLMlR4OGRUaWEtX2o4MG1pN0ZBYlVyZDhmUEpFbi1rWGM0d2tFbFFxcngwLXFKVQ?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Kantor Pertanahan Kabupaten Bandung Masuk Radar Ombudsman RI, Rawan Terjadi Korupsi - Pikiran-Rakyat.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Teror Bom Molotov Hantam Kediaman Keluarga Aktivis di Pameungpeuk Bandung, Polisi Lakukan Penyelidikan - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX19Xd2t2b01pRXVmSzB2NmFKQU1JNGN6a0toYlZZbjJRTU1Tdlpxa0FlUWFtaXpZTEd2XzBPMXYwVjFUVDJRbUpCcXpESHVLZU11aFU0TWdkRm92YWFPM2F1SkZzejFLcmZvT2J3OFA2dmhqTFdQSW05NUpMQjJUdXJLSFA1cUg1anhObF8xbmdCOThZNEo5bXpXVlAxRWl6ZjhLYzdFZ3Q5V2hxLXM5R1VieGFMX1lkbC1ENS1wMlU5MFlfQnNLNTNQVEEyNE9NZE5JMWJxU1VEZjR4Y3JfSVV1UjhsOTjSAewBQVVfeXFMTXU5WU52VHdUWEFxaFhZa0dBbDVUTUVmbXprRjZHanNLbllVQnRNQnFvRnRBTGZNb0gzekh4aWtyaDZ2TnZ5aHpnVjJvcEJzaDQtV0V4d2xpeUhJMHFpNHMwbWZwZVBKQkpVelpiR3V5a1hpZzVfQ0NzMHRkbXlIMGZ1aUNsakZ6LVpZSFZURDZUcU1FWGs4LXVkSXVLaFQ2dWpMNFdxdGMydjFfaFQyeTVpVUlBUEFWbTYwWmo0QnI2MFZNczBMZmhaYlRCaHlsUW1FSUd3WEw2ZHpiRWEyYURyT1JXQUMycXZDeFA?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     19,
-     20
+     21,
+     18
     ]
    },
    "trend": {
@@ -376,8 +376,8 @@
     ],
     "g": [
      0,
-     1,
-     1,
+     0,
+     0,
      1,
      9,
      8,
@@ -457,11 +457,11 @@
      3
     ],
     "g": [
-     0,
+     1,
      2,
-     0,
-     3,
+     1,
      2,
+     1,
      0,
      0
     ]
@@ -483,15 +483,15 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker untuk Perluas Akses Pendidikan - Zona Priangan",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfd9IB7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfdw?oc=5",
+     "r": "Zona Priangan"
+    },
+    {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker, Bangun Sekolah Inklusif di Kabupaten Bandung - jabarekspres.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVo4WHpNY2NQSXpod1N6Smx6Q2pTLUtvOTdFMnA0ZW9wWk9CZmw1TFFzSzdoYmdMY1RZZ3ZUUTdkMWFnN2Z1Y1JiUlY2Y1ZhRlZZeVZIaU9tbVE4akF3OVZBLVNHZl8xRGZTMnNEVzdUWkRKM2hyemtZY3RRamlPbGtPaU1QS0V4Vjh4ZmdhOTRSMEpfVEMxeFQ3Z3hNRDkyTEo1UmlRU2pGa1NmR1p6RXNxWmwzVnphNzVPUjVhckV2QmlUUTNzVFBPS1VMSHpaMUVjZlJ6MXN1ZW5lQlE1Zw?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "DPRD Kabupaten Bandung Dorong Orang Tua Siswa Sekolah Rakyat Diberdayakan, Target Keluar dari Kemiskinan dalam - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHFFaS1VbG9ONVpGdDJ3NlhIQ2wySGFoa2RYbDU1cC1VakM4SnhCaUpDdUx4VldqX3RXZ1g1QzdDNzdqUU40TlNUdmpkcXBYS3lZN1VqXzJuQ2pDT3N4Rjc5dGtFU2g3R01GRGFtV3ZVVGRHbHNkVnJWTFIwRnBnc3hoN1ZPNEw1ZWhoU3ppSFRVV1FwQm5QZzY3Tno1bzdkT1BPMGk5bnpseGZDY1huQ3Jzb001MUFpRllObGhmVmQwUXYyY0RZZC1FU1FkUS10SldYOWp5LS1aNTVNS2RoWXpGeHk1RTdp?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -515,8 +515,8 @@
     ],
     "w": [
      6,
-     20,
-     5
+     19,
+     6
     ]
    },
    "trend": {
@@ -535,15 +535,15 @@
      0,
      0,
      1,
-     2,
-     3
+     1,
+     4
     ],
     "g": [
      0,
      0,
      1,
      0,
-     2,
+     3,
      1,
      1
     ]

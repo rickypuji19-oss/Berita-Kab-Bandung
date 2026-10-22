@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:27:57.993199+07:00",
+ "updated": "2026-10-22T16:24:56.808781+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "RRI.co.id",
-   22
+   24
   ],
   [
    "Ayo Bandung",
-   19
+   18
   ],
   [
    "Kompas.com",
-   14
+   12
   ],
   [
    "PPID Kab. Bandung",
-   12
+   11
   ],
   [
    "Satumedia.id",
@@ -44,6 +44,10 @@
   ],
   [
    "Jurnal Soreang",
+   5
+  ],
+  [
+   "Inilahkoran.id",
    4
   ],
   [
@@ -56,10 +60,6 @@
   ],
   [
    "Radar Bandung",
-   3
-  ],
-  [
-   "Inilahkoran.id",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS: Santri Punya Potensi Besar Jadi Pemimpin - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNLZ2lpczZsSzJGYXhfcTZZVjl5TDZMZGJTS1R1bnBtM0JmM3FnNUxHV0Z2MlVwampyX1lRbWU4V3FxUU01cHJqUVVnV0dQQTIwY3Zsb3pRLWVzRjRrdVB5NEdYcnNDWktoMzlINUZESGpoemZlZFJNekhuOUxObnQtczAteUNqcDVnaVNIQUZnYTNwU0VUcG5R?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Peringati HSN, Gelar MTQ Ke-48 Tingkat Kabupaten Bandung - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnBsWjB5R2d6czBRZ18yZk53ZTRVZ3duWDZpbndFZ2Nqdlh2VUJVaEpMX09pcDE0aEhWQ2xRX0pqU1A2M0oyMkpOZFh4MEpWVXFab3E5TU9DeW56NHBmOVROeTI4RTNWN1hLY2d4SnMwd1dZRi14RDZ6aUVyNm01UXRZTmVhQnI3ZEVSWllqTnVlbmpXeEYza0dhNWp5cUU?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTljWXBBYUlMM0lSYmtTX25fcHJpQXpONGZubmUtbjRGbHZkekx6blpBLTFlcmktYjdmQXdKRnl1VEtYQjExaFgyck9LalNNcjRMQVl4eXo5dGdCWHllcXFldnhnWjhjQ1FMekhGdmZ1amRBTjBBeVN1Y0RlcDAtVml3X3ItYnl4UjExMzhKR293LTFXMThyYXZDM3RHQ3pNUVQ3YklUS09mV2tQUk52dTB2ZHBpMEZIWS1oWUE4d2pVX3l5OXg4YWtCcFB2NW0zSlJ5QVdPWnF2YVRhX09fcDZoX2dXY2lnNm5VMzJn?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Bupati Bandung: Hari Santri Nasional dan MTQ ke-48 Perkuat Nilai-Nilai Al-Quran - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakdKZmtBS3AwbVdWVE55WktkSld5bmo0dXVLdXFVaEV4RjdDRWJjT0lHYXlXUzFMcXpsV1Q5NkRTam1EUmJCdy1xQWJoTi1ET1QzdGEyUUpKZU5GT3pLNFZGSjNDYnZnY1pqcmRtUHR6ZGVaODlYTTNqbkVJVGZkMnNyT0NJSzc2SEFuOGU1ZGZYcDcwRTBIeGFxVTVMUGR6SGhPR1B3dENrY0l6?oc=5",
-     "r": "deJurnal.com"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -117,8 +117,8 @@
     ],
     "w": [
      14,
-     27,
-     1
+     28,
+     2
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0
     ]
    }
@@ -187,8 +187,8 @@
     ],
     "w": [
      9,
-     11,
-     5
+     10,
+     6
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      0,
      1,
-     3,
+     4,
      1
     ]
    }
@@ -268,9 +268,9 @@
      0
     ],
     "w": [
-     3,
-     17,
-     4
+     2,
+     19,
+     3
     ]
    },
    "trend": {
@@ -287,7 +287,7 @@
      1,
      0,
      0,
-     2,
+     1,
      0,
      0,
      1
@@ -295,7 +295,7 @@
     "g": [
      0,
      0,
-     2,
+     1,
      0,
      1,
      1,
@@ -346,7 +346,7 @@
     "w": [
      1,
      19,
-     20
+     19
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      0,
      0,
      1,
-     11,
+     10,
      8,
      1
     ]
@@ -428,7 +428,7 @@
     "w": [
      2,
      9,
-     8
+     7
     ]
    },
    "trend": {
@@ -454,7 +454,7 @@
      1,
      2,
      1,
-     3,
+     2,
      2,
      0,
      0
@@ -478,8 +478,8 @@
     },
     {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker untuk Perluas Akses Pendidikan - Zona Priangan",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzNRV1g2R2V5WkJBa0VjWW5UX1U4ZktJLUd3SjJjcUhQeUsxNm1lQk5MV2pYV1I2OGVoWWh5a3d4MW9UdkNIMFFzallBNUZpVGh1azJNc3RzMEd6VlNOeXRwVzFBMjFoOEdySHlteXJSQ21TOUV5YlpPQnlRMWdublJwNHpLQUNKUU5nMm02MTl5UGpnZnBYc3A1TGVfeE1LUm5WelpCM1lXWmM0OHRPYURPTGRDWkVCV2paZkFoVldUQWRvck01WjJlTTBZazNmLTQyaHR6OFJObnhUbFQtc1FSVHZ2RGd6ZVHSAe8BQVVfeXFMTUFTcFE5b0xuN1VkejU1eHFpZmhKOFdWaWEwZUx6Z1ZUOGJNSzFRaUQtU1BoeUNDUXNsTjFyb2sxSTJwR1p3Y3dzUVhqeDc2NWNSQ2ItNl9udGtGVW92NnQtSHNWZWNUUFRPY3NXQWg4bkNSYnR1ZERxNWQwZUJQelRZT3pINlYtWUd5R0d2S3dlUDNERVZsN2pNdDJCSmVRYW5RTFplR2Fua0o5SGhEdXRTS191TmpiLTNHX2JlMHZBUHpfb0gwaUI3a0s4U2FlMlloVlRLYUhFR1RBUkVnNTRWN1FJT2xILWhRazJEX3c?oc=5",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfd9IB7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfdw?oc=5",
      "r": "Zona Priangan"
     },
     {
@@ -508,8 +508,8 @@
      0
     ],
     "w": [
-     5,
-     24,
+     6,
+     21,
      6
     ]
    },
@@ -530,7 +530,7 @@
      0,
      1,
      1,
-     3
+     4
     ],
     "g": [
      0,

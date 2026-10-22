@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:19:17.148829+07:00",
+ "updated": "2026-10-23T02:25:36.360434+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Ayo Bandung",
-   17
+   18
   ],
   [
    "Kompas.com",
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
+     "t": "Hari Santri 2026: Dadang Supriatna Dorong 160.000 Santri Berani Bersaing - Melansir - Melansir",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
-     "r": "WestJavaToday.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUsyNmVDX2RYS1RYV2FoRmFvRUtTR2lXSzBMZDZfY0JNWExCNFNzNEpXX0xDZlhUQTliQUVwa0hpclVCS0NUNFFRSTZhRDFvRGhLMUgtVXhOSk9IQV9mTGVJMEl4b3paa3ZEREk0cFhEODh2V2U5UGF3RHlwenBtQXVDd1I4OUhXSDRzM2NVUUFFYkZlQ2RpaWtvSFVTUndueUVPbnl2dGg3QkNiQmd0ZERn0gG3AUFVX3lxTE44VF90bW5jUkpjM0lJSmlFLTYzbHJLVVBTT2FzbWk3ZlYxaWFiUlkxT1R5djJSWHRxcldVM2xoN0ItMlgwcHhRZGdHc0V5MVRyM29WVDk1SVd5OE9jSEdlN2N2cTNPUlVXUWFhYVlNOXVWVFZ5WXlFOGRSUHBpN2JXZjVzNHJPdUE0LW54VnJzdXFjRjBhYWNMMzhNRk40azMtNmVxbHVhNmVBRHhjTEI4Y0paSjhpSQ?oc=5",
+     "r": "Melansir"
     },
     {
      "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
+     18,
      20,
-     1
+     2
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     3,
+     4,
      14,
      0
     ],
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     0,
+     1,
      1,
      0
     ]
@@ -163,7 +163,7 @@
     {
      "t": "Hari Santri Nasional, DPRD Kabupaten Bandung Dukung Pendidikan Agama Hingga Pengembangan Pesantren - radarjabar.disway.id - Disway",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGw0TEpzeVU2bEtEV3R5d0hFUDdBemI4Z3NBNWZzWFVNVDhZdDg5V3RMWjdlUlRsRlBfcVhiRFFkVDVaNXplRC1DN3Nack1mUTVFd2N4SjFJdEVISG42WjhBZFdYSUpKUGZwWHRHTlh0RWVEVG5nWGRKWWM1TU5SVTM1VTZDRzZkdWhoaUZRMWZvV1BHaXV0bG1zZHRiWjBEY1hiZW1XUEVIa2Z1dXhSUnMwc3p4c2ZHVmtSdGVqQUVjV2I5eHM1elF4M1RQZzFXOUEzUkN3SU92LXotNnRqOTFSNNIB0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J0gHTAUFVX3lxTE5zQWFLb21QV195eWI5Ry1rOUI2VWNDdFczRGFRV2ZBcXlTY3hxa0VtY2o1WjI3LXdvNlpSbWFlUmlnNXlDSXVxdTVkLTNKa2sxZ3d0d2dRZ0UwMnVzczMzNDF1dlRSMlRNS0VIaFZ5Wi1ESHJ5ZnQ1dGloZVpKZkVPQWtOOWVDeFZuX3ltT1RobzVmekR2eERTTUdJa3lUMnVLTkxWS2lEcWw2Yy0wbWtFV01YYzZXelFpR3RQOFIxbTBtMWNLOG9FaGdGNDZoTnhObkk?oc=5",
      "r": "Disway"
     },
     {
@@ -237,9 +237,9 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Inkubator Bisnis UNIBI Siap Dukung Langkah Kementerian Perkuat UMKM - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjN6eWdJd0wxMTJGazBjZXF4VFRHZW5IQVcwY1NFWUw1dGNZTE4zR2tMOEJlUVJzN0hpVTByLWdTQUZILU1vZFVMNGZlb3dvTlJhOWFLVUwtRjllZWI4azQ3LUplNjB6czR0bmdDTlRlM2lOZTA0ZmJ0c21RaGFZZU9PcGpxc01Xb3IxYXFYZ21qZXMyV21FZWlCR1ZQR0xMaGljWHRxQ2I5V05Ua190TGM4Y1Q?oc=5",
+     "t": "Dorong Pertumbuhan UMKM, UNIBI Siap jadi Inkubator Bisnis - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     4,
-     15,
+     3,
+     17,
      3
     ]
    },
@@ -277,7 +277,7 @@
      1,
      0,
      0,
-     3,
+     2,
      0
     ],
     "g": [
@@ -321,20 +321,20 @@
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=ngOsrT81Adg",
+     "u": "https://www.youtube.com/watch?v=-lnXW-iYcC8",
      "r": "YouTube Persjava-TV"
     },
     {
-     "t": "Acungkan Sajam Saat Pawai di Rancamanyar Geng Motor Resahkan Warga",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=eIODLw2KpEc",
-     "r": "YouTube Command Center Teh Aanya"
+     "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=ngOsrT81Adg",
+     "r": "YouTube Persjava-TV"
     }
    ],
    "v": {
     "s": [
      0,
-     1,
+     2,
      1
     ],
     "w": [
@@ -483,28 +483,28 @@
      "r": "jabarekspres.com"
     },
     {
+     "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=4SydZ9WS3yY",
+     "r": "YouTube LEKSAM BEDAS"
+    },
+    {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-2",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=SLnZhfXjCrs",
      "r": "YouTube LEKSAM BEDAS"
-    },
-    {
-     "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=0nie2O5wOp0",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      0
     ],
     "w": [
      7,
      21,
-     6
+     7
     ]
    },
    "trend": {
@@ -528,7 +528,7 @@
     ],
     "g": [
      0,
-     1,
+     2,
      0,
      3,
      1,

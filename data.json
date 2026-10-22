@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:24:06.071917+07:00",
+ "updated": "2026-10-22T18:21:45.115126+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   28
   ],
   [
    "RRI.co.id",
-   23
+   21
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Kompas.com",
@@ -47,10 +47,6 @@
    5
   ],
   [
-   "Ketik",
-   5
-  ],
-  [
    "Radio PRFM",
    5
   ],
@@ -60,6 +56,10 @@
   ],
   [
    "Jurnal Soreang",
+   4
+  ],
+  [
+   "Ketik",
    4
   ],
   [
@@ -79,12 +79,6 @@
    ],
    "h": [
     {
-     "t": "Hari Santri Nasional ke-11 dan Musabaqah Tilawatil Qur’an (MTQ) ke-481 - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmpDTmtuR0ZRSk1IQnFMdWhxYW1RTDlGX21LSVdKeTI2NGU3RGJqZXVrUWVGbXd2NFN2cXdHcDJuLUJnU0ZSWEt5aHNLMHpOMEZJLWx6TnVKN24yMkQ3ZThBbThsMmV2WU1CYkljM28xMDVFTVVPVHRXU3ZUU3ZqNml2alhYSFVISnFsbDJtcTdVcGh2bEk2ODN3VGYtMjVFZ0syMnNjNjNuc2xqWnZCYXY5Q0d4UEhzVU1aWW1sblgxVlU?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
      "t": "Bupati KDS: Santri Punya Potensi Besar Jadi Pemimpin - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNLZ2lpczZsSzJGYXhfcTZZVjl5TDZMZGJTS1R1bnBtM0JmM3FnNUxHV0Z2MlVwampyX1lRbWU4V3FxUU01cHJqUVVnV0dQQTIwY3Zsb3pRLWVzRjRrdVB5NEdYcnNDWktoMzlINUZESGpoemZlZFJNekhuOUxObnQtczAteUNqcDVnaVNIQUZnYTNwU0VUcG5R?oc=5",
@@ -95,6 +89,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnBsWjB5R2d6czBRZ18yZk53ZTRVZ3duWDZpbndFZ2Nqdlh2VUJVaEpMX09pcDE0aEhWQ2xRX0pqU1A2M0oyMkpOZFh4MEpWVXFab3E5TU9DeW56NHBmOVROeTI4RTNWN1hLY2d4SnMwd1dZRi14RDZ6aUVyNm01UXRZTmVhQnI3ZEVSWllqTnVlbmpXeEYza0dhNWp5cUU?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Hari Santri Nasional 2026: KDS Dorong Santri Kabupaten Bandung Berperan Aktif dalam Pembangunan Bangsa - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTljWXBBYUlMM0lSYmtTX25fcHJpQXpONGZubmUtbjRGbHZkekx6blpBLTFlcmktYjdmQXdKRnl1VEtYQjExaFgyck9LalNNcjRMQVl4eXo5dGdCWHllcXFldnhnWjhjQ1FMekhGdmZ1amRBTjBBeVN1Y0RlcDAtVml3X3ItYnl4UjExMzhKR293LTFXMThyYXZDM3RHQ3pNUVQ3YklUS09mV2tQUk52dTB2ZHBpMEZIWS1oWUE4d2pVX3l5OXg4YWtCcFB2NW0zSlJ5QVdPWnF2YVRhX09fcDZoX2dXY2lnNm5VMzJn?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     4,
-     11
+     5,
+     10
     ],
     "g": [
      0,
@@ -167,10 +167,10 @@
      "r": "Ketik"
     },
     {
-     "t": "HSN ke-11, KDS Dorong 160 Ribu Santri Jadi Kekuatan Pembangunan Bangsa - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblRJbU9JTmZ0VWtFanhIeG5ReU5FdTQzMjdQUnJVdU9GQkdvdTNKNlZRM2VWcTlSX3ZmVFFqaGFrdWJyY0VrOXBOcFEzeGtKdm55bGR2WDBFWjZXeWJpQ21tVXZqdEJtX0dvYVNXNE51MkxlMkFCZVhqVGNLU21fYlFDa1ZuWVM4M0h3cDl2Vkc3M1Q0NUEtRl9PSmtza0I3Y1dSQtIBlgFBVV95cUxQdTNDRzA1N2F0S2RwY0FIQncxWVBFOW5YOU1NdEFISjNyalg5RXdNWWFfeHpBamx6aE5ha1U3dUtHOFoxVXFqeW5qRlE4VE9RNDVEX25INGJHMHlNYVdib2o4OWt6MV84cmlGNlNPNWtUdWxXTzFtb043R1J0RjlSZEtVVTRsNmhGeFMxQnFqLVc3bEw3MWc?oc=5",
-     "r": "Ketik"
+     "t": "Ketua DPRD Renie Bahas Pentingnya Pembangunan Infrastruktur bagi Pembangunan - Bedanews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWm5Eb0F5SDhLOFRRTHRLak5JTF9DTXJvXzFUU2VvUVBweTJ0THVUN3c3Y0dhNnkzQ3F1cFNnLW9lS3hMX3Ewa1VOby0zdm1MeVJobUpYWGhXSnlNc29jTGZWZ3ZQZDJ6dkk3ZmZQdkZhblIteDRTdlJtQmp1YWg4dzh1SnhGZnFsUF85d3pUWVhqWGN5UGNGMXBlTEZuNnM?oc=5",
+     "r": "Bedanews"
     },
     {
      "t": "DPRD Kabupaten Bandung Dorong Orang Tua Siswa Sekolah Rakyat Diberdayakan, Target Keluar dari Kemiskinan dalam - jabarekspres.com",
@@ -202,13 +202,13 @@
      "Kam"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      0,
      0,
      6,
-     4
+     3
     ],
     "g": [
      0,
@@ -231,9 +231,15 @@
    ],
    "h": [
     {
-     "t": "Dorong Pertumbuhan UMKM, UNIBI Siap jadi Inkubator Bisnis - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
+     "t": "Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBaMGZpbnRaZ21sTDVLa19WUTZDRkpQNTdKblZtUzROSjBQZVRZWEx4R0VXa2VlaldrX0s5Tm1XRGU2c194OU1Zd0lIU2FLOWpaSkF6eXN6U3RVYUgxZXlwMzhPUW5XUHYwYTIzWFFKbXNpeWhocmNJaFE4OE1uSm9zVERrNTZqX09SZ0NPeEVqWG1IYldjZzdVU0NreVRLaEpmYnpnb3NqVjZzZC0wb2lhY3VsTDlrX3RBUzhxc1dnNHRsV05V?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Inkubator Bisnis UNIBI Siap Dukung Langkah Kementerian Perkuat UMKM - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjN6eWdJd0wxMTJGazBjZXF4VFRHZW5IQVcwY1NFWUw1dGNZTE4zR2tMOEJlUVJzN0hpVTByLWdTQUZILU1vZFVMNGZlb3dvTlJhOWFLVUwtRjllZWI4azQ3LUplNjB6czR0bmdDTlRlM2lOZTA0ZmJ0c21RaGFZZU9PcGpxc01Xb3IxYXFYZ21qZXMyV21FZWlCR1ZQR0xMaGljWHRxQ2I5V05Ua190TGM4Y1Q?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0k4UEZCM1ZUZ0RRWS0yRlQ2SnJ5Wjk0NGU4MHNNWEJ4X0w5bkgxVzVfZjVUZ09MZ0F1ZWFCQ0NZME8yVXRxUWRTODlSSHpCNDFTUlVhbTJwNHRiTUpQODJLYUYtR3hoRDlMVTJFdDVXMjN0bXlKNFF6LURDeG1va1NwTWttSnI3OFlrVXE2MnJPSnJSTmh5ZHY0bUduNkU5ckl1dkE1bjNhOEZyMDZuNm9kQm0?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Dedi Mulyadi Dorong Investasi di Jabar untuk Buka Lapangan Kerja - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTg3Q1psWFVDNWRNNm9EWUNfQm5zZThNbHdGR2tEYkdxZlB4VWVWZWotOWFJbkNIMTY5ZmJON29tcS1ZNkx3TEl1OU5UVXVSUVlhZTZESUtuMTl1UWt3Vi1KbTg5QTJBeHI0VTZ6UE5oMDdnbEFTR0tVX2lKaWJoOHEtTEt1dF9zdFI2Yk9qSlFELVc4N09ZU3BwVE1DWGNLNmVYS0pwX01jWFpEcUhNOUQ4bHdpUmdYZmlxMGVRQWtlSEMt?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     2,
-     20,
+     4,
+     17,
      3
     ]
    },
@@ -290,7 +290,7 @@
      1,
      0,
      0,
-     1
+     3
     ],
     "g": [
      0,
@@ -346,7 +346,7 @@
     "w": [
      1,
      20,
-     19
+     18
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      0,
      0,
      1,
-     10,
+     9,
      8,
      1
     ]
@@ -504,7 +504,7 @@
     "w": [
      7,
      20,
-     6
+     5
     ]
    },
    "trend": {
@@ -529,7 +529,7 @@
     "g": [
      0,
      0,
-     2,
+     1,
      0,
      2,
      1,

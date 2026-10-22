@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:25:05.614256+07:00",
+ "updated": "2026-10-22T23:24:18.553099+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   28
   ],
   [
    "RRI.co.id",
-   20
+   25
   ],
   [
    "Ayo Bandung",
-   17
+   18
   ],
   [
    "Kompas.com",
-   12
+   13
   ],
   [
    "Satumedia.id",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
+     "r": "WestJavaToday.com"
+    },
+    {
      "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaU9tZGZ1WHVldFU0YTQwQUlfTms1bkU2QndmNnlUTkd2MF9CdnRVeHJ4U3JRYzRaeWg4dmpCdXo3SjlxazVGSkdUZmRpdTRPWFczSUNjMjRQajByUXdXLWRrZ0luZGhKdFA0enpoVjZDcHlTOWgzSEpXamt4VUlZa1E5MW9oRVBmZmduQm5LZ19oQ1NiT1NiLVRxZzJ1dkx4STZOQXh6dWQxUEVmSFNrWkRmX0g0eGZvYWxaeHUwaUVzdw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2hnOFdFN2NYRTdleEVIZWtqUzViQ1lVZllDU1BaRkZMeThwWExNRWx6cHk5SmhfdlU5c2FrOXAzMHphMTd6OE5VMHIweEZEcnZMQXN2cnhUdW04ckdaX1VyMlNmdnc1Qkw1bnd2UzZLdGRJTFRtOHNfdlR5c1BnR3BlSkN5S0Faa3hpRVpMLU9wakQyLXRvbnR3MVNyTmRiODBnY3ozWVZXRmxKZkJPTFBRRTgzc3MyZmtyV01nd2RQY1RCTFlpX18yQWlmTlY3NGl4V2RtUVFrUENwY0diaWRiVUdYT0k?oc=5",
      "r": "Bandung Berita"
-    },
-    {
-     "t": "160 Ribu Santri Kab Bandung, Potensi Besar Calon Pemimpin Masa Depan - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkpGUnVCMC1SMWg0azJvbzlHdE9PcmNVR2lsRE1kOXlfVnJjRzhyUUJoRVVOemNuUHM3VDNaVGhVcGplMGhTTi1hcUFVQWVjWFZTVE40eUQzUnBYdFFQRHZUNUdJa2VaZHJGa1huNWVvbHVIMGtNS0x6RThmNEluZHZ5aU5wM0l6cWI3OGcxNTJOTC15UzQzU3I3WFVHc3dhSmo0ZHpIU3hTaVU?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      18,
-     19,
+     20,
      2
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     4,
-     14
+     3,
+     15
     ],
     "g": [
      0,
@@ -169,7 +169,7 @@
     {
      "t": "Hari Santri Nasional 2026, Ketua DPRD Kabupaten Bandung Renie Rahayu Fauzi Tegaskan Komitmen Perkuat Pesantren - Jurnal Soreang",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbW9ILTl0bXFoQ21RMkdBTXZCeVU2S1ZlSlQtS1Q1SmdmeWRHZWZ3NWdZWU0zNWlmeHhJOU1nYWVpMm1PMWtVQjYxeVZfSVJKWG1IZ2doTTZkaWlvcXlSNlF4bURiRUVHUTlaOUNSSmVLUExGeXl1SjVFTDFieXh6VUpLS1JRSGV1SFcxM255NUxWR2EzRnNueXdwMXJyR0VvWW5TVUplMTN0bGcyMEFsTDZGRU9TYTBZb1lSUVlIeEVub09mRy1SV3dBUXJSS3lObUIwakM5U1BvX3F5T0JPa2ZWX3ctZWpGdlVqMUl0SDRVZTVEYUEyLVNZUXZmVGtWUmhwc2FR0gGGAkFVX3lxTE1tb0gtOXRtcWhDbVEyR0FNdkJ5VTZLVmVKVC1LVDVKZ2Z5ZEdlZnc1Z1lZTTM1aWZ4eEk5TWdhZWkybU8xa1VCNjF5Vl9JUkpYbUhnZ2hNNmRpaW9xeVI2UXhtRGJFRUdROVo5Q1JKZUtQTEZ5eXVKNUVMMWJ5eHpVSktLUlFIZXVIVzEzbnk1TFZHYTNGc255d3AxcnJHRW9ZblNVSmUxM3RsZzIwQWxMNkZFT1NhMFlvWVJRWUh4RW5vT2ZHLVJXd0FRclJLeU5tQjBqQzlTUG9fcXlPQk9rZlZfdy1lakZ2VWoxSXRINFVlNURhQTItU1lRdmZUa1ZSaHBzYVE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHBNUVF4ZF9TMHVWQ2wtTHluTHdUY1NUbGNTREk2MG9uR2dTdzNxcTVJWjM3cmgyUjQxSUx1RUhkQ0xjZzFRME1tN2R3dVVUY1VmX2diakFoTndWQW12amF6MUFMM2xKcUt5MFRMWVk2WlZJTlM3TUxFUXpfUkxRNjhtWWF2WlU3ZnRkRFdKdHBaeXZsNXhZYURONktqem8zZkpDOXpnRW1yQmVVeXNQQXJZUXBoNWdhQThYb3E2MHVIQmp0M2hsX3dfUmtoZDg3SURIcEdnb0cydlFVc0NhcDhoOU40aHNMVC1EZ0hZTkQwQ0VSSFZiZXpBb2pLMHgw0gGGAkFVX3lxTE1tb0gtOXRtcWhDbVEyR0FNdkJ5VTZLVmVKVC1LVDVKZ2Z5ZEdlZnc1Z1lZTTM1aWZ4eEk5TWdhZWkybU8xa1VCNjF5Vl9JUkpYbUhnZ2hNNmRpaW9xeVI2UXhtRGJFRUdROVo5Q1JKZUtQTEZ5eXVKNUVMMWJ5eHpVSktLUlFIZXVIVzEzbnk1TFZHYTNGc255d3AxcnJHRW9ZblNVSmUxM3RsZzIwQWxMNkZFT1NhMFlvWVJRWUh4RW5vT2ZHLVJXd0FRclJLeU5tQjBqQzlTUG9fcXlPQk9rZlZfdy1lakZ2VWoxSXRINFVlNURhQTItU1lRdmZUa1ZSaHBzYVE?oc=5",
      "r": "Jurnal Soreang"
     },
     {
@@ -188,7 +188,7 @@
     "w": [
      11,
      9,
-     8
+     7
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      4,
-     3
+     2
     ]
    }
   },
@@ -269,8 +269,8 @@
     ],
     "w": [
      3,
-     19,
-     3
+     17,
+     4
     ]
    },
    "trend": {
@@ -295,7 +295,7 @@
     "g": [
      0,
      0,
-     1,
+     2,
      0,
      1,
      1,
@@ -325,10 +325,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "Kantor Pertanahan Kabupaten Bandung Masuk Radar Ombudsman RI, Rawan Terjadi Korupsi - Pikiran-Rakyat.com",
+     "t": "Ombudsman RI Ungkap Titik Rawan Maladministrasi yang Berpotensi Korupsi - RRI.co.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnVWMVFLcFdZblcxOW42WUNyVWwzZmNHWkJkaEZ0NzhDWXZ2ZWtxMjRKbkZkb2REeGg0RUxPUmt2cGlIWEs5OFFZLVV6RXdYR0o5R3N4dTdlV1ljakVZREE3YTJFRzZOTXhZY0l2MTAtX0hQSlVrLXhyWGRWZmlpSlNfaXhfUlEzNlB3OVhHMXQ3Z3JjZEFGTnREVHkyQng5MVJrT05FOXZhNjJGOGlXX1d3?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     21,
-     18
+     20,
+     19
     ]
    },
    "trend": {
@@ -381,7 +381,7 @@
      1,
      9,
      8,
-     1
+     2
     ]
    }
   },
@@ -432,9 +432,9 @@
      1
     ],
     "w": [
-     5,
+     6,
      8,
-     6
+     7
     ]
    },
    "trend": {
@@ -450,17 +450,17 @@
     "p": [
      1,
      0,
-     0,
+     1,
      0,
      2,
      0,
      3
     ],
     "g": [
-     1,
      2,
-     1,
      2,
+     0,
+     3,
      1,
      0,
      0
@@ -515,7 +515,7 @@
     ],
     "w": [
      6,
-     19,
+     22,
      6
     ]
    },

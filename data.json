@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:19:17.593269+07:00",
+ "updated": "2026-10-23T04:21:28.516920+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Ayo Bandung",
@@ -20,10 +20,14 @@
   ],
   [
    "Kompas.com",
-   12
+   13
   ],
   [
    "jabarekspres.com",
+   6
+  ],
+  [
+   "Jurnal Soreang",
    6
   ],
   [
@@ -43,10 +47,6 @@
    5
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
    "Radio PRFM",
    5
   ],
@@ -55,7 +55,7 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Disway",
    4
   ],
   [
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
+     "t": "Hari Santri 2026: Dadang Supriatna Dorong 160.000 Santri Berani Bersaing - Melansir - Melansir",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
-     "r": "WestJavaToday.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUsyNmVDX2RYS1RYV2FoRmFvRUtTR2lXSzBMZDZfY0JNWExCNFNzNEpXX0xDZlhUQTliQUVwa0hpclVCS0NUNFFRSTZhRDFvRGhLMUgtVXhOSk9IQV9mTGVJMEl4b3paa3ZEREk0cFhEODh2V2U5UGF3RHlwenBtQXVDd1I4OUhXSDRzM2NVUUFFYkZlQ2RpaWtvSFVTUndueUVPbnl2dGg3QkNiQmd0ZERn0gG3AUFVX3lxTE44VF90bW5jUkpjM0lJSmlFLTYzbHJLVVBTT2FzbWk3ZlYxaWFiUlkxT1R5djJSWHRxcldVM2xoN0ItMlgwcHhRZGdHc0V5MVRyM29WVDk1SVd5OE9jSEdlN2N2cTNPUlVXUWFhYVlNOXVWVFZ5WXlFOGRSUHBpN2JXZjVzNHJPdUE0LW54VnJzdXFjRjBhYWNMMzhNRk40azMtNmVxbHVhNmVBRHhjTEI4Y0paSjhpSQ?oc=5",
+     "r": "Melansir"
     },
     {
      "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
@@ -118,7 +118,7 @@
     "w": [
      17,
      20,
-     2
+     3
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     2,
      1,
      0
     ]
@@ -338,9 +338,9 @@
      1
     ],
     "w": [
-     1,
-     21,
-     19
+     0,
+     20,
+     21
     ]
    },
    "trend": {
@@ -357,17 +357,17 @@
      0,
      0,
      0,
-     1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     0,
+     1,
      1,
      1,
      9,
-     8,
+     9,
      1,
      0
     ]
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor Halaman 2 - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXVOZVJLZUR2LU9mNWhpNGRzQXcxWGhDczdBM20ybFVGblMyTUNrcnZyUWdWaFQyOWtRX1FiUnhYX2Vfel9NVmUyeXFjT192a05xaVNVdmRHd0pDR0twWHhZelBWWmdYb2c0SDFXdEFqZHI1d1RFeTNSczBnYmVtaDl4WldVRGw0T3VkanlvVGdFa0kzZEkxM09oZEhpVFNkd3lKaFEzbmpEMi1lcGVBVk4tMG5hYUVuRTIxdV9fTTRtTTZFZzFmLU9LUkd0U3dO?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNfMUZDTkVTNTc3U1Y4T0VjTTBkU1JXeVBQZUF3TElzSVdfNlJGMlBULWY5cUVVbzdHaVJGZzU3Z0tqNDZFMHdrTnczMGl5bjFKVnhPNkJzYlo0UVpTcF8yLTUwWWExWWFmY1JPZEstZkdxdG5sRldyU3JlbmwzYmx3bVM1US1yNzJOYjk0TUpMRHJxTU5UZ3FubWJUdERyVEpYUkhvQS1fOFAyZ0wwb0ZBaGlXYndHLVk5Y2stS0hxLWQxNHdKU0R4TUdhZUwtcWhZN0JKWjQxOUZ0Wnc?oc=5",
@@ -393,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Itenas Bandung Jadi Tuan Rumah KoNTekS 20, 177 Paper Bahas Inovasi Infrastruktur & Mitigasi Bencana - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVVNnVSa3YwcGZLc1dWSUZsTGpvZTBNREpvTzFNblhHOVU1eFMxNnNKYjlNaFlBaDhzRGZtUzJCcEVrdmRJajN3eUxwdDBYWEFXdHpmX2NVdk9DMjh6YVJ1bDd3cm9Oc1lrR3FyRTFiMHVOM09lVTZVa3NWMXdLdVR3ZkZyQjBEaHNVeWU4NkkxRHF4SDBUV0F2V0phZDN0Q1l6aWl1dGFEQ0F6YWUxQ0RQeWUtVGJ3b1Z5czBuazJjNjc1YXZmdzF6a1BKdHhMQnR3bU1JdXB1aG84Q1gzWg?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -420,7 +420,7 @@
      1
     ],
     "w": [
-     4,
+     5,
      7,
      4
     ]
@@ -441,7 +441,7 @@
      0,
      2,
      0,
-     3,
+     4,
      0
     ],
     "g": [

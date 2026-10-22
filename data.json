@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:27:13.800932+07:00",
+ "updated": "2026-10-22T09:20:15.055503+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
+   32
   ],
   [
    "RRI.co.id",
-   25
+   22
   ],
   [
    "Ayo Bandung",
    19
+  ],
+  [
+   "PPID Kab. Bandung",
+   12
   ],
   [
    "ANTARA News Jawa Barat",
@@ -27,23 +31,15 @@
    8
   ],
   [
-   "PPID Kab. Bandung",
-   7
-  ],
-  [
    "detikcom",
    6
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
    "Satumedia.id",
-   4
-  ],
-  [
-   "Inilahkoran.id",
-   4
-  ],
-  [
-   "Jurnal Soreang",
    4
   ],
   [
@@ -55,11 +51,15 @@
    4
   ],
   [
-   "PenaKuID",
+   "Inilahkoran.id",
    3
   ],
   [
    "Ketik",
+   3
+  ],
+  [
+   "Jurnal Soreang",
    3
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     6,
-     27,
+     5,
+     32,
      2
     ]
    },
@@ -136,8 +136,8 @@
      0,
      0,
      1,
-     2,
-     4,
+     0,
+     5,
      0
     ],
     "g": [
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     8,
-     12,
+     7,
+     11,
      5
     ]
    },
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     1,
-     15,
+     2,
+     18,
      5
     ]
    },
@@ -287,7 +287,7 @@
      1,
      0,
      0,
-     1,
+     2,
      0,
      0,
      0
@@ -426,9 +426,9 @@
      1
     ],
     "w": [
-     3,
+     2,
      7,
-     8
+     7
     ]
    },
    "trend": {
@@ -444,7 +444,7 @@
     "p": [
      1,
      0,
-     1,
+     0,
      0,
      2,
      0,
@@ -455,7 +455,7 @@
      2,
      1,
      3,
-     2,
+     1,
      0,
      0
     ]
@@ -471,22 +471,22 @@
    ],
    "h": [
     {
-     "t": "Data Divalidasi Anak Difasilitasi - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTOEU2cTZoSDBVZk0xTjVQTVNTMDdrTE95N2oxME1rZm9MaGVlcm9xR0kyYjNtZFFBZU9IbUlrYXZaNDFtdTZMVnladVd5M1FVTEtwQmJUQUQyVEw1Mk1XcnNiT3NyWlQxNnJqLQ?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
      "t": "INFORMASI NERACA 2025 Dinas Pendidikan Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JSeEVnb3dNNWtIZlZ0SnpCN3p6bHh1Y1U3S2xEdlBFNEE5cFQ4c2ZURjYxM3V5b2djTnlXOFI1OGRTN3FHQmpFRDI0VEpTYWJxYnc5U0xDVzhodEFJNWNmSWM5LXpjNEdOeEo0YzNJT2Z2aFhyRElIMjE0LVJiWEhrbWdKXzE3QzlJVUozbktPc0pXQ1M2NVpfSmFvcUhKbUhZajhUZDVrczY3WGo0?oc=5",
      "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Ombudsman Petakan Rawan Maladministrasi di Layanan Pertanahan dan Kebencanaan - RRI.co.id",
+     "t": "Menjaga Asa Kesehatan Masyarakat: BRI Peduli Gandeng Yayasan Eiko Lio Nusantara Hadirkan Ambulance Gratis - jabarekspres.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWlmVHU4Q2cxV1NjMVlHU05tYzFPUXN5ak5PWFVuRkNnd3dlLXJNRm84ci1uSUtJb05qcGk0TmJ3UURleWlSbXIwRV9IaFdQbHI2NnprSUYzdDV1ZmtYNVNnZnhTeU85bW5mUDNyODVhRGFrNWVFZzFHZk4xM2xZQUdwaDdYZjE3RTVnNnVrSUE4WjdXRTdyci1LZEtld3pDNm1KOHh6WV96TXFKQms0ZVRmczNwRElVUm5lQzl3?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURUS2NIYVJySXlhRGpqY2ZrclNUeWUzVy1jMVRfTUNuT3p1dS1nTXpIWVh2VDZKRWRlQlFBc21qM0dNWHBhdUJtdm90dWdVYWJTWExsX2tDLWdINVU1ZDlhQjVMS1dfYkZaa1owYm5jVWZDVlc4aEZTb3B4X3JpbXJPNnhZalIzT1F0eDZ1QkpKTmtUTjc4d3NEWDlVWjJicG84LTVzSFRQaGNqRE51Q0NNc09LM1lzeVpLZzk4WG5IbEtXYVZhOW1kZzBHamVMSG12WkFyQWtIVE1LcGNkUmJB?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Pemkab Bandung Bakal Sulap Eks RSUD Soreang Jadi SMPN 5 - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGJLMFR2ZU1EWWx4akVxNmZ5b0tLY3NEZm00bnBuR3RsRE1JMENHYnFKR0hLX09ua3J3c0NVYUtNT3Q5YS1nd1V2RmRaYkFCbWQzd2ppdGtVM3dwczFqdXpjQ1VUVnFfX3dNZUhjNy1sRVBHUjlFSjNUQU9IcFYzeHMtZGJTb3RkZ3c?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "Jambore LEKSAM BEDAS 2026 Diikuti 6 000 Siswa SD, Perkuat Literasi dan Numerasi di Kabupaten Bandung",
@@ -503,8 +503,8 @@
     ],
     "w": [
      4,
-     27,
-     5
+     26,
+     4
     ]
    },
    "trend": {
@@ -529,7 +529,7 @@
     "g": [
      0,
      0,
-     2,
+     1,
      0,
      2,
      1,

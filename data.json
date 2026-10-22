@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:19:45.456114+07:00",
+ "updated": "2026-10-23T01:19:17.148829+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "RRI.co.id",
-   23
+   20
   ],
   [
    "Ayo Bandung",
-   16
+   17
   ],
   [
    "Kompas.com",
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "Hari Santri 2026: Dadang Supriatna Dorong 160.000 Santri Berani Bersaing - Melansir - Melansir",
+     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUsyNmVDX2RYS1RYV2FoRmFvRUtTR2lXSzBMZDZfY0JNWExCNFNzNEpXX0xDZlhUQTliQUVwa0hpclVCS0NUNFFRSTZhRDFvRGhLMUgtVXhOSk9IQV9mTGVJMEl4b3paa3ZEREk0cFhEODh2V2U5UGF3RHlwenBtQXVDd1I4OUhXSDRzM2NVUUFFYkZlQ2RpaWtvSFVTUndueUVPbnl2dGg3QkNiQmd0ZERn0gG3AUFVX3lxTE44VF90bW5jUkpjM0lJSmlFLTYzbHJLVVBTT2FzbWk3ZlYxaWFiUlkxT1R5djJSWHRxcldVM2xoN0ItMlgwcHhRZGdHc0V5MVRyM29WVDk1SVd5OE9jSEdlN2N2cTNPUlVXUWFhYVlNOXVWVFZ5WXlFOGRSUHBpN2JXZjVzNHJPdUE0LW54VnJzdXFjRjBhYWNMMzhNRk40azMtNmVxbHVhNmVBRHhjTEI4Y0paSjhpSQ?oc=5",
-     "r": "Melansir"
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
+     "r": "WestJavaToday.com"
     },
     {
      "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     19,
+     17,
      20,
-     2
+     1
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     4,
-     15,
+     3,
+     14,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     0,
      1,
      0
     ]
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Hari Santri Nasional, DPRD Kabupaten Bandung Dukung Pendidikan Agama Hingga Pengembangan Pesantren - radarjabar.disway.id - Disway",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGw0TEpzeVU2bEtEV3R5d0hFUDdBemI4Z3NBNWZzWFVNVDhZdDg5V3RMWjdlUlRsRlBfcVhiRFFkVDVaNXplRC1DN3Nack1mUTVFd2N4SjFJdEVISG42WjhBZFdYSUpKUGZwWHRHTlh0RWVEVG5nWGRKWWM1TU5SVTM1VTZDRzZkdWhoaUZRMWZvV1BHaXV0bG1zZHRiWjBEY1hiZW1XUEVIa2Z1dXhSUnMwc3p4c2ZHVmtSdGVqQUVjV2I5eHM1elF4M1RQZzFXOUEzUkN3SU92LXotNnRqOTFSNNIB0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J?oc=5",
+     "r": "Disway"
+    },
+    {
+     "t": "Ketua DPRD Kabupaten Bandung Tegaskan Dukungan untuk Pesantren dan Pemberdayaan Santri - Fokus Satu - Fokus Satu",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1FiMG5GYmMyTEVWY2drSWdpek1EanBSS0VBWkNQX0k5TThxanNpMFA0S0RFR203M3l0ZWJCS1FMYUk5dTlGWEJ5VDY5dU5xMjF2TmpESFJBVjhodElOQWsyZDNGODlVQm5yQWRUV1Bucl84YlplVC1xZXRuTllIM2xWODZuNUhTQU80dFJ4Z2lDWUhDa0wtUWxYZmNVOWp0QTFTbnQxUTJ1V3p5N041VnVHbXZzaVB0TUtjWE9RbHh2UVBVNnfSAcsBQVVfeXFMT1JtWWk3ZGl6aXV5NzRWU0tmeGVzdlRuSWFPSV9pT1NXT1RNUWh5UnJwSVI2SDV2MHM4TFRCY2lfTy1yTm9XV2pLcXQyZXdJajg4b240MVBFNWtadVlxSEg5SURvNUtwdkxyaHpiN1cyRDRjR2FfWDIwN2pqMjFOUXotVm5KWU9FMC1RU1VlZTZ2ZzBQNzF4Sjc0U1ZXR2dQZDVDcFNsdy0zdi1hcHZ3a1U0cnBKMGRPSmFFQmJfVlhXRm9LNUVaZTZrYms?oc=5",
+     "r": "Fokus Satu"
+    },
+    {
      "t": "Asep Syamsudin Sentil Pemerintah: 7 Tahun UU Pesantren, Pengakuan terhadap Santri Masih Setengah Hati - Jurnal Soreang",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVI1Z3hUOEQ2cWpHdEk0V2FvRGRWQUxIOVBQVW5KZWx6dllDbGZtQXdBQkEyenU3QUZwc3kzRGRTaF9CZUUzZFAwcTFwR19sQ0QwWjkzTzdnOG95bXdCTlAwaVczZWlpRko1WVdlRDhBcmR2V2N3bUw2eV9zSU9WTFhtNUhWenZkWUUybGVWNG9OTy1ia0NRT3VzRk9iX2lzYlVfU1dKWWxtWE4zdWEtblNfM0VXeWFlNEtUM0FQUWZsWTNEbF8xa3QwTFdfV09ZXzdBdU5TTlMwMVJEeU5EQWNVMXliNWpKTU8tYWlsWnZsZFHSAfgBQVVfeXFMTlc3b2ZheFdhSk55dlpaNHhwb1U2Q0t4a1JKLTdXblp0eUtuUm03RllRTkFzZVFBZERhMlZxQmxzRjE2dE8xTnB6WUFYd3hiQlRMTlNUT0JmRHh5X1FpYkotRnB2OTVOVUNKbkt2WXVnRzNlRzVxR2RkTmpvek1HTFJHRXU5alpTSTRveHAxNGMxeFJHZGlQc3MtNjdhbkEwZTNnWEpCNjhfNndnMGRsNFpVS3FIdUNiR2hzYmdCZjV3ZE93c0xhZkFZYm5lUTYwNUREY3ozYkNoX3pSakNjZ2I2dElpTU5mNXFvbnhRdktldTR2Z3Y5dTU?oc=5",
      "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Hari Santri Nasional 2026, Ketua DPRD Kabupaten Bandung Renie Rahayu Fauzi Tegaskan Komitmen Perkuat Pesantren - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHBNUVF4ZF9TMHVWQ2wtTHluTHdUY1NUbGNTREk2MG9uR2dTdzNxcTVJWjM3cmgyUjQxSUx1RUhkQ0xjZzFRME1tN2R3dVVUY1VmX2diakFoTndWQW12amF6MUFMM2xKcUt5MFRMWVk2WlZJTlM3TUxFUXpfUkxRNjhtWWF2WlU3ZnRkRFdKdHBaeXZsNXhZYURONktqem8zZkpDOXpnRW1yQmVVeXNQQXJZUXBoNWdhQThYb3E2MHVIQmp0M2hsX3dfUmtoZDg3SURIcEdnb0cydlFVc0NhcDhoOU40aHNMVC1EZ0hZTkQwQ0VSSFZiZXpBb2pLMHgw0gGGAkFVX3lxTE1tb0gtOXRtcWhDbVEyR0FNdkJ5VTZLVmVKVC1LVDVKZ2Z5ZEdlZnc1Z1lZTTM1aWZ4eEk5TWdhZWkybU8xa1VCNjF5Vl9JUkpYbUhnZ2hNNmRpaW9xeVI2UXhtRGJFRUdROVo5Q1JKZUtQTEZ5eXVKNUVMMWJ5eHpVSktLUlFIZXVIVzEzbnk1TFZHYTNGc255d3AxcnJHRW9ZblNVSmUxM3RsZzIwQWxMNkZFT1NhMFlvWVJRWUh4RW5vT2ZHLVJXd0FRclJLeU5tQjBqQzlTUG9fcXlPQk9rZlZfdy1lakZ2VWoxSXRINFVlNURhQTItU1lRdmZUa1ZSaHBzYVE?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Bersama Dengan Inspektorat dan Diskominfo, BKPSDM Kabupaten Bandung Lakukan Verifikasi Data ASN Yang Terindikasi Bermain Judol - Bandung Berita",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2hnOFdFN2NYRTdleEVIZWtqUzViQ1lVZllDU1BaRkZMeThwWExNRWx6cHk5SmhfdlU5c2FrOXAzMHphMTd6OE5VMHIweEZEcnZMQXN2cnhUdW04ckdaX1VyMlNmdnc1Qkw1bnd2UzZLdGRJTFRtOHNfdlR5c1BnR3BlSkN5S0Faa3hpRVpMLU9wakQyLXRvbnR3MVNyTmRiODBnY3ozWVZXRmxKZkJPTFBRRTgzc3MyZmtyV01nd2RQY1RCTFlpX18yQWlmTlY3NGl4V2RtUVFrUENwY0diaWRiVUdYT0k?oc=5",
-     "r": "Bandung Berita"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
+     12,
      9,
-     7
+     6
     ]
    },
    "trend": {
@@ -207,14 +207,14 @@
      0,
      0,
      6,
-     4,
+     6,
      0
     ],
     "g": [
      0,
      0,
      0,
-     1,
+     0,
      4,
      2,
      0
@@ -257,7 +257,7 @@
     ],
     "w": [
      4,
-     17,
+     15,
      3
     ]
    },
@@ -313,10 +313,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "Ombudsman RI Ungkap Titik Rawan Maladministrasi yang Berpotensi Korupsi - RRI.co.id",
+     "t": "Kantor Pertanahan Kabupaten Bandung Masuk Radar Ombudsman RI, Rawan Terjadi Korupsi - Pikiran-Rakyat.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnVWMVFLcFdZblcxOW42WUNyVWwzZmNHWkJkaEZ0NzhDWXZ2ZWtxMjRKbkZkb2REeGg0RUxPUmt2cGlIWEs5OFFZLVV6RXdYR0o5R3N4dTdlV1ljakVZREE3YTJFRzZOTXhZY0l2MTAtX0hQSlVrLXhyWGRWZmlpSlNfaXhfUlEzNlB3OVhHMXQ3Z3JjZEFGTnREVHkyQng5MVJrT05FOXZhNjJGOGlXX1d3?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     20,
+     21,
      19
     ]
    },
@@ -364,11 +364,11 @@
     ],
     "g": [
      0,
-     0,
+     1,
      1,
      9,
      8,
-     2,
+     1,
      0
     ]
    }
@@ -385,7 +385,7 @@
     {
      "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVo3eWwzSDJBTEJ2ZlFVRHJMYXF6Z3dCdmRGS0VrTHUtaTdVeDZodU9lSUxrR05Za1pHMVpFOFR4MEt0ZXJXZzgxU3FpOVBFdU5UNWNhUnJqd2JFTkk5NTNrLTNlcHNfZElxRTg5ZzZ6Z0U5bUFKMVRpdFoxak1MTS1ZNG9DdFgtXzRNalFJUU1tZ3lCdGN1eWpKSm11RFRPcnRDVkE3X3EtY0VXNFJ5eUxhdjBpaVhqaVhsN21fZVRhNW1HMEE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNfMUZDTkVTNTc3U1Y4T0VjTTBkU1JXeVBQZUF3TElzSVdfNlJGMlBULWY5cUVVbzdHaVJGZzU3Z0tqNDZFMHdrTnczMGl5bjFKVnhPNkJzYlo0UVpTcF8yLTUwWWExWWFmY1JPZEstZkdxdG5sRldyU3JlbmwzYmx3bVM1US1yNzJOYjk0TUpMRHJxTU5UZ3FubWJUdERyVEpYUkhvQS1fOFAyZ0wwb0ZBaGlXYndHLVk5Y2stS0hxLWQxNHdKU0R4TUdhZUwtcWhZN0JKWjQxOUZ0Wnc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -420,7 +420,7 @@
      1
     ],
     "w": [
-     5,
+     4,
      7,
      4
     ]
@@ -437,7 +437,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      2,
      0,
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     6,
+     7,
      21,
      6
     ]
@@ -522,7 +522,7 @@
      0,
      0,
      1,
-     1,
+     2,
      4,
      0
     ],

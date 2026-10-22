@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:35:21.342709+07:00",
+ "updated": "2026-10-22T15:27:57.993199+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   29
   ],
   [
    "RRI.co.id",
-   21
+   22
   ],
   [
    "Ayo Bandung",
-   20
+   19
+  ],
+  [
+   "Kompas.com",
+   14
   ],
   [
    "PPID Kab. Bandung",
    12
-  ],
-  [
-   "Kompas.com",
-   8
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   7
   ],
   [
    "Satumedia.id",
@@ -39,12 +35,16 @@
    6
   ],
   [
+   "ANTARA News Jawa Barat",
+   6
+  ],
+  [
    "detikcom",
    6
   ],
   [
    "Jurnal Soreang",
-   5
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Peringati HSN, Gelar MTQ Ke-48 Tingkat Kabupaten Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnBsWjB5R2d6czBRZ18yZk53ZTRVZ3duWDZpbndFZ2Nqdlh2VUJVaEpMX09pcDE0aEhWQ2xRX0pqU1A2M0oyMkpOZFh4MEpWVXFab3E5TU9DeW56NHBmOVROeTI4RTNWN1hLY2d4SnMwd1dZRi14RDZ6aUVyNm01UXRZTmVhQnI3ZEVSWllqTnVlbmpXeEYza0dhNWp5cUU?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Hari Santri Nasional 2026: KDS Dorong Santri Kabupaten Bandung Berperan Aktif dalam Pembangunan Bangsa - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTljWXBBYUlMM0lSYmtTX25fcHJpQXpONGZubmUtbjRGbHZkekx6blpBLTFlcmktYjdmQXdKRnl1VEtYQjExaFgyck9LalNNcjRMQVl4eXo5dGdCWHllcXFldnhnWjhjQ1FMekhGdmZ1amRBTjBBeVN1Y0RlcDAtVml3X3ItYnl4UjExMzhKR293LTFXMThyYXZDM3RHQ3pNUVQ3YklUS09mV2tQUk52dTB2ZHBpMEZIWS1oWUE4d2pVX3l5OXg4YWtCcFB2NW0zSlJ5QVdPWnF2YVRhX09fcDZoX2dXY2lnNm5VMzJn?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakdKZmtBS3AwbVdWVE55WktkSld5bmo0dXVLdXFVaEV4RjdDRWJjT0lHYXlXUzFMcXpsV1Q5NkRTam1EUmJCdy1xQWJoTi1ET1QzdGEyUUpKZU5GT3pLNFZGSjNDYnZnY1pqcmRtUHR6ZGVaODlYTTNqbkVJVGZkMnNyT0NJSzc2SEFuOGU1ZGZYcDcwRTBIeGFxVTVMUGR6SGhPR1B3dENrY0l6?oc=5",
      "r": "deJurnal.com"
-    },
-    {
-     "t": "BAZNAS Kabupaten Bandung Terima Penghargaan dari Bupati pada Peringatan Hari Santri Nasional 2026 - BAZNAS Kab. Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmtSUWZiSDY5QTNXT2xLd0hoeUsyZmdqXzZfb1BXZGh6THhZSmNpVFJLRlNKajZSbUNsMjFZbllzQmNYM3MyYnI0X1B3RzdsWHkyc2xtY3l0Y0F3enNLSHhhLUhGa0lweWU0dWViQUNidXM4Mm5rSExTbV9zd3RQZzN6TFNxYVJkUXA0V0dDSnFEZ2x6Skp6alQxUTd1ZDd1UWFDaE5BdXdEamJnZ3RGaVJ4N0dIdG5kdTNsQTdCbHhlSnkzU1ZKbHRWNGhuamhyQnFHaUxCMU5lM1dJMlRXc1g4aUpjZmc?oc=5",
-     "r": "BAZNAS Kab. Bandung"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     25,
+     14,
+     27,
      1
     ]
    },
@@ -138,7 +138,7 @@
      1,
      0,
      4,
-     11
+     10
     ],
     "g": [
      0,
@@ -243,10 +243,10 @@
      "r": "Radar Bandung"
     },
     {
-     "t": "Polresta Bandung bina petani pembakar jerami yang ganggu warga - ANTARA News Jawa Barat",
+     "t": "Dedi Mulyadi Dorong Investasi di Jabar untuk Buka Lapangan Kerja - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlE1d3ZETkh0MU1rRVhjbzF2d1RCa2pmMXcyZ1ZWcUU5Z3RFNmc0Ukg4dERsRGlCRERCR1N2Y0FYVHcwWEJfMHEzb1czbXpsTTN3LXVZQ2FRN0JpeXZpeWhscUVyZmg0a0ktMkpTaDhmYW1yTkpyX3VHVnA5eFR3ZjFoM2hNelpHcUFmX0d0OFlhbldaSV9XQUMtMk5ZcnBIYzFGalZSMF_SAa4BQVVfeXFMUGNCNGNHSEpUWmxBLXhYS2ZNR09mSnMybHJmRkZWTGdLaWkyVVNqOTEtd1NvRE5nVTBwVVBWX1hHOENiakhSaVhINm54TW05ajduS2MtTTBMTGk1cUhYeWhQeTdrcnFPUFBXUE1MbnpSaS03MXIwQTRueTN2UnBwZW1YTG5SOUUxbHZ5T2F1OVRhVWdEU3BQNkNVUFYxRzhLaFluUVNpV0lFU2hFcWF3?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTg3Q1psWFVDNWRNNm9EWUNfQm5zZThNbHdGR2tEYkdxZlB4VWVWZWotOWFJbkNIMTY5ZmJON29tcS1ZNkx3TEl1OU5UVXVSUVlhZTZESUtuMTl1UWt3Vi1KbTg5QTJBeHI0VTZ6UE5oMDdnbEFTR0tVX2lKaWJoOHEtTEt1dF9zdFI2Yk9qSlFELVc4N09ZU3BwVE1DWGNLNmVYS0pwX01jWFpEcUhNOUQ4bHdpUmdYZmlxMGVRQWtlSEMt?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Jalan Mulus, Ekonomi Lancar: Senyum Warga Ciwidey Sambut Wajah Baru | IJD Cibeber - Sukahaji",
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     21,
-     19
+     19,
+     20
     ]
    },
    "trend": {
@@ -370,11 +370,11 @@
     ],
     "g": [
      0,
+     0,
+     0,
      1,
-     1,
-     1,
-     9,
-     7,
+     11,
+     8,
      1
     ]
    }
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Jadwal Pawai Budaya HJKB ke-216 Akhir Pekan Ini, Mulai di Jalan Diponegoro - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1FLWnNwRC16cVNrMzhlSEtuMWJ4THZLUFhNZnlxSDFySWxJWjEtVkhiRE1LYTc2cUdPN1FkcG9ieW5rUW9kTHpNYlFrdUc4NlJCRFFubi1kejBzWXdGXzl3NV9KSklIamdZQzBPVjk2NVVISExBcENzbjJuZDdUNC1FNGtHTVJfTzFJbmE4cEIwajFiSmlOTGVGX0M3SkJMVFFtRkpZV0xfbWszQzBVLVhXQ00xbHVSQjByOXQxUk9VZw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Jalan Cibeber-Sukahaji Rampung Diperbaiki, Bupati Bandung Bidik Perbaikan 400 Km Jalan - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHpfdFY1d0RoUnJ5WDBJZnliMURnS1BwUTE2NkY3eEdTREw2bWxka09uSWQ0cWMwWEI3U0JnVzBsUVhGWlVNUVA4aDFjQm9mWnpjd3pGNFRMaTU2ZXAwUkhKMlRadmREM2dqTmdIa1dXbVZ2cU1fQWY4YnkxRzRUNDZ0OXN0czVoVHV2d29mOGp2STU4OUlPMnJvZkJkZkhpVVdkaHZWM0QwUDhudENWWkF6M1UwN0psZ0xmV3ptYw?oc=5",
@@ -399,12 +405,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RkT2NlR1NJdExTaWtfaEZndVJOQ3l2SjN6WjRNdWZHTUpqaGFJWFZ1d0dOeDMzRFZLUHhoc1Vyd0I1UjZKS3pPYnF6RmFJU2FCN01zY3VUQmF4anhCRG9zTTNhUlRoSDNOb3lobkpNcHVLWmIxQUQwRlNnN1B0a1N3bUdJb0JyaGMybmZDR3ExVWx4cTk3d2RrczhXYk9VbWxJemlyWXBabVJTaTV1dQ?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Massa yang Demo di Jalan Braga Bandung Membubarkan Diri - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmswb1dRSDl6VFdqRk5zUGVLeXBsQnlwT09jNUNjTWUzR2dvNnlJeVQ0SHVIcUdURjZvcnVnWUhwRlRDUzVCQkdoY2hyaWxqVUR5Z0dlZmlvN0hURS1sUUJOWkU1bXNoVXlVdVp1QVp4dEJkYnYtbmc2QjAxS2s2UTd4cnVvZjZkSWZHVmY0ZWtKZ09yMEhtV1JKN09Ic1pEVHhUMFczS1F4UdIBrwFBVV95cUxQaTlsT3FYc2xscEpwQ3RPRnprb2xQR0dZVG9TTkhwZThGNkN1T1BBSmthQ1JqdnVLWUtuMTd3VnY1b2JCX0JwSjBDMDB4Q2JlVGgwT0I3TkdqekVBa2hYaGtBV01xcHJtTUdBSk9JYU1rNkw0cTNXdUNPcU44cVJFc3ZUS2NNbldMSkN4cFQtb0NjVHd4Qlh5X0tMVEtlenduNURmR3dEUTFlWnFkTjlF?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -427,8 +427,8 @@
     ],
     "w": [
      2,
-     8,
-     6
+     9,
+     8
     ]
    },
    "trend": {
@@ -454,7 +454,7 @@
      1,
      2,
      1,
-     1,
+     3,
      2,
      0,
      0
@@ -477,15 +477,15 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker untuk Perluas Akses Pendidikan - Zona Priangan",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzNRV1g2R2V5WkJBa0VjWW5UX1U4ZktJLUd3SjJjcUhQeUsxNm1lQk5MV2pYV1I2OGVoWWh5a3d4MW9UdkNIMFFzallBNUZpVGh1azJNc3RzMEd6VlNOeXRwVzFBMjFoOEdySHlteXJSQ21TOUV5YlpPQnlRMWdublJwNHpLQUNKUU5nMm02MTl5UGpnZnBYc3A1TGVfeE1LUm5WelpCM1lXWmM0OHRPYURPTGRDWkVCV2paZkFoVldUQWRvck01WjJlTTBZazNmLTQyaHR6OFJObnhUbFQtc1FSVHZ2RGd6ZVHSAe8BQVVfeXFMTUFTcFE5b0xuN1VkejU1eHFpZmhKOFdWaWEwZUx6Z1ZUOGJNSzFRaUQtU1BoeUNDUXNsTjFyb2sxSTJwR1p3Y3dzUVhqeDc2NWNSQ2ItNl9udGtGVW92NnQtSHNWZWNUUFRPY3NXQWg4bkNSYnR1ZERxNWQwZUJQelRZT3pINlYtWUd5R0d2S3dlUDNERVZsN2pNdDJCSmVRYW5RTFplR2Fua0o5SGhEdXRTS191TmpiLTNHX2JlMHZBUHpfb0gwaUI3a0s4U2FlMlloVlRLYUhFR1RBUkVnNTRWN1FJT2xILWhRazJEX3c?oc=5",
+     "r": "Zona Priangan"
+    },
+    {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker, Bangun Sekolah Inklusif di Kabupaten Bandung - jabarekspres.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVo4WHpNY2NQSXpod1N6Smx6Q2pTLUtvOTdFMnA0ZW9wWk9CZmw1TFFzSzdoYmdMY1RZZ3ZUUTdkMWFnN2Z1Y1JiUlY2Y1ZhRlZZeVZIaU9tbVE4akF3OVZBLVNHZl8xRGZTMnNEVzdUWkRKM2hyemtZY3RRamlPbGtPaU1QS0V4Vjh4ZmdhOTRSMEpfVEMxeFQ3Z3hNRDkyTEo1UmlRU2pGa1NmR1p6RXNxWmwzVnphNzVPUjVhckV2QmlUUTNzVFBPS1VMSHpaMUVjZlJ6MXN1ZW5lQlE1Zw?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "DPRD Kabupaten Bandung Dorong Orang Tua Siswa Sekolah Rakyat Diberdayakan, Target Keluar dari Kemiskinan dalam - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHFFaS1VbG9ONVpGdDJ3NlhIQ2wySGFoa2RYbDU1cC1VakM4SnhCaUpDdUx4VldqX3RXZ1g1QzdDNzdqUU40TlNUdmpkcXBYS3lZN1VqXzJuQ2pDT3N4Rjc5dGtFU2g3R01GRGFtV3ZVVGRHbHNkVnJWTFIwRnBnc3hoN1ZPNEw1ZWhoU3ppSFRVV1FwQm5QZzY3Tno1bzdkT1BPMGk5bnpseGZDY1huQ3Jzb001MUFpRllObGhmVmQwUXYyY0RZZC1FU1FkUS10SldYOWp5LS1aNTVNS2RoWXpGeHk1RTdp?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      24,
      6
     ]
@@ -525,7 +525,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      1,

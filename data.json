@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:21:45.115126+07:00",
+ "updated": "2026-10-22T19:24:11.681785+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   25
   ],
   [
    "RRI.co.id",
-   21
+   20
   ],
   [
    "Ayo Bandung",
-   17
+   20
   ],
   [
    "Kompas.com",
    14
   ],
   [
-   "PPID Kab. Bandung",
-   8
+   "detikcom",
+   7
   ],
   [
    "Satumedia.id",
@@ -39,8 +39,12 @@
    6
   ],
   [
-   "detikcom",
-   6
+   "Radar Bandung",
+   5
+  ],
+  [
+   "Ketik",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -51,19 +55,15 @@
    5
   ],
   [
-   "Inilahkoran.id",
-   4
-  ],
-  [
    "Jurnal Soreang",
    4
   ],
   [
-   "Ketik",
+   "PPID Kab. Bandung",
    4
   ],
   [
-   "Radar Bandung",
+   "Inilahkoran.id",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Bupati KDS: Santri Punya Potensi Besar Jadi Pemimpin - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNLZ2lpczZsSzJGYXhfcTZZVjl5TDZMZGJTS1R1bnBtM0JmM3FnNUxHV0Z2MlVwampyX1lRbWU4V3FxUU01cHJqUVVnV0dQQTIwY3Zsb3pRLWVzRjRrdVB5NEdYcnNDWktoMzlINUZESGpoemZlZFJNekhuOUxObnQtczAteUNqcDVnaVNIQUZnYTNwU0VUcG5R?oc=5",
-     "r": "RRI.co.id"
+     "t": "Bersama Dengan Inspektorat dan Diskominfo, BKPSDM Kabupaten Bandung Lakukan Verifikasi Data ASN Yang Terindikasi Bermain Judol - Bandung Berita",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2hnOFdFN2NYRTdleEVIZWtqUzViQ1lVZllDU1BaRkZMeThwWExNRWx6cHk5SmhfdlU5c2FrOXAzMHphMTd6OE5VMHIweEZEcnZMQXN2cnhUdW04ckdaX1VyMlNmdnc1Qkw1bnd2UzZLdGRJTFRtOHNfdlR5c1BnR3BlSkN5S0Faa3hpRVpMLU9wakQyLXRvbnR3MVNyTmRiODBnY3ozWVZXRmxKZkJPTFBRRTgzc3MyZmtyV01nd2RQY1RCTFlpX18yQWlmTlY3NGl4V2RtUVFrUENwY0diaWRiVUdYT0k?oc=5",
+     "r": "Bandung Berita"
     },
     {
-     "t": "Peringati HSN, Gelar MTQ Ke-48 Tingkat Kabupaten Bandung - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnBsWjB5R2d6czBRZ18yZk53ZTRVZ3duWDZpbndFZ2Nqdlh2VUJVaEpMX09pcDE0aEhWQ2xRX0pqU1A2M0oyMkpOZFh4MEpWVXFab3E5TU9DeW56NHBmOVROeTI4RTNWN1hLY2d4SnMwd1dZRi14RDZ6aUVyNm01UXRZTmVhQnI3ZEVSWllqTnVlbmpXeEYza0dhNWp5cUU?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Hari Santri Nasional 2026: KDS Dorong Santri Kabupaten Bandung Berperan Aktif dalam Pembangunan Bangsa - Galamedia News",
+     "t": "160 Ribu Santri Kab Bandung, Potensi Besar Calon Pemimpin Masa Depan - Radar Bandung",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTljWXBBYUlMM0lSYmtTX25fcHJpQXpONGZubmUtbjRGbHZkekx6blpBLTFlcmktYjdmQXdKRnl1VEtYQjExaFgyck9LalNNcjRMQVl4eXo5dGdCWHllcXFldnhnWjhjQ1FMekhGdmZ1amRBTjBBeVN1Y0RlcDAtVml3X3ItYnl4UjExMzhKR293LTFXMThyYXZDM3RHQ3pNUVQ3YklUS09mV2tQUk52dTB2ZHBpMEZIWS1oWUE4d2pVX3l5OXg4YWtCcFB2NW0zSlJ5QVdPWnF2YVRhX09fcDZoX2dXY2lnNm5VMzJn?oc=5",
-     "r": "Galamedia News"
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkpGUnVCMC1SMWg0azJvbzlHdE9PcmNVR2lsRE1kOXlfVnJjRzhyUUJoRVVOemNuUHM3VDNaVGhVcGplMGhTTi1hcUFVQWVjWFZTVE40eUQzUnBYdFFQRHZUNUdJa2VaZHJGa1huNWVvbHVIMGtNS0x6RThmNEluZHZ5aU5wM0l6cWI3OGcxNTJOTC15UzQzU3I3WFVHc3dhSmo0ZHpIU3hTaVU?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
+     "t": "Telan Rp15,2 Miliar, Jalan Cibeber-Sukahaji Sepanjang 2,4 Km Akhirnya Tuntas - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
+     "r": "Radar Bandung"
     },
     {
      "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     15,
-     24,
-     2
+     18,
+     22,
+     3
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     5,
-     10
+     4,
+     14
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      2,
-     0
+     1
     ]
    }
   },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Bersama Dengan Inspektorat dan Diskominfo, BKPSDM Kabupaten Bandung Lakukan Verifikasi Data ASN Yang Terindikasi Bermain Judol - Bandung Berita",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2hnOFdFN2NYRTdleEVIZWtqUzViQ1lVZllDU1BaRkZMeThwWExNRWx6cHk5SmhfdlU5c2FrOXAzMHphMTd6OE5VMHIweEZEcnZMQXN2cnhUdW04ckdaX1VyMlNmdnc1Qkw1bnd2UzZLdGRJTFRtOHNfdlR5c1BnR3BlSkN5S0Faa3hpRVpMLU9wakQyLXRvbnR3MVNyTmRiODBnY3ozWVZXRmxKZkJPTFBRRTgzc3MyZmtyV01nd2RQY1RCTFlpX18yQWlmTlY3NGl4V2RtUVFrUENwY0diaWRiVUdYT0k?oc=5",
+     "r": "Bandung Berita"
+    },
+    {
      "t": "BAZNAS Kabupaten Bandung Siapkan Santri Jadi Pemimpin Berintegritas - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGUwMWdkcDNUb1VlVXRzRy1meDBVRXlNUXJFenk4VzBSMWZ5QXVZRE5lT3FBemxHZWw3VVdpeEZaWGJzMmt5Y2FBaHVBTzBUNi1CbGhkbmczTXRVTndXMWxTSFo5QnViODhZUU5IUnNjejFpa1RVaWFyTFJSd2tFR2xKMVRhTTNJcVVheVU3VG9hN0JNTGczTkZfZzkzdVVqYVHSAZMBQVVfeXFMUEUyNTJwUkhsV1pJX29kS29CWF9ieFJZX2ZzdEtCUnB2U242UlhDMXNUSHRleUJ5SW5XZjB2LWtUNTg3WjZvaEhuMlE1NEtOZS0wcUFLbE9UYURNelA1UTRUVWo1VmM4VGFmMlNuRm92VS1oYXR2RVlnR2NWQzdQSER6SnBMLUN1MGRxUGVLalByNi1R?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWm5Eb0F5SDhLOFRRTHRLak5JTF9DTXJvXzFUU2VvUVBweTJ0THVUN3c3Y0dhNnkzQ3F1cFNnLW9lS3hMX3Ewa1VOby0zdm1MeVJobUpYWGhXSnlNc29jTGZWZ3ZQZDJ6dkk3ZmZQdkZhblIteDRTdlJtQmp1YWg4dzh1SnhGZnFsUF85d3pUWVhqWGN5UGNGMXBlTEZuNnM?oc=5",
      "r": "Bedanews"
-    },
-    {
-     "t": "DPRD Kabupaten Bandung Dorong Orang Tua Siswa Sekolah Rakyat Diberdayakan, Target Keluar dari Kemiskinan dalam - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHFFaS1VbG9ONVpGdDJ3NlhIQ2wySGFoa2RYbDU1cC1VakM4SnhCaUpDdUx4VldqX3RXZ1g1QzdDNzdqUU40TlNUdmpkcXBYS3lZN1VqXzJuQ2pDT3N4Rjc5dGtFU2g3R01GRGFtV3ZVVGRHbHNkVnJWTFIwRnBnc3hoN1ZPNEw1ZWhoU3ppSFRVV1FwQm5QZzY3Tno1bzdkT1BPMGk5bnpseGZDY1huQ3Jzb001MUFpRllObGhmVmQwUXYyY0RZZC1FU1FkUS10SldYOWp5LS1aNTVNS2RoWXpGeHk1RTdp?oc=5",
-     "r": "jabarekspres.com"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     9,
-     6
+     8,
+     5
     ]
    },
    "trend": {
@@ -215,7 +215,7 @@
      0,
      0,
      0,
-     1,
+     0,
      4,
      1
     ]
@@ -270,7 +270,7 @@
     "w": [
      4,
      17,
-     3
+     4
     ]
    },
    "trend": {
@@ -295,7 +295,7 @@
     "g": [
      0,
      0,
-     1,
+     2,
      0,
      1,
      1,
@@ -371,10 +371,10 @@
     "g": [
      0,
      0,
-     0,
+     1,
      1,
      9,
-     8,
+     7,
      1
     ]
    }
@@ -389,22 +389,22 @@
    ],
    "h": [
     {
+     "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVo3eWwzSDJBTEJ2ZlFVRHJMYXF6Z3dCdmRGS0VrTHUtaTdVeDZodU9lSUxrR05Za1pHMVpFOFR4MEt0ZXJXZzgxU3FpOVBFdU5UNWNhUnJqd2JFTkk5NTNrLTNlcHNfZElxRTg5ZzZ6Z0U5bUFKMVRpdFoxak1MTS1ZNG9DdFgtXzRNalFJUU1tZ3lCdGN1eWpKSm11RFRPcnRDVkE3X3EtY0VXNFJ5eUxhdjBpaVhqaVhsN21fZVRhNW1HMEE?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Telan Rp15,2 Miliar, Jalan Cibeber-Sukahaji Sepanjang 2,4 Km Akhirnya Tuntas - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Itenas Bandung Jadi Tuan Rumah KoNTekS 20, 177 Paper Bahas Inovasi Infrastruktur & Mitigasi Bencana - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVVNnVSa3YwcGZLc1dWSUZsTGpvZTBNREpvTzFNblhHOVU1eFMxNnNKYjlNaFlBaDhzRGZtUzJCcEVrdmRJajN3eUxwdDBYWEFXdHpmX2NVdk9DMjh6YVJ1bDd3cm9Oc1lrR3FyRTFiMHVOM09lVTZVa3NWMXdLdVR3ZkZyQjBEaHNVeWU4NkkxRHF4SDBUV0F2V0phZDN0Q1l6aWl1dGFEQ0F6YWUxQ0RQeWUtVGJ3b1Z5czBuazJjNjc1YXZmdzF6a1BKdHhMQnR3bU1JdXB1aG84Q1gzWg?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Jadwal Pawai Budaya HJKB ke-216 Akhir Pekan Ini, Mulai di Jalan Diponegoro - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1FLWnNwRC16cVNrMzhlSEtuMWJ4THZLUFhNZnlxSDFySWxJWjEtVkhiRE1LYTc2cUdPN1FkcG9ieW5rUW9kTHpNYlFrdUc4NlJCRFFubi1kejBzWXdGXzl3NV9KSklIamdZQzBPVjk2NVVISExBcENzbjJuZDdUNC1FNGtHTVJfTzFJbmE4cEIwajFiSmlOTGVGX0M3SkJMVFFtRkpZV0xfbWszQzBVLVhXQ00xbHVSQjByOXQxUk9VZw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Jalan Cibeber-Sukahaji Rampung Diperbaiki, Bupati Bandung Bidik Perbaikan 400 Km Jalan - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHpfdFY1d0RoUnJ5WDBJZnliMURnS1BwUTE2NkY3eEdTREw2bWxka09uSWQ0cWMwWEI3U0JnVzBsUVhGWlVNUVA4aDFjQm9mWnpjd3pGNFRMaTU2ZXAwUkhKMlRadmREM2dqTmdIa1dXbVZ2cU1fQWY4YnkxRzRUNDZ0OXN0czVoVHV2d29mOGp2STU4OUlPMnJvZkJkZkhpVVdkaHZWM0QwUDhudENWWkF6M1UwN0psZ0xmV3ptYw?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -426,9 +426,9 @@
      1
     ],
     "w": [
-     3,
-     8,
-     8
+     5,
+     7,
+     7
     ]
    },
    "trend": {
@@ -448,13 +448,13 @@
      0,
      2,
      0,
-     1
+     3
     ],
     "g": [
      1,
      2,
      1,
-     3,
+     2,
      2,
      0,
      0
@@ -503,8 +503,8 @@
     ],
     "w": [
      7,
-     20,
-     5
+     18,
+     6
     ]
    },
    "trend": {
@@ -530,7 +530,7 @@
      0,
      0,
      1,
-     0,
+     1,
      2,
      1,
      1

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:27:12.000925+07:00",
+ "updated": "2026-10-23T22:24:34.716950+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
+   32
   ],
   [
    "Ayo Bandung",
@@ -20,26 +20,22 @@
   ],
   [
    "RRI.co.id",
-   14
+   13
   ],
   [
    "detikcom",
    8
   ],
   [
+   "PPID Kab. Bandung",
+   7
+  ],
+  [
    "ANTARA News Jawa Barat",
    7
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
    "Satumedia.id",
-   5
-  ],
-  [
-   "PPID Kab. Bandung",
    5
   ],
   [
@@ -47,7 +43,7 @@
    5
   ],
   [
-   "Jurnal Soreang",
+   "jabarekspres.com",
    5
   ],
   [
@@ -65,6 +61,10 @@
   [
    "Disway",
    4
+  ],
+  [
+   "Jurnal Soreang",
+   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Persib Bidik Si Jalak Harupat untuk Lawan Melbourne Victory dan Adhyaksa FC - Fokus Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdkMktraElfVDQ4bGtoWVI0Ym9ndXlhNWJaTXZQSUkzZFJiWU45OGVvYTRMVU1xU2M4bHRYYkRWV0E2YWd6S1NheFVXUFBlaVp3SzhLOEd3MHZSX1JxQ1RkS2VScVZrNkdIa3d1R0tSc1ZJamlaS1F0bE9YMzA4RGNLaGF2bFRJZV8tMHN3QWYzZ3lZY3VXYlVCZGpKaHNsNTN4ZjBobHg4eFBLa0E?oc=5",
+     "r": "Fokus Jabar"
+    },
+    {
      "t": "Pemkab Bone Jajaki BIB Lembang Tingkatkan Mutu Sapi Unggul - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXJ0TkpBYW9QZlgzWnhUY2hIMlR4S1NIdkI3TGdCVkhkVTBqT1ptdFBmRUp3LVlQOHM3RjNkY3lSdVQ0WHVkT2k0ZHpGS0FGVGhPSXFjSTN4UWw2Tmp4SllTVmtuOWNLR3EyN2hfYW53YWloLXhlWnNxZmMxLVBMZ0tjZm5pT210bU02MDJXaXRIbnMwQ0pUZWY3VUJ6WVk?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTVnN0JVN2MtNnRmOUpHRkVhd0tEaTZ2aHdMRF8tNDlZbUFDZGtRaHNnQ2kyMGZLR1ZvODZPTzRJaG15X1haRG1wcVdONWw5MDE3a19wY1ZYUk1vZmZWMUwwYlVQOTVHN3dVWjIxVFo4XzVYenlPd2kzWkZxMUI4bkxpbTVvbThOemhkellwNDJXNDBUSGtoNHBVTXRWSENJbFpyOTBB?oc=5",
      "r": "BeritaSatu.com"
-    },
-    {
-     "t": "Bupati Bandung Doakan Almarhum Kades Dayeuhkolot, Minta Pjs Lanjutkan Program Desa - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTd0U2ZuVkg4V2hoNzJDT0pTNjcwdFFNdHMyWm1yNFFqVlg5UTZPN0pTOW9Nc3BSTlJUMUhaM3NYUXM4dWo4T2laMXV6blN0ZGJ6Q3VPZmV0bmhJSUxnb01ybVBGejZLYjJhV0E5SU1Kdkt4VFY4cWJsc1k2LW9tcEFZVXFkSXRLQ0N4YW5WRmVoQndlS0haTXJWcEpfVXFFSHA4bHB6MkxWVHBGa1VzZA?oc=5",
-     "r": "deJurnal.com"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     21,
+     15,
+     24,
      3
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     13,
+     11,
      4
     ],
     "g": [
@@ -167,16 +167,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
      "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      12,
-     11,
-     5
+     10,
+     4
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      0,
      3,
-     2,
+     1,
      0
     ]
    }
@@ -237,9 +237,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Berita dan Informasi kamar dagang dan industri Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "t": "Duta Batik Jabar 2026, Momentum Lestarikan Budaya dan Perkuat Ekonomi Kreatif - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bEVVWS0wRTNxRUhhdUc1LVRWQzdIcHE1UVJIX0ZZUkFDeS1GYUJPbFppVm5BVHZxcmZGX1JnYTVJNEE5TDI4YmJLY1pqOEZJelB4RkM3dVN4YTNQNWpxVlVpSGlOMUlYOXc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0huLU8xeDA0d2thYk9KdHRScG1HT2FJZ084SlltQ00xOWNLZHlyY2ZFMFhlSHJYNVJfZDMxYmx5VDlkVzB2Nm12bFBHNDBGTGlUb1ZlRFJNX1JKZzRzdXNFWktWRWJoVlNsUzlXdkVtNVhGdWJsMC1JbUg4UTllaThKNU9aWm1GVDB4bGRPRmh1WVJacW9UZTRZMzZQbnZ0WmtTYUtTWDZCRFhPQWRvb1RNYXRQVHp0?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -257,7 +257,7 @@
     ],
     "w": [
      2,
-     21,
+     20,
      3
     ]
    },
@@ -303,7 +303,7 @@
     {
      "t": "Jejak Begal Viral: dari BNN Gadungan hingga Polisi Palsu di Bandung - detikcom",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2ZzTUtER0FRVVMzOXNjS21FTDYxT2tXMEotRlFlVDFwUTNPOHRvUHNoLUZ3VThGdVI0VUxteWJkR29aS2RiWWRKUVJFN1dVVUxDNDJ0VHVBXy1OdkQ1ZFR5Yld2aG9NZUJzX0pyeUpJZDBaSXRpQUQwZlJOU2xmWERBN1R4TDNqOGotM2JxVk9GblFJeDd2QkU3azVWYUc5OGQ1UmhJZVZIb05Yek5senMyZkxrTnJqVi1rbWVjblHSAcYBQVVfeXFMUGVkbU52WUwwWXYxZUxRanVoR0Y0YmNYR1ZMVkNzX3pqZXRmSXlWc1NLVUxqUkdBLW5VOEtQNE5vekVZZ09NUXVOaVN5Z3oxQVY3N2dUcm4xM2VaeDZXQXYtbU52NHlGWkU4ZDJSd0hmZklsVXFlVVRnYmJZSEpnN3NZbUNqbkZuNkJYbExhazhrYzFCbEZ0R1lmRWJRRjZjaU5ubmhIN0cxUjFETEdQc2xtWXhJT2pxTmRJbUpCSDRQT3BJLWxR?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWRtTnZZTDBZdjFlTFFqdWhHRjRiY1hHVkxWQ3NfempldGZJeVZzU0tVTGpSR0EtblU4S1A0Tm96RVlnT01RdU5pU3lnejFBVjc3Z1RybjEzZVp4NldBdi1tTnY0eUZaRThkMlJ3SGZmSWxVcWVVVGdiYllISmc3c1ltQ2puRm42QlhsTGFrOGtjMUJsRnRHWWZFYlFGNmNpTm5uaEg3RzFSMURMR1BzbG1ZeElPanFOZEltSkJINFBPcEktbFHSAcYBQVVfeXFMUGVkbU52WUwwWXYxZUxRanVoR0Y0YmNYR1ZMVkNzX3pqZXRmSXlWc1NLVUxqUkdBLW5VOEtQNE5vekVZZ09NUXVOaVN5Z3oxQVY3N2dUcm4xM2VaeDZXQXYtbU52NHlGWkU4ZDJSd0hmZklsVXFlVVRnYmJZSEpnN3NZbUNqbkZuNkJYbExhazhrYzFCbEZ0R1lmRWJRRjZjaU5ubmhIN0cxUjFETEdQc2xtWXhJT2pxTmRJbUpCSDRQT3BJLWxR?oc=5",
      "r": "detikcom"
     },
     {
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     20,
+     19,
      19
     ]
    },
@@ -395,9 +395,9 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
+     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     8,
-     7
+     9,
+     6
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      1,
      0,
      0,
-     5
+     4
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     16,
+     17,
      6
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:31:10.266548+07:00",
+ "updated": "2026-10-23T09:19:29.359500+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   27
   ],
   [
    "RRI.co.id",
-   21
+   20
   ],
   [
    "Ayo Bandung",
@@ -79,9 +79,15 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung siapkan stadion Si Jalak Harupat untuk dua laga kandang Persib - ANTARA News Megapolitan",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDczd0Y2V1V1R001cTExeHB4ai1pV25Uc3JqUmhpSTVjWnowTXdkVnljRTZBRlRLRGV3a0J2bGFfR3NNZ2FrY3ZLbG0xVU94dWk5aUoyNWtKSDBOUHdIcFlOenJaRjJNdEhla25UVDJqNm5xeHBQUGtQY3lULW8wWkwxVTZCRUtuS3hSMEN1LUg5ZmxSRmFqcXpVMTVPM0VkX0dSZXhJQ2lWbm00TkRzdXBRSmlIS0ZEUzgzdS1GYl9tQjhi0gHKAUFVX3lxTE1HelVkTHB5dV91djhoVjVkVXRtSDZtTTFVOFg2cVhoX3dzVU9TYUVULUFqLWtHN19kS0JPVE1VT3ZHNnhnX0VZNjQtcXlLUElwYkZRN3k0cDdFc1B5ZVA4cXlaOHg4TkM1V0F1TThrUHo5RkVtdEw4VmpZaUhaMVNVUmY5V0FnWE9IM1lKbmhoM3B4LVlBY3F2ZXc4b1JyWHNFY1hteXdlaHhsbzBrNWs5WUlWVWV1THlfN0dacElueUNVWC1BRUVYT0E?oc=5",
+     "r": "ANTARA News Megapolitan"
+    },
+    {
      "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFl2T0R1ZDhKREVwYk1nWXBZaVZOVmRQRGpRaHkyb3VtTWYyRkZQalhOZG9raTExQjcyZ1RncW00a0FUS0Rrd2dQUV81dlhrLVk0ZkFFcURIdUVYR2JxV0ZacHBCdl9mQXJ4VG9lOUpKZENuN0pxMm92WGhfNk9yc1UtVU9BeTVJRU1OdFlxbUJWaGZuMEQ2S0ZyUEpya1B5Z0tKTDJBRjhTMll0SFFkX9IBsAFBVV95cUxORFl2T0R1ZDhKREVwYk1nWXBZaVZOVmRQRGpRaHkyb3VtTWYyRkZQalhOZG9raTExQjcyZ1RncW00a0FUS0Rrd2dQUV81dlhrLVk0ZkFFcURIdUVYR2JxV0ZacHBCdl9mQXJ4VG9lOUpKZENuN0pxMm92WGhfNk9yc1UtVU9BeTVJRU1OdFlxbUJWaGZuMEQ2S0ZyUEpya1B5Z0tKTDJBRjhTMll0SFFkXw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlVsbTYwb0pyZHJnR1ZvSUhXZGxJY1A4Rlo4X1lhV1dkaTZsY0dEVkF1V3ZkTlRUakxaUy0ybVZpVjFQdVNUbEtSRG1WeHl0VTFZLUxkSHRBd01rcmdsVjBjR3Q1eGdIVDFMQVBMOXpBYVVWX0FQSjdkWTVtbmlSRzd1WEcyYUV0d1FrU0d1Sm9DSlBSdGtDMW9RR1hNWEJYeEhTTmtWdXM5Z2hITGYyZzFXNA?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
-     "r": "WestJavaToday.com"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      19,
-     22,
+     23,
      1
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Hari Santri Nasional, DPRD Kabupaten Bandung Dukung Pendidikan Agama Hingga Pengembangan Pesantren - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J0gHTAUFVX3lxTE5zQWFLb21QV195eWI5Ry1rOUI2VWNDdFczRGFRV2ZBcXlTY3hxa0VtY2o1WjI3LXdvNlpSbWFlUmlnNXlDSXVxdTVkLTNKa2sxZ3d0d2dRZ0UwMnVzczMzNDF1dlRSMlRNS0VIaFZ5Wi1ESHJ5ZnQ1dGloZVpKZkVPQWtOOWVDeFZuX3ltT1RobzVmekR2eERTTUdJa3lUMnVLTkxWS2lEcWw2Yy0wbWtFV01YYzZXelFpR3RQOFIxbTBtMWNLOG9FaGdGNDZoTnhObkk?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1FiMG5GYmMyTEVWY2drSWdpek1EanBSS0VBWkNQX0k5TThxanNpMFA0S0RFR203M3l0ZWJCS1FMYUk5dTlGWEJ5VDY5dU5xMjF2TmpESFJBVjhodElOQWsyZDNGODlVQm5yQWRUV1Bucl84YlplVC1xZXRuTllIM2xWODZuNUhTQU80dFJ4Z2lDWUhDa0wtUWxYZmNVOWp0QTFTbnQxUTJ1V3p5N041VnVHbXZzaVB0TUtjWE9RbHh2UVBVNnfSAcsBQVVfeXFMT1JtWWk3ZGl6aXV5NzRWU0tmeGVzdlRuSWFPSV9pT1NXT1RNUWh5UnJwSVI2SDV2MHM4TFRCY2lfTy1yTm9XV2pLcXQyZXdJajg4b240MVBFNWtadVlxSEg5SURvNUtwdkxyaHpiN1cyRDRjR2FfWDIwN2pqMjFOUXotVm5KWU9FMC1RU1VlZTZ2ZzBQNzF4Sjc0U1ZXR2dQZDVDcFNsdy0zdi1hcHZ3a1U0cnBKMGRPSmFFQmJfVlhXRm9LNUVaZTZrYms?oc=5",
      "r": "Fokus Satu"
-    },
-    {
-     "t": "Asep Syamsudin Sentil Pemerintah: 7 Tahun UU Pesantren, Pengakuan terhadap Santri Masih Setengah Hati - Jurnal Soreang",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVI1Z3hUOEQ2cWpHdEk0V2FvRGRWQUxIOVBQVW5KZWx6dllDbGZtQXdBQkEyenU3QUZwc3kzRGRTaF9CZUUzZFAwcTFwR19sQ0QwWjkzTzdnOG95bXdCTlAwaVczZWlpRko1WVdlRDhBcmR2V2N3bUw2eV9zSU9WTFhtNUhWenZkWUUybGVWNG9OTy1ia0NRT3VzRk9iX2lzYlVfU1dKWWxtWE4zdWEtblNfM0VXeWFlNEtUM0FQUWZsWTNEbF8xa3QwTFdfV09ZXzdBdU5TTlMwMVJEeU5EQWNVMXliNWpKTU8tYWlsWnZsZFHSAfgBQVVfeXFMTlc3b2ZheFdhSk55dlpaNHhwb1U2Q0t4a1JKLTdXblp0eUtuUm03RllRTkFzZVFBZERhMlZxQmxzRjE2dE8xTnB6WUFYd3hiQlRMTlNUT0JmRHh5X1FpYkotRnB2OTVOVUNKbkt2WXVnRzNlRzVxR2RkTmpvek1HTFJHRXU5alpTSTRveHAxNGMxeFJHZGlQc3MtNjdhbkEwZTNnWEpCNjhfNndnMGRsNFpVS3FIdUNiR2hzYmdCZjV3ZE93c0xhZkFZYm5lUTYwNUREY3ozYkNoX3pSakNjZ2I2dElpTU5mNXFvbnhRdktldTR2Z3Y5dTU?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Foto : Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnJxR0IxU0pwOWMtNy1RQkpkTWRIUTFtVGFTdUwweUREbG9rcjZrT2lvR3A1SHh6dzhHNnFGbzVNWXhZcmlTMS1ORFdQSV90VWZQQlJ0TnQ5eFgxZjhDVUhYeGNSWk04Si0xZndLR2lvX0lNR1U5QW8wWERvaEZnZy0zaS1OemJjUXZvUE84QjJuTEREV0w3bXAxWmRLNEcwc3pyVVNjT1V0RFd5ZFJYT0ZBbkJVbHdHVWs3ckdmWXpVaFo0VWZNX2lBUE53UUZwY2c?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBaMGZpbnRaZ21sTDVLa19WUTZDRkpQNTdKblZtUzROSjBQZVRZWEx4R0VXa2VlaldrX0s5Tm1XRGU2c194OU1Zd0lIU2FLOWpaSkF6eXN6U3RVYUgxZXlwMzhPUW5XUHYwYTIzWFFKbXNpeWhocmNJaFE4OE1uSm9zVERrNTZqX09SZ0NPeEVqWG1IYldjZzdVU0NreVRLaEpmYnpnb3NqVjZzZC0wb2lhY3VsTDlrX3RBUzhxc1dnNHRsV05V?oc=5",
@@ -247,6 +241,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Kopi Kab Bandung Tembus Pasar Ekspor, Pemkab Genjot Daya Saing Produk Lokal - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0k4UEZCM1ZUZ0RRWS0yRlQ2SnJ5Wjk0NGU4MHNNWEJ4X0w5bkgxVzVfZjVUZ09MZ0F1ZWFCQ0NZME8yVXRxUWRTODlSSHpCNDFTUlVhbTJwNHRiTUpQODJLYUYtR3hoRDlMVTJFdDVXMjN0bXlKNFF6LURDeG1va1NwTWttSnI3OFlrVXE2MnJPSnJSTmh5ZHY0bUduNkU5ckl1dkE1bjNhOEZyMDZuNm9kQm0?oc=5",
+     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     17,
+     18,
      3
     ]
    },
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     21,
+     19,
      6
     ]
    },

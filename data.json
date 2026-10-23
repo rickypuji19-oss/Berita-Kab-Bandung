@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:18:54.632236+07:00",
+ "updated": "2026-10-24T02:26:00.809581+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,19 @@
   ],
   [
    "Kompas.com",
-   19
-  ],
-  [
-   "RRI.co.id",
-   13
+   20
   ],
   [
    "Ayo Bandung",
-   12
+   16
+  ],
+  [
+   "RRI.co.id",
+   14
+  ],
+  [
+   "PPID Kab. Bandung",
+   10
   ],
   [
    "detikcom",
@@ -28,10 +32,18 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   6
+   7
   ],
   [
    "Ketik",
+   5
+  ],
+  [
+   "Radio PRFM",
+   5
+  ],
+  [
+   "Radar Bandung",
    5
   ],
   [
@@ -39,32 +51,20 @@
    5
   ],
   [
-   "Disway",
-   5
-  ],
-  [
    "Satumedia.id",
    4
   ],
   [
-   "PPID Kab. Bandung",
-   4
-  ],
-  [
-   "Koran Gala",
-   4
-  ],
-  [
-   "Inilahkoran.id",
+   "Jurnal Soreang",
    4
   ],
   [
    "Pikiran Rakyat Koran",
-   4
+   3
   ],
   [
-   "Radar Bandung",
-   4
+   "Inilahkoran.id",
+   3
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
-     23,
-     4
+     14,
+     24,
+     3
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      1,
      0,
      0,
-     11,
-     6,
+     9,
+     5,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     3,
+     2,
      0
     ]
    }
@@ -243,10 +243,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
+     "t": "Tokopedia dan TikTok Shop Fasilitasi Sertifikasi Halal 150 UMKM Jabar - Radar Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFjYk5aZjgwRVUtU2FjN1EwMFM2R3JxdnVkUERSUkpuRTE3ODNaNjFRaUFGYUp4SGZkdGFQMFlrRGZhMHRfSVAzVnFPaUd2MUR5b1RvY2g2S09SNEw2Sy10MjIyVmVlU3hKbHZhMG9CeWRDVXBvaHRPU3JMMGxraWcxV1VDLXA4eTFEMTdXLUVUMXVTU19ZY3BNNkZHbFdHdGtTOENIc2tjNzRLdGlxcWhNdFpwVE1vQTF4blVfalozYW9kNWFhbTk0MXU2a0ZFQVoxRXZnY3d2UDFm0gHiAUFVX3lxTE01WERHZjNWQ0YtZ0wyRDNJV3haZHFtQjVmRE5mRWVXcmtFdWp2TldVTlBsZmY5TU1vR3RtSl9RTmNuVTUzbi1aNjVZTFlSTllmbTg4TVJCRGFndDFYcXdRWlhRM3d1SF9nZnpIb1dIc185UHFGNFplTU9GRzVDa0dUZUJzZm1nOGRYZDNwZnhLakdfY003bVV5ZzlBTTlIX0NQOXI2aUxjX0NPQUtFMVZyTVFPXzRucFJjVzlEXzA3ZFE0bDZ3WEJyVERabjQyOGNzNkx4WU5vSDlabGYyeGpRV2c?oc=5",
-     "r": "Ayo Bandung"
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkVFMWZyRy1pbHJ5SWdUeGdUR2YwcmhrY2pLTUpXckdfZEZXblU1RHdabEZmcjZ3dXUxVDM1N0NabmJPQ3h1R203NXNPa2pYN05GdC1CR3R3c3loZzkxWkNLYnAzV05HNVVWX0k4TXUzN0U4ZC1lZjNDbS1PVU96TmZVRnZnNjJIY2JrWUpQRjIxTzA5UDVWZ09TaTE2YU5FR0ZWOFJaal9NNTJtTEE?oc=5",
+     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -257,8 +257,8 @@
     ],
     "w": [
      2,
-     18,
-     3
+     21,
+     2
     ]
    },
    "trend": {
@@ -281,7 +281,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      1,
      1,
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     16,
-     21
+     19,
+     22
     ]
    },
    "trend": {
@@ -367,7 +367,7 @@
      1,
      10,
      6,
-     2,
+     3,
      4,
      0
     ]
@@ -415,7 +415,7 @@
     ],
     "w": [
      5,
-     7,
+     8,
      8
     ]
    },
@@ -471,10 +471,10 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sumur Bor TMMD Kodim 0622 Permudah Akses Air Bersih bagi 60 KK dan Siswa SDN Cikole - RRI.co.id",
+     "t": "Anak di Cicalengka Dibunuh Ayah karena Seragam Sekolah, Psikolog Jelaskan Faktor Pemicu Kekerasan - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnFtbHhXUUpNcW1SRjFuaEhJNkdLcXhFMGVLV0RoWFlNcWU1Um5OSC05eWpfT1dCMkRFbzRva3B5Y2NzMlZHaDRHUkdNUjUwZXZkX0Y0dGEzS0F6UTU5NzhxSTRaaFpWeldLX0I2X1M0b3NNRF9mSm5HR09wRGowQmljMDhwTHdLZXZ1WG1NMVNaLUVyYmZCZ1JaaEV2Vm4tVTB5X3FsSXRlSktpSFJzWEk3emd1dVd2aGZGNzdZa2JzT0Zm?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN19zYnIyN3hIOUFsVjZoSnFjUXY0LTdTUldkcjZIYkU0a1FCM0YwdGRTODVyWkdNWjdTR21FaTB4VDR3eThmX2s5Ulo3Vk1HSnZyOVU3VDJJNkZ4ZHBtMzJCVFJHZnNYNXk4S2tFTXRoYlN2SkY2d0pwMnBJZTZzd3doeHJTTG9EZ2RNd0lEd2NLLW5udndiSFhUcEQtZjRXRmVSMW8yN3hWbFkzeHlHRVJyMDB6bXFJMGJwOGxEWW1BckVNSzdmZENqbVlZQnBsbTE4LXFDZ29aN1pjNUJJVg?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
@@ -497,8 +497,8 @@
     ],
     "w": [
      6,
-     15,
-     5
+     18,
+     6
     ]
    },
    "trend": {
@@ -516,14 +516,14 @@
      0,
      1,
      1,
-     4,
-     0,
+     3,
+     1,
      0
     ],
     "g": [
      0,
      0,
-     2,
+     3,
      1,
      1,
      1,

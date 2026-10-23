@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:19:50.438973+07:00",
+ "updated": "2026-10-24T05:19:40.166288+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,16 +11,16 @@
    32
   ],
   [
-   "RRI.co.id",
-   19
-  ],
-  [
    "Kompas.com",
    19
   ],
   [
+   "RRI.co.id",
+   18
+  ],
+  [
    "Ayo Bandung",
-   16
+   15
   ],
   [
    "PPID Kab. Bandung",
@@ -35,12 +35,20 @@
    7
   ],
   [
+   "Pikiran Rakyat Koran",
+   6
+  ],
+  [
    "Ketik",
    5
   ],
   [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Radio PRFM",
+   4
   ],
   [
    "Koran Gala",
@@ -51,20 +59,12 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
-   "Jurnal Soreang",
-   4
-  ],
-  [
-   "Radio PRFM",
-   4
+   "Satumedia.id",
+   3
   ]
  ],
  "topics": [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     23,
+     14,
+     24,
      4
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     9,
+     8,
      6,
      0
     ],
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     21,
+     20,
      2
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     19,
+     18,
      22
     ]
    },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Potensi Longsor Kabupaten Bandung, 25 Kecamatan Diwaspadai - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHh3U284VW5xR1RYRF9tNEVfNVhobXlpenFjTlFLYXhQTUdFMlItamViTDA1NHNlMGdwWTJlckdFSDFtZEFLOGNROFl2dFNyVHZwNEdKby02UEFtdmJBbjBsWnY3RDhicGRHYW1lb1B3Y1RHTXhnUURZN1hEbkhQbzB5a3dMYmx4dU9BcXpKQUc3YWNHejJkUUJsRzFpdzB3SnlMdm54Vk9HYXFZeWdz?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Potensi Longsor dan Banjir Bandang di Kabupaten Bandung, 25 Kecamatan Masuk Kategori Menengah-Tinggi - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVRfdlNCQjhXa21XalEzTzZOa1QwT3cyZFhRS3E4QS1ZbFEyYXVVLVl0WjRpLV80MGNkZzRKeDBHODhtc3p4d0xYUWNsOUtsNW1teXpPMXhzV1hGQ3VDcHlOaDNZand2X2JKSjBNZHlTZ0lRaGdCb0Q1UHpiUEc4emM0TEo2R3p1OFBybUV1MmRqeUdjc1BHODVMVmU5Qi1Ya0NtdFpSeFhNZXdobF9yWGxFc18tTmRYZTNpVXlWdzduS2ZkWmc?oc=5",
@@ -393,12 +399,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZEQ2NBVkVOamxVZWwydDNSTUZCRUxtSHgzendLSG1vcnNVY05rcVQ3dEFkaWs4MHFHaGJOcEFKbVVYOGdzaFlTUWhPWW1RNlc4aWF0dmZRb1ZLckl3RFRGb3RmNU1OQ3VrUTBuV2xlZjB6T2RQX2pqUFgtLTZlcFFycVg5SXlybmFNU3pQdG1lOUhTVHNiWGFhWUNGa3VTSWY2V0dGS0FVSlQ0TFNSamdvUkxfN0tLbHR6RWZjRDFPblJpUUHSAcsBQVVfeXFMTWE0SDlpRDdrOS02TWRZbnVrOW1MbHpkM3kteXB4bGZjLXh5YW4wb1hMeElnRjdyekpDN0IxOVFkSmdVZGM4VVJQUmVQQ2FzS1k2elJ5RzhoUEV3dnU0WUJfaUZDRnFja0ZzTTdYTjhoUU5XQ2w1R2ZsOVlNSlZ2MEZwU1JtckEtcjFRUE43VkRzRlllbjJBUmRncE15a0pFSm93dXRHNFJFQVU4eG5uZFNFSm1nWW9WN204NXVRWE5MVWJKU3ZlVjM2b1U?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Foto : Ini Daftar Wilayah di Jabar yang Berpotensi Dilanda Longsor dan Banjir Bandang pada November 2026 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaURRTkYxMzhpRVhrSmtjX3ZpdzZiV19BVFNSUE82RXFmSzZrVkZyYmpzbWdJaXk2OC1LV0g2WnNnSDFQTXpIa2dRMXZaX1k4T3pydDRFN0w2bm1NNWJydWpVZDd0SUxPTzlBUTNBbHlxYWluNmpWX1ZNbjh4a1ZrMmxURWZDc3lRcXpfUF9QeDVZOUJUV2U2eWYtWG14UEVramdUNGNhT1l0OC1jdTZFdjQyX3hyRDVXaWprMXFOZ2l5Zw?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -416,7 +416,7 @@
     "w": [
      4,
      8,
-     8
+     9
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0,
      0,
      6,
-     0
+     1
     ]
    }
   },
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Ayah Bunuh Anak di Cicalengka, Dipicu Uang Sekolah untuk Judol - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObklqRkRkRHZZMjN6NVc1VmVDQ1lHU2NaNExoY2xpMGp0YXIxNzJLNzY5dXh1SGQwZ3JCb0ZMZWthUFZSTW5EX3N6QWRpZ3g3eVRwVFl5SE1yNS1fSE9QQXMwczJNcGVMdkZ3WEpTX2NLS0x4dVlPYm93ZUNudnRtb0tGTmo4Sk9zajQ3Ulo1VE1WOXhySkNEczU3ZkFoS1RHeGdLZVpZVXdfaERyNjFYTUZtUU0?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Siti Muntamah Prihatin Nyawa Melayang Gegara Masalah Perlengkapan Sekolah - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU5tTEdQUnRYNXZoUnlGQmVCd2hqUTBmZmtiX2hKdWNtMDhkdVJvSExwaE85ZUZsak5nM3VSeVBxb0wtSktWblh2eExjM1VVcUU2SldsaFBTazBxaHZ5Q21CdEtBSllfUTZVQ3NsR1lIUThMam8xUUQ4LTRWSDVvbXg3dWQ1UkVZTFlPczYxcDNKcERKc09iTWk2eHQzQkJlSG4zN3hqNkY2VW1FTGR4d2tJUUpyQnRRQ194N3RB?oc=5",
@@ -469,12 +475,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3h1WEFNcC1DWUxmOEhjNmlXQUJxT2FhU3FWZDdYRldzME1rbWFRSnpCU1ZudnNLNmdETUNnMFFhY0FkU2h1eGozclVGXzZEQk1mTHV3ZlFaODVvbjFWWmc2blRGanN1UFctR0dsVFkzV2VwRXZUbnpRT3o0ZkpXRTdzcm1sUGhGMUdUMXowUnNmSzV5VV83dzA4ZmJEVjdRZjd0ajFnVW43aHpHbHNoQ1FNTWlZVkFQQVVQVXFtcFpvMGp0LXBVWkJaYTFHaWoxYmdOTGgxVHVWVkdlaXhWUmVn0gHnAUFVX3lxTFBRZHg4emJuUGtBYlg5bld0YVZ5TUh1QzBnaFdRNmxsUDJud0l4a3ZKU1lacDVvaTROQnMtT1poVHlkTS1uT3BJMFlRZnk3bTVzeEZ0T2kzc1VhVmR1cUtSZmNfVXlOVmYyUlJUOUZhOXp0MHFzbU9CQlE1S2todnJKX0c5VFoyc2dsVnM5ellVbnZTaHR4NTFTb0I4bDZHVE5Md2pEU09VRDZPMkFJSXVxRkZnUXQxRmQ0YzBDOERUWWp2WE8xQzlKQWJ5bzhPU3IwY3NDU2VSQ3RTSVh6QWp1dUJpMUdjUQ?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Sumur Bor TMMD Kodim 0622 Permudah Akses Air Bersih bagi 60 KK dan Siswa SDN Cikole - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnFtbHhXUUpNcW1SRjFuaEhJNkdLcXhFMGVLV0RoWFlNcWU1Um5OSC05eWpfT1dCMkRFbzRva3B5Y2NzMlZHaDRHUkdNUjUwZXZkX0Y0dGEzS0F6UTU5NzhxSTRaaFpWeldLX0I2X1M0b3NNRF9mSm5HR09wRGowQmljMDhwTHdLZXZ1WG1NMVNaLUVyYmZCZ1JaaEV2Vm4tVTB5X3FsSXRlSktpSFJzWEk3emd1dVd2aGZGNzdZa2JzT0Zm?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",

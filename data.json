@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T02:26:00.809581+07:00",
+ "updated": "2026-10-24T03:16:48.712893+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,16 +11,16 @@
    33
   ],
   [
-   "Kompas.com",
-   20
+   "Ayo Bandung",
+   17
   ],
   [
-   "Ayo Bandung",
-   16
+   "Kompas.com",
+   13
   ],
   [
    "RRI.co.id",
-   14
+   12
   ],
   [
    "PPID Kab. Bandung",
@@ -39,14 +39,6 @@
    5
   ],
   [
-   "Radio PRFM",
-   5
-  ],
-  [
-   "Radar Bandung",
-   5
-  ],
-  [
    "jabarekspres.com",
    5
   ],
@@ -55,16 +47,24 @@
    4
   ],
   [
-   "Jurnal Soreang",
+   "Koran Gala",
+   4
+  ],
+  [
+   "Inilahkoran.id",
    4
   ],
   [
    "Pikiran Rakyat Koran",
-   3
+   4
   ],
   [
-   "Inilahkoran.id",
-   3
+   "Radar Bandung",
+   4
+  ],
+  [
+   "Jurnal Soreang",
+   4
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     14,
+     15,
      24,
-     3
+     4
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      9,
-     5,
+     6,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     2,
+     3,
      0
     ]
    }
@@ -243,10 +243,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Tokopedia dan TikTok Shop Fasilitasi Sertifikasi Halal 150 UMKM Jabar - Radar Bandung",
+     "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkVFMWZyRy1pbHJ5SWdUeGdUR2YwcmhrY2pLTUpXckdfZEZXblU1RHdabEZmcjZ3dXUxVDM1N0NabmJPQ3h1R203NXNPa2pYN05GdC1CR3R3c3loZzkxWkNLYnAzV05HNVVWX0k4TXUzN0U4ZC1lZjNDbS1PVU96TmZVRnZnNjJIY2JrWUpQRjIxTzA5UDVWZ09TaTE2YU5FR0ZWOFJaal9NNTJtTEE?oc=5",
-     "r": "Radar Bandung"
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFjYk5aZjgwRVUtU2FjN1EwMFM2R3JxdnVkUERSUkpuRTE3ODNaNjFRaUFGYUp4SGZkdGFQMFlrRGZhMHRfSVAzVnFPaUd2MUR5b1RvY2g2S09SNEw2Sy10MjIyVmVlU3hKbHZhMG9CeWRDVXBvaHRPU3JMMGxraWcxV1VDLXA4eTFEMTdXLUVUMXVTU19ZY3BNNkZHbFdHdGtTOENIc2tjNzRLdGlxcWhNdFpwVE1vQTF4blVfalozYW9kNWFhbTk0MXU2a0ZFQVoxRXZnY3d2UDFm0gHiAUFVX3lxTE01WERHZjNWQ0YtZ0wyRDNJV3haZHFtQjVmRE5mRWVXcmtFdWp2TldVTlBsZmY5TU1vR3RtSl9RTmNuVTUzbi1aNjVZTFlSTllmbTg4TVJCRGFndDFYcXdRWlhRM3d1SF9nZnpIb1dIc185UHFGNFplTU9GRzVDa0dUZUJzZm1nOGRYZDNwZnhLakdfY003bVV5ZzlBTTlIX0NQOXI2aUxjX0NPQUtFMVZyTVFPXzRucFJjVzlEXzA3ZFE0bDZ3WEJyVERabjQyOGNzNkx4WU5vSDlabGYyeGpRV2c?oc=5",
+     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     2,
-     21,
-     2
+     1,
+     18,
+     3
     ]
    },
    "trend": {
@@ -276,12 +276,12 @@
      0,
      0,
      0,
-     2,
+     1,
      0,
      0
     ],
     "g": [
-     0,
+     1,
      0,
      1,
      1,
@@ -315,7 +315,7 @@
     {
      "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm44dE0zeUJDYXpESVdUekpWN2dRSmhwR3FHSWE5ZDZmSEtkaFRxVktsTWp3ZXd0bFRNbVJJQUdYNTRwaXQ4OXBxeHZQVm5XT2h4czlMZERvYkF3Y1A0c1N2Y0Fhd2JSTkJ2Z1BSWVMxWGxUUUUxelJ1X2JwV2JEM1NpYUt1Q01ncUZtb1ktUGN5SjlRUkRKY0x2eTlxVzBNaHI5eXFGRXEtd0p6UHBIQkowVmtzV2RQQ3ZibXlJc05JRDhGZmc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFNcXVJd0FoTjk1OHU0cC1GMHMzSTlkYkFEZExVaVYzNV94amdJVW5FSC1valdVS0dTdkpXSHlOTFpsRGUxakU5QzU1Skpud05SQlo3Z3FWYXU1dS1wdjVQM1ZnVlJablFIZklXek4xSXpCRTRhZ0lXMzdGdlMzQmVxMktMeWNTWkpUTzVuaTVna3JzSWppdkxYQjlpU3g4VlNMTWJhM3NqNVdSZEN6c09ubm45SDRfTXMxMFpiTzVrLUxnUGpUN25DaExxOEpmXzR1c1pVUXptUlNIMUJaQ2pJOUc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     19,
+     17,
      22
     ]
    },
@@ -364,9 +364,9 @@
     ],
     "g": [
      0,
-     1,
+     0,
      10,
-     6,
+     7,
      3,
      4,
      0
@@ -395,10 +395,10 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Foto : Ini Daftar Wilayah di Jabar yang Berpotensi Dilanda Longsor dan Banjir Bandang pada November 2026 - Kompas.com",
+     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaURRTkYxMzhpRVhrSmtjX3ZpdzZiV19BVFNSUE82RXFmSzZrVkZyYmpzbWdJaXk2OC1LV0g2WnNnSDFQTXpIa2dRMXZaX1k4T3pydDRFN0w2bm1NNWJydWpVZDd0SUxPTzlBUTNBbHlxYWluNmpWX1ZNbjh4a1ZrMmxURWZDc3lRcXpfUF9QeDVZOUJUV2U2eWYtWG14UEVramdUNGNhT1l0OC1jdTZFdjQyX3hyRDVXaWprMXFOZ2l5Zw?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -414,9 +414,9 @@
      0
     ],
     "w": [
-     5,
+     4,
      8,
-     8
+     7
     ]
    },
    "trend": {
@@ -434,7 +434,7 @@
      0,
      2,
      0,
-     4,
+     3,
      0,
      0
     ],
@@ -444,7 +444,7 @@
      1,
      0,
      0,
-     6,
+     5,
      0
     ]
    }
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     6,
-     18,
+     7,
+     14,
      6
     ]
    },
@@ -516,7 +516,7 @@
      0,
      1,
      1,
-     3,
+     4,
      1,
      0
     ],

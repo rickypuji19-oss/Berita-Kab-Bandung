@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:21:37.683414+07:00",
+ "updated": "2026-10-23T11:21:35.070850+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   20
+   21
   ],
   [
    "Ayo Bandung",
@@ -23,19 +23,15 @@
    15
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
+   "Jurnal Soreang",
+   8
   ],
   [
-   "Jurnal Soreang",
+   "ANTARA News Jawa Barat",
    6
   ],
   [
    "jabarekspres.com",
-   6
-  ],
-  [
-   "detikcom",
    6
   ],
   [
@@ -47,7 +43,15 @@
    5
   ],
   [
+   "detikcom",
+   5
+  ],
+  [
    "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -61,10 +65,6 @@
   [
    "PPID Kab. Bandung",
    4
-  ],
-  [
-   "Ketik",
-   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Satgas Pajak Daerah Kabupaten Bandung Perkuat Kepatuhan Wajib Pajak Demi Peningkatan Pendapatan Daerah - Teropong Indonesia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmdpOWJ1Z0JER3FBWEg4TU1vSThhWXY4eklxdGpoZ1RkLUtqZlJERnJXb2hxR0M1em1hQkJaNElnUDRqTl82eF9Kd25zRi13dnJHb0dWU0w4S2VRZGprS280UVRORXczaURxYTdPUUszTGNKQ0RfcTAzczBCVmNrMTlFcER5UUtOUnlwRjNYc3dabGN1RHByLWp4blpkdXQ2S3Ria29mQlV1N1NIYVBaanYxNmZaazQ0bExDbGNkWjRQWE80cTZ2bWpZMzZXZlo1dHhHb09JWDVoWEJONVFzX1ZIMDhhSkU?oc=5",
+     "r": "Teropong Indonesia News"
+    },
+    {
      "t": "Pemkab Bandung siapkan stadion Si Jalak Harupat untuk dua laga kandang Persib - ANTARA News Megapolitan",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDczd0Y2V1V1R001cTExeHB4ai1pV25Uc3JqUmhpSTVjWnowTXdkVnljRTZBRlRLRGV3a0J2bGFfR3NNZ2FrY3ZLbG0xVU94dWk5aUoyNWtKSDBOUHdIcFlOenJaRjJNdEhla25UVDJqNm5xeHBQUGtQY3lULW8wWkwxVTZCRUtuS3hSMEN1LUg5ZmxSRmFqcXpVMTVPM0VkX0dSZXhJQ2lWbm00TkRzdXBRSmlIS0ZEUzgzdS1GYl9tQjhi0gHKAUFVX3lxTE1HelVkTHB5dV91djhoVjVkVXRtSDZtTTFVOFg2cVhoX3dzVU9TYUVULUFqLWtHN19kS0JPVE1VT3ZHNnhnX0VZNjQtcXlLUElwYkZRN3k0cDdFc1B5ZVA4cXlaOHg4TkM1V0F1TThrUHo5RkVtdEw4VmpZaUhaMVNVUmY5V0FnWE9IM1lKbmhoM3B4LVlBY3F2ZXc4b1JyWHNFY1hteXdlaHhsbzBrNWs5WUlWVWV1THlfN0dacElueUNVWC1BRUVYT0E?oc=5",
@@ -91,33 +97,27 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Ribuan Santri Jawa Barat Peringati Hari Santri Nasional 2026 - Pikiran Rakyat Koran",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlVsbTYwb0pyZHJnR1ZvSUhXZGxJY1A4Rlo4X1lhV1dkaTZsY0dEVkF1V3ZkTlRUakxaUy0ybVZpVjFQdVNUbEtSRG1WeHl0VTFZLUxkSHRBd01rcmdsVjBjR3Q1eGdIVDFMQVBMOXpBYVVWX0FQSjdkWTVtbmlSRzd1WEcyYUV0d1FrU0d1Sm9DSlBSdGtDMW9RR1hNWEJYeEhTTmtWdXM5Z2hITGYyZzFXNA?oc=5",
-     "r": "Pikiran Rakyat Koran"
+     "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=X_7mnQYX72E",
+     "r": "YouTube Radio PRFM 107,5 News Channel"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=9KEVwQUDWmY",
      "r": "YouTube Pengadilan Agama Soreang"
-    },
-    {
-     "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=wBOOecaiAQw",
-     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
      1,
-     2,
+     3,
      0
     ],
     "w": [
      20,
-     20,
+     22,
      1
     ]
    },
@@ -137,8 +137,8 @@
      1,
      0,
      3,
-     16,
-     1
+     15,
+     2
     ],
     "g": [
      0,
@@ -167,16 +167,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
+     "r": "Disway"
+    },
+    {
      "t": "Hari Santri Nasional, DPRD Kabupaten Bandung Dukung Pendidikan Agama Hingga Pengembangan Pesantren - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGw0TEpzeVU2bEtEV3R5d0hFUDdBemI4Z3NBNWZzWFVNVDhZdDg5V3RMWjdlUlRsRlBfcVhiRFFkVDVaNXplRC1DN3Nack1mUTVFd2N4SjFJdEVISG42WjhBZFdYSUpKUGZwWHRHTlh0RWVEVG5nWGRKWWM1TU5SVTM1VTZDRzZkdWhoaUZRMWZvV1BHaXV0bG1zZHRiWjBEY1hiZW1XUEVIa2Z1dXhSUnMwc3p4c2ZHVmtSdGVqQUVjV2I5eHM1elF4M1RQZzFXOUEzUkN3SU92LXotNnRqOTFSNNIB0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "Ketua DPRD Kabupaten Bandung Tegaskan Dukungan untuk Pesantren dan Pemberdayaan Santri - Fokus Satu - Fokus Satu",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1FiMG5GYmMyTEVWY2drSWdpek1EanBSS0VBWkNQX0k5TThxanNpMFA0S0RFR203M3l0ZWJCS1FMYUk5dTlGWEJ5VDY5dU5xMjF2TmpESFJBVjhodElOQWsyZDNGODlVQm5yQWRUV1Bucl84YlplVC1xZXRuTllIM2xWODZuNUhTQU80dFJ4Z2lDWUhDa0wtUWxYZmNVOWp0QTFTbnQxUTJ1V3p5N041VnVHbXZzaVB0TUtjWE9RbHh2UVBVNnfSAcsBQVVfeXFMT1JtWWk3ZGl6aXV5NzRWU0tmeGVzdlRuSWFPSV9pT1NXT1RNUWh5UnJwSVI2SDV2MHM4TFRCY2lfTy1yTm9XV2pLcXQyZXdJajg4b240MVBFNWtadVlxSEg5SURvNUtwdkxyaHpiN1cyRDRjR2FfWDIwN2pqMjFOUXotVm5KWU9FMC1RU1VlZTZ2ZzBQNzF4Sjc0U1ZXR2dQZDVDcFNsdy0zdi1hcHZ3a1U0cnBKMGRPSmFFQmJfVlhXRm9LNUVaZTZrYms?oc=5",
-     "r": "Fokus Satu"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     9,
+     10,
      6
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnJxR0IxU0pwOWMtNy1RQkpkTWRIUTFtVGFTdUwweUREbG9rcjZrT2lvR3A1SHh6dzhHNnFGbzVNWXhZcmlTMS1ORFdQSV90VWZQQlJ0TnQ5eFgxZjhDVUhYeGNSWk04Si0xZndLR2lvX0lNR1U5QW8wWERvaEZnZy0zaS1OemJjUXZvUE84QjJuTEREV0w3bXAxWmRLNEcwc3pyVVNjT1V0RFd5ZFJYT0ZBbkJVbHdHVWs3ckdmWXpVaFo0VWZNX2lBUE53UUZwY2c?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBaMGZpbnRaZ21sTDVLa19WUTZDRkpQNTdKblZtUzROSjBQZVRZWEx4R0VXa2VlaldrX0s5Tm1XRGU2c194OU1Zd0lIU2FLOWpaSkF6eXN6U3RVYUgxZXlwMzhPUW5XUHYwYTIzWFFKbXNpeWhocmNJaFE4OE1uSm9zVERrNTZqX09SZ0NPeEVqWG1IYldjZzdVU0NreVRLaEpmYnpnb3NqVjZzZC0wb2lhY3VsTDlrX3RBUzhxc1dnNHRsV05V?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kopi Kab Bandung Tembus Pasar Ekspor, Pemkab Genjot Daya Saing Produk Lokal - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0k4UEZCM1ZUZ0RRWS0yRlQ2SnJ5Wjk0NGU4MHNNWEJ4X0w5bkgxVzVfZjVUZ09MZ0F1ZWFCQ0NZME8yVXRxUWRTODlSSHpCNDFTUlVhbTJwNHRiTUpQODJLYUYtR3hoRDlMVTJFdDVXMjN0bXlKNFF6LURDeG1va1NwTWttSnI3OFlrVXE2MnJPSnJSTmh5ZHY0bUduNkU5ckl1dkE1bjNhOEZyMDZuNm9kQm0?oc=5",
-     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     17,
+     19,
      3
     ]
    },
@@ -313,10 +313,10 @@
      "r": "Desk Jabar"
     },
     {
-     "t": "Lansia Jadi Korban Jambret di Taman Kopo Indah, Polisi Buru Pelaku - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORE9PMS1LMlgwTzF5Zk9UNGFISWtXY1BlWGlrelJhaUpDY2c1Z1FZMldOYVY0M0lHSG9LajlhVU41WG5uOUJSd2lkTWF4alBDN2c1MjRmNTkxa1VVZTlLQ0JPM2NNdHdNM1N1OTh6c096NGtDYTh3cmxzX3lkT3dZdm9MTmp5ZFdveUR6S3JRM0RpU0dLTXpUb01BQi1NeFdxVmdqTlpnS0JhMExHUnpaT3dTbTl6amZKQ1V3UXdRS1NTbk9tb2RZ0gHMAUFVX3lxTE1ZcWFWZ1k0QVVLZ29WUWlEREkwZHRpZHM1Q0t1U2N5ZWhZeUNzbk1KOWZIQnJPcVl6OVRNS2ZUbnNOb0xoeHZIZ0k0eVNHS2I1RE1tTVFrc1I4SVdqMWNTc040Xzk5ZjVKUjZvTERYaFhyWUZ2VUVEV2xUSlNWSF9mVHVPa01jYmphbnB6WjZqUjNsTFZlZ1IxSS1xbEpLMlR4OGRUaWEtX2o4MG1pN0ZBYlVyZDhmUEpFbi1rWGM0d2tFbFFxcngwLXFKVQ?oc=5",
-     "r": "Radio PRFM"
+     "t": "Kantor Pertanahan Kabupaten Bandung Masuk Radar Ombudsman RI, Rawan Terjadi Korupsi - Pikiran-Rakyat.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -335,12 +335,12 @@
     "s": [
      0,
      2,
-     1
+     2
     ],
     "w": [
-     0,
-     20,
-     20
+     1,
+     21,
+     19
     ]
    },
    "trend": {
@@ -357,7 +357,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      0
@@ -367,8 +367,8 @@
      1,
      1,
      9,
-     8,
-     1,
+     7,
+     2,
      0
     ]
    }
@@ -383,12 +383,6 @@
    ],
    "h": [
     {
-     "t": "Foto : Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor Halaman 2 - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXVOZVJLZUR2LU9mNWhpNGRzQXcxWGhDczdBM20ybFVGblMyTUNrcnZyUWdWaFQyOWtRX1FiUnhYX2Vfel9NVmUyeXFjT192a05xaVNVdmRHd0pDR0twWHhZelBWWmdYb2c0SDFXdEFqZHI1d1RFeTNSczBnYmVtaDl4WldVRGw0T3VkanlvVGdFa0kzZEkxM09oZEhpVFNkd3lKaFEzbmpEMi1lcGVBVk4tMG5hYUVuRTIxdV9fTTRtTTZFZzFmLU9LUkd0U3dO?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNfMUZDTkVTNTc3U1Y4T0VjTTBkU1JXeVBQZUF3TElzSVdfNlJGMlBULWY5cUVVbzdHaVJGZzU3Z0tqNDZFMHdrTnczMGl5bjFKVnhPNkJzYlo0UVpTcF8yLTUwWWExWWFmY1JPZEstZkdxdG5sRldyU3JlbmwzYmx3bVM1US1yNzJOYjk0TUpMRHJxTU5UZ3FubWJUdERyVEpYUkhvQS1fOFAyZ0wwb0ZBaGlXYndHLVk5Y2stS0hxLWQxNHdKU0R4TUdhZUwtcWhZN0JKWjQxOUZ0Wnc?oc=5",
@@ -399,6 +393,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Itenas Bandung Jadi Tuan Rumah KoNTekS 20, 177 Paper Bahas Inovasi Infrastruktur & Mitigasi Bencana - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVVNnVSa3YwcGZLc1dWSUZsTGpvZTBNREpvTzFNblhHOVU1eFMxNnNKYjlNaFlBaDhzRGZtUzJCcEVrdmRJajN3eUxwdDBYWEFXdHpmX2NVdk9DMjh6YVJ1bDd3cm9Oc1lrR3FyRTFiMHVOM09lVTZVa3NWMXdLdVR3ZkZyQjBEaHNVeWU4NkkxRHF4SDBUV0F2V0phZDN0Q1l6aWl1dGFEQ0F6YWUxQ0RQeWUtVGJ3b1Z5czBuazJjNjc1YXZmdzF6a1BKdHhMQnR3bU1JdXB1aG84Q1gzWg?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -420,9 +420,9 @@
      1
     ],
     "w": [
-     5,
+     4,
      7,
-     4
+     5
     ]
    },
    "trend": {
@@ -441,14 +441,14 @@
      0,
      2,
      0,
-     4,
+     3,
      0
     ],
     "g": [
      2,
      0,
      2,
-     1,
+     2,
      0,
      0,
      0
@@ -472,8 +472,8 @@
     },
     {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker untuk Perluas Akses Pendidikan - Zona Priangan",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfd9IB7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfdw?oc=5",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzNRV1g2R2V5WkJBa0VjWW5UX1U4ZktJLUd3SjJjcUhQeUsxNm1lQk5MV2pYV1I2OGVoWWh5a3d4MW9UdkNIMFFzallBNUZpVGh1azJNc3RzMEd6VlNOeXRwVzFBMjFoOEdySHlteXJSQ21TOUV5YlpPQnlRMWdublJwNHpLQUNKUU5nMm02MTl5UGpnZnBYc3A1TGVfeE1LUm5WelpCM1lXWmM0OHRPYURPTGRDWkVCV2paZkFoVldUQWRvck01WjJlTTBZazNmLTQyaHR6OFJObnhUbFQtc1FSVHZ2RGd6ZVHSAe8BQVVfeXFMTUFTcFE5b0xuN1VkejU1eHFpZmhKOFdWaWEwZUx6Z1ZUOGJNSzFRaUQtU1BoeUNDUXNsTjFyb2sxSTJwR1p3Y3dzUVhqeDc2NWNSQ2ItNl9udGtGVW92NnQtSHNWZWNUUFRPY3NXQWg4bkNSYnR1ZERxNWQwZUJQelRZT3pINlYtWUd5R0d2S3dlUDNERVZsN2pNdDJCSmVRYW5RTFplR2Fua0o5SGhEdXRTS191TmpiLTNHX2JlMHZBUHpfb0gwaUI3a0s4U2FlMlloVlRLYUhFR1RBUkVnNTRWN1FJT2xILWhRazJEX3c?oc=5",
      "r": "Zona Priangan"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     20,
+     21,
      6
     ]
    },
@@ -522,8 +522,8 @@
      0,
      0,
      1,
-     1,
-     4,
+     2,
+     3,
      0
     ],
     "g": [

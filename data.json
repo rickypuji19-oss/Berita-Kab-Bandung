@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:16:48.712893+07:00",
+ "updated": "2026-10-24T04:19:50.438973+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   33
-  ],
-  [
-   "Ayo Bandung",
-   17
-  ],
-  [
-   "Kompas.com",
-   13
+   32
   ],
   [
    "RRI.co.id",
-   12
+   19
+  ],
+  [
+   "Kompas.com",
+   19
+  ],
+  [
+   "Ayo Bandung",
+   16
   ],
   [
    "PPID Kab. Bandung",
@@ -43,10 +43,6 @@
    5
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
    "Koran Gala",
    4
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Jurnal Soreang",
+   4
+  ],
+  [
+   "Radio PRFM",
    4
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      15,
-     24,
+     23,
      4
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     10,
+     11,
      5
     ]
    },
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     1,
-     18,
-     3
+     3,
+     21,
+     2
     ]
    },
    "trend": {
@@ -276,12 +276,12 @@
      0,
      0,
      0,
-     1,
+     3,
      0,
      0
     ],
     "g": [
-     1,
+     0,
      0,
      1,
      1,
@@ -315,7 +315,7 @@
     {
      "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFNcXVJd0FoTjk1OHU0cC1GMHMzSTlkYkFEZExVaVYzNV94amdJVW5FSC1valdVS0dTdkpXSHlOTFpsRGUxakU5QzU1Skpud05SQlo3Z3FWYXU1dS1wdjVQM1ZnVlJablFIZklXek4xSXpCRTRhZ0lXMzdGdlMzQmVxMktMeWNTWkpUTzVuaTVna3JzSWppdkxYQjlpU3g4VlNMTWJhM3NqNVdSZEN6c09ubm45SDRfTXMxMFpiTzVrLUxnUGpUN25DaExxOEpmXzR1c1pVUXptUlNIMUJaQ2pJOUc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm44dE0zeUJDYXpESVdUekpWN2dRSmhwR3FHSWE5ZDZmSEtkaFRxVktsTWp3ZXd0bFRNbVJJQUdYNTRwaXQ4OXBxeHZQVm5XT2h4czlMZERvYkF3Y1A0c1N2Y0Fhd2JSTkJ2Z1BSWVMxWGxUUUUxelJ1X2JwV2JEM1NpYUt1Q01ncUZtb1ktUGN5SjlRUkRKY0x2eTlxVzBNaHI5eXFGRXEtd0p6UHBIQkowVmtzV2RQQ3ZibXlJc05JRDhGZmc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     17,
+     19,
      22
     ]
    },
@@ -364,9 +364,9 @@
     ],
     "g": [
      0,
-     0,
+     1,
      10,
-     7,
+     6,
      3,
      4,
      0
@@ -395,10 +395,10 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
+     "t": "Foto : Ini Daftar Wilayah di Jabar yang Berpotensi Dilanda Longsor dan Banjir Bandang pada November 2026 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaURRTkYxMzhpRVhrSmtjX3ZpdzZiV19BVFNSUE82RXFmSzZrVkZyYmpzbWdJaXk2OC1LV0g2WnNnSDFQTXpIa2dRMXZaX1k4T3pydDRFN0w2bm1NNWJydWpVZDd0SUxPTzlBUTNBbHlxYWluNmpWX1ZNbjh4a1ZrMmxURWZDc3lRcXpfUF9QeDVZOUJUV2U2eWYtWG14UEVramdUNGNhT1l0OC1jdTZFdjQyX3hyRDVXaWprMXFOZ2l5Zw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -416,7 +416,7 @@
     "w": [
      4,
      8,
-     7
+     8
     ]
    },
    "trend": {
@@ -432,9 +432,9 @@
     "p": [
      0,
      0,
-     2,
+     1,
      0,
-     3,
+     4,
      0,
      0
     ],
@@ -444,7 +444,7 @@
      1,
      0,
      0,
-     5,
+     6,
      0
     ]
    }
@@ -471,10 +471,10 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Anak di Cicalengka Dibunuh Ayah karena Seragam Sekolah, Psikolog Jelaskan Faktor Pemicu Kekerasan - Tribunjabar.id",
+     "t": "Sumur Bor TMMD Kodim 0622 Permudah Akses Air Bersih bagi 60 KK dan Siswa SDN Cikole - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN19zYnIyN3hIOUFsVjZoSnFjUXY0LTdTUldkcjZIYkU0a1FCM0YwdGRTODVyWkdNWjdTR21FaTB4VDR3eThmX2s5Ulo3Vk1HSnZyOVU3VDJJNkZ4ZHBtMzJCVFJHZnNYNXk4S2tFTXRoYlN2SkY2d0pwMnBJZTZzd3doeHJTTG9EZ2RNd0lEd2NLLW5udndiSFhUcEQtZjRXRmVSMW8yN3hWbFkzeHlHRVJyMDB6bXFJMGJwOGxEWW1BckVNSzdmZENqbVlZQnBsbTE4LXFDZ29aN1pjNUJJVg?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnFtbHhXUUpNcW1SRjFuaEhJNkdLcXhFMGVLV0RoWFlNcWU1Um5OSC05eWpfT1dCMkRFbzRva3B5Y2NzMlZHaDRHUkdNUjUwZXZkX0Y0dGEzS0F6UTU5NzhxSTRaaFpWeldLX0I2X1M0b3NNRF9mSm5HR09wRGowQmljMDhwTHdLZXZ1WG1NMVNaLUVyYmZCZ1JaaEV2Vm4tVTB5X3FsSXRlSktpSFJzWEk3emd1dVd2aGZGNzdZa2JzT0Zm?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
@@ -497,8 +497,8 @@
     ],
     "w": [
      7,
-     14,
-     6
+     17,
+     5
     ]
    },
    "trend": {
@@ -523,7 +523,7 @@
     "g": [
      0,
      0,
-     3,
+     2,
      1,
      1,
      1,

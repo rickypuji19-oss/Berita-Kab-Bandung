@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:31:01.036093+07:00",
+ "updated": "2026-10-23T21:27:12.000925+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   34
   ],
   [
    "Ayo Bandung",
@@ -20,18 +20,18 @@
   ],
   [
    "RRI.co.id",
-   12
-  ],
-  [
-   "PPID Kab. Bandung",
-   7
+   14
   ],
   [
    "detikcom",
-   7
+   8
   ],
   [
    "ANTARA News Jawa Barat",
+   7
+  ],
+  [
+   "jabarekspres.com",
    6
   ],
   [
@@ -39,20 +39,16 @@
    5
   ],
   [
-   "jabarekspres.com",
+   "PPID Kab. Bandung",
    5
   ],
   [
-   "Disway",
+   "Radio PRFM",
    5
   ],
   [
-   "Koran Gala",
-   4
-  ],
-  [
-   "Inilahkoran.id",
-   4
+   "Jurnal Soreang",
+   5
   ],
   [
    "Pikiran Rakyat Koran",
@@ -64,6 +60,10 @@
   ],
   [
    "Ketik",
+   4
+  ],
+  [
+   "Disway",
    4
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bone Jajaki BIB Lembang Tingkatkan Mutu Sapi Unggul - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXJ0TkpBYW9QZlgzWnhUY2hIMlR4S1NIdkI3TGdCVkhkVTBqT1ptdFBmRUp3LVlQOHM3RjNkY3lSdVQ0WHVkT2k0ZHpGS0FGVGhPSXFjSTN4UWw2Tmp4SllTVmtuOWNLR3EyN2hfYW53YWloLXhlWnNxZmMxLVBMZ0tjZm5pT210bU02MDJXaXRIbnMwQ0pUZWY3VUJ6WVk?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Persib Lawan Melbourne Victory dan Isenmulang di Jalak Harupat - BeritaSatu.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTVnN0JVN2MtNnRmOUpHRkVhd0tEaTZ2aHdMRF8tNDlZbUFDZGtRaHNnQ2kyMGZLR1ZvODZPTzRJaG15X1haRG1wcVdONWw5MDE3a19wY1ZYUk1vZmZWMUwwYlVQOTVHN3dVWjIxVFo4XzVYenlPd2kzWkZxMUI4bkxpbTVvbThOemhkellwNDJXNDBUSGtoNHBVTXRWSENJbFpyOTBB?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTd0U2ZuVkg4V2hoNzJDT0pTNjcwdFFNdHMyWm1yNFFqVlg5UTZPN0pTOW9Nc3BSTlJUMUhaM3NYUXM4dWo4T2laMXV6blN0ZGJ6Q3VPZmV0bmhJSUxnb01ybVBGejZLYjJhV0E5SU1Kdkt4VFY4cWJsc1k2LW9tcEFZVXFkSXRLQ0N4YW5WRmVoQndlS0haTXJWcEpfVXFFSHA4bHB6MkxWVHBGa1VzZA?oc=5",
      "r": "deJurnal.com"
-    },
-    {
-     "t": "SD Bojong Asih Dayeuhkolot Kerap Terendam Banjir, Bupati Bandung Usul Relokasi Sekolah - Satumedia.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2dTVEdUc3ZiR0FvVmpLWFhwQ043cTJhS1JQemo4QkU4WmhlZUVQVHRCS3lhZFNyNGlqSU9RMzhDMDl4aV9GX3NxMGhydkNsOWtmMnhIMlFJRFZrNWZjelJScEZwdXVEOXdtSzI5ckUtUFhZZjNjWUl1dzY5VWhVU1N3RDkxb1dGT0drYU9PLWo5NC1IakQwc1B3d21JUXVaWE5ob25neURMUWZPOE03dmtGTUp5MWJGUDkzVzNrSQ?oc=5",
-     "r": "Satumedia.id"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     18,
-     22,
-     4
+     17,
+     21,
+     3
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      13,
-     5
+     4
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     3
+     2
     ]
    }
   },
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     10,
+     11,
      5
     ]
    },
@@ -237,16 +237,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Berita dan Informasi kamar dagang dan industri Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bEVVWS0wRTNxRUhhdUc1LVRWQzdIcHE1UVJIX0ZZUkFDeS1GYUJPbFppVm5BVHZxcmZGX1JnYTVJNEE5TDI4YmJLY1pqOEZJelB4RkM3dVN4YTNQNWpxVlVpSGlOMUlYOXc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFjYk5aZjgwRVUtU2FjN1EwMFM2R3JxdnVkUERSUkpuRTE3ODNaNjFRaUFGYUp4SGZkdGFQMFlrRGZhMHRfSVAzVnFPaUd2MUR5b1RvY2g2S09SNEw2Sy10MjIyVmVlU3hKbHZhMG9CeWRDVXBvaHRPU3JMMGxraWcxV1VDLXA4eTFEMTdXLUVUMXVTU19ZY3BNNkZHbFdHdGtTOENIc2tjNzRLdGlxcWhNdFpwVE1vQTF4blVfalozYW9kNWFhbTk0MXU2a0ZFQVoxRXZnY3d2UDFm0gHiAUFVX3lxTE01WERHZjNWQ0YtZ0wyRDNJV3haZHFtQjVmRE5mRWVXcmtFdWp2TldVTlBsZmY5TU1vR3RtSl9RTmNuVTUzbi1aNjVZTFlSTllmbTg4TVJCRGFndDFYcXdRWlhRM3d1SF9nZnpIb1dIc185UHFGNFplTU9GRzVDa0dUZUJzZm1nOGRYZDNwZnhLakdfY003bVV5ZzlBTTlIX0NQOXI2aUxjX0NPQUtFMVZyTVFPXzRucFJjVzlEXzA3ZFE0bDZ3WEJyVERabjQyOGNzNkx4WU5vSDlabGYyeGpRV2c?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Viral Asap Pembakaran Jerami Ganggu Warga, Petani di Bojongsoang Dibina Polisi - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVNkSy1iRlpOX0hCNWNqN1RLZFVjU1lITFVQVFVjYlljWmNGSjlCaDVxY2pYWWdWSjlDNThfV2E4ZEtzWnlQRUxkbW02NGdOeHNwaGgtVjc2YXdEc2ZpM3VvbC1sR0JZaFVxazhDYVM1cHI4TjlZSlBZRFZzRENHTzdla2NKWS1XQ3kyNS1HaDc3TUNuTnhQOWFRQXlxeHgtV2NTbXdVaU0yam9WdTFza0djcjlCRE9aWF9DMWhWaFpQcWI2WW9DY0VqSl9vUVNxdnk0NEYyaTczYXRm0gHcAUFVX3lxTE1hU2RLLWJGWk5fSEI1Y2o3VEtkVWNTWUhMVVBUVWNiWWNaY0ZKOUJoNXFjalhZZ1ZKOUM1OF9XYThkS3NaeVBFTGRtbTY0Z054c3BoaC1WNzZhd0RzZmkzdW9sLWxHQlloVXFrOENhUzVwcjhOOVlKUFlEVnNEQ0dPN2VrY0pZLVdDeTI1LUdoNzdNQ25OeFA5YVFBeXF4eC1XY1Ntd1VpTTJqb1Z1MXNrR2NyOUJET1pYX0MxaFZoWlBxYjZZb0NjRWpKX29RU3F2eTQ0RjJpNzNhdGY?oc=5",
-     "r": "Radio PRFM"
     }
    ],
    "v": {
@@ -257,8 +257,8 @@
     ],
     "w": [
      2,
-     19,
-     2
+     21,
+     3
     ]
    },
    "trend": {
@@ -282,7 +282,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      1,
      1,
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Jejak Begal Viral: dari BNN Gadungan hingga Polisi Palsu di Bandung - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2ZzTUtER0FRVVMzOXNjS21FTDYxT2tXMEotRlFlVDFwUTNPOHRvUHNoLUZ3VThGdVI0VUxteWJkR29aS2RiWWRKUVJFN1dVVUxDNDJ0VHVBXy1OdkQ1ZFR5Yld2aG9NZUJzX0pyeUpJZDBaSXRpQUQwZlJOU2xmWERBN1R4TDNqOGotM2JxVk9GblFJeDd2QkU3azVWYUc5OGQ1UmhJZVZIb05Yek5senMyZkxrTnJqVi1rbWVjblHSAcYBQVVfeXFMUGVkbU52WUwwWXYxZUxRanVoR0Y0YmNYR1ZMVkNzX3pqZXRmSXlWc1NLVUxqUkdBLW5VOEtQNE5vekVZZ09NUXVOaVN5Z3oxQVY3N2dUcm4xM2VaeDZXQXYtbU52NHlGWkU4ZDJSd0hmZklsVXFlVVRnYmJZSEpnN3NZbUNqbkZuNkJYbExhazhrYzFCbEZ0R1lmRWJRRjZjaU5ubmhIN0cxUjFETEdQc2xtWXhJT2pxTmRJbUpCSDRQT3BJLWxR?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Mengaku Sebagai Anggota Polisi dan BNN, Tiga Pelaku Pemerasan di Bandung Berhasil Diringkus Polisi - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01vRHcza2plSlVMdDZLMUdjVnVTeS0wdVQ4TUMyQmR4bHZJNUNwdmNVOEQzV0VNaEJKUzRONVlNTDJCaTIyT3hCVmMxSTJLYlQ1OFM5UUlxNk1GQ1BsVnNBSnpwOGZqUWVBUEJmWjZIeEFpQVgyX0QzRUpTVlhxdjVpM2FTNWczVTRxdXZablJTdDc0UlBMV2k2czRfXzQzMC1DUTBVQk1acnZLZ0daa3hBSWFZWE9ydDV2TlpKMlh3QmpVVGFfTWxaX2RneFl3QS1tV2dkajFKME5TNkMwWW9R?oc=5",
@@ -311,12 +317,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLdIByAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLQ?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Curi Bawang Merah di Gudang Tiga Pelaku Diciduk Polisi - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29HdXBfZngwM05fcUhBQy0wd0NfUG05WHN4b1phRXpELWVUWjZkWVMxNlRVN3I5VkVOdFRJclpDOFEwU0NTS1RoSlFMS3Q3MEhVX0NyZG0wamo4WXhMR2pqYkhOdnhUYTBZbDRmbjhGWFctdEoycmVGZDRZMm5hT3FnWmZSalNCb05kUS1neUp1cFNkejc0NXVPXzhFU2RTUnRiM0hIVVJ4NzQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     21,
-     18
+     20,
+     19
     ]
    },
    "trend": {
@@ -364,12 +364,12 @@
     ],
     "g": [
      0,
-     1,
+     0,
      1,
      9,
-     5,
+     6,
      2,
-     2
+     3
     ]
    }
   },
@@ -395,9 +395,9 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
+     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     9,
-     6
+     8,
+     7
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      1,
      0,
      0,
-     4
+     5
     ]
    }
   },
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Siti Muntamah Prihatin Nyawa Melayang Gegara Masalah Perlengkapan Sekolah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU5tTEdQUnRYNXZoUnlGQmVCd2hqUTBmZmtiX2hKdWNtMDhkdVJvSExwaE85ZUZsak5nM3VSeVBxb0wtSktWblh2eExjM1VVcUU2SldsaFBTazBxaHZ5Q21CdEtBSllfUTZVQ3NsR1lIUThMam8xUUQ4LTRWSDVvbXg3dWQ1UkVZTFlPczYxcDNKcERKc09iTWk2eHQzQkJlSG4zN3hqNkY2VW1FTGR4d2tJUUpyQnRRQ194N3RB?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Bela Ibu Cekcok dengan Ayahnya soal Uang Sekolah Dipakai Judol, Remaja di Cicalengka Tewas Dianiaya - Pikiran-Rakyat.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3h1WEFNcC1DWUxmOEhjNmlXQUJxT2FhU3FWZDdYRldzME1rbWFRSnpCU1ZudnNLNmdETUNnMFFhY0FkU2h1eGozclVGXzZEQk1mTHV3ZlFaODVvbjFWWmc2blRGanN1UFctR0dsVFkzV2VwRXZUbnpRT3o0ZkpXRTdzcm1sUGhGMUdUMXowUnNmSzV5VV83dzA4ZmJEVjdRZjd0ajFnVW43aHpHbHNoQ1FNTWlZVkFQQVVQVXFtcFpvMGp0LXBVWkJaYTFHaWoxYmdOTGgxVHVWVkdlaXhWUmVn0gHnAUFVX3lxTFBRZHg4emJuUGtBYlg5bld0YVZ5TUh1QzBnaFdRNmxsUDJud0l4a3ZKU1lacDVvaTROQnMtT1poVHlkTS1uT3BJMFlRZnk3bTVzeEZ0T2kzc1VhVmR1cUtSZmNfVXlOVmYyUlJUOUZhOXp0MHFzbU9CQlE1S2todnJKX0c5VFoyc2dsVnM5ellVbnZTaHR4NTFTb0I4bDZHVE5Md2pEU09VRDZPMkFJSXVxRkZnUXQxRmQ0YzBDOERUWWp2WE8xQzlKQWJ5bzhPU3IwY3NDU2VSQ3RTSVh6QWp1dUJpMUdjUQ?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
      "t": "Sumur Bor TMMD Kodim 0622 Permudah Akses Air Bersih bagi 60 KK dan Siswa SDN Cikole - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnFtbHhXUUpNcW1SRjFuaEhJNkdLcXhFMGVLV0RoWFlNcWU1Um5OSC05eWpfT1dCMkRFbzRva3B5Y2NzMlZHaDRHUkdNUjUwZXZkX0Y0dGEzS0F6UTU5NzhxSTRaaFpWeldLX0I2X1M0b3NNRF9mSm5HR09wRGowQmljMDhwTHdLZXZ1WG1NMVNaLUVyYmZCZ1JaaEV2Vm4tVTB5X3FsSXRlSktpSFJzWEk3emd1dVd2aGZGNzdZa2JzT0Zm?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Anak di Cicalengka Dibunuh Ayah karena Seragam Sekolah, Psikolog Jelaskan Faktor Pemicu Kekerasan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN19zYnIyN3hIOUFsVjZoSnFjUXY0LTdTUldkcjZIYkU0a1FCM0YwdGRTODVyWkdNWjdTR21FaTB4VDR3eThmX2s5Ulo3Vk1HSnZyOVU3VDJJNkZ4ZHBtMzJCVFJHZnNYNXk4S2tFTXRoYlN2SkY2d0pwMnBJZTZzd3doeHJTTG9EZ2RNd0lEd2NLLW5udndiSFhUcEQtZjRXRmVSMW8yN3hWbFkzeHlHRVJyMDB6bXFJMGJwOGxEWW1BckVNSzdmZENqbVlZQnBsbTE4LXFDZ29aN1pjNUJJVg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Portal Belajar Digital Diluncurkan di Bandung, Bantu Guru Deteksi Dini Anak Disleksia - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcDcwcEkyMk5FT0NHME1EVER5NmZJeVRTcWtQYWlvR25KeE1Wc0x1QW4tV1I3RUtmWlhwNWo5Z2o2QkpDZnQ4ZlJxTTJrOF9kS1RFRzB1ZEFIZ0lSRlRmeWdxekkwamJnMHJGR1ZDOGVPaGJNY1AxU3N0VUsxMkJhbTNqWTNTWk9RSnZiZWVzZDg4WUxfbFBQUXZPbWE0YkN2VnJpYnY3OGRzMXVMSUFTclRQdHhTNlRCdGJrbmJaY2V6M29rblY5TlBvZEtNRWZv?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
@@ -504,7 +504,7 @@
     "w": [
      6,
      16,
-     5
+     6
     ]
    },
    "trend": {
@@ -533,7 +533,7 @@
      3,
      1,
      1,
-     0
+     1
     ]
    }
   }

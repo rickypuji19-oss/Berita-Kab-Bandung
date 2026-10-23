@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:21:19.811058+07:00",
+ "updated": "2026-10-23T19:17:55.127942+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   31
   ],
   [
    "Ayo Bandung",
@@ -16,11 +16,11 @@
   ],
   [
    "Kompas.com",
-   17
+   16
   ],
   [
    "RRI.co.id",
-   12
+   11
   ],
   [
    "PPID Kab. Bandung",
@@ -35,14 +35,6 @@
    6
   ],
   [
-   "Jurnal Soreang",
-   6
-  ],
-  [
-   "jabarekspres.com",
-   6
-  ],
-  [
    "Inilahkoran.id",
    5
   ],
@@ -51,7 +43,15 @@
    5
   ],
   [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "Disway",
+   5
+  ],
+  [
+   "Jurnal Soreang",
    5
   ],
   [
@@ -85,16 +85,16 @@
      "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Stadion SJH Siap Sambut Dua Laga Kandang Persib Selanjutnya - Vivagoal.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTZmN0VZa0g4czM3S0kyb3ZCOHhVc3BPaHJsdGYwZDJEWTE5TFg1SmdHSHpCWWl1TmRaT0MzOGtCLXBCRGIyQ0pRbUxncFFCdVVGbjZsQW9FdGNNVEt0U3c2b19xU2FyVklIaHRtcjNkbnlvNUM0bkZkTkgweXdZNTBIaURtdS1N?oc=5",
-     "r": "Vivagoal.com"
-    },
-    {
      "t": "KDS: Pindah atau Bertahan, Warga Dayeuhkolot Diminta Musyawarah Atasi Banjir - Gerbang Patriot",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEE5LU5sOUI4QTRucWRtbzgxWmlRTjJCOUxqWkVZWll2d2p3b0QtdFVIYUZmbHpnbmRaczhMWHhxbGtyLVJCNFJ0QjVmenIyS0JGaVZaZjBKaFMyMHcyVVdoaWo0Z0pkbXhubkV0aC16aUVmWUdpSVNkU2l3VWVrYkdiRTJFWEFnTHkzUEtZbWctWUtDbGhYbnF2SWpQc1BzRWtvYUpULVV3N3FxdVN5MHVyOA?oc=5",
      "r": "Gerbang Patriot"
+    },
+    {
+     "t": "Bukan di GBLA, Persib Ajukan Stadion Si Jalak Harupat untuk Lawan Melbourne Victory - JPNN.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelQzaU5hR2ZaNDVMeEI0dldpY2ozdWdDRVdXdWpWRzNrb3drWVB1Wkh1UmEwc2JGRGtoUW0tYXc5ZzNBazJmZUJOQ0hZUVBWc3gwR2JCVURKdERudGVrZVpZTWlvYWtlTlFvWW9GMHhvbm5vc3U1M2MtZG9zb2lreWZ4Qm1Ja0czQUVsYmwyQk0yN3piTXVlUmwwNHhiZ2twUm85RVppS3F0V3ZYRnluZEJQQlBiSkowQUw4cg?oc=5",
+     "r": "JPNN.com"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      19,
-     22,
+     20,
      3
     ]
    },
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     18,
+     17,
      3
     ]
    },
@@ -301,9 +301,15 @@
    ],
    "h": [
     {
+     "t": "Mengaku Sebagai Anggota Polisi dan BNN, Tiga Pelaku Pemerasan di Bandung Berhasil Diringkus Polisi - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01vRHcza2plSlVMdDZLMUdjVnVTeS0wdVQ4TUMyQmR4bHZJNUNwdmNVOEQzV0VNaEJKUzRONVlNTDJCaTIyT3hCVmMxSTJLYlQ1OFM5UUlxNk1GQ1BsVnNBSnpwOGZqUWVBUEJmWjZIeEFpQVgyX0QzRUpTVlhxdjVpM2FTNWczVTRxdXZablJTdDc0UlBMV2k2czRfXzQzMC1DUTBVQk1acnZLZ0daa3hBSWFZWE9ydDV2TlpKMlh3QmpVVGFfTWxaX2RneFl3QS1tV2dkajFKME5TNkMwWW9R?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcjBGdHZqbGswLUwyd3MtZ2MzQWhKeS1IcnF3OHBxS1Bxb0gyOHdTZy1SQm85QkRjN2FSODZNMnhxY0trem5iaHBQV0oya3RxeUpqUjAtbEc0dEpUTnd1LVFfT3N2SUdQRzNhV2FiRlNEbnotRElLYUE1Umpva0FrSl8weEYtRDBYcFFxQTFvcFZwOE53bzVlcUtNWF9RdkNTWXlMdmVoRWQwblZLeHBKSm54V2E0dVV1aUxsejZ4Vm4yaHA0cnEyeG16Z0F6Wnk2cVplcXdULWhrUVJhUDhSdTNncw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFNcXVJd0FoTjk1OHU0cC1GMHMzSTlkYkFEZExVaVYzNV94amdJVW5FSC1valdVS0dTdkpXSHlOTFpsRGUxakU5QzU1Skpud05SQlo3Z3FWYXU1dS1wdjVQM1ZnVlJablFIZklXek4xSXpCRTRhZ0lXMzdGdlMzQmVxMktMeWNTWkpUTzVuaTVna3JzSWppdkxYQjlpU3g4VlNMTWJhM3NqNVdSZEN6c09ubm45SDRfTXMxMFpiTzVrLUxnUGpUN25DaExxOEpmXzR1c1pVUXptUlNIMUJaQ2pJOUc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -311,12 +317,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLdIByAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLQ?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Curi Bawang Merah di Gudang Tiga Pelaku Diciduk Polisi - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29HdXBfZngwM05fcUhBQy0wd0NfUG05WHN4b1phRXpELWVUWjZkWVMxNlRVN3I5VkVOdFRJclpDOFEwU0NTS1RoSlFMS3Q3MEhVX0NyZG0wamo4WXhMR2pqYkhOdnhUYTBZbDRmbjhGWFctdEoycmVGZDRZMm5hT3FnWmZSalNCb05kUS1neUp1cFNkejc0NXVPXzhFU2RTUnRiM0hIVVJ4NzQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -338,9 +338,9 @@
      2
     ],
     "w": [
-     1,
-     20,
-     21
+     2,
+     19,
+     20
     ]
    },
    "trend": {
@@ -360,13 +360,13 @@
      1,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
      0,
      1,
-     10,
+     9,
      7,
      2,
      3
@@ -395,9 +395,9 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
+     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -422,7 +422,7 @@
     "w": [
      4,
      9,
-     8
+     7
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      1,
      0,
      0,
-     5
+     4
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     16,
+     15,
      5
     ]
    },

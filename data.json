@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:26:14.580445+07:00",
+ "updated": "2026-10-24T00:20:37.055637+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   32
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
-   16
+   17
   ],
   [
    "RRI.co.id",
@@ -32,19 +32,19 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
-  ],
-  [
-   "jabarekspres.com",
    6
   ],
   [
-   "Satumedia.id",
+   "Ketik",
    5
   ],
   [
-   "Disway",
+   "jabarekspres.com",
    5
+  ],
+  [
+   "Satumedia.id",
+   4
   ],
   [
    "Koran Gala",
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Ketik",
+   "Jurnal Soreang",
    4
   ],
   [
-   "Jurnal Soreang",
+   "Radio PRFM",
    4
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Persib Lawan Melbourne Victory dan Isenmulang di Jalak Harupat - BeritaSatu.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTVnN0JVN2MtNnRmOUpHRkVhd0tEaTZ2aHdMRF8tNDlZbUFDZGtRaHNnQ2kyMGZLR1ZvODZPTzRJaG15X1haRG1wcVdONWw5MDE3a19wY1ZYUk1vZmZWMUwwYlVQOTVHN3dVWjIxVFo4XzVYenlPd2kzWkZxMUI4bkxpbTVvbThOemhkellwNDJXNDBUSGtoNHBVTXRWSENJbFpyOTBB?oc=5",
-     "r": "BeritaSatu.com"
+     "t": "Bupati Bandung Apresiasi Partisipasi Fatayat NU di HSN 2026, Raih Penghargaan OKP Terbaik - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmZETllTd2VPdVg3bU5MX2hfV2pDeEtfem9ITUZsZmRFTzd4ZHRUZFF2NDdpRGEwWVZzS3J0aVZoUkNPLTJPaGJyR2pSRnVocXhMcURVV1dwSU4xMlFBMzhYeFE5WWNDSTNfZkdXQW9PazRLV3VGbE0zUnJkejJURzU1QjRxYi12aUpOazVmTERoN1NEeHhjR2VtMTBfa1QtMUhNbkdQWGlMSl9NNUM2V1N5Ukt2RlBVeEYxaVh30gGvAUFVX3lxTFAzR0FDMGhqcXhaWUJ6Yy11SmtYUnN3SFV1VE5ZQXpLUzBNVEFqOEg0aEI2U0VFWWIwcl9MUTY4SjlBQ19YdDlUVndROHhvWVo4TnhGZjc2WW5HMUlFbWpJY21KY0xIRU5LMkg2OWJmaUUwNkFzN2l0OUpIRHJSUzVjdERnV3VrdjlsajREdXlpUGtxRzRpNERCUzlIMThRN0h2bGtibWVpVEpEZjZqcXM?oc=5",
+     "r": "Ketik"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -116,38 +116,38 @@
      0
     ],
     "w": [
-     17,
-     23,
+     15,
+     22,
      4
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      1,
      0,
      0,
-     12,
-     5
+     9,
+     6,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     3
+     3,
+     0
     ]
    }
   },
@@ -187,36 +187,36 @@
     ],
     "w": [
      12,
-     11,
+     10,
      5
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
+     6,
+     6,
      0,
-     6,
-     6,
      0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      3,
      2,
+     0,
      0
     ]
    }
@@ -257,35 +257,35 @@
     ],
     "w": [
      2,
-     22,
-     2
+     20,
+     3
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      2,
+     0,
      0
     ],
     "g": [
-     0,
-     0,
+     1,
      0,
      1,
      1,
+     0,
      0,
      0
     ]
@@ -339,37 +339,37 @@
     ],
     "w": [
      2,
-     18,
-     19
+     19,
+     20
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
-     0,
      1,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
-     0,
      1,
      9,
-     5,
+     6,
      2,
-     4
+     4,
+     0
     ]
    }
   },
@@ -395,29 +395,23 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
+     "t": "Foto : Ini Daftar Wilayah di Jabar yang Berpotensi Dilanda Longsor dan Banjir Bandang pada November 2026 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaURRTkYxMzhpRVhrSmtjX3ZpdzZiV19BVFNSUE82RXFmSzZrVkZyYmpzbWdJaXk2OC1LV0g2WnNnSDFQTXpIa2dRMXZaX1k4T3pydDRFN0w2bm1NNWJydWpVZDd0SUxPTzlBUTNBbHlxYWluNmpWX1ZNbjh4a1ZrMmxURWZDc3lRcXpfUF9QeDVZOUJUV2U2eWYtWG14UEVramdUNGNhT1l0OC1jdTZFdjQyX3hyRDVXaWprMXFOZ2l5Zw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=hcJ9yJ1jVOQ",
      "r": "YouTube AZZAHRA VLOG"
-    },
-    {
-     "t": "KDM Tanggapi Keluhan Banjir Margahayu, Sungai Menyempit dan Sampah Jadi Penyebab! #kdm #dedimulyadi",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=sQaFoZ5vNic",
-     "r": "YouTube Lagi Ramai Nih"
     }
    ],
    "v": {
     "s": [
      1,
      0,
-     1
+     0
     ],
     "w": [
      5,
@@ -427,31 +421,31 @@
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      0,
      2,
      0,
      4,
+     0,
      0
     ],
     "g": [
-     2,
      0,
      1,
      1,
      0,
      0,
-     4
+     5,
+     0
     ]
    }
   },
@@ -509,31 +503,31 @@
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      0,
      1,
      1,
      3,
+     0,
      0
     ],
     "g": [
      0,
      0,
+     3,
      1,
-     2,
      1,
      1,
-     1
+     0
     ]
    }
   }

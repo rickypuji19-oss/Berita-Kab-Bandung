@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:17:55.127942+07:00",
+ "updated": "2026-10-23T20:31:01.036093+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   32
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   11
+   12
   ],
   [
    "PPID Kab. Bandung",
@@ -35,11 +35,7 @@
    6
   ],
   [
-   "Inilahkoran.id",
-   5
-  ],
-  [
-   "Radar Bandung",
+   "Satumedia.id",
    5
   ],
   [
@@ -51,15 +47,19 @@
    5
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
    "Koran Gala",
    4
   ],
   [
+   "Inilahkoran.id",
+   4
+  ],
+  [
    "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "Radar Bandung",
    4
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Daftar Nama Program-Kegiatan (PARSIAL 4) Dinas Koperasi dan UKM Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
+     "t": "Persib Lawan Melbourne Victory dan Isenmulang di Jalak Harupat - BeritaSatu.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcTZfSlFicVotcm1NM0c0RXROUWx2UnFfRjR3TkU4bDhSaVVXT0dpb25rVVltT1VQRXhyblNFOHlTbDZ1d3loZ3VoS0R4RzhQektlUjVYd2RqQjF2a3RuUGo5QmtpcXQ4dW1tX0ZCdS02TDNzR1B1Q2V2WFZ6TFc1M0xUMWNicG13ZG4xdEtMaEExWEI2OEZRUUxxeW1uN1NRUWhNWDROTEptdTh2WDQ5c3RrVVZHOXlTaXJHbTBuNHhaWVk4al9XUDVGR3piaU9fVjZpM09oUzVHdFJPV1NvMVN4OFh3Yjh0V2tiVlhKQ1MyR2s?oc=5",
-     "r": "PPID Kab. Bandung"
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTVnN0JVN2MtNnRmOUpHRkVhd0tEaTZ2aHdMRF8tNDlZbUFDZGtRaHNnQ2kyMGZLR1ZvODZPTzRJaG15X1haRG1wcVdONWw5MDE3a19wY1ZYUk1vZmZWMUwwYlVQOTVHN3dVWjIxVFo4XzVYenlPd2kzWkZxMUI4bkxpbTVvbThOemhkellwNDJXNDBUSGtoNHBVTXRWSENJbFpyOTBB?oc=5",
+     "r": "BeritaSatu.com"
     },
     {
-     "t": "KDS: Pindah atau Bertahan, Warga Dayeuhkolot Diminta Musyawarah Atasi Banjir - Gerbang Patriot",
+     "t": "Bupati Bandung Doakan Almarhum Kades Dayeuhkolot, Minta Pjs Lanjutkan Program Desa - deJurnal.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEE5LU5sOUI4QTRucWRtbzgxWmlRTjJCOUxqWkVZWll2d2p3b0QtdFVIYUZmbHpnbmRaczhMWHhxbGtyLVJCNFJ0QjVmenIyS0JGaVZaZjBKaFMyMHcyVVdoaWo0Z0pkbXhubkV0aC16aUVmWUdpSVNkU2l3VWVrYkdiRTJFWEFnTHkzUEtZbWctWUtDbGhYbnF2SWpQc1BzRWtvYUpULVV3N3FxdVN5MHVyOA?oc=5",
-     "r": "Gerbang Patriot"
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTd0U2ZuVkg4V2hoNzJDT0pTNjcwdFFNdHMyWm1yNFFqVlg5UTZPN0pTOW9Nc3BSTlJUMUhaM3NYUXM4dWo4T2laMXV6blN0ZGJ6Q3VPZmV0bmhJSUxnb01ybVBGejZLYjJhV0E5SU1Kdkt4VFY4cWJsc1k2LW9tcEFZVXFkSXRLQ0N4YW5WRmVoQndlS0haTXJWcEpfVXFFSHA4bHB6MkxWVHBGa1VzZA?oc=5",
+     "r": "deJurnal.com"
     },
     {
-     "t": "Bukan di GBLA, Persib Ajukan Stadion Si Jalak Harupat untuk Lawan Melbourne Victory - JPNN.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelQzaU5hR2ZaNDVMeEI0dldpY2ozdWdDRVdXdWpWRzNrb3drWVB1Wkh1UmEwc2JGRGtoUW0tYXc5ZzNBazJmZUJOQ0hZUVBWc3gwR2JCVURKdERudGVrZVpZTWlvYWtlTlFvWW9GMHhvbm5vc3U1M2MtZG9zb2lreWZ4Qm1Ja0czQUVsYmwyQk0yN3piTXVlUmwwNHhiZ2twUm85RVppS3F0V3ZYRnluZEJQQlBiSkowQUw4cg?oc=5",
-     "r": "JPNN.com"
+     "t": "SD Bojong Asih Dayeuhkolot Kerap Terendam Banjir, Bupati Bandung Usul Relokasi Sekolah - Satumedia.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2dTVEdUc3ZiR0FvVmpLWFhwQ043cTJhS1JQemo4QkU4WmhlZUVQVHRCS3lhZFNyNGlqSU9RMzhDMDl4aV9GX3NxMGhydkNsOWtmMnhIMlFJRFZrNWZjelJScEZwdXVEOXdtSzI5ckUtUFhZZjNjWUl1dzY5VWhVU1N3RDkxb1dGT0drYU9PLWo5NC1IakQwc1B3d21JUXVaWE5ob25neURMUWZPOE03dmtGTUp5MWJGUDkzVzNrSQ?oc=5",
+     "r": "Satumedia.id"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     19,
-     20,
-     3
+     18,
+     22,
+     4
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      1,
      0,
      0,
-     15,
-     4
+     13,
+     5
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     2
+     3
     ]
    }
   },
@@ -187,8 +187,8 @@
     ],
     "w": [
      12,
-     11,
-     6
+     10,
+     5
     ]
    },
    "trend": {
@@ -215,7 +215,7 @@
      0,
      0,
      0,
-     4,
+     3,
      2,
      0
     ]
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Viral Getok Harga Cuanki Rp50 Ribu di Gasibu Bandung, Wali Kota Farhan Minta Pedagang Jaga Etika - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSlVlcDg4Qm1JN3NfY3JrSjlSU1A3TWkwZVFaY3c2NWlhcjZ0TzFld2I3TTlfeEl2Sm83ZWY2VEVLUXZyU1hHa1BzRnBpcGpzQVpTSWl3ODRmY3gyd1BDNW9nZHZuN1pneXk2WkVXaHB3TDZnMGhUazZ2TTlVSlNrT3p4Nl9INTRjWmZZbWlRd3FXTDBkR0x6WkpKa1lpMmFJWUR4X1RsNzlkTHEzZVl6ZVgtTHNqXzRjTFYwdEpWbUVsR0w5SEdEdjJROVdrcDVqMW5pcFphYmd5MklfanlJ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFjYk5aZjgwRVUtU2FjN1EwMFM2R3JxdnVkUERSUkpuRTE3ODNaNjFRaUFGYUp4SGZkdGFQMFlrRGZhMHRfSVAzVnFPaUd2MUR5b1RvY2g2S09SNEw2Sy10MjIyVmVlU3hKbHZhMG9CeWRDVXBvaHRPU3JMMGxraWcxV1VDLXA4eTFEMTdXLUVUMXVTU19ZY3BNNkZHbFdHdGtTOENIc2tjNzRLdGlxcWhNdFpwVE1vQTF4blVfalozYW9kNWFhbTk0MXU2a0ZFQVoxRXZnY3d2UDFm0gHiAUFVX3lxTE01WERHZjNWQ0YtZ0wyRDNJV3haZHFtQjVmRE5mRWVXcmtFdWp2TldVTlBsZmY5TU1vR3RtSl9RTmNuVTUzbi1aNjVZTFlSTllmbTg4TVJCRGFndDFYcXdRWlhRM3d1SF9nZnpIb1dIc185UHFGNFplTU9GRzVDa0dUZUJzZm1nOGRYZDNwZnhLakdfY003bVV5ZzlBTTlIX0NQOXI2aUxjX0NPQUtFMVZyTVFPXzRucFJjVzlEXzA3ZFE0bDZ3WEJyVERabjQyOGNzNkx4WU5vSDlabGYyeGpRV2c?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVNkSy1iRlpOX0hCNWNqN1RLZFVjU1lITFVQVFVjYlljWmNGSjlCaDVxY2pYWWdWSjlDNThfV2E4ZEtzWnlQRUxkbW02NGdOeHNwaGgtVjc2YXdEc2ZpM3VvbC1sR0JZaFVxazhDYVM1cHI4TjlZSlBZRFZzRENHTzdla2NKWS1XQ3kyNS1HaDc3TUNuTnhQOWFRQXlxeHgtV2NTbXdVaU0yam9WdTFza0djcjlCRE9aWF9DMWhWaFpQcWI2WW9DY0VqSl9vUVNxdnk0NEYyaTczYXRm0gHcAUFVX3lxTE1hU2RLLWJGWk5fSEI1Y2o3VEtkVWNTWUhMVVBUVWNiWWNaY0ZKOUJoNXFjalhZZ1ZKOUM1OF9XYThkS3NaeVBFTGRtbTY0Z054c3BoaC1WNzZhd0RzZmkzdW9sLWxHQlloVXFrOENhUzVwcjhOOVlKUFlEVnNEQ0dPN2VrY0pZLVdDeTI1LUdoNzdNQ25OeFA5YVFBeXF4eC1XY1Ntd1VpTTJqb1Z1MXNrR2NyOUJET1pYX0MxaFZoWlBxYjZZb0NjRWpKX29RU3F2eTQ0RjJpNzNhdGY?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Foto : Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnJxR0IxU0pwOWMtNy1RQkpkTWRIUTFtVGFTdUwweUREbG9rcjZrT2lvR3A1SHh6dzhHNnFGbzVNWXhZcmlTMS1ORFdQSV90VWZQQlJ0TnQ5eFgxZjhDVUhYeGNSWk04Si0xZndLR2lvX0lNR1U5QW8wWERvaEZnZy0zaS1OemJjUXZvUE84QjJuTEREV0w3bXAxWmRLNEcwc3pyVVNjT1V0RFd5ZFJYT0ZBbkJVbHdHVWs3ckdmWXpVaFo0VWZNX2lBUE53UUZwY2c?oc=5",
-     "r": "Kompas.com"
     }
    ],
    "v": {
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     3,
-     17,
-     3
+     2,
+     19,
+     2
     ]
    },
    "trend": {
@@ -274,7 +274,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      2,
@@ -282,7 +282,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -307,16 +307,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFNcXVJd0FoTjk1OHU0cC1GMHMzSTlkYkFEZExVaVYzNV94amdJVW5FSC1valdVS0dTdkpXSHlOTFpsRGUxakU5QzU1Skpud05SQlo3Z3FWYXU1dS1wdjVQM1ZnVlJablFIZklXek4xSXpCRTRhZ0lXMzdGdlMzQmVxMktMeWNTWkpUTzVuaTVna3JzSWppdkxYQjlpU3g4VlNMTWJhM3NqNVdSZEN6c09ubm45SDRfTXMxMFpiTzVrLUxnUGpUN25DaExxOEpmXzR1c1pVUXptUlNIMUJaQ2pJOUc?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Nyali 21 Preman Berkedok 'Kang Parkir' di Bandung Ciut Digulung Polisi - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLdIByAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLQ?oc=5",
      "r": "detikcom"
+    },
+    {
+     "t": "Curi Bawang Merah di Gudang Tiga Pelaku Diciduk Polisi - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29HdXBfZngwM05fcUhBQy0wd0NfUG05WHN4b1phRXpELWVUWjZkWVMxNlRVN3I5VkVOdFRJclpDOFEwU0NTS1RoSlFMS3Q3MEhVX0NyZG0wamo4WXhMR2pqYkhOdnhUYTBZbDRmbjhGWFctdEoycmVGZDRZMm5hT3FnWmZSalNCb05kUS1neUp1cFNkejc0NXVPXzhFU2RTUnRiM0hIVVJ4NzQ?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     19,
-     20
+     21,
+     18
     ]
    },
    "trend": {
@@ -364,12 +364,12 @@
     ],
     "g": [
      0,
-     0,
+     1,
      1,
      9,
-     7,
+     5,
      2,
-     3
+     2
     ]
    }
   },
@@ -420,9 +420,9 @@
      1
     ],
     "w": [
-     4,
+     5,
      9,
-     7
+     6
     ]
    },
    "trend": {
@@ -441,13 +441,13 @@
      0,
      2,
      0,
-     3,
+     4,
      0
     ],
     "g": [
      1,
      0,
-     2,
+     1,
      1,
      0,
      0,
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Sumur Bor TMMD Kodim 0622 Permudah Akses Air Bersih bagi 60 KK dan Siswa SDN Cikole - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnFtbHhXUUpNcW1SRjFuaEhJNkdLcXhFMGVLV0RoWFlNcWU1Um5OSC05eWpfT1dCMkRFbzRva3B5Y2NzMlZHaDRHUkdNUjUwZXZkX0Y0dGEzS0F6UTU5NzhxSTRaaFpWeldLX0I2X1M0b3NNRF9mSm5HR09wRGowQmljMDhwTHdLZXZ1WG1NMVNaLUVyYmZCZ1JaaEV2Vm4tVTB5X3FsSXRlSktpSFJzWEk3emd1dVd2aGZGNzdZa2JzT0Zm?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Anak di Cicalengka Dibunuh Ayah karena Seragam Sekolah, Psikolog Jelaskan Faktor Pemicu Kekerasan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN19zYnIyN3hIOUFsVjZoSnFjUXY0LTdTUldkcjZIYkU0a1FCM0YwdGRTODVyWkdNWjdTR21FaTB4VDR3eThmX2s5Ulo3Vk1HSnZyOVU3VDJJNkZ4ZHBtMzJCVFJHZnNYNXk4S2tFTXRoYlN2SkY2d0pwMnBJZTZzd3doeHJTTG9EZ2RNd0lEd2NLLW5udndiSFhUcEQtZjRXRmVSMW8yN3hWbFkzeHlHRVJyMDB6bXFJMGJwOGxEWW1BckVNSzdmZENqbVlZQnBsbTE4LXFDZ29aN1pjNUJJVg?oc=5",
@@ -474,12 +480,6 @@
      "t": "Portal Belajar Digital Diluncurkan di Bandung, Bantu Guru Deteksi Dini Anak Disleksia - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcDcwcEkyMk5FT0NHME1EVER5NmZJeVRTcWtQYWlvR25KeE1Wc0x1QW4tV1I3RUtmWlhwNWo5Z2o2QkpDZnQ4ZlJxTTJrOF9kS1RFRzB1ZEFIZ0lSRlRmeWdxekkwamJnMHJGR1ZDOGVPaGJNY1AxU3N0VUsxMkJhbTNqWTNTWk9RSnZiZWVzZDg4WUxfbFBQUXZPbWE0YkN2VnJpYnY3OGRzMXVMSUFTclRQdHhTNlRCdGJrbmJaY2V6M29rblY5TlBvZEtNRWZv?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Tragedi Cicalengka: Tanya Seragam Sekolah ke Orang Tua, Anak SMK Meninggal Dianiaya Ayah - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUy1lWlU5YmZ2Mlo3X3FpRzJfT1hmakhGZUxya041ZXBaOS02MmtZU3NlMlZNUFhiWWJObXJSNzlzZnVtd1BXYnM4VEZabWFDWjhCWVhtUVhzd3lyWDBzSUZTOS1QT0VEWEUxQWk4dDVHbFczSHRVTTBYbDdYaGV1dWd1a2FPajBmd3FyLXZHZE5ISVNqVlZKeVhTSnZ1Rnpkal9qYTE5Tm83aWRpMkp0X05Ybkhja3ZsOVNTMFlDZmZsVXctclpMS3FvSjRyRklBaTBj?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     15,
+     16,
      5
     ]
    },

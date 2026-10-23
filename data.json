@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:21:35.070850+07:00",
+ "updated": "2026-10-23T12:20:47.164266+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   29
   ],
   [
    "RRI.co.id",
-   21
+   17
   ],
   [
    "Ayo Bandung",
@@ -23,16 +23,24 @@
    15
   ],
   [
-   "Jurnal Soreang",
-   8
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Jurnal Soreang",
    6
   ],
   [
    "jabarekspres.com",
    6
+  ],
+  [
+   "detikcom",
+   6
+  ],
+  [
+   "Inilahkoran.id",
+   5
   ],
   [
    "Radar Bandung",
@@ -43,15 +51,7 @@
    5
   ],
   [
-   "detikcom",
-   5
-  ],
-  [
    "Pikiran Rakyat Koran",
-   4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "PPID Kab. Bandung",
    4
   ],
   [
-   "PPID Kab. Bandung",
+   "Radio PRFM",
    4
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Banjir Terus Berulang di Jadek Kopo, Pemkab Bandung Siapkan Banjir Kanal Cikahiyangan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGUxNXpOc2N1cTNBRUhiU29Sbk9Ka0tFeVUyT29hSEZlRW5WOWtqZS02T1JlZFpmaGNENV9rbWs3LWJabUFKdEhEVWVaUUVfSzZ2T25BcUlScjJFeXZUSnlSTS0yX3lhYUZNcVlmS1JaMGFQb1piV2Fkc3BYUXRTVi0wdUlmU1ZPTDBUa25YQk5pRllaUlYzS3MwaXJheERxVEdqdENJdzViSk81ZHBjWm1CMzhzTXRkX05tN1Z6WmlINzVPc3A3aEplZUVTUkVCczg0dW5B?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Satgas Pajak Daerah Kabupaten Bandung Perkuat Kepatuhan Wajib Pajak Demi Peningkatan Pendapatan Daerah - Teropong Indonesia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmdpOWJ1Z0JER3FBWEg4TU1vSThhWXY4eklxdGpoZ1RkLUtqZlJERnJXb2hxR0M1em1hQkJaNElnUDRqTl82eF9Kd25zRi13dnJHb0dWU0w4S2VRZGprS280UVRORXczaURxYTdPUUszTGNKQ0RfcTAzczBCVmNrMTlFcER5UUtOUnlwRjNYc3dabGN1RHByLWp4blpkdXQ2S3Ria29mQlV1N1NIYVBaanYxNmZaazQ0bExDbGNkWjRQWE80cTZ2bWpZMzZXZlo1dHhHb09JWDVoWEJONVFzX1ZIMDhhSkU?oc=5",
      "r": "Teropong Indonesia News"
     },
     {
-     "t": "Pemkab Bandung siapkan stadion Si Jalak Harupat untuk dua laga kandang Persib - ANTARA News Megapolitan",
+     "t": "Persib Bandung Hadapi Melbourne Victory di Stadion Si Jalak Harupat - MerahPutih",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDczd0Y2V1V1R001cTExeHB4ai1pV25Uc3JqUmhpSTVjWnowTXdkVnljRTZBRlRLRGV3a0J2bGFfR3NNZ2FrY3ZLbG0xVU94dWk5aUoyNWtKSDBOUHdIcFlOenJaRjJNdEhla25UVDJqNm5xeHBQUGtQY3lULW8wWkwxVTZCRUtuS3hSMEN1LUg5ZmxSRmFqcXpVMTVPM0VkX0dSZXhJQ2lWbm00TkRzdXBRSmlIS0ZEUzgzdS1GYl9tQjhi0gHKAUFVX3lxTE1HelVkTHB5dV91djhoVjVkVXRtSDZtTTFVOFg2cVhoX3dzVU9TYUVULUFqLWtHN19kS0JPVE1VT3ZHNnhnX0VZNjQtcXlLUElwYkZRN3k0cDdFc1B5ZVA4cXlaOHg4TkM1V0F1TThrUHo5RkVtdEw4VmpZaUhaMVNVUmY5V0FnWE9IM1lKbmhoM3B4LVlBY3F2ZXc4b1JyWHNFY1hteXdlaHhsbzBrNWs5WUlWVWV1THlfN0dacElueUNVWC1BRUVYT0E?oc=5",
-     "r": "ANTARA News Megapolitan"
-    },
-    {
-     "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVhYY1RuTE5XZkdUTlZaWEk4SlNrNW1uUU1xTE5lWHpVcnk1ODk1RTdwZkw1V3BmbS1fVTh3M3FMQi1tZk1qaGlhYWVRWTF3dGFqeVBockhZOXZaN1BtekNxTXZya1VxczVlbVVhd1FLRHhFSmZXekJqeF9CemdUaHUzSHJvdzlBd1RHbmR1YWZjeVo2WTN5djg3dFpfa2pwR1pPcEFn0gGmAUFVX3lxTE8tWFhjVG5MTldmR1ROVlpYSThKU2s1bW5RTXFMTmVYelVyeTU4OTVFN3BmTDVXcGZtLV9VOHczcUxCLW1mTWpoaWFhZVFZMXd0YWp5UGhySFk5dlo3UG16Q3FNdnJrVXFzNWVtVWF3UUtEeEVKZld6Qmp4X0J6Z1RodTNIcm93OUF3VEduZHVhZmN5WjZZM3l2ODd0Wl9ranBHWk9wQWc?oc=5",
+     "r": "MerahPutih"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -117,8 +117,8 @@
     ],
     "w": [
      20,
-     22,
-     1
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     3,
-     15,
+     2,
+     16,
      2
     ],
     "g": [
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     0
+     1
     ]
    }
   },
@@ -167,16 +167,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
-     "r": "Disway"
-    },
-    {
      "t": "Hari Santri Nasional, DPRD Kabupaten Bandung Dukung Pendidikan Agama Hingga Pengembangan Pesantren - radarjabar.disway.id - Disway",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGw0TEpzeVU2bEtEV3R5d0hFUDdBemI4Z3NBNWZzWFVNVDhZdDg5V3RMWjdlUlRsRlBfcVhiRFFkVDVaNXplRC1DN3Nack1mUTVFd2N4SjFJdEVISG42WjhBZFdYSUpKUGZwWHRHTlh0RWVEVG5nWGRKWWM1TU5SVTM1VTZDRzZkdWhoaUZRMWZvV1BHaXV0bG1zZHRiWjBEY1hiZW1XUEVIa2Z1dXhSUnMwc3p4c2ZHVmtSdGVqQUVjV2I5eHM1elF4M1RQZzFXOUEzUkN3SU92LXotNnRqOTFSNNIB0wFBVV95cUxOc0FhS29tUFdfeXliOUctazlCNlVjQ3RXM0RhUVdmQXF5U2N4cWtFbWNqNVoyNy13bzZaUm1hZVJpZzV5Q0l1cXU1ZC0zSmtrMWd3dHdnUWdFMDJ1c3MzMzQxdXZUUjJUTUtFSGhWeVotREhyeWZ0NXRpaGVaSmZFT0FrTjllQ3hWbl95bU9UaG81ZnpEdnhEU01HSWt5VDJ1S05MVktpRHFsNmMtMG1rRVdNWGM2V3pRaUd0UDhSMW0wbTFjSzhvRWhnRjQ2aE54Tm5J?oc=5",
      "r": "Disway"
+    },
+    {
+     "t": "Ketua DPRD Kabupaten Bandung Tegaskan Dukungan untuk Pesantren dan Pemberdayaan Santri - Fokus Satu - Fokus Satu",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1FiMG5GYmMyTEVWY2drSWdpek1EanBSS0VBWkNQX0k5TThxanNpMFA0S0RFR203M3l0ZWJCS1FMYUk5dTlGWEJ5VDY5dU5xMjF2TmpESFJBVjhodElOQWsyZDNGODlVQm5yQWRUV1Bucl84YlplVC1xZXRuTllIM2xWODZuNUhTQU80dFJ4Z2lDWUhDa0wtUWxYZmNVOWp0QTFTbnQxUTJ1V3p5N041VnVHbXZzaVB0TUtjWE9RbHh2UVBVNnfSAcsBQVVfeXFMT1JtWWk3ZGl6aXV5NzRWU0tmeGVzdlRuSWFPSV9pT1NXT1RNUWh5UnJwSVI2SDV2MHM4TFRCY2lfTy1yTm9XV2pLcXQyZXdJajg4b240MVBFNWtadVlxSEg5SURvNUtwdkxyaHpiN1cyRDRjR2FfWDIwN2pqMjFOUXotVm5KWU9FMC1RU1VlZTZ2ZzBQNzF4Sjc0U1ZXR2dQZDVDcFNsdy0zdi1hcHZ3a1U0cnBKMGRPSmFFQmJfVlhXRm9LNUVaZTZrYms?oc=5",
+     "r": "Fokus Satu"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     10,
+     8,
      6
     ]
    },
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     19,
+     18,
      3
     ]
    },
@@ -313,10 +313,10 @@
      "r": "Desk Jabar"
     },
     {
-     "t": "Kantor Pertanahan Kabupaten Bandung Masuk Radar Ombudsman RI, Rawan Terjadi Korupsi - Pikiran-Rakyat.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNektfSzFad0tVeldyLWRET0o4TTZkd0NDUmo0UVI0TU1tNVUxSlZLc2o3dF9SNnVjdVZjemdyNWNCRFdZVFZkZHRpbjBMM2RzeVhxdUR1cEJ1Q3BnbXdrM3lWMVlUcWpnMmFMWWM5bVFXT2FfMjR1cUJqQ0lyLV8xendhVXdZQ29EUG90aHV1bTY0V0d2andmOVI1d3Y2ZHF5bnV1a3VLSG9DRy1YY0h3cC1hTU9LRmYybkg5eDZXbWJNUlBPbzJDbVJQenPSAdIBQVVfeXFMTWY4TzZsMElvR0NoT3BDb0dGUFNncHBxTS1vRzJUczBQai1GS0JGWGVuM0l5aGMwUlRDbnQ0NzREdEZET0tWdnY0dHpvNk9kd1RiQmlVVXFrYnBFRVpCT2tPYmFOSm9jMzIxWjhBdXUtVXBHeFctTFJrSWlhbW9UMEFWS0RtUFVFRkpVV3FfMVhVdHFUMm5hMWNlekNsSmNfek9Ham5XZi04WWc3aTgxSGozNmNzaEhhSXZBZDd6a2JqY1ZSdVZ0QVhfT0lEaUZDd0tn?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Lansia Jadi Korban Jambret di Taman Kopo Indah, Polisi Buru Pelaku - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORE9PMS1LMlgwTzF5Zk9UNGFISWtXY1BlWGlrelJhaUpDY2c1Z1FZMldOYVY0M0lHSG9LajlhVU41WG5uOUJSd2lkTWF4alBDN2c1MjRmNTkxa1VVZTlLQ0JPM2NNdHdNM1N1OTh6c096NGtDYTh3cmxzX3lkT3dZdm9MTmp5ZFdveUR6S3JRM0RpU0dLTXpUb01BQi1NeFdxVmdqTlpnS0JhMExHUnpaT3dTbTl6amZKQ1V3UXdRS1NTbk9tb2RZ0gHMAUFVX3lxTE1ZcWFWZ1k0QVVLZ29WUWlEREkwZHRpZHM1Q0t1U2N5ZWhZeUNzbk1KOWZIQnJPcVl6OVRNS2ZUbnNOb0xoeHZIZ0k0eVNHS2I1RE1tTVFrc1I4SVdqMWNTc040Xzk5ZjVKUjZvTERYaFhyWUZ2VUVEV2xUSlNWSF9mVHVPa01jYmphbnB6WjZqUjNsTFZlZ1IxSS1xbEpLMlR4OGRUaWEtX2o4MG1pN0ZBYlVyZDhmUEpFbi1rWGM0d2tFbFFxcngwLXFKVQ?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,7 +339,7 @@
     ],
     "w": [
      1,
-     21,
+     22,
      19
     ]
    },
@@ -383,22 +383,22 @@
    ],
    "h": [
     {
+     "t": "Banjir Terus Berulang di Jadek Kopo, Pemkab Bandung Siapkan Banjir Kanal Cikahiyangan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGUxNXpOc2N1cTNBRUhiU29Sbk9Ka0tFeVUyT29hSEZlRW5WOWtqZS02T1JlZFpmaGNENV9rbWs3LWJabUFKdEhEVWVaUUVfSzZ2T25BcUlScjJFeXZUSnlSTS0yX3lhYUZNcVlmS1JaMGFQb1piV2Fkc3BYUXRTVi0wdUlmU1ZPTDBUa25YQk5pRllaUlYzS3MwaXJheERxVEdqdENJdzViSk81ZHBjWm1CMzhzTXRkX05tN1Z6WmlINzVPc3A3aEplZUVTUkVCczg0dW5B?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Siap-siap Bandung Berpotensi Macet Akhir Pekan Ini 24–25 Oktober 2026, Cek 6 Agendanya - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamRhSjZSUFBFWmNha0N2NC03ODJYeW1DTUJET3JSNTNYVFN0WXMtUkpRNDJNMHRPRWkwTDVuU2NpVDE0OG1DRHU4d01UMWhrRUM4Z2QyZVVZRkFibTRWVHBneDIyOUVrY0hxVVBOal9VVnd0bjNaQkVicVhQc04teDhTLWhqMVBsbHJmQy1WTjN5eTNDNG1NOHBFcUhlcnBFbEZ0MWI4YVcxR2R6OTRrUlA0SzZhZzVsQVVieklpQ3ZOYURCS1JZdTQ2OG5KcURiN2c?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNfMUZDTkVTNTc3U1Y4T0VjTTBkU1JXeVBQZUF3TElzSVdfNlJGMlBULWY5cUVVbzdHaVJGZzU3Z0tqNDZFMHdrTnczMGl5bjFKVnhPNkJzYlo0UVpTcF8yLTUwWWExWWFmY1JPZEstZkdxdG5sRldyU3JlbmwzYmx3bVM1US1yNzJOYjk0TUpMRHJxTU5UZ3FubWJUdERyVEpYUkhvQS1fOFAyZ0wwb0ZBaGlXYndHLVk5Y2stS0hxLWQxNHdKU0R4TUdhZUwtcWhZN0JKWjQxOUZ0Wnc?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Telan Rp15,2 Miliar, Jalan Cibeber-Sukahaji Sepanjang 2,4 Km Akhirnya Tuntas - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "Itenas Bandung Jadi Tuan Rumah KoNTekS 20, 177 Paper Bahas Inovasi Infrastruktur & Mitigasi Bencana - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVVNnVSa3YwcGZLc1dWSUZsTGpvZTBNREpvTzFNblhHOVU1eFMxNnNKYjlNaFlBaDhzRGZtUzJCcEVrdmRJajN3eUxwdDBYWEFXdHpmX2NVdk9DMjh6YVJ1bDd3cm9Oc1lrR3FyRTFiMHVOM09lVTZVa3NWMXdLdVR3ZkZyQjBEaHNVeWU4NkkxRHF4SDBUV0F2V0phZDN0Q1l6aWl1dGFEQ0F6YWUxQ0RQeWUtVGJ3b1Z5czBuazJjNjc1YXZmdzF6a1BKdHhMQnR3bU1JdXB1aG84Q1gzWg?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -422,7 +422,7 @@
     "w": [
      4,
      7,
-     5
+     6
     ]
    },
    "trend": {
@@ -448,10 +448,10 @@
      2,
      0,
      2,
-     2,
+     1,
      0,
      0,
-     0
+     2
     ]
    }
   },
@@ -472,14 +472,14 @@
     },
     {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker untuk Perluas Akses Pendidikan - Zona Priangan",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzNRV1g2R2V5WkJBa0VjWW5UX1U4ZktJLUd3SjJjcUhQeUsxNm1lQk5MV2pYV1I2OGVoWWh5a3d4MW9UdkNIMFFzallBNUZpVGh1azJNc3RzMEd6VlNOeXRwVzFBMjFoOEdySHlteXJSQ21TOUV5YlpPQnlRMWdublJwNHpLQUNKUU5nMm02MTl5UGpnZnBYc3A1TGVfeE1LUm5WelpCM1lXWmM0OHRPYURPTGRDWkVCV2paZkFoVldUQWRvck01WjJlTTBZazNmLTQyaHR6OFJObnhUbFQtc1FSVHZ2RGd6ZVHSAe8BQVVfeXFMTUFTcFE5b0xuN1VkejU1eHFpZmhKOFdWaWEwZUx6Z1ZUOGJNSzFRaUQtU1BoeUNDUXNsTjFyb2sxSTJwR1p3Y3dzUVhqeDc2NWNSQ2ItNl9udGtGVW92NnQtSHNWZWNUUFRPY3NXQWg4bkNSYnR1ZERxNWQwZUJQelRZT3pINlYtWUd5R0d2S3dlUDNERVZsN2pNdDJCSmVRYW5RTFplR2Fua0o5SGhEdXRTS191TmpiLTNHX2JlMHZBUHpfb0gwaUI3a0s4U2FlMlloVlRLYUhFR1RBUkVnNTRWN1FJT2xILWhRazJEX3c?oc=5",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfd9IB7wFBVV95cUxNQVNwUTlvTG43VWR6NTV4cWlmaEo4V1ZpYTBlTHpnVlQ4Yk1LMVFpRC1TUGh5Q0NRc2xOMXJvazFJMnBHWndjd3NRWGp4NzY1Y1JDYi02X250a0ZVb3Y2dC1Ic1ZlY1RQVE9jc1dBaDhuQ1JidHVkRHE1ZDBlQlB6VFlPekg2Vi1ZR3lHR3ZLd2VQM0RFVmw3ak10MkJKZVFhblFMWmVHYW5rSjlIaER1dFNLX3VOamItM0dfYmUwdkFQel9vSDBpQjdrSzhTYWUyWWhWVEthSEVHVEFSRWc1NFY3UUlPbEgtaFFrMkRfdw?oc=5",
      "r": "Zona Priangan"
     },
     {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker, Bangun Sekolah Inklusif di Kabupaten Bandung - jabarekspres.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVo4WHpNY2NQSXpod1N6Smx6Q2pTLUtvOTdFMnA0ZW9wWk9CZmw1TFFzSzdoYmdMY1RZZ3ZUUTdkMWFnN2Z1Y1JiUlY2Y1ZhRlZZeVZIaU9tbVE4akF3OVZBLVNHZl8xRGZTMnNEVzdUWkRKM2hyemtZY3RRamlPbGtPaU1QS0V4Vjh4ZmdhOTRSMEpfVEMxeFQ3Z3hNRDkyTEo1UmlRU2pGa1NmR1p6RXNxWmwzVnphNzVPUjVhckV2QmlUUTNzVFBPS1VMSHpaMUVjZlJ6MXN1ZW5lQlE1Zw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREZmRV80T2JYdTNndjJCbzJEeHZCNVhISEZDOERQRUl0WWFxVGFMX29acnNTbkFKOTc4a1FsTy1lMlRNUVNrY2J3OVV5clJ3NGJPNWdFaC1Tb3BiN2RWRFhvU2NGUXhKUE9aamQzdjNkaXhWT3RFZFcwdTlQZ1drU25zTTJ5dF81bnVjNkxyYmNUcTBiUl9RYnlnMlNRVWNHVDZmQXVZcldwaU54TE00Ni14dGE2VGpiM2phMkdhRDFYQ2ZiTnROLVlCUmJ5bzJCa1dDOVM2ZEMxX3E2eXBxR1dhTQ?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     21,
+     17,
      6
     ]
    },
@@ -522,8 +522,8 @@
      0,
      0,
      1,
-     2,
-     3,
+     1,
+     4,
      0
     ],
     "g": [

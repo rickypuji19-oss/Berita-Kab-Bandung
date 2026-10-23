@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:18:17.498531+07:00",
+ "updated": "2026-10-23T08:31:10.266548+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,11 +16,15 @@
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Kompas.com",
-   12
+   13
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
    "Jurnal Soreang",
@@ -31,27 +35,19 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
+   "detikcom",
    6
   ],
   [
-   "detikcom",
-   6
+   "Radar Bandung",
+   5
   ],
   [
    "Satumedia.id",
    5
   ],
   [
-   "Radio PRFM",
-   5
-  ],
-  [
    "Pikiran Rakyat Koran",
-   4
-  ],
-  [
-   "Radar Bandung",
    4
   ],
   [
@@ -63,7 +59,11 @@
    4
   ],
   [
-   "Disway",
+   "Inilahkoran.id",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
    4
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFl2T0R1ZDhKREVwYk1nWXBZaVZOVmRQRGpRaHkyb3VtTWYyRkZQalhOZG9raTExQjcyZ1RncW00a0FUS0Rrd2dQUV81dlhrLVk0ZkFFcURIdUVYR2JxV0ZacHBCdl9mQXJ4VG9lOUpKZENuN0pxMm92WGhfNk9yc1UtVU9BeTVJRU1OdFlxbUJWaGZuMEQ2S0ZyUEpya1B5Z0tKTDJBRjhTMll0SFFkX9IBsAFBVV95cUxORFl2T0R1ZDhKREVwYk1nWXBZaVZOVmRQRGpRaHkyb3VtTWYyRkZQalhOZG9raTExQjcyZ1RncW00a0FUS0Rrd2dQUV81dlhrLVk0ZkFFcURIdUVYR2JxV0ZacHBCdl9mQXJ4VG9lOUpKZENuN0pxMm92WGhfNk9yc1UtVU9BeTVJRU1OdFlxbUJWaGZuMEQ2S0ZyUEpya1B5Z0tKTDJBRjhTMll0SFFkXw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Ribuan Santri Jawa Barat Peringati Hari Santri Nasional 2026 - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlVsbTYwb0pyZHJnR1ZvSUhXZGxJY1A4Rlo4X1lhV1dkaTZsY0dEVkF1V3ZkTlRUakxaUy0ybVZpVjFQdVNUbEtSRG1WeHl0VTFZLUxkSHRBd01rcmdsVjBjR3Q1eGdIVDFMQVBMOXpBYVVWX0FQSjdkWTVtbmlSRzd1WEcyYUV0d1FrU0d1Sm9DSlBSdGtDMW9RR1hNWEJYeEhTTmtWdXM5Z2hITGYyZzFXNA?oc=5",
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Hari Santri 2026: Dadang Supriatna Dorong 160.000 Santri Berani Bersaing - Melansir - Melansir",
+     "t": "Persib Ajukan Si Jalak Harupat untuk Hadapi Melbourne Victory dan Isenmulang - WestJavaToday.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUsyNmVDX2RYS1RYV2FoRmFvRUtTR2lXSzBMZDZfY0JNWExCNFNzNEpXX0xDZlhUQTliQUVwa0hpclVCS0NUNFFRSTZhRDFvRGhLMUgtVXhOSk9IQV9mTGVJMEl4b3paa3ZEREk0cFhEODh2V2U5UGF3RHlwenBtQXVDd1I4OUhXSDRzM2NVUUFFYkZlQ2RpaWtvSFVTUndueUVPbnl2dGg3QkNiQmd0ZERn0gG3AUFVX3lxTE44VF90bW5jUkpjM0lJSmlFLTYzbHJLVVBTT2FzbWk3ZlYxaWFiUlkxT1R5djJSWHRxcldVM2xoN0ItMlgwcHhRZGdHc0V5MVRyM29WVDk1SVd5OE9jSEdlN2N2cTNPUlVXUWFhYVlNOXVWVFZ5WXlFOGRSUHBpN2JXZjVzNHJPdUE0LW54VnJzdXFjRjBhYWNMMzhNRk40azMtNmVxbHVhNmVBRHhjTEI4Y0paSjhpSQ?oc=5",
-     "r": "Melansir"
-    },
-    {
-     "t": "Persib Bandung Kans Kembali 'Ngandang' di Si Jalak Harupat, Ada Dua Laga Menanti - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaU9tZGZ1WHVldFU0YTQwQUlfTms1bkU2QndmNnlUTkd2MF9CdnRVeHJ4U3JRYzRaeWg4dmpCdXo3SjlxazVGSkdUZmRpdTRPWFczSUNjMjRQajByUXdXLWRrZ0luZGhKdFA0enpoVjZDcHlTOWgzSEpXamt4VUlZa1E5MW9oRVBmZmduQm5LZ19oQ1NiT1NiLVRxZzJ1dkx4STZOQXh6dWQxUEVmSFNrWkRmX0g0eGZvYWxaeHUwaUVzdw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpISXRhYTBpeTlTdVAwQlpObDByM2lkS1N2TlpVVHZRYVdMWGV0WEo0QWhKcG95MmhrNzhaeEthX0RSMndzY21KUGNSRUo5UzNZd2w4TWxsMmFFMWtSVzRLb0dqSHlRTGMtY0VDNTY4eWdaV1YySUJqX3dOVldGeEo0bnFPRk12VWpIUXoyV2NoRXMtMzdnTERMQ2pHdFJ6bXdmaWFwZllzdw?oc=5",
+     "r": "WestJavaToday.com"
     },
     {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
+     19,
      22,
-     20,
      1
     ]
    },
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     5,
-     16,
+     3,
+     15,
      1
     ],
     "g": [
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     11,
+     12,
      9,
      6
     ]
@@ -206,7 +206,7 @@
      0,
      0,
      0,
-     5,
+     6,
      6,
      0
     ],
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnJxR0IxU0pwOWMtNy1RQkpkTWRIUTFtVGFTdUwweUREbG9rcjZrT2lvR3A1SHh6dzhHNnFGbzVNWXhZcmlTMS1ORFdQSV90VWZQQlJ0TnQ5eFgxZjhDVUhYeGNSWk04Si0xZndLR2lvX0lNR1U5QW8wWERvaEZnZy0zaS1OemJjUXZvUE84QjJuTEREV0w3bXAxWmRLNEcwc3pyVVNjT1V0RFd5ZFJYT0ZBbkJVbHdHVWs3ckdmWXpVaFo0VWZNX2lBUE53UUZwY2c?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBaMGZpbnRaZ21sTDVLa19WUTZDRkpQNTdKblZtUzROSjBQZVRZWEx4R0VXa2VlaldrX0s5Tm1XRGU2c194OU1Zd0lIU2FLOWpaSkF6eXN6U3RVYUgxZXlwMzhPUW5XUHYwYTIzWFFKbXNpeWhocmNJaFE4OE1uSm9zVERrNTZqX09SZ0NPeEVqWG1IYldjZzdVU0NreVRLaEpmYnpnb3NqVjZzZC0wb2lhY3VsTDlrX3RBUzhxc1dnNHRsV05V?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1h1Wk95andZbDBVRVFQYlJoeVVCSnNSOEVBZGY0LS1Ub1QxSXFJRzR6cU01UXkzUG5USWNrUjJGSE1XMUZDRHFSRy10MlgyR3VWV0tyMzE2Z2ZCc0xtWU9vaWQ4ajBmQjNZaktvZlpWUURqVTNRcGpxQVI5VFNqQUc4YlFMQ3UtQ25yT3BHaVRfWHMzdmpObmtXRXRldThtbHo2MVhR?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kopi Kab Bandung Tembus Pasar Ekspor, Pemkab Genjot Daya Saing Produk Lokal - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0k4UEZCM1ZUZ0RRWS0yRlQ2SnJ5Wjk0NGU4MHNNWEJ4X0w5bkgxVzVfZjVUZ09MZ0F1ZWFCQ0NZME8yVXRxUWRTODlSSHpCNDFTUlVhbTJwNHRiTUpQODJLYUYtR3hoRDlMVTJFdDVXMjN0bXlKNFF6LURDeG1va1NwTWttSnI3OFlrVXE2MnJPSnJSTmh5ZHY0bUduNkU5ckl1dkE1bjNhOEZyMDZuNm9kQm0?oc=5",
-     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     16,
+     17,
      3
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      0,
      20,
-     21
+     20
     ]
    },
    "trend": {
@@ -367,7 +367,7 @@
      1,
      1,
      9,
-     9,
+     8,
      1,
      0
     ]
@@ -504,7 +504,7 @@
     "w": [
      6,
      21,
-     7
+     6
     ]
    },
    "trend": {
@@ -528,7 +528,7 @@
     ],
     "g": [
      0,
-     2,
+     1,
      0,
      3,
      1,

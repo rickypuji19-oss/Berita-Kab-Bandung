@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:20:09.004736+07:00",
+ "updated": "2026-10-23T07:18:17.498531+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "RRI.co.id",
-   22
+   21
   ],
   [
    "Ayo Bandung",
@@ -20,7 +20,11 @@
   ],
   [
    "Kompas.com",
-   13
+   12
+  ],
+  [
+   "Jurnal Soreang",
+   6
   ],
   [
    "jabarekspres.com",
@@ -36,10 +40,6 @@
   ],
   [
    "Satumedia.id",
-   5
-  ],
-  [
-   "Jurnal Soreang",
    5
   ],
   [
@@ -63,7 +63,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "Disway",
    4
   ]
  ],
@@ -97,16 +97,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=wBOOecaiAQw",
-     "r": "YouTube Bandung Pemkab"
-    },
-    {
      "t": "Puncak Perayaan HUT PA Soreang ke-8 dan Penandatanganan MoU Bersama Pemkab Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=9KEVwQUDWmY",
      "r": "YouTube Pengadilan Agama Soreang"
+    },
+    {
+     "t": "HARI SANTRI NASIONAL (HSN) KE-11 & MTQ KE-48 Tahun 2026 Tk. Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=wBOOecaiAQw",
+     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     19,
+     22,
      20,
-     2
+     1
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     4,
-     14,
+     5,
+     16,
      1
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     0,
      1,
      0
     ]
@@ -383,12 +383,6 @@
    ],
    "h": [
     {
-     "t": "Foto : Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor Halaman 2 - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXVOZVJLZUR2LU9mNWhpNGRzQXcxWGhDczdBM20ybFVGblMyTUNrcnZyUWdWaFQyOWtRX1FiUnhYX2Vfel9NVmUyeXFjT192a05xaVNVdmRHd0pDR0twWHhZelBWWmdYb2c0SDFXdEFqZHI1d1RFeTNSczBnYmVtaDl4WldVRGw0T3VkanlvVGdFa0kzZEkxM09oZEhpVFNkd3lKaFEzbmpEMi1lcGVBVk4tMG5hYUVuRTIxdV9fTTRtTTZFZzFmLU9LUkd0U3dO?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Dulu Berjalan Satu Kilometer demi Air, Warga Rancawaas Kini Punya Sumur Bor - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNfMUZDTkVTNTc3U1Y4T0VjTTBkU1JXeVBQZUF3TElzSVdfNlJGMlBULWY5cUVVbzdHaVJGZzU3Z0tqNDZFMHdrTnczMGl5bjFKVnhPNkJzYlo0UVpTcF8yLTUwWWExWWFmY1JPZEstZkdxdG5sRldyU3JlbmwzYmx3bVM1US1yNzJOYjk0TUpMRHJxTU5UZ3FubWJUdERyVEpYUkhvQS1fOFAyZ0wwb0ZBaGlXYndHLVk5Y2stS0hxLWQxNHdKU0R4TUdhZUwtcWhZN0JKWjQxOUZ0Wnc?oc=5",
@@ -399,6 +393,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ0ZTFIVGg3VldTZmpMSjc3SzBsUmxuM0wtbk1tcmVJVWVhTlV1M3NpRjVCTmhkRDdKaUxwRGZ0LV9xaEhqbTk1aml5UVVKS3FySHlVc3ZoVl9KWENrWVVSWUtpU2JBWlBnX2ljMzVsR0F3ZlRFSEJMT2xwOXVGbFJYOUJGMjA1Mlp6VURGSG8xVXdRVTl1WVdrN0lSXzkzQmNjb2VGa1NfMDBSRDIweU5KVQ?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Itenas Bandung Jadi Tuan Rumah KoNTekS 20, 177 Paper Bahas Inovasi Infrastruktur & Mitigasi Bencana - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVVNnVSa3YwcGZLc1dWSUZsTGpvZTBNREpvTzFNblhHOVU1eFMxNnNKYjlNaFlBaDhzRGZtUzJCcEVrdmRJajN3eUxwdDBYWEFXdHpmX2NVdk9DMjh6YVJ1bDd3cm9Oc1lrR3FyRTFiMHVOM09lVTZVa3NWMXdLdVR3ZkZyQjBEaHNVeWU4NkkxRHF4SDBUV0F2V0phZDN0Q1l6aWl1dGFEQ0F6YWUxQ0RQeWUtVGJ3b1Z5czBuazJjNjc1YXZmdzF6a1BKdHhMQnR3bU1JdXB1aG84Q1gzWg?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -420,7 +420,7 @@
      1
     ],
     "w": [
-     5,
+     4,
      7,
      4
     ]
@@ -441,7 +441,7 @@
      0,
      2,
      0,
-     4,
+     3,
      0
     ],
     "g": [
@@ -479,7 +479,7 @@
     {
      "t": "Rayakan 24 Tahun, Paradise Indonesia Luncurkan Future Maker, Bangun Sekolah Inklusif di Kabupaten Bandung - jabarekspres.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVo4WHpNY2NQSXpod1N6Smx6Q2pTLUtvOTdFMnA0ZW9wWk9CZmw1TFFzSzdoYmdMY1RZZ3ZUUTdkMWFnN2Z1Y1JiUlY2Y1ZhRlZZeVZIaU9tbVE4akF3OVZBLVNHZl8xRGZTMnNEVzdUWkRKM2hyemtZY3RRamlPbGtPaU1QS0V4Vjh4ZmdhOTRSMEpfVEMxeFQ3Z3hNRDkyTEo1UmlRU2pGa1NmR1p6RXNxWmwzVnphNzVPUjVhckV2QmlUUTNzVFBPS1VMSHpaMUVjZlJ6MXN1ZW5lQlE1Zw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREZmRV80T2JYdTNndjJCbzJEeHZCNVhISEZDOERQRUl0WWFxVGFMX29acnNTbkFKOTc4a1FsTy1lMlRNUVNrY2J3OVV5clJ3NGJPNWdFaC1Tb3BiN2RWRFhvU2NGUXhKUE9aamQzdjNkaXhWT3RFZFcwdTlQZ1drU25zTTJ5dF81bnVjNkxyYmNUcTBiUl9RYnlnMlNRVWNHVDZmQXVZcldwaU54TE00Ni14dGE2VGpiM2phMkdhRDFYQ2ZiTnROLVlCUmJ5bzJCa1dDOVM2ZEMxX3E2eXBxR1dhTQ?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     22,
+     21,
      7
     ]
    },

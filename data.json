@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:24:34.716950+07:00",
+ "updated": "2026-10-23T23:26:14.580445+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,14 +8,14 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
-  ],
-  [
-   "Ayo Bandung",
-   17
+   31
   ],
   [
    "Kompas.com",
+   18
+  ],
+  [
+   "Ayo Bandung",
    16
   ],
   [
@@ -35,19 +35,23 @@
    7
   ],
   [
+   "jabarekspres.com",
+   6
+  ],
+  [
    "Satumedia.id",
    5
   ],
   [
-   "Radio PRFM",
+   "Disway",
    5
   ],
   [
-   "jabarekspres.com",
-   5
+   "Koran Gala",
+   4
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Inilahkoran.id",
    4
   ],
   [
@@ -59,12 +63,8 @@
    4
   ],
   [
-   "Disway",
-   4
-  ],
-  [
    "Jurnal Soreang",
-   3
+   4
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     15,
-     24,
-     3
+     17,
+     23,
+     4
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      1,
      0,
      0,
-     11,
-     4
+     12,
+     5
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     2
+     3
     ]
    }
   },
@@ -167,16 +167,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
-     "r": "Disway"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      12,
-     10,
-     4
+     11,
+     5
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      0,
      3,
-     1,
+     2,
      0
     ]
    }
@@ -257,8 +257,8 @@
     ],
     "w": [
      2,
-     20,
-     3
+     22,
+     2
     ]
    },
    "trend": {
@@ -282,7 +282,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -313,10 +313,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Nyali 21 Preman Berkedok 'Kang Parkir' di Bandung Ciut Digulung Polisi - detikcom",
+     "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLdIByAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLQ?oc=5",
-     "r": "detikcom"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm44dE0zeUJDYXpESVdUekpWN2dRSmhwR3FHSWE5ZDZmSEtkaFRxVktsTWp3ZXd0bFRNbVJJQUdYNTRwaXQ4OXBxeHZQVm5XT2h4czlMZERvYkF3Y1A0c1N2Y0Fhd2JSTkJ2Z1BSWVMxWGxUUUUxelJ1X2JwV2JEM1NpYUt1Q01ncUZtb1ktUGN5SjlRUkRKY0x2eTlxVzBNaHI5eXFGRXEtd0p6UHBIQkowVmtzV2RQQ3ZibXlJc05JRDhGZmc?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     19,
+     18,
      19
     ]
    },
@@ -367,9 +367,9 @@
      0,
      1,
      9,
-     6,
+     5,
      2,
-     3
+     4
     ]
    }
   },
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     9,
-     6
+     8,
+     7
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     1,
+     2,
      0,
      1,
      1,
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     17,
+     5,
+     18,
      6
     ]
    },
@@ -523,14 +523,14 @@
      0,
      1,
      1,
-     4,
+     3,
      0
     ],
     "g": [
      0,
      0,
-     0,
-     3,
+     1,
+     2,
      1,
      1,
      1

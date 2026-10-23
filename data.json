@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:23:33.951333+07:00",
+ "updated": "2026-10-23T17:21:46.212482+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,26 +8,26 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   32
   ],
   [
    "Ayo Bandung",
-   19
-  ],
-  [
-   "Kompas.com",
-   15
+   18
   ],
   [
    "RRI.co.id",
+   15
+  ],
+  [
+   "Kompas.com",
    14
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "detikcom",
+   7
   ],
   [
-   "Jurnal Soreang",
+   "ANTARA News Jawa Barat",
    6
   ],
   [
@@ -35,15 +35,15 @@
    6
   ],
   [
-   "detikcom",
-   6
-  ],
-  [
-   "Inilahkoran.id",
+   "PPID Kab. Bandung",
    5
   ],
   [
    "Radar Bandung",
+   5
+  ],
+  [
+   "Jurnal Soreang",
    5
   ],
   [
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "Inilahkoran.id",
+   4
+  ],
+  [
    "Pikiran Rakyat Koran",
    4
   ],
   [
    "Satumedia.id",
-   4
-  ],
-  [
-   "Radio PRFM",
    4
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     20,
-     20,
+     19,
+     21,
      3
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     16,
+     15,
      4
     ],
     "g": [
@@ -167,16 +167,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
      "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      12,
-     11,
-     6
+     10,
+     5
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      0,
      4,
-     2,
+     1,
      0
     ]
    }
@@ -231,10 +231,10 @@
    ],
    "h": [
     {
-     "t": "Duta Batik Jabar 2026, Momentum Lestarikan Budaya dan Perkuat Ekonomi Kreatif - RRI.co.id",
+     "t": "Kopi Asal Jabar Semakin Harum di Pasar Internasional, Harga Lelang Berpotensi Tembus 80 Dollar AS - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0huLU8xeDA0d2thYk9KdHRScG1HT2FJZ084SlltQ00xOWNLZHlyY2ZFMFhlSHJYNVJfZDMxYmx5VDlkVzB2Nm12bFBHNDBGTGlUb1ZlRFJNX1JKZzRzdXNFWktWRWJoVlNsUzlXdkVtNVhGdWJsMC1JbUg4UTllaThKNU9aWm1GVDB4bGRPRmh1WVJacW9UZTRZMzZQbnZ0WmtTYUtTWDZCRFhPQWRvb1RNYXRQVHp0?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllNUzViX3BVOFJYRW5FVjJFa0pqWDB6OWJVczRRQVp4Mm1aSkJKdnBMM2dpRjlNMEdGVW9kc1ZtUG16S0Y5cFJRV1c1ZFpOUktPT2dKaWtzbGx1OWxxOE9KcEQ5eDIzWXptbGVYckJZcWVCVlpUcWF0QWU2dFpmbjRIM0w0Y0dIa2Fxd2ZtT1l3VTkyZXZmRDV1czRndVl3Ykh0T2RLSU9JNmZ0QUdYU2pobnotWWFwYzVxZHJSRE5HQUlyVmJubll2VnhXaExRYzZ0MWVZcmtCOGwwcDk1ZA?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     19,
+     20,
      3
     ]
    },
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Nyali 21 Preman Berkedok 'Kang Parkir' di Bandung Ciut Digulung Polisi - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLdIByAFBVV95cUxOWXZVMlRoQWtNdnllUDhHNjZwZzFUdWUtU1p2cE1tby1oTktrWVRJMmtWVFJLMnVKaUVEcy1tVm02Q1dKaGd6MVFxZ0JuTS1qZEs4aWZfUlR2RWxrMXBsNHY1bk1BNVR1UE5ZaG1RdHZQWWg5SllYRi1zWURpTldmLWQ1VHh0MW5QZ2ZrdzI1aEZJVXAtRWtCdGNtemh5dEM4dUpNdjZVM0NTbTdZT3lrOFFPNlhVbGNsQTZkNE50d2pwNjhRQWNQLQ?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Curi Bawang Merah di Gudang Tiga Pelaku Diciduk Polisi - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29HdXBfZngwM05fcUhBQy0wd0NfUG05WHN4b1phRXpELWVUWjZkWVMxNlRVN3I5VkVOdFRJclpDOFEwU0NTS1RoSlFMS3Q3MEhVX0NyZG0wamo4WXhMR2pqYkhOdnhUYTBZbDRmbjhGWFctdEoycmVGZDRZMm5hT3FnWmZSalNCb05kUS1neUp1cFNkejc0NXVPXzhFU2RTUnRiM0hIVVJ4NzQ?oc=5",
@@ -311,12 +317,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak1VeFpVOERFRS1IcXR2ZURUZmlLbWVkeUJNWTZDRzNJbXowc09JMzJCU2FITnVVSWVzSFlfMmprclBNOERCdDFOakR3c3YtYmtEa09JVF9nY0NKN2VlTnpkNDljVDZFSG1pNTFqTXBFSk5TLVV6aW5TMWhlU2o5VVlTSmxoMms4Nl9ZT2ZSOFQxaEJTb19HYXYtakV2MmFxdGhMOWluN0diVzYzUnVGNHh5dFAzUXRpTWswQVJsTlJCUQ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Kerugian Negara Rp128,52 Miliar, Jaksa Kejari Kabupaten Bandung Tuntut Castam 18 Tahun, Yanuar 16 Tahun - Desk Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkRtTUJWZUNpdjVSSGNLdDNUYlU2and0S2w2UmtEUmR2WGMxLTQ5alA0Uy1sV05PMlpyUUlGai01S0o4UzdXcm96RGJEd0YwNk1UQ08tSzJXSFpQbzlsUUVLdDJOMkRMM256VTlmRFpCXzZHYS1Kb2JMdzdFLXdRWUhIb1ViUTI3YnZrd0ZIWWV5d29iRmZ6bXAwWlUxdWdGSHFXbVY0Yy12Q0hKc2NmUFNWaTR3Z3NkTzlmc3MwSWpFRVNDb0haWEx5QjZleXJvU1N5ZDRibnZuZ2NuWHA5TDZYT2NyR1Q3SFV0TFVoUdIB9AFBVV95cUxQOTRibkJrcnJJeDBaalBlRFlYeU9janVrMXZGaHEta3lYQndaelo3NEZmQ0J1eUltQXBUdW53SGY2clZOVHF6UGwxUGFFRVhLLUpIWGpGVGZZLWJ2UXk1UnM0NnZkaWtRaW84dUJndXRSYks0QXJXVVVRMFJXeVk4ay1fTVZXWXg1RXZQRmdkRHFxNHRMZTd1MVd2ckJoQWN0a3NOM0I5b3dvSWY5ZVlrblZYc3EzN3pNVHhoRzNJNEV3bE1kd1J0X1MxUC1vZHlzTW9tMGgyOEVtZ3E5bkNibFQ3RWc3anMwYjF3dXY4ckVSbjV4?oc=5",
-     "r": "Desk Jabar"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -364,12 +364,12 @@
     ],
     "g": [
      0,
-     1,
+     0,
      1,
      9,
      7,
      2,
-     1
+     2
     ]
    }
   },
@@ -389,15 +389,15 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
+     "t": "Pembangunan Halte BRT Lagi-lagi Bikin Macet, Kali Ini di Depan Pasar Baru Bandung - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkp0V3FVUHFSbUU1R19DeHFlaGt4N2ZFTXVKazNEM253RjU3OHFpYk80dlVGMER3R0d4ZGpHRnZvRFB5VGtVOTFqMGFxSVp2Nlg2eXJkUnh3a29hOEh6blNacnVpVGstYmM2dk5VUDVWRGs1Z2lkck4zY1BGSHVhRkp0YzEzVDJFYjVvYnJZYWhLQXBON05wcFpvcWJ0WFNHMXBSakFXMkZvN3pkZmI0QloxLTJZN3lDZzVkc2d2QTcyNHpkck01SDRNYw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Banjir Terus Berulang di Jadek Kopo, Pemkab Bandung Siapkan Banjir Kanal Cikahiyangan - Tribunjabar.id",
+     "t": "Waspada Bencana! Ini Daftar Wilayah di Jabar yang Dihantui Pergerakan Tanah dan Banjir November 2026 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGUxNXpOc2N1cTNBRUhiU29Sbk9Ka0tFeVUyT29hSEZlRW5WOWtqZS02T1JlZFpmaGNENV9rbWs3LWJabUFKdEhEVWVaUUVfSzZ2T25BcUlScjJFeXZUSnlSTS0yX3lhYUZNcVlmS1JaMGFQb1piV2Fkc3BYUXRTVi0wdUlmU1ZPTDBUa25YQk5pRllaUlYzS3MwaXJheERxVEdqdENJdzViSk81ZHBjWm1CMzhzTXRkX05tN1Z6WmlINzVPc3A3aEplZUVTUkVCczg0dW5B?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3l3ODJvZnZpaUtuWnltT3pvcXdDOWFjeGRyazRYRVlXX3ExVWlxamVadXE4TVlHVDZTS2R1Wk4xcW1wN01qQVpUTldvRW1ISWx6djFsZlNGYlctNG5aTC1tUWhrUlRfRXYwZWdheUVFOHZndlZfaEV5UWVtLXV4Q2lITW9tOTV2c2hReVNWOWwtU0dKdzBadFBTMHdxLWNBY2tKbnVvOE5BTHlfUXNtd1pSeHZEMVhCQV9WSWhvcmFjQ2lrNk9uVHRRTWRscEtsaEt1Z0JMQ3prSEc4YzBxWm9ldVU?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -445,13 +445,13 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
      2,
      1,
      0,
      0,
-     3
+     4
     ]
    }
   },

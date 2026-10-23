@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:34:17.008678+07:00",
+ "updated": "2026-10-23T15:24:57.762869+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,26 +8,26 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
-  ],
-  [
-   "RRI.co.id",
-   18
+   31
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Kompas.com",
-   14
+   15
   ],
   [
-   "Jurnal Soreang",
-   7
+   "RRI.co.id",
+   13
   ],
   [
    "ANTARA News Jawa Barat",
+   6
+  ],
+  [
+   "Jurnal Soreang",
    6
   ],
   [
@@ -47,23 +47,23 @@
    5
   ],
   [
+   "Disway",
+   5
+  ],
+  [
+   "Radio PRFM",
+   5
+  ],
+  [
    "Koran Gala",
    4
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Satumedia.id",
-   4
-  ],
-  [
-   "Disway",
-   4
-  ],
-  [
-   "Radio PRFM",
-   4
-  ],
-  [
-   "PPID Kab. Bandung",
    4
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Bukan di GBLA, Persib Ajukan Stadion Si Jalak Harupat untuk Lawan Melbourne Victory - JPNN.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelQzaU5hR2ZaNDVMeEI0dldpY2ozdWdDRVdXdWpWRzNrb3drWVB1Wkh1UmEwc2JGRGtoUW0tYXc5ZzNBazJmZUJOQ0hZUVBWc3gwR2JCVURKdERudGVrZVpZTWlvYWtlTlFvWW9GMHhvbm5vc3U1M2MtZG9zb2lreWZ4Qm1Ja0czQUVsYmwyQk0yN3piTXVlUmwwNHhiZ2twUm85RVppS3F0V3ZYRnluZEJQQlBiSkowQUw4cg?oc=5",
+     "r": "JPNN.com"
+    },
+    {
+     "t": "Siap-siap Bandung Macet! Ada Pawai Budaya HJKB 216, Lewati Jalan Diponegoro hingga Merdeka, Simak Rute dan Waktunya - Koran Gala - Koran Gala",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRDRFTWs0OEhIVGtReEZibTdSRl9BZFFxdUVQb3ZJNFIxZ2pWVFVlZmdCUU5aNWF2MnpiWnJqUEhBTTB5MTI5cWhmZWlLU2lacmpUV3QtWElzV0pjM3BSTEpld21JbTRqNEdMMHBKUzlLVFpHTWxPQlJLTW9zLW1ZQ0lMT0hWT1JQdndmcDRQVFFFUEtqSDVjMUZBLXNEXzZfcDR5VTVLUzd4OXh4V1hpeDFUVzNDTkVjLVlxSjNBMFB0UnJtRDJEN2ZRRlZtRVZVZmtxekVVYXJNUnlob3FWa3FOaFJlTzV4eGR30gHwAUFVX3lxTE5BZk1ycTFwS2lwT1Q0OTVyWEYxOGVsWU5hMEhoTmtLVzBHZlJnckdHMXhVellXYl9sSTdMY0xnSGpKa1U0Uk55b2Riczc1WHItQ2xrQVYyZmNCQnNob2U5VVl0QU40LS1ZR2pWOTBBVE5YVXZTcENQWnBzUTVaNlJ4RHV2VnBJLVhpQzNfZVNKbDhtRy1rQThZUHBkNnBQYndnT25qX29WYXJQUlAtUWtmZEhLa0Uxc0l3a2o3dEJNTXQ5dFd1RUlHRXVlalVIS3REcWxJcHI3YVhSMndTalNOZ1hhZUFOODB4VGtkUUI2Zg?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Banjir Terus Berulang di Jadek Kopo, Pemkab Bandung Siapkan Banjir Kanal Cikahiyangan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGUxNXpOc2N1cTNBRUhiU29Sbk9Ka0tFeVUyT29hSEZlRW5WOWtqZS02T1JlZFpmaGNENV9rbWs3LWJabUFKdEhEVWVaUUVfSzZ2T25BcUlScjJFeXZUSnlSTS0yX3lhYUZNcVlmS1JaMGFQb1piV2Fkc3BYUXRTVi0wdUlmU1ZPTDBUa25YQk5pRllaUlYzS3MwaXJheERxVEdqdENJdzViSk81ZHBjWm1CMzhzTXRkX05tN1Z6WmlINzVPc3A3aEplZUVTUkVCczg0dW5B?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kebakaran Hingga Tiga Kali, Pendakian di Kawasan Gunung Tangkuban Parahu Ditutup - Koran Gala - Koran Gala",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXNBXzBTR2Q5QjBzNkwzR2F3TEV3eldCdjVobW0yMXdKLUg0SFp4M1JxU3ZJQ3ZFVWhyeHJnUGdvM014UUJJZy14eHJFMnpmOWdvSkl3QUJVNm4zVE5hTmpYcERweXg1WE9FcHJmclRsc1Qwd243QmFhMVZwNHdRbUVDcXJueUwwbmNIcUNTM1RZWWRJcnlSNjgwQUl1TnlZMVlwaEcxVzUtRmlUNmgyR1dzU2s5YzNva2M3SXhkd9IBxAFBVV95cUxQb1FwU09lUGk2SU5JZU80S2lRYmlDdUtHOHNSaFdtZksxbWJpeUVxejFrQS1HNC00WlBlX1h6WkFpOVRrWjBLOUNROW14cnRaLVpQRC13N3RxUXI1bm1lZFZTODdrRkFRQnU0YmRfRWNBbGxVU2hhMUM0Ny1kU3lzWUViQ0xScjFBaVpzSkVsVFpKeldFckV6NGR5eERJNGFfR3o1ZUt6WnVuWE9PSk96alRMTXc2dk5FcWJ3OHRBczhrWllS?oc=5",
-     "r": "Koran Gala"
-    },
-    {
-     "t": "Satgas Pajak Daerah Kabupaten Bandung Perkuat Kepatuhan Wajib Pajak Demi Peningkatan Pendapatan Daerah - Teropong Indonesia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmdpOWJ1Z0JER3FBWEg4TU1vSThhWXY4eklxdGpoZ1RkLUtqZlJERnJXb2hxR0M1em1hQkJaNElnUDRqTl82eF9Kd25zRi13dnJHb0dWU0w4S2VRZGprS280UVRORXczaURxYTdPUUszTGNKQ0RfcTAzczBCVmNrMTlFcER5UUtOUnlwRjNYc3dabGN1RHByLWp4blpkdXQ2S3Ria29mQlV1N1NIYVBaanYxNmZaazQ0bExDbGNkWjRQWE80cTZ2bWpZMzZXZlo1dHhHb09JWDVoWEJONVFzX1ZIMDhhSkU?oc=5",
-     "r": "Teropong Indonesia News"
     },
     {
      "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     21,
+     19,
+     20,
      3
     ]
    },
@@ -137,8 +137,8 @@
      1,
      0,
      0,
-     15,
-     2
+     16,
+     3
     ],
     "g": [
      0,
@@ -239,13 +239,13 @@
     {
      "t": "Viral Asap Pembakaran Jerami Ganggu Warga, Petani di Bojongsoang Dibina Polisi - Radio PRFM",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGlNZUx0Zy0wOUF6YWl2a1dVek5tNERZSGJMMjRYeHhZUU13VlRaWU4yeHpCNWtPTzBKZUFFRHJaNVp1cHZBNDY0Q1JJa2V0V0RCSy1XNGVmTVA3TmtPREUyNncyaE01aUkxMFhJN21BdmRvajRJeDMxNVBlbVhHZWwzbFhxaVN2RXpJd3ZuUlk2anRCNUZTOFJOQlpWOFJLYXQ1dFhyc1JXejdvX25jSi1EUndnR295ajJOaHVfZERVbEwxZnRLWVNGRm5LNWhXa09fd3R6QdIB3AFBVV95cUxNYVNkSy1iRlpOX0hCNWNqN1RLZFVjU1lITFVQVFVjYlljWmNGSjlCaDVxY2pYWWdWSjlDNThfV2E4ZEtzWnlQRUxkbW02NGdOeHNwaGgtVjc2YXdEc2ZpM3VvbC1sR0JZaFVxazhDYVM1cHI4TjlZSlBZRFZzRENHTzdla2NKWS1XQ3kyNS1HaDc3TUNuTnhQOWFRQXlxeHgtV2NTbXdVaU0yam9WdTFza0djcjlCRE9aWF9DMWhWaFpQcWI2WW9DY0VqSl9vUVNxdnk0NEYyaTczYXRm?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVNkSy1iRlpOX0hCNWNqN1RLZFVjU1lITFVQVFVjYlljWmNGSjlCaDVxY2pYWWdWSjlDNThfV2E4ZEtzWnlQRUxkbW02NGdOeHNwaGgtVjc2YXdEc2ZpM3VvbC1sR0JZaFVxazhDYVM1cHI4TjlZSlBZRFZzRENHTzdla2NKWS1XQ3kyNS1HaDc3TUNuTnhQOWFRQXlxeHgtV2NTbXdVaU0yam9WdTFza0djcjlCRE9aWF9DMWhWaFpQcWI2WW9DY0VqSl9vUVNxdnk0NEYyaTczYXRm0gHcAUFVX3lxTE1hU2RLLWJGWk5fSEI1Y2o3VEtkVWNTWUhMVVBUVWNiWWNaY0ZKOUJoNXFjalhZZ1ZKOUM1OF9XYThkS3NaeVBFTGRtbTY0Z054c3BoaC1WNzZhd0RzZmkzdW9sLWxHQlloVXFrOENhUzVwcjhOOVlKUFlEVnNEQ0dPN2VrY0pZLVdDeTI1LUdoNzdNQ25OeFA5YVFBeXF4eC1XY1Ntd1VpTTJqb1Z1MXNrR2NyOUJET1pYX0MxaFZoWlBxYjZZb0NjRWpKX29RU3F2eTQ0RjJpNzNhdGY?oc=5",
      "r": "Radio PRFM"
     },
     {
-     "t": "Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBaMGZpbnRaZ21sTDVLa19WUTZDRkpQNTdKblZtUzROSjBQZVRZWEx4R0VXa2VlaldrX0s5Tm1XRGU2c194OU1Zd0lIU2FLOWpaSkF6eXN6U3RVYUgxZXlwMzhPUW5XUHYwYTIzWFFKbXNpeWhocmNJaFE4OE1uSm9zVERrNTZqX09SZ0NPeEVqWG1IYldjZzdVU0NreVRLaEpmYnpnb3NqVjZzZC0wb2lhY3VsTDlrX3RBUzhxc1dnNHRsV05V?oc=5",
+     "t": "Foto : Hendro, Petani Muda Kamojang yang Memanfaatkan Panas Bumi untuk Mengolah Pupuk Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnJxR0IxU0pwOWMtNy1RQkpkTWRIUTFtVGFTdUwweUREbG9rcjZrT2lvR3A1SHh6dzhHNnFGbzVNWXhZcmlTMS1ORFdQSV90VWZQQlJ0TnQ5eFgxZjhDVUhYeGNSWk04Si0xZndLR2lvX0lNR1U5QW8wWERvaEZnZy0zaS1OemJjUXZvUE84QjJuTEREV0w3bXAxWmRLNEcwc3pyVVNjT1V0RFd5ZFJYT0ZBbkJVbHdHVWs3ckdmWXpVaFo0VWZNX2lBUE53UUZwY2c?oc=5",
      "r": "Kompas.com"
     }
    ],
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     19,
+     18,
      3
     ]
    },
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     21,
-     20
+     22,
+     18
     ]
    },
    "trend": {
@@ -363,8 +363,8 @@
      0
     ],
     "g": [
-     1,
-     1,
+     0,
+     0,
      1,
      9,
      7,
@@ -503,8 +503,8 @@
     ],
     "w": [
      6,
-     19,
-     6
+     16,
+     5
     ]
    },
    "trend": {
@@ -522,13 +522,13 @@
      0,
      0,
      1,
-     2,
-     3,
+     1,
+     4,
      0
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      3,
      1,

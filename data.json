@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:16:50.124119+07:00",
+ "updated": "2026-10-24T18:15:59.297739+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   35
+   34
   ],
   [
    "Kompas.com",
-   20
-  ],
-  [
-   "RRI.co.id",
-   13
-  ],
-  [
-   "PPID Kab. Bandung",
-   10
+   21
   ],
   [
    "Ayo Bandung",
-   9
+   11
   ],
   [
-   "detikcom",
-   8
+   "RRI.co.id",
+   11
+  ],
+  [
+   "PPID Kab. Bandung",
+   11
   ],
   [
    "Koran Gala",
@@ -39,12 +35,20 @@
    7
   ],
   [
-   "Pikiran Rakyat Koran",
-   6
+   "detikcom",
+   7
   ],
   [
    "jabarekspres.com",
    6
+  ],
+  [
+   "Radio PRFM",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
    "Jurnal Soreang",
@@ -55,16 +59,12 @@
    4
   ],
   [
-   "Radio PRFM",
+   "Radar Bandung",
    4
   ],
   [
    "Inilahkoran.id",
-   4
-  ],
-  [
-   "Radar Bandung",
-   4
+   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUluaVZ5QmtUTjJUQ1BBdUFqVW5sWWQwclYxdHVpTzdhNXhEa3huSnhRVUkzUkU4ZExvaVV2aTdkem42dzJmNDFQZk1tZWVKX2dpMVNuVy1oNk5rY1c1VVBGSDBvMVpZWWZLLTVXVFlZanBoakFOeHlpY1JVQkJvc2ExVFFneEtDUmRadUFkYVNzaTdsTmxMZTNXc1pNa05EUjlwQ1Z2eHNlYVVYRDFnRlZKZ1hyMm5faUHSAb8BQVVfeXFMTm05M0d0eVg4MlprZnN5bkdkTVZORHVoVEtrQ3ZFaHpoQk1yVjNodVlhd1NnS21FNkFucXliSnA0WTI2d3BXUFkxLUJhalF4N0pZWElLZzRyS3ZYZGpJejMtaXZEV0NFLUs3ZFE2Q1lSSXJoWnhOcDBGU2dpd0tUcFdlQzdjNHREM2pJaGlSdHE4bnJVdzZWcnBfQ1Q3dkprVWhESks2SVF4c3hpbjNPWnliZEt4aWNCenNjQm9WekU?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "Istighosah di Pondok Pesantren Al Munawwaroh, KDS Ajak Masyarakat Perkuat Doa dan Muhasabah - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3NjTmpnWWxnajdjMlhfRFRwYXpMcG5GUHdndHJQTnItX29md0YtV1lOR1JDU3pkNW5PX3JWTzNjQ0hNQ2dOOFlRNmtRSnBwUnkwMzBDR1FrN2hab2YtSm82SGtPTkoyaWFNSEREMFRQTktKd0N4SkJaMm5PYTYtTmJDMTFNSGdrcUgwMl96UUZQR3pIRVNJalhTRnAzMndXb3FYMTFWVTNzbGR6UjdydnlYQVo2cHFpbkU0VzkwSzlOWE1HVXJweldQLW5tX0VlaWdadDZZRzJZWjZBOE84?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Anggaran Terbatas, KONI Kabupaten Bandung Tetap Optimistis Raih Prestasi Gemilang di Porprov Jabar 2026 - Jurnal Soreang",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
      "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Targetkan 100 Medali Emas, Pemkab Bandung Lepas 1.464 Kontingen untuk Bertarung di PORPROV XV Jabar 2026 - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkw2bTZzX2FtNmJzcUhNMmtEcXJxaE9FTGJzQVdCUWNEOEJDLXExU2VFY0toSGUwQlNIY2pNZzByUzRXUUxoSFV2XzU4NHpjVmNSaVZGYk5GMmFWeDhEeWRiU1JkTWZXUnE1SEY2V1hmVUF1ekV3aWtpWXk0M2dSN2lfYzBjb2RhbnNXbnhpOXNTRTM4bFFNRlNPdU5waDZuNExMLVBfS09XRUlYcmtBeXNERTB3V0MtZTY1MFc0RDNFVFptYnhOTEw4aGFmNzBjeVU5dktjVmhoZ3FpRldYUWpRc29lMzYzd05ldXpfRQ?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Semarak Karnaval Jampana HJKB ke-216 Sedot Antusiasme Warga Bandung di Jalanan Pusat Kota - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGZNX0lmM2M1c3ZUcU9lTUU4dVIwX2tBZmh1VDU4RWVwSWg1TkU3MnI2Uzd5emNjWXdDejdxOU1KMklEZU15VmtFV1dqRU5xd3E3R21GNkVaOVVEc3pCWnRrVndoVVZNRF9qWmxHYnpwR20zSGNoemgxS0xLRU8xRzdGTEUxZFo1X0hWN080aTQ3YkR5U3hGOHNUQ0NxYmdhWkVmSGl4am9DN0htM3hYdmNKWjBJZ0M0Y2VoLUZGT0NYNm1KZzFqVFFJZkzSAdIBQVVfeXFMT1hZZkVhcUpYZU5WXzhQUXVzR2E4UzNGVnhFZTMwcWNGUmJKcGF3akJQdnhPUl9yMi1pZmNUSUIyN3NvUWJTYnQtQ25MeFFBaEZWUWZwUW82WGpYTjJsaVdCdjdMY2ZEeGNjem1Ebkt6NDdxM0VzczNwd2h3MWx3dFkxNDVzdHBNUWFWMVFVYXNsbW9HNkt3c2dobzM3bHlXMjcySWM3bkhjY053X3lMMFo5MF9mNXI2aFhxU3R5bVU1N2o5R2RlM2E5b3h2aXJVR2JB?oc=5",
-     "r": "Koran Gala"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -136,9 +136,9 @@
      1,
      0,
      0,
-     5,
+     4,
      6,
-     3
+     4
     ],
     "g": [
      0,
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     16,
-     20
+     15,
+     22
     ]
    },
    "trend": {
@@ -363,10 +363,10 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      8,
-     7,
+     8,
      3,
      4,
      0
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Ayah yang Bunuh Anaknya di Bandung Ternyata Ingin Gunakan Uang Sekolah untuk Judol - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnM0R0R4dU05Nk14TC1PUXdTbmlnYldXRW1DVUtnZkxKVGVjU05nYzgwanVWTWhlQjVTOTFKeFFFMTk1R2tFbk9oZGNKb3k0SjVVUk42WlJ4ZU92VlF6VjRseWdla2MzdjJwSmR4SmdkQ2U3d1pybEJsMDYwbkV2ZlI2R0NOUmhpVTRuUUFRakYwaFF6djNMNTd2cURWSXR5TmF1bFJCSEYyZHdHUFVia3NpSUJTMEJBanV2QnRwLU1idnh2TU9QYw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Peringatan Hari Osteoporosis Nasional 2026 Jadi Momentum Perluas Edukasi Kesehatan Tulang Sejak Dini - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnJyWW92azcyaWEyTmlBTFp4OEdyVVJRZ1lqZnBMcWlac2VULWlXNDU0SXI1ODNlMUJ6Rm94TE54TW9wWWd5aGtkZmFqUUxHLVJYX3NveDA4V0gwbWM4LXJoeFQ3N2NYaXphemFoaXhJdUtQdmRUYnByamdaMzM3ZHRILUkyUGlvdWxiVnpXYzE2dTY1ZmVYU1N4R19vMWtYOFotTlpiZkdsbzQ3SVNwbzc3TlRpTXM2RTBOX2VVMFEzOVN5ekNSNmpzOTcyQ2dpM3VPTGJFTGxoZWEwRmVwUFBkNm9YZw?oc=5",
@@ -468,12 +474,6 @@
      "t": "Nurul Arifin Dorong Warga Bandung Perbaiki Data Desil agar Tak Kehilangan Bansos - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFo0cHE1MkIycFJlNE9vMXdYQU9Fc2ZZNmFrTk1OQkhyZV9uQkp5dkVPZldpTnRHN1UtVzVwMk04bk5QemhVbWI5QTNGUDVSandMOHJrbDlzbmU1RnEteElLekdhVDR4eExmX1c5QlY3WGF4TmMtdE5XQk8wNDVFLXNQNDBjblNPOWc5NnJaaENoYmRmbGE2QlZMbmdQRFBRTC1mUEFGQ0NrVjZjb1B3WUwwZE91ZTVsaUpSS2xTMVlQUWJCUWRyQTV3OA?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Fakta Baru Remaja di Cicalengka Bandung Dibunuh Ayah, Pelaku Minta Uang Sekolah Korban untuk Judol - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXRKQzNIWlRHaktab0JLZUUtNkkwaEstZmQ5ZzFHZ2tLRWNjV3NOR0VHQ2V0NUJjSU5OMlJPWGpEdUFmQWl5N2pMLUdqY3RNLVFseXVQTktQQ3BreGdONktGZjliWmluaVJtaDhFZTJudzFYcnhZaFBTOGFrTlVzYlM3Y0YxT0RJdW1WajhEZE5zdmNYQ2J1Z2Z3ZldUMVZJRlVxSXR0WXVYSVRiMjlsOHBkbzR0aXl1dVF4NHNUSktzOUVXZld1NnQ3T1UxNGNKZlNLeDhLNC1HLXhTOTQ2cnNCaXdnOW8?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     7,
-     19,
-     4
+     6,
+     18,
+     5
     ]
    },
    "trend": {
@@ -516,7 +516,7 @@
      0,
      1,
      1,
-     4,
+     3,
      1,
      0
     ],
@@ -527,7 +527,7 @@
      1,
      1,
      1,
-     0
+     1
     ]
    }
   }

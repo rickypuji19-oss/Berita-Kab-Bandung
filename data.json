@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:18:07.240820+07:00",
+ "updated": "2026-10-24T13:18:45.612403+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "Kompas.com",
-   19
+   20
+  ],
+  [
+   "RRI.co.id",
+   13
   ],
   [
    "Ayo Bandung",
    13
-  ],
-  [
-   "RRI.co.id",
-   12
   ],
   [
    "PPID Kab. Bandung",
@@ -79,45 +79,45 @@
    ],
    "h": [
     {
+     "t": "Targetkan 100 Medali Emas, Pemkab Bandung Lepas 1.464 Kontingen untuk Bertarung di PORPROV XV Jabar 2026 - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkw2bTZzX2FtNmJzcUhNMmtEcXJxaE9FTGJzQVdCUWNEOEJDLXExU2VFY0toSGUwQlNIY2pNZzByUzRXUUxoSFV2XzU4NHpjVmNSaVZGYk5GMmFWeDhEeWRiU1JkTWZXUnE1SEY2V1hmVUF1ekV3aWtpWXk0M2dSN2lfYzBjb2RhbnNXbnhpOXNTRTM4bFFNRlNPdU5waDZuNExMLVBfS09XRUlYcmtBeXNERTB3V0MtZTY1MFc0RDNFVFptYnhOTEw4aGFmNzBjeVU5dktjVmhoZ3FpRldYUWpRc29lMzYzd05ldXpfRQ?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Ditengah Keterbatasan Anggaran, KONI Kabupaten Bandung Optimis 100 Emas Tercapai - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0xUUERaT3d6T2pYUXlWOFAtYlNDeVlsSGtzU1NzcG50Tkd2WUsxSDdjSEpULVR5UEZMV1pWTlVFSzhDMGxtUjQ3VEQ1dXhPT1VuQU5qd1gtOThDVHd0SzdvZmpjWGt5eGJyVml1ZHA2QkEtZmlqcmh2VHA1UHJQOXl0TnVKSWdlbmsxX0hxNVN6ZVgyZFlxaGt5Q25YQi1mNEJndzdRQzhkWnptaldIcjNvenRCUlpuMWoxUVpB?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Dialog Bareng warga, Bupati Bandung Soroti Penanganan Gedung SD Bojong Asih Yang Kerap Terdampak Banjir - Antarwaktu.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXJMcVlsZXNNN3Vic0l4czFHbTdEbGIzT3VYSkk0d2FGZnB4NHZmSElSOTBER2ZJZlZDc0ViWmJ4M3JJb192ZHhEcU5KQzVtVmd5cDlfZm9HYUtPQS1OVWpnMXl1S2pEUmlXamFIYUtST3FfZ3pIY214U0V1SGdLTV9sY1lEX2dyNGpLZFc2dEtOZndLOUdlbXhNYkVJNDBndEVWRGZIT3VnOHdSaFk0eWlpREhZYWRRMG9vVXI3T3psQVpjcUwzZWM3ZHhlNzM4Umpn?oc=5",
      "r": "Antarwaktu.com"
     },
     {
-     "t": "Persib Bidik Si Jalak Harupat untuk Lawan Melbourne Victory dan Adhyaksa FC - Fokus Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdkMktraElfVDQ4bGtoWVI0Ym9ndXlhNWJaTXZQSUkzZFJiWU45OGVvYTRMVU1xU2M4bHRYYkRWV0E2YWd6S1NheFVXUFBlaVp3SzhLOEd3MHZSX1JxQ1RkS2VScVZrNkdIa3d1R0tSc1ZJamlaS1F0bE9YMzA4RGNLaGF2bFRJZV8tMHN3QWYzZ3lZY3VXYlVCZGpKaHNsNTN4ZjBobHg4eFBLa0E?oc=5",
-     "r": "Fokus Jabar"
-    },
-    {
-     "t": "Pemkab Bone Jajaki BIB Lembang Tingkatkan Mutu Sapi Unggul - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXJ0TkpBYW9QZlgzWnhUY2hIMlR4S1NIdkI3TGdCVkhkVTBqT1ptdFBmRUp3LVlQOHM3RjNkY3lSdVQ0WHVkT2k0ZHpGS0FGVGhPSXFjSTN4UWw2Tmp4SllTVmtuOWNLR3EyN2hfYW53YWloLXhlWnNxZmMxLVBMZ0tjZm5pT210bU02MDJXaXRIbnMwQ0pUZWY3VUJ6WVk?oc=5",
-     "r": "RRI.co.id"
+     "t": "kavling ruko di soreang residence",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=gvWj3TwqccE",
+     "r": "YouTube Adrian Adam Property Network"
     },
     {
      "t": "Jual Rumah di Bandung Selatan 600 Jutaan | Serenity Kopo Residence Katapang",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=kkCIg88EVtY",
      "r": "YouTube NYONG TEAM"
-    },
-    {
-     "t": "🔴LIVE Peringati HSN ke 11 tahun 2026, Pemkab Bandung Gelar MTQ Ke-48 Tingkat Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=X_7mnQYX72E",
-     "r": "YouTube Radio PRFM 107,5 News Channel"
     }
    ],
    "v": {
     "s": [
-     1,
+     2,
      4,
      0
     ],
     "w": [
      13,
-     24,
+     23,
      5
     ]
    },
@@ -138,7 +138,7 @@
      0,
      7,
      6,
-     0
+     1
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Viral Getok Harga Cuanki Rp50 Ribu di Gasibu Bandung, Wali Kota Farhan Minta Pedagang Jaga Etika - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSlVlcDg4Qm1JN3NfY3JrSjlSU1A3TWkwZVFaY3c2NWlhcjZ0TzFld2I3TTlfeEl2Sm83ZWY2VEVLUXZyU1hHa1BzRnBpcGpzQVpTSWl3ODRmY3gyd1BDNW9nZHZuN1pneXk2WkVXaHB3TDZnMGhUazZ2TTlVSlNrT3p4Nl9INTRjWmZZbWlRd3FXTDBkR0x6WkpKa1lpMmFJWUR4X1RsNzlkTHEzZVl6ZVgtTHNqXzRjTFYwdEpWbUVsR0w5SEdEdjJROVdrcDVqMW5pcFphYmd5MklfanlJ?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllNUzViX3BVOFJYRW5FVjJFa0pqWDB6OWJVczRRQVp4Mm1aSkJKdnBMM2dpRjlNMEdGVW9kc1ZtUG16S0Y5cFJRV1c1ZFpOUktPT2dKaWtzbGx1OWxxOE9KcEQ5eDIzWXptbGVYckJZcWVCVlpUcWF0QWU2dFpmbjRIM0w0Y0dIa2Fxd2ZtT1l3VTkyZXZmRDV1czRndVl3Ykh0T2RLSU9JNmZ0QUdYU2pobnotWWFwYzVxZHJSRE5HQUlyVmJubll2VnhXaExRYzZ0MWVZcmtCOGwwcDk1ZA?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Duta Batik Jabar 2026, Momentum Lestarikan Budaya dan Perkuat Ekonomi Kreatif - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0huLU8xeDA0d2thYk9KdHRScG1HT2FJZ084SlltQ00xOWNLZHlyY2ZFMFhlSHJYNVJfZDMxYmx5VDlkVzB2Nm12bFBHNDBGTGlUb1ZlRFJNX1JKZzRzdXNFWktWRWJoVlNsUzlXdkVtNVhGdWJsMC1JbUg4UTllaThKNU9aWm1GVDB4bGRPRmh1WVJacW9UZTRZMzZQbnZ0WmtTYUtTWDZCRFhPQWRvb1RNYXRQVHp0?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      2,
-     20,
+     21,
      2
     ]
    },

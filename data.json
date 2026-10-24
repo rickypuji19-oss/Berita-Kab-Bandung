@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:18:45.612403+07:00",
+ "updated": "2026-10-24T14:28:08.100047+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
+   35
   ],
   [
    "Kompas.com",
-   20
-  ],
-  [
-   "RRI.co.id",
-   13
+   19
   ],
   [
    "Ayo Bandung",
    13
+  ],
+  [
+   "RRI.co.id",
+   12
   ],
   [
    "PPID Kab. Bandung",
@@ -39,8 +39,16 @@
    6
   ],
   [
+   "Koran Gala",
+   5
+  ],
+  [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Jurnal Soreang",
+   4
   ],
   [
    "Ketik",
@@ -51,20 +59,12 @@
    4
   ],
   [
-   "Koran Gala",
+   "Inilahkoran.id",
    4
   ],
   [
    "Radar Bandung",
    4
-  ],
-  [
-   "Satumedia.id",
-   3
-  ],
-  [
-   "Inilahkoran.id",
-   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Anggaran Terbatas, KONI Kabupaten Bandung Tetap Optimistis Raih Prestasi Gemilang di Porprov Jabar 2026 - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Targetkan 100 Medali Emas, Pemkab Bandung Lepas 1.464 Kontingen untuk Bertarung di PORPROV XV Jabar 2026 - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkw2bTZzX2FtNmJzcUhNMmtEcXJxaE9FTGJzQVdCUWNEOEJDLXExU2VFY0toSGUwQlNIY2pNZzByUzRXUUxoSFV2XzU4NHpjVmNSaVZGYk5GMmFWeDhEeWRiU1JkTWZXUnE1SEY2V1hmVUF1ekV3aWtpWXk0M2dSN2lfYzBjb2RhbnNXbnhpOXNTRTM4bFFNRlNPdU5waDZuNExMLVBfS09XRUlYcmtBeXNERTB3V0MtZTY1MFc0RDNFVFptYnhOTEw4aGFmNzBjeVU5dktjVmhoZ3FpRldYUWpRc29lMzYzd05ldXpfRQ?oc=5",
      "r": "Galamedia News"
     },
     {
-     "t": "Ditengah Keterbatasan Anggaran, KONI Kabupaten Bandung Optimis 100 Emas Tercapai - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0xUUERaT3d6T2pYUXlWOFAtYlNDeVlsSGtzU1NzcG50Tkd2WUsxSDdjSEpULVR5UEZMV1pWTlVFSzhDMGxtUjQ3VEQ1dXhPT1VuQU5qd1gtOThDVHd0SzdvZmpjWGt5eGJyVml1ZHA2QkEtZmlqcmh2VHA1UHJQOXl0TnVKSWdlbmsxX0hxNVN6ZVgyZFlxaGt5Q25YQi1mNEJndzdRQzhkWnptaldIcjNvenRCUlpuMWoxUVpB?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Dialog Bareng warga, Bupati Bandung Soroti Penanganan Gedung SD Bojong Asih Yang Kerap Terdampak Banjir - Antarwaktu.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXJMcVlsZXNNN3Vic0l4czFHbTdEbGIzT3VYSkk0d2FGZnB4NHZmSElSOTBER2ZJZlZDc0ViWmJ4M3JJb192ZHhEcU5KQzVtVmd5cDlfZm9HYUtPQS1OVWpnMXl1S2pEUmlXamFIYUtST3FfZ3pIY214U0V1SGdLTV9sY1lEX2dyNGpLZFc2dEtOZndLOUdlbXhNYkVJNDBndEVWRGZIT3VnOHdSaFk0eWlpREhZYWRRMG9vVXI3T3psQVpjcUwzZWM3ZHhlNzM4Umpn?oc=5",
-     "r": "Antarwaktu.com"
+     "t": "Semarak Karnaval Jampana HJKB ke-216 Sedot Antusiasme Warga Bandung di Jalanan Pusat Kota - Koran Gala - Koran Gala",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGZNX0lmM2M1c3ZUcU9lTUU4dVIwX2tBZmh1VDU4RWVwSWg1TkU3MnI2Uzd5emNjWXdDejdxOU1KMklEZU15VmtFV1dqRU5xd3E3R21GNkVaOVVEc3pCWnRrVndoVVZNRF9qWmxHYnpwR20zSGNoemgxS0xLRU8xRzdGTEUxZFo1X0hWN080aTQ3YkR5U3hGOHNUQ0NxYmdhWkVmSGl4am9DN0htM3hYdmNKWjBJZ0M0Y2VoLUZGT0NYNm1KZzFqVFFJZkzSAdIBQVVfeXFMT1hZZkVhcUpYZU5WXzhQUXVzR2E4UzNGVnhFZTMwcWNGUmJKcGF3akJQdnhPUl9yMi1pZmNUSUIyN3NvUWJTYnQtQ25MeFFBaEZWUWZwUW82WGpYTjJsaVdCdjdMY2ZEeGNjem1Ebkt6NDdxM0VzczNwd2h3MWx3dFkxNDVzdHBNUWFWMVFVYXNsbW9HNkt3c2dobzM3bHlXMjcySWM3bkhjY053X3lMMFo5MF9mNXI2aFhxU3R5bVU1N2o5R2RlM2E5b3h2aXJVR2JB?oc=5",
+     "r": "Koran Gala"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     23,
+     25,
      5
     ]
    },
@@ -136,9 +136,9 @@
      1,
      0,
      0,
-     7,
+     5,
      6,
-     1
+     3
     ],
     "g": [
      0,
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Anggaran Terbatas, KONI Kabupaten Bandung Tetap Optimistis Raih Prestasi Gemilang di Porprov Jabar 2026 - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Kaukus Ketokohan Jabar Kirim Aspirasi Soal Keabsahan Dokumen Pemilu ke Pimpinan DPR RI - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlczb0NvcE1PMDliZFRWa2VZM0hTcmQyZVJ1a0Z2bzZTVTlWZFZ5azJzNngzclRMZVRlNHdDdDFmTERoS3JKOHRBMGk4NlBsd21GSFB6QXdTSG1xdW04RE5PbnpUVHRPTUpBVWpYS00xTlpTSjdUZGc4amkwX09HaGp2MEUxSnoxcHdJbTJkQnFFZlJPR0xaVDlibVQ1ZXNqQXo4VkI2enFxUTlzeUlsWm1jb3VxdkhybGJCZ1E0TUdhaVRJTGJqSmc4dGVxWUtJMGZR?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
+     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
-     "r": "Disway"
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
+     "r": "Inilahkoran.id"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     12,
-     8,
-     4
+     13,
+     9,
+     5
     ]
    },
    "trend": {
@@ -208,14 +208,14 @@
      6,
      6,
      0,
-     0
+     1
     ],
     "g": [
      0,
      0,
      0,
      3,
-     1,
+     2,
      0,
      0
     ]
@@ -257,7 +257,7 @@
     ],
     "w": [
      2,
-     21,
+     20,
      2
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      2,
      17,
-     21
+     20
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      0,
      1,
-     9,
+     8,
      6,
      3,
      4,
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Warga Citatah-Pasegan Pasang Spanduk Protes, Jalan 5 Kilometer Tak Kunjung Dibangun - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVNUcHEyemlXX042WVNaXzU2T3NlRjJ0T1o3MHZwdGRtV3AzZkdRMjJZYzFha1VRN2tNUXVSTWRtNnAxem1VaTV4MzYySERWRU5HbVd3NkY0VnRPUi1adS0tUVM0aUtMQVljQ3ppMEdpNHY5MUNxdnhac3NKZVU3dnBvX0xyVVA0dUFaRDNpOHNpLUdhNHN3LUVpMkd0MTJnUU11QlB5Y3dHME56Qkh2WWJycXNHRlBVSW1jMVA2dG00NXPSAcgBQVVfeXFMT2NjRmtvc3VDendKWHNCUUxFeEVDcks3dkZRY2VEcmlHVHBFQW1yVk9KaHE5Qkd4SFpXTU1sQWxsd2E5RUktaWdKandyT1NYb1dZaFNHVEh2Tm1EVXItUDJ5RUJPbjBLcE94MGpBc3AtNF9kUW9BUmRmMEFFOXZlNE4yRm5FRXRrZnZmVVUwcFd4U2RhclNBd3NiN3NOdHhPRmpqY3p5eVJBOS0zQXFEaE5PRnBFV0pKX1hCNVZibE1HOUVlRG16MEY?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Potensi Longsor Kabupaten Bandung, 25 Kecamatan Diwaspadai - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHh3U284VW5xR1RYRF9tNEVfNVhobXlpenFjTlFLYXhQTUdFMlItamViTDA1NHNlMGdwWTJlckdFSDFtZEFLOGNROFl2dFNyVHZwNEdKby02UEFtdmJBbjBsWnY3RDhicGRHYW1lb1B3Y1RHTXhnUURZN1hEbkhQbzB5a3dMYmx4dU9BcXpKQUc3YWNHejJkUUJsRzFpdzB3SnlMdm54Vk9HYXFZeWdz?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVRfdlNCQjhXa21XalEzTzZOa1QwT3cyZFhRS3E4QS1ZbFEyYXVVLVl0WjRpLV80MGNkZzRKeDBHODhtc3p4d0xYUWNsOUtsNW1teXpPMXhzV1hGQ3VDcHlOaDNZand2X2JKSjBNZHlTZ0lRaGdCb0Q1UHpiUEc4emM0TEo2R3p1OFBybUV1MmRqeUdjc1BHODVMVmU5Qi1Ya0NtdFpSeFhNZXdobF9yWGxFc18tTmRYZTNpVXlWdzduS2ZkWmc?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Jalan Kolmas Ditutup, Jalur Alternatif ke Lembang Diserbu Kendaraan Wisatawan - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZEQ2NBVkVOamxVZWwydDNSTUZCRUxtSHgzendLSG1vcnNVY05rcVQ3dEFkaWs4MHFHaGJOcEFKbVVYOGdzaFlTUWhPWW1RNlc4aWF0dmZRb1ZLckl3RFRGb3RmNU1OQ3VrUTBuV2xlZjB6T2RQX2pqUFgtLTZlcFFycVg5SXlybmFNU3pQdG1lOUhTVHNiWGFhWUNGa3VTSWY2V0dGS0FVSlQ0TFNSamdvUkxfN0tLbHR6RWZjRDFPblJpUUHSAcsBQVVfeXFMTWE0SDlpRDdrOS02TWRZbnVrOW1MbHpkM3kteXB4bGZjLXh5YW4wb1hMeElnRjdyekpDN0IxOVFkSmdVZGM4VVJQUmVQQ2FzS1k2elJ5RzhoUEV3dnU0WUJfaUZDRnFja0ZzTTdYTjhoUU5XQ2w1R2ZsOVlNSlZ2MEZwU1JtckEtcjFRUE43VkRzRlllbjJBUmRncE15a0pFSm93dXRHNFJFQVU4eG5uZFNFSm1nWW9WN204NXVRWE5MVWJKU3ZlVjM2b1U?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -416,7 +416,7 @@
     "w": [
      3,
      8,
-     7
+     8
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0,
      0,
      6,
-     1
+     2
     ]
    }
   },
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Nurul Arifin Dorong Warga Bandung Perbaiki Data Desil agar Tak Kehilangan Bansos - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFo0cHE1MkIycFJlNE9vMXdYQU9Fc2ZZNmFrTk1OQkhyZV9uQkp5dkVPZldpTnRHN1UtVzVwMk04bk5QemhVbWI5QTNGUDVSandMOHJrbDlzbmU1RnEteElLekdhVDR4eExmX1c5QlY3WGF4TmMtdE5XQk8wNDVFLXNQNDBjblNPOWc5NnJaaENoYmRmbGE2QlZMbmdQRFBRTC1mUEFGQ0NrVjZjb1B3WUwwZE91ZTVsaUpSS2xTMVlQUWJCUWRyQTV3OA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Fakta Baru Remaja di Cicalengka Bandung Dibunuh Ayah, Pelaku Minta Uang Sekolah Korban untuk Judol - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXRKQzNIWlRHaktab0JLZUUtNkkwaEstZmQ5ZzFHZ2tLRWNjV3NOR0VHQ2V0NUJjSU5OMlJPWGpEdUFmQWl5N2pMLUdqY3RNLVFseXVQTktQQ3BreGdONktGZjliWmluaVJtaDhFZTJudzFYcnhZaFBTOGFrTlVzYlM3Y0YxT0RJdW1WajhEZE5zdmNYQ2J1Z2Z3ZldUMVZJRlVxSXR0WXVYSVRiMjlsOHBkbzR0aXl1dVF4NHNUSktzOUVXZld1NnQ3T1UxNGNKZlNLeDhLNC1HLXhTOTQ2cnNCaXdnOW8?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObklqRkRkRHZZMjN6NVc1VmVDQ1lHU2NaNExoY2xpMGp0YXIxNzJLNzY5dXh1SGQwZ3JCb0ZMZWthUFZSTW5EX3N6QWRpZ3g3eVRwVFl5SE1yNS1fSE9QQXMwczJNcGVMdkZ3WEpTX2NLS0x4dVlPYm93ZUNudnRtb0tGTmo4Sk9zajQ3Ulo1VE1WOXhySkNEczU3ZkFoS1RHeGdLZVpZVXdfaERyNjFYTUZtUU0?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Siti Muntamah Prihatin Nyawa Melayang Gegara Masalah Perlengkapan Sekolah - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU5tTEdQUnRYNXZoUnlGQmVCd2hqUTBmZmtiX2hKdWNtMDhkdVJvSExwaE85ZUZsak5nM3VSeVBxb0wtSktWblh2eExjM1VVcUU2SldsaFBTazBxaHZ5Q21CdEtBSllfUTZVQ3NsR1lIUThMam8xUUQ4LTRWSDVvbXg3dWQ1UkVZTFlPczYxcDNKcERKc09iTWk2eHQzQkJlSG4zN3hqNkY2VW1FTGR4d2tJUUpyQnRRQ194N3RB?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",

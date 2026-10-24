@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:15:59.297739+07:00",
+ "updated": "2026-10-24T19:17:13.260206+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,43 +8,43 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
+   32
   ],
   [
    "Kompas.com",
-   21
+   19
   ],
   [
    "Ayo Bandung",
-   11
+   15
   ],
   [
    "RRI.co.id",
-   11
+   13
   ],
   [
    "PPID Kab. Bandung",
    11
   ],
   [
-   "Koran Gala",
-   7
+   "ANTARA News Jawa Barat",
+   9
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
+   "Koran Gala",
+   8
   ],
   [
    "detikcom",
    7
   ],
   [
-   "jabarekspres.com",
+   "Radio PRFM",
    6
   ],
   [
-   "Radio PRFM",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
    "Pikiran Rakyat Koran",
@@ -63,7 +63,7 @@
    4
   ],
   [
-   "Inilahkoran.id",
+   "Galamedia News",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS Doakan Almarhum Kades Dayeuhkolot dan Menugaskan Pejabat Sementara Cari Solusi Banjir di SD Bojongasih - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzdNUUFWQnZGcE00NGJhQnkwVnZMTlZKcEM2eVBZNlVsbFRuUlBuRkZ5TU9lZ2s2SFpjOFkwRklUWi1UVVVQbE12Q3B0UXhtYXFRdHJrX2Flc2hfeTZuN3hMeHE4N3pwLVJYRjNibjJHSE1WVGQ5dk5iVG8yWFJrMV9kckh6XzJuWTBxdkZSaC1hSE9PWGRHRmd1aTJhTmZnazhQbm5VTGFCeUdTRXZKVFhJcUprRG9zVjZNUU1Kal81ZXUxRjRhTG5sdmNiUEY5R3FmTVd4NjRRUk1FZGdwVGVIcGRKWEtHSXZBaFBETnIzTkxG?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUluaVZ5QmtUTjJUQ1BBdUFqVW5sWWQwclYxdHVpTzdhNXhEa3huSnhRVUkzUkU4ZExvaVV2aTdkem42dzJmNDFQZk1tZWVKX2dpMVNuVy1oNk5rY1c1VVBGSDBvMVpZWWZLLTVXVFlZanBoakFOeHlpY1JVQkJvc2ExVFFneEtDUmRadUFkYVNzaTdsTmxMZTNXc1pNa05EUjlwQ1Z2eHNlYVVYRDFnRlZKZ1hyMm5faUHSAb8BQVVfeXFMTm05M0d0eVg4MlprZnN5bkdkTVZORHVoVEtrQ3ZFaHpoQk1yVjNodVlhd1NnS21FNkFucXliSnA0WTI2d3BXUFkxLUJhalF4N0pZWElLZzRyS3ZYZGpJejMtaXZEV0NFLUs3ZFE2Q1lSSXJoWnhOcDBGU2dpd0tUcFdlQzdjNHREM2pJaGlSdHE4bnJVdzZWcnBfQ1Q3dkprVWhESks2SVF4c3hpbjNPWnliZEt4aWNCenNjQm9WekU?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Istighosah di Pondok Pesantren Al Munawwaroh, KDS Ajak Masyarakat Perkuat Doa dan Muhasabah - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3NjTmpnWWxnajdjMlhfRFRwYXpMcG5GUHdndHJQTnItX29md0YtV1lOR1JDU3pkNW5PX3JWTzNjQ0hNQ2dOOFlRNmtRSnBwUnkwMzBDR1FrN2hab2YtSm82SGtPTkoyaWFNSEREMFRQTktKd0N4SkJaMm5PYTYtTmJDMTFNSGdrcUgwMl96UUZQR3pIRVNJalhTRnAzMndXb3FYMTFWVTNzbGR6UjdydnlYQVo2cHFpbkU0VzkwSzlOWE1HVXJweldQLW5tX0VlaWdadDZZRzJZWjZBOE84?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Anggaran Terbatas, KONI Kabupaten Bandung Tetap Optimistis Raih Prestasi Gemilang di Porprov Jabar 2026 - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
-     "r": "Jurnal Soreang"
+     "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTkzR3R5WDgyWmtmc3luR2RNVk5EdWhUS2tDdkVoemhCTXJWM2h1WWF3U2dLbUU2QW5xeWJKcDRZMjZ3cFdQWTEtQmFqUXg3SllYSUtnNHJLdlhkakl6My1pdkRXQ0UtSzdkUTZDWVJJcmhaeE5wMEZTZ2l3S1RwV2VDN2M0dEQzakloaVJ0cThuclV3NlZycF9DVDd2SmtVaERKSzZJUXhzeGluM09aeWJkS3hpY0J6c2NCb1Z6RdIBvwFBVV95cUxObTkzR3R5WDgyWmtmc3luR2RNVk5EdWhUS2tDdkVoemhCTXJWM2h1WWF3U2dLbUU2QW5xeWJKcDRZMjZ3cFdQWTEtQmFqUXg3SllYSUtnNHJLdlhkakl6My1pdkRXQ0UtSzdkUTZDWVJJcmhaeE5wMEZTZ2l3S1RwV2VDN2M0dEQzakloaVJ0cThuclV3NlZycF9DVDd2SmtVaERKSzZJUXhzeGluM09aeWJkS3hpY0J6c2NCb1Z6RQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     25,
+     26,
      5
     ]
    },
@@ -136,9 +136,9 @@
      1,
      0,
      0,
-     4,
+     3,
      6,
-     4
+     5
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Ketua IJTI Bandung Sambut Pencalonan Rustandi sebagai Ketua PWI Kabupaten Bandung, Nilai Punya Modal Memajukan PWI - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcFVKQm84WDlNSV9xRENWaEF1NUhGem1OUUczXzhzVnhZWWk1RGNNTzVhVFdPdldKa2Y5WDZkVlI2VHpudFk5d2JfRGZfVGNMNkJqaGVBLS12QkllNTRKVmpQdE0ydXlhU1pmNVU0QTdZWnczZzJvc0FyUm9leWVjWEpYa1kxamFremlHOFpMeG5yZ2poZDJYS3RISkU3MGJuaWh2R2RFRURnSE5NWlYtZXA3QUVxamg4Q2FsUl9LTHFTZmtKdjlKOVRleUExV053dWlQODVGSGp5TjFpN2lqWUZvVTkxTklBWFJVT9IB8gFBVV95cUxPLXNVWkVhRnVFR2ZsQzEtVFZ3a0xDVTk3OFloVnQ0WWlTNWlZVEltOFZGSWxoZ1BDazVtY0ZqVFppZmFwcUNSM0dPS3FGejV4U2RSalJWMVMyN3dfZHQtZlF2cmdfUURTWVJSM1FHVjZPY1oxaDZDRVJLYzdhV0xUZDdMY1NUMFlTU3BROUpzaHJKdk1rYi16VEF5bExGS2NHTTVLNEF4SW82YUV2UWN2RWFMWktfeEFHcjNuOHlOdUNLdEQwNDBkTmM1aFZGd0F2SjhoRHplYmoxa2x5WDlwdnk0MGlab1NZcFl1Qzhqd1I3UQ?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Anggaran Terbatas, KONI Kabupaten Bandung Tetap Optimistis Raih Prestasi Gemilang di Porprov Jabar 2026 - Jurnal Soreang",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
@@ -170,12 +176,6 @@
      "t": "Ketua DPRD Kabupaten Bandung Apresiasi Atlet, Target 100 Emas Porprov Jabar Jadi Tantangan - Koran Gala - Koran Gala",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGU0cjhpZlpNTGFSdUg4UC1LTVZpNm5RSUsxOC04Rm1qZHNBcUhXUW8tUGFiSVVjaDdqOEwyZkk2ZFF4M1FCSGZPeFNlX2RLSHYyTkdnNkxzN1l6by1TS2NhTmUzUi1IV1I3Tjh5eFRtWU9LYVlROE5CdGk5aUhtNXV2V3RRbE11azI2QXZwYVBmY21nVDdGV29RSzFIZkxfY2VZZVpQdG5WQjdMUmZDMTVqWXBXRmYwT2VfZUtXMkJpbENqTy15WVQ3dWzSAdIBQVVfeXFMUG5nWDN0aldmS3hRdlZrNDQxQlF4ZVFpNG5CeWRFWGNYdnU5RUlZMDVPUHA3QklQTm80cktfZnlXR00tM3RNck5hdHZLUml5YTFJVTJPNFVFaGFwclpmRnVnYmFhV2lCSm1Xd1RWY0d5RVFlMC05SUwxLXc2X0RFLUpiRHN1RGV6THJEWWxiN1pBYzZta1ZIX3RXOEZrZ1Rhc29zRTJMSHlicEJmRVZsdHNmZmNLbEt4NjZUWUI2ck80eUxxVU1tRVktVER6NzJwTnB3?oc=5",
-     "r": "Koran Gala"
-    },
-    {
-     "t": "Lepas 1.464 Kontingen ke Porprov Jabar 2026, Kabupaten Bandung Bidik 100 Medali Emas - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTJSUGdqdmtoQVpwQnN3QWt2YWthXzlILXlmNkFzRWxMRF9uMDlKZkJNRDB5Ny1DN2tDVjlDT2VUOHI2U2J2c0NDeldsYVpHTkdxSzZSX0JiMktLSWp4UmxSNnRSNnpSVEVTMUEtUEdJOEkxRVAyUko3VU0xNlZPVWlwODAxeDdoZlJKazVUT1E2dTN0S3NnQnNYcmV2ZFdIVHpsMktiUVN4eE9PNzI1WHh4MVlsT2o3UWJOX2wySThDbDDSAcgBQVVfeXFMTWd4WWtkN2s0U1hfYy1fblFfWU9Bc0w5Vm5jOUlyNFdJQjBpMVJSNjQ4YjJoWXd0VXZ2MW9XZHJaTno0dzRZRFB3dVhCM2Z3NWZpSXRuaE1INTFQR3NHSUhSUWxSaTlVb0pPbDdoLWpoTGpIejY2UFgwTDdmVjZvNnduMVJWampPTjU1YnltS210ZHIyQUx4ZDRSbEJjWkxBcXRRYmNqWTJYMFI3bjVHdzNNNVZCSEgxZ0d1OUVHYTl5bkxxeEYwaV8?oc=5",
      "r": "Koran Gala"
     }
    ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      14,
-     11,
+     15,
      5
     ]
    },
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     2,
-     20,
+     3,
+     17,
      2
     ]
    },
@@ -274,7 +274,7 @@
     "p": [
      0,
      0,
-     0,
+     1,
      0,
      2,
      0,
@@ -301,22 +301,22 @@
    ],
    "h": [
     {
+     "t": "Gelar Operasi Antik Lodaya 2026, Polresta Bandung Ungkap 50 Kasus Narkoba dan Tangkap 52 Tersangka - MetroTVNews.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWdzck1sR3o4OE9MenIzdlQ3Y1pYYUFfMGpvcU5sTnN5S0RVY2dmdjV6MGZZRmVTUTdsQjVGSENZaUZTZFFBRFYxWi1KZlo1MG83RkFTNW9TUW14YWo3aldMc2RHZVdnNEJNdUJmWnU5dUg4ZGZ2QVJXcmdrVTFBOWRZeEVaaE14Z2d1NzFCSmFxVlpiVEhJT3ktazQxU213bmdOZkE1cUhjWktVdE9JLUd3RjlUUmFjX3JTeGgwSjItaDdXTzJWYUFiSEVLeUV2dXVnNW13?oc=5",
+     "r": "MetroTVNews.com"
+    },
+    {
+     "t": "Gudang Bawang Merah Dibobol Polisi Ciduk Sejumlah Pelaku - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDBsa1MteVRmVzRQaWszLVdtREtyYm5VYVlBUHExRnk0XzRqQ2d0a0VBVnYtRkM1WTVXZTdSM1FpS2dmS0tKd2JJdFhWaU56cGt3QXZWLVkweEhZRnFwVGwta0ViemdJUC0wR004czBpOTBuM3lhTzM5OExvclRNTXRhMUFwMWl6RHI5aTFVaFhIRDFFYW8tOHZVYTJTS1RIYk9IWnIzTEJ2Wk1Bc3c?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Puluhan Preman Terjaring Operasi Polresta Bandung di Soreang dan Katapang - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNck05WWNmNlJ0N19HRGhnRFBOeU1hU3M4aENjSUhQc3JqWHdQYWxDTWtZX0JkeWFGdVhvdzhzUW03ZkRrdFViRlE4bGNwZ0g0SmFqdDFIUGlMTG9WaGpnbFJhZjd1QzBfZi10U2lCelJNS1hBUk4tSTR5LXhRaldWU3YwVTR6Qkl5RmxGT1dIR09iWGI5S2VFRXRKYV92QTFoMUwxT1NrdEZYX1FfRnR0THg2cDJxVUFOT1Iw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Jejak Begal Viral: dari BNN Gadungan hingga Polisi Palsu di Bandung - detikcom",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWRtTnZZTDBZdjFlTFFqdWhHRjRiY1hHVkxWQ3NfempldGZJeVZzU0tVTGpSR0EtblU4S1A0Tm96RVlnT01RdU5pU3lnejFBVjc3Z1RybjEzZVp4NldBdi1tTnY0eUZaRThkMlJ3SGZmSWxVcWVVVGdiYllISmc3c1ltQ2puRm42QlhsTGFrOGtjMUJsRnRHWWZFYlFGNmNpTm5uaEg3RzFSMURMR1BzbG1ZeElPanFOZEltSkJINFBPcEktbFHSAcYBQVVfeXFMUGVkbU52WUwwWXYxZUxRanVoR0Y0YmNYR1ZMVkNzX3pqZXRmSXlWc1NLVUxqUkdBLW5VOEtQNE5vekVZZ09NUXVOaVN5Z3oxQVY3N2dUcm4xM2VaeDZXQXYtbU52NHlGWkU4ZDJSd0hmZklsVXFlVVRnYmJZSEpnN3NZbUNqbkZuNkJYbExhazhrYzFCbEZ0R1lmRWJRRjZjaU5ubmhIN0cxUjFETEdQc2xtWXhJT2pxTmRJbUpCSDRQT3BJLWxR?oc=5",
-     "r": "detikcom"
-    },
-    {
-     "t": "Mengaku Sebagai Anggota Polisi dan BNN, Tiga Pelaku Pemerasan di Bandung Berhasil Diringkus Polisi - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01vRHcza2plSlVMdDZLMUdjVnVTeS0wdVQ4TUMyQmR4bHZJNUNwdmNVOEQzV0VNaEJKUzRONVlNTDJCaTIyT3hCVmMxSTJLYlQ1OFM5UUlxNk1GQ1BsVnNBSnpwOGZqUWVBUEJmWjZIeEFpQVgyX0QzRUpTVlhxdjVpM2FTNWczVTRxdXZablJTdDc0UlBMV2k2czRfXzQzMC1DUTBVQk1acnZLZ0daa3hBSWFZWE9ydDV2TlpKMlh3QmpVVGFfTWxaX2RneFl3QS1tV2dkajFKME5TNkMwWW9R?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     15,
-     22
+     19,
+     21
     ]
    },
    "trend": {
@@ -363,13 +363,13 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      8,
-     8,
+     7,
      3,
      4,
-     0
+     1
     ]
    }
   },
@@ -459,21 +459,21 @@
    ],
    "h": [
     {
+     "t": "Hasil Skrining Bikin Kaget! Banyak Guru di Bandung Alami Gangguan Mental, Disdik Luncurkan Aplikasi Khusus - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTZzT3RzRlo1M1A4NFVjaHNDdzRJTTF4bGtQekh5ckRHSVdIc0FRSThsM01GSzNaczBnTnctam4wZXpxeFluUXFfMFZNdmFkcWlsbzFxSnVrNjM3Y1Q5d0tBNFRZTW5vTlF1QWItVWdKZjF6VUJ4Z0I1TnFoc1JpbXU3NkN4ejFvSC15cEI4NUd2Zk9PUHdEdlRyNzM5Q1Jpc183MGhpaDg1bm9XeFgyY3JUTUxXLWVxMkFEdktaVXRHZVBycmZSSEM0ZkRWUS0tU18tdFl3NE1KOS1MbGpPVXVKNWFodEF3ZlQ40gHwAUFVX3lxTFBkNVZ0VVJPakdTTFhMa1VCcW1Zc2FqbWJSUUh2aFhBb0wzcVgyLVR0UWtVMW5tRlRwcTI1am5fTXBpOFllNFgtdGhYbkY3T2ZMRDN0UVVXclZKZ3lBcjVNaUlhcjBDNk5hZnBWNXZrOHVYV1pLcEdqVnNpNUFtRzQxQ2F1elJuWmFUa0dyanpwWnp0V1prNTJTVTYyZElQYWpRR3NOV3hnS3R0UkFiaFZoUGFXUWhzbW4tV1lPT1dkR1FVeGxadnM2NHZHN3lZU3Q4MW1TdkQtanI1UlVVYTQ2bGVHY2Utc19BMmdXMnlvNQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Ayah yang Bunuh Anaknya di Bandung Ternyata Ingin Gunakan Uang Sekolah untuk Judol - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnM0R0R4dU05Nk14TC1PUXdTbmlnYldXRW1DVUtnZkxKVGVjU05nYzgwanVWTWhlQjVTOTFKeFFFMTk1R2tFbk9oZGNKb3k0SjVVUk42WlJ4ZU92VlF6VjRseWdla2MzdjJwSmR4SmdkQ2U3d1pybEJsMDYwbkV2ZlI2R0NOUmhpVTRuUUFRakYwaFF6djNMNTd2cURWSXR5TmF1bFJCSEYyZHdHUFVia3NpSUJTMEJBanV2QnRwLU1idnh2TU9QYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUhaSTFaeG5oY0lzOVVTV3VCTEtCTlo5YXBGVmtjcnF3S3c0aWt2QzExUjd2cXRPUzViOUZjMUhGblNZMHA1eFRfc0xMMWV5UENXOFA0ZE1hdW94ay1jZ1Z4YlZOWUhnaTFBVV9zM0d3OE9VREtjRXZyczNlTWxZV1lkaEJQSXpfSnp0TEZIZmNnTEdYRnMtWnZ0VWU4aWFGR2RQYUdaMlppakc5T29zN2N1U01lUEV5RWsyMkNZdEZodExrTDR2b3MxRnAxOGVFd0lGQTlmUHU3UEhNUTd5RDVTbEdmdw?oc=5",
      "r": "Kompas.com"
     },
     {
      "t": "Peringatan Hari Osteoporosis Nasional 2026 Jadi Momentum Perluas Edukasi Kesehatan Tulang Sejak Dini - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnJyWW92azcyaWEyTmlBTFp4OEdyVVJRZ1lqZnBMcWlac2VULWlXNDU0SXI1ODNlMUJ6Rm94TE54TW9wWWd5aGtkZmFqUUxHLVJYX3NveDA4V0gwbWM4LXJoeFQ3N2NYaXphemFoaXhJdUtQdmRUYnByamdaMzM3ZHRILUkyUGlvdWxiVnpXYzE2dTY1ZmVYU1N4R19vMWtYOFotTlpiZkdsbzQ3SVNwbzc3TlRpTXM2RTBOX2VVMFEzOVN5ekNSNmpzOTcyQ2dpM3VPTGJFTGxoZWEwRmVwUFBkNm9YZw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Nurul Arifin Dorong Warga Bandung Perbaiki Data Desil agar Tak Kehilangan Bansos - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFo0cHE1MkIycFJlNE9vMXdYQU9Fc2ZZNmFrTk1OQkhyZV9uQkp5dkVPZldpTnRHN1UtVzVwMk04bk5QemhVbWI5QTNGUDVSandMOHJrbDlzbmU1RnEteElLekdhVDR4eExmX1c5QlY3WGF4TmMtdE5XQk8wNDVFLXNQNDBjblNPOWc5NnJaaENoYmRmbGE2QlZMbmdQRFBRTC1mUEFGQ0NrVjZjb1B3WUwwZE91ZTVsaUpSS2xTMVlQUWJCUWRyQTV3OA?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -498,7 +498,7 @@
     "w": [
      6,
      18,
-     5
+     6
     ]
    },
    "trend": {
@@ -527,7 +527,7 @@
      1,
      1,
      1,
-     1
+     2
     ]
    }
   }

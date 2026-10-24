@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:19:14.752961+07:00",
+ "updated": "2026-10-24T11:18:39.130063+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   32
   ],
   [
    "Kompas.com",
-   18
-  ],
-  [
-   "Ayo Bandung",
-   14
+   21
   ],
   [
    "RRI.co.id",
-   12
+   13
   ],
   [
-   "PPID Kab. Bandung",
-   10
+   "Ayo Bandung",
+   13
   ],
   [
    "detikcom",
@@ -40,6 +36,10 @@
   ],
   [
    "Ketik",
+   5
+  ],
+  [
+   "PPID Kab. Bandung",
    5
   ],
   [
@@ -63,8 +63,8 @@
    4
   ],
   [
-   "Satumedia.id",
-   3
+   "Jurnal Soreang",
+   4
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Dialog Bareng warga, Bupati Bandung Soroti Penanganan Gedung SD Bojong Asih Yang Kerap Terdampak Banjir - Antarwaktu.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXJMcVlsZXNNN3Vic0l4czFHbTdEbGIzT3VYSkk0d2FGZnB4NHZmSElSOTBER2ZJZlZDc0ViWmJ4M3JJb192ZHhEcU5KQzVtVmd5cDlfZm9HYUtPQS1OVWpnMXl1S2pEUmlXamFIYUtST3FfZ3pIY214U0V1SGdLTV9sY1lEX2dyNGpLZFc2dEtOZndLOUdlbXhNYkVJNDBndEVWRGZIT3VnOHdSaFk0eWlpREhZYWRRMG9vVXI3T3psQVpjcUwzZWM3ZHhlNzM4Umpn?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
      "t": "Persib Bidik Si Jalak Harupat untuk Lawan Melbourne Victory dan Adhyaksa FC - Fokus Jabar",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdkMktraElfVDQ4bGtoWVI0Ym9ndXlhNWJaTXZQSUkzZFJiWU45OGVvYTRMVU1xU2M4bHRYYkRWV0E2YWd6S1NheFVXUFBlaVp3SzhLOEd3MHZSX1JxQ1RkS2VScVZrNkdIa3d1R0tSc1ZJamlaS1F0bE9YMzA4RGNLaGF2bFRJZV8tMHN3QWYzZ3lZY3VXYlVCZGpKaHNsNTN4ZjBobHg4eFBLa0E?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXJ0TkpBYW9QZlgzWnhUY2hIMlR4S1NIdkI3TGdCVkhkVTBqT1ptdFBmRUp3LVlQOHM3RjNkY3lSdVQ0WHVkT2k0ZHpGS0FGVGhPSXFjSTN4UWw2Tmp4SllTVmtuOWNLR3EyN2hfYW53YWloLXhlWnNxZmMxLVBMZ0tjZm5pT210bU02MDJXaXRIbnMwQ0pUZWY3VUJ6WVk?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati Bandung Apresiasi Partisipasi Fatayat NU di HSN 2026, Raih Penghargaan OKP Terbaik - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmZETllTd2VPdVg3bU5MX2hfV2pDeEtfem9ITUZsZmRFTzd4ZHRUZFF2NDdpRGEwWVZzS3J0aVZoUkNPLTJPaGJyR2pSRnVocXhMcURVV1dwSU4xMlFBMzhYeFE5WWNDSTNfZkdXQW9PazRLV3VGbE0zUnJkejJURzU1QjRxYi12aUpOazVmTERoN1NEeHhjR2VtMTBfa1QtMUhNbkdQWGlMSl9NNUM2V1N5Ukt2RlBVeEYxaVh30gGvAUFVX3lxTFAzR0FDMGhqcXhaWUJ6Yy11SmtYUnN3SFV1VE5ZQXpLUzBNVEFqOEg0aEI2U0VFWWIwcl9MUTY4SjlBQ19YdDlUVndROHhvWVo4TnhGZjc2WW5HMUlFbWpJY21KY0xIRU5LMkg2OWJmaUUwNkFzN2l0OUpIRHJSUzVjdERnV3VrdjlsajREdXlpUGtxRzRpNERCUzlIMThRN0h2bGtibWVpVEpEZjZqcXM?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Jual Rumah di Bandung Selatan 600 Jutaan | Serenity Kopo Residence Katapang",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     13,
+     14,
      24,
-     4
+     5
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     7,
+     8,
      6,
      0
     ],
@@ -147,7 +147,7 @@
      0,
      1,
      3,
-     0
+     1
     ]
    }
   },
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Kaukus Ketokohan Jabar Kirim Aspirasi Soal Keabsahan Dokumen Pemilu ke Pimpinan DPR RI - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlczb0NvcE1PMDliZFRWa2VZM0hTcmQyZVJ1a0Z2bzZTVTlWZFZ5azJzNngzclRMZVRlNHdDdDFmTERoS3JKOHRBMGk4NlBsd21GSFB6QXdTSG1xdW04RE5PbnpUVHRPTUpBVWpYS00xTlpTSjdUZGc4amkwX09HaGp2MEUxSnoxcHdJbTJkQnFFZlJPR0xaVDlibVQ1ZXNqQXo4VkI2enFxUTlzeUlsWm1jb3VxdkhybGJCZ1E0TUdhaVRJTGJqSmc4dGVxWUtJMGZR?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
@@ -177,6 +171,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnVTb3I0cjZLS3BzU0hYQ3IxVnczN3hMcVFURERxa0pZbGExOThUUG5VMnAzSFhocWdVMGFDREl1aTFyOUZ2SGNDNlNPUXB3YV82TC1kaFFzSWhUZkw5SnV1VE9qTk5FY1dkZmhIeUh0cmhKVktPcU55WU5qLURELTBEdmo1SjdwTngtcjNJT21QMU9SRV9sbTVTbDFCWjkzMnBHX3gwLWpFYzDSAbABQVVfeXFMTkRZdk9EdWQ4SkRFcGJNZ1lwWWlWTlZkUERqUWh5Mm91bU1mMkZGUGpYTmRva2kxMUI3MmdUZ3FtNGtBVEtEa3dnUFFfNXZYay1ZNGZBRXFESHVFWEdicVdGWnBwQnZfZkFyeFRvZTlKSmRDbjdKcTJvdlhoXzZPcnNVLVVPQXk1SUVNTnRZcW1CVmhmbjBENktGclBKcmtQeWdLSkwyQUY4UzJZdEhRZF8?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Rustandi Daftar Sebagai Bacalon Ketua PWI Kabupaten Bandung Periode 2026–2029, Ini Harapannya - radarjabar.disway.id - Disway",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSdIBywFBVV95cUxPQ1Z4UTR2SVpROUMxQ0E3LVdpSkNxanlkYWtsS2tWdFZhSWNHQndNZUFQRkRWbGRZamk3eXQ5TzRVeHR3TnRUTjhuMzJnVnZtaE11T2liOEQ5NHdRWnI1R1NSdGE0TkdMc24xSlhTNVhnSWZocnRLRFNYcFlMRWlGdXpaWU12dVA2Tmp5eGlIcEJYZXdaYlFWb2s3bDBjWlpKeVMxYzRrTzBLZjRlX09taFlwckVfVERfaG93WGpZdEVEVlJTdER5TnFzSQ?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     10,
+     9,
      5
     ]
    },
@@ -237,16 +237,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Kopi Asal Jabar Semakin Harum di Pasar Internasional, Harga Lelang Berpotensi Tembus 80 Dollar AS - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllNUzViX3BVOFJYRW5FVjJFa0pqWDB6OWJVczRRQVp4Mm1aSkJKdnBMM2dpRjlNMEdGVW9kc1ZtUG16S0Y5cFJRV1c1ZFpOUktPT2dKaWtzbGx1OWxxOE9KcEQ5eDIzWXptbGVYckJZcWVCVlpUcWF0QWU2dFpmbjRIM0w0Y0dIa2Fxd2ZtT1l3VTkyZXZmRDV1czRndVl3Ykh0T2RLSU9JNmZ0QUdYU2pobnotWWFwYzVxZHJSRE5HQUlyVmJubll2VnhXaExRYzZ0MWVZcmtCOGwwcDk1ZA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Duta Batik Jabar 2026, Momentum Lestarikan Budaya dan Perkuat Ekonomi Kreatif - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0huLU8xeDA0d2thYk9KdHRScG1HT2FJZ084SlltQ00xOWNLZHlyY2ZFMFhlSHJYNVJfZDMxYmx5VDlkVzB2Nm12bFBHNDBGTGlUb1ZlRFJNX1JKZzRzdXNFWktWRWJoVlNsUzlXdkVtNVhGdWJsMC1JbUg4UTllaThKNU9aWm1GVDB4bGRPRmh1WVJacW9UZTRZMzZQbnZ0WmtTYUtTWDZCRFhPQWRvb1RNYXRQVHp0?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Lewat Program Santri Berzakat, BAZNAS Kabupaten Bandung: Santri Bisa Jadi Kekuatan Ekonomi Baru - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFjYk5aZjgwRVUtU2FjN1EwMFM2R3JxdnVkUERSUkpuRTE3ODNaNjFRaUFGYUp4SGZkdGFQMFlrRGZhMHRfSVAzVnFPaUd2MUR5b1RvY2g2S09SNEw2Sy10MjIyVmVlU3hKbHZhMG9CeWRDVXBvaHRPU3JMMGxraWcxV1VDLXA4eTFEMTdXLUVUMXVTU19ZY3BNNkZHbFdHdGtTOENIc2tjNzRLdGlxcWhNdFpwVE1vQTF4blVfalozYW9kNWFhbTk0MXU2a0ZFQVoxRXZnY3d2UDFm0gHiAUFVX3lxTE01WERHZjNWQ0YtZ0wyRDNJV3haZHFtQjVmRE5mRWVXcmtFdWp2TldVTlBsZmY5TU1vR3RtSl9RTmNuVTUzbi1aNjVZTFlSTllmbTg4TVJCRGFndDFYcXdRWlhRM3d1SF9nZnpIb1dIc185UHFGNFplTU9GRzVDa0dUZUJzZm1nOGRYZDNwZnhLakdfY003bVV5ZzlBTTlIX0NQOXI2aUxjX0NPQUtFMVZyTVFPXzRucFJjVzlEXzA3ZFE0bDZ3WEJyVERabjQyOGNzNkx4WU5vSDlabGYyeGpRV2c?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -340,7 +340,7 @@
     "w": [
      2,
      17,
-     21
+     22
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      1,
      9,
-     6,
+     7,
      3,
      4,
      0
@@ -415,8 +415,8 @@
     ],
     "w": [
      3,
-     8,
-     7
+     7,
+     8
     ]
    },
    "trend": {
@@ -440,11 +440,11 @@
     ],
     "g": [
      0,
-     0,
      1,
      0,
      0,
-     5,
+     0,
+     6,
      1
     ]
    }
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     7,
-     16,
+     6,
+     17,
      5
     ]
    },
@@ -517,7 +517,7 @@
      1,
      1,
      4,
-     1,
+     0,
      0
     ],
     "g": [

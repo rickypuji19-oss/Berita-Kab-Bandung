@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:28:08.100047+07:00",
+ "updated": "2026-10-24T15:17:30.825046+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   35
+   34
+  ],
+  [
+   "RRI.co.id",
+   19
   ],
   [
    "Kompas.com",
@@ -19,12 +23,8 @@
    13
   ],
   [
-   "RRI.co.id",
-   12
-  ],
-  [
    "PPID Kab. Bandung",
-   10
+   11
   ],
   [
    "detikcom",
@@ -35,15 +35,15 @@
    7
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Koran Gala",
    6
   ],
   [
-   "Koran Gala",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     25,
+     26,
      5
     ]
    },
@@ -167,16 +167,16 @@
      "r": "Jurnal Soreang"
     },
     {
+     "t": "Lepas 1.464 Kontingen ke Porprov Jabar 2026, Kabupaten Bandung Bidik 100 Medali Emas - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTJSUGdqdmtoQVpwQnN3QWt2YWthXzlILXlmNkFzRWxMRF9uMDlKZkJNRDB5Ny1DN2tDVjlDT2VUOHI2U2J2c0NDeldsYVpHTkdxSzZSX0JiMktLSWp4UmxSNnRSNnpSVEVTMUEtUEdJOEkxRVAyUko3VU0xNlZPVWlwODAxeDdoZlJKazVUT1E2dTN0S3NnQnNYcmV2ZFdIVHpsMktiUVN4eE9PNzI1WHh4MVlsT2o3UWJOX2wySThDbDDSAcgBQVVfeXFMTWd4WWtkN2s0U1hfYy1fblFfWU9Bc0w5Vm5jOUlyNFdJQjBpMVJSNjQ4YjJoWXd0VXZ2MW9XZHJaTno0dzRZRFB3dVhCM2Z3NWZpSXRuaE1INTFQR3NHSUhSUWxSaTlVb0pPbDdoLWpoTGpIejY2UFgwTDdmVjZvNnduMVJWampPTjU1YnltS210ZHIyQUx4ZDRSbEJjWkxBcXRRYmNqWTJYMFI3bjVHdzNNNVZCSEgxZ0d1OUVHYTl5bkxxeEYwaV8?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Kaukus Ketokohan Jabar Kirim Aspirasi Soal Keabsahan Dokumen Pemilu ke Pimpinan DPR RI - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlczb0NvcE1PMDliZFRWa2VZM0hTcmQyZVJ1a0Z2bzZTVTlWZFZ5azJzNngzclRMZVRlNHdDdDFmTERoS3JKOHRBMGk4NlBsd21GSFB6QXdTSG1xdW04RE5PbnpUVHRPTUpBVWpYS00xTlpTSjdUZGc4amkwX09HaGp2MEUxSnoxcHdJbTJkQnFFZlJPR0xaVDlibVQ1ZXNqQXo4VkI2enFxUTlzeUlsWm1jb3VxdkhybGJCZ1E0TUdhaVRJTGJqSmc4dGVxWUtJMGZR?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
-     "r": "Inilahkoran.id"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      13,
-     9,
+     11,
      5
     ]
    },
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     2,
-     20,
+     3,
+     21,
      2
     ]
    },
@@ -276,7 +276,7 @@
      0,
      0,
      0,
-     2,
+     3,
      0,
      0
     ],
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     17,
+     18,
      20
     ]
    },
@@ -416,7 +416,7 @@
     "w": [
      3,
      8,
-     8
+     9
     ]
    },
    "trend": {
@@ -440,7 +440,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     18,
+     19,
      5
     ]
    },

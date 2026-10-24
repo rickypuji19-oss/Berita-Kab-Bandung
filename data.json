@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:18:39.130063+07:00",
+ "updated": "2026-10-24T12:18:07.240820+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   34
   ],
   [
    "Kompas.com",
-   21
-  ],
-  [
-   "RRI.co.id",
-   13
+   19
   ],
   [
    "Ayo Bandung",
    13
+  ],
+  [
+   "RRI.co.id",
+   12
+  ],
+  [
+   "PPID Kab. Bandung",
+   10
   ],
   [
    "detikcom",
@@ -35,16 +39,12 @@
    6
   ],
   [
-   "Ketik",
-   5
-  ],
-  [
-   "PPID Kab. Bandung",
-   5
-  ],
-  [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Ketik",
+   4
   ],
   [
    "Radio PRFM",
@@ -55,16 +55,16 @@
    4
   ],
   [
-   "Inilahkoran.id",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
-   "Jurnal Soreang",
-   4
+   "Satumedia.id",
+   3
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ]
  ],
  "topics": [
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     14,
+     13,
      24,
      5
     ]
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     8,
+     7,
      6,
      0
     ],
@@ -161,10 +161,10 @@
    ],
    "h": [
     {
-     "t": "Hari Santri 2026, DPRD KBB Desak Perbup Pesantren Segera Diterbitkan - Inilahkoran.id",
+     "t": "Kaukus Ketokohan Jabar Kirim Aspirasi Soal Keabsahan Dokumen Pemilu ke Pimpinan DPR RI - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3pERDN6VzhRd0ozaXEwYWdTX1Ixa0JNUFo1c0JKb0FQOXFWVXZ2NHVlR1lEWEJzX2x4UlFfRTVwV0RkczFyd0xqU2V3WTRyV0UxZ3dRd21vUzNPNXdDS2hoM0dHRElPd2oxeVZPSUlKclY4blRwbHBWV2tfckJnWS1aN2hyUFRzUmZiYkNPeVBvai1mRW1pM1VB?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlczb0NvcE1PMDliZFRWa2VZM0hTcmQyZVJ1a0Z2bzZTVTlWZFZ5azJzNngzclRMZVRlNHdDdDFmTERoS3JKOHRBMGk4NlBsd21GSFB6QXdTSG1xdW04RE5PbnpUVHRPTUpBVWpYS00xTlpTSjdUZGc4amkwX09HaGp2MEUxSnoxcHdJbTJkQnFFZlJPR0xaVDlibVQ1ZXNqQXo4VkI2enFxUTlzeUlsWm1jb3VxdkhybGJCZ1E0TUdhaVRJTGJqSmc4dGVxWUtJMGZR?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Pemkab Bandung siapkan stadion SJH untuk dua laga kandang Persib - ANTARA News Jawa Barat",
@@ -187,8 +187,8 @@
     ],
     "w": [
      12,
-     9,
-     5
+     8,
+     4
     ]
    },
    "trend": {
@@ -215,7 +215,7 @@
      0,
      0,
      3,
-     2,
+     1,
      0,
      0
     ]
@@ -257,7 +257,7 @@
     ],
     "w": [
      2,
-     18,
+     20,
      2
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      2,
      17,
-     22
+     21
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      1,
      9,
-     7,
+     6,
      3,
      4,
      0
@@ -415,8 +415,8 @@
     ],
     "w": [
      3,
-     7,
-     8
+     8,
+     7
     ]
    },
    "trend": {
@@ -440,7 +440,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Fakta Baru Remaja di Cicalengka Bandung Dibunuh Ayah, Pelaku Minta Uang Sekolah Korban untuk Judol - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXRKQzNIWlRHaktab0JLZUUtNkkwaEstZmQ5ZzFHZ2tLRWNjV3NOR0VHQ2V0NUJjSU5OMlJPWGpEdUFmQWl5N2pMLUdqY3RNLVFseXVQTktQQ3BreGdONktGZjliWmluaVJtaDhFZTJudzFYcnhZaFBTOGFrTlVzYlM3Y0YxT0RJdW1WajhEZE5zdmNYQ2J1Z2Z3ZldUMVZJRlVxSXR0WXVYSVRiMjlsOHBkbzR0aXl1dVF4NHNUSktzOUVXZld1NnQ3T1UxNGNKZlNLeDhLNC1HLXhTOTQ2cnNCaXdnOW8?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Ayah Bunuh Anak di Cicalengka, Dipicu Uang Sekolah untuk Judol - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObklqRkRkRHZZMjN6NVc1VmVDQ1lHU2NaNExoY2xpMGp0YXIxNzJLNzY5dXh1SGQwZ3JCb0ZMZWthUFZSTW5EX3N6QWRpZ3g3eVRwVFl5SE1yNS1fSE9QQXMwczJNcGVMdkZ3WEpTX2NLS0x4dVlPYm93ZUNudnRtb0tGTmo4Sk9zajQ3Ulo1VE1WOXhySkNEczU3ZkFoS1RHeGdLZVpZVXdfaERyNjFYTUZtUU0?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU5tTEdQUnRYNXZoUnlGQmVCd2hqUTBmZmtiX2hKdWNtMDhkdVJvSExwaE85ZUZsak5nM3VSeVBxb0wtSktWblh2eExjM1VVcUU2SldsaFBTazBxaHZ5Q21CdEtBSllfUTZVQ3NsR1lIUThMam8xUUQ4LTRWSDVvbXg3dWQ1UkVZTFlPczYxcDNKcERKc09iTWk2eHQzQkJlSG4zN3hqNkY2VW1FTGR4d2tJUUpyQnRRQ194N3RB?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Bela Ibu Cekcok dengan Ayahnya soal Uang Sekolah Dipakai Judol, Remaja di Cicalengka Tewas Dianiaya - Pikiran-Rakyat.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3h1WEFNcC1DWUxmOEhjNmlXQUJxT2FhU3FWZDdYRldzME1rbWFRSnpCU1ZudnNLNmdETUNnMFFhY0FkU2h1eGozclVGXzZEQk1mTHV3ZlFaODVvbjFWWmc2blRGanN1UFctR0dsVFkzV2VwRXZUbnpRT3o0ZkpXRTdzcm1sUGhGMUdUMXowUnNmSzV5VV83dzA4ZmJEVjdRZjd0ajFnVW43aHpHbHNoQ1FNTWlZVkFQQVVQVXFtcFpvMGp0LXBVWkJaYTFHaWoxYmdOTGgxVHVWVkdlaXhWUmVn0gHnAUFVX3lxTFBRZHg4emJuUGtBYlg5bld0YVZ5TUh1QzBnaFdRNmxsUDJud0l4a3ZKU1lacDVvaTROQnMtT1poVHlkTS1uT3BJMFlRZnk3bTVzeEZ0T2kzc1VhVmR1cUtSZmNfVXlOVmYyUlJUOUZhOXp0MHFzbU9CQlE1S2todnJKX0c5VFoyc2dsVnM5ellVbnZTaHR4NTFTb0I4bDZHVE5Md2pEU09VRDZPMkFJSXVxRkZnUXQxRmQ0YzBDOERUWWp2WE8xQzlKQWJ5bzhPU3IwY3NDU2VSQ3RTSVh6QWp1dUJpMUdjUQ?oc=5",
-     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     6,
-     17,
+     7,
+     18,
      5
     ]
    },
@@ -517,7 +517,7 @@
      1,
      1,
      4,
-     0,
+     1,
      0
     ],
     "g": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:17:06.204136+07:00",
+ "updated": "2026-10-24T17:16:50.124119+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,16 +15,16 @@
    20
   ],
   [
-   "Ayo Bandung",
-   13
-  ],
-  [
    "RRI.co.id",
-   11
+   13
   ],
   [
    "PPID Kab. Bandung",
    10
+  ],
+  [
+   "Ayo Bandung",
+   9
   ],
   [
    "detikcom",
@@ -39,12 +39,12 @@
    7
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
    "Jurnal Soreang",
@@ -187,7 +187,7 @@
     ],
     "w": [
      14,
-     10,
+     11,
      5
     ]
    },
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Puluhan Preman Terjaring Operasi Polresta Bandung di Soreang dan Katapang - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNck05WWNmNlJ0N19HRGhnRFBOeU1hU3M4aENjSUhQc3JqWHdQYWxDTWtZX0JkeWFGdVhvdzhzUW03ZkRrdFViRlE4bGNwZ0g0SmFqdDFIUGlMTG9WaGpnbFJhZjd1QzBfZi10U2lCelJNS1hBUk4tSTR5LXhRaldWU3YwVTR6Qkl5RmxGT1dIR09iWGI5S2VFRXRKYV92QTFoMUwxT1NrdEZYX1FfRnR0THg2cDJxVUFOT1Iw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Jejak Begal Viral: dari BNN Gadungan hingga Polisi Palsu di Bandung - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWRtTnZZTDBZdjFlTFFqdWhHRjRiY1hHVkxWQ3NfempldGZJeVZzU0tVTGpSR0EtblU4S1A0Tm96RVlnT01RdU5pU3lnejFBVjc3Z1RybjEzZVp4NldBdi1tTnY0eUZaRThkMlJ3SGZmSWxVcWVVVGdiYllISmc3c1ltQ2puRm42QlhsTGFrOGtjMUJsRnRHWWZFYlFGNmNpTm5uaEg3RzFSMURMR1BzbG1ZeElPanFOZEltSkJINFBPcEktbFHSAcYBQVVfeXFMUGVkbU52WUwwWXYxZUxRanVoR0Y0YmNYR1ZMVkNzX3pqZXRmSXlWc1NLVUxqUkdBLW5VOEtQNE5vekVZZ09NUXVOaVN5Z3oxQVY3N2dUcm4xM2VaeDZXQXYtbU52NHlGWkU4ZDJSd0hmZklsVXFlVVRnYmJZSEpnN3NZbUNqbkZuNkJYbExhazhrYzFCbEZ0R1lmRWJRRjZjaU5ubmhIN0cxUjFETEdQc2xtWXhJT2pxTmRJbUpCSDRQT3BJLWxR?oc=5",
@@ -311,12 +317,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01vRHcza2plSlVMdDZLMUdjVnVTeS0wdVQ4TUMyQmR4bHZJNUNwdmNVOEQzV0VNaEJKUzRONVlNTDJCaTIyT3hCVmMxSTJLYlQ1OFM5UUlxNk1GQ1BsVnNBSnpwOGZqUWVBUEJmWjZIeEFpQVgyX0QzRUpTVlhxdjVpM2FTNWczVTRxdXZablJTdDc0UlBMV2k2czRfXzQzMC1DUTBVQk1acnZLZ0daa3hBSWFZWE9ydDV2TlpKMlh3QmpVVGFfTWxaX2RneFl3QS1tV2dkajFKME5TNkMwWW9R?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Sempat Viral di Garut Mengaku Polisi dan BNN, Tiga Pencuri dengan Kekerasan Diringkus Polresta Bandung - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm44dE0zeUJDYXpESVdUekpWN2dRSmhwR3FHSWE5ZDZmSEtkaFRxVktsTWp3ZXd0bFRNbVJJQUdYNTRwaXQ4OXBxeHZQVm5XT2h4czlMZERvYkF3Y1A0c1N2Y0Fhd2JSTkJ2Z1BSWVMxWGxUUUUxelJ1X2JwV2JEM1NpYUt1Q01ncUZtb1ktUGN5SjlRUkRKY0x2eTlxVzBNaHI5eXFGRXEtd0p6UHBIQkowVmtzV2RQQ3ZibXlJc05JRDhGZmc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     17,
+     16,
      20
     ]
    },
@@ -497,8 +497,8 @@
     ],
     "w": [
      7,
-     18,
-     5
+     19,
+     4
     ]
    },
    "trend": {
@@ -523,7 +523,7 @@
     "g": [
      0,
      0,
-     2,
+     1,
      1,
      1,
      1,

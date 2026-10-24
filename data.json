@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:17:30.825046+07:00",
+ "updated": "2026-10-24T16:17:06.204136+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,35 +8,35 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
-  ],
-  [
-   "RRI.co.id",
-   19
+   35
   ],
   [
    "Kompas.com",
-   19
+   20
   ],
   [
    "Ayo Bandung",
    13
   ],
   [
-   "PPID Kab. Bandung",
+   "RRI.co.id",
    11
+  ],
+  [
+   "PPID Kab. Bandung",
+   10
   ],
   [
    "detikcom",
    8
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Koran Gala",
    7
   ],
   [
-   "Koran Gala",
-   6
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
    "jabarekspres.com",
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     26,
+     25,
      5
     ]
    },
@@ -167,16 +167,16 @@
      "r": "Jurnal Soreang"
     },
     {
+     "t": "Ketua DPRD Kabupaten Bandung Apresiasi Atlet, Target 100 Emas Porprov Jabar Jadi Tantangan - Koran Gala - Koran Gala",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGU0cjhpZlpNTGFSdUg4UC1LTVZpNm5RSUsxOC04Rm1qZHNBcUhXUW8tUGFiSVVjaDdqOEwyZkk2ZFF4M1FCSGZPeFNlX2RLSHYyTkdnNkxzN1l6by1TS2NhTmUzUi1IV1I3Tjh5eFRtWU9LYVlROE5CdGk5aUhtNXV2V3RRbE11azI2QXZwYVBmY21nVDdGV29RSzFIZkxfY2VZZVpQdG5WQjdMUmZDMTVqWXBXRmYwT2VfZUtXMkJpbENqTy15WVQ3dWzSAdIBQVVfeXFMUG5nWDN0aldmS3hRdlZrNDQxQlF4ZVFpNG5CeWRFWGNYdnU5RUlZMDVPUHA3QklQTm80cktfZnlXR00tM3RNck5hdHZLUml5YTFJVTJPNFVFaGFwclpmRnVnYmFhV2lCSm1Xd1RWY0d5RVFlMC05SUwxLXc2X0RFLUpiRHN1RGV6THJEWWxiN1pBYzZta1ZIX3RXOEZrZ1Rhc29zRTJMSHlicEJmRVZsdHNmZmNLbEt4NjZUWUI2ck80eUxxVU1tRVktVER6NzJwTnB3?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Lepas 1.464 Kontingen ke Porprov Jabar 2026, Kabupaten Bandung Bidik 100 Medali Emas - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTJSUGdqdmtoQVpwQnN3QWt2YWthXzlILXlmNkFzRWxMRF9uMDlKZkJNRDB5Ny1DN2tDVjlDT2VUOHI2U2J2c0NDeldsYVpHTkdxSzZSX0JiMktLSWp4UmxSNnRSNnpSVEVTMUEtUEdJOEkxRVAyUko3VU0xNlZPVWlwODAxeDdoZlJKazVUT1E2dTN0S3NnQnNYcmV2ZFdIVHpsMktiUVN4eE9PNzI1WHh4MVlsT2o3UWJOX2wySThDbDDSAcgBQVVfeXFMTWd4WWtkN2s0U1hfYy1fblFfWU9Bc0w5Vm5jOUlyNFdJQjBpMVJSNjQ4YjJoWXd0VXZ2MW9XZHJaTno0dzRZRFB3dVhCM2Z3NWZpSXRuaE1INTFQR3NHSUhSUWxSaTlVb0pPbDdoLWpoTGpIejY2UFgwTDdmVjZvNnduMVJWampPTjU1YnltS210ZHIyQUx4ZDRSbEJjWkxBcXRRYmNqWTJYMFI3bjVHdzNNNVZCSEgxZ0d1OUVHYTl5bkxxeEYwaV8?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "Kaukus Ketokohan Jabar Kirim Aspirasi Soal Keabsahan Dokumen Pemilu ke Pimpinan DPR RI - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlczb0NvcE1PMDliZFRWa2VZM0hTcmQyZVJ1a0Z2bzZTVTlWZFZ5azJzNngzclRMZVRlNHdDdDFmTERoS3JKOHRBMGk4NlBsd21GSFB6QXdTSG1xdW04RE5PbnpUVHRPTUpBVWpYS00xTlpTSjdUZGc4amkwX09HaGp2MEUxSnoxcHdJbTJkQnFFZlJPR0xaVDlibVQ1ZXNqQXo4VkI2enFxUTlzeUlsWm1jb3VxdkhybGJCZ1E0TUdhaVRJTGJqSmc4dGVxWUtJMGZR?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     13,
-     11,
+     14,
+     10,
      5
     ]
    },
@@ -208,7 +208,7 @@
      6,
      6,
      0,
-     1
+     2
     ],
     "g": [
      0,
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     3,
-     21,
+     2,
+     20,
      2
     ]
    },
@@ -276,7 +276,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0,
      0
     ],
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     18,
+     17,
      20
     ]
    },
@@ -364,9 +364,9 @@
     ],
     "g": [
      0,
-     1,
+     0,
      8,
-     6,
+     7,
      3,
      4,
      0
@@ -416,7 +416,7 @@
     "w": [
      3,
      8,
-     9
+     8
     ]
    },
    "trend": {
@@ -440,7 +440,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Peringatan Hari Osteoporosis Nasional 2026 Jadi Momentum Perluas Edukasi Kesehatan Tulang Sejak Dini - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnJyWW92azcyaWEyTmlBTFp4OEdyVVJRZ1lqZnBMcWlac2VULWlXNDU0SXI1ODNlMUJ6Rm94TE54TW9wWWd5aGtkZmFqUUxHLVJYX3NveDA4V0gwbWM4LXJoeFQ3N2NYaXphemFoaXhJdUtQdmRUYnByamdaMzM3ZHRILUkyUGlvdWxiVnpXYzE2dTY1ZmVYU1N4R19vMWtYOFotTlpiZkdsbzQ3SVNwbzc3TlRpTXM2RTBOX2VVMFEzOVN5ekNSNmpzOTcyQ2dpM3VPTGJFTGxoZWEwRmVwUFBkNm9YZw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Nurul Arifin Dorong Warga Bandung Perbaiki Data Desil agar Tak Kehilangan Bansos - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFo0cHE1MkIycFJlNE9vMXdYQU9Fc2ZZNmFrTk1OQkhyZV9uQkp5dkVPZldpTnRHN1UtVzVwMk04bk5QemhVbWI5QTNGUDVSandMOHJrbDlzbmU1RnEteElLekdhVDR4eExmX1c5QlY3WGF4TmMtdE5XQk8wNDVFLXNQNDBjblNPOWc5NnJaaENoYmRmbGE2QlZMbmdQRFBRTC1mUEFGQ0NrVjZjb1B3WUwwZE91ZTVsaUpSS2xTMVlQUWJCUWRyQTV3OA?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXRKQzNIWlRHaktab0JLZUUtNkkwaEstZmQ5ZzFHZ2tLRWNjV3NOR0VHQ2V0NUJjSU5OMlJPWGpEdUFmQWl5N2pMLUdqY3RNLVFseXVQTktQQ3BreGdONktGZjliWmluaVJtaDhFZTJudzFYcnhZaFBTOGFrTlVzYlM3Y0YxT0RJdW1WajhEZE5zdmNYQ2J1Z2Z3ZldUMVZJRlVxSXR0WXVYSVRiMjlsOHBkbzR0aXl1dVF4NHNUSktzOUVXZld1NnQ3T1UxNGNKZlNLeDhLNC1HLXhTOTQ2cnNCaXdnOW8?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Ayah Bunuh Anak di Cicalengka, Dipicu Uang Sekolah untuk Judol - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObklqRkRkRHZZMjN6NVc1VmVDQ1lHU2NaNExoY2xpMGp0YXIxNzJLNzY5dXh1SGQwZ3JCb0ZMZWthUFZSTW5EX3N6QWRpZ3g3eVRwVFl5SE1yNS1fSE9QQXMwczJNcGVMdkZ3WEpTX2NLS0x4dVlPYm93ZUNudnRtb0tGTmo4Sk9zajQ3Ulo1VE1WOXhySkNEczU3ZkFoS1RHeGdLZVpZVXdfaERyNjFYTUZtUU0?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     19,
+     18,
      5
     ]
    },

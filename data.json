@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:17:13.260206+07:00",
+ "updated": "2026-10-24T20:23:56.902964+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -27,20 +27,16 @@
    11
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Koran Gala",
    9
   ],
   [
-   "Koran Gala",
+   "ANTARA News Jawa Barat",
    8
   ],
   [
    "detikcom",
-   7
-  ],
-  [
-   "Radio PRFM",
-   6
+   8
   ],
   [
    "jabarekspres.com",
@@ -51,19 +47,23 @@
    5
   ],
   [
-   "Jurnal Soreang",
-   4
-  ],
-  [
-   "Ketik",
-   4
-  ],
-  [
    "Radar Bandung",
    4
   ],
   [
    "Galamedia News",
+   3
+  ],
+  [
+   "Jurnal Soreang",
+   3
+  ],
+  [
+   "Ketik",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Terima Surat Permohonan, Dispora Siap Fasilitasi Dua Laga Persib di SJH - NNC Netralnews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmxjQ05FYUMySUVuNjdfMkFiTzNtLXoyQ3ZaUWZ5NGdvUWxTMExvLXhFWURhSDVaS2pYVnczSlB0ZVB6eWxmVC1GQWVXamVMUmJXZjJpMXpHLS04QzI4ejg5d2UyTjlOajRPZ05BRUhadzBacnVfT29Fc1ZqakNCaUtrZmMyU2gwS0w0WTVXYmg1R2JUUnBwQ0p0U0lYNGdQbV9VM2g1aWNMNEludHRLeUJHNVA1T2xBV0pTbWxPSkg1Zw?oc=5",
+     "r": "NNC Netralnews"
+    },
+    {
      "t": "KDS Doakan Almarhum Kades Dayeuhkolot dan Menugaskan Pejabat Sementara Cari Solusi Banjir di SD Bojongasih - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzdNUUFWQnZGcE00NGJhQnkwVnZMTlZKcEM2eVBZNlVsbFRuUlBuRkZ5TU9lZ2s2SFpjOFkwRklUWi1UVVVQbE12Q3B0UXhtYXFRdHJrX2Flc2hfeTZuN3hMeHE4N3pwLVJYRjNibjJHSE1WVGQ5dk5iVG8yWFJrMV9kckh6XzJuWTBxdkZSaC1hSE9PWGRHRmd1aTJhTmZnazhQbm5VTGFCeUdTRXZKVFhJcUprRG9zVjZNUU1Kal81ZXUxRjRhTG5sdmNiUEY5R3FmTVd4NjRRUk1FZGdwVGVIcGRKWEtHSXZBaFBETnIzTkxG?oc=5",
@@ -88,12 +94,6 @@
      "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUluaVZ5QmtUTjJUQ1BBdUFqVW5sWWQwclYxdHVpTzdhNXhEa3huSnhRVUkzUkU4ZExvaVV2aTdkem42dzJmNDFQZk1tZWVKX2dpMVNuVy1oNk5rY1c1VVBGSDBvMVpZWWZLLTVXVFlZanBoakFOeHlpY1JVQkJvc2ExVFFneEtDUmRadUFkYVNzaTdsTmxMZTNXc1pNa05EUjlwQ1Z2eHNlYVVYRDFnRlZKZ1hyMm5faUHSAb8BQVVfeXFMTm05M0d0eVg4MlprZnN5bkdkTVZORHVoVEtrQ3ZFaHpoQk1yVjNodVlhd1NnS21FNkFucXliSnA0WTI2d3BXUFkxLUJhalF4N0pZWElLZzRyS3ZYZGpJejMtaXZEV0NFLUs3ZFE2Q1lSSXJoWnhOcDBGU2dpd0tUcFdlQzdjNHREM2pJaGlSdHE4bnJVdzZWcnBfQ1Q3dkprVWhESks2SVF4c3hpbjNPWnliZEt4aWNCenNjQm9WekU?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTkzR3R5WDgyWmtmc3luR2RNVk5EdWhUS2tDdkVoemhCTXJWM2h1WWF3U2dLbUU2QW5xeWJKcDRZMjZ3cFdQWTEtQmFqUXg3SllYSUtnNHJLdlhkakl6My1pdkRXQ0UtSzdkUTZDWVJJcmhaeE5wMEZTZ2l3S1RwV2VDN2M0dEQzakloaVJ0cThuclV3NlZycF9DVDd2SmtVaERKSzZJUXhzeGluM09aeWJkS3hpY0J6c2NCb1Z6RdIBvwFBVV95cUxObTkzR3R5WDgyWmtmc3luR2RNVk5EdWhUS2tDdkVoemhCTXJWM2h1WWF3U2dLbUU2QW5xeWJKcDRZMjZ3cFdQWTEtQmFqUXg3SllYSUtnNHJLdlhkakl6My1pdkRXQ0UtSzdkUTZDWVJJcmhaeE5wMEZTZ2l3S1RwV2VDN2M0dEQzakloaVJ0cThuclV3NlZycF9DVDd2SmtVaERKSzZJUXhzeGluM09aeWJkS3hpY0J6c2NCb1Z6RQ?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     13,
-     26,
+     12,
+     27,
      5
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     2,
      6,
      5
     ],
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Berawal dari Krisis Moneter, Nebulae Cymbal Tumbuh dari Bengkel Kecil di Kabupaten Bandung - Koran Gala - Koran Gala",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXRRSnVsdGZFbkNja0hpcE5OVEtnWE9WS1JvNmd0aUxndndCZEhzUUhEMnp4TUFvZTB3OUhFM0N3a2VxbUh4M2dlV1F0RnFXSjVFMmVjbFZaZ0F0dFg3M25VVUplYjhNSmdTYTBhUUNKaHBCU0IxZ0twaFVURzlzYUROQU52YTJBejRDNlRGRGtyUDVwZ3lIRkROMlJiOFlkTmxnRmwweUN5X0V5MmtjQnpSNHNwU3pXcXpUcTNaLWMxSFkzNW4xQmNSNGbSAdIBQVVfeXFMTUhOc1dGSk1UV2NqZS00QVRLVk5zalphT1BvR0Jzd2ZiLTItVDV3ZUQxY2dIYklleUlweEpQM3dSRXJNMFBVeUxMUDdjWUZHVkZDbG54LVRGa3JPQ1FwSWhsU1BvNGZWQm5adk9fbjhMRHpFOVhhTzRFT0FmcmYzdTNFZ1JKQldLdEVWcW1LYkZMTTRWYldWM1lubl93SURabUxXUVNfSWpPY3V1NXRMUXNVamZkdklyTjdDR3dtRTV2QlFIVHBoSWluUkpDcHBrd1NB?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Ketua IJTI Bandung Sambut Pencalonan Rustandi sebagai Ketua PWI Kabupaten Bandung, Nilai Punya Modal Memajukan PWI - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcFVKQm84WDlNSV9xRENWaEF1NUhGem1OUUczXzhzVnhZWWk1RGNNTzVhVFdPdldKa2Y5WDZkVlI2VHpudFk5d2JfRGZfVGNMNkJqaGVBLS12QkllNTRKVmpQdE0ydXlhU1pmNVU0QTdZWnczZzJvc0FyUm9leWVjWEpYa1kxamFremlHOFpMeG5yZ2poZDJYS3RISkU3MGJuaWh2R2RFRURnSE5NWlYtZXA3QUVxamg4Q2FsUl9LTHFTZmtKdjlKOVRleUExV053dWlQODVGSGp5TjFpN2lqWUZvVTkxTklBWFJVT9IB8gFBVV95cUxPLXNVWkVhRnVFR2ZsQzEtVFZ3a0xDVTk3OFloVnQ0WWlTNWlZVEltOFZGSWxoZ1BDazVtY0ZqVFppZmFwcUNSM0dPS3FGejV4U2RSalJWMVMyN3dfZHQtZlF2cmdfUURTWVJSM1FHVjZPY1oxaDZDRVJLYzdhV0xUZDdMY1NUMFlTU3BROUpzaHJKdk1rYi16VEF5bExGS2NHTTVLNEF4SW82YUV2UWN2RWFMWktfeEFHcjNuOHlOdUNLdEQwNDBkTmM1aFZGd0F2SjhoRHplYmoxa2x5WDlwdnk0MGlab1NZcFl1Qzhqd1I3UQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjRQUVFSZlQtYWx2eWRFVnVqVmkzWnRuY1cxY0tySENURWx4Q2c3QTIyUG1BM1Nab1NsUmJfS3RPV0NmX1gta0EzZmhSWkF5cmR2Q00xVGRUb0NYZm5BVXRJQ3lNY0hESjZVVEQzSzM1dW1mX1Q3NHN1X29EcDZSQWl0MXpoZkJtRTR4dGptOFpnQ3Q0OVhadWNWMENNbWNFZENxTFZyVWxXTFA1bGs5OVB3RDZ0dFBNWEFaMm5VS21NcE9yT1NoSS1fSzdRUW5LR1pIWU5WWlNPZ0VCQzk0UDVuOFhaTGZwc0lTdFRwNVJyX3pMNjZR0gH8AUFVX3lxTE5LWWRfLUhUSmxNcFF2SkVUMlBtZzR1allQX0FIN3FVUTFwUk1vT0NJajgyTTZIeGNNZkstX0N0TDJCYWlIV09fNjFENmp4ZV9ybDl4cTNZS0VxUjlSMzhwc2FwRzJWR3BremFZcUp2XzBhZlFJVTh4ZjUyUi1xZHlQc2tIc2RqeTRsUVlKTHc3Mm5tcUNYVk85Tk91SkNmQ3BtSTRwbjh4M0lpbVpRVl9CRjhXV2Y5aXpyTi1FVXM4Ty1fUjM0cTYzbkZwd0NkS282YVVBd3M4QXZpaU1Lb3VGeGtrd3RPQnNaUTVBMkNLemFncjRUZE5VRGJXXw?oc=5",
      "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Ketua DPRD Kabupaten Bandung Apresiasi Atlet, Target 100 Emas Porprov Jabar Jadi Tantangan - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGU0cjhpZlpNTGFSdUg4UC1LTVZpNm5RSUsxOC04Rm1qZHNBcUhXUW8tUGFiSVVjaDdqOEwyZkk2ZFF4M1FCSGZPeFNlX2RLSHYyTkdnNkxzN1l6by1TS2NhTmUzUi1IV1I3Tjh5eFRtWU9LYVlROE5CdGk5aUhtNXV2V3RRbE11azI2QXZwYVBmY21nVDdGV29RSzFIZkxfY2VZZVpQdG5WQjdMUmZDMTVqWXBXRmYwT2VfZUtXMkJpbENqTy15WVQ3dWzSAdIBQVVfeXFMUG5nWDN0aldmS3hRdlZrNDQxQlF4ZVFpNG5CeWRFWGNYdnU5RUlZMDVPUHA3QklQTm80cktfZnlXR00tM3RNck5hdHZLUml5YTFJVTJPNFVFaGFwclpmRnVnYmFhV2lCSm1Xd1RWY0d5RVFlMC05SUwxLXc2X0RFLUpiRHN1RGV6THJEWWxiN1pBYzZta1ZIX3RXOEZrZ1Rhc29zRTJMSHlicEJmRVZsdHNmZmNLbEt4NjZUWUI2ck80eUxxVU1tRVktVER6NzJwTnB3?oc=5",
-     "r": "Koran Gala"
     }
    ],
    "v": {
@@ -205,10 +205,10 @@
      0,
      0,
      0,
-     6,
+     5,
      6,
      0,
-     2
+     3
     ],
     "g": [
      0,
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     3,
-     17,
+     2,
+     18,
      2
     ]
    },
@@ -274,7 +274,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      2,
      0,
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     19,
-     21
+     18,
+     20
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      0,
      8,
-     7,
+     6,
      3,
      4,
      1

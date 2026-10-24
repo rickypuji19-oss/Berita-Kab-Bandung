@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:15:19.276757+07:00",
+ "updated": "2026-10-24T23:16:15.405301+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   34
+   33
   ],
   [
    "Kompas.com",
-   21
+   20
   ],
   [
    "Ayo Bandung",
-   16
+   15
   ],
   [
    "RRI.co.id",
@@ -32,7 +32,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "detikcom",
@@ -43,15 +43,11 @@
    6
   ],
   [
-   "Radio PRFM",
-   5
-  ],
-  [
    "Pikiran Rakyat Koran",
    5
   ],
   [
-   "Ketik",
+   "Radio PRFM",
    4
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Jurnal Soreang",
+   3
+  ],
+  [
+   "Ketik",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
+     "r": "Pojoksatu"
+    },
+    {
+     "t": "Raih Prestasi di Bulan Bakti Nasional 2026, Karang Taruna Asoka Ciwidey Harumkan Kabupaten Bandung - Koran Gala - Koran Gala",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU2U0OUpTNTdOMC1rdHdaYmpSZFRSM3g0ek1SRXhpRVRlWWNvVktZMjFiSVdHZ1BYUFhyY2JOUFJIdFI4OVhXNHp2OVktUmgyZFJQem1oZ0hPM0FVSWdmaWEzSDlIZXNtNVlLYW1INDMwVFZlWEJVZ2tqMkZlbE5GU1lUemd4cjEwUkZ4Rl9FN1Rjc1BvdjVzUE9XNGtLazg0TTJFTGJfQXdrc0d5bjA0YmZZaVV1bUpCc3ZxaVV5aHJDN1NNNzlfbHFOOUthUlpiR3c0TUNLc9IB3AFBVV95cUxNRXMxQ3ZVZGoxQzFQbmtpaEtpSTBPb2d3eVdNOTA5alItamFJUUQ3a0F3WE9OZGFpMDlOS3FKM21rel9uZ29IbFpDRm5PV1l3RzRoUWtYYWpYbkl0N1ZzNjloN1g4RWJ2TDVLb2ZlX3RCTUhvZXd1RFk5MUluZjJIU1JjeEFFNDBfeXAzenBsdUFNdWJ3dkNSWTRTajhINmFrQ19SYzJLaC11NDVESHRZR2pLVUk2MXA2WXNFc0hIem9ORGRWZlloQ1lFNi15SUFMdnBIYVZPSEFVSDRk?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Pemkab Bandung Terima Surat Permohonan, Dispora Siap Fasilitasi Dua Laga Persib di SJH - NNC Netralnews",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmxjQ05FYUMySUVuNjdfMkFiTzNtLXoyQ3ZaUWZ5NGdvUWxTMExvLXhFWURhSDVaS2pYVnczSlB0ZVB6eWxmVC1GQWVXamVMUmJXZjJpMXpHLS04QzI4ejg5d2UyTjlOajRPZ05BRUhadzBacnVfT29Fc1ZqakNCaUtrZmMyU2gwS0w0WTVXYmg1R2JUUnBwQ0p0U0lYNGdQbV9VM2g1aWNMNEludHRLeUJHNVA1T2xBV0pTbWxPSkg1Zw?oc=5",
      "r": "NNC Netralnews"
-    },
-    {
-     "t": "KDS Doakan Almarhum Kades Dayeuhkolot dan Menugaskan Pejabat Sementara Cari Solusi Banjir di SD Bojongasih - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzdNUUFWQnZGcE00NGJhQnkwVnZMTlZKcEM2eVBZNlVsbFRuUlBuRkZ5TU9lZ2s2SFpjOFkwRklUWi1UVVVQbE12Q3B0UXhtYXFRdHJrX2Flc2hfeTZuN3hMeHE4N3pwLVJYRjNibjJHSE1WVGQ5dk5iVG8yWFJrMV9kckh6XzJuWTBxdkZSaC1hSE9PWGRHRmd1aTJhTmZnazhQbm5VTGFCeUdTRXZKVFhJcUprRG9zVjZNUU1Kal81ZXUxRjRhTG5sdmNiUEY5R3FmTVd4NjRRUk1FZGdwVGVIcGRKWEtHSXZBaFBETnIzTkxG?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "KDS: Mari Jaga Kebersamaan dan Doakan Kemaslahatan Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUluaVZ5QmtUTjJUQ1BBdUFqVW5sWWQwclYxdHVpTzdhNXhEa3huSnhRVUkzUkU4ZExvaVV2aTdkem42dzJmNDFQZk1tZWVKX2dpMVNuVy1oNk5rY1c1VVBGSDBvMVpZWWZLLTVXVFlZanBoakFOeHlpY1JVQkJvc2ExVFFneEtDUmRadUFkYVNzaTdsTmxMZTNXc1pNa05EUjlwQ1Z2eHNlYVVYRDFnRlZKZ1hyMm5faUHSAb8BQVVfeXFMTm05M0d0eVg4MlprZnN5bkdkTVZORHVoVEtrQ3ZFaHpoQk1yVjNodVlhd1NnS21FNkFucXliSnA0WTI2d3BXUFkxLUJhalF4N0pZWElLZzRyS3ZYZGpJejMtaXZEV0NFLUs3ZFE2Q1lSSXJoWnhOcDBGU2dpd0tUcFdlQzdjNHREM2pJaGlSdHE4bnJVdzZWcnBfQ1Q3dkprVWhESks2SVF4c3hpbjNPWnliZEt4aWNCenNjQm9WekU?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     15,
-     24,
-     5
+     14,
+     27,
+     6
     ]
    },
    "trend": {
@@ -136,9 +136,9 @@
      1,
      0,
      0,
-     5,
+     2,
      6,
-     5
+     7
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      1,
      3,
-     1
+     2
     ]
    }
   },
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     14,
+     13,
      15,
      5
     ]
@@ -205,9 +205,9 @@
      0,
      0,
      0,
-     5,
-     5,
-     1,
+     4,
+     6,
+     0,
      3
     ],
     "g": [
@@ -340,7 +340,7 @@
     "w": [
      2,
      19,
-     22
+     20
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      0,
      8,
-     9,
+     7,
      2,
      4,
      1
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
+     "r": "Pojoksatu"
+    },
+    {
      "t": "Warga Citatah-Pasegan Pasang Spanduk Protes, Jalan 5 Kilometer Tak Kunjung Dibangun - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVNUcHEyemlXX042WVNaXzU2T3NlRjJ0T1o3MHZwdGRtV3AzZkdRMjJZYzFha1VRN2tNUXVSTWRtNnAxem1VaTV4MzYySERWRU5HbVd3NkY0VnRPUi1adS0tUVM0aUtMQVljQ3ppMEdpNHY5MUNxdnhac3NKZVU3dnBvX0xyVVA0dUFaRDNpOHNpLUdhNHN3LUVpMkd0MTJnUU11QlB5Y3dHME56Qkh2WWJycXNHRlBVSW1jMVA2dG00NXPSAcgBQVVfeXFMT2NjRmtvc3VDendKWHNCUUxFeEVDcks3dkZRY2VEcmlHVHBFQW1yVk9KaHE5Qkd4SFpXTU1sQWxsd2E5RUktaWdKandyT1NYb1dZaFNHVEh2Tm1EVXItUDJ5RUJPbjBLcE94MGpBc3AtNF9kUW9BUmRmMEFFOXZlNE4yRm5FRXRrZnZmVVUwcFd4U2RhclNBd3NiN3NOdHhPRmpqY3p5eVJBOS0zQXFEaE5PRnBFV0pKX1hCNVZibE1HOUVlRG16MEY?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHh3U284VW5xR1RYRF9tNEVfNVhobXlpenFjTlFLYXhQTUdFMlItamViTDA1NHNlMGdwWTJlckdFSDFtZEFLOGNROFl2dFNyVHZwNEdKby02UEFtdmJBbjBsWnY3RDhicGRHYW1lb1B3Y1RHTXhnUURZN1hEbkhQbzB5a3dMYmx4dU9BcXpKQUc3YWNHejJkUUJsRzFpdzB3SnlMdm54Vk9HYXFZeWdz?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Potensi Longsor dan Banjir Bandang di Kabupaten Bandung, 25 Kecamatan Masuk Kategori Menengah-Tinggi - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVRfdlNCQjhXa21XalEzTzZOa1QwT3cyZFhRS3E4QS1ZbFEyYXVVLVl0WjRpLV80MGNkZzRKeDBHODhtc3p4d0xYUWNsOUtsNW1teXpPMXhzV1hGQ3VDcHlOaDNZand2X2JKSjBNZHlTZ0lRaGdCb0Q1UHpiUEc4emM0TEo2R3p1OFBybUV1MmRqeUdjc1BHODVMVmU5Qi1Ya0NtdFpSeFhNZXdobF9yWGxFc18tTmRYZTNpVXlWdzduS2ZkWmc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -416,7 +416,7 @@
     "w": [
      3,
      8,
-     8
+     9
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0,
      0,
      6,
-     2
+     3
     ]
    }
   },
@@ -498,7 +498,7 @@
     "w": [
      6,
      18,
-     7
+     6
     ]
    },
    "trend": {
@@ -523,7 +523,7 @@
     "g": [
      0,
      0,
-     2,
+     1,
      1,
      1,
      1,

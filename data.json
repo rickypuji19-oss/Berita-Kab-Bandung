@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:13:50.647981+07:00",
+ "updated": "2026-10-25T06:12:36.310038+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   33
   ],
   [
    "Kompas.com",
-   19
+   20
   ],
   [
    "Ayo Bandung",
-   15
+   13
+  ],
+  [
+   "RRI.co.id",
+   12
   ],
   [
    "PPID Kab. Bandung",
    11
-  ],
-  [
-   "RRI.co.id",
-   10
-  ],
-  [
-   "Koran Gala",
-   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -37,6 +33,10 @@
   [
    "detikcom",
    8
+  ],
+  [
+   "Koran Gala",
+   7
   ],
   [
    "Pikiran Rakyat Koran",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Skema Penyaluran DBH, Percepatan Pembangunan terhadap Kesejahteraan Warga - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3dNMm5Fb01EMVVqSkt5MlhtUVk1UUkxRDVQbk5PUzJ1dlJBVnlLN3pNN2N3c0hYYmFZMDdCWGFGT1pXczJtZXFIRE52Q3djUFNabHpTWmVZVkdhR0dxY1lRVTMteThzcGtwaUxjX1dKSGloalR2aGRyM3RpZ1Iyem5tSktENllxZGJXQTNFaDhveGFDUTJvT2JIMFZzbHhZQmQ1NUpOOFN3RHdkZ2NDNVdUV1VWZw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
      "r": "Pojoksatu"
-    },
-    {
-     "t": "Raih Prestasi di Bulan Bakti Nasional 2026, Karang Taruna Asoka Ciwidey Harumkan Kabupaten Bandung - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU2U0OUpTNTdOMC1rdHdaYmpSZFRSM3g0ek1SRXhpRVRlWWNvVktZMjFiSVdHZ1BYUFhyY2JOUFJIdFI4OVhXNHp2OVktUmgyZFJQem1oZ0hPM0FVSWdmaWEzSDlIZXNtNVlLYW1INDMwVFZlWEJVZ2tqMkZlbE5GU1lUemd4cjEwUkZ4Rl9FN1Rjc1BvdjVzUE9XNGtLazg0TTJFTGJfQXdrc0d5bjA0YmZZaVV1bUpCc3ZxaVV5aHJDN1NNNzlfbHFOOUthUlpiR3c0TUNLc9IB3AFBVV95cUxNRXMxQ3ZVZGoxQzFQbmtpaEtpSTBPb2d3eVdNOTA5alItamFJUUQ3a0F3WE9OZGFpMDlOS3FKM21rel9uZ29IbFpDRm5PV1l3RzRoUWtYYWpYbkl0N1ZzNjloN1g4RWJ2TDVLb2ZlX3RCTUhvZXd1RFk5MUluZjJIU1JjeEFFNDBfeXAzenBsdUFNdWJ3dkNSWTRTajhINmFrQ19SYzJLaC11NDVESHRZR2pLVUk2MXA2WXNFc0hIem9ORGRWZlloQ1lFNi15SUFMdnBIYVZPSEFVSDRk?oc=5",
-     "r": "Koran Gala"
-    },
-    {
-     "t": "Pemkab Bandung Terima Surat Permohonan, Dispora Siap Fasilitasi Dua Laga Persib di SJH - NNC Netralnews",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmxjQ05FYUMySUVuNjdfMkFiTzNtLXoyQ3ZaUWZ5NGdvUWxTMExvLXhFWURhSDVaS2pYVnczSlB0ZVB6eWxmVC1GQWVXamVMUmJXZjJpMXpHLS04QzI4ejg5d2UyTjlOajRPZ05BRUhadzBacnVfT29Fc1ZqakNCaUtrZmMyU2gwS0w0WTVXYmg1R2JUUnBwQ0p0U0lYNGdQbV9VM2g1aWNMNEludHRLeUJHNVA1T2xBV0pTbWxPSkg1Zw?oc=5",
-     "r": "NNC Netralnews"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     14,
+     12,
      27,
      6
     ]
@@ -136,8 +136,8 @@
      0,
      0,
      2,
-     5,
-     8,
+     4,
+     7,
      0
     ],
     "g": [
@@ -340,7 +340,7 @@
     "w": [
      2,
      16,
-     20
+     21
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      0,
      8,
-     7,
+     8,
      2,
      4,
      1,
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVNUcHEyemlXX042WVNaXzU2T3NlRjJ0T1o3MHZwdGRtV3AzZkdRMjJZYzFha1VRN2tNUXVSTWRtNnAxem1VaTV4MzYySERWRU5HbVd3NkY0VnRPUi1adS0tUVM0aUtMQVljQ3ppMEdpNHY5MUNxdnhac3NKZVU3dnBvX0xyVVA0dUFaRDNpOHNpLUdhNHN3LUVpMkd0MTJnUU11QlB5Y3dHME56Qkh2WWJycXNHRlBVSW1jMVA2dG00NXPSAcgBQVVfeXFMT2NjRmtvc3VDendKWHNCUUxFeEVDcks3dkZRY2VEcmlHVHBFQW1yVk9KaHE5Qkd4SFpXTU1sQWxsd2E5RUktaWdKandyT1NYb1dZaFNHVEh2Tm1EVXItUDJ5RUJPbjBLcE94MGpBc3AtNF9kUW9BUmRmMEFFOXZlNE4yRm5FRXRrZnZmVVUwcFd4U2RhclNBd3NiN3NOdHhPRmpqY3p5eVJBOS0zQXFEaE5PRnBFV0pKX1hCNVZibE1HOUVlRG16MEY?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Potensi Longsor Kabupaten Bandung, 25 Kecamatan Diwaspadai - Pikiran Rakyat Koran",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHh3U284VW5xR1RYRF9tNEVfNVhobXlpenFjTlFLYXhQTUdFMlItamViTDA1NHNlMGdwWTJlckdFSDFtZEFLOGNROFl2dFNyVHZwNEdKby02UEFtdmJBbjBsWnY3RDhicGRHYW1lb1B3Y1RHTXhnUURZN1hEbkhQbzB5a3dMYmx4dU9BcXpKQUc3YWNHejJkUUJsRzFpdzB3SnlMdm54Vk9HYXFZeWdz?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -415,7 +415,7 @@
     ],
     "w": [
      3,
-     7,
+     9,
      9
     ]
    },
@@ -497,7 +497,7 @@
     ],
     "w": [
      6,
-     20,
+     19,
      6
     ]
    },

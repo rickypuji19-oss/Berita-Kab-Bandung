@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:14:51.897640+07:00",
+ "updated": "2026-10-26T05:13:10.153000+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,15 +16,15 @@
   ],
   [
    "Ayo Bandung",
-   16
+   17
   ],
   [
    "RRI.co.id",
-   14
+   13
   ],
   [
    "Koran Gala",
-   11
+   12
   ],
   [
    "PPID Kab. Bandung",
@@ -43,6 +43,10 @@
    4
   ],
   [
+   "Satumedia.id",
+   4
+  ],
+  [
    "jabarekspres.com",
    4
   ],
@@ -51,19 +55,15 @@
    4
   ],
   [
+   "Antarwaktu.com",
+   3
+  ],
+  [
    "Gerbang Patriot",
    3
   ],
   [
-   "Satumedia.id",
-   3
-  ],
-  [
    "Galamedia News",
-   3
-  ],
-  [
-   "Ketik",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Perwatusi Peringati HON, Bupati: Angka Harapan Hidup Masyarakat Kabupaten Bandung Antara 70-75 Tahun - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlIxTEZDOTMtQ09UR19lUGgyd0tfcVJvLUJ0bVlUWjE0UEtVaUl1YldpYUExa1lENzVWX0FKWktFV2FaRU10U2pJRzBKSll2RllzdTFFdVZ0aEtjZXlISllzVk5FUmU2aENOTnl4dGVoWmJRTFhERThVcVB2YW11N1hXOERSSUYyNUt5N2dMUTJjZ3hlLUstNlNCNmJ3YWRkdThBNWVWRV9PM09aZUFJYjY1T0lVWGNZWDVfaFNmREg3NDRod1hvNjFFQ3BMQQ?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
      "t": "Osteoporosis Bisa Datang Tanpa Gejala, PERWATUSI Kabupaten Bandung Ingatkan Hal Penting Ini - dialogpublik.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeS1sZHBXaXVYVzBrcnJLZ21MblpYajk0czNCU2VLYjBUOEk2TzZNeWM4aFp5NXhDVmoyaWFIbnNfbVVrWlBCZ0lTYndYcFliTEdQY3ZNeGo5akd5QzRJX0ZoajBCSnJiVlRicG1lOHZXY2x4TG1TcDdVZjAyYldxS1FIVEo4RHZOWHpoNFdfNldGRGJqblpKN3hlTGlSWWV3SllLQjZrUURPWHJPdWxRc2FFaFEwdTA?oc=5",
      "r": "dialogpublik.com"
     },
     {
-     "t": "Gebyar Budaya DAMAS ke-70, Pemkab Bandung Dorong Seni Ketangkasan Domba Jadi Penggerak Budaya dan Ekonomi - Bale Bandung",
+     "t": "Persib Bandung Tekuk Garudayaksa 2-1, Adam Alis Jadi Pahlawan di Menit Akhir - Koran Gala - Koran Gala",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1pBQTE5N3dQR2FCNHhUODZ2NHUtQ0N2elZ5ejUwdXZzSC1EUEY0Z0ZNNE5IRkhTY04yREpLZlR5d0JOT1RJU2EyNTM4WVFLRjc1THJDcFVVRGNkTFJ2alNjSElZcWtRZVNCSlZ6M19TaFRnSnptM1RQY1RaTE9zbElGSlE3YnJycWhmVURJekVIWDJKUndiSXk0b0N1bG5iQmxMdVdQYjE2UjU4bEcwTjByVXVxYkcwcUNuUGhma2EyZkxRSmFjbWRlTnhkZw?oc=5",
-     "r": "Bale Bandung"
-    },
-    {
-     "t": "KDS dan Pemkab Bandung Bedah 3.047 Rumah Tidak Layak Huni - Media Purna Polri",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXBwZUVnazdnYmY5bl83aUNieTg2dmt4eWo1OEJMWlFDY1FnOXpGUURBQ1pZa0hnZ3Q3bHVyb09zOU1pOGZObXZ6cXFsTXR4QWV1U2FfdGJncC1LY19Xbkp1amNmQWc3d3k4bUZXeWtoYTJtOTZTMG5CSURfRmtLd24zRHUxWW5iOHc2VkxyOUxuYzRpcTVxdlY3Z0VYUQ?oc=5",
-     "r": "Media Purna Polri"
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0I1Nll4bGdGaHJLNW1seERQZGE0LUJYeDJSTHh6VHluQ0dBTl9kS1RMQXNyeGk1U0x5X3hhNXRYM3AxMWZSMlZXVVBmR2dNa05FOTlfWXhySjhkSEJGNW9KWXh3NWswdlpxYmRPNmY5NkJKNnQ5WHNUOU56NkhHUDRxdmg4SEUwU1A4YUgyNUhIdkxpUzI5OFFPdXZqSjlVd1pwcWRtNjY4VWcwSGtMZDFZSHcwNkhvdmh4dzB3Rm9yYVc3cF9IVGpza9IB0AFBVV95cUxOcFVEVjdDWWVtcFlLYXkwMUNmX2VUMlpHbjR0bmo0Vk5BV1BHaFRORldtZl9HMEJ5YnloMnJQS2lRekQ3ZzdNZDJoa3Rac0ZIaUlNeDRJYnVVTWxNOFNZbk9JcDc5N201dS1CU2dVaG5wSml6R1hyeWJhcEJDZnRBcGxJdnRieU5ZQzFLekVlN3JBTC13NmNLNUpRaUtXVnJWSGlhRXRoUjBCY2I4X1h6VFo3VHVuU3RiR09kSjRJZ1pTckhYUlk4RE9tNG9OdXo0?oc=5",
+     "r": "Koran Gala"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     19,
-     23,
+     20,
+     22,
      6
     ]
    },
@@ -137,7 +137,7 @@
      0,
      4,
      8,
-     7,
+     8,
      1
     ],
     "g": [
@@ -346,7 +346,7 @@
     "w": [
      1,
      11,
-     20
+     19
     ]
    },
    "trend": {
@@ -372,7 +372,7 @@
      8,
      6,
      2,
-     4,
+     3,
      2,
      1,
      0
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
-     6,
      7,
-     8
+     7,
+     9
     ]
    },
    "trend": {
@@ -436,7 +436,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     2,
      0,
      4,
      0,
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      5,
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     20,
+     19,
      6
     ]
    },

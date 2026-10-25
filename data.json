@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:17:03.226389+07:00",
+ "updated": "2026-10-25T20:23:58.769223+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,26 +8,26 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   27
+  ],
+  [
+   "Kompas.com",
+   19
   ],
   [
    "Ayo Bandung",
-   17
+   16
   ],
   [
    "RRI.co.id",
    13
   ],
   [
-   "Kompas.com",
-   13
+   "Koran Gala",
+   10
   ],
   [
    "PPID Kab. Bandung",
-   11
-  ],
-  [
-   "Koran Gala",
    10
   ],
   [
@@ -36,30 +36,30 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
-  ],
-  [
-   "jabarekspres.com",
-   6
+   8
   ],
   [
    "Pikiran Rakyat Koran",
    5
   ],
   [
+   "jabarekspres.com",
+   5
+  ],
+  [
+   "Jurnal Soreang",
+   4
+  ],
+  [
+   "Satumedia.id",
+   4
+  ],
+  [
    "Gerbang Patriot",
    3
   ],
   [
-   "Satumedia.id",
-   3
-  ],
-  [
    "Galamedia News",
-   3
-  ],
-  [
-   "Jurnal Soreang",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "Media Purna Polri"
     },
     {
+     "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Ponpes Al- Munawaroh Sumber Sari Gelar Istigosah, Bupi Bandung Ajak Warga Bersyukur dan Introspeksi - Antarwaktu.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd055QUtJRVl1emd3aEp6d2k2Q2tJWnZzamRMRnNRbF9mTzZYbm5RX3JSenJVWXI5dUxwQy14eHJmYnRUa0FSR1QzblZLZ3haSXBMUHVUd3I0bWI0aWctU1h4TVE5WUFNODFuOEZYaTJ5ZjFQMGxvSUc4ZTRvX0hDYnVwbEl1WDhuc1BGT0d2a2NuV2piUnVveUhOajQ0RDNHNEpwaFo2eW1QX2VESGRjbVB6WF9veG1DUDZXNDJuSVNxdFZkSVJxYm43Y2c?oc=5",
      "r": "Antarwaktu.com"
-    },
-    {
-     "t": "KDS Ajak Masyarakat Jaga Kesehatan dan Perkuat Kepedulian Sosial - Gerbang Patriot",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMU9lN0QwLW9BMUNhVHp3aW1EVWRuTzZsemFlZExMd2FjZUJoOWp6MUlEdzBJWUpVc2V4elVRdTdLSXl3dnp4dlhUNFJtbjV4bDE0MzU1WDRZd0RkS1IxQkNZdnBXVUZ6RzhmVUI1cFhRVnZsODNPby1sdlpyOV85Ymw2bDBVaUtscFc1cVdKNC1DOUp2UmE1TkxoVFUwWHBCc3F1VnVB?oc=5",
-     "r": "Gerbang Patriot"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -117,7 +117,7 @@
     ],
     "w": [
      16,
-     26,
+     25,
      6
     ]
    },
@@ -137,8 +137,8 @@
      0,
      0,
      5,
-     8,
-     4
+     7,
+     5
     ],
     "g": [
      0,
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
-     "r": "Bedanews"
-    },
-    {
-     "t": "Dr.Sugianto Ketua DPD Partai Golkar Kab.Bandung 62Th PartaiGolkarBersamaRakyatKaryaNyataRakyat Sejahteras ra - https://warta.in/",
+     "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT21zM2lvdHhrUW1teHVGX0ZqOEJqQjB4U2xoWFp4Z0VRZjlKdWdWZ29nUEIxa25pMlUyeVI5WGpRZ3lBNTdwblUtcFRFaGl2N1lqclVKeC1zZ29LdXlJX3M4b01QdVZLN2NMTEp3bi1DLVM0R0huME9VSER1NnRTS0FjWlJobTlnMHR2alY1OUh5bUJlemRXc25UQmduYVRpLTJPbTFWOUxfU0t0eXQweE9vbDlDNWhoX1AtLUE4VkZRUDZF?oc=5",
-     "r": "https://warta.in/"
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
+     "r": "Satumedia.id"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      14,
-     17,
-     5
+     18,
+     6
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      2,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -243,10 +243,10 @@
      "r": "detikcom"
     },
     {
-     "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Panas Bumi Kamojang Sokong Dapur Petani - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi01Vi10N1l3a3B0bms5SGtldF9MYWlRbUZuM0JWWDlVT0lqeTQ1VFRyZHdJUWVKM2NzQm15bUFfbXNWN2lWaENfdDR3ekJnbWU4b0J1YjNELUV0RnNFR09kak1pcWVpdWQycHFwcl9XSWRyMkE3XzUtZzBueTN3N0NqU3ktYkpVclZBSmRsYlhBalVGak8wZ2hqRVEtcjg?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     3,
-     15,
+     5,
+     14,
      2
     ]
    },
@@ -281,9 +281,9 @@
      0,
      0,
      0,
-     2,
+     3,
      0,
-     0,
+     1,
      2
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     14,
-     19
+     13,
+     20
     ]
    },
    "trend": {
@@ -373,7 +373,7 @@
      8,
      6,
      2,
-     3,
+     4,
      2,
      1
     ]
@@ -389,6 +389,12 @@
    ],
    "h": [
     {
+     "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Meski Minim Anggaran Jalan Penghubung antar wilayah di Cinanggela Rampung - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUERfd3lmazBCbnd3akFjOE8zU1R0cmV1dmF2eTNVWEtIZDdSbVdGSHZpNnlOdjlsQnJWM3RfclRwVWJVQTAzOXVtS2JIV2kwZl9WdXVvNzF1NmdNSUh5YzlFZXdzN2RFcmUzX1hZcjNTSEtHSVFvYU5YMHdZZWpQMjVtYlgxWnhJbWkzWHBlVnd4ZXoyWG0wMzNBYnNONVlmUGtkN2Jjb0dsOUhGRGdka1E0Zw?oc=5",
@@ -399,12 +405,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
-     "r": "Pojoksatu"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
-     5,
      7,
-     8
+     7,
+     9
     ]
    },
    "trend": {
@@ -437,16 +437,16 @@
     ],
     "p": [
      0,
-     1,
+     2,
      0,
      4,
      0,
      0,
-     1
+     2
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      5,
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      18,
      6
     ]
@@ -519,7 +519,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      1,
      3,
      2,

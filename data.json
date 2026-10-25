@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:12:36.310038+07:00",
+ "updated": "2026-10-25T07:12:36.752020+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,18 @@
  "portals": [
   [
    "Tribunjabar.id",
-   33
+   32
   ],
   [
    "Kompas.com",
    20
   ],
   [
-   "Ayo Bandung",
-   13
+   "RRI.co.id",
+   12
   ],
   [
-   "RRI.co.id",
+   "Ayo Bandung",
    12
   ],
   [
@@ -27,31 +27,27 @@
    11
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
+   "Koran Gala",
+   9
   ],
   [
    "detikcom",
    8
   ],
   [
-   "Koran Gala",
+   "ANTARA News Jawa Barat",
    7
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   6
   ],
   [
    "jabarekspres.com",
    6
   ],
   [
-   "Radio PRFM",
-   4
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
-   "Radar Bandung",
+   "Radio PRFM",
    4
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Ketik",
+   3
+  ],
+  [
+   "Inilahkoran.id",
    3
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      12,
-     27,
+     26,
      6
     ]
    },
@@ -135,9 +135,9 @@
      1,
      0,
      0,
-     2,
-     4,
-     7,
+     0,
+     5,
+     8,
      0
     ],
     "g": [
@@ -257,7 +257,7 @@
     ],
     "w": [
      3,
-     16,
+     17,
      2
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     16,
+     13,
      21
     ]
    },
@@ -415,7 +415,7 @@
     ],
     "w": [
      3,
-     9,
+     8,
      9
     ]
    },
@@ -497,7 +497,7 @@
     ],
     "w": [
      6,
-     19,
+     18,
      6
     ]
    },

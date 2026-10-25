@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T08:25:19.716413+07:00",
+ "updated": "2026-10-25T09:20:38.707031+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   31
+   33
   ],
   [
    "Kompas.com",
-   19
+   20
   ],
   [
    "Ayo Bandung",
-   15
+   14
   ],
   [
    "RRI.co.id",
    12
-  ],
-  [
-   "PPID Kab. Bandung",
-   11
   ],
   [
    "Koran Gala",
@@ -32,19 +28,23 @@
   ],
   [
    "detikcom",
-   8
+   9
   ],
   [
    "ANTARA News Jawa Barat",
    7
   ],
   [
-   "Pikiran Rakyat Koran",
+   "jabarekspres.com",
    6
   ],
   [
-   "jabarekspres.com",
-   6
+   "PPID Kab. Bandung",
+   5
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
    "Radio PRFM",
@@ -117,7 +117,7 @@
     ],
     "w": [
      14,
-     27,
+     24,
      6
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "6 Lokasi Pemandian Air Panas Alami di Ciwidey dan Harga Tiketnya - detikcom",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVdIBswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVQ?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSlVlcDg4Qm1JN3NfY3JrSjlSU1A3TWkwZVFaY3c2NWlhcjZ0TzFld2I3TTlfeEl2Sm83ZWY2VEVLUXZyU1hHa1BzRnBpcGpzQVpTSWl3ODRmY3gyd1BDNW9nZHZuN1pneXk2WkVXaHB3TDZnMGhUazZ2TTlVSlNrT3p4Nl9INTRjWmZZbWlRd3FXTDBkR0x6WkpKa1lpMmFJWUR4X1RsNzlkTHEzZVl6ZVgtTHNqXzRjTFYwdEpWbUVsR0w5SEdEdjJROVdrcDVqMW5pcFphYmd5MklfanlJ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kopi Asal Jabar Semakin Harum di Pasar Internasional, Harga Lelang Berpotensi Tembus 80 Dollar AS - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllNUzViX3BVOFJYRW5FVjJFa0pqWDB6OWJVczRRQVp4Mm1aSkJKdnBMM2dpRjlNMEdGVW9kc1ZtUG16S0Y5cFJRV1c1ZFpOUktPT2dKaWtzbGx1OWxxOE9KcEQ5eDIzWXptbGVYckJZcWVCVlpUcWF0QWU2dFpmbjRIM0w0Y0dIa2Fxd2ZtT1l3VTkyZXZmRDV1czRndVl3Ykh0T2RLSU9JNmZ0QUdYU2pobnotWWFwYzVxZHJSRE5HQUlyVmJubll2VnhXaExRYzZ0MWVZcmtCOGwwcDk1ZA?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     3,
-     16,
+     4,
+     15,
      2
     ]
    },
@@ -278,7 +278,7 @@
      3,
      0,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -319,28 +319,28 @@
      "r": "detikcom"
     },
     {
-     "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
+     "t": "Razia Miras dan Premanisme diwilayah hukum Polresta Bandung",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=-lnXW-iYcC8",
-     "r": "YouTube Persjava-TV"
+     "u": "https://www.youtube.com/watch?v=o6Ap_MRbimQ",
+     "r": "YouTube Polsek Cangkuang Polresta Bandung"
     },
     {
      "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=ngOsrT81Adg",
+     "u": "https://www.youtube.com/watch?v=-lnXW-iYcC8",
      "r": "YouTube Persjava-TV"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      2
     ],
     "w": [
      2,
-     16,
-     20
+     15,
+     21
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      0,
      8,
-     7,
+     8,
      2,
      4,
      1,
@@ -415,8 +415,8 @@
     ],
     "w": [
      3,
-     8,
-     9
+     7,
+     10
     ]
    },
    "trend": {
@@ -443,7 +443,7 @@
      0,
      0,
      0,
-     6,
+     7,
      2,
      1
     ]
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     6,
-     19,
+     5,
+     18,
      6
     ]
    },
@@ -516,7 +516,7 @@
      1,
      1,
      3,
-     2,
+     1,
      0,
      0
     ],

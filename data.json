@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:16:02.597835+07:00",
+ "updated": "2026-10-25T22:15:47.389873+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   25
+  ],
+  [
+   "Ayo Bandung",
+   18
   ],
   [
    "Kompas.com",
    18
-  ],
-  [
-   "Ayo Bandung",
-   16
   ],
   [
    "RRI.co.id",
@@ -24,7 +24,7 @@
   ],
   [
    "Koran Gala",
-   10
+   11
   ],
   [
    "PPID Kab. Bandung",
@@ -51,11 +51,11 @@
    4
   ],
   [
-   "Satumedia.id",
-   4
+   "Gerbang Patriot",
+   3
   ],
   [
-   "Gerbang Patriot",
+   "Satumedia.id",
    3
   ],
   [
@@ -163,7 +163,7 @@
     {
      "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTNoSUg1YnoxWUplamtBd1JMS2JiTEt4UHptS3hzT25xMlNkajZIMm42d2NTTlk0cHVYQ25oOFV1VmlCUFJ4SVgtMi1DV2JEQmVWQVZJdXRZRVJMeHp2UWRGOFh6dDg2OUdTWnBOUTVtNUNIalZFUnY3M2owR1RGUFNYazRpZjBKUUtkUW5kOGVia0V5NEhYUERnMmhRbEY1LWN1SzBrNkoxbWc3QW1IdXFBUDdKNkXSAbcBQVVfeXFMTjUzaElINWJ6MVlKZWprQXdSTEtiYkxLeFB6bUt4c09ucTJTZGo2SDJuNndjU05ZNHB1WENuaDhVdVZpQlBSeElYLTItQ1diREJlVkFWSXV0WUVSTHh6dlFkRjhYenQ4NjlHU1pwTlE1bTVDSGpWRVJ2NzNqMEdURlBTWGs0aWYwSlFLZFFuZDhlYmtFeTRIWFBEZzJoUWxGNS1jdUswazZKMW1nN0FtSHVxQVA3SjZF?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -205,8 +205,8 @@
      0,
      0,
      4,
-     5,
-     1,
+     6,
+     0,
      3,
      1
     ],
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     14,
-     20
+     12,
+     19
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      0,
      8,
-     6,
+     5,
      2,
      4,
      2,
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
-     7,
-     7,
-     8
+     5,
+     9,
+     10
     ]
    },
    "trend": {
@@ -437,19 +437,19 @@
     ],
     "p": [
      0,
-     2,
+     1,
      0,
-     4,
+     3,
      0,
      0,
      2
     ],
     "g": [
      0,
+     1,
      0,
      0,
-     0,
-     5,
+     6,
      3,
      0
     ]
@@ -503,7 +503,7 @@
     ],
     "w": [
      5,
-     18,
+     19,
      6
     ]
    },

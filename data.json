@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:14:55.805727+07:00",
+ "updated": "2026-10-26T02:18:04.028656+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,35 +8,39 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
-  ],
-  [
-   "RRI.co.id",
-   19
-  ],
-  [
-   "Ayo Bandung",
-   17
+   24
   ],
   [
    "Kompas.com",
-   12
+   18
   ],
   [
-   "Koran Gala",
-   11
+   "Ayo Bandung",
+   16
+  ],
+  [
+   "RRI.co.id",
+   13
   ],
   [
    "PPID Kab. Bandung",
-   10
+   9
   ],
   [
    "detikcom",
    9
   ],
   [
-   "ANTARA News Jawa Barat",
+   "Koran Gala",
    8
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   7
+  ],
+  [
+   "Radio PRFM",
+   6
   ],
   [
    "jabarekspres.com",
@@ -47,7 +51,7 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Satumedia.id",
    4
   ],
   [
@@ -56,10 +60,6 @@
   ],
   [
    "Gerbang Patriot",
-   3
-  ],
-  [
-   "Satumedia.id",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Osteoporosis Bisa Datang Tanpa Gejala, PERWATUSI Kabupaten Bandung Ingatkan Hal Penting Ini - dialogpublik.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeS1sZHBXaXVYVzBrcnJLZ21MblpYajk0czNCU2VLYjBUOEk2TzZNeWM4aFp5NXhDVmoyaWFIbnNfbVVrWlBCZ0lTYndYcFliTEdQY3ZNeGo5akd5QzRJX0ZoajBCSnJiVlRicG1lOHZXY2x4TG1TcDdVZjAyYldxS1FIVEo4RHZOWHpoNFdfNldGRGJqblpKN3hlTGlSWWV3SllLQjZrUURPWHJPdWxRc2FFaFEwdTA?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Gebyar Budaya DAMAS ke-70, Pemkab Bandung Dorong Seni Ketangkasan Domba Jadi Penggerak Budaya dan Ekonomi - Bale Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1pBQTE5N3dQR2FCNHhUODZ2NHUtQ0N2elZ5ejUwdXZzSC1EUEY0Z0ZNNE5IRkhTY04yREpLZlR5d0JOT1RJU2EyNTM4WVFLRjc1THJDcFVVRGNkTFJ2alNjSElZcWtRZVNCSlZ6M19TaFRnSnptM1RQY1RaTE9zbElGSlE3YnJycWhmVURJekVIWDJKUndiSXk0b0N1bG5iQmxMdVdQYjE2UjU4bEcwTjByVXVxYkcwcUNuUGhma2EyZkxRSmFjbWRlTnhkZw?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXBwZUVnazdnYmY5bl83aUNieTg2dmt4eWo1OEJMWlFDY1FnOXpGUURBQ1pZa0hnZ3Q3bHVyb09zOU1pOGZObXZ6cXFsTXR4QWV1U2FfdGJncC1LY19Xbkp1amNmQWc3d3k4bUZXeWtoYTJtOTZTMG5CSURfRmtLd24zRHUxWW5iOHc2VkxyOUxuYzRpcTVxdlY3Z0VYUQ?oc=5",
      "r": "Media Purna Polri"
-    },
-    {
-     "t": "Kabupaten Bandung Bidik 100 Emas di Porprov XV, Kobarkan Semangat Juara - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdU5OVjZ2V3FZV1RnNVRKMUlmdllNcGhKSTJTOGwzMmlzdEk3cHdOSkk3WkZTSDBzMW1ncjRNSHppUVhMOWZlaTJUWnB6R0t5YVMyRWZmTjlUb0g1YWp4YV9BLVpvODV1UU1tcmZ5dWVfZVZXMk1pb2VpLXgwVVNpMi11a0ZxWEhQUUpkUGFsdGwwMGpqaGFSWlN0MVNIS3publhJbUxJc0U4Q3JlcldDYjdsc2pFQy10TGpac0VnOGo2Unh0VktVbkZ0UHBIZ9IBzgFBVV95cUxQdU5OVjZ2V3FZV1RnNVRKMUlmdllNcGhKSTJTOGwzMmlzdEk3cHdOSkk3WkZTSDBzMW1ncjRNSHppUVhMOWZlaTJUWnB6R0t5YVMyRWZmTjlUb0g1YWp4YV9BLVpvODV1UU1tcmZ5dWVfZVZXMk1pb2VpLXgwVVNpMi11a0ZxWEhQUUpkUGFsdGwwMGpqaGFSWlN0MVNIS3publhJbUxJc0U4Q3JlcldDYjdsc2pFQy10TGpac0VnOGo2Unh0VktVbkZ0UHBIZw?oc=5",
-     "r": "Mudanesia"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     19,
-     24,
+     17,
+     20,
      6
     ]
    },
@@ -135,10 +135,10 @@
      0,
      0,
      0,
-     5,
-     8,
+     3,
      7,
-     0
+     7,
+     1
     ],
     "g": [
      0,
@@ -167,16 +167,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
-     "r": "Bedanews"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      15,
-     13,
+     15,
      6
     ]
    },
@@ -243,10 +243,10 @@
      "r": "detikcom"
     },
     {
-     "t": "Batik Miliki Potensi Ekonomi Budaya Tinggi, Menbud-DPR Dorong Optimalisasinya - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzhKMndYc04wRzlWWkk3NlgxWHE2SHYyV3dGakl2SzAzTUtDTjViY3RTNTA2amcyd0NZRU5UWTVqbWUta21IQy11UXMwR0g0VjdYX2VaUExmWDJQQzJuclBDRlNtM0pRcHhBVWp3cG42UFp2azU2UlVybVlQRVFwZmZkU0F0LUlnZlFjQXFkY0Z2MGxCN3YyR2FFenZHSkJGVmZwcFUwZ1ZsR081Q1JTUUhyRXJMZWhBLTlZ?oc=5",
-     "r": "RRI.co.id"
+     "t": "Panas Bumi Kamojang Sokong Dapur Petani - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi01Vi10N1l3a3B0bms5SGtldF9MYWlRbUZuM0JWWDlVT0lqeTQ1VFRyZHdJUWVKM2NzQm15bUFfbXNWN2lWaENfdDR3ekJnbWU4b0J1YjNELUV0RnNFR09kak1pcWVpdWQycHFwcl9XSWRyMkE3XzUtZzBueTN3N0NqU3ktYkpVclZBSmRsYlhBalVGak8wZ2hqRVEtcjg?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     3,
-     14,
+     5,
+     12,
      2
     ]
    },
@@ -280,9 +280,9 @@
     "p": [
      0,
      0,
-     2,
+     3,
      0,
-     0,
+     1,
      2,
      0
     ],
@@ -319,9 +319,9 @@
      "r": "MetroTVNews.com"
     },
     {
-     "t": "Gudang Bawang Merah Dibobol Polisi Ciduk Sejumlah Pelaku - RRI.co.id",
+     "t": "Puluhan Preman Terjaring Operasi Polresta Bandung di Soreang dan Katapang - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDBsa1MteVRmVzRQaWszLVdtREtyYm5VYVlBUHExRnk0XzRqQ2d0a0VBVnYtRkM1WTVXZTdSM1FpS2dmS0tKd2JJdFhWaU56cGt3QXZWLVkweEhZRnFwVGwta0ViemdJUC0wR004czBpOTBuM3lhTzM5OExvclRNTXRhMUFwMWl6RHI5aTFVaFhIRDFFYW8tOHZVYTJTS1RIYk9IWnIzTEJ2Wk1Bc3c?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJ2R1piVnRtWl9hak9GdG05RUJFT2tOWXo4YnVTanN1Tnl6dkZSUFN3ME1QUUduUkdSRUpueHlFUFp5SV9PZGZNc2lteUh3VVNiYi1VTlBlYUE4bS1ad2Z5bHVMeWVrc1VEZzRWVzBUY2RsSzRWdjgxR0pFVHprWnVobkRvLUVxdWpkNlBVLWdBUjhhSmhnNHdVWkpoVlhWTWlmUEEtNWI0aDNfZTlVdGtfVQ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     11,
-     19
+     12,
+     22
     ]
    },
    "trend": {
@@ -370,9 +370,9 @@
     ],
     "g": [
      9,
+     7,
+     2,
      4,
-     3,
-     3,
      2,
      1,
      0
@@ -401,9 +401,9 @@
      "r": "Radar Bandung"
     },
     {
-     "t": "Jalan Dibuka, Air Tetap Mengalir, TNI Pikirkan Sawah Warga - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3FGWEdhdHIzTUVWV3g0ZW16YnlKUFJDN0FxMEVReFJNUVFaZ0YtTVA5QU01em9wQlgzQjU3MGZkb3hQbFRsRFhmMWxHanZnb0lYMVFyQ1gxck5PUEpwQTBlaC1yVGk4UnBGY1pSeHVvcFNUN1RHUUktN3BoODduOTRaeDBlejVzZ3VldVF2R2ZOM1NyOUFzbmpmbWZiTnFp?oc=5",
+     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
-     5,
-     10,
-     10
+     7,
+     7,
+     8
     ]
    },
    "trend": {
@@ -436,21 +436,21 @@
      "Sen"
     ],
     "p": [
-     1,
+     2,
      0,
-     3,
+     4,
      0,
      0,
      2,
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      5,
      3,
-     1,
+     0,
      0
     ]
    }
@@ -504,7 +504,7 @@
     "w": [
      6,
      20,
-     6
+     7
     ]
    },
    "trend": {
@@ -527,7 +527,7 @@
      0
     ],
     "g": [
-     1,
+     2,
      1,
      1,
      1,

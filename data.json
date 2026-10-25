@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:21:25.899710+07:00",
+ "updated": "2026-10-25T12:19:35.360189+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,15 +16,15 @@
   ],
   [
    "Ayo Bandung",
-   15
+   16
   ],
   [
    "RRI.co.id",
-   11
+   12
   ],
   [
    "PPID Kab. Bandung",
-   11
+   12
   ],
   [
    "Koran Gala",
@@ -91,10 +91,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Banjir Terus Menghantui, KDS Buka Opsi Relokasi Warga dan SD Bojongasih - Pojoksatu",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeS03MDhOZjBPSHpXXzhFeDBPcERJMHNka0FURjh0WldIaGM4NmRXZ3dWb2xWQjZRS1ZZVlJ4akZBeFlxTWF1R3l0RkpidDgwOFdPa3hPVWdjWkZuWGUwQUUzeHdEUXcwa2VCeEMtdzgxUUlCLXN5ejZmS09XOGtSd1Z1NC1NT3pRajFkcGdRV0c0d0lEWXZnQUdYLVpIRVoy?oc=5",
-     "r": "Pojoksatu"
+     "t": "Laporan Keuangan Audited Dinas Koperasi dan UKM Kabupaten Bandung Tahun 2025 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZWFOQ3hnZTVhU0tERFRRamRWTWJGUThPYmYwcEJaSkNaSlIwLTVUYmJpU3JqaFFKZzJWMW05T0lXODh4UndWMTI1UXdkV3FhajZ4NFZZdkdOWGwxVDdiQWtiNWtGbjJ2eW1iVElmRFMxQ1c2Ulh1WEp4S1FvRVBaMTQ3NUo5cmRDR2w5M2VsYUZ1SFFBYjF2QkVVTHA1Zlo1c0FRdXQ1Vkl5bTFPVWNVSzR1czA1U3ltNDl6Q2lYbDV6ZUIwQ0JXb3dIeHR3eFByZVVjLUthczF2ZnpKbU5Yd0R1aVlEWndFVE42N1E5TQ?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -187,7 +187,7 @@
     ],
     "w": [
      14,
-     15,
+     16,
      5
     ]
    },
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     15,
-     19
+     16,
+     20
     ]
    },
    "trend": {
@@ -367,7 +367,7 @@
      8,
      7,
      2,
-     3,
+     4,
      1,
      0
     ]

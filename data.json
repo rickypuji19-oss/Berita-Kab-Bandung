@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:17:58.071352+07:00",
+ "updated": "2026-10-25T17:16:13.327523+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   29
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
@@ -28,7 +28,7 @@
   ],
   [
    "Koran Gala",
-   10
+   9
   ],
   [
    "detikcom",
@@ -39,11 +39,11 @@
    7
   ],
   [
-   "jabarekspres.com",
-   6
+   "Pikiran Rakyat Koran",
+   5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "jabarekspres.com",
    5
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     27,
+     14,
+     26,
      6
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      5,
-     8,
+     7,
      3
     ],
     "g": [
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
+     "r": "Bedanews"
+    },
+    {
      "t": "Dr.Sugianto Ketua DPD Partai Golkar Kab.Bandung 62Th PartaiGolkarBersamaRakyatKaryaNyataRakyat Sejahteras ra - https://warta.in/",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT21zM2lvdHhrUW1teHVGX0ZqOEJqQjB4U2xoWFp4Z0VRZjlKdWdWZ29nUEIxa25pMlUyeVI5WGpRZ3lBNTdwblUtcFRFaGl2N1lqclVKeC1zZ29LdXlJX3M4b01QdVZLN2NMTEp3bi1DLVM0R0huME9VSER1NnRTS0FjWlJobTlnMHR2alY1OUh5bUJlemRXc25UQmduYVRpLTJPbTFWOUxfU0t0eXQweE9vbDlDNWhoX1AtLUE4VkZRUDZF?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXRRSnVsdGZFbkNja0hpcE5OVEtnWE9WS1JvNmd0aUxndndCZEhzUUhEMnp4TUFvZTB3OUhFM0N3a2VxbUh4M2dlV1F0RnFXSjVFMmVjbFZaZ0F0dFg3M25VVUplYjhNSmdTYTBhUUNKaHBCU0IxZ0twaFVURzlzYUROQU52YTJBejRDNlRGRGtyUDVwZ3lIRkROMlJiOFlkTmxnRmwweUN5X0V5MmtjQnpSNHNwU3pXcXpUcTNaLWMxSFkzNW4xQmNSNGbSAdIBQVVfeXFMTUhOc1dGSk1UV2NqZS00QVRLVk5zalphT1BvR0Jzd2ZiLTItVDV3ZUQxY2dIYklleUlweEpQM3dSRXJNMFBVeUxMUDdjWUZHVkZDbG54LVRGa3JPQ1FwSWhsU1BvNGZWQm5adk9fbjhMRHpFOVhhTzRFT0FmcmYzdTNFZ1JKQldLdEVWcW1LYkZMTTRWYldWM1lubl93SURabUxXUVNfSWpPY3V1NXRMUXNVamZkdklyTjdDR3dtRTV2QlFIVHBoSWluUkpDcHBrd1NB?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "Ketua IJTI Bandung Sambut Pencalonan Rustandi sebagai Ketua PWI Kabupaten Bandung, Nilai Punya Modal Memajukan PWI - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcFVKQm84WDlNSV9xRENWaEF1NUhGem1OUUczXzhzVnhZWWk1RGNNTzVhVFdPdldKa2Y5WDZkVlI2VHpudFk5d2JfRGZfVGNMNkJqaGVBLS12QkllNTRKVmpQdE0ydXlhU1pmNVU0QTdZWnczZzJvc0FyUm9leWVjWEpYa1kxamFremlHOFpMeG5yZ2poZDJYS3RISkU3MGJuaWh2R2RFRURnSE5NWlYtZXA3QUVxamg4Q2FsUl9LTHFTZmtKdjlKOVRleUExV053dWlQODVGSGp5TjFpN2lqWUZvVTkxTklBWFJVT9IB8gFBVV95cUxPLXNVWkVhRnVFR2ZsQzEtVFZ3a0xDVTk3OFloVnQ0WWlTNWlZVEltOFZGSWxoZ1BDazVtY0ZqVFppZmFwcUNSM0dPS3FGejV4U2RSalJWMVMyN3dfZHQtZlF2cmdfUURTWVJSM1FHVjZPY1oxaDZDRVJLYzdhV0xUZDdMY1NUMFlTU3BROUpzaHJKdk1rYi16VEF5bExGS2NHTTVLNEF4SW82YUV2UWN2RWFMWktfeEFHcjNuOHlOdUNLdEQwNDBkTmM1aFZGd0F2SjhoRHplYmoxa2x5WDlwdnk0MGlab1NZcFl1Qzhqd1I3UQ?oc=5",
-     "r": "Koran Gala"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     13,
+     14,
      16,
      5
     ]
@@ -208,7 +208,7 @@
      6,
      0,
      3,
-     0
+     1
     ],
     "g": [
      0,
@@ -243,21 +243,27 @@
      "r": "detikcom"
     },
     {
-     "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Panas Bumi Kamojang Sokong Dapur Petani - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi01Vi10N1l3a3B0bms5SGtldF9MYWlRbUZuM0JWWDlVT0lqeTQ1VFRyZHdJUWVKM2NzQm15bUFfbXNWN2lWaENfdDR3ekJnbWU4b0J1YjNELUV0RnNFR09kak1pcWVpdWQycHFwcl9XSWRyMkE3XzUtZzBueTN3N0NqU3ktYkpVclZBSmRsYlhBalVGak8wZ2hqRVEtcjg?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=7ujR_W7lWA8",
+     "r": "YouTube Portal JTV"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      0,
      0
     ],
     "w": [
-     4,
-     16,
+     5,
+     15,
      2
     ]
    },
@@ -277,8 +283,8 @@
      0,
      3,
      0,
-     0,
-     1
+     1,
+     2
     ],
     "g": [
      0,
@@ -319,28 +325,28 @@
      "r": "detikcom"
     },
     {
+     "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=QDaaNNtlH30",
+     "r": "YouTube Vlog Mets33"
+    },
+    {
      "t": "Razia Miras dan Premanisme diwilayah hukum Polresta Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=o6Ap_MRbimQ",
      "r": "YouTube Polsek Cangkuang Polresta Bandung"
-    },
-    {
-     "t": "PENYULUHAN HUKUM KODIM 0624/ KAB. BANDUNG  2026,  BANGUN  KESADARAN  HUKUM SELURUH ANGGOTA SATUAN ",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=-lnXW-iYcC8",
-     "r": "YouTube Persjava-TV"
     }
    ],
    "v": {
     "s": [
      0,
      3,
-     2
+     3
     ],
     "w": [
      2,
      16,
-     20
+     19
     ]
    },
    "trend": {
@@ -365,10 +371,10 @@
     "g": [
      0,
      8,
-     7,
+     6,
      2,
      4,
-     1,
+     2,
      0
     ]
    }
@@ -496,7 +502,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      17,
      6
     ]
@@ -513,7 +519,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      1,
      3,
      2,

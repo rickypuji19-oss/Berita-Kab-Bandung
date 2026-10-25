@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:15:52.695302+07:00",
+ "updated": "2026-10-25T16:17:58.071352+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
+   30
   ],
   [
    "Kompas.com",
@@ -16,7 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   16
   ],
   [
    "RRI.co.id",
@@ -24,15 +24,15 @@
   ],
   [
    "PPID Kab. Bandung",
+   11
+  ],
+  [
+   "Koran Gala",
    10
   ],
   [
    "detikcom",
    9
-  ],
-  [
-   "Koran Gala",
-   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,8 +47,8 @@
    5
   ],
   [
-   "Radar Bandung",
-   4
+   "Gerbang Patriot",
+   3
   ],
   [
    "Satumedia.id",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Terbukti Melanggar Perda, 5 Penjual Miras dan 2 PKL di Bandung Didenda Jutaan Rupiah - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRExCZkRwTkZ0SEFVZC1aeXlJSkhoakN0TEhSQV9pNW5OSy00MUVxaGhROS1wMTZtcS1sVXpFVVFnR3o0ZTVOUGY5OS1WV3ZHZWFLeUdoRnJwY0hJTEZBZDV2d0thNlRZMzFoLUVRbDFNSlUwMFFDazVzSWVCYmZBeWk0TlNJWFpxTVZpMWlfdEFVck5DMllyb2x3TmRmNDVxbWdjNTAxaTZKUWc5dVhmNVBfQ0RjRzBxWGtzQ0NRODZEV2JwcW1qdzRyX3FjYU0?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Ponpes Al- Munawaroh Sumber Sari Gelar Istigosah, Bupi Bandung Ajak Warga Bersyukur dan Introspeksi - Antarwaktu.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd055QUtJRVl1emd3aEp6d2k2Q2tJWnZzamRMRnNRbF9mTzZYbm5RX3JSenJVWXI5dUxwQy14eHJmYnRUa0FSR1QzblZLZ3haSXBMUHVUd3I0bWI0aWctU1h4TVE5WUFNODFuOEZYaTJ5ZjFQMGxvSUc4ZTRvX0hDYnVwbEl1WDhuc1BGT0d2a2NuV2piUnVveUhOajQ0RDNHNEpwaFo2eW1QX2VESGRjbVB6WF9veG1DUDZXNDJuSVNxdFZkSVJxYm43Y2c?oc=5",
+     "r": "Antarwaktu.com"
     },
     {
-     "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
-     "r": "Satumedia.id"
+     "t": "KDS Ajak Masyarakat Jaga Kesehatan dan Perkuat Kepedulian Sosial - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMU9lN0QwLW9BMUNhVHp3aW1EVWRuTzZsemFlZExMd2FjZUJoOWp6MUlEdzBJWUpVc2V4elVRdTdLSXl3dnp4dlhUNFJtbjV4bDE0MzU1WDRZd0RkS1IxQkNZdnBXVUZ6RzhmVUI1cFhRVnZsODNPby1sdlpyOV85Ymw2bDBVaUtscFc1cVdKNC1DOUp2UmE1TkxoVFUwWHBCc3F1VnVB?oc=5",
+     "r": "Gerbang Patriot"
     },
     {
-     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
-     "r": "RRI.co.id"
+     "t": "HSN 2026, Bupati Bandung Ajak Santri Kembangkan Potensi Diri - Lembaga Dakwah Islam Indonesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0tRNkRXVFMtWGNqLU92dXVvbmpuV1dtWEl4VUVWZDY3dzVmOFI4NDUtNFNHQkdiRFZ3bDcyZW1MVzVlZTRFaVV4ZE95bWlCR3EzS2RmRUJPd25ZaHBKS3NXbXdBVmxKd09wRFZvYVR3clVOQWpISFRuQkNSTXpOOERTajI2OFo1TGpB?oc=5",
+     "r": "Lembaga Dakwah Islam Indonesia"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     12,
-     28,
+     15,
+     27,
      6
     ]
    },
@@ -135,17 +135,17 @@
      1,
      0,
      0,
-     2,
-     4,
-     7,
-     0
+     0,
+     5,
+     8,
+     3
     ],
     "g": [
      0,
      0,
      0,
-     1,
-     2,
+     0,
+     3,
      2,
      1
     ]
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     14,
+     13,
      16,
      5
     ]
@@ -204,7 +204,7 @@
     "p": [
      0,
      0,
-     5,
+     4,
      6,
      0,
      3,
@@ -257,7 +257,7 @@
     ],
     "w": [
      4,
-     15,
+     16,
      2
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     17,
+     16,
      20
     ]
    },
@@ -414,8 +414,8 @@
      0
     ],
     "w": [
-     3,
-     9,
+     4,
+     7,
      9
     ]
    },
@@ -433,7 +433,7 @@
      0,
      1,
      0,
-     3,
+     4,
      0,
      0,
      0

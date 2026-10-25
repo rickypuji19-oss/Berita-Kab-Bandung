@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:13:10.153000+07:00",
+ "updated": "2026-10-26T06:13:02.178988+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   24
   ],
   [
    "Kompas.com",
@@ -20,19 +20,19 @@
   ],
   [
    "RRI.co.id",
-   13
+   15
   ],
   [
    "Koran Gala",
    12
   ],
   [
-   "PPID Kab. Bandung",
+   "detikcom",
    9
   ],
   [
-   "detikcom",
-   9
+   "PPID Kab. Bandung",
+   8
   ],
   [
    "ANTARA News Jawa Barat",
@@ -167,16 +167,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
      "r": "Satumedia.id"
+    },
+    {
+     "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
+     "r": "Bedanews"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      15,
-     15,
+     13,
      6
     ]
    },
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     5,
+     4,
      13,
      2
     ]
@@ -280,7 +280,7 @@
     "p": [
      0,
      0,
-     3,
+     2,
      0,
      1,
      2,
@@ -319,9 +319,9 @@
      "r": "MetroTVNews.com"
     },
     {
-     "t": "Puluhan Preman Terjaring Operasi Polresta Bandung di Soreang dan Katapang - RRI.co.id",
+     "t": "Gudang Bawang Merah Dibobol Polisi Ciduk Sejumlah Pelaku - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJ2R1piVnRtWl9hak9GdG05RUJFT2tOWXo4YnVTanN1Tnl6dkZSUFN3ME1QUUduUkdSRUpueHlFUFp5SV9PZGZNc2lteUh3VVNiYi1VTlBlYUE4bS1ad2Z5bHVMeWVrc1VEZzRWVzBUY2RsSzRWdjgxR0pFVHprWnVobkRvLUVxdWpkNlBVLWdBUjhhSmhnNHdVWkpoVlhWTWlmUEEtNWI0aDNfZTlVdGtfVQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDBsa1MteVRmVzRQaWszLVdtREtyYm5VYVlBUHExRnk0XzRqQ2d0a0VBVnYtRkM1WTVXZTdSM1FpS2dmS0tKd2JJdFhWaU56cGt3QXZWLVkweEhZRnFwVGwta0ViemdJUC0wR004czBpOTBuM3lhTzM5OExvclRNTXRhMUFwMWl6RHI5aTFVaFhIRDFFYW8tOHZVYTJTS1RIYk9IWnIzTEJ2Wk1Bc3c?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     11,
-     19
+     13,
+     20
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      8,
      6,
-     2,
+     3,
      3,
      2,
      1,
@@ -395,16 +395,16 @@
      "r": "Jurnal Soreang"
     },
     {
+     "t": "Kang Rey Turun Langsung Salurkan 5 Tanki Air Bersih untuk Warga Jalancagak - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemlpd3ZMbFZOcWVobDFuREdvTHpWeFpaVnE0UVk5YU5OblhXMTg1YW9nNmVfVklKYWZudDVSMUdRcXg0MzNNOF8xenVVX3hjYW13bkVHRjhQWk14dzBUbmhkcmhxeVdTRWNPRVVwYXd3eklwc0w5Q1Z1S0s2QkY3a2o1ZjlLRjBXLW1aejNMdUN6eHgzWldlZkxHWUtmLWdkZDhkaHExT2kzS0hqMXFRU2pRcGluVVJV?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Meski Minim Anggaran Jalan Penghubung antar wilayah di Cinanggela Rampung - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUERfd3lmazBCbnd3akFjOE8zU1R0cmV1dmF2eTNVWEtIZDdSbVdGSHZpNnlOdjlsQnJWM3RfclRwVWJVQTAzOXVtS2JIV2kwZl9WdXVvNzF1NmdNSUh5YzlFZXdzN2RFcmUzX1hZcjNTSEtHSVFvYU5YMHdZZWpQMjVtYlgxWnhJbWkzWHBlVnd4ZXoyWG0wMzNBYnNONVlmUGtkN2Jjb0dsOUhGRGdka1E0Zw?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -421,7 +421,7 @@
     ],
     "w": [
      7,
-     7,
+     8,
      9
     ]
    },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     19,
+     5,
+     20,
      6
     ]
    },
@@ -518,7 +518,7 @@
      "Sen"
     ],
     "p": [
-     1,
+     0,
      1,
      3,
      2,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:15:44.231284+07:00",
+ "updated": "2026-10-25T19:17:03.226389+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,20 +11,20 @@
    29
   ],
   [
-   "Kompas.com",
-   19
-  ],
-  [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "RRI.co.id",
-   12
+   13
+  ],
+  [
+   "Kompas.com",
+   13
   ],
   [
    "PPID Kab. Bandung",
-   10
+   11
   ],
   [
    "Koran Gala",
@@ -47,15 +47,11 @@
    5
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
-   "Radio PRFM",
-   4
-  ],
-  [
    "Gerbang Patriot",
+   3
+  ],
+  [
+   "Satumedia.id",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "Jurnal Soreang",
+   3
+  ],
+  [
+   "Ketik",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS dan Pemkab Bandung Bedah 3.047 Rumah Tidak Layak Huni - Media Purna Polri",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXBwZUVnazdnYmY5bl83aUNieTg2dmt4eWo1OEJMWlFDY1FnOXpGUURBQ1pZa0hnZ3Q3bHVyb09zOU1pOGZObXZ6cXFsTXR4QWV1U2FfdGJncC1LY19Xbkp1amNmQWc3d3k4bUZXeWtoYTJtOTZTMG5CSURfRmtLd24zRHUxWW5iOHc2VkxyOUxuYzRpcTVxdlY3Z0VYUQ?oc=5",
+     "r": "Media Purna Polri"
+    },
+    {
      "t": "Ponpes Al- Munawaroh Sumber Sari Gelar Istigosah, Bupi Bandung Ajak Warga Bersyukur dan Introspeksi - Antarwaktu.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd055QUtJRVl1emd3aEp6d2k2Q2tJWnZzamRMRnNRbF9mTzZYbm5RX3JSenJVWXI5dUxwQy14eHJmYnRUa0FSR1QzblZLZ3haSXBMUHVUd3I0bWI0aWctU1h4TVE5WUFNODFuOEZYaTJ5ZjFQMGxvSUc4ZTRvX0hDYnVwbEl1WDhuc1BGT0d2a2NuV2piUnVveUhOajQ0RDNHNEpwaFo2eW1QX2VESGRjbVB6WF9veG1DUDZXNDJuSVNxdFZkSVJxYm43Y2c?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMU9lN0QwLW9BMUNhVHp3aW1EVWRuTzZsemFlZExMd2FjZUJoOWp6MUlEdzBJWUpVc2V4elVRdTdLSXl3dnp4dlhUNFJtbjV4bDE0MzU1WDRZd0RkS1IxQkNZdnBXVUZ6RzhmVUI1cFhRVnZsODNPby1sdlpyOV85Ymw2bDBVaUtscFc1cVdKNC1DOUp2UmE1TkxoVFUwWHBCc3F1VnVB?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "HSN 2026, Bupati Bandung Ajak Santri Kembangkan Potensi Diri - Lembaga Dakwah Islam Indonesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0tRNkRXVFMtWGNqLU92dXVvbmpuV1dtWEl4VUVWZDY3dzVmOFI4NDUtNFNHQkdiRFZ3bDcyZW1MVzVlZTRFaVV4ZE95bWlCR3EzS2RmRUJPd25ZaHBKS3NXbXdBVmxKd09wRFZvYVR3clVOQWpISFRuQkNSTXpOOERTajI2OFo1TGpB?oc=5",
-     "r": "Lembaga Dakwah Islam Indonesia"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     23,
+     16,
+     26,
      6
     ]
    },
@@ -138,7 +138,7 @@
      0,
      5,
      8,
-     3
+     4
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT21zM2lvdHhrUW1teHVGX0ZqOEJqQjB4U2xoWFp4Z0VRZjlKdWdWZ29nUEIxa25pMlUyeVI5WGpRZ3lBNTdwblUtcFRFaGl2N1lqclVKeC1zZ29LdXlJX3M4b01QdVZLN2NMTEp3bi1DLVM0R0huME9VSER1NnRTS0FjWlJobTlnMHR2alY1OUh5bUJlemRXc25UQmduYVRpLTJPbTFWOUxfU0t0eXQweE9vbDlDNWhoX1AtLUE4VkZRUDZF?oc=5",
      "r": "https://warta.in/"
-    },
-    {
-     "t": "Berawal dari Krisis Moneter, Nebulae Cymbal Tumbuh dari Bengkel Kecil di Kabupaten Bandung - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXRRSnVsdGZFbkNja0hpcE5OVEtnWE9WS1JvNmd0aUxndndCZEhzUUhEMnp4TUFvZTB3OUhFM0N3a2VxbUh4M2dlV1F0RnFXSjVFMmVjbFZaZ0F0dFg3M25VVUplYjhNSmdTYTBhUUNKaHBCU0IxZ0twaFVURzlzYUROQU52YTJBejRDNlRGRGtyUDVwZ3lIRkROMlJiOFlkTmxnRmwweUN5X0V5MmtjQnpSNHNwU3pXcXpUcTNaLWMxSFkzNW4xQmNSNGbSAdIBQVVfeXFMTUhOc1dGSk1UV2NqZS00QVRLVk5zalphT1BvR0Jzd2ZiLTItVDV3ZUQxY2dIYklleUlweEpQM3dSRXJNMFBVeUxMUDdjWUZHVkZDbG54LVRGa3JPQ1FwSWhsU1BvNGZWQm5adk9fbjhMRHpFOVhhTzRFT0FmcmYzdTNFZ1JKQldLdEVWcW1LYkZMTTRWYldWM1lubl93SURabUxXUVNfSWpPY3V1NXRMUXNVamZkdklyTjdDR3dtRTV2QlFIVHBoSWluUkpDcHBrd1NB?oc=5",
-     "r": "Koran Gala"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      14,
-     16,
+     17,
      5
     ]
    },
@@ -243,10 +243,10 @@
      "r": "detikcom"
     },
     {
-     "t": "Panas Bumi Kamojang Sokong Dapur Petani - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi01Vi10N1l3a3B0bms5SGtldF9MYWlRbUZuM0JWWDlVT0lqeTQ1VFRyZHdJUWVKM2NzQm15bUFfbXNWN2lWaENfdDR3ekJnbWU4b0J1YjNELUV0RnNFR09kak1pcWVpdWQycHFwcl9XSWRyMkE3XzUtZzBueTN3N0NqU3ktYkpVclZBSmRsYlhBalVGak8wZ2hqRVEtcjg?oc=5",
-     "r": "Kompas.com"
+     "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     5,
+     3,
      15,
      2
     ]
@@ -281,9 +281,9 @@
      0,
      0,
      0,
-     3,
+     2,
      0,
-     1,
+     0,
      2
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      2,
-     16,
-     22
+     14,
+     19
     ]
    },
    "trend": {
@@ -371,9 +371,9 @@
     "g": [
      0,
      8,
-     8,
+     6,
      2,
-     4,
+     3,
      2,
      1
     ]
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
-     6,
+     5,
      7,
-     9
+     8
     ]
    },
    "trend": {
@@ -437,7 +437,7 @@
     ],
     "p": [
      0,
-     2,
+     1,
      0,
      4,
      0,
@@ -449,7 +449,7 @@
      0,
      0,
      0,
-     6,
+     5,
      3,
      0
     ]

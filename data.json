@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:23:58.769223+07:00",
+ "updated": "2026-10-25T21:16:02.597835+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   26
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "Ayo Bandung",
@@ -28,7 +28,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   10
+   9
   ],
   [
    "detikcom",
@@ -39,11 +39,11 @@
    8
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Gebyar Budaya DAMAS ke-70, Pemkab Bandung Dorong Seni Ketangkasan Domba Jadi Penggerak Budaya dan Ekonomi - www.balebandung.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1pBQTE5N3dQR2FCNHhUODZ2NHUtQ0N2elZ5ejUwdXZzSC1EUEY0Z0ZNNE5IRkhTY04yREpLZlR5d0JOT1RJU2EyNTM4WVFLRjc1THJDcFVVRGNkTFJ2alNjSElZcWtRZVNCSlZ6M19TaFRnSnptM1RQY1RaTE9zbElGSlE3YnJycWhmVURJekVIWDJKUndiSXk0b0N1bG5iQmxMdVdQYjE2UjU4bEcwTjByVXVxYkcwcUNuUGhma2EyZkxRSmFjbWRlTnhkZw?oc=5",
+     "r": "www.balebandung.com"
+    },
+    {
      "t": "KDS dan Pemkab Bandung Bedah 3.047 Rumah Tidak Layak Huni - Media Purna Polri",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXBwZUVnazdnYmY5bl83aUNieTg2dmt4eWo1OEJMWlFDY1FnOXpGUURBQ1pZa0hnZ3Q3bHVyb09zOU1pOGZObXZ6cXFsTXR4QWV1U2FfdGJncC1LY19Xbkp1amNmQWc3d3k4bUZXeWtoYTJtOTZTMG5CSURfRmtLd24zRHUxWW5iOHc2VkxyOUxuYzRpcTVxdlY3Z0VYUQ?oc=5",
      "r": "Media Purna Polri"
     },
     {
-     "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
+     "t": "Kabupaten Bandung Bidik 100 Emas di Porprov XV, Kobarkan Semangat Juara - Mudanesia",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Ponpes Al- Munawaroh Sumber Sari Gelar Istigosah, Bupi Bandung Ajak Warga Bersyukur dan Introspeksi - Antarwaktu.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd055QUtJRVl1emd3aEp6d2k2Q2tJWnZzamRMRnNRbF9mTzZYbm5RX3JSenJVWXI5dUxwQy14eHJmYnRUa0FSR1QzblZLZ3haSXBMUHVUd3I0bWI0aWctU1h4TVE5WUFNODFuOEZYaTJ5ZjFQMGxvSUc4ZTRvX0hDYnVwbEl1WDhuc1BGT0d2a2NuV2piUnVveUhOajQ0RDNHNEpwaFo2eW1QX2VESGRjbVB6WF9veG1DUDZXNDJuSVNxdFZkSVJxYm43Y2c?oc=5",
-     "r": "Antarwaktu.com"
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdU5OVjZ2V3FZV1RnNVRKMUlmdllNcGhKSTJTOGwzMmlzdEk3cHdOSkk3WkZTSDBzMW1ncjRNSHppUVhMOWZlaTJUWnB6R0t5YVMyRWZmTjlUb0g1YWp4YV9BLVpvODV1UU1tcmZ5dWVfZVZXMk1pb2VpLXgwVVNpMi11a0ZxWEhQUUpkUGFsdGwwMGpqaGFSWlN0MVNIS3publhJbUxJc0U4Q3JlcldDYjdsc2pFQy10TGpac0VnOGo2Unh0VktVbkZ0UHBIZ9IBzgFBVV95cUxQdU5OVjZ2V3FZV1RnNVRKMUlmdllNcGhKSTJTOGwzMmlzdEk3cHdOSkk3WkZTSDBzMW1ncjRNSHppUVhMOWZlaTJUWnB6R0t5YVMyRWZmTjlUb0g1YWp4YV9BLVpvODV1UU1tcmZ5dWVfZVZXMk1pb2VpLXgwVVNpMi11a0ZxWEhQUUpkUGFsdGwwMGpqaGFSWlN0MVNIS3publhJbUxJc0U4Q3JlcldDYjdsc2pFQy10TGpac0VnOGo2Unh0VktVbkZ0UHBIZw?oc=5",
+     "r": "Mudanesia"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     16,
-     25,
+     18,
+     24,
      6
     ]
    },
@@ -138,7 +138,7 @@
      0,
      5,
      7,
-     5
+     7
     ],
     "g": [
      0,
@@ -205,8 +205,8 @@
      0,
      0,
      4,
-     6,
-     0,
+     5,
+     1,
      3,
      1
     ],
@@ -263,7 +263,7 @@
     ],
     "w": [
      5,
-     14,
+     13,
      2
     ]
    },
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     13,
+     14,
      20
     ]
    },
@@ -422,7 +422,7 @@
     "w": [
      7,
      7,
-     9
+     8
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      5,
@@ -483,22 +483,22 @@
      "r": "Kompas.com"
     },
     {
+     "t": "Pastikan Kesetaraan Pendidikan, Mensos Kunjungi Sekolah Rakyat di Soreang | NTV HIGHLIGHTS",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=Xt-MCJ32ft4",
+     "r": "YouTube ntvnewsdotid"
+    },
+    {
      "t": "Jelajah Alam, Taklukkan Tantangan, Tumbuh Jadi Hebat!",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=HX5v2wc8RK4",
      "r": "YouTube SLB Negeri Cileunyi Kabupaten Bandung"
-    },
-    {
-     "t": "Jambore Literasi 2026 Leksam Bedas SD Kab Bandung H-3",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=4SydZ9WS3yY",
-     "r": "YouTube LEKSAM BEDAS"
     }
    ],
    "v": {
     "s": [
      1,
-     4,
+     5,
      0
     ],
     "w": [

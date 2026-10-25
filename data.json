@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:11:01.034026+07:00",
+ "updated": "2026-10-26T04:14:51.897640+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "Kompas.com",
@@ -20,19 +20,19 @@
   ],
   [
    "RRI.co.id",
-   13
+   14
+  ],
+  [
+   "Koran Gala",
+   11
   ],
   [
    "PPID Kab. Bandung",
-   12
+   9
   ],
   [
    "detikcom",
    9
-  ],
-  [
-   "Koran Gala",
-   8
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,14 +40,6 @@
   ],
   [
    "Jurnal Soreang",
-   4
-  ],
-  [
-   "Satumedia.id",
-   4
-  ],
-  [
-   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -63,7 +55,15 @@
    3
   ],
   [
+   "Satumedia.id",
+   3
+  ],
+  [
    "Galamedia News",
+   3
+  ],
+  [
+   "Ketik",
    3
   ]
  ],
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     18,
+     19,
      23,
      6
     ]
@@ -136,7 +136,7 @@
      0,
      0,
      4,
-     7,
+     8,
      7,
      1
     ],
@@ -243,10 +243,10 @@
      "r": "detikcom"
     },
     {
-     "t": "Panas Bumi Kamojang Sokong Dapur Petani - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi01Vi10N1l3a3B0bms5SGtldF9MYWlRbUZuM0JWWDlVT0lqeTQ1VFRyZHdJUWVKM2NzQm15bUFfbXNWN2lWaENfdDR3ekJnbWU4b0J1YjNELUV0RnNFR09kak1pcWVpdWQycHFwcl9XSWRyMkE3XzUtZzBueTN3N0NqU3ktYkpVclZBSmRsYlhBalVGak8wZ2hqRVEtcjg?oc=5",
-     "r": "Kompas.com"
+     "t": "Kurangi Pengangguran Pemkab Kirim Puluhan PMI ke Jepang - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFg3RVk5MC00RV9aeFBFWnU3Tk43M2JobjI1QWZ4VWVkSnpyWkJCdFAxYjFsWTFDc1hBMTdHZk1kZ1FpS0FmbFAyeUxtbXBOSHNrQU0wVmFvZEw0X1UxMWFpS2VvWS1xU212eG5kWHZxVVhhbjh0VEJyME5kd1ZnY2Zxd3RuOTN6S1Y1eDlrMmhUQzFuRGJ2MXptYkR6R3c?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -263,7 +263,7 @@
     ],
     "w": [
      5,
-     11,
+     13,
      2
     ]
    },
@@ -420,9 +420,9 @@
      0
     ],
     "w": [
+     6,
      7,
-     7,
-     9
+     8
     ]
    },
    "trend": {
@@ -436,7 +436,7 @@
      "Sen"
     ],
     "p": [
-     2,
+     1,
      0,
      4,
      0,
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      5,
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     19,
+     20,
      6
     ]
    },

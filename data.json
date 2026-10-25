@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:28:38.178506+07:00",
+ "updated": "2026-10-25T15:15:52.695302+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Kompas.com",
-   20
+   18
   ],
   [
    "Ayo Bandung",
@@ -23,12 +23,16 @@
    12
   ],
   [
-   "Koran Gala",
+   "PPID Kab. Bandung",
    10
   ],
   [
    "detikcom",
    9
+  ],
+  [
+   "Koran Gala",
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -37,10 +41,6 @@
   [
    "jabarekspres.com",
    6
-  ],
-  [
-   "PPID Kab. Bandung",
-   5
   ],
   [
    "Pikiran Rakyat Koran",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Terbukti Melanggar Perda, 5 Penjual Miras dan 2 PKL di Bandung Didenda Jutaan Rupiah - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRExCZkRwTkZ0SEFVZC1aeXlJSkhoakN0TEhSQV9pNW5OSy00MUVxaGhROS1wMTZtcS1sVXpFVVFnR3o0ZTVOUGY5OS1WV3ZHZWFLeUdoRnJwY0hJTEZBZDV2d0thNlRZMzFoLUVRbDFNSlUwMFFDazVzSWVCYmZBeWk0TlNJWFpxTVZpMWlfdEFVck5DMllyb2x3TmRmNDVxbWdjNTAxaTZKUWc5dVhmNVBfQ0RjRzBxWGtzQ0NRODZEV2JwcW1qdzRyX3FjYU0?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
@@ -88,12 +94,6 @@
      "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Skema Penyaluran DBH, Percepatan Pembangunan terhadap Kesejahteraan Warga - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3dNMm5Fb01EMVVqSkt5MlhtUVk1UUkxRDVQbk5PUzJ1dlJBVnlLN3pNN2N3c0hYYmFZMDdCWGFGT1pXczJtZXFIRE52Q3djUFNabHpTWmVZVkdhR0dxY1lRVTMteThzcGtwaUxjX1dKSGloalR2aGRyM3RpZ1Iyem5tSktENllxZGJXQTNFaDhveGFDUTJvT2JIMFZzbHhZQmQ1NUpOOFN3RHdkZ2NDNVdUV1VWZw?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     14,
-     26,
+     12,
+     28,
      6
     ]
    },
@@ -136,8 +136,8 @@
      0,
      0,
      2,
-     5,
-     8,
+     4,
+     7,
      0
     ],
     "g": [
@@ -145,9 +145,9 @@
      0,
      0,
      1,
-     3,
      2,
-     0
+     2,
+     1
     ]
    }
   },
@@ -187,7 +187,7 @@
     ],
     "w": [
      14,
-     17,
+     16,
      5
     ]
    },
@@ -257,7 +257,7 @@
     ],
     "w": [
      4,
-     16,
+     15,
      2
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     15,
+     17,
      20
     ]
    },
@@ -414,9 +414,9 @@
      0
     ],
     "w": [
-     4,
-     6,
-     10
+     3,
+     9,
+     9
     ]
    },
    "trend": {
@@ -433,7 +433,7 @@
      0,
      1,
      0,
-     4,
+     3,
      0,
      0,
      0
@@ -443,7 +443,7 @@
      0,
      0,
      0,
-     7,
+     6,
      3,
      0
     ]
@@ -513,10 +513,10 @@
     ],
     "p": [
      0,
-     1,
+     0,
      1,
      3,
-     1,
+     2,
      0,
      0
     ],

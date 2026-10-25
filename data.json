@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:20:38.707031+07:00",
+ "updated": "2026-10-25T10:19:25.961428+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   33
+   32
   ],
   [
    "Kompas.com",
-   20
+   18
   ],
   [
    "Ayo Bandung",
-   14
+   16
   ],
   [
    "RRI.co.id",
    12
+  ],
+  [
+   "PPID Kab. Bandung",
+   11
   ],
   [
    "Koran Gala",
@@ -35,16 +39,12 @@
    7
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    6
   ],
   [
-   "PPID Kab. Bandung",
-   5
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
    "Radio PRFM",
@@ -117,7 +117,7 @@
     ],
     "w": [
      14,
-     24,
+     27,
      6
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "10 Organisasi Masyarakat di Wolo Sampaikan Aspirasi soal Keberlanjutan Investasi - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NrekNIa0R1X3NaclJMVklDcWtaREdIa2pab2JlRHRlWV9rLVRvbm1kTmxfR2dJSzVzS3VLeDJqdVpFTWJEWmkxa1RBd2JNUmt5V1ZwMVFHdy1jVkJGNUlUT2p4MDZBQkdxeUQwZ1NDN2k0TzRIRzE1cGRDSnZqTmdjdW11VmFmSVV1R2lLb2VWUG9OUkZUVWtBMjdSN1JNUmw5Z1dobVNVdGhKY0I4NTE5blJtTnNYcElJdmZpOUZtSExHV0hGNmxvb9IB0AFBVV95cUxNY3ZmaXRjb3JvMlZyWThRRVdhM3V4RGZvaVFvdzRFZHJjZ0kwZzZyTlA0THNpUTcxckpOMFhwUnFIOVp4Nm9kY1JYNERrRGM4cDVfMnplSm5kMVlQQ2JWRk9xOG5rWFNhd0hoV1k3bk9kcFhRbkVsRWNmc2hCM3R4QkdBLWFzZVBLUG9fcE5JQU9CdEc1VGRjUWNaMjluV3VNWkN6UGVIbkxjZUgwWXdWeFRIUWFMMnVFWFlHdElIdnl4bFJ6eGoyTF9Ob3pqTUpT?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "6 Lokasi Pemandian Air Panas Alami di Ciwidey dan Harga Tiketnya - detikcom",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVdIBswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVQ?oc=5",
@@ -240,12 +246,6 @@
      "t": "Gelar Pameran di Braga Bandung, IMA UMKM & Tourism AwardS: Dorong Produk Lokal Tembus Pasar Global - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDJQeHAxZFcyUHB3TThCNl9RZ040QlhTc1ltMmhsaExZbFczQmVJc0gtVWlyTEJINV9YX1dBbVZzQXJmV3JtYlBXb0RmWkFmOWFpMlFQa1pBME9yeTI5TTRFalpRUnlsbEhHZFJISkRQTmUwdUZhWkhoRzg5dTE1dmRENnA4S09FWUJQTmRTYW1HTG1UODlJcW9mZzVWNGg5YXNGRlVxZWNSUkg2d2s3M0VGZmVwSk5OWHppZEtQMzBONEFlVzdscUp2dUhSY1FqTG1kc3I1eHN3OEhCTlE?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Viral Getok Harga Cuanki Rp50 Ribu di Gasibu Bandung, Wali Kota Farhan Minta Pedagang Jaga Etika - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSlVlcDg4Qm1JN3NfY3JrSjlSU1A3TWkwZVFaY3c2NWlhcjZ0TzFld2I3TTlfeEl2Sm83ZWY2VEVLUXZyU1hHa1BzRnBpcGpzQVpTSWl3ODRmY3gyd1BDNW9nZHZuN1pneXk2WkVXaHB3TDZnMGhUazZ2TTlVSlNrT3p4Nl9INTRjWmZZbWlRd3FXTDBkR0x6WkpKa1lpMmFJWUR4X1RsNzlkTHEzZVl6ZVgtTHNqXzRjTFYwdEpWbUVsR0w5SEdEdjJROVdrcDVqMW5pcFphYmd5MklfanlJ?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -257,7 +257,7 @@
     ],
     "w": [
      4,
-     15,
+     16,
      2
     ]
    },
@@ -339,8 +339,8 @@
     ],
     "w": [
      2,
-     15,
-     21
+     16,
+     20
     ]
    },
    "trend": {
@@ -365,7 +365,7 @@
     "g": [
      0,
      8,
-     8,
+     7,
      2,
      4,
      1,
@@ -414,8 +414,8 @@
      0
     ],
     "w": [
-     3,
-     7,
+     4,
+     8,
      10
     ]
    },
@@ -431,7 +431,7 @@
     ],
     "p": [
      0,
-     1,
+     2,
      0,
      3,
      0,
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     5,
-     18,
+     6,
+     19,
      6
     ]
    },
@@ -516,7 +516,7 @@
      1,
      1,
      3,
-     1,
+     2,
      0,
      0
     ],

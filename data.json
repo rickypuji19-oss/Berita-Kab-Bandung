@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:19:35.360189+07:00",
+ "updated": "2026-10-25T13:19:35.511215+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "Ayo Bandung",
@@ -20,11 +20,11 @@
   ],
   [
    "RRI.co.id",
-   12
+   11
   ],
   [
    "PPID Kab. Bandung",
-   12
+   11
   ],
   [
    "Koran Gala",
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "Satumedia.id",
+   3
+  ],
+  [
    "Galamedia News",
    3
   ],
   [
    "Jurnal Soreang",
-   3
-  ],
-  [
-   "Ketik",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3dNMm5Fb01EMVVqSkt5MlhtUVk1UUkxRDVQbk5PUzJ1dlJBVnlLN3pNN2N3c0hYYmFZMDdCWGFGT1pXczJtZXFIRE52Q3djUFNabHpTWmVZVkdhR0dxY1lRVTMteThzcGtwaUxjX1dKSGloalR2aGRyM3RpZ1Iyem5tSktENllxZGJXQTNFaDhveGFDUTJvT2JIMFZzbHhZQmQ1NUpOOFN3RHdkZ2NDNVdUV1VWZw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Laporan Keuangan Audited Dinas Koperasi dan UKM Kabupaten Bandung Tahun 2025 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZWFOQ3hnZTVhU0tERFRRamRWTWJGUThPYmYwcEJaSkNaSlIwLTVUYmJpU3JqaFFKZzJWMW05T0lXODh4UndWMTI1UXdkV3FhajZ4NFZZdkdOWGwxVDdiQWtiNWtGbjJ2eW1iVElmRFMxQ1c2Ulh1WEp4S1FvRVBaMTQ3NUo5cmRDR2w5M2VsYUZ1SFFBYjF2QkVVTHA1Zlo1c0FRdXQ1Vkl5bTFPVWNVSzR1czA1U3ltNDl6Q2lYbDV6ZUIwQ0JXb3dIeHR3eFByZVVjLUthczF2ZnpKbU5Yd0R1aVlEWndFVE42N1E5TQ?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -257,7 +257,7 @@
     ],
     "w": [
      4,
-     17,
+     15,
      2
     ]
    },
@@ -339,7 +339,7 @@
     ],
     "w": [
      2,
-     16,
+     17,
      20
     ]
    },
@@ -365,9 +365,9 @@
     "g": [
      0,
      8,
-     7,
+     8,
      2,
-     4,
+     3,
      1,
      0
     ]
@@ -414,9 +414,9 @@
      0
     ],
     "w": [
-     3,
-     8,
-     10
+     2,
+     9,
+     9
     ]
    },
    "trend": {
@@ -433,7 +433,7 @@
      0,
      1,
      0,
-     3,
+     2,
      0,
      0,
      0
@@ -443,7 +443,7 @@
      0,
      0,
      0,
-     7,
+     6,
      3,
      0
     ]

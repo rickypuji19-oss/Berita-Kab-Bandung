@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:42:03.854229+07:00",
+ "updated": "2026-10-26T15:34:23.558375+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "Ayo Bandung",
-   18
+   20
   ],
   [
    "Kompas.com",
-   18
+   17
   ],
   [
    "RRI.co.id",
-   17
+   15
+  ],
+  [
+   "Koran Gala",
+   9
   ],
   [
    "detikcom",
@@ -35,12 +39,12 @@
    8
   ],
   [
-   "Koran Gala",
+   "jabarekspres.com",
    7
   ],
   [
-   "jabarekspres.com",
-   6
+   "Radar Bandung",
+   5
   ],
   [
    "Jurnal Soreang",
@@ -56,10 +60,6 @@
   ],
   [
    "opininews.com",
-   4
-  ],
-  [
-   "Radar Bandung",
    4
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "929 Atlet Kabupaten Bandung Bidik 100 Emas di Porprov Jabar 2026 - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUpsY0R6RHJYTUx1d2YtRl9MVnNwcG9lWDIweENWOS1zMnpQOXJFMzJFRjBkQS1oblFMQ0tpbDR0TEE1TlM3T0YybkdtUDNkRWp6d0Riemk0NTNJVElOaEpBZVM0THJhRnlQUkItaXhLdkZ1N2tzWFNsd240UzJsUS1CVGx1bHNvd0hNd1NVNWJpN0xDakpLazFONmNSSW1HY0ROV2V1bw?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Pemprov Jabar Pastikan Tak Ada Pinjaman di APBD 2027, Pilih Optimalkan Pendapatan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbERpT1RUWFA0aVFMVGtIaGtCV2tjcE9KTW5FVmJkS0s0TGItMFg4ZUZySTVoMUtCWm9xay1UVlJOTDdrSDJJMTNNdTJVSkItZWhkbWxlSF9KZlgzVE0taWF5bFphQ2gzMEl6SnZ0cVVBOGN1SElkVWRCMjhZcTYydHlzZ1BnTzhiRjZrQXpmT08tcHgzSTUxVTRHRFZob21Ma0RsakZEUWlVbHBFdUwzcENzWlVtUHNnamRXMEJ3eUdXbFZhM1M1WGVJaw?oc=5",
@@ -88,12 +94,6 @@
      "t": "Bupati KDS Doakan Almarhum Kades Dayeuhkolot Bandung - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkNMdHhSR19pQkF3VjNHM3JaaEFEMENiNExLNDEzZ2xoTEFWZ2pFYm45cHFSRGpnZnJqZkdGOWdLS3Zib1RqSktUNDNfZVhIOW0tRkotSTJpTk9TVlNyZ0J1M1lNSnpVS1p5NkdmNXVrdkctUHNOQUNkSDZYdGJrb0hrcXQ5UzlHLUFwR3JnU1pYUFFKT2cyQVdsbw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Awing Kembalikan Berkas Pencalonan Ketua PWI Kabupaten Bandung, Ini Janjinya - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFA4dDEtMGNpWFB0QzY1N0hhTEZETGpDWmJVX1A0Q05zZ2FMSF8weDgtMHVBVDZ6cm9FZzVZdWZfd1RqckYyaFozQnpjY0gtQ1lqbm13NDBRYnIwb09oNEdxdUpiYWZ5akNQbUNmeWlmVTVTZkZsRG5EQkVZQ1lpNGdVMEFuQkpialFEd3ByMWRWdUMxUGlrbWE4YmRmMmMzY3lXNkUwQUc1V3lkWmJGd3JYaGh6X2dsWWUzS3V3?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     16,
      21,
-     6
+     21,
+     4
     ]
    },
    "trend": {
@@ -135,16 +135,16 @@
      0,
      0,
      0,
-     4,
-     5,
-     6,
-     3
+     2,
+     8,
+     9,
+     4
     ],
     "g": [
      0,
      0,
      0,
-     3,
+     1,
      2,
      1,
      0
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Berkas Kasus UU ITE BS di Bandung Hampir Rampung, Simalango Law Firm Soroti Langkah Tersangka - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREpnN2ROLTZqTnlzUU5tUzJuWEZLb3JtOFhzZGpVaDRsVTNUcWIwLUlZZ1lCTjl2bl9kczJQenlmN2J4YTdPaUlmdmZnZThEMXl6S2pfNjhmbV9sS3JiOGVqQzhvVEtLSXU3NlU5OTBKNzNxUkZjSURCV3Bxc3prckZuQXBiRnp5dm0yT0RZTjJENGZUWkpUb0NpTGxFTE10bk8yRVhZeTJfUkZmZTZDbWZXS3J0WGw0TzdQdDVpQTNWdDBjVUhUalprdDlCM0t2NTFqYllSS2dLczQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kejari dan PLN Majalaya Hadirkan Listrik bagi 9 Warga Prasejahtera di Kabupaten Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTVycDNhZWNmR1dycFdIYVVRS3h6M2d0V3F0Mlp1NlJsNmNTdWNUNVdScGdBMmdzelZJSlMxSldPR3IwbGlhei00eUdSVlBXQ3haQjFrenB3bUprUTY1eUhSZzItNEVGUzF4X0R2eGpROTdUQWlpY3lwTnl6bnhtdG1sNW9ZajV0MmVvNFVXOTNYRjZSaURRTi0tMW1jNF9MZE9vT01IRERzSk9JU3hCX3pBbEFSdXQtZVRMbl9lRVNoLVI3THNKZHJwN3FjeEJTdmNNTGhRRC1pMFU?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPalJzajdzYnBIOW9nRmhvbGpKTGtiUkRyaDdQRmhGQ3dZYmRFQ0FXeDA2a2dVN1VMSmlUVUZiUDNaV2FWQWsxTGNyMGNHbTExblN3bXJiZFVuNGg5bWFGN0t2ZndyZWRvRmh6Wl9CWERjcGh4RHJGY2NtTEYyT200VWhqc0FGOEU1M2xCZnM2VWFNalpDN1N5QkJOTUVYYWlCZWtjZzJ1cXRFS3pOTll5YmVzZw?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Polisi Sudah Kantongi Identitas Pelaku Pengeroyokan Maut di Pasar Caringin Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjhKMXJBY3JadlRMMG9SbGZidFh3UDJKNDNJSmdXQ01DNDZGV2dDMGNZTjh1X1ZlZ19XNDgwSXRKc3lkbEU2QTk4OVBabE5aOVJCbTgtbnJkdzVyWFhGeUxuSlFMb0ZxQmx5dXJ3N2dOS0xZdFJEM2VtcUhwR2VXTWlhanFUblVFT3NZdXFxeHN2cWxPdDhhMmRrVVF3TUR1TEZObGhIckt3WDQxdlJyQ19sVnRMdkwwNkt4ZmRaYXNyd0FjbEVLaExPaHVWUQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
@@ -346,7 +346,7 @@
     "w": [
      2,
      13,
-     21
+     20
     ]
    },
    "trend": {
@@ -369,13 +369,13 @@
      0
     ],
     "g": [
-     7,
+     4,
      6,
      2,
      3,
      2,
      1,
-     3
+     5
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     17,
+     18,
      6
     ]
    },

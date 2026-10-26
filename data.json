@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:27:48.937404+07:00",
+ "updated": "2026-10-27T02:33:00.145699+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   18
+   16
   ],
   [
    "Kompas.com",
@@ -24,7 +24,7 @@
   ],
   [
    "Koran Gala",
-   10
+   9
   ],
   [
    "detikcom",
@@ -47,10 +47,6 @@
    6
   ],
   [
-   "Galamedia News",
-   4
-  ],
-  [
    "Jurnal Soreang",
    4
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Satumedia.id",
+   3
+  ],
+  [
+   "Ketik",
    3
   ]
  ],
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     20,
+     19,
      17,
      2
     ]
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     7,
+     6,
      9,
      6,
      0
@@ -163,7 +163,7 @@
     {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlJ0UFdKS2R5VlAzT2JiY1hxNjZrNThwb0xUUHhEUWxTcC1uMDlIZUg3SXhwV0NvT1dJcXBCN2ZCbHBDUFJxb1JkUGNLV0V4WjNLanpPbFNmTWhXRC04VnRNOHE0ZUFiVjZZQVdQemVXal95ckNjaFBGQlh1Zmtoc2VUbncwbDJiQmFhYlhtQUFZS0pGTGxYZ1FWRE51ZHRaV2lsMmZSOXBibmwycDNvakZoTzhJdXPSAbcBQVVfeXFMTVpSdFBXSktkeVZQM09iYmNYcTY2azU4cG9MVFB4RFFsU3AtbjA5SGVIN0l4cFdDb09XSXFwQjdmQmxwQ1BScW9SZFBjS1dFeFozS2p6T2xTZk1oV0QtOFZ0TThxNGVBYlY2WUFXUHplV2pfeXJDY2hQRkJYdWZraHNlVG53MGwyYkJhYWJYbUFBWUtKRkxsWGdRVkROdWR0WldpbDJmUjlwYm5sMnAzb2pGaE84SXVz?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     16,
+     17,
      13,
      5
     ]
@@ -203,7 +203,7 @@
     ],
     "p": [
      5,
-     4,
+     5,
      1,
      4,
      1,
@@ -263,7 +263,7 @@
     ],
     "w": [
      5,
-     12,
+     13,
      1
     ]
    },
@@ -319,9 +319,9 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Sewa Mobil Korban Lalu Digadaikan, Dua Pelaku Dibekuk Polresta Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW1zb1BjZWdNTDh5UDd6cThKYlkwMEU1ZGdZby1kZ3V0NFFVOE9Oa0w0MC11VVF0LVI0TmpSU2Iyd1hRUnZpZGs2TUh6RUhzMnc0d3RmY1Axc0tmZFU1emdlZGF1SnRXbkxJVGFEcXd0RVhSLW9FSkg3T2JLVV81dlQ5cGVvclAwX1E3dDgwc1hNT1o4R2FJYmdpYnB6bTlIaU0yM2J5MVJRWWpxaVk1RllYTGlHRU14cHVHOdIBwgFBVV95cUxORmZqWjJVaGpKRWRlNDYtYUJxMXhlLTlaVWJCUEpBNk9COFJsbHhUanVrSE9nbWhrQ1dPLWxnVXhXVzdYbEhZelhUVGRBLWsyeFNrSHo2enFWT3BFT0VEeDM3OWxxZ1dwRTluMkJvazlLOU5pQzdmZXp0a0ExZFlFZEJwMGVXT1FGaHZyVkRad0Z5c0pBX2lMZzEtSkxxeGh5b3d6Ml9RM0ZHNXFOTzFySklJOEJsRXRNLWpqWFNtdUNWdw?oc=5",
+     "t": "Sikat Pelanggar! Polresta Bandung Bidik Pengendara Lawan Arus hingga Tanpa Helm SNI di Operasi Patuh Lodaya 2026 - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPazdnTy1Udjc0UUM2Zkktd2VkUWxjMGFYQkUzZktoNFY0ai1sdy1yc3Jtc25pZmt1a3Fic0xqY0FWNThTVjQyanNFaWRaTDYtdU1xV1ExakZIQmxzcXVyV1VpdTlFOVhVRlVRWmowM2M4NTgwTVc3R1V2VjNna3AyaGZaenNiMW01c0E2cFpFeUxPTlN2YXZVUzFDQ2JUYVdvdTAwM0tWNVVnNzRUN0NBai1USGNjNFFZTlRlMlQ1WDB4QWcySkJ4Tlh6SVc1MFVIQ25ERUFQNWlzazJJWm9LSDRkckpQNFBLamfSAe8BQVVfeXFMTm8ySFUybFJ2UXI5RFZSTGpXb2wyOHZRTFZrU1Z6RGFlcXVmd3RIV0hYNlIxUGRLM1BGTm5fRW9MaGxmWlJQUXVGOWFlUnpCZ0pDSjRYWTg3ZmZ2WkxsQ3VqdE9sMGFpYkZwZGVBbVlTdmNzdjlVU0RlWUFOakYtWDZXR1VWdWtDYkRRcHEtbEllZlZwNm0tUDBqTGRjeEZSOUJPMzl4Qm41LVFrSjlVeHhocGtCM2ljZkJTelVjRnA4WUZmLURUbWdBVWkzOE5EaHgzYUhCdFJaU2F4Yjd3OXAzbm1hMUdfODZGejh5b28?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     15,
-     16
+     14,
+     15
     ]
    },
    "trend": {
@@ -369,7 +369,7 @@
      0
     ],
     "g": [
-     5,
+     4,
      1,
      3,
      2,
@@ -391,7 +391,7 @@
     {
      "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONk9hVlplQlhKTXcyaUVQTE5oSGdhaUo4Wmt2Zk81UDZiVmxaQWZDR3NuRjBBY2dCak9iUkdhNkxiYkE3eWVlek05Z3dIdGhkSTVscG5tRmJLYTVMaGIxUU5CYnlrMV9BQ180TVJfRU5WQmYyWmI0VEtNQVdKemszZTB0MTVSX2tjNkFHTG5KQzFLUmtrYmFDckFXeDZYQ0RVSVJnWDltOHJ0YnhRdFpMNUhBZkxuUS0xQlRvM0ViYi1mWEdFYm45dFoyal9zd3daQUNOSmdXNWt4OGlfWjVPT3hncUpoNjJaNVZzMlFMdFpFNDB10gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
      "r": "Jurnal Soreang"
     },
     {
@@ -415,7 +415,7 @@
     ],
     "w": [
      5,
-     6,
+     5,
      8
     ]
    },
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     8,
+     7,
      15,
      5
     ]
@@ -514,7 +514,7 @@
     "p": [
      1,
      3,
-     3,
+     2,
      0,
      0,
      3,

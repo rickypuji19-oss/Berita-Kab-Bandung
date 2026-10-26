@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:35:14.223467+07:00",
+ "updated": "2026-10-26T09:25:21.446328+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,18 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   25
   ],
   [
    "Ayo Bandung",
    18
   ],
   [
-   "RRI.co.id",
-   14
+   "Kompas.com",
+   18
   ],
   [
-   "Kompas.com",
+   "RRI.co.id",
    14
   ],
   [
@@ -37,6 +37,10 @@
   [
    "ANTARA News Jawa Barat",
    8
+  ],
+  [
+   "Galamedia News",
+   4
   ],
   [
    "Jurnal Soreang",
@@ -61,10 +65,6 @@
   [
    "Gerbang Patriot",
    3
-  ],
-  [
-   "Galamedia News",
-   3
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Jaga Kesehatan sebagai Bentuk Rasa Syukur, KDS Gaungkan Pola Hidup Sehat di Hari Osteoporosis Nasional - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY3htM0NoLWgzSVp2QTY5andFdjBXUnpWTW1LWWdhNzJjRWZuZFBoOXFoNmM3dmpQc1UxemZueGhGaFkxVWdtMXVRN3dkRUUxNkE1Sk56VWJLZkp6T2RvLS1vZWFtNjZjNndZdlJBd3laUC1XYXZIOGtoZUZYZkF2LW9qU21FWmVld2h3eURJZ2FFdjNIWXh5SXRqa0pXVVp3Zm9pQmxndnZNYTF6RzJ4bjk3ZFQ1OTY4aVJjeVdJc1NtTXhwQzRGV1owMzhzUmNfUUZYdXo5QkJfaHdvbjBqT0Jacmo0S2NjalJtTTFR?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Perwatusi Peringati HON, Bupati: Angka Harapan Hidup Masyarakat Kabupaten Bandung Antara 70-75 Tahun - Antarwaktu.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlIxTEZDOTMtQ09UR19lUGgyd0tfcVJvLUJ0bVlUWjE0UEtVaUl1YldpYUExa1lENzVWX0FKWktFV2FaRU10U2pJRzBKSll2RllzdTFFdVZ0aEtjZXlISllzVk5FUmU2aENOTnl4dGVoWmJRTFhERThVcVB2YW11N1hXOERSSUYyNUt5N2dMUTJjZ3hlLUstNlNCNmJ3YWRkdThBNWVWRV9PM09aZUFJYjY1T0lVWGNZWDVfaFNmREg3NDRod1hvNjFFQ3BMQQ?oc=5",
@@ -91,33 +97,27 @@
      "r": "dialogpublik.com"
     },
     {
-     "t": "Gebyar Budaya DAMAS ke-70, Pemkab Bandung Dorong Seni Ketangkasan Domba Jadi Penggerak Budaya dan Ekonomi - Bale Bandung",
+     "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1pBQTE5N3dQR2FCNHhUODZ2NHUtQ0N2elZ5ejUwdXZzSC1EUEY0Z0ZNNE5IRkhTY04yREpLZlR5d0JOT1RJU2EyNTM4WVFLRjc1THJDcFVVRGNkTFJ2alNjSElZcWtRZVNCSlZ6M19TaFRnSnptM1RQY1RaTE9zbElGSlE3YnJycWhmVURJekVIWDJKUndiSXk0b0N1bG5iQmxMdVdQYjE2UjU4bEcwTjByVXVxYkcwcUNuUGhma2EyZkxRSmFjbWRlTnhkZw?oc=5",
-     "r": "Bale Bandung"
+     "u": "https://www.youtube.com/watch?v=uPClyLUFpcg",
+     "r": "YouTube SEPULUHSEMBILANVICTUS"
     },
     {
      "t": "kavling ruko di soreang residence",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=gvWj3TwqccE",
      "r": "YouTube Adrian Adam Property Network"
-    },
-    {
-     "t": "Jual Rumah di Bandung Selatan 600 Jutaan | Serenity Kopo Residence Katapang",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=kkCIg88EVtY",
-     "r": "YouTube NYONG TEAM"
     }
    ],
    "v": {
     "s": [
-     1,
+     2,
      4,
      0
     ],
     "w": [
      20,
-     23,
+     21,
      6
     ]
    },
@@ -136,9 +136,9 @@
      0,
      0,
      4,
+     7,
      8,
-     8,
-     1
+     3
     ],
     "g": [
      0,
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     11,
-     18
+     12,
+     19
     ]
    },
    "trend": {
@@ -372,7 +372,7 @@
      8,
      6,
      2,
-     2,
+     3,
      2,
      1,
      0
@@ -422,7 +422,7 @@
     "w": [
      7,
      7,
-     8
+     9
     ]
    },
    "trend": {
@@ -448,7 +448,7 @@
      1,
      0,
      0,
-     4,
+     5,
      3,
      0,
      0

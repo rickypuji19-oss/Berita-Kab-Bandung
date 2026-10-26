@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:25:17.412951+07:00",
+ "updated": "2026-10-26T12:24:04.416153+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
-  ],
-  [
-   "Ayo Bandung",
-   18
+   23
   ],
   [
    "Kompas.com",
-   18
+   19
+  ],
+  [
+   "Ayo Bandung",
+   16
   ],
   [
    "RRI.co.id",
-   14
+   15
   ],
   [
    "Koran Gala",
-   10
+   9
   ],
   [
    "detikcom",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Awing Kembalikan Berkas Pencalonan Ketua PWI Kabupaten Bandung, Ini Janjinya - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFA4dDEtMGNpWFB0QzY1N0hhTEZETGpDWmJVX1A0Q05zZ2FMSF8weDgtMHVBVDZ6cm9FZzVZdWZfd1RqckYyaFozQnpjY0gtQ1lqbm13NDBRYnIwb09oNEdxdUpiYWZ5akNQbUNmeWlmVTVTZkZsRG5EQkVZQ1lpNGdVMEFuQkpialFEd3ByMWRWdUMxUGlrbWE4YmRmMmMzY3lXNkUwQUc1V3lkWmJGd3JYaGh6X2dsWWUzS3V3?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Jaga Kesehatan sebagai Bentuk Rasa Syukur, KDS Gaungkan Pola Hidup Sehat di Hari Osteoporosis Nasional - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY3htM0NoLWgzSVp2QTY5andFdjBXUnpWTW1LWWdhNzJjRWZuZFBoOXFoNmM3dmpQc1UxemZueGhGaFkxVWdtMXVRN3dkRUUxNkE1Sk56VWJLZkp6T2RvLS1vZWFtNjZjNndZdlJBd3laUC1XYXZIOGtoZUZYZkF2LW9qU21FWmVld2h3eURJZ2FFdjNIWXh5SXRqa0pXVVp3Zm9pQmxndnZNYTF6RzJ4bjk3ZFQ1OTY4aVJjeVdJc1NtTXhwQzRGV1owMzhzUmNfUUZYdXo5QkJfaHdvbjBqT0Jacmo0S2NjalJtTTFR?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlIxTEZDOTMtQ09UR19lUGgyd0tfcVJvLUJ0bVlUWjE0UEtVaUl1YldpYUExa1lENzVWX0FKWktFV2FaRU10U2pJRzBKSll2RllzdTFFdVZ0aEtjZXlISllzVk5FUmU2aENOTnl4dGVoWmJRTFhERThVcVB2YW11N1hXOERSSUYyNUt5N2dMUTJjZ3hlLUstNlNCNmJ3YWRkdThBNWVWRV9PM09aZUFJYjY1T0lVWGNZWDVfaFNmREg3NDRod1hvNjFFQ3BMQQ?oc=5",
      "r": "Antarwaktu.com"
-    },
-    {
-     "t": "Osteoporosis Bisa Datang Tanpa Gejala, PERWATUSI Kabupaten Bandung Ingatkan Hal Penting Ini - dialogpublik.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeS1sZHBXaXVYVzBrcnJLZ21MblpYajk0czNCU2VLYjBUOEk2TzZNeWM4aFp5NXhDVmoyaWFIbnNfbVVrWlBCZ0lTYndYcFliTEdQY3ZNeGo5akd5QzRJX0ZoajBCSnJiVlRicG1lOHZXY2x4TG1TcDdVZjAyYldxS1FIVEo4RHZOWHpoNFdfNldGRGJqblpKN3hlTGlSWWV3SllLQjZrUURPWHJPdWxRc2FFaFEwdTA?oc=5",
-     "r": "dialogpublik.com"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     23,
-     20,
+     21,
+     21,
      4
     ]
    },
@@ -135,7 +135,7 @@
      0,
      0,
      0,
-     5,
+     3,
      8,
      9,
      3
@@ -188,7 +188,7 @@
     "w": [
      16,
      16,
-     6
+     5
     ]
    },
    "trend": {
@@ -212,7 +212,7 @@
     ],
     "g": [
      0,
-     3,
+     2,
      2,
      0,
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      5,
-     15,
+     14,
      2
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
+     "t": "Polisi Sudah Kantongi Identitas Pelaku Pengeroyokan Maut di Pasar Caringin Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjhKMXJBY3JadlRMMG9SbGZidFh3UDJKNDNJSmdXQ01DNDZGV2dDMGNZTjh1X1ZlZ19XNDgwSXRKc3lkbEU2QTk4OVBabE5aOVJCbTgtbnJkdzVyWFhGeUxuSlFMb0ZxQmx5dXJ3N2dOS0xZdFJEM2VtcUhwR2VXTWlhanFUblVFT3NZdXFxeHN2cWxPdDhhMmRrVVF3TUR1TEZObGhIckt3WDQxdlJyQ19sVnRMdkwwNkt4ZmRaYXNyd0FjbEVLaExPaHVWUQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "62 Orang Diduga Terlibat Premanisme Ditangkap di Bandung, Ratusan Botol Miras Disita - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGN0bmp0WkRDeUFCeU1jV01hSWpHZ21ITXJRM3BJUzZNbUdhSWxrWC16ay1zbV9PcmdUUHNocjRaRUZ4dl9tYlY3alZ0UndCbDJRb2xzSm54TVhlRjdVbEtuWHJHZHF6bkZxTjdiUElPbVI1eFlhRHd5bjJrcnZmTW1HQ0l6dkxic2swYzFCWGh3aFhZVUFZM09NeGVRdXJraWNUM0J0dkZvRVhNcnAxX1dFVTNkejg4TUFmSlgtbkxrSVVpc2xKRg?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Brutal! 30 Orang Keroyok Juru Parkir hingga Tewas di Bandung, Polisi Ungkap Kronologi dan Motifnya - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVhsVjRJOU1uWWpOc3VSWGE5X0ZuUEEybk1TZ2hXaUl2c0dYNU9Fb0xBMnBCMVJ6NDZNNjczZVIycTJ6SVM3U3d6TlhYZGM3aVVVNHJqTk84STIyb1YxVXlUMlViZmt4bjJYU002MzN5VUdwLU9UXzBER2Y1VVpRQ3B0UlJJRXZkZVRXMDI0WUp1TVlMRWRySmxIQmNxSmNTcmlxYWV0dWVaamIxZnl4N0RvWklWLWJwX1pMc1VIcUtlaW9zSzllMDktNjh0Z2tsV21OdnlkZ1k3YkpjeHhYbtIB5gFBVV95cUxNeWsyWVY5TnRqbmdfYnVlc0N6MGdhZU9NUzR5WGlSdE80NkNXRWdkeWFLdUNvOU04OEJDZ2cxcnBybk1pbWdDUUJkZWtfS05wRWd3NVBKV2ctV1dnYlllRVlUTU9HeVRPT2RiejY5YU9DbFNZaVNfT0h6MjktNkx6VnFmMDcwRklmV3VpOXBjTS1ETUJvaUNoS05qYWsyaTF5N3NiWG9JM3UwWUltQnVKazBoemI2QUxsdHE5cU1CdmEyZG82UHNoZWc1VWNHN0xmajMtcTNrNkxTMlJvMjZfTHVCYl9OZw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Gelar Operasi Antik Lodaya 2026, Polresta Bandung Ungkap 50 Kasus Narkoba dan Tangkap 52 Tersangka - MetroTVNews.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWdzck1sR3o4OE9MenIzdlQ3Y1pYYUFfMGpvcU5sTnN5S0RVY2dmdjV6MGZZRmVTUTdsQjVGSENZaUZTZFFBRFYxWi1KZlo1MG83RkFTNW9TUW14YWo3aldMc2RHZVdnNEJNdUJmWnU5dUg4ZGZ2QVJXcmdrVTFBOWRZeEVaaE14Z2d1NzFCSmFxVlpiVEhJT3ktazQxU213bmdOZkE1cUhjWktVdE9JLUd3RjlUUmFjX3JTeGgwSjItaDdXTzJWYUFiSEVLeUV2dXVnNW13?oc=5",
-     "r": "MetroTVNews.com"
-    },
-    {
-     "t": "Gudang Bawang Merah Dibobol Polisi Ciduk Sejumlah Pelaku - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDBsa1MteVRmVzRQaWszLVdtREtyYm5VYVlBUHExRnk0XzRqQ2d0a0VBVnYtRkM1WTVXZTdSM1FpS2dmS0tKd2JJdFhWaU56cGt3QXZWLVkweEhZRnFwVGwta0ViemdJUC0wR004czBpOTBuM3lhTzM5OExvclRNTXRhMUFwMWl6RHI5aTFVaFhIRDFFYW8tOHZVYTJTS1RIYk9IWnIzTEJ2Wk1Bc3c?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     12,
+     11,
      21
     ]
    },
@@ -370,12 +370,12 @@
     ],
     "g": [
      9,
-     7,
+     6,
      2,
      3,
      2,
      1,
-     0
+     1
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      6,
-     18,
+     17,
      6
     ]
    },

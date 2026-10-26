@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:34:23.558375+07:00",
+ "updated": "2026-10-26T16:30:47.919114+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,12 +15,12 @@
    20
   ],
   [
-   "Kompas.com",
+   "RRI.co.id",
    17
   ],
   [
-   "RRI.co.id",
-   15
+   "Kompas.com",
+   17
   ],
   [
    "Koran Gala",
@@ -31,20 +31,20 @@
    9
   ],
   [
-   "PPID Kab. Bandung",
-   8
-  ],
-  [
    "ANTARA News Jawa Barat",
    8
   ],
   [
-   "jabarekspres.com",
+   "PPID Kab. Bandung",
    7
   ],
   [
    "Radar Bandung",
-   5
+   6
+  ],
+  [
+   "jabarekspres.com",
+   6
   ],
   [
    "Jurnal Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      21,
-     21,
+     19,
      4
     ]
    },
@@ -346,7 +346,7 @@
     "w": [
      2,
      13,
-     20
+     21
     ]
    },
    "trend": {
@@ -369,13 +369,13 @@
      0
     ],
     "g": [
-     4,
-     6,
+     7,
+     5,
      2,
      3,
      2,
      1,
-     5
+     4
     ]
    }
   },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Abu Galunggung Sampai ke Kab Bandung pada 1982, Chitra Lestari Telusuri Ingatan Mitigasi Bencana - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTl4QXhYSDNVN202ZkVaSmR0U1ozZU1JZGQwbDlpWDQtNXd2Q2lBZjA0ZDdxeXJGcmkta1RJVV9MSjNiaGF3TU1EX1A4VE5HMFcweElnX3ZSWlo1VHBDMExRT2ppaEN1cjVUekJ6WUpNM0kwNzdLRGs0QWlDZjFMbmRNUkpWWndaNjVJV2JnQlJzd19KV3FfQ0dXSU9TQXQzbHVCaXVaaWN5dm9LNUVzdWxGSnZfdWhEVl8xcl83Qm1NTVJVQVYtck1LSm1kZTlx?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Wamen Atip Latipulhayat Dorong Peran Pengawas Sekolah dalam Meningkatkan Mutu Pembelajaran - Jurnal Soreang",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm9RZTlGMkcxTGw4WUpaSWdfbHU0NHVKaHBrR01kcllmcVZtZ3R0UFVxVDdpaTQwT1g3NWM3akg5cW5welAyQW9OR2M1YlJuWVlrY0xJZkJIZTlYVENMZ282ckdyZUx1NlNtUzl4c2VsdkNLZnZtSDlkSjFHSTVaLWFoU2o1ZmlDNUF1MVhTRFZDMGtxbHhzVEoxSTlzZW0tVmZtbVNVWXRzdlloWXNLTVZRdUNUYjFJZnlZWlN3WWNKTjVNTUliVElaeWxmYUYxUWpCTWtaWlFiZWlkUXd1ZE14Zl9BQdIB6wFBVV95cUxOUWVEdUlnYmJwNjU4NDVBemxIamQzOC14YVY3Wkd6MTZoblhLTU4xTjVndEdmdF9HRzlnMEM0a2o5U0FKUWZ4dWxGQnh2WENKRjNuVFVUbU5tVWlaQUx6RTRaWk5OUmY2YVFfN1liMTk4YTRaSmtkTEdaQ2VHTXRMYzZMWDZRMUdza0xOTFFKRGJwcVR3NmFxbTFfcTdOM0J4VFdlWWxoSDVMczBJQkpZU2lGclh0aTNqbDhtRW9VYS02V0xSSWpKVnZrSVZ3NDh4T1NXQmxvZXpOTDVlLU1yTUg0eVYwLXRuVkww?oc=5",
@@ -474,12 +480,6 @@
      "t": "10 Tahun UM Bandung dan 2 Tahun Prabowo-Gibran, Mahasiswa Gelar Refleksi dan Diskusi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2ZWa2hhdHRQTzdOOEd4TThJbXVTT3RkTUdxNGkwMXNTWVpCYkRJWlVseVljTlZYcXEyYWoxWW80bWN5QVAwZktUV0NHa3d3Xzl5Z3pZSVFMRU5mZlNJLUF6LTk1b3FmVWFWT3NyY2Vyb0xYLWpXaU96ajhRRU94UGRXWERac2NwOEhJMWJBZ18zSEJER2RUZVhmc2RPWFcySWZDaUMyRFhIaUd2eFBoM2F1YTR5RngxdGNfbFg2QzVQRnM0NG1ZTFVWem9PLVXSAdQBQVVfeXFMUGRIVFNpMm9tSU1HakczUlFJZk1rdjh6UFl2NDFGNlRMbEVkaktRVnA5d3Jjc3hldGdWdHVWd1JmeXc0TW9uaVVMTndicGNoLVE1SzdFVjhTaVNxUU1iQktrcUR3aEViNTktVVV2OW9pZVVOLW9QMzNMdzVQTTFydHpMalJkVkJHV2JFcFlBUWVHd1F5YktaTm8zOFlIS0RqaUdNcm96aFp1cTNkYjhNVXlSVVNVZnNJQmIxbHpKV083Z0V2WEItWXp3QnUtTzNvV3dFV0w?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Hasil Skrining Bikin Kaget! Banyak Guru di Bandung Alami Gangguan Mental, Disdik Luncurkan Aplikasi Khusus - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTZzT3RzRlo1M1A4NFVjaHNDdzRJTTF4bGtQekh5ckRHSVdIc0FRSThsM01GSzNaczBnTnctam4wZXpxeFluUXFfMFZNdmFkcWlsbzFxSnVrNjM3Y1Q5d0tBNFRZTW5vTlF1QWItVWdKZjF6VUJ4Z0I1TnFoc1JpbXU3NkN4ejFvSC15cEI4NUd2Zk9PUHdEdlRyNzM5Q1Jpc183MGhpaDg1bm9XeFgyY3JUTUxXLWVxMkFEdktaVXRHZVBycmZSSEM0ZkRWUS0tU18tdFl3NE1KOS1MbGpPVXVKNWFodEF3ZlQ40gHwAUFVX3lxTFBkNVZ0VVJPakdTTFhMa1VCcW1Zc2FqbWJSUUh2aFhBb0wzcVgyLVR0UWtVMW5tRlRwcTI1am5fTXBpOFllNFgtdGhYbkY3T2ZMRDN0UVVXclZKZ3lBcjVNaUlhcjBDNk5hZnBWNXZrOHVYV1pLcEdqVnNpNUFtRzQxQ2F1elJuWmFUa0dyanpwWnp0V1prNTJTVTYyZElQYWpRR3NOV3hnS3R0UkFiaFZoUGFXUWhzbW4tV1lPT1dkR1FVeGxadnM2NHZHN3lZU3Q4MW1TdkQtanI1UlVVYTQ2bGVHY2Utc19BMmdXMnlvNQ?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     18,
+     7,
+     17,
      6
     ]
    },
@@ -524,7 +524,7 @@
      2,
      0,
      1,
-     0
+     1
     ],
     "g": [
      1,

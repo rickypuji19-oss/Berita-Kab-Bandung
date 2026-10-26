@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:38:29.918748+07:00",
+ "updated": "2026-10-27T00:30:01.854131+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,27 +12,23 @@
   ],
   [
    "Ayo Bandung",
-   20
-  ],
-  [
-   "Kompas.com",
    18
   ],
   [
-   "RRI.co.id",
+   "Kompas.com",
    13
   ],
   [
+   "RRI.co.id",
+   11
+  ],
+  [
    "Koran Gala",
-   10
+   9
   ],
   [
    "detikcom",
-   10
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   9
+   7
   ],
   [
    "Radar Bandung",
@@ -43,12 +39,12 @@
    6
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    6
   ],
   [
-   "Galamedia News",
-   4
+   "jabarekspres.com",
+   5
   ],
   [
    "Jurnal Soreang",
@@ -61,6 +57,10 @@
   [
    "Pikiran Rakyat Koran",
    4
+  ],
+  [
+   "Satumedia.id",
+   3
   ],
   [
    "Ketik",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Galih Hendrawan Resmi Daftar Calon Ketua APDESI Kab. Bandung: Usung Semangat Solidaritas dan Kemajuan Desa - Jayantara News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JYmpLSGVSRVZUSUZ6eXVzZ2YtdWx3YXltR1ItNGFrNWROYjFBSGZvSUc4OS11emxLZ01Od2xKbERmVlJTc01LR3BUMA?oc=5",
+     "r": "Jayantara News"
+    },
+    {
      "t": "Berita dan Informasi kode etik asn Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdGk1Zk1iZnhDS1dHbEFXVndNUE45a2huWnRlaFF3UFhncHdhRkxMSDB3d2d5ckVqNVBTeEJzQXFudEN3TmlJaXJ0ek40cC1lMGlZeE9B?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Optimalkan PAD dan Anggaran, Bupati Dadang Supriatna Evaluasi Kinerja OPD - republika.co.id",
+     "t": "KDS Tekankan Optimalisasi PAD, Realisasi PBB dan BPHTB Jadi Evaluasi - Satumedia.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1BBd1JyYVE1TFY1c05tcVZiVDhNVWNteWNOVlpyRldPOHNXbHE5NlFuUXVaSTlMYXBLWmRTRTdsejc1V2ktWWJSdFZfNDJrWVJ1NGx4d2gzMmhwZEtUUzQ5WVN6UmpOcC1pQldVc1kzXzVRTEVNRmVaSnlHMFdCV3VNSzFrZFEybTRzaUtmX004emE5T3U0bzk1YkdIRkJVenZZWU4tQXhGME5fSGFLNmpLXzVndS0yYTBVdWlR?oc=5",
-     "r": "republika.co.id"
-    },
-    {
-     "t": "Pendapatan Daerah Kabupaten Bandung Tembus 78,50 Persen, KDS Apresiasi Kinerja Perangkat Daerah - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcncwR3FnenFGcTBEZVpRV3VKZ0JBWUdDUHUwVFJ1ZTFwd21hQURDc1NvTzhieHVqaFNxV2ZZUlZlcDJfMjh0TXZISVNXcjBNZ2RqVjZZU1RTdXZXLW1tOXI1Z2ktWjVVNDNvUURiaWpHcjY5Y1JFQ2FzdXF5WnNrQXBIejl1QUpjREdCMXpJTUtJY29QTm1tQkhNRTNRT3Ryd1RVSk1EODM3bmYwWUd2SE5uRnVSUdIBtgFBVV95cUxPcncwR3FnenFGcTBEZVpRV3VKZ0JBWUdDUHUwVFJ1ZTFwd21hQURDc1NvTzhieHVqaFNxV2ZZUlZlcDJfMjh0TXZISVNXcjBNZ2RqVjZZU1RTdXZXLW1tOXI1Z2ktWjVVNDNvUURiaWpHcjY5Y1JFQ2FzdXF5WnNrQXBIejl1QUpjREdCMXpJTUtJY29QTm1tQkhNRTNRT3Ryd1RVSk1EODM3bmYwWUd2SE5uRnVSUQ?oc=5",
-     "r": "Ketik"
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVZJY2luRkY4ZGhpNTFkT3RxNDQtSjFHeDlUVjRGWEtLRkZXYkg0c2haQ0hfcnpaMmFHZWtzbFhzbE0xLVNOY2hLb21Yck8xQkU0TVZMWnVEc0dlSU9IM3U1ejVGTFJLeU1VYllWOGlzajNncDRuTG9UN2dManN6Nk1jOGVPVDkxVWd5ZnR3c1JSRjdrTEdDSlB4cmN0VE4zMVNRX1lYTQ?oc=5",
+     "r": "Satumedia.id"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,37 +116,37 @@
      0
     ],
     "w": [
-     20,
+     18,
      17,
      2
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
      0,
      0,
-     0,
-     7,
+     5,
      9,
-     6
+     6,
+     0
     ],
     "g": [
      0,
      0,
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0
     ]
    }
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
-     "r": "Satumedia.id"
     }
    ],
    "v": {
@@ -186,37 +186,37 @@
      0
     ],
     "w": [
-     16,
-     16,
+     17,
+     13,
      5
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      5,
      5,
      1,
      4,
      1,
+     1,
      0
     ],
     "g": [
-     0,
      2,
      2,
      0,
      0,
      1,
+     0,
      0
     ]
    }
@@ -263,32 +263,32 @@
     ],
     "w": [
      5,
-     13,
-     2
+     12,
+     1
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      0,
      3,
      0,
      0,
      2,
-     1
+     1,
+     0
     ],
     "g": [
      1,
-     1,
+     0,
      0,
      0,
      0,
@@ -319,9 +319,9 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Sikat Pelanggar! Polresta Bandung Bidik Pengendara Lawan Arus hingga Tanpa Helm SNI di Operasi Patuh Lodaya 2026 - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPazdnTy1Udjc0UUM2Zkktd2VkUWxjMGFYQkUzZktoNFY0ai1sdy1yc3Jtc25pZmt1a3Fic0xqY0FWNThTVjQyanNFaWRaTDYtdU1xV1ExakZIQmxzcXVyV1VpdTlFOVhVRlVRWmowM2M4NTgwTVc3R1V2VjNna3AyaGZaenNiMW01c0E2cFpFeUxPTlN2YXZVUzFDQ2JUYVdvdTAwM0tWNVVnNzRUN0NBai1USGNjNFFZTlRlMlQ1WDB4QWcySkJ4Tlh6SVc1MFVIQ25ERUFQNWlzazJJWm9LSDRkckpQNFBLamfSAe8BQVVfeXFMTm8ySFUybFJ2UXI5RFZSTGpXb2wyOHZRTFZrU1Z6RGFlcXVmd3RIV0hYNlIxUGRLM1BGTm5fRW9MaGxmWlJQUXVGOWFlUnpCZ0pDSjRYWTg3ZmZ2WkxsQ3VqdE9sMGFpYkZwZGVBbVlTdmNzdjlVU0RlWUFOakYtWDZXR1VWdWtDYkRRcHEtbEllZlZwNm0tUDBqTGRjeEZSOUJPMzl4Qm41LVFrSjlVeHhocGtCM2ljZkJTelVjRnA4WUZmLURUbWdBVWkzOE5EaHgzYUhCdFJaU2F4Yjd3OXAzbm1hMUdfODZGejh5b28?oc=5",
+     "t": "Sewa Mobil Korban Lalu Digadaikan, Dua Pelaku Dibekuk Polresta Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW1zb1BjZWdNTDh5UDd6cThKYlkwMEU1ZGdZby1kZ3V0NFFVOE9Oa0w0MC11VVF0LVI0TmpSU2Iyd1hRUnZpZGs2TUh6RUhzMnc0d3RmY1Axc0tmZFU1emdlZGF1SnRXbkxJVGFEcXd0RVhSLW9FSkg3T2JLVV81dlQ5cGVvclAwX1E3dDgwc1hNT1o4R2FJYmdpYnB6bTlIaU0yM2J5MVJRWWpxaVk1RllYTGlHRU14cHVHOdIBwgFBVV95cUxORmZqWjJVaGpKRWRlNDYtYUJxMXhlLTlaVWJCUEpBNk9COFJsbHhUanVrSE9nbWhrQ1dPLWxnVXhXVzdYbEhZelhUVGRBLWsyeFNrSHo2enFWT3BFT0VEeDM3OWxxZ1dwRTluMkJvazlLOU5pQzdmZXp0a0ExZFlFZEJwMGVXT1FGaHZyVkRad0Z5c0pBX2lMZzEtSkxxeGh5b3d6Ml9RM0ZHNXFOTzFySklJOEJsRXRNLWpqWFNtdUNWdw?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -341,41 +341,41 @@
     "s": [
      0,
      3,
-     3
+     2
     ],
     "w": [
-     2,
-     16,
-     19
+     1,
+     14,
+     15
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     1,
      0,
      0,
      1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     5,
-     5,
+     4,
      1,
      3,
      2,
      1,
-     5
+     6,
+     0
     ]
    }
   },
@@ -405,51 +405,45 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=hcJ9yJ1jVOQ",
-     "r": "YouTube AZZAHRA VLOG"
     }
    ],
    "v": {
     "s": [
-     1,
+     0,
      0,
      0
     ],
     "w": [
+     5,
      6,
-     7,
-     10
+     8
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     2,
      0,
      3,
      0,
      0,
      2,
+     0,
      0
     ],
     "g": [
-     2,
      0,
      0,
      5,
      3,
+     0,
      0,
      0
     ]
@@ -465,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Ribuan Mahasiswa Telkom University Diterjunkan Tangani Sampah di Kabupaten Bandung - Berita KBB",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVQ2TElLQW81MHBteDBydm5zM1ZSYXM4dERlNU53VXRJUmc1elk1eTNhNktJYnFsRU9JTHJOQmVqdHpYSDRjUWxCRDZSekw3OER0aDdBVFMzZV96WTlET1dCQmVKNkhsWmptd3F2MXlfdDY0aVE4RDlkc3VIN19MSU9jOGhBM3NyT0VXRG9RUGVnNnFBR2FYSDVYdF8taEZ5MTVFWTRYVHBSZnpfUk00MnV4V0NaZm54LU9hdXZ3ZDVyYWhsZFdGLU9TZURfTlFzWHhtS2RnRnZBaXR10gHiAUFVX3lxTE1oQ0JNSTlhRThoWE5yWldzRWtha0tzdlYtOVFpcmpRZzcycExNY3ZNaEdUUXpsejhEcFZuN0hsbGN5c25OWlJIYzRrWm9jbVVmSEdWQzBvR1B5eW9sWkNkNXFka1MwRW8xLTQwS3R3T2FSWUpwM0JjNVFEMEVxOGU1VkZnRS1JWXlWeXgtVlFXU1h0NlVrY3NIRXRLY0NBY3NEejZVcTlWTWNoTGFzcWY2b0ZHRGJiU2t5SVowV2pMSkd2ZHYtOHVMalpQdVNLNDNhRmNILVlleU9GLUpsWUhmbUE?oc=5",
+     "r": "Berita KBB"
+    },
+    {
      "t": "Abu Galunggung Sampai ke Kab Bandung pada 1982, Chitra Lestari Telusuri Ingatan Mitigasi Bencana - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTl4QXhYSDNVN202ZkVaSmR0U1ozZU1JZGQwbDlpWDQtNXd2Q2lBZjA0ZDdxeXJGcmkta1RJVV9MSjNiaGF3TU1EX1A4VE5HMFcweElnX3ZSWlo1VHBDMExRT2ppaEN1cjVUekJ6WUpNM0kwNzdLRGs0QWlDZjFMbmRNUkpWWndaNjVJV2JnQlJzd19KV3FfQ0dXSU9TQXQzbHVCaXVaaWN5dm9LNUVzdWxGSnZfdWhEVl8xcl83Qm1NTVJVQVYtck1LSm1kZTlx?oc=5",
@@ -474,12 +474,6 @@
      "t": "10 Tahun UM Bandung dan 2 Tahun Prabowo-Gibran, Mahasiswa Gelar Refleksi dan Diskusi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2ZWa2hhdHRQTzdOOEd4TThJbXVTT3RkTUdxNGkwMXNTWVpCYkRJWlVseVljTlZYcXEyYWoxWW80bWN5QVAwZktUV0NHa3d3Xzl5Z3pZSVFMRU5mZlNJLUF6LTk1b3FmVWFWT3NyY2Vyb0xYLWpXaU96ajhRRU94UGRXWERac2NwOEhJMWJBZ18zSEJER2RUZVhmc2RPWFcySWZDaUMyRFhIaUd2eFBoM2F1YTR5RngxdGNfbFg2QzVQRnM0NG1ZTFVWem9PLVXSAdQBQVVfeXFMUGRIVFNpMm9tSU1HakczUlFJZk1rdjh6UFl2NDFGNlRMbEVkaktRVnA5d3Jjc3hldGdWdHVWd1JmeXc0TW9uaVVMTndicGNoLVE1SzdFVjhTaVNxUU1iQktrcUR3aEViNTktVVV2OW9pZVVOLW9QMzNMdzVQTTFydHpMalJkVkJHV2JFcFlBUWVHd1F5YktaTm8zOFlIS0RqaUdNcm96aFp1cTNkYjhNVXlSVVNVZnNJQmIxbHpKV083Z0V2WEItWXp3QnUtTzNvV3dFV0w?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Hasil Skrining Bikin Kaget! Banyak Guru di Bandung Alami Gangguan Mental, Disdik Luncurkan Aplikasi Khusus - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTZzT3RzRlo1M1A4NFVjaHNDdzRJTTF4bGtQekh5ckRHSVdIc0FRSThsM01GSzNaczBnTnctam4wZXpxeFluUXFfMFZNdmFkcWlsbzFxSnVrNjM3Y1Q5d0tBNFRZTW5vTlF1QWItVWdKZjF6VUJ4Z0I1TnFoc1JpbXU3NkN4ejFvSC15cEI4NUd2Zk9PUHdEdlRyNzM5Q1Jpc183MGhpaDg1bm9XeFgyY3JUTUxXLWVxMkFEdktaVXRHZVBycmZSSEM0ZkRWUS0tU18tdFl3NE1KOS1MbGpPVXVKNWFodEF3ZlQ40gHwAUFVX3lxTFBkNVZ0VVJPakdTTFhMa1VCcW1Zc2FqbWJSUUh2aFhBb0wzcVgyLVR0UWtVMW5tRlRwcTI1am5fTXBpOFllNFgtdGhYbkY3T2ZMRDN0UVVXclZKZ3lBcjVNaUlhcjBDNk5hZnBWNXZrOHVYV1pLcEdqVnNpNUFtRzQxQ2F1elJuWmFUa0dyanpwWnp0V1prNTJTVTYyZElQYWpRR3NOV3hnS3R0UkFiaFZoUGFXUWhzbW4tV1lPT1dkR1FVeGxadnM2NHZHN3lZU3Q4MW1TdkQtanI1UlVVYTQ2bGVHY2Utc19BMmdXMnlvNQ?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -498,40 +492,40 @@
    "v": {
     "s": [
      2,
-     6,
+     4,
      0
     ],
     "w": [
-     6,
-     18,
-     6
+     7,
+     14,
+     5
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      1,
      3,
      2,
      0,
      0,
-     2
+     3,
+     0
     ],
     "g": [
      1,
      1,
      1,
-     1,
      2,
+     0,
      0,
      0
     ]

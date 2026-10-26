@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:17:46.894036+07:00",
+ "updated": "2026-10-26T08:35:14.223467+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
-  ],
-  [
-   "RRI.co.id",
-   18
+   26
   ],
   [
    "Ayo Bandung",
    18
   ],
   [
+   "RRI.co.id",
+   14
+  ],
+  [
    "Kompas.com",
-   18
+   14
   ],
   [
    "Koran Gala",
-   12
+   11
   ],
   [
    "detikcom",
@@ -36,7 +36,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "Jurnal Soreang",
@@ -91,10 +91,10 @@
      "r": "dialogpublik.com"
     },
     {
-     "t": "Persib Bandung Tekuk Garudayaksa 2-1, Adam Alis Jadi Pahlawan di Menit Akhir - Koran Gala - Koran Gala",
+     "t": "Gebyar Budaya DAMAS ke-70, Pemkab Bandung Dorong Seni Ketangkasan Domba Jadi Penggerak Budaya dan Ekonomi - Bale Bandung",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0I1Nll4bGdGaHJLNW1seERQZGE0LUJYeDJSTHh6VHluQ0dBTl9kS1RMQXNyeGk1U0x5X3hhNXRYM3AxMWZSMlZXVVBmR2dNa05FOTlfWXhySjhkSEJGNW9KWXh3NWswdlpxYmRPNmY5NkJKNnQ5WHNUOU56NkhHUDRxdmg4SEUwU1A4YUgyNUhIdkxpUzI5OFFPdXZqSjlVd1pwcWRtNjY4VWcwSGtMZDFZSHcwNkhvdmh4dzB3Rm9yYVc3cF9IVGpza9IB0AFBVV95cUxOcFVEVjdDWWVtcFlLYXkwMUNmX2VUMlpHbjR0bmo0Vk5BV1BHaFRORldtZl9HMEJ5YnloMnJQS2lRekQ3ZzdNZDJoa3Rac0ZIaUlNeDRJYnVVTWxNOFNZbk9JcDc5N201dS1CU2dVaG5wSml6R1hyeWJhcEJDZnRBcGxJdnRieU5ZQzFLekVlN3JBTC13NmNLNUpRaUtXVnJWSGlhRXRoUjBCY2I4X1h6VFo3VHVuU3RiR09kSjRJZ1pTckhYUlk4RE9tNG9OdXo0?oc=5",
-     "r": "Koran Gala"
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1pBQTE5N3dQR2FCNHhUODZ2NHUtQ0N2elZ5ejUwdXZzSC1EUEY0Z0ZNNE5IRkhTY04yREpLZlR5d0JOT1RJU2EyNTM4WVFLRjc1THJDcFVVRGNkTFJ2alNjSElZcWtRZVNCSlZ6M19TaFRnSnptM1RQY1RaTE9zbElGSlE3YnJycWhmVURJekVIWDJKUndiSXk0b0N1bG5iQmxMdVdQYjE2UjU4bEcwTjByVXVxYkcwcUNuUGhma2EyZkxRSmFjbWRlTnhkZw?oc=5",
+     "r": "Bale Bandung"
     },
     {
      "t": "kavling ruko di soreang residence",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     21,
-     21,
+     20,
+     23,
      6
     ]
    },
@@ -137,7 +137,7 @@
      0,
      4,
      8,
-     9,
+     8,
      1
     ],
     "g": [
@@ -167,16 +167,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Porprov Jabar 2026, Kabupaten Bandung Kerahkan 929 Atlet, Bidik 100 Emas - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVYSGR1czUwejRweXZObHlQZUgzZ3dBVV9vZWhDMDQ3LXVXQ2Y5UkllQUZXZ2xfZ2NHa0JBT0o4XzZDc193NEdiMWV5NElpQUtPYzZDMHRXRUsxSnhoMmtrVUdSSUhPZkI2bTBXd0xNWmVkTlp6QU12c1hkdzZMWjc3UGJGbDRsMnRYai1EVWpFQWQtVEV6VnZlSFF6c3ZaTktjV09TZWc2Nld2?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Kami Sangat Mengapresiasi, Harapan Renie \"Pulanglah Bawa Kemenangan dan Medali\" - Bedanews",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVk2VDh5RnIyVmxPY2RleFllYUtCYkxGbjJNZzQzaWJjTUhnN2tWdERnUjhRX1F6RFdiQ0VkeVFIQWYyVmMteUprbTlVR2VacGstRFNMa2h1NlZqRWEyakVzeFBEVjZKd0ZNb0tEV3VNc3FWRmlIRUExNkZMR1lEaFp1MDFUNGgtYnpkQllwSlZha3FOZkJsWkdIRE1FMkU?oc=5",
-     "r": "Bedanews"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      15,
-     13,
+     16,
      6
     ]
    },
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "Wawancara Eksklusif Kadisnaker Bandung Yayan Ahmad Brilyana: Jurus Magang Pangkas Pengangguran - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmd6SnlYczZOcURPc0o1cnNuTmxVVDVjU2I2UGllVDBNUmJRaVpmOHdFd2NPeXNyb0Z0RzU0MUx6MWtIbVB6Y0c4a1ZFVnpqSmJianB2RXBlWHE5U2hjODJnQ3NKRHFmX0lLNWo4b0RqQ2hQcnk0ZXVFNG9qRnplS1J3VmNPTFdfUHpDR2x0ZVVMTGRyY0dIaUp3bmJrczM3cDVBR3FQb2FuVHhuUjNEWll3QXB3ZTJrUzllejVmYmJpT2NMY09MMndvR1ZmZFpGMXJDUzJzVG1TODZF?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Harga Tiket Persib Bandung vs Melbourne Victory, Termurah Rp125 Ribu - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtramR6ajlSeTFwSzNoVVJFUHNkZmQ5aHJuOFloeEpHT2R0Y1VXay1uUFMtZ0psSHd0WE1XeWJPWlZ6dDhtREdmWXZyRnp5Y05VV3N0WWt2WUVvUnVXMThJSVRHXzdUNmtfQXFra0FqUnktcE5DR0dfR0s1WURtU0pSZUtONXgwQk1nUE5sREhEMmc5c0ZtVHlQYUlwSTlaS1h6VTBBa1NKUFVYMU9fWnJvWXA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "10 Organisasi Masyarakat di Wolo Sampaikan Aspirasi soal Keberlanjutan Investasi - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NrekNIa0R1X3NaclJMVklDcWtaREdIa2pab2JlRHRlWV9rLVRvbm1kTmxfR2dJSzVzS3VLeDJqdVpFTWJEWmkxa1RBd2JNUmt5V1ZwMVFHdy1jVkJGNUlUT2p4MDZBQkdxeUQwZ1NDN2k0TzRIRzE1cGRDSnZqTmdjdW11VmFmSVV1R2lLb2VWUG9OUkZUVWtBMjdSN1JNUmw5Z1dobVNVdGhKY0I4NTE5blJtTnNYcElJdmZpOUZtSExHV0hGNmxvb9IB0AFBVV95cUxNY3ZmaXRjb3JvMlZyWThRRVdhM3V4RGZvaVFvdzRFZHJjZ0kwZzZyTlA0THNpUTcxckpOMFhwUnFIOVp4Nm9kY1JYNERrRGM4cDVfMnplSm5kMVlQQ2JWRk9xOG5rWFNhd0hoV1k3bk9kcFhRbkVsRWNmc2hCM3R4QkdBLWFzZVBLUG9fcE5JQU9CdEc1VGRjUWNaMjluV3VNWkN6UGVIbkxjZUgwWXdWeFRIUWFMMnVFWFlHdElIdnl4bFJ6eGoyTF9Ob3pqTUpT?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "6 Lokasi Pemandian Air Panas Alami di Ciwidey dan Harga Tiketnya - detikcom",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVdIBswFBVV95cUxNMmNxUlhscGVSei1ON1V2cUJJRmo3eHhhNHc0MFlJejBOcmlFNUlLSGhpRlEwZTlPVnhtR053ZDNZWC1YaVVYTFNkNC1ESUNuM0RvWUV1b2F2VnV4ZDk5ZWhzc1FQTm9LdGFaM280U2t3TnpERC1FTFN6VTVyUXZ2MUtzclRPRXFJQUNSa2pvYlFUY083a19UcDJQYkVjM0dtc3JLSkxTUG0zNE5mODRTQ2pxVQ?oc=5",
-     "r": "detikcom"
-    },
-    {
-     "t": "Kurangi Pengangguran Pemkab Kirim Puluhan PMI ke Jepang - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFg3RVk5MC00RV9aeFBFWnU3Tk43M2JobjI1QWZ4VWVkSnpyWkJCdFAxYjFsWTFDc1hBMTdHZk1kZ1FpS0FmbFAyeUxtbXBOSHNrQU0wVmFvZEw0X1UxMWFpS2VvWS1xU212eG5kWHZxVVhhbjh0VEJyME5kd1ZnY2Zxd3RuOTN6S1Y1eDlrMmhUQzFuRGJ2MXptYkR6R3c?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     4,
-     13,
+     5,
+     15,
      2
     ]
    },
@@ -280,7 +280,7 @@
     "p": [
      0,
      0,
-     2,
+     3,
      0,
      1,
      2,
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     15,
-     20
+     11,
+     18
     ]
    },
    "trend": {
@@ -371,8 +371,8 @@
     "g": [
      8,
      6,
-     3,
-     3,
+     2,
+     2,
      2,
      1,
      0
@@ -395,16 +395,16 @@
      "r": "Jurnal Soreang"
     },
     {
-     "t": "Kang Rey Turun Langsung Salurkan 5 Tanki Air Bersih untuk Warga Jalancagak - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemlpd3ZMbFZOcWVobDFuREdvTHpWeFpaVnE0UVk5YU5OblhXMTg1YW9nNmVfVklKYWZudDVSMUdRcXg0MzNNOF8xenVVX3hjYW13bkVHRjhQWk14dzBUbmhkcmhxeVdTRWNPRVVwYXd3eklwc0w5Q1Z1S0s2QkY3a2o1ZjlLRjBXLW1aejNMdUN6eHgzWldlZkxHWUtmLWdkZDhkaHExT2kzS0hqMXFRU2pRcGluVVJV?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Meski Minim Anggaran Jalan Penghubung antar wilayah di Cinanggela Rampung - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUERfd3lmazBCbnd3akFjOE8zU1R0cmV1dmF2eTNVWEtIZDdSbVdGSHZpNnlOdjlsQnJWM3RfclRwVWJVQTAzOXVtS2JIV2kwZl9WdXVvNzF1NmdNSUh5YzlFZXdzN2RFcmUzX1hZcjNTSEtHSVFvYU5YMHdZZWpQMjVtYlgxWnhJbWkzWHBlVnd4ZXoyWG0wMzNBYnNONVlmUGtkN2Jjb0dsOUhGRGdka1E0Zw?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Skema DBH Panas Bumi untuk Infrastruktur Layanan Masyarakat - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW9rLVpFWU51OXZRYzZ2NUpmaTBwbWQ1LXVycWRQZUMzSVVxYzFyeW1FZFQ4dHhKbzlaRXAwM3lFcVZUbk1vaWV6UklxX2cwdU1nLXFBcUNFSURMS2tyMG5scllOTXpmbFhyVV9lSDJaeHpaeUZiaDhzVm05dnE3MUx4TDJjS2x3SjdHa3ZDRjRKUzh1SjBZTWVMRlBWUkZRdGphYQ?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Pembangunan Jalan Baleendah Terus Dikebut! Jalan Mulai Ditinggikan untuk Atasi Banjir",
@@ -421,8 +421,8 @@
     ],
     "w": [
      7,
-     8,
-     10
+     7,
+     8
     ]
    },
    "trend": {
@@ -445,10 +445,10 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
      0,
-     5,
+     4,
      3,
      0,
      0
@@ -471,16 +471,16 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "RunForGajahDidik, Pelari Rumah Amal Dukung Pendidikan Mahasiswa ITB - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVQyTklFSXpPaU4zVHE2SXFZU0M5aHNHQ2JWTTBLQktRd3hQbU1yTkswZGpTMC00RmlITHFOUTRJdGxhLXZ4RlpwZDRyd2JzdEgzREd2NVMwRXBYSndQVDVYTE04ZkkwMHFTN2NKM2k2c0pmV1FSQXp6M0NKRDBWQmYzRlUxbHBSbXRReU5uMlFlYjV2YUJjX1FER1lESDd3czRLeGdabU1ONXB2?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Hasil Skrining Bikin Kaget! Banyak Guru di Bandung Alami Gangguan Mental, Disdik Luncurkan Aplikasi Khusus - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTZzT3RzRlo1M1A4NFVjaHNDdzRJTTF4bGtQekh5ckRHSVdIc0FRSThsM01GSzNaczBnTnctam4wZXpxeFluUXFfMFZNdmFkcWlsbzFxSnVrNjM3Y1Q5d0tBNFRZTW5vTlF1QWItVWdKZjF6VUJ4Z0I1TnFoc1JpbXU3NkN4ejFvSC15cEI4NUd2Zk9PUHdEdlRyNzM5Q1Jpc183MGhpaDg1bm9XeFgyY3JUTUxXLWVxMkFEdktaVXRHZVBycmZSSEM0ZkRWUS0tU18tdFl3NE1KOS1MbGpPVXVKNWFodEF3ZlQ40gHwAUFVX3lxTFBkNVZ0VVJPakdTTFhMa1VCcW1Zc2FqbWJSUUh2aFhBb0wzcVgyLVR0UWtVMW5tRlRwcTI1am5fTXBpOFllNFgtdGhYbkY3T2ZMRDN0UVVXclZKZ3lBcjVNaUlhcjBDNk5hZnBWNXZrOHVYV1pLcEdqVnNpNUFtRzQxQ2F1elJuWmFUa0dyanpwWnp0V1prNTJTVTYyZElQYWpRR3NOV3hnS3R0UkFiaFZoUGFXUWhzbW4tV1lPT1dkR1FVeGxadnM2NHZHN3lZU3Q4MW1TdkQtanI1UlVVYTQ2bGVHY2Utc19BMmdXMnlvNQ?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Ayah yang Bunuh Anaknya di Bandung Ternyata Ingin Gunakan Uang Sekolah untuk Judol - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnM0R0R4dU05Nk14TC1PUXdTbmlnYldXRW1DVUtnZkxKVGVjU05nYzgwanVWTWhlQjVTOTFKeFFFMTk1R2tFbk9oZGNKb3k0SjVVUk42WlJ4ZU92VlF6VjRseWdla2MzdjJwSmR4SmdkQ2U3d1pybEJsMDYwbkV2ZlI2R0NOUmhpVTRuUUFRakYwaFF6djNMNTd2cURWSXR5TmF1bFJCSEYyZHdHUFVia3NpSUJTMEJBanV2QnRwLU1idnh2TU9QYw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Pastikan Kesetaraan Pendidikan, Mensos Kunjungi Sekolah Rakyat di Soreang | NTV HIGHLIGHTS",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     19,
+     5,
+     18,
      6
     ]
    },
@@ -523,7 +523,7 @@
      3,
      2,
      0,
-     1,
+     0,
      0
     ],
     "g": [

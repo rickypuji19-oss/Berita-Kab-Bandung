@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:56:00.443930+07:00",
+ "updated": "2026-10-26T23:38:29.918748+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   14
+   13
   ],
   [
    "Koran Gala",
@@ -117,7 +117,7 @@
     ],
     "w": [
      20,
-     18,
+     17,
      2
     ]
    },
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     15,
+     16,
      16,
      5
     ]
@@ -204,7 +204,7 @@
     "p": [
      0,
      5,
-     4,
+     5,
      1,
      4,
      1,
@@ -263,7 +263,7 @@
     ],
     "w": [
      5,
-     15,
+     13,
      2
     ]
    },
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Sidang Taufik Hidayat: Keluarga YTR Bersaksi, Korban Belum Dipastikan Hadir di Persidangan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaDFFVzNsTWVnSmNRWmFPN3JjQjF1SzFDRndRTFdPSjdjMl8tZWN4bUYxU05xLWZFeHdOdGdORVRIS2d5amlDV3ZPS1ZtVWtVY1JQUnVfU2JjczRCTmZGVTlMbkVmdlpIeVZFZEJ5Sm1GYXlWWkVnNW5kVXlaU2hXU0R1bm1jc1lIaVhwTEs2MzI4YTc3TXhjd21wTHVkR2lQWlJSNEp3ZC1uXzkwX2phaEJVN2c5WlowcG9TRTNWQXc4VjNpdFRERWdUUjJCdzkyUWE4cFE3akdxZzg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polresta Bandung memfokuskan Operasi Patuh Lodaya di 18 titik rawan - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMF9mVDRad0MwMHRYQ3dHRUw1aGp1dlBkUmVNdjBuMG9wWkJ1N2tTTHF1RUExTlRtcHIzd2JxM2Zpd1gxcFdaUFZhSTNaNERXUDhtc2lSeHR6cklvdm1NLTQxdDVCMTl1dndNeFJLS2I3TWlMRDNzTDJYS2RPM3VmMVhlb0JFdDQzVkNHUDVrdHU0UEpQNEhWREhvSENFakhkcmtaUHRBX2NKR3JsQXdv0gG0AUFVX3lxTE5VWHZNZEhsYUYyRGZ6aUcyM0FyUFF4UU1oeVFxSUxfRHZsUnRVMjd6MXVzdmptbWNCUm1uT0pJcERoQ1oxTjhhem9WeXQ5U2xGOERhT05iTzhLUUFudU9UWVJrTjFXMFd6dTc0SHg2dHE4eFBnS2RvS1BoQmd4b3VtWHVRbE1MZ01JWGJ6MDBqTWZRS1hMd2RQVW9QR3NIYW5kMlJUMXlJMDNRUy1oX3Q3VE9naQ?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPazdnTy1Udjc0UUM2Zkktd2VkUWxjMGFYQkUzZktoNFY0ai1sdy1yc3Jtc25pZmt1a3Fic0xqY0FWNThTVjQyanNFaWRaTDYtdU1xV1ExakZIQmxzcXVyV1VpdTlFOVhVRlVRWmowM2M4NTgwTVc3R1V2VjNna3AyaGZaenNiMW01c0E2cFpFeUxPTlN2YXZVUzFDQ2JUYVdvdTAwM0tWNVVnNzRUN0NBai1USGNjNFFZTlRlMlQ1WDB4QWcySkJ4Tlh6SVc1MFVIQ25ERUFQNWlzazJJWm9LSDRkckpQNFBLamfSAe8BQVVfeXFMTm8ySFUybFJ2UXI5RFZSTGpXb2wyOHZRTFZrU1Z6RGFlcXVmd3RIV0hYNlIxUGRLM1BGTm5fRW9MaGxmWlJQUXVGOWFlUnpCZ0pDSjRYWTg3ZmZ2WkxsQ3VqdE9sMGFpYkZwZGVBbVlTdmNzdjlVU0RlWUFOakYtWDZXR1VWdWtDYkRRcHEtbEllZlZwNm0tUDBqTGRjeEZSOUJPMzl4Qm41LVFrSjlVeHhocGtCM2ljZkJTelVjRnA4WUZmLURUbWdBVWkzOE5EaHgzYUhCdFJaU2F4Yjd3OXAzbm1hMUdfODZGejh5b28?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Sidang Kasus Penyekapan Taufik Hidayat, 3 Saksi dari Pihak Keluarga Dihadirkan di PN Bale Bandung - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONDgxbUFFMVBkX2lwa19sSW5KRUU0QWtXX1YxZE1Xd21kR1B4MHFiN20yM1pYdEk4LWlGM01QR3pBUk0xeDVpaEtFdjd2WGl0c3diLVdZcGZJUklyV3VvMURpYnhUZ3owaG03a3VMMlQ3UzhXRFdVXzlEX2F0dDRaVUJ2UXZibl9qWjhzdjBoMlBfTzlKM28zSFVNeDNOY2JJdHNMZkFTTEcyMi00YkxUUEdMSDZwdlF4TVpHdUktOXZvVjNIN1dZSmlzeU9NX282d2ZrcHVkQlJPZw?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
@@ -345,7 +345,7 @@
     ],
     "w": [
      2,
-     15,
+     16,
      19
     ]
    },

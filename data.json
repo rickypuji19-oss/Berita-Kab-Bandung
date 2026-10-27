@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T10:22:40.248525+07:00",
+ "updated": "2026-10-27T11:24:07.476989+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   22
   ],
   [
    "Ayo Bandung",
-   16
+   18
   ],
   [
    "Kompas.com",
-   14
+   15
   ],
   [
    "RRI.co.id",
-   11
+   13
   ],
   [
    "detikcom",
@@ -39,10 +39,6 @@
    6
   ],
   [
-   "PPID Kab. Bandung",
-   5
-  ],
-  [
    "jabarekspres.com",
    5
   ],
@@ -51,20 +47,24 @@
    4
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
-   "Ketik",
-   4
-  ],
-  [
    "opininews.com",
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
+   "Satumedia.id",
+   3
+  ],
+  [
+   "Ketik",
+   3
+  ],
+  [
+   "Jurnal Soreang",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
+   3
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     15,
-     19,
-     4
+     14,
+     17,
+     3
     ]
    },
    "trend": {
@@ -134,16 +134,16 @@
     "p": [
      0,
      0,
-     3,
+     0,
      4,
-     5,
-     5,
+     6,
+     6,
      0
     ],
     "g": [
      0,
      0,
-     1,
+     0,
      2,
      1,
      0,
@@ -167,16 +167,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
+     "t": "Kasus Anak 15 Tahun Tewas Dianiaya Ayah di Cicalengka, DPRD Jabar Minta Evaluasi Perlindungan Anak - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFV6eUROQmlrN3pGY0Q4ZFBjWHFuTTlwWE5VeVBVVjVlemtRNk1WbW9LbFY5cGJ4bU5CSExMa2Z6Zlhmb1l3Z0M2U21fN1hnS1F6YVNqOFVLOEQtTlBNa0NBeDBZRTNUajB4ejBQWVkyUHBHb2sxbnQyRl91a3pKcHhDaUFON2ZrcU1oUWxGbFllTW9NTkI3ZXJFSDB4YkNqMU1OOVlHaS16LXNwMFUxdjJGV0NsNDQwX3pnRDQ2UmtqUnFZOC1SS3Fpel9GNXE5eWNYRlhJZmFWb3oyaWlnQlVDSmdkdFhMS19NS3Vidno4QdIB9wFBVV95cUxQNXVyZDYyQlVPWkFwMXhqakZPOW4yTk93Y3Y1bThGZnhiYVRTa2k5T1lHcnlybFRLbWdmZ08tamZDSGJGN0VHNmtGVTNRbnF3MEFOZXJONi1hTFBlc3FqYjlaR2thRVlncEZwelg2RjNhSzFxY3pMNmlDZjN2TmhhaW5makdQZDJ5bXpBVHYtZUJ4MDE4Y05QLTNGdEdPVnNzb0pFZ3JxOV9rYW1pZ2xWUndJdnRCNXY1WE1ObFEyRzBPQU5YN3I4NEFVNHllUkVjMENVNjZGcXlPNGRkSXJfQ1VWTlN5VVZfN0VSMWNhcEFoNU9iRVBV?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      16,
      11,
-     4
+     5
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     0
+     1
     ]
    }
   },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Telkom Indonesia Raih Penghargaan Keberlanjutan Global Reuters Events 2026 - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUdFQlRqYUxDcWwtbUlyQ2lDOVdJd3o2VTNkbkxzb3B5T1ozZFIwZ2ZmSXhfTnQ4UUNUYjZIQk9aLUU3cDc1VWpYVHI5bzdxVF95VUtkX3lpVWFPZm1Xal9DNzF3R0p3d09wRTkxVzctOGRYR3F1UkpTVjZ5d2xDcUY0cS1wQTFOWVNxdFBzZjlPVGlOMlNCcWVqYThMTGJIeHFiYjdpQnU1TXRMZ1BVQzdwMHVlNXhD0gG-AUFVX3lxTE1wU2hKUEtSejZ5UmlBa09vY2dXeTlZbFFXeUoxTHhZWEZacDBKNWZheTJNLW9tSEJOWmRnWGpWR1RsVlJ1cER6eVRUcE03bEIwYjJlbGZtTmp4eGcycHlXcEYzOFVNeWZjRFZUYTJyVThKakRwQkxYcHI1SzZ6Zl9aY2lON0p5U0t2MzhGVFluSDMzLUpodzRza0pob0t1ZjRmVGJmbVZVT2g4ZER4SDNCQVN6cUw4ZC1RZGRUTVE?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Divre II Perkuat Keselamatan Peran Kereta Ekonomi Daerah - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0UzWjlkazZCTFlYbE4zd0RVQzlKRGV1OW53dExIZ2w3eXExUHZGbWxTZnFZYWFCdDRka0VWTTNyOFo3b3Ewd1cxSmVqRmJRS0VzN05FSWZSS0VLd3dPMTUyNUhNWTJTaUlPZklWU1FDRy1VTERsNUYxTVMyVkYzY1BRM1l0VW43M2ZnZWZkcXVZNVdtLU16SWpOcWpIQ1c1?oc=5",
@@ -243,10 +249,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Harga Tiket Persib Bandung vs Melbourne Victory, Termurah Rp125 Ribu - Tribunjabar.id",
+     "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtramR6ajlSeTFwSzNoVVJFUHNkZmQ5aHJuOFloeEpHT2R0Y1VXay1uUFMtZ0psSHd0WE1XeWJPWlZ6dDhtREdmWXZyRnp5Y05VV3N0WWt2WUVvUnVXMThJSVRHXzdUNmtfQXFra0FqUnktcE5DR0dfR0s1WURtU0pSZUtONXgwQk1nUE5sREhEMmc5c0ZtVHlQYUlwSTlaS1h6VTBBa1NKUFVYMU9fWnJvWXA?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://www.youtube.com/watch?v=Qh3VDgkHRWg",
+     "r": "YouTube Kodam III Siliwangi"
     },
     {
      "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
@@ -258,12 +264,12 @@
    "v": {
     "s": [
      1,
-     0,
+     1,
      0
     ],
     "w": [
-     3,
-     13,
+     4,
+     12,
      1
     ]
    },
@@ -283,7 +289,7 @@
      0,
      0,
      2,
-     0,
+     1,
      0
     ],
     "g": [
@@ -345,7 +351,7 @@
     ],
     "w": [
      1,
-     15,
+     17,
      16
     ]
    },
@@ -369,12 +375,12 @@
      0
     ],
     "g": [
-     5,
+     4,
      1,
      3,
      2,
      1,
-     6,
+     7,
      0
     ]
    }
@@ -389,16 +395,16 @@
    ],
    "h": [
     {
+     "t": "El Nino Bukan Berarti Bebas Hujan Deras, Ancaman Banjir dan Longsor Menghantui Jabar - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURLRnVGSkJReENjenJGSVBKRC1CaXR4cVZlUGdTaDY2czJXV2UzeS1IcTlCdWdSQzRBRFUtaHJIT1lkZlZhbDRUeHVYdi1IaFBEeG1uVkRNY3RXaUxEMVdJTkRSWEViX2VLNEZ0N2FNRmt3eTZrOENrMXRSQXJUOVlXdnNiWU9WbEpwNzZvM3N5Q1J1S3JsYWJ6R25vLWEwR19xdkZHRlplWUN2MEFFaWxfZ252bUZZYkFOVURJWVZJNm14MHkwSg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - ayobandung.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtYw?oc=5",
      "r": "ayobandung.com"
-    },
-    {
-     "t": "PLN Pelihara Jaringan Listrik di Lembang Tanpa Pemadaman, Aktivitas Warga Tetap Berjalan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVllwQ2RlWXNKMm1CazBVQnNDUlNYVldHaXRKU0hpNmgtdlBCVDgtc2REd0VqMHItRzFqRnl5cXM4dUhocTkwZlNydmVNSzcyLUxxbkV4Z2Q0YzlSay05bjAyczdGR0ZwUzUwLVZxZGI0Q2wyX08yaThobHM1d1JWMXdVSk1vcXNiWkpsRGZBNjJjVXRRMDFWY0VhMDdkRkFXdWNfWE1wQUtvRWxaTHF6VWY2N1JYMHVZbmE0LUNMY3d6aHE3ekVmYVNBeld6eDV5WW5DZ3Z5dTYyTEE?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
@@ -415,8 +421,8 @@
     ],
     "w": [
      5,
-     7,
-     8
+     4,
+     10
     ]
    },
    "trend": {
@@ -441,11 +447,11 @@
     "g": [
      0,
      0,
-     4,
+     5,
      3,
      0,
      0,
-     1
+     2
     ]
    }
   },
@@ -496,7 +502,7 @@
      0
     ],
     "w": [
-     6,
+     8,
      15,
      5
     ]
@@ -514,10 +520,10 @@
     "p": [
      1,
      2,
-     1,
+     2,
      0,
      1,
-     3,
+     4,
      0
     ],
     "g": [

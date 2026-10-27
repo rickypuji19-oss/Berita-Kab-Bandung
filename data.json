@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:27:20.338281+07:00",
+ "updated": "2026-10-27T20:41:12.142984+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   28
   ],
   [
    "Ayo Bandung",
    19
   ],
   [
-   "Kompas.com",
-   15
+   "Pemerintah Kabupaten Bandung",
+   14
   ],
   [
    "RRI.co.id",
    12
+  ],
+  [
+   "Kompas.com",
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -32,19 +36,15 @@
   ],
   [
    "Radar Bandung",
-   6
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   5
-  ],
-  [
-   "Koran Gala",
    5
   ],
   [
    "jabarekspres.com",
    5
+  ],
+  [
+   "Koran Gala",
+   4
   ],
   [
    "PPID Kab. Bandung",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Satumedia.id",
+   "Disway",
    3
   ],
   [
-   "Ketik",
+   "Satumedia.id",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Pemkab Bandung kaji penyesuaian tarif air minum Tirta Raharja di 2027 - ANTARA News",
+     "t": "Bukti Kelulusan SPMB Tahun 2026 an. RAKAI SAMBARA AMURWABHUMI ( 3144513153 ) - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnVwN3VaWmtYcC1vR2FaZ1h2SjBVVXBUUXN0TzNrTDB4TWxqZ3RVNDBmczdFVFFmSUloa3BreUttVENWNXYyRmdaOWNwODAwQTB0ZzlQX2Qyak1MUHVXZ1NoUGhMY3Zpd1J2elNwV0JZZ3dLY2NTbkVOeGo4THBJcnNRTENjTDQ4SloxUG45eGt4eVdFUXFWVkJfV0xfWmRjTi1FWHVHeTZZUk9LQm8tcNIBswFBVV95cUxPV2NHZzI3N1JvVDd5MHRUTkF1WVR3VGhveUxubFdVZzVXNzZKTHdwWDRodTZlREtTV3dNdFdld1NGcUIxd3Y0LV9sM3hiZGNhc3FKRTdCN0tYX1ZaWXR1UW9tOG1PR1RZT2wzSkFLMTVXQkRyRG13Y0E3dGQ4MUFoUXNONEJtZWRoY3NqLWNxNWZHRExxVXlxOWl3VmsteENfbVE2aFVmX1I0VjNCSEVLcnVLQQ?oc=5",
-     "r": "ANTARA News"
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwcDVkeXhqWnYxelcxMWhpRVR1bktZSkFfZFBCRHBvbzFFcEkySUpfaUVRaXdlNjNTUkJYWjZQQnUxNzN5NE1WV2VaTjJFRjkycVAxbnBlYWRTdG92dmJqeDdKUGJqUnBJdUlxY2FmQ0ludnF0WTNXNQ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     3,
-     18,
+     1,
+     25,
      1
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     4,
+     2,
      0
     ],
     "g": [
@@ -161,10 +161,10 @@
    ],
    "h": [
     {
-     "t": "Pemkab Bandung mengkaji penyesuaian tarif air minum Tirta Raharja pada 2027 - ANTARA News Jawa Barat",
+     "t": "Pemkab Bandung kaji rencana penyesuaian tarif air minum Tirta Raharja pada 2027 - ANTARA News Megapolitan",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnJCWEdmMk9WUkcwQm9lem9FMG1tZGdJcVdmcFNuTzVVTDJJV1EwcVhkV2xCTzZZMXdnUzJlQVFlYllHT0NnaFNsSjZ1V1d5ZkF0dHA2RERZMVhmWXo4RWQwUl9KclVBa2NmR1kxWWdrZlktTWdUV0lta3R0aWkyV1pjbnBQZ1pqRmE3S3hsaHdmaXh5UzE4YmRweGY5cXZJM1F5dnhlTWEzcHdsTEE4MERKNmVPbmg5ZWfSAb8BQVVfeXFMTzlldURDNHNDRU5tSDdpU3ZBSzFOc0o3N2hCczRXeWZ5T2syZGlPbHpKa2RtcWxYMGtFeTBjb0tSamJ2czVYcV9hRGs2a0ZPRW9qcS13eG5WZkZQZl9iaGd5NTVLdlJoN2paZndIQXl1Tk96ZGFRejk4RXM2WHN4LWZ6UFlwdUdxa3FNX1RfWmRJLXpRLXhuUHQxMkxxMnBhMjFfMk9sa3dGc292VEVIV3RjTWdqLWQ4TWJTY0ZCaE0?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeENJMVZxMjktQ1d1VWtoY0ZCNlA1WV9yUkJ6X2wzT1BzaHBaLW1HNk1IcXVkQzdNdnMxOXVCdVBqUFhFVkw0eU53UENaWDZGMDExb3k1X0hUVVV1TVN0U0gxNlljUVhjN29SNVJGSnY5cll3T0xLU2R1ZTBvNGRVRk1RTnRjdzRTekszMVp0NEtKZEhRdFVCSmtwWmtmRElEc1ZSUGZaeFlJOTJlSk1rekdaSzVYQ2N0ejIzY1ZOd3V2TDlPS3hKNFM5RGjSAcwBQVVfeXFMT3hDSTFWcTI5LUNXdVVraGNGQjZQNVlfclJCel9sM09Qc2hwWi1tRzZNSHF1ZEM3TXZzMTl1QnVQalBYRVZMNHlOd1BDWlg2RjAxMW95NV9IVFVVdU1TdFNIMTZZY1FYYzdvUjVSRkp2OXJZd09MS1NkdWUwbzRkVUZNUU50Y3c0U3pLMzFadDRLSmRIUXRVQkprcFprZkRJRHNWUlBmWnhZSTkyZUpNa3pHWks1WENjdHoyM2NWTnd1dkw5T0t4SjRTOURo?oc=5",
+     "r": "ANTARA News Megapolitan"
     },
     {
      "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     15,
      14,
-     4
+     13,
+     5
     ]
    },
    "trend": {
@@ -202,7 +202,7 @@
      "Sel"
     ],
     "p": [
-     5,
+     4,
      3,
      0,
      3,
@@ -211,7 +211,7 @@
      2
     ],
     "g": [
-     2,
+     3,
      1,
      0,
      0,
@@ -243,10 +243,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "DATA REALISASI INVESTASI SEMESTER 1 TAHUN 2026 DPMPTSP KABUPATEN BANDUNG - PPID Kab. Bandung",
+     "t": "Membidik Geliat Ekonomi dengan Dibukanya Penerbangan Internasional dari Bandara Husein Bandung - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdHBISnY1NkNfdnlaY0t5bnptRmRPZXBfSDB5SkdFMW0zS0xjaWtUZXRHeFlyZkFTWVpjSE9RNlRfQXZWUktkZ3BGNzlRYkgwN3lwUVdYZHJETmVlcHcxM0Q1ZU5vQmlZV3EyQkVDZ2c0ZHhsYWRKbWhNMTVVUnZwRE95SHUydFRHcTdFVDEtVDF5bFZlRlFVQkVlY1NEdkZtX0VHeUxmajVFcVlJdTNwckVkOVZPXzNlaWU4dWdCcWhYSDZMZXpMZmtJeHpKUTg0RElxLWNpeFBlRHY0V1FLc1dkNGNYdGJQRFZiS05EeHBIUi1tVjkw?oc=5",
-     "r": "PPID Kab. Bandung"
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWVsTDJfT0RZWmU2OGwtdmEtUEE4YVJha1EtT0o0MV9HSjlHeHowcUZvTXdCMTRnUDZ0ZDNsSnVfNU5HNUNNSTNnY2Uzdl85cGVQZGZqT01qRjJPYjBtY0VHT181QjFxdEFSWGY4dGJ5Y2pHMG1vMDAxZWYxM0M5OEV3M3NaS0VOZXZ3SFhnOUotZFZNZUplbEZIRkJvc3doVG1qV1hWbU9GUjhIenB6OUpwTTZ0QXpkNjhSWXlYbjMybmNNcGZ5ZUJSZ0s0cFZ1TVFhUmx2QzI2R2tHd3c?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -269,7 +269,7 @@
     ],
     "w": [
      4,
-     16,
+     15,
      1
     ]
    },
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     16,
-     18
+     15,
+     19
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0
     ],
     "g": [
-     5,
+     6,
      2,
      2,
      2,
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     6,
-     12
+     8,
+     11
     ]
    },
    "trend": {
@@ -447,7 +447,7 @@
     "g": [
      0,
      1,
-     4,
+     3,
      3,
      0,
      0,
@@ -503,8 +503,8 @@
     ],
     "w": [
      7,
-     14,
-     5
+     13,
+     6
     ]
    },
    "trend": {
@@ -518,16 +518,16 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      2,
      2,
      0,
      1,
-     3,
+     2,
      1
     ],
     "g": [
-     0,
+     1,
      1,
      1,
      2,

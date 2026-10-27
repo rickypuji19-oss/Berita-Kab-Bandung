@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:23:00.899216+07:00",
+ "updated": "2026-10-27T13:25:28.939551+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,22 +8,22 @@
  "portals": [
   [
    "Tribunjabar.id",
-   22
+   25
   ],
   [
    "Ayo Bandung",
-   18
-  ],
-  [
-   "RRI.co.id",
-   12
+   17
   ],
   [
    "Kompas.com",
-   9
+   15
   ],
   [
-   "PPID Kab. Bandung",
+   "RRI.co.id",
+   11
+  ],
+  [
+   "Koran Gala",
    7
   ],
   [
@@ -39,16 +39,8 @@
    6
   ],
   [
-   "Koran Gala",
+   "PPID Kab. Bandung",
    5
-  ],
-  [
-   "Galamedia News",
-   4
-  ],
-  [
-   "Ketik",
-   4
   ],
   [
    "opininews.com",
@@ -59,11 +51,19 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
-   4
+   "Satumedia.id",
+   3
   ],
   [
-   "Satumedia.id",
+   "Ketik",
+   3
+  ],
+  [
+   "Jurnal Soreang",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Suhendar Paparkan Lima Program Unggulan, PWI Kabupaten Bandung Bidik Organisasi Profesional dan Transparan - Jurnalisme News - Jurnalisme News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcDVHdkxueEsxWlk2TnVZV2M5NThjOGctMXJZclh3MG93TjdoU1I5VXZyV19HOHdLT0liZmtubGQxV2stN09XYl82cnpSV1VxQ2RyajZybkkybG91VTJOV19mcTNsS2wwUDBIQmxvMFE5LTFVYW9reDVHanBKNzBhemtaSW1xUWJlVVdZZWlkVHNnSmlOOHdMSk9nUS1Xak0zREZkZ0JualRiekJuQUNGeWhLaG5zejZVc2FtZjNlWnpObXhfSFVmY3FBdmNHMlpmcDVZd2ZJWkh4UlVFSXQ4VVVRNTJZZi1LZHJrTVZR0gHzAUFVX3lxTE5Ta1NGRWh2TjlGS3otVUVHZmFOZDZWZ0x4aHdfamlUOTlnQzA1WFhhYUpSS3o2QVhQVUwyYm9EeHZDQWRpSzMzQk03WjFyc0kxeE53OWZnanBWNnpFQ1ExeDJrc2xLanpfMmRFdGxWeWxKZmhFcHg3R0VidDFLZ1lrT2w3OUQyZGhkQlFTa0dXaFQ1dE1zS3FiWDdqN293TnFZdFpVVlB3R0hQclJWZWhVU3lDeFpSc0d4eUhFQmJzMVpqemFHV2hWclZ5TkNQOXRjdjVyaEprX1cyYmtCaG5sSjdVQ215RkhCOGtxZVNpQmQxWQ?oc=5",
+     "r": "Jurnalisme News"
+    },
+    {
      "t": "Bupati KDS Pimpin Rakor Pemkab Bandung, Tagih Komitmen Kepala OPD Tingkatkan PAD dan Serapan Anggaran - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkl4SC0yVVg1QUR6RFFaUFNGWjNMdnRsRS0wRWNCSXkxYXhwQXNCbXAwUVNKczVhSHRaekxMNjI4TDZxanFWWnlCcjdmTm5xOE1FcWJuSEY5bzVJSGtaeHNuTzJlLXNvbThJaDBMb2t3WWVqTmpmTkpjRjVtWE1jWlR0S2NsVXJWak9vU2RVZlJaRFl3YXc1Ujh3cnkxcVZPQWZhSUxxczBwXzNCUkFFbUVwVEVaWEEyOTJ2ZkRFSl9ZUm14TkJmMG1IdTdFVjJGaF9pOWN6ZEZjVm9NQ2w4ZHIwUERnek9MdWJJMg?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JYmpLSGVSRVZUSUZ6eXVzZ2YtdWx3YXltR1ItNGFrNWROYjFBSGZvSUc4OS11emxLZ01Od2xKbERmVlJTc01LR3BUMA?oc=5",
      "r": "Jayantara News"
-    },
-    {
-     "t": "Berita dan Informasi kode etik asn Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdGk1Zk1iZnhDS1dHbEFXVndNUE45a2huWnRlaFF3UFhncHdhRkxMSDB3d2d5ckVqNVBTeEJzQXFudEN3TmlJaXJ0ek40cC1lMGlZeE9B?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -117,8 +117,8 @@
     ],
     "w": [
      13,
-     19,
-     3
+     16,
+     1
     ]
    },
    "trend": {
@@ -134,17 +134,17 @@
     "p": [
      0,
      0,
-     2,
-     3,
-     5,
-     5,
+     0,
+     1,
+     8,
+     6,
      0
     ],
     "g": [
      0,
      0,
      0,
-     2,
+     0,
      1,
      0,
      0
@@ -167,16 +167,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
+     "t": "Kasus Anak 15 Tahun Tewas Dianiaya Ayah di Cicalengka, DPRD Jabar Minta Evaluasi Perlindungan Anak - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFV6eUROQmlrN3pGY0Q4ZFBjWHFuTTlwWE5VeVBVVjVlemtRNk1WbW9LbFY5cGJ4bU5CSExMa2Z6Zlhmb1l3Z0M2U21fN1hnS1F6YVNqOFVLOEQtTlBNa0NBeDBZRTNUajB4ejBQWVkyUHBHb2sxbnQyRl91a3pKcHhDaUFON2ZrcU1oUWxGbFllTW9NTkI3ZXJFSDB4YkNqMU1OOVlHaS16LXNwMFUxdjJGV0NsNDQwX3pnRDQ2UmtqUnFZOC1SS3Fpel9GNXE5eWNYRlhJZmFWb3oyaWlnQlVDSmdkdFhMS19NS3Vidno4QdIB9wFBVV95cUxQNXVyZDYyQlVPWkFwMXhqakZPOW4yTk93Y3Y1bThGZnhiYVRTa2k5T1lHcnlybFRLbWdmZ08tamZDSGJGN0VHNmtGVTNRbnF3MEFOZXJONi1hTFBlc3FqYjlaR2thRVlncEZwelg2RjNhSzFxY3pMNmlDZjN2TmhhaW5makdQZDJ5bXpBVHYtZUJ4MDE4Y05QLTNGdEdPVnNzb0pFZ3JxOV9rYW1pZ2xWUndJdnRCNXY1WE1ObFEyRzBPQU5YN3I4NEFVNHllUkVjMENVNjZGcXlPNGRkSXJfQ1VWTlN5VVZfN0VSMWNhcEFoNU9iRVBV?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      16,
-     11,
-     4
+     12,
+     5
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     0
+     1
     ]
    }
   },
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     4,
-     14,
+     5,
+     15,
      1
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     2,
+     3,
      0,
      0,
      2,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     13,
-     14
+     15,
+     16
     ]
    },
    "trend": {
@@ -377,10 +377,10 @@
     "g": [
      4,
      1,
-     2,
+     3,
      2,
      1,
-     6,
+     7,
      0
     ]
    }
@@ -421,7 +421,7 @@
     ],
     "w": [
      5,
-     5,
+     4,
      10
     ]
    },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     14,
+     8,
+     15,
      5
     ]
    },
@@ -520,10 +520,10 @@
     "p": [
      1,
      2,
-     2,
-     0,
-     0,
      3,
+     0,
+     0,
+     4,
      0
     ],
     "g": [

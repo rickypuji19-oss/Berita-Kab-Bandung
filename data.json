@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:26:40.553092+07:00",
+ "updated": "2026-10-27T19:27:20.338281+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,43 +8,55 @@
  "portals": [
   [
    "Tribunjabar.id",
-   21
+   25
   ],
   [
    "Ayo Bandung",
    19
   ],
   [
-   "RRI.co.id",
-   14
+   "Kompas.com",
+   15
   ],
   [
-   "Kompas.com",
-   11
+   "RRI.co.id",
+   12
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Koran Gala",
-   6
-  ],
-  [
    "Radar Bandung",
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
+   "Koran Gala",
+   5
   ],
   [
    "jabarekspres.com",
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "PPID Kab. Bandung",
    4
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "ANTARA News",
+   3
   ],
   [
    "Satumedia.id",
@@ -52,18 +64,6 @@
   ],
   [
    "Ketik",
-   3
-  ],
-  [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "opininews.com",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Setahun Tertahan, Investasi Kabupaten Bandung Terhambat Aturan LSD - dialogpublik.com",
+     "t": "Pemkab Bandung mengevaluasi retribusi untuk kejar target pendapatan 2026 - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUdNTVhsQ2xsMVFSaS13M3o2Y0NabEZlbmN5NGR2bnp3LXd4UmJWNFBQWUlzRmM3Tlg1TGhNa21Xdll6VXVZNUpwXzZfV0FVR1FneVBjcWdFTkFncXNQNVAyU1NIaGEzdjVwN3otZ0tmenp5MWhZZGFIem5obEZxa0lWN21TR1NacEk0RTV0dUR4Z3dCZlE?oc=5",
-     "r": "dialogpublik.com"
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnZaNWVmVExka25xcGV1cUk4RWlpcUsyczlxQzVKLUNIbzZfLUV0aHZUcjhzZ3pvNFdfNmZubGd2OHJWVW5OdVhjZWlEd3pTSWRfOER6RXFMWVJma0M2SnNGcEgtLUxuNkZrTG9vLVd1YTNqU3hNdk4xeFRvUlQ2MFlsOVI4dnNxOUJQOWo0dGxhaC1WblMtWTdlaVR5ajI1OWdFbXdzTUV4aGs1WFc0LUttdWJWZ9IBuwFBVV95cUxPcW9fdG5kTS1WaEVVUzAxYWJqOHBOM0J1Sk1pMlJlR2o5SVZQUTRxajdvN3JUWTAxcHpKUW1lajkwYmFXWWQ4TGphN2RDS1lkY1pQbWNMc0ZoMVRUMGlxQ1VuQU1nUmdDOUFfQnNndjM5bmpVZURoZWJJTk9EX2ZoOFEyMG1IYzM5NU9pcG5RV0NncUhtU0h6czBlUjJoVTFfbmNoRjZvTXNHd25kcXkyN1RYM3FTdzlPOXNz?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Miris! Rumah 4x5 Meter di Bandung Dihuni 8 Orang - Fokus Jabar",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWM5Wkxxc25nT0MzZmNmNlRta3lIOFoxM2JlNGxVM21HaVJld2Z4MHdkN2VoRjFaZHZKem4wTFhpZERrcTl3SGtraENMZ05QekwtaFR6bjNyLWh2Nnk1NFd0NzFBYS1NZ1RpUEZsWExibGxVbS12dF9iLUZYOGdIQjNUOV9DZGV0?oc=5",
-     "r": "Fokus Jabar"
+     "t": "Pemkab Bandung mengkaji penyesuaian tarif air minum Tirta Raharja pada 2027 - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnJCWEdmMk9WUkcwQm9lem9FMG1tZGdJcVdmcFNuTzVVTDJJV1EwcVhkV2xCTzZZMXdnUzJlQVFlYllHT0NnaFNsSjZ1V1d5ZkF0dHA2RERZMVhmWXo4RWQwUl9KclVBa2NmR1kxWWdrZlktTWdUV0lta3R0aWkyV1pjbnBQZ1pqRmE3S3hsaHdmaXh5UzE4YmRweGY5cXZJM1F5dnhlTWEzcHdsTEE4MERKNmVPbmg5ZWfSAb8BQVVfeXFMTzlldURDNHNDRU5tSDdpU3ZBSzFOc0o3N2hCczRXeWZ5T2syZGlPbHpKa2RtcWxYMGtFeTBjb0tSamJ2czVYcV9hRGs2a0ZPRW9qcS13eG5WZkZQZl9iaGd5NTVLdlJoN2paZndIQXl1Tk96ZGFRejk4RXM2WHN4LWZ6UFlwdUdxa3FNX1RfWmRJLXpRLXhuUHQxMkxxMnBhMjFfMk9sa3dGc292VEVIV3RjTWdqLWQ4TWJTY0ZCaE0?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "BPR Kertaraharja Setor Dividen Rp78 Miliar, Pemkab Bandung Terus Kejar Target PAD 2026 - Tribunjabar.id",
+     "t": "Pemkab Bandung kaji penyesuaian tarif air minum Tirta Raharja di 2027 - ANTARA News",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzhUa0diLXdnQWVDOHdyVHhXeEN6T2pGQ01EU1ltWm52cHB4bWE4bTktaVFUc05Pc0x4dkVtVFNsWnhfSENlVlBHX3ZjY3NtTWwyNzBfQzZKTndlZm1wcVY2MkRtaG1aZmE2S2UxR1J6a0Y4eDkzTS0tSFFzUEc4VnBnLVRLdU41TlhfSTJqejRoTlU3S2Z6ODBsN0hMeXQ2Xzg2VFhTaHhGbXZmQlpETUN2b18xOVQ3MFcwYnV2RnNXSEN5S01MSDN5RjFUdHNnZG9BNFE2cw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnVwN3VaWmtYcC1vR2FaZ1h2SjBVVXBUUXN0TzNrTDB4TWxqZ3RVNDBmczdFVFFmSUloa3BreUttVENWNXYyRmdaOWNwODAwQTB0ZzlQX2Qyak1MUHVXZ1NoUGhMY3Zpd1J2elNwV0JZZ3dLY2NTbkVOeGo4THBJcnNRTENjTDQ4SloxUG45eGt4eVdFUXFWVkJfV0xfWmRjTi1FWHVHeTZZUk9LQm8tcNIBswFBVV95cUxPV2NHZzI3N1JvVDd5MHRUTkF1WVR3VGhveUxubFdVZzVXNzZKTHdwWDRodTZlREtTV3dNdFdld1NGcUIxd3Y0LV9sM3hiZGNhc3FKRTdCN0tYX1ZaWXR1UW9tOG1PR1RZT2wzSkFLMTVXQkRyRG13Y0E3dGQ4MUFoUXNONEJtZWRoY3NqLWNxNWZHRExxVXlxOWl3VmsteENfbVE2aFVmX1I0VjNCSEVLcnVLQQ?oc=5",
+     "r": "ANTARA News"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      3,
-     17,
+     18,
      1
     ]
    },
@@ -161,21 +161,21 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung mengkaji penyesuaian tarif air minum Tirta Raharja pada 2027 - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnJCWEdmMk9WUkcwQm9lem9FMG1tZGdJcVdmcFNuTzVVTDJJV1EwcVhkV2xCTzZZMXdnUzJlQVFlYllHT0NnaFNsSjZ1V1d5ZkF0dHA2RERZMVhmWXo4RWQwUl9KclVBa2NmR1kxWWdrZlktTWdUV0lta3R0aWkyV1pjbnBQZ1pqRmE3S3hsaHdmaXh5UzE4YmRweGY5cXZJM1F5dnhlTWEzcHdsTEE4MERKNmVPbmg5ZWfSAb8BQVVfeXFMTzlldURDNHNDRU5tSDdpU3ZBSzFOc0o3N2hCczRXeWZ5T2syZGlPbHpKa2RtcWxYMGtFeTBjb0tSamJ2czVYcV9hRGs2a0ZPRW9qcS13eG5WZkZQZl9iaGd5NTVLdlJoN2paZndIQXl1Tk96ZGFRejk4RXM2WHN4LWZ6UFlwdUdxa3FNX1RfWmRJLXpRLXhuUHQxMkxxMnBhMjFfMk9sa3dGc292VEVIV3RjTWdqLWQ4TWJTY0ZCaE0?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Perumda Tirta Raharja Bahas Penyesuaian Tarif Air Minum 2027, Dirut A.Teddy Setiabudi Ungkap Penyebab Kenaikan - Jurnal Soreang",
+     "t": "Perkuat Nilai Keagamaan dan Kebersamaan, Pimpinan dan Anggota DPRD Kabupaten Bandung Hadiri Upacara Hari Santri dan Pembukaan MTQ ke-48 - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2ItaEdCZ3VBMGI0OEx5Q3paSHh4RTFya1RBd3dWeXVGWmc5RmxEcUUyVXAxUE1haF9HeDRrT050Smo2MW9UOFNSdS1QcWFtRFRJUXFtZHQ3NFA4dGViZUZIRnQtem8zRWt4LVlmNlNUbDJjOUNXWjQtaGllRFVaYktUYlNpLUptTEhoTW9MOXhDUVBuLS00cHJxY05qNnBWWHBuaDk5ajBXWHozVVQ4Vk1pWEtoRXp5ejZMOFJMa1k5VFZacWc4anNOTVhyY2NJUWdrXzFIaGdNam9SQzFfdm02WWJHRm56N0NUWGxvSDJ5NlN3VVFsRWpORlE4eVXSAYQCQVVfeXFMTWNjSVpSRjkxR2ZuR1FMVEJNUVY5elZEc3Z5VUNkQVVkUHo1bVJGMnN0M2wwdzVIY2thVlhjbTNpMnZVS1czaHJKNnlUeW1lTEJnR1RlOERxZUpDZ2ZReWlrNy1Bem1heGhhVWp2SFc4YkFUMzRRYWFxTjBLaVdHTkk3UkV0QTNQLVRLSXdUdDctVm40bC1yNk5TM0FIUFdsa2E3QVVVOUZzOXJCNkN1WXRHV29oYmJ0Y2pQeVp6eVRiYUp6SWNIM1hNRlRiSE9uVVJDM28wamlVWnQxQTNWUzU1OG5DUHNCa1FIcnptd3ByRGlqXzlUcUU2b2ZsRm11TlVBcVU?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Komisi B DPRD Kabupaten Bandung Terima Audiensi APJK Bahas Pemanfaatan Fasilitas Pasar Ikan Modern - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDA1S2NHWnNiYmMzdm9RUXJOc2tybTJ4eDV1SFRrWWdLd0pvRVpwbjMzN3hyZ2d3S01OTldTc1dUZUhFZ0x2bmtDVWdwbFpQcmllZWdqTk5GaEwyX0hNdEpLZWJ6emFNN1Q1ZHpnOEJwTjZBb2JZU1pVTnJEQXF3LVVvLTNyeUdaS0lYRDRfNnZQd0xpNHhXTEV4MzgwQmV2REd6SVlQQzdVc2FJV3lZSHhwNWYxM2R6bEJCZFRFOE1JcDJJZHpfcmRSZzJDa29GdHJZ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRnV1dUJVYXQ2SFNReHh5b1dUZi1qSnF3cGVRbjVVQUthSWlOSkxrUmR3MHV3M2pZVmdNdElPNDMwb1JZa2x1cU9qZ0djalZIU3FYLTlYbXkxenlONTIwLS1PWHdrNEJab2M1R01kM0pxNHVibXUxZmROWGZuWGJfMmdaUVY3Um1RR0N3REpkVGFXZW11UHY4WmVuTVU3TXR5WXYwMUFkVnFBNTVId3BfdjhHeXZMQzhLM1NMU3A3bm1UY21ISHFOYTVMaEM0ZEJTTFRDcm5maG1yYkk0cW53NDZOOUZBX3lMVXA4UXpnN19DcW9idjFXNFUtczRBajNPWUVJ?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
     }
    ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      15,
-     11,
+     14,
      4
     ]
    },
@@ -243,10 +243,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Membidik Geliat Ekonomi dengan Dibukanya Penerbangan Internasional dari Bandara Husein Bandung - Tribunjabar.id",
+     "t": "DATA REALISASI INVESTASI SEMESTER 1 TAHUN 2026 DPMPTSP KABUPATEN BANDUNG - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWVsTDJfT0RZWmU2OGwtdmEtUEE4YVJha1EtT0o0MV9HSjlHeHowcUZvTXdCMTRnUDZ0ZDNsSnVfNU5HNUNNSTNnY2Uzdl85cGVQZGZqT01qRjJPYjBtY0VHT181QjFxdEFSWGY4dGJ5Y2pHMG1vMDAxZWYxM0M5OEV3M3NaS0VOZXZ3SFhnOUotZFZNZUplbEZIRkJvc3doVG1qV1hWbU9GUjhIenB6OUpwTTZ0QXpkNjhSWXlYbjMybmNNcGZ5ZUJSZ0s0cFZ1TVFhUmx2QzI2R2tHd3c?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdHBISnY1NkNfdnlaY0t5bnptRmRPZXBfSDB5SkdFMW0zS0xjaWtUZXRHeFlyZkFTWVpjSE9RNlRfQXZWUktkZ3BGNzlRYkgwN3lwUVdYZHJETmVlcHcxM0Q1ZU5vQmlZV3EyQkVDZ2c0ZHhsYWRKbWhNMTVVUnZwRE95SHUydFRHcTdFVDEtVDF5bFZlRlFVQkVlY1NEdkZtX0VHeUxmajVFcVlJdTNwckVkOVZPXzNlaWU4dWdCcWhYSDZMZXpMZmtJeHpKUTg0RElxLWNpeFBlRHY0V1FLc1dkNGNYdGJQRFZiS05EeHBIUi1tVjkw?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -269,7 +269,7 @@
     ],
     "w": [
      4,
-     15,
+     16,
      1
     ]
    },
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     14,
+     16,
      18
     ]
    },
@@ -375,12 +375,12 @@
      0
     ],
     "g": [
-     6,
+     5,
      2,
      2,
      2,
      1,
-     6,
+     7,
      1
     ]
    }
@@ -395,6 +395,12 @@
    ],
    "h": [
     {
+     "t": "Viral Remaja Menangis di Pinggir Jalan Solokanjeruk Bandung, Diduga Ditipu Pria Kenalan dari FB - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTN4WGZpQWdJQnpzbWdrU3JfenI5UVozcXR5UEU3bHZKNnB3X1p3UWNXdTZWNjZFM05GRXZBNFFpdFVTaWdlaW9ScGlYUHcyZU9NQ3dpWUg4MzBIUGlwYzFrUGgyYWpJbUt6UVN2cEdjNHJXRExpQlNEQ3RTUzZHTW85bktsVS0zTjZGZmt4Z2NjakQ3aXlRZmdoaHFIRW1JTlFWZTlPYlA3OXJncU9MdENyS1NudVk3OV9Sd0lPZVptQWJuVG13WHdyZF9uS0pod0FXTVVKVE81anZIbmZEdGhZZw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Waspada Banjir Jelang Musim Hujan, Daryono Ingatkan Risiko dari Hulu hingga Hilir - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1lXRm9TTUg4NWs5bTJITGdBbnpGbUJQVlNydlRhNXhBME5vMTFyTjlSZ2t0RDdXWEVteXdSUjZwYW9ISjFZb1JvQzBhRTRaWUZ4OFBLX0JJV0QzcU5yTmdyTHAzeG5vSFZRUHMtUmY3bmZmMXctNW1OS0dmb3Zmd0pLbjRLSVNWUnlvU2ZtYmc3RVRqVExZdEtSQmRKb0lLbjJkZkhVQ0lIS1ZLYjBxaU80RFZaRS1tWllZQnc5dGNHWnJ2?oc=5",
@@ -405,12 +411,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURLRnVGSkJReENjenJGSVBKRC1CaXR4cVZlUGdTaDY2czJXV2UzeS1IcTlCdWdSQzRBRFUtaHJIT1lkZlZhbDRUeHVYdi1IaFBEeG1uVkRNY3RXaUxEMVdJTkRSWEViX2VLNEZ0N2FNRmt3eTZrOENrMXRSQXJUOVlXdnNiWU9WbEpwNzZvM3N5Q1J1S3JsYWJ6R25vLWEwR19xdkZHRlplWUN2MEFFaWxfZ252bUZZYkFOVURJWVZJNm14MHkwSg?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmhpbm96TDQ4MGVKdTZSTXk2LUF4THFRMGRfeTlqa2poREVQY2tXZnk1dDNNcDE5SlRtQXF3d0I2Vy1MNlNYNWx1T1ZJeGZTNDdOMk1PelUzY2JSSGY3aGw0VEpqMGhJRjdiVjN4NFRaN2haQ1laRmdlclkxRjFWZnRuSlBpd05KaXp5ZXE2MDhNS2c2NHZKVHdQaU82bnEtV1NpYk5VbjBBWWg1SXZmN3hQUHhuZTg0WDlzRNIBwgFBVV95cUxQTTJkLTNLbE1uenZ2YzM0TE1PeVJxQ1ZmdEpwdFczMjh5UVJpclJQNi05VjBLODR1dmx2Tms1My10TlZkTHR3bC1CVTJVdmlRMkZRREZOMlBreElUeTREcXdEUHEtd2NqLWM1XzRiRW8yQWIzZENPMWxEZGUwMnFQTlFrOU96RG5pWHllMFZmS3MxbjdlRVhWbXRDZk1BVVJFZVBsSmlVVGFTSjFCblVEQ2pENU5qR2ZJTFRIbmhOZzUwUQ?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -421,7 +421,7 @@
     ],
     "w": [
      5,
-     4,
+     6,
      12
     ]
    },
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     8,
-     13,
-     4
+     7,
+     14,
+     5
     ]
    },
    "trend": {
@@ -518,7 +518,7 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      2,
      2,
      0,
@@ -528,7 +528,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      1,
      2,
      0,

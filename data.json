@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T11:24:07.476989+07:00",
+ "updated": "2026-10-27T12:23:00.899216+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,12 +15,16 @@
    18
   ],
   [
-   "Kompas.com",
-   15
+   "RRI.co.id",
+   12
   ],
   [
-   "RRI.co.id",
-   13
+   "Kompas.com",
+   9
+  ],
+  [
+   "PPID Kab. Bandung",
+   7
   ],
   [
    "detikcom",
@@ -31,15 +35,11 @@
    6
   ],
   [
-   "Koran Gala",
-   6
-  ],
-  [
    "ANTARA News Jawa Barat",
    6
   ],
   [
-   "jabarekspres.com",
+   "Koran Gala",
    5
   ],
   [
@@ -47,23 +47,23 @@
    4
   ],
   [
+   "Ketik",
+   4
+  ],
+  [
    "opininews.com",
    4
   ],
   [
+   "jabarekspres.com",
+   4
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Ketik",
-   3
-  ],
-  [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Jayantara News"
     },
     {
-     "t": "KDS Tekankan Optimalisasi PAD, Realisasi PBB dan BPHTB Jadi Evaluasi - Satumedia.id",
+     "t": "Berita dan Informasi kode etik asn Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVZJY2luRkY4ZGhpNTFkT3RxNDQtSjFHeDlUVjRGWEtLRkZXYkg0c2haQ0hfcnpaMmFHZWtzbFhzbE0xLVNOY2hLb21Yck8xQkU0TVZMWnVEc0dlSU9IM3U1ejVGTFJLeU1VYllWOGlzajNncDRuTG9UN2dManN6Nk1jOGVPVDkxVWd5ZnR3c1JSRjdrTEdDSlB4cmN0VE4zMVNRX1lYTQ?oc=5",
-     "r": "Satumedia.id"
+     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdGk1Zk1iZnhDS1dHbEFXVndNUE45a2huWnRlaFF3UFhncHdhRkxMSDB3d2d5ckVqNVBTeEJzQXFudEN3TmlJaXJ0ek40cC1lMGlZeE9B?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     14,
-     17,
+     13,
+     19,
      3
     ]
    },
@@ -134,10 +134,10 @@
     "p": [
      0,
      0,
-     0,
-     4,
-     6,
-     6,
+     2,
+     3,
+     5,
+     5,
      0
     ],
     "g": [
@@ -167,16 +167,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Kasus Anak 15 Tahun Tewas Dianiaya Ayah di Cicalengka, DPRD Jabar Minta Evaluasi Perlindungan Anak - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFV6eUROQmlrN3pGY0Q4ZFBjWHFuTTlwWE5VeVBVVjVlemtRNk1WbW9LbFY5cGJ4bU5CSExMa2Z6Zlhmb1l3Z0M2U21fN1hnS1F6YVNqOFVLOEQtTlBNa0NBeDBZRTNUajB4ejBQWVkyUHBHb2sxbnQyRl91a3pKcHhDaUFON2ZrcU1oUWxGbFllTW9NTkI3ZXJFSDB4YkNqMU1OOVlHaS16LXNwMFUxdjJGV0NsNDQwX3pnRDQ2UmtqUnFZOC1SS3Fpel9GNXE5eWNYRlhJZmFWb3oyaWlnQlVDSmdkdFhMS19NS3Vidno4QdIB9wFBVV95cUxQNXVyZDYyQlVPWkFwMXhqakZPOW4yTk93Y3Y1bThGZnhiYVRTa2k5T1lHcnlybFRLbWdmZ08tamZDSGJGN0VHNmtGVTNRbnF3MEFOZXJONi1hTFBlc3FqYjlaR2thRVlncEZwelg2RjNhSzFxY3pMNmlDZjN2TmhhaW5makdQZDJ5bXpBVHYtZUJ4MDE4Y05QLTNGdEdPVnNzb0pFZ3JxOV9rYW1pZ2xWUndJdnRCNXY1WE1ObFEyRzBPQU5YN3I4NEFVNHllUkVjMENVNjZGcXlPNGRkSXJfQ1VWTlN5VVZfN0VSMWNhcEFoNU9iRVBV?oc=5",
-     "r": "Radio PRFM"
-    },
-    {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      16,
      11,
-     5
+     4
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     1
+     0
     ]
    }
   },
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "Membidik Geliat Ekonomi dengan Dibukanya Penerbangan Internasional dari Bandara Husein Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWVsTDJfT0RZWmU2OGwtdmEtUEE4YVJha1EtT0o0MV9HSjlHeHowcUZvTXdCMTRnUDZ0ZDNsSnVfNU5HNUNNSTNnY2Uzdl85cGVQZGZqT01qRjJPYjBtY0VHT181QjFxdEFSWGY4dGJ5Y2pHMG1vMDAxZWYxM0M5OEV3M3NaS0VOZXZ3SFhnOUotZFZNZUplbEZIRkJvc3doVG1qV1hWbU9GUjhIenB6OUpwTTZ0QXpkNjhSWXlYbjMybmNNcGZ5ZUJSZ0s0cFZ1TVFhUmx2QzI2R2tHd3c?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Tiket Persib Bandung vs Isenmulang Kalteng FC Sudah Dijual via bank bjb, Harga Mulai Rp125 Ribu - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFVxdHhzZnNaRHRudWxUZVR5NkJUSnRRQ2k1VUtBRHc3d0dpQ1Bpc2tQRjJkQ29qcmhZRVIwVmt1eEJGbk9OOHZGak9WUEJrS2M3VTFmYVJ0clNURUhjOXJFVXdNTjBmWUhDTS0tOS1pTkc2UmNBQmdWWndOU1FnXzRYbVoyMWFFbVUyd0gzU2JQRi1OcnBnNXEwMy05Q3JaTmI3eXZGTWVDVFN6UXViM1JwWlgyWFFqZzY3LWJ3ZVVMaHpRczRESnJFSURUQl9YcDljb0VGUko?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Telkom Indonesia Raih Penghargaan Keberlanjutan Global Reuters Events 2026 - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUdFQlRqYUxDcWwtbUlyQ2lDOVdJd3o2VTNkbkxzb3B5T1ozZFIwZ2ZmSXhfTnQ4UUNUYjZIQk9aLUU3cDc1VWpYVHI5bzdxVF95VUtkX3lpVWFPZm1Xal9DNzF3R0p3d09wRTkxVzctOGRYR3F1UkpTVjZ5d2xDcUY0cS1wQTFOWVNxdFBzZjlPVGlOMlNCcWVqYThMTGJIeHFiYjdpQnU1TXRMZ1BVQzdwMHVlNXhD0gG-AUFVX3lxTE1wU2hKUEtSejZ5UmlBa09vY2dXeTlZbFFXeUoxTHhZWEZacDBKNWZheTJNLW9tSEJOWmRnWGpWR1RsVlJ1cER6eVRUcE03bEIwYjJlbGZtTmp4eGcycHlXcEYzOFVNeWZjRFZUYTJyVThKakRwQkxYcHI1SzZ6Zl9aY2lON0p5U0t2MzhGVFluSDMzLUpodzRza0pob0t1ZjRmVGJmbVZVT2g4ZER4SDNCQVN6cUw4ZC1RZGRUTVE?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Divre II Perkuat Keselamatan Peran Kereta Ekonomi Daerah - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0UzWjlkazZCTFlYbE4zd0RVQzlKRGV1OW53dExIZ2w3eXExUHZGbWxTZnFZYWFCdDRka0VWTTNyOFo3b3Ewd1cxSmVqRmJRS0VzN05FSWZSS0VLd3dPMTUyNUhNWTJTaUlPZklWU1FDRy1VTERsNUYxTVMyVkYzY1BRM1l0VW43M2ZnZWZkcXVZNVdtLU16SWpOcWpIQ1c1?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Wawancara Eksklusif Kadisnaker Bandung Yayan Ahmad Brilyana: Jurus Magang Pangkas Pengangguran - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmd6SnlYczZOcURPc0o1cnNuTmxVVDVjU2I2UGllVDBNUmJRaVpmOHdFd2NPeXNyb0Z0RzU0MUx6MWtIbVB6Y0c4a1ZFVnpqSmJianB2RXBlWHE5U2hjODJnQ3NKRHFmX0lLNWo4b0RqQ2hQcnk0ZXVFNG9qRnplS1J3VmNPTFdfUHpDR2x0ZVVMTGRyY0dIaUp3bmJrczM3cDVBR3FQb2FuVHhuUjNEWll3QXB3ZTJrUzllejVmYmJpT2NMY09MMndvR1ZmZFpGMXJDUzJzVG1TODZF?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -269,7 +269,7 @@
     ],
     "w": [
      4,
-     12,
+     14,
      1
     ]
    },
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     17,
-     16
+     13,
+     14
     ]
    },
    "trend": {
@@ -377,10 +377,10 @@
     "g": [
      4,
      1,
-     3,
+     2,
      2,
      1,
-     7,
+     6,
      0
     ]
    }
@@ -395,6 +395,12 @@
    ],
    "h": [
     {
+     "t": "Waspada Banjir Jelang Musim Hujan, Daryono Ingatkan Risiko dari Hulu hingga Hilir - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1lXRm9TTUg4NWs5bTJITGdBbnpGbUJQVlNydlRhNXhBME5vMTFyTjlSZ2t0RDdXWEVteXdSUjZwYW9ISjFZb1JvQzBhRTRaWUZ4OFBLX0JJV0QzcU5yTmdyTHAzeG5vSFZRUHMtUmY3bmZmMXctNW1OS0dmb3Zmd0pLbjRLSVNWUnlvU2ZtYmc3RVRqVExZdEtSQmRKb0lLbjJkZkhVQ0lIS1ZLYjBxaU80RFZaRS1tWllZQnc5dGNHWnJ2?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "El Nino Bukan Berarti Bebas Hujan Deras, Ancaman Banjir dan Longsor Menghantui Jabar - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURLRnVGSkJReENjenJGSVBKRC1CaXR4cVZlUGdTaDY2czJXV2UzeS1IcTlCdWdSQzRBRFUtaHJIT1lkZlZhbDRUeHVYdi1IaFBEeG1uVkRNY3RXaUxEMVdJTkRSWEViX2VLNEZ0N2FNRmt3eTZrOENrMXRSQXJUOVlXdnNiWU9WbEpwNzZvM3N5Q1J1S3JsYWJ6R25vLWEwR19xdkZHRlplWUN2MEFFaWxfZ252bUZZYkFOVURJWVZJNm14MHkwSg?oc=5",
@@ -405,12 +411,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtYw?oc=5",
      "r": "ayobandung.com"
-    },
-    {
-     "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -421,7 +421,7 @@
     ],
     "w": [
      5,
-     4,
+     5,
      10
     ]
    },
@@ -447,11 +447,11 @@
     "g": [
      0,
      0,
-     5,
+     4,
      3,
      0,
      0,
-     2
+     3
     ]
    }
   },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     8,
-     15,
+     6,
+     14,
      5
     ]
    },
@@ -522,8 +522,8 @@
      2,
      2,
      0,
-     1,
-     4,
+     0,
+     3,
      0
     ],
     "g": [

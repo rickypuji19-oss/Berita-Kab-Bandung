@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:37:49.049829+07:00",
+ "updated": "2026-10-27T15:30:15.486345+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   18
   ],
   [
    "RRI.co.id",
@@ -20,15 +20,15 @@
   ],
   [
    "Kompas.com",
-   9
-  ],
-  [
-   "Koran Gala",
-   8
+   10
   ],
   [
    "detikcom",
    7
+  ],
+  [
+   "Koran Gala",
+   6
   ],
   [
    "Radar Bandung",
@@ -39,15 +39,15 @@
    6
   ],
   [
-   "opininews.com",
-   4
+   "PPID Kab. Bandung",
+   5
   ],
   [
    "jabarekspres.com",
-   4
+   5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "opininews.com",
    4
   ],
   [
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "PPID Kab. Bandung",
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     10,
-     15,
+     9,
+     13,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     6,
+     5,
      5,
      0
     ],
@@ -167,16 +167,16 @@
      "r": "Pemerintah Kabupaten Bandung"
     },
     {
+     "t": "Kasus Anak 15 Tahun Tewas Dianiaya Ayah di Cicalengka, DPRD Jabar Minta Evaluasi Perlindungan Anak - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFV6eUROQmlrN3pGY0Q4ZFBjWHFuTTlwWE5VeVBVVjVlemtRNk1WbW9LbFY5cGJ4bU5CSExMa2Z6Zlhmb1l3Z0M2U21fN1hnS1F6YVNqOFVLOEQtTlBNa0NBeDBZRTNUajB4ejBQWVkyUHBHb2sxbnQyRl91a3pKcHhDaUFON2ZrcU1oUWxGbFllTW9NTkI3ZXJFSDB4YkNqMU1OOVlHaS16LXNwMFUxdjJGV0NsNDQwX3pnRDQ2UmtqUnFZOC1SS3Fpel9GNXE5eWNYRlhJZmFWb3oyaWlnQlVDSmdkdFhMS19NS3Vidno4QdIB9wFBVV95cUxQNXVyZDYyQlVPWkFwMXhqakZPOW4yTk93Y3Y1bThGZnhiYVRTa2k5T1lHcnlybFRLbWdmZ08tamZDSGJGN0VHNmtGVTNRbnF3MEFOZXJONi1hTFBlc3FqYjlaR2thRVlncEZwelg2RjNhSzFxY3pMNmlDZjN2TmhhaW5makdQZDJ5bXpBVHYtZUJ4MDE4Y05QLTNGdEdPVnNzb0pFZ3JxOV9rYW1pZ2xWUndJdnRCNXY1WE1ObFEyRzBPQU5YN3I4NEFVNHllUkVjMENVNjZGcXlPNGRkSXJfQ1VWTlN5VVZfN0VSMWNhcEFoNU9iRVBV?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Seorang anak tewas dianiaya di Cicalengka, DPRD Jabar Desak Intervensi - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     }
    ],
    "v": {
@@ -188,7 +188,7 @@
     "w": [
      16,
      11,
-     4
+     5
     ]
    },
    "trend": {
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     0
+     1
     ]
    }
   },
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     2,
+     4,
      15,
      1
     ]
@@ -285,11 +285,11 @@
     ],
     "p": [
      0,
-     1,
+     2,
      0,
      0,
      2,
-     0,
+     1,
      0
     ],
     "g": [
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     13,
-     14
+     15,
+     15
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0
     ],
     "g": [
-     4,
+     5,
      1,
      2,
      2,
@@ -407,10 +407,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - ayobandung.com",
+     "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtYw?oc=5",
-     "r": "ayobandung.com"
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtY9IBuAFBVV95cUxPSEI3X1pvNVhSU0l5bzhXOHFWYmVKNVpXRVYzbDVVYVFWN3diNVNMWnpGN3ZVMDAxV2p4YjN5Ql8yLUJOdVF3ZEp5YzdxMTZ1QUI0WXhROGU2WmlJZTVGNEZMYVFfMzBpY1ZSZlRNNWNMbWVjWTlVT1ZwR3V4dlAzY1IxUDlKMTVBQ0JOVU5EYXJ3ODBkVUdaNnBJTVByUTl4cU1fN2dySi1jbmZ4cmh6RjE4MXJwY0N3?oc=5",
+     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     6,
+     9,
      16,
      5
     ]
@@ -520,10 +520,10 @@
     "p": [
      1,
      2,
-     1,
+     3,
      0,
      1,
-     3,
+     4,
      0
     ],
     "g": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T17:28:09.319296+07:00",
+ "updated": "2026-10-27T18:26:40.553092+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   21
   ],
   [
    "Ayo Bandung",
-   15
+   19
   ],
   [
    "RRI.co.id",
-   10
+   14
   ],
   [
    "Kompas.com",
-   10
+   11
   ],
   [
    "detikcom",
@@ -43,12 +43,8 @@
    5
   ],
   [
-   "opininews.com",
-   4
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
-   3
+   4
   ],
   [
    "Satumedia.id",
@@ -60,6 +56,10 @@
   ],
   [
    "Jurnal Soreang",
+   3
+  ],
+  [
+   "opininews.com",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Setahun Tertahan, Investasi Kabupaten Bandung Terhambat Aturan LSD - dialogpublik.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUdNTVhsQ2xsMVFSaS13M3o2Y0NabEZlbmN5NGR2bnp3LXd4UmJWNFBQWUlzRmM3Tlg1TGhNa21Xdll6VXVZNUpwXzZfV0FVR1FneVBjcWdFTkFncXNQNVAyU1NIaGEzdjVwN3otZ0tmenp5MWhZZGFIem5obEZxa0lWN21TR1NacEk0RTV0dUR4Z3dCZlE?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Miris! Rumah 4x5 Meter di Bandung Dihuni 8 Orang - Fokus Jabar",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWM5Wkxxc25nT0MzZmNmNlRta3lIOFoxM2JlNGxVM21HaVJld2Z4MHdkN2VoRjFaZHZKem4wTFhpZERrcTl3SGtraENMZ05QekwtaFR6bjNyLWh2Nnk1NFd0NzFBYS1NZ1RpUEZsWExibGxVbS12dF9iLUZYOGdIQjNUOV9DZGV0?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzhUa0diLXdnQWVDOHdyVHhXeEN6T2pGQ01EU1ltWm52cHB4bWE4bTktaVFUc05Pc0x4dkVtVFNsWnhfSENlVlBHX3ZjY3NtTWwyNzBfQzZKTndlZm1wcVY2MkRtaG1aZmE2S2UxR1J6a0Y4eDkzTS0tSFFzUEc4VnBnLVRLdU41TlhfSTJqejRoTlU3S2Z6ODBsN0hMeXQ2Xzg2VFhTaHhGbXZmQlpETUN2b18xOVQ3MFcwYnV2RnNXSEN5S01MSDN5RjFUdHNnZG9BNFE2cw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Banggar DPRD Kabupaten Bandung Bahas Tindak Lanjut Evaluasi Gubernur atas Perubahan APBD 2026 - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUliaHZaTzAyeDRTSzNLS2I2bm1pMC1XWDQxamRBSXdZY2RaVVUyWGJCbU1McVlLeTB5cDVLeXc3ZGVFYlhrVDhGY3lwenNubXBRZ1NGZTRXUWpmOC16OVp0LUJyVVNMSUN4bjhHM2g0dFhvUGI5bGFueUExTVRoSDdienlhN3BmQW9TUHcxNnJYWnRGaWhybko0em9hbV9zRng3UTByZVVvWmc4YzBhMk5XQUJUemtWeHNEdVBPTll1c0dnN0NNRnhraUc?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     5,
+     3,
      17,
      1
     ]
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     6,
+     4,
      0
     ],
     "g": [
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Perumda Tirta Raharja Bahas Penyesuaian Tarif Air Minum 2027, Dirut A.Teddy Setiabudi Ungkap Penyebab Kenaikan - Jurnal Soreang",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2ItaEdCZ3VBMGI0OEx5Q3paSHh4RTFya1RBd3dWeXVGWmc5RmxEcUUyVXAxUE1haF9HeDRrT050Smo2MW9UOFNSdS1QcWFtRFRJUXFtZHQ3NFA4dGViZUZIRnQtem8zRWt4LVlmNlNUbDJjOUNXWjQtaGllRFVaYktUYlNpLUptTEhoTW9MOXhDUVBuLS00cHJxY05qNnBWWHBuaDk5ajBXWHozVVQ4Vk1pWEtoRXp5ejZMOFJMa1k5VFZacWc4anNOTVhyY2NJUWdrXzFIaGdNam9SQzFfdm02WWJHRm56N0NUWGxvSDJ5NlN3VVFsRWpORlE4eVXSAYQCQVVfeXFMTWNjSVpSRjkxR2ZuR1FMVEJNUVY5elZEc3Z5VUNkQVVkUHo1bVJGMnN0M2wwdzVIY2thVlhjbTNpMnZVS1czaHJKNnlUeW1lTEJnR1RlOERxZUpDZ2ZReWlrNy1Bem1heGhhVWp2SFc4YkFUMzRRYWFxTjBLaVdHTkk3UkV0QTNQLVRLSXdUdDctVm40bC1yNk5TM0FIUFdsa2E3QVVVOUZzOXJCNkN1WXRHV29oYmJ0Y2pQeVp6eVRiYUp6SWNIM1hNRlRiSE9uVVJDM28wamlVWnQxQTNWUzU1OG5DUHNCa1FIcnptd3ByRGlqXzlUcUU2b2ZsRm11TlVBcVU?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDA1S2NHWnNiYmMzdm9RUXJOc2tybTJ4eDV1SFRrWWdLd0pvRVpwbjMzN3hyZ2d3S01OTldTc1dUZUhFZ0x2bmtDVWdwbFpQcmllZWdqTk5GaEwyX0hNdEpLZWJ6emFNN1Q1ZHpnOEJwTjZBb2JZU1pVTnJEQXF3LVVvLTNyeUdaS0lYRDRfNnZQd0xpNHhXTEV4MzgwQmV2REd6SVlQQzdVc2FJV3lZSHhwNWYxM2R6bEJCZFRFOE1JcDJJZHpfcmRSZzJDa29GdHJZ?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Kasus Anak 15 Tahun Tewas Dianiaya Ayah di Cicalengka, DPRD Jabar Minta Evaluasi Perlindungan Anak - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFV6eUROQmlrN3pGY0Q4ZFBjWHFuTTlwWE5VeVBVVjVlemtRNk1WbW9LbFY5cGJ4bU5CSExMa2Z6Zlhmb1l3Z0M2U21fN1hnS1F6YVNqOFVLOEQtTlBNa0NBeDBZRTNUajB4ejBQWVkyUHBHb2sxbnQyRl91a3pKcHhDaUFON2ZrcU1oUWxGbFllTW9NTkI3ZXJFSDB4YkNqMU1OOVlHaS16LXNwMFUxdjJGV0NsNDQwX3pnRDQ2UmtqUnFZOC1SS3Fpel9GNXE5eWNYRlhJZmFWb3oyaWlnQlVDSmdkdFhMS19NS3Vidno4QdIB9wFBVV95cUxQNXVyZDYyQlVPWkFwMXhqakZPOW4yTk93Y3Y1bThGZnhiYVRTa2k5T1lHcnlybFRLbWdmZ08tamZDSGJGN0VHNmtGVTNRbnF3MEFOZXJONi1hTFBlc3FqYjlaR2thRVlncEZwelg2RjNhSzFxY3pMNmlDZjN2TmhhaW5makdQZDJ5bXpBVHYtZUJ4MDE4Y05QLTNGdEdPVnNzb0pFZ3JxOV9rYW1pZ2xWUndJdnRCNXY1WE1ObFEyRzBPQU5YN3I4NEFVNHllUkVjMENVNjZGcXlPNGRkSXJfQ1VWTlN5VVZfN0VSMWNhcEFoNU9iRVBV?oc=5",
-     "r": "Radio PRFM"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     14,
-     12,
-     5
+     15,
+     11,
+     4
     ]
    },
    "trend": {
@@ -203,12 +203,12 @@
     ],
     "p": [
      5,
-     2,
-     1,
+     3,
+     0,
      3,
      1,
      1,
-     1
+     2
     ],
     "g": [
      2,
@@ -217,7 +217,7 @@
      0,
      1,
      0,
-     1
+     0
     ]
    }
   },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Polisi: Pabrik Tramadol di Kopo Bandung Raup Potensi Omzet Kotor Rp8 Miliar per Hari - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONG9KOGVpQkF5Y0w0bzgySENJSG1ZeXZXaDc1bXhKbmZ6eE5sQ0UxeDY4NnN1V0V4ZmZmdk03YUREbVFmMVlqQTRBUVc4OUI0MEJzM1FhY3RFR1RBZFRLZ1gzMm14VlZ6Nk5iODJLN0d6YnJCQVR4RE1DeGkxNjh5QlM1RW5DU0VrMUp6TDRDQllOQTgyX2dyUFRvbFB0TjBtUWo1YnRzTHhXYUZaNDUwR1Q0NFhnWFNtbzBNQzMyd0xkRDduSG9EcjB2MmxmRUprbGc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Update Gerebek Pabrik Obat Keras Ilegal di Kopo Bandung: Pelaku Utama Berinisial IS Diburu - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmJOYi12dDdtbFhlMXNoRHpnelhPWTd4aGI4ZkFfakh0dWlDMC1CX1dfTjhaTEZxSUszQkh3TGliN0hLaXlMWGNZMEwwTExlZlNwYmhVb1FudjFrSi1paWpKT3dKM2dUNkNFak9SQUtRWGRjYVY1VkdsRENKYWUzQWZSTnAxdVZ2Q3J4dTI1THFDRW5pQ1BrbmRIX2l5Zm52YXJmOTIxN1pab1lfUnM0ekUwWXoxbTFscUtoMDFTYU9QNDhlREFGYjk4UWlUYnJldHdJdkFZRQ?oc=5",
@@ -240,12 +246,6 @@
      "t": "Membidik Geliat Ekonomi dengan Dibukanya Penerbangan Internasional dari Bandara Husein Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWVsTDJfT0RZWmU2OGwtdmEtUEE4YVJha1EtT0o0MV9HSjlHeHowcUZvTXdCMTRnUDZ0ZDNsSnVfNU5HNUNNSTNnY2Uzdl85cGVQZGZqT01qRjJPYjBtY0VHT181QjFxdEFSWGY4dGJ5Y2pHMG1vMDAxZWYxM0M5OEV3M3NaS0VOZXZ3SFhnOUotZFZNZUplbEZIRkJvc3doVG1qV1hWbU9GUjhIenB6OUpwTTZ0QXpkNjhSWXlYbjMybmNNcGZ5ZUJSZ0s0cFZ1TVFhUmx2QzI2R2tHd3c?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Tiket Persib Bandung vs Isenmulang Kalteng FC Sudah Dijual via bank bjb, Harga Mulai Rp125 Ribu - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFVxdHhzZnNaRHRudWxUZVR5NkJUSnRRQ2k1VUtBRHc3d0dpQ1Bpc2tQRjJkQ29qcmhZRVIwVmt1eEJGbk9OOHZGak9WUEJrS2M3VTFmYVJ0clNURUhjOXJFVXdNTjBmWUhDTS0tOS1pTkc2UmNBQmdWWndOU1FnXzRYbVoyMWFFbVUyd0gzU2JQRi1OcnBnNXEwMy05Q3JaTmI3eXZGTWVDVFN6UXViM1JwWlgyWFFqZzY3LWJ3ZVVMaHpRczRESnJFSURUQl9YcDljb0VGUko?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     5,
-     14,
+     4,
+     15,
      1
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     3,
+     2,
      0,
      0,
      2,
@@ -313,10 +313,10 @@
    ],
    "h": [
     {
-     "t": "BREAKING NEWS Pelaku Pengeroyokan Maut di Pasar Caringin Bandung Ditangkap, Tidak Cuma Satu - Tribunjabar.id",
+     "t": "Omzet Pabrik Obat-obatan Ilegal di Bandung Capai Rp8 M, Polisi Buru Tersangka Lainnya - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTnZsSGlJWlIzN1NrN241LUZUbm95R1lhRzVVU2xfdl9EX1JvOHJfbHRGQXJKZElSWmcta0pZb3EwM2xhWHotLWtRTFFHWXQyRzBmVm1xbUV1bFE5aGhTcGpuX0NjOVZ5bmdBWU5KUVktd1NYMk5pNHZTcmtrWDV5M3BYcXVvRWR3aVY4TmpKNUU3aldwMzBCRE5Mejh3aXBRem5va1plUTFpR0pxUnpRX19pQ2FWTFBjTHRkQnJfTHBwUlJVcjZMUWVZNjN2SzBURGVHdUdUZWY?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVRYWVhOdnFXQUtQMWZKb0dtRU02UWcweHJhM1dPMUlvU1ExU1RuMFhuZFdBVVFzTUwzZUFKSlpxSUV0Yjl1UnY5UXg5Q2FLZXJvU2RoRU5pVlVLRkNsTmgtekxfaE9IWFZEMVJUaGFOSUFXLTdmbW9iSXplNzNlQkxqRXlYWmxxSjNyNWx5YmhrQXhpV1JfY1JXaXBKTEg4VmowQTZjZm9lTzVmUzl1eWZlbnNHblJka3dscFN1ZVpEaUhHTHRrc1NfclBMVm5I0gHWAUFVX3lxTE9xb1pteDUyZ0dSTGpLUWJSWGZ0QzlJa1VaNTZaaTdjV1hPQlFJR010aHFiYTVpZ3NtY2ljOXM0RWk5eFhQLTdGTWMwYmtTTHNrUHpQX3NGcVl0bVB1eEVqbzhlcWNfQld0bC1ZNFRjNUdlMnJNSVF4OGRtbEhOZ2hNVWV0R3hVRDZQME1LQUNJTHcxODBCT05JdmdSSWM3SWVMSkJJSW5ldks0TUtfVEQyUDI2SHI0MDd6Zm1vcjd4WHExS3FTdm5NNjJHY1prVnlrZlVEdXc?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Sidang Taufik Hidayat: Keluarga YTR Bersaksi, Korban Belum Dipastikan Hadir di Persidangan - Tribunjabar.id",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     12,
-     16
+     14,
+     18
     ]
    },
    "trend": {
@@ -375,8 +375,8 @@
      0
     ],
     "g": [
-     5,
-     1,
+     6,
+     2,
      2,
      2,
      1,
@@ -409,7 +409,7 @@
     {
      "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtY9IBuAFBVV95cUxPSEI3X1pvNVhSU0l5bzhXOHFWYmVKNVpXRVYzbDVVYVFWN3diNVNMWnpGN3ZVMDAxV2p4YjN5Ql8yLUJOdVF3ZEp5YzdxMTZ1QUI0WXhROGU2WmlJZTVGNEZMYVFfMzBpY1ZSZlRNNWNMbWVjWTlVT1ZwR3V4dlAzY1IxUDlKMTVBQ0JOVU5EYXJ3ODBkVUdaNnBJTVByUTl4cU1fN2dySi1jbmZ4cmh6RjE4MXJwY0N3?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmhpbm96TDQ4MGVKdTZSTXk2LUF4THFRMGRfeTlqa2poREVQY2tXZnk1dDNNcDE5SlRtQXF3d0I2Vy1MNlNYNWx1T1ZJeGZTNDdOMk1PelUzY2JSSGY3aGw0VEpqMGhJRjdiVjN4NFRaN2haQ1laRmdlclkxRjFWZnRuSlBpd05KaXp5ZXE2MDhNS2c2NHZKVHdQaU82bnEtV1NpYk5VbjBBWWg1SXZmN3hQUHhuZTg0WDlzRNIBwgFBVV95cUxQTTJkLTNLbE1uenZ2YzM0TE1PeVJxQ1ZmdEpwdFczMjh5UVJpclJQNi05VjBLODR1dmx2Tms1My10TlZkTHR3bC1CVTJVdmlRMkZRREZOMlBreElUeTREcXdEUHEtd2NqLWM1XzRiRW8yQWIzZENPMWxEZGUwMnFQTlFrOU96RG5pWHllMFZmS3MxbjdlRVhWbXRDZk1BVVJFZVBsSmlVVGFTSjFCblVEQ2pENU5qR2ZJTFRIbmhOZzUwUQ?oc=5",
      "r": "Ayo Bandung"
     }
    ],
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     3,
-     9
+     4,
+     12
     ]
    },
    "trend": {
@@ -446,12 +446,12 @@
     ],
     "g": [
      0,
-     0,
+     1,
+     4,
      3,
-     3,
      0,
      0,
-     3
+     4
     ]
    }
   },
@@ -471,16 +471,16 @@
      "r": "deJurnal.com"
     },
     {
+     "t": "Nestapa Keluarga di Pacet Bandung: Hidup dalam Cengkeraman Kemiskinan Ekstrem dan Gangguan Kejiwaan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdGxQbUJ2TDRFM243LTZYUVhLc3dmOEtmbmNOOXRUekkxMGJuQlpZTHY5QlpjUzFTWnBSWEcxRko0X3dtNldmdmtGYTB0UUhKYUtNc1RtRFV2MDktN1p2dEsybHZZZFhyeC1nbEx3T2ZyRmlZWVFwbUhHN29sY0cybjljc3VERFVuUTdWU2hHeHhlWUtpZnFKSVg0TkZNazJVcEZkLWVqSk5VY29uVzFUTWloVVh5YlQ2QzYxRjBSLUFPUENxSVNNcnRqS0JhemJreTBTeA?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "GBSI ke-5 MGMP Bahasa Indonesia Kabupaten Bandung Digelar, Siswa dan Guru Unjuk Kreativitas - deJurnal.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVZyNTJuN3RkQjNab09yMktiR0FoeTc5T253aW4xLWRjQVNSNGhXU0VWWFlEWml6eXB2RnRGYUZjOWhxY0JUYUdrNW5HWnVQeUpsTGF5Z1g4SGJnVXZuZ3Z4Q1VRRV9FYkUzR0xtUG96VmY3cmNGbVRVSEhrblhYdVk3eWQybXZwU2w3YmxVR214Sjc3ZUZ1OVM2X2Z0QWd6aG8wLTA5aGtLOVFncXR0c3l5dTVqWHZtMmFfaQ?oc=5",
      "r": "deJurnal.com"
-    },
-    {
-     "t": "Ribuan Mahasiswa Telkom University Diterjunkan Tangani Sampah di Kabupaten Bandung - Berita KBB",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVQ2TElLQW81MHBteDBydm5zM1ZSYXM4dERlNU53VXRJUmc1elk1eTNhNktJYnFsRU9JTHJOQmVqdHpYSDRjUWxCRDZSekw3OER0aDdBVFMzZV96WTlET1dCQmVKNkhsWmptd3F2MXlfdDY0aVE4RDlkc3VIN19MSU9jOGhBM3NyT0VXRG9RUGVnNnFBR2FYSDVYdF8taEZ5MTVFWTRYVHBSZnpfUk00MnV4V0NaZm54LU9hdXZ3ZDVyYWhsZFdGLU9TZURfTlFzWHhtS2RnRnZBaXR10gHiAUFVX3lxTE1oQ0JNSTlhRThoWE5yWldzRWtha0tzdlYtOVFpcmpRZzcycExNY3ZNaEdUUXpsejhEcFZuN0hsbGN5c25OWlJIYzRrWm9jbVVmSEdWQzBvR1B5eW9sWkNkNXFka1MwRW8xLTQwS3R3T2FSWUpwM0JjNVFEMEVxOGU1VkZnRS1JWXlWeXgtVlFXU1h0NlVrY3NIRXRLY0NBY3NEejZVcTlWTWNoTGFzcWY2b0ZHRGJiU2t5SVowV2pMSkd2ZHYtOHVMalpQdVNLNDNhRmNILVlleU9GLUpsWUhmbUE?oc=5",
-     "r": "Berita KBB"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     9,
-     11,
-     5
+     8,
+     13,
+     4
     ]
    },
    "trend": {
@@ -523,17 +523,17 @@
      2,
      0,
      1,
-     4,
+     3,
      1
     ],
     "g": [
-     1,
-     1,
+     0,
+     0,
      1,
      2,
      0,
      0,
-     0
+     1
     ]
    }
   }

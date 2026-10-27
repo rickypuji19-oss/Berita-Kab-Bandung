@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:38:14.549239+07:00",
+ "updated": "2026-10-27T22:36:33.371020+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "Ayo Bandung",
-   16
+   18
   ],
   [
    "Kompas.com",
@@ -23,20 +23,16 @@
    11
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   10
-  ],
-  [
    "ANTARA News Jawa Barat",
-   9
-  ],
-  [
-   "PPID Kab. Bandung",
-   7
+   8
   ],
   [
    "detikcom",
    7
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   5
   ],
   [
    "Koran Gala",
@@ -51,6 +47,10 @@
    5
   ],
   [
+   "PPID Kab. Bandung",
+   5
+  ],
+  [
    "Satumedia.id",
    4
   ],
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Disway",
+   "Inilahkoran.id",
    3
   ],
   [
-   "Ketik",
+   "Disway",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Kaji Kenaikan Tarif Air Minum Tirta Raharja pada 2027, Kemampuan Masyarakat Jadi Pertimbangan - pantau.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2dpcnVNRmtTUlhnZXRYbVlQUG5fa0RVYnhNTUxHcjI0ZzN0RWhCSk1jZEI5a0JrTnRkY2xaNkZDOWpkeVp3QkVVemJ0UmRBX095Z2xvVkhaY1c4SG5BOU5BWHR2YVliQl9ZZTVsQ3dpU0oxTXI2eXNNWVhPcko1cG5YN2lNcVZ2ZlZwQl9rcmJhN3ozc2hQYVZmOFJQcjEzTDVsWE0xSElVYVZ3YVFpaXVxMGdqU2xBVlYzQ2RtOHpHUmdXMHlwZGtYeWNLaXJ5dUgzLTN5VjZtTDQ1b0E?oc=5",
+     "r": "pantau.com"
+    },
+    {
      "t": "Tarif PDAM Tirta Raharja Kabupaten Bandung Bakal Naik pada 2027, Ini Pertimbangannya - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVmQm5mbnBzdlZ3Nk0xN1g0SktDdUE3Q2h1UlVaVzQxZnZIX1cxMmtjYnVBdnZkS25nQkpMemRxZXpYcUdpLV9GY2xuQnVqU2F4WDJOVjZwX21pVmp1bUM0V2ZCN05qNnJzTy1qVWxtQUt1SUhKTnUwQ3ZJRi1GNzY3am9rVDJPc2tISEpoUkZMNHlJbDNBRFdVWE9nS2FVeWRscWlQR1NxQXJZbWk0QUlHZlRueVhpRGNleg?oc=5",
@@ -88,12 +94,6 @@
      "t": "Pemkab Bandung mengevaluasi retribusi untuk kejar target pendapatan 2026 - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnZaNWVmVExka25xcGV1cUk4RWlpcUsyczlxQzVKLUNIbzZfLUV0aHZUcjhzZ3pvNFdfNmZubGd2OHJWVW5OdVhjZWlEd3pTSWRfOER6RXFMWVJma0M2SnNGcEgtLUxuNkZrTG9vLVd1YTNqU3hNdk4xeFRvUlQ2MFlsOVI4dnNxOUJQOWo0dGxhaC1WblMtWTdlaVR5ajI1OWdFbXdzTUV4aGs1WFc0LUttdWJWZ9IBuwFBVV95cUxPcW9fdG5kTS1WaEVVUzAxYWJqOHBOM0J1Sk1pMlJlR2o5SVZQUTRxajdvN3JUWTAxcHpKUW1lajkwYmFXWWQ4TGphN2RDS1lkY1pQbWNMc0ZoMVRUMGlxQ1VuQU1nUmdDOUFfQnNndjM5bmpVZURoZWJJTk9EX2ZoOFEyMG1IYzM5NU9pcG5RV0NncUhtU0h6czBlUjJoVTFfbmNoRjZvTXNHd25kcXkyN1RYM3FTdzlPOXNz?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pemkab Bandung mengevaluasi retribusi untuk kejar target pendapatan 2026 - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcW9fdG5kTS1WaEVVUzAxYWJqOHBOM0J1Sk1pMlJlR2o5SVZQUTRxajdvN3JUWTAxcHpKUW1lajkwYmFXWWQ4TGphN2RDS1lkY1pQbWNMc0ZoMVRUMGlxQ1VuQU1nUmdDOUFfQnNndjM5bmpVZURoZWJJTk9EX2ZoOFEyMG1IYzM5NU9pcG5RV0NncUhtU0h6czBlUjJoVTFfbmNoRjZvTXNHd25kcXkyN1RYM3FTdzlPOXNz0gG7AUFVX3lxTE9xb190bmRNLVZoRVVTMDFhYmo4cE4zQnVKTWkyUmVHajlJVlBRNHFqN283clRZMDFwekpRbWVqOTBiYVdZZDhMamE3ZENLWWRjWlBtY0xzRmgxVFQwaXFDVW5BTWdSZ0M5QV9Cc2d2MzlualVlRGhlYklOT0RfZmg4UTIwbUhjMzk1T2lwblFXQ2dxSG1TSHpzMGVSMmhVMV9uY2hGNm9Nc0d3bmRxeTI3VFgzcVN3OU85c3M?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     24,
+     18,
      1
     ]
    },
@@ -315,7 +315,7 @@
     {
      "t": "Omzet Pabrik Obat-obatan Ilegal di Bandung Capai Rp8 M, Polisi Buru Tersangka Lainnya - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcW9abXg1MmdHUkxqS1FiUlhmdEM5SWtVWjU2Wmk3Y1dYT0JRSUdNdGhxYmE1aWdzbWNpYzlzNEVpOXhYUC03Rk1jMGJrU0xza1B6UF9zRnFZdG1QdXhFam84ZXFjX0JXdGwtWTRUYzVHZTJyTUlReDhkbWxITmdoTVVldEd4VUQ2UDBNS0FDSUx3MTgwQk9OSXZnUkljN0llTEpCSUluZXZLNE1LX1REMlAyNkhyNDA3emZtb3I3eFhxMUtxU3ZuTTYyR2Naa1Z5a2ZVRHV30gHWAUFVX3lxTE9xb1pteDUyZ0dSTGpLUWJSWGZ0QzlJa1VaNTZaaTdjV1hPQlFJR010aHFiYTVpZ3NtY2ljOXM0RWk5eFhQLTdGTWMwYmtTTHNrUHpQX3NGcVl0bVB1eEVqbzhlcWNfQld0bC1ZNFRjNUdlMnJNSVF4OGRtbEhOZ2hNVWV0R3hVRDZQME1LQUNJTHcxODBCT05JdmdSSWM3SWVMSkJJSW5ldks0TUtfVEQyUDI2SHI0MDd6Zm1vcjd4WHExS3FTdm5NNjJHY1prVnlrZlVEdXc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVRYWVhOdnFXQUtQMWZKb0dtRU02UWcweHJhM1dPMUlvU1ExU1RuMFhuZFdBVVFzTUwzZUFKSlpxSUV0Yjl1UnY5UXg5Q2FLZXJvU2RoRU5pVlVLRkNsTmgtekxfaE9IWFZEMVJUaGFOSUFXLTdmbW9iSXplNzNlQkxqRXlYWmxxSjNyNWx5YmhrQXhpV1JfY1JXaXBKTEg4VmowQTZjZm9lTzVmUzl1eWZlbnNHblJka3dscFN1ZVpEaUhHTHRrc1NfclBMVm5I0gHWAUFVX3lxTE9xb1pteDUyZ0dSTGpLUWJSWGZ0QzlJa1VaNTZaaTdjV1hPQlFJR010aHFiYTVpZ3NtY2ljOXM0RWk5eFhQLTdGTWMwYmtTTHNrUHpQX3NGcVl0bVB1eEVqbzhlcWNfQld0bC1ZNFRjNUdlMnJNSVF4OGRtbEhOZ2hNVWV0R3hVRDZQME1LQUNJTHcxODBCT05JdmdSSWM3SWVMSkJJSW5ldks0TUtfVEQyUDI2SHI0MDd6Zm1vcjd4WHExS3FTdm5NNjJHY1prVnlrZlVEdXc?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     13,
-     16
+     14,
+     17
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0
     ],
     "g": [
-     3,
+     4,
      2,
      2,
      2,
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     7,
-     11
+     6,
+     13
     ]
    },
    "trend": {
@@ -446,12 +446,12 @@
     ],
     "g": [
      0,
-     0,
+     1,
      3,
      3,
      0,
      0,
-     5
+     6
     ]
    }
   },
@@ -503,8 +503,8 @@
     ],
     "w": [
      6,
-     14,
-     4
+     12,
+     3
     ]
    },
    "trend": {
@@ -518,9 +518,9 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      2,
-     2,
+     1,
      0,
      1,
      2,
@@ -530,7 +530,7 @@
      0,
      0,
      1,
-     2,
+     1,
      0,
      0,
      1

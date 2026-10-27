@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:28:22.090750+07:00",
+ "updated": "2026-10-27T17:28:09.319296+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,23 +12,23 @@
   ],
   [
    "Ayo Bandung",
-   19
-  ],
-  [
-   "Kompas.com",
-   14
+   15
   ],
   [
    "RRI.co.id",
    10
   ],
   [
-   "Koran Gala",
-   7
+   "Kompas.com",
+   10
   ],
   [
    "detikcom",
    7
+  ],
+  [
+   "Koran Gala",
+   6
   ],
   [
    "Radar Bandung",
@@ -39,16 +39,16 @@
    6
   ],
   [
-   "PPID Kab. Bandung",
-   5
-  ],
-  [
    "jabarekspres.com",
    5
   ],
   [
    "opininews.com",
    4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   3
   ],
   [
    "Satumedia.id",
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Pikiran Rakyat Koran",
+   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Miris! Rumah 4x5 Meter di Bandung Dihuni 8 Orang - Fokus Jabar",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWM5Wkxxc25nT0MzZmNmNlRta3lIOFoxM2JlNGxVM21HaVJld2Z4MHdkN2VoRjFaZHZKem4wTFhpZERrcTl3SGtraENMZ05QekwtaFR6bjNyLWh2Nnk1NFd0NzFBYS1NZ1RpUEZsWExibGxVbS12dF9iLUZYOGdIQjNUOV9DZGV0?oc=5",
+     "r": "Fokus Jabar"
+    },
+    {
      "t": "BPR Kertaraharja Setor Dividen Rp78 Miliar, Pemkab Bandung Terus Kejar Target PAD 2026 - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzhUa0diLXdnQWVDOHdyVHhXeEN6T2pGQ01EU1ltWm52cHB4bWE4bTktaVFUc05Pc0x4dkVtVFNsWnhfSENlVlBHX3ZjY3NtTWwyNzBfQzZKTndlZm1wcVY2MkRtaG1aZmE2S2UxR1J6a0Y4eDkzTS0tSFFzUEc4VnBnLVRLdU41TlhfSTJqejRoTlU3S2Z6ODBsN0hMeXQ2Xzg2VFhTaHhGbXZmQlpETUN2b18xOVQ3MFcwYnV2RnNXSEN5S01MSDN5RjFUdHNnZG9BNFE2cw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUliaHZaTzAyeDRTSzNLS2I2bm1pMC1XWDQxamRBSXdZY2RaVVUyWGJCbU1McVlLeTB5cDVLeXc3ZGVFYlhrVDhGY3lwenNubXBRZ1NGZTRXUWpmOC16OVp0LUJyVVNMSUN4bjhHM2g0dFhvUGI5bGFueUExTVRoSDdienlhN3BmQW9TUHcxNnJYWnRGaWhybko0em9hbV9zRng3UTByZVVvWmc4YzBhMk5XQUJUemtWeHNEdVBPTll1c0dnN0NNRnhraUc?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Suhendar Paparkan Lima Program Unggulan, PWI Kabupaten Bandung Bidik Organisasi Profesional dan Transparan - Jurnalisme News - Jurnalisme News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcDVHdkxueEsxWlk2TnVZV2M5NThjOGctMXJZclh3MG93TjdoU1I5VXZyV19HOHdLT0liZmtubGQxV2stN09XYl82cnpSV1VxQ2RyajZybkkybG91VTJOV19mcTNsS2wwUDBIQmxvMFE5LTFVYW9reDVHanBKNzBhemtaSW1xUWJlVVdZZWlkVHNnSmlOOHdMSk9nUS1Xak0zREZkZ0JualRiekJuQUNGeWhLaG5zejZVc2FtZjNlWnpObXhfSFVmY3FBdmNHMlpmcDVZd2ZJWkh4UlVFSXQ4VVVRNTJZZi1LZHJrTVZR0gHzAUFVX3lxTE5Ta1NGRWh2TjlGS3otVUVHZmFOZDZWZ0x4aHdfamlUOTlnQzA1WFhhYUpSS3o2QVhQVUwyYm9EeHZDQWRpSzMzQk03WjFyc0kxeE53OWZnanBWNnpFQ1ExeDJrc2xLanpfMmRFdGxWeWxKZmhFcHg3R0VidDFLZ1lrT2w3OUQyZGhkQlFTa0dXaFQ1dE1zS3FiWDdqN293TnFZdFpVVlB3R0hQclJWZWhVU3lDeFpSc0d4eUhFQmJzMVpqemFHV2hWclZ5TkNQOXRjdjVyaEprX1cyYmtCaG5sSjdVQ215RkhCOGtxZVNpQmQxWQ?oc=5",
-     "r": "Jurnalisme News"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     8,
-     16,
-     0
+     5,
+     17,
+     1
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     3,
+     0,
      6,
      0
     ],
@@ -147,7 +147,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     15,
-     11,
+     14,
+     12,
      5
     ]
    },
@@ -205,7 +205,7 @@
      5,
      2,
      1,
-     4,
+     3,
      1,
      1,
      1
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     15,
+     14,
      1
     ]
    },
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     15,
-     17
+     12,
+     16
     ]
    },
    "trend": {
@@ -380,7 +380,7 @@
      2,
      2,
      1,
-     7,
+     6,
      1
     ]
    }
@@ -409,7 +409,7 @@
     {
      "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmhpbm96TDQ4MGVKdTZSTXk2LUF4THFRMGRfeTlqa2poREVQY2tXZnk1dDNNcDE5SlRtQXF3d0I2Vy1MNlNYNWx1T1ZJeGZTNDdOMk1PelUzY2JSSGY3aGw0VEpqMGhJRjdiVjN4NFRaN2haQ1laRmdlclkxRjFWZnRuSlBpd05KaXp5ZXE2MDhNS2c2NHZKVHdQaU82bnEtV1NpYk5VbjBBWWg1SXZmN3hQUHhuZTg0WDlzRNIBwgFBVV95cUxQTTJkLTNLbE1uenZ2YzM0TE1PeVJxQ1ZmdEpwdFczMjh5UVJpclJQNi05VjBLODR1dmx2Tms1My10TlZkTHR3bC1CVTJVdmlRMkZRREZOMlBreElUeTREcXdEUHEtd2NqLWM1XzRiRW8yQWIzZENPMWxEZGUwMnFQTlFrOU96RG5pWHllMFZmS3MxbjdlRVhWbXRDZk1BVVJFZVBsSmlVVGFTSjFCblVEQ2pENU5qR2ZJTFRIbmhOZzUwUQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtY9IBuAFBVV95cUxPSEI3X1pvNVhSU0l5bzhXOHFWYmVKNVpXRVYzbDVVYVFWN3diNVNMWnpGN3ZVMDAxV2p4YjN5Ql8yLUJOdVF3ZEp5YzdxMTZ1QUI0WXhROGU2WmlJZTVGNEZMYVFfMzBpY1ZSZlRNNWNMbWVjWTlVT1ZwR3V4dlAzY1IxUDlKMTVBQ0JOVU5EYXJ3ODBkVUdaNnBJTVByUTl4cU1fN2dySi1jbmZ4cmh6RjE4MXJwY0N3?oc=5",
      "r": "Ayo Bandung"
     }
    ],
@@ -421,8 +421,8 @@
     ],
     "w": [
      5,
-     4,
-     12
+     3,
+     9
     ]
    },
    "trend": {
@@ -447,11 +447,11 @@
     "g": [
      0,
      0,
-     5,
+     3,
      3,
      0,
      0,
-     4
+     3
     ]
    }
   },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Jambore Literasi ke-5 Leksam Bedas Apresiasi Peserta Tantangan Literasi Selama Delapan Bulan - deJurnal.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUk4cG1aUEJuMUI2UWZGbzFMQ0xzNHU1ZGhGN205RmRFTXhjVGRNYkh2eU5JaGh2Sjd3b2JBZnFPSnUwY196T1hfZEcxdTFPc1ZEQ0x3eGI5bjFxQ2ZqRDlZeGMydWRLSXlHazYzcmc1N1NiWWFZV3l3c0lGcFFreXJzWmhYUTU4MThxS21XSFlIQmo0YUhCa2hHajJZNzVtVmxNQllKRHEwX296LTQxY2dTSDlNbTFUaF9JYW82Zw?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "GBSI ke-5 MGMP Bahasa Indonesia Kabupaten Bandung Digelar, Siswa dan Guru Unjuk Kreativitas - deJurnal.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVZyNTJuN3RkQjNab09yMktiR0FoeTc5T253aW4xLWRjQVNSNGhXU0VWWFlEWml6eXB2RnRGYUZjOWhxY0JUYUdrNW5HWnVQeUpsTGF5Z1g4SGJnVXZuZ3Z4Q1VRRV9FYkUzR0xtUG96VmY3cmNGbVRVSEhrblhYdVk3eWQybXZwU2w3YmxVR214Sjc3ZUZ1OVM2X2Z0QWd6aG8wLTA5aGtLOVFncXR0c3l5dTVqWHZtMmFfaQ?oc=5",
@@ -475,12 +481,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVQ2TElLQW81MHBteDBydm5zM1ZSYXM4dERlNU53VXRJUmc1elk1eTNhNktJYnFsRU9JTHJOQmVqdHpYSDRjUWxCRDZSekw3OER0aDdBVFMzZV96WTlET1dCQmVKNkhsWmptd3F2MXlfdDY0aVE4RDlkc3VIN19MSU9jOGhBM3NyT0VXRG9RUGVnNnFBR2FYSDVYdF8taEZ5MTVFWTRYVHBSZnpfUk00MnV4V0NaZm54LU9hdXZ3ZDVyYWhsZFdGLU9TZURfTlFzWHhtS2RnRnZBaXR10gHiAUFVX3lxTE1oQ0JNSTlhRThoWE5yWldzRWtha0tzdlYtOVFpcmpRZzcycExNY3ZNaEdUUXpsejhEcFZuN0hsbGN5c25OWlJIYzRrWm9jbVVmSEdWQzBvR1B5eW9sWkNkNXFka1MwRW8xLTQwS3R3T2FSWUpwM0JjNVFEMEVxOGU1VkZnRS1JWXlWeXgtVlFXU1h0NlVrY3NIRXRLY0NBY3NEejZVcTlWTWNoTGFzcWY2b0ZHRGJiU2t5SVowV2pMSkd2ZHYtOHVMalpQdVNLNDNhRmNILVlleU9GLUpsWUhmbUE?oc=5",
      "r": "Berita KBB"
-    },
-    {
-     "t": "Abu Galunggung Sampai ke Kab Bandung pada 1982, Chitra Lestari Telusuri Ingatan Mitigasi Bencana - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTl4QXhYSDNVN202ZkVaSmR0U1ozZU1JZGQwbDlpWDQtNXd2Q2lBZjA0ZDdxeXJGcmkta1RJVV9MSjNiaGF3TU1EX1A4VE5HMFcweElnX3ZSWlo1VHBDMExRT2ppaEN1cjVUekJ6WUpNM0kwNzdLRGs0QWlDZjFMbmRNUkpWWndaNjVJV2JnQlJzd19KV3FfQ0dXSU9TQXQzbHVCaXVaaWN5dm9LNUVzdWxGSnZfdWhEVl8xcl83Qm1NTVJVQVYtck1LSm1kZTlx?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -503,8 +503,8 @@
     ],
     "w": [
      9,
-     12,
-     4
+     11,
+     5
     ]
    },
    "trend": {
@@ -520,14 +520,14 @@
     "p": [
      1,
      2,
-     3,
+     2,
      0,
      1,
      4,
-     0
+     1
     ],
     "g": [
-     0,
+     1,
      1,
      1,
      2,

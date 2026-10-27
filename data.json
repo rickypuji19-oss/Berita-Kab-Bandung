@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:23:26.098135+07:00",
+ "updated": "2026-10-28T05:25:51.812286+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Pemerintah Kabupaten Bandung",
-   36
-  ],
-  [
    "Tribunjabar.id",
-   21
+   22
   ],
   [
    "Ayo Bandung",
-   15
+   14
   ],
   [
    "Kompas.com",
@@ -24,11 +20,15 @@
   ],
   [
    "RRI.co.id",
-   9
+   10
   ],
   [
    "ANTARA News Jawa Barat",
    6
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   5
   ],
   [
    "Radar Bandung",
@@ -39,23 +39,23 @@
    5
   ],
   [
-   "detikcom",
+   "Satumedia.id",
    4
   ],
   [
-   "Satumedia.id",
-   3
+   "Koran Gala",
+   4
+  ],
+  [
+   "detikcom",
+   4
   ],
   [
    "Disway",
    3
   ],
   [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "Koran Gala",
+   "Pikiran Rakyat Koran",
    3
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     1,
-     43,
+     2,
+     21,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     1,
+     2,
      0,
      1
     ],
@@ -173,10 +173,10 @@
      "r": "ANTARA News Megapolitan"
     },
     {
-     "t": "Konsultasi Publik Tarif Air 2027, Tirta Raharja Utamakan Keterjangkauan dan Mutu Layanan - Fokus Satu - Fokus Satu",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSklzTldabVBvNkxaNmcxYnltZmtRb1JsX1lVdlhFSVkyYlpjSzZyRVRqMGExajlYT1ktUmFXcGtyQTRQZXE2REFodFpaWUd1UDZsZEh0T0JxWkZfWWZXdHZBeWplZVp1QnRIX3FzWU1SVmJyaTZERFltV3BQc1V3THBEMjF5Y1BSc0NDWTJNOXQ3TzBrcXEzcVp4alk4Z0M1dlZxa0ZDelZWQ1RiRDkwWDZETU9BRmQxV3J2aTVVQ0prbkxubncw0gHMAUFVX3lxTFBwSGhDMUZzZ2FRZnhtckV1aFZucWJSZTI5SFBfeHNvc0ViT1lkQlhpS2xuSmRENmxXOEdjSFRYV2t6RGtoTDRLYy1CWXUtU3ZWV1JuV3VyNkVlMGR5ZmNTMURmOEoxeXR1X2JwTEptQW5mYVdIZGN0MXlRemo3MkQ0aWFvNV9HSk5VNDhrdzJsNVQzaHJtNlRNdldLN09SOHJYQXNCZ0pwTTVPTTVHNFRxVmF2eWF4YkxaWEJmdmtDamt2Vmt4R21yWUNWNA?oc=5",
-     "r": "Fokus Satu"
+     "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     14,
+     12,
      3
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHNnempsTE1CamtPaW1zNzJ4YlJhZTNNV0c2bzZ4Nk4ydUVZRFNUUDJsNzFIMmxmODcxN1prLTR5WWJBS0wxOC1BUW50dDBpWlNpQ056YVJDbHhwOXZ0ZXkyOUVFSDlzTzNZU1Q0LW52YzI4aFhOald4UEplcWtLb2puY0xOS1RwQnFRVS1vdUVWaVIxMUpNWUZ3SG0yY1BQc2lqYW5jenAyT3lhLXVwbzVhcmY?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYi1EbnJZRUpZYTJjbVd0eXMtay1pbFdIRVV4S096WWlPdmk1dGh3Um1jNnktZlRmbUtOMjVJbkxObHIybkZNcnZPakxGZTlZRFFOV1pfcE1NN3prMV9rZTJOSjZPMlRtMlFqcHBWeFBmV3hqOFdvSTZYZVZraERNWXl2aFB4Vmx0aGZBUkZlZmVjcVZLeklKTjdSckdXcDlSRjgwbWp4U2t0YldOd0thX3k1M2RaaTNueWc?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Pikiran-Rakyat.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkhSTG44aDRVaHkwaVZibGw1eUEtcXZERFFIYlBmRHlTRW9DSzB6cFprWmNoT25YMHd6TlpzNUpTRHRxaWhqWVJRNW1TZzNGSnR4TFR6Zm92dThQT1VseFc0VE5MLWpydzF6WVFlQWt6NGhWQTBhV3ZYMTJRVm1IVE94dnRjUVdRcV8wMzBVTjlmbmtDSC04RkFiNGNzRkxRRmt4NHRMU2ViOG5kUi0xaEtOTndMZDN1U2lyNXFseGN3d9IBxwFBVV95cUxOZDN4LUF6VzNCT3d4LUhJWk5QQUh5bkpKeUI1MmtrM2NOYndHYnowem0td3FraV9DM1QzbEUtWTZfNHczdWlvN0I4QlhWVkZaS05URmJiWFB2aHltb25DSzNRLXFFMXpvdVNxRW1jOWFpTmJSX0R2ZTJXa1RFTlBpdU12akJVOUl6eFJmZXFRZzkzaHdwSjA4Rk1vVFlmRWdPUnlncTZNWW5jVUtQWGM0QVVUejhWZGtrclM0b0JwSGRfaVoxaUhF?oc=5",
-     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     6,
-     12,
+     7,
+     14,
      0
     ]
    },
@@ -290,7 +290,7 @@
      2,
      1,
      2,
-     0
+     1
     ],
     "g": [
      0,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     9,
-     15
+     10,
+     14
     ]
    },
    "trend": {
@@ -379,7 +379,7 @@
      2,
      2,
      1,
-     9,
+     8,
      1,
      0
     ]
@@ -427,8 +427,8 @@
     ],
     "w": [
      5,
-     6,
-     14
+     5,
+     13
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      4,
      3,
      0,
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     9,
+     8,
      9,
      4
     ]
@@ -525,7 +525,7 @@
     ],
     "p": [
      2,
-     2,
+     1,
      0,
      1,
      4,

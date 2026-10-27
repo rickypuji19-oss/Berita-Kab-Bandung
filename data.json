@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:22:32.323304+07:00",
+ "updated": "2026-10-27T10:22:40.248525+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   24
   ],
   [
    "Ayo Bandung",
-   18
-  ],
-  [
-   "RRI.co.id",
-   14
-  ],
-  [
-   "Koran Gala",
-   9
+   16
   ],
   [
    "Kompas.com",
-   8
+   14
+  ],
+  [
+   "RRI.co.id",
+   11
   ],
   [
    "detikcom",
@@ -35,7 +31,7 @@
    6
   ],
   [
-   "PPID Kab. Bandung",
+   "Koran Gala",
    6
   ],
   [
@@ -43,7 +39,19 @@
    6
   ],
   [
+   "PPID Kab. Bandung",
+   5
+  ],
+  [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "Galamedia News",
+   4
+  ],
+  [
+   "Satumedia.id",
    4
   ],
   [
@@ -55,16 +63,8 @@
    4
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    4
-  ],
-  [
-   "Satumedia.id",
-   3
-  ],
-  [
-   "Jurnal Soreang",
-   3
   ]
  ],
  "topics": [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     14,
-     18,
-     3
+     15,
+     19,
+     4
     ]
    },
    "trend": {
@@ -134,16 +134,16 @@
     "p": [
      0,
      0,
-     1,
+     3,
      4,
-     6,
+     5,
      5,
      0
     ],
     "g": [
      0,
      0,
-     0,
+     1,
      2,
      1,
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Komisi B DPRD Kabupaten Bandung Terima Audiensi APJK Bahas Pemanfaatan Fasilitas Pasar Ikan Modern - Pemerintah Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDA1S2NHWnNiYmMzdm9RUXJOc2tybTJ4eDV1SFRrWWdLd0pvRVpwbjMzN3hyZ2d3S01OTldTc1dUZUhFZ0x2bmtDVWdwbFpQcmllZWdqTk5GaEwyX0hNdEpLZWJ6emFNN1Q1ZHpnOEJwTjZBb2JZU1pVTnJEQXF3LVVvLTNyeUdaS0lYRDRfNnZQd0xpNHhXTEV4MzgwQmV2REd6SVlQQzdVc2FJV3lZSHhwNWYxM2R6bEJCZFRFOE1JcDJJZHpfcmRSZzJDa29GdHJZ?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Fraksi Golkar DPR RI Dukung Kapolri Soal Perang Lawan Narkoba - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpPakZLdlFFRnFKb3Nqd3I5VlFGa2NWRHlZVUpqRFBTTDZ5bV9la29KUzBIVWRqVnFaLWxmd2J6c1R5UHdDRWpTaTI1ZWNYcExiNjBsUllidzJHLWs2ZEl2MkZLZ2hWZ0lydDY2dHhHdTJ4Zmt6MTNLemphVGtnM0U4TlRJZ0Z6XzJuVmhqY0pYc1YxYzh2Zjgya2ZkUGlZMHY4OGsxZFdhbENSajFHWU1B0gG3AUFVX3lxTE1aUnRQV0pLZHlWUDNPYmJjWHE2Nms1OHBvTFRQeERRbFNwLW4wOUhlSDdJeHBXQ29PV0lxcEI3ZkJscENQUnFvUmRQY0tXRXhaM0tqek9sU2ZNaFdELThWdE04cTRlQWJWNllBV1B6ZVdqX3lyQ2NoUEZCWHVma2hzZVRudzBsMmJCYWFiWG1BQVlLSkZMbFhnUVZETnVkdFpXaWwyZlI5cGJubDJwM29qRmhPOEl1cw?oc=5",
@@ -171,12 +177,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhiLVQ0MmNEdjJxdEpvbm5oaEZ1My0wUHJJMllFXzVGOXdIUURHNEZyS0l5OGlra2gtelR5THI4MUNscldPaUMyb3JjZWpUWmlOVlM3dG9oQlFCaHQxYURDb3UwdjVEQmZJTnBDMzVGZ1N2ZnhvRm5rTnN4dl9RM1lTYVhnLUx2dFZXMW1HbVZUQzRVVjFJUTdDZmgtWVpUTzA1QUZBY3NCbXB5ZXhoY0Vn0gG3AUFVX3lxTE41M2hJSDViejFZSmVqa0F3UkxLYmJMS3hQem1LeHNPbnEyU2RqNkgybjZ3Y1NOWTRwdVhDbmg4VXVWaUJQUnhJWC0yLUNXYkRCZVZBVkl1dFlFUkx4enZRZEY4WHp0ODY5R1NacE5RNW01Q0hqVkVSdjczajBHVEZQU1hrNGlmMEpRS2RRbmQ4ZWJrRXk0SFhQRGcyaFFsRjUtY3VLMGs2SjFtZzdBbUh1cUFQN0o2RQ?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Berita dan Informasi dprd kabupaten Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ES0Z0U2ZaV2JTUUxuOEV6Q2VSYnF0VzRxRWFOLXloaXpBQ21NU2h3V2NaZW91RTRMNHVPZDVNaHlEQzdWaUpwNzZYaEdLNUg1X1V5NzlSVQ?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      16,
-     13,
-     5
+     11,
+     4
     ]
    },
    "trend": {
@@ -203,15 +203,15 @@
     ],
     "p": [
      5,
-     4,
+     3,
      1,
      4,
      1,
      1,
-     0
+     1
     ],
     "g": [
-     3,
+     2,
      1,
      0,
      0,
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Telkom Indonesia Raih Penghargaan Keberlanjutan Global Reuters Events 2026 - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUdFQlRqYUxDcWwtbUlyQ2lDOVdJd3o2VTNkbkxzb3B5T1ozZFIwZ2ZmSXhfTnQ4UUNUYjZIQk9aLUU3cDc1VWpYVHI5bzdxVF95VUtkX3lpVWFPZm1Xal9DNzF3R0p3d09wRTkxVzctOGRYR3F1UkpTVjZ5d2xDcUY0cS1wQTFOWVNxdFBzZjlPVGlOMlNCcWVqYThMTGJIeHFiYjdpQnU1TXRMZ1BVQzdwMHVlNXhD0gG-AUFVX3lxTE1wU2hKUEtSejZ5UmlBa09vY2dXeTlZbFFXeUoxTHhZWEZacDBKNWZheTJNLW9tSEJOWmRnWGpWR1RsVlJ1cER6eVRUcE03bEIwYjJlbGZtTmp4eGcycHlXcEYzOFVNeWZjRFZUYTJyVThKakRwQkxYcHI1SzZ6Zl9aY2lON0p5U0t2MzhGVFluSDMzLUpodzRza0pob0t1ZjRmVGJmbVZVT2g4ZER4SDNCQVN6cUw4ZC1RZGRUTVE?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Divre II Perkuat Keselamatan Peran Kereta Ekonomi Daerah - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0UzWjlkazZCTFlYbE4zd0RVQzlKRGV1OW53dExIZ2w3eXExUHZGbWxTZnFZYWFCdDRka0VWTTNyOFo3b3Ewd1cxSmVqRmJRS0VzN05FSWZSS0VLd3dPMTUyNUhNWTJTaUlPZklWU1FDRy1VTERsNUYxTVMyVkYzY1BRM1l0VW43M2ZnZWZkcXVZNVdtLU16SWpOcWpIQ1c1?oc=5",
@@ -246,6 +240,12 @@
      "t": "Wawancara Eksklusif Kadisnaker Bandung Yayan Ahmad Brilyana: Jurus Magang Pangkas Pengangguran - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmd6SnlYczZOcURPc0o1cnNuTmxVVDVjU2I2UGllVDBNUmJRaVpmOHdFd2NPeXNyb0Z0RzU0MUx6MWtIbVB6Y0c4a1ZFVnpqSmJianB2RXBlWHE5U2hjODJnQ3NKRHFmX0lLNWo4b0RqQ2hQcnk0ZXVFNG9qRnplS1J3VmNPTFdfUHpDR2x0ZVVMTGRyY0dIaUp3bmJrczM3cDVBR3FQb2FuVHhuUjNEWll3QXB3ZTJrUzllejVmYmJpT2NMY09MMndvR1ZmZFpGMXJDUzJzVG1TODZF?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Harga Tiket Persib Bandung vs Melbourne Victory, Termurah Rp125 Ribu - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtramR6ajlSeTFwSzNoVVJFUHNkZmQ5aHJuOFloeEpHT2R0Y1VXay1uUFMtZ0psSHd0WE1XeWJPWlZ6dDhtREdmWXZyRnp5Y05VV3N0WWt2WUVvUnVXMThJSVRHXzdUNmtfQXFra0FqUnktcE5DR0dfR0s1WURtU0pSZUtONXgwQk1nUE5sREhEMmc5c0ZtVHlQYUlwSTlaS1h6VTBBa1NKUFVYMU9fWnJvWXA?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -263,7 +263,7 @@
     ],
     "w": [
      3,
-     12,
+     13,
      1
     ]
    },
@@ -279,11 +279,11 @@
     ],
     "p": [
      0,
-     1,
+     2,
      0,
      0,
      2,
-     1,
+     0,
      0
     ],
     "g": [
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     16,
-     15
+     15,
+     16
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      5,
      1,
-     2,
+     3,
      2,
      1,
      6,
@@ -389,22 +389,22 @@
    ],
    "h": [
     {
+     "t": "Akibat Hujan Deras, Sawah Longsor Timpa Dua Rumah di Padalarang - ayobandung.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWQ3eDZ2THRvNGUyUlVzcVpocjJlM2w5cWNzaGFjcUNDbFkxbTlwTmdmdHZObnczanFFUVU3SVloVnRSdDVSNnNlbzhHbkpsVFlNUFQ3TkxKMjFYaWgxQVVWaEpWVFd2bVY5SXJYeFRxTFNFMVZTQkU4T2Y5amlRdVJ1NmNaRDBQaERLM0xySVNuVHZkdW01cWlreUM3dE5pbkJYYnNLOTFtMmhEOVo0R3JtYw?oc=5",
+     "r": "ayobandung.com"
+    },
+    {
+     "t": "PLN Pelihara Jaringan Listrik di Lembang Tanpa Pemadaman, Aktivitas Warga Tetap Berjalan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVllwQ2RlWXNKMm1CazBVQnNDUlNYVldHaXRKU0hpNmgtdlBCVDgtc2REd0VqMHItRzFqRnl5cXM4dUhocTkwZlNydmVNSzcyLUxxbkV4Z2Q0YzlSay05bjAyczdGR0ZwUzUwLVZxZGI0Q2wyX08yaThobHM1d1JWMXdVSk1vcXNiWkpsRGZBNjJjVXRRMDFWY0VhMDdkRkFXdWNfWE1wQUtvRWxaTHF6VWY2N1JYMHVZbmE0LUNMY3d6aHE3ekVmYVNBeld6eDV5WW5DZ3Z5dTYyTEE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Resmi Daftar Calon Ketua APDESI Kabupaten Bandung, Galih Hendrawan Siap Perjuangkan Aspirasi 270 Desa - Jurnal Soreang",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVVkQTVuQ2ZUN3lOaUZkOWVYZk8zS0RyTkhoY0g2dll6WnFkdXVweXlreFNLUWg5aWY4UHFHeDZocWpySUw3RmlXTzFSblhlNHRIbW16X2VrMUQ1MVAzT0F0X2N3NUVFZm5aeDBDaW5KYVgyVG9qeXFVZmxmYTNqUmY5VEJ1Sm1jV1A3SGVuQ2RwcWJDbmlNRkhqWkRTODYxXy1mUll0cTNuTWk3bTh6cnl5cVEtaTdtR3Y4TGU3VlRDY2hiOU5RV2RtVENWS1hoc0lwczBiMXJmTkEzZW03aTRQaTU5Ql9GM1ZNMlNzSGszUDM4amhkNHh30gH6AUFVX3lxTE9pVWRBNW5DZlQ3eU5pRmQ5ZVhmTzNLRHJOSGhjSDZ2WXpacWR1dXB5eWt4U0tRaDlpZjhQcUd4NmhxanJJTDdGaVdPMVJuWGU0dEhtbXpfZWsxRDUxUDNPQXRfY3c1RUVmblp4MENpbkphWDJUb2p5cVVmbGZhM2pSZjlUQnVKbWNXUDdIZW5DZHBxYkNuaU1GSGpaRFM4NjFfLWZSWXRxM25NaTdtOHpyeXlxUS1pN21HdjhMZTdWVENjaGI5TlFXZG1UQ1ZLWGhzSXBzMGIxcmZOQTNlbTdpNFBpNTlCX0YzVk0yU3NIazNQMzhqaGQ0eHc?oc=5",
      "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Kang Rey Turun Langsung Salurkan 5 Tanki Air Bersih untuk Warga Jalancagak - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemlpd3ZMbFZOcWVobDFuREdvTHpWeFpaVnE0UVk5YU5OblhXMTg1YW9nNmVfVklKYWZudDVSMUdRcXg0MzNNOF8xenVVX3hjYW13bkVHRjhQWk14dzBUbmhkcmhxeVdTRWNPRVVwYXd3eklwc0w5Q1Z1S0s2QkY3a2o1ZjlLRjBXLW1aejNMdUN6eHgzWldlZkxHWUtmLWdkZDhkaHExT2kzS0hqMXFRU2pRcGluVVJV?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Meski Minim Anggaran Jalan Penghubung antar wilayah di Cinanggela Rampung - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUERfd3lmazBCbnd3akFjOE8zU1R0cmV1dmF2eTNVWEtIZDdSbVdGSHZpNnlOdjlsQnJWM3RfclRwVWJVQTAzOXVtS2JIV2kwZl9WdXVvNzF1NmdNSUh5YzlFZXdzN2RFcmUzX1hZcjNTSEtHSVFvYU5YMHdZZWpQMjVtYlgxWnhJbWkzWHBlVnd4ZXoyWG0wMzNBYnNONVlmUGtkN2Jjb0dsOUhGRGdka1E0Zw?oc=5",
-     "r": "Radar Bandung"
     }
    ],
    "v": {
@@ -414,8 +414,8 @@
      0
     ],
     "w": [
-     4,
-     6,
+     5,
+     7,
      8
     ]
    },
@@ -431,7 +431,7 @@
     ],
     "p": [
      0,
-     2,
+     3,
      0,
      0,
      2,
@@ -441,11 +441,11 @@
     "g": [
      0,
      0,
-     5,
+     4,
      3,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     9,
-     14,
+     6,
+     15,
      5
     ]
    },
@@ -514,10 +514,10 @@
     "p": [
      1,
      2,
-     3,
+     1,
      0,
      1,
-     4,
+     3,
      0
     ],
     "g": [

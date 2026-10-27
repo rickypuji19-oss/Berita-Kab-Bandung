@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T02:33:31.453662+07:00",
+ "updated": "2026-10-28T03:26:32.020392+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   13
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   9
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -35,11 +35,11 @@
    5
   ],
   [
-   "Satumedia.id",
-   4
+   "jabarekspres.com",
+   5
   ],
   [
-   "jabarekspres.com",
+   "Satumedia.id",
    4
   ],
   [
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      20,
      1
     ]
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     3,
+     2,
      0,
      0
     ],
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Tarif PDAM Tirta Raharja Kabupaten Bandung Bakal Naik pada 2027, Ini Pertimbangannya - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVmQm5mbnBzdlZ3Nk0xN1g0SktDdUE3Q2h1UlVaVzQxZnZIX1cxMmtjYnVBdnZkS25nQkpMemRxZXpYcUdpLV9GY2xuQnVqU2F4WDJOVjZwX21pVmp1bUM0V2ZCN05qNnJzTy1qVWxtQUt1SUhKTnUwQ3ZJRi1GNzY3am9rVDJPc2tISEpoUkZMNHlJbDNBRFdVWE9nS2FVeWRscWlQR1NxQXJZbWk0QUlHZlRueVhpRGNleg?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Pemkab Bandung kaji rencana penyesuaian tarif air minum Tirta Raharja pada 2027 - ANTARA News Megapolitan",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeENJMVZxMjktQ1d1VWtoY0ZCNlA1WV9yUkJ6X2wzT1BzaHBaLW1HNk1IcXVkQzdNdnMxOXVCdVBqUFhFVkw0eU53UENaWDZGMDExb3k1X0hUVVV1TVN0U0gxNlljUVhjN29SNVJGSnY5cll3T0xLU2R1ZTBvNGRVRk1RTnRjdzRTekszMVp0NEtKZEhRdFVCSmtwWmtmRElEc1ZSUGZaeFlJOTJlSk1rekdaSzVYQ2N0ejIzY1ZOd3V2TDlPS3hKNFM5RGjSAcwBQVVfeXFMT3hDSTFWcTI5LUNXdVVraGNGQjZQNVlfclJCel9sM09Qc2hwWi1tRzZNSHF1ZEM3TXZzMTl1QnVQalBYRVZMNHlOd1BDWlg2RjAxMW95NV9IVFVVdU1TdFNIMTZZY1FYYzdvUjVSRkp2OXJZd09MS1NkdWUwbzRkVUZNUU50Y3c0U3pLMzFadDRLSmRIUXRVQkprcFprZkRJRHNWUlBmWnhZSTkyZUpNa3pHWks1WENjdHoyM2NWTnd1dkw5T0t4SjRTOURo?oc=5",
@@ -170,12 +176,6 @@
      "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Perkuat Nilai Keagamaan dan Kebersamaan, Pimpinan dan Anggota DPRD Kabupaten Bandung Hadiri Upacara Hari Santri dan Pembukaan MTQ ke-48 - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRnV1dUJVYXQ2SFNReHh5b1dUZi1qSnF3cGVRbjVVQUthSWlOSkxrUmR3MHV3M2pZVmdNdElPNDMwb1JZa2x1cU9qZ0djalZIU3FYLTlYbXkxenlONTIwLS1PWHdrNEJab2M1R01kM0pxNHVibXUxZmROWGZuWGJfMmdaUVY3Um1RR0N3REpkVGFXZW11UHY4WmVuTVU3TXR5WXYwMUFkVnFBNTVId3BfdjhHeXZMQzhLM1NMU3A3bm1UY21ISHFOYTVMaEM0ZEJTTFRDcm5maG1yYkk0cW53NDZOOUZBX3lMVXA4UXpnN19DcW9idjFXNFUtczRBajNPWUVJ?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
     }
    ],
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     11,
-     2
+     12,
+     3
     ]
    },
    "trend": {
@@ -216,7 +216,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0
     ]
    }
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     6,
+     7,
      14,
      0
     ]
@@ -284,7 +284,7 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      0,
      0,
      2,
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     10,
+     9,
      14
     ]
    },
@@ -427,8 +427,8 @@
     ],
     "w": [
      5,
-     5,
-     14
+     4,
+     12
     ]
    },
    "trend": {
@@ -451,12 +451,12 @@
      0
     ],
     "g": [
-     1,
+     0,
      4,
      3,
      0,
      0,
-     7,
+     6,
      0
     ]
    }
@@ -509,7 +509,7 @@
     ],
     "w": [
      6,
-     8,
+     7,
      3
     ]
    },
@@ -527,8 +527,8 @@
      2,
      1,
      0,
-     1,
-     3,
+     0,
+     4,
      1,
      0
     ],

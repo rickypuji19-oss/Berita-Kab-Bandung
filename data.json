@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:37:12.173846+07:00",
+ "updated": "2026-10-28T00:37:48.274379+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,47 +7,31 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Pemerintah Kabupaten Bandung",
+   24
+  ],
+  [
    "Tribunjabar.id",
-   23
+   21
   ],
   [
    "Kompas.com",
-   16
+   13
   ],
   [
    "Ayo Bandung",
-   15
+   12
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   6
   ],
   [
    "RRI.co.id",
-   8
-  ],
-  [
-   "detikcom",
-   7
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   5
-  ],
-  [
-   "Koran Gala",
-   5
-  ],
-  [
-   "Radar Bandung",
-   5
+   6
   ],
   [
    "jabarekspres.com",
-   5
-  ],
-  [
-   "Satumedia.id",
    4
   ],
   [
@@ -55,15 +39,31 @@
    4
   ],
   [
-   "Pikiran Rakyat Koran",
+   "detikcom",
    4
   ],
   [
-   "Inilahkoran.id",
+   "Radar Bandung",
+   4
+  ],
+  [
+   "Satumedia.id",
    3
   ],
   [
    "Disway",
+   3
+  ],
+  [
+   "Jurnal Soreang",
+   3
+  ],
+  [
+   "Koran Gala",
+   3
+  ],
+  [
+   "Pikiran-Rakyat.com",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Satumedia.id"
     },
     {
-     "t": "Pemkab Bandung mengevaluasi retribusi untuk kejar target pendapatan 2026 - ANTARA News Jawa Barat",
+     "t": "Pemkab Bandung Optimalkan Pajak dan Retribusi untuk Kejar Target Pendapatan 100 Persen - JakartaTerkini.id - JakartaTerkini.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnZaNWVmVExka25xcGV1cUk4RWlpcUsyczlxQzVKLUNIbzZfLUV0aHZUcjhzZ3pvNFdfNmZubGd2OHJWVW5OdVhjZWlEd3pTSWRfOER6RXFMWVJma0M2SnNGcEgtLUxuNkZrTG9vLVd1YTNqU3hNdk4xeFRvUlQ2MFlsOVI4dnNxOUJQOWo0dGxhaC1WblMtWTdlaVR5ajI1OWdFbXdzTUV4aGs1WFc0LUttdWJWZ9IBuwFBVV95cUxPcW9fdG5kTS1WaEVVUzAxYWJqOHBOM0J1Sk1pMlJlR2o5SVZQUTRxajdvN3JUWTAxcHpKUW1lajkwYmFXWWQ4TGphN2RDS1lkY1pQbWNMc0ZoMVRUMGlxQ1VuQU1nUmdDOUFfQnNndjM5bmpVZURoZWJJTk9EX2ZoOFEyMG1IYzM5NU9pcG5RV0NncUhtU0h6czBlUjJoVTFfbmNoRjZvTXNHd25kcXkyN1RYM3FTdzlPOXNz?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFp5VWJiM1RuVHNmQjdoU0l5bHh3Mk92OGpldFBsYk9sMHktMFVEUllna2VMakpPYlJ0d1cwdXI5Z2VLcDFvTVlDWm5WeFJ0VzlDbFNHQ016UTNEU3ZkM2NzMWExeHBsQ1FHbnRLQXRpMFdlMjd2UzJ6ODN5ZDlzRTVvV25kSlh6aFIzbFpvUi1MYjZEOFMzYUphTEpKNkV5aDB6a0RqOVRGXy1EYVpTaG5OVEVfSktqU25mbmprNnh3ekEwUTQ0OWtnR0ZndERpU1drTHBINWtJbjjSAdsBQVVfeXFMTVhaeVViYjNUblRzZkI3aFNJeWx4dzJPdjhqZXRQbGJPbDB5LTBVRFJZZ2tlTGpKT2JSdHdXMHVyOWdlS3Axb01ZQ1puVnhSdFc5Q2xTR0NNelEzRFN2ZDNjczFhMXhwbENRR250S0F0aTBXZTI3dlMyejgzeWQ5c0U1b1duZEpYemhSM2xab1ItTGI2RDhTM2FKYUxKSjZFeWgwemtEajlURl8tRGFaU2huTlRFX0pLalNuZm5qazZ4d3pBMFE0NDlrZ0dGZ3REaVNXa0xwSDVrSW44?oc=5",
+     "r": "JakartaTerkini.id"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,28 +116,28 @@
      0
     ],
     "w": [
-     1,
-     20,
+     0,
+     33,
      1
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
      0,
+     1,
      0,
      1,
      0,
-     2,
      0
     ],
     "g": [
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -167,15 +167,15 @@
      "r": "ANTARA News Megapolitan"
     },
     {
+     "t": "Konsultasi Publik Tarif Air 2027, Tirta Raharja Utamakan Keterjangkauan dan Mutu Layanan - Fokus Satu - Fokus Satu",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSklzTldabVBvNkxaNmcxYnltZmtRb1JsX1lVdlhFSVkyYlpjSzZyRVRqMGExajlYT1ktUmFXcGtyQTRQZXE2REFodFpaWUd1UDZsZEh0T0JxWkZfWWZXdHZBeWplZVp1QnRIX3FzWU1SVmJyaTZERFltV3BQc1V3THBEMjF5Y1BSc0NDWTJNOXQ3TzBrcXEzcVp4alk4Z0M1dlZxa0ZDelZWQ1RiRDkwWDZETU9BRmQxV3J2aTVVQ0prbkxubncw0gHMAUFVX3lxTFBwSGhDMUZzZ2FRZnhtckV1aFZucWJSZTI5SFBfeHNvc0ViT1lkQlhpS2xuSmRENmxXOEdjSFRYV2t6RGtoTDRLYy1CWXUtU3ZWV1JuV3VyNkVlMGR5ZmNTMURmOEoxeXR1X2JwTEptQW5mYVdIZGN0MXlRemo3MkQ0aWFvNV9HSk5VNDhrdzJsNVQzaHJtNlRNdldLN09SOHJYQXNCZ0pwTTVPTTVHNFRxVmF2eWF4YkxaWEJmdmtDamt2Vmt4R21yWUNWNA?oc=5",
+     "r": "Fokus Satu"
+    },
+    {
      "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Perkuat Nilai Keagamaan dan Kebersamaan, Pimpinan dan Anggota DPRD Kabupaten Bandung Hadiri Upacara Hari Santri dan Pembukaan MTQ ke-48 - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRnV1dUJVYXQ2SFNReHh5b1dUZi1qSnF3cGVRbjVVQUthSWlOSkxrUmR3MHV3M2pZVmdNdElPNDMwb1JZa2x1cU9qZ0djalZIU3FYLTlYbXkxenlONTIwLS1PWHdrNEJab2M1R01kM0pxNHVibXUxZmROWGZuWGJfMmdaUVY3Um1RR0N3REpkVGFXZW11UHY4WmVuTVU3TXR5WXYwMUFkVnFBNTVId3BfdjhHeXZMQzhLM1NMU3A3bm1UY21ISHFOYTVMaEM0ZEJTTFRDcm5maG1yYkk0cW53NDZOOUZBX3lMVXA4UXpnN19DcW9idjFXNFUtczRBajNPWUVJ?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
     }
    ],
@@ -186,36 +186,36 @@
      0
     ],
     "w": [
-     14,
-     14,
-     4
+     10,
+     13,
+     2
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     4,
      3,
      0,
      3,
      1,
      1,
-     2
+     2,
+     0
     ],
     "g": [
-     2,
      1,
      0,
      0,
      1,
+     0,
      0,
      0
     ]
@@ -269,31 +269,31 @@
     ],
     "w": [
      7,
-     16,
-     1
+     13,
+     0
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      3,
      0,
      0,
      2,
      1,
-     2
+     2,
+     0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -351,37 +351,37 @@
     ],
     "w": [
      1,
-     14,
-     18
+     9,
+     13
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
      0,
-     0,
      1,
+     0,
      0,
      0,
      0,
      0
     ],
     "g": [
-     5,
      2,
      2,
      2,
      1,
      7,
-     1
+     1,
+     0
     ]
    }
   },
@@ -433,31 +433,31 @@
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     0,
      3,
      0,
      0,
      2,
      0,
+     0,
      0
     ],
     "g": [
-     0,
      0,
      4,
      3,
      0,
      0,
-     6
+     6,
+     0
     ]
    }
   },
@@ -504,42 +504,42 @@
    "v": {
     "s": [
      2,
-     5,
+     4,
      0
     ],
     "w": [
      5,
-     10,
+     7,
      3
     ]
    },
    "trend": {
     "d": [
-     "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
-     "Sel"
+     "Sel",
+     "Rab"
     ],
     "p": [
-     1,
      2,
-     1,
+     2,
      0,
      0,
      2,
-     1
+     1,
+     0
     ],
     "g": [
      0,
-     0,
      1,
      1,
      0,
      0,
-     1
+     1,
+     0
     ]
    }
   }

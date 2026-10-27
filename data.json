@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T03:26:32.020392+07:00",
+ "updated": "2026-10-28T04:23:26.098135+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Pemerintah Kabupaten Bandung",
+   36
+  ],
+  [
    "Tribunjabar.id",
    21
   ],
   [
    "Ayo Bandung",
-   13
+   15
   ],
   [
    "Kompas.com",
@@ -20,15 +24,11 @@
   ],
   [
    "RRI.co.id",
-   7
+   9
   ],
   [
    "ANTARA News Jawa Barat",
    6
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   5
   ],
   [
    "Radar Bandung",
@@ -39,15 +39,19 @@
    5
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
    "detikcom",
    4
   ],
   [
+   "Satumedia.id",
+   3
+  ],
+  [
    "Disway",
+   3
+  ],
+  [
+   "Jurnal Soreang",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "JakartaTerkini.id",
-   2
-  ],
-  [
-   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "DINAS PENDIDIKAN KECAMATAN CIMENYAN KABUPATEN BANDUNG PELAYANAN PENDIDIKAN MAKSIMAL - Tribuntipikor Online",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjJnLUJPbDZ2U2trejRYanhRT25zXzgwYmZmOGZxZ1dTQVF4NzNUS1lpT0VNUGJsdjRNWWRWRUdsNFNhSGotYWtXMVBkaVl3djBzU0g0SUYyd3FteGdHSlVmUTVRRzBLV1VhMVV2MFhESEN2U0QydkQ5RFV0QVFQNWFkejhFeTJuMm4xb1hHRkpwQzBLZWZpZWJScEpNYWpNcHk5QWdqdEZPVko4Z2lCZ2NfSVA3TUZuaHY1aTlB?oc=5",
+     "r": "Tribuntipikor Online"
+    },
+    {
      "t": "Pemkab Bandung Kaji Kenaikan Tarif Air Minum Tirta Raharja pada 2027, Kemampuan Masyarakat Jadi Pertimbangan - pantau.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2dpcnVNRmtTUlhnZXRYbVlQUG5fa0RVYnhNTUxHcjI0ZzN0RWhCSk1jZEI5a0JrTnRkY2xaNkZDOWpkeVp3QkVVemJ0UmRBX095Z2xvVkhaY1c4SG5BOU5BWHR2YVliQl9ZZTVsQ3dpU0oxTXI2eXNNWVhPcko1cG5YN2lNcVZ2ZlZwQl9rcmJhN3ozc2hQYVZmOFJQcjEzTDVsWE0xSElVYVZ3YVFpaXVxMGdqU2xBVlYzQ2RtOHpHUmdXMHlwZGtYeWNLaXJ5dUgzLTN5VjZtTDQ1b0E?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVmQm5mbnBzdlZ3Nk0xN1g0SktDdUE3Q2h1UlVaVzQxZnZIX1cxMmtjYnVBdnZkS25nQkpMemRxZXpYcUdpLV9GY2xuQnVqU2F4WDJOVjZwX21pVmp1bUM0V2ZCN05qNnJzTy1qVWxtQUt1SUhKTnUwQ3ZJRi1GNzY3am9rVDJPc2tISEpoUkZMNHlJbDNBRFdVWE9nS2FVeWRscWlQR1NxQXJZbWk0QUlHZlRueVhpRGNleg?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Pemkab Bandung Optimalkan Pajak dan Retribusi untuk Kejar Target Pendapatan 100 Persen - JakartaTerkini.id - JakartaTerkini.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFp5VWJiM1RuVHNmQjdoU0l5bHh3Mk92OGpldFBsYk9sMHktMFVEUllna2VMakpPYlJ0d1cwdXI5Z2VLcDFvTVlDWm5WeFJ0VzlDbFNHQ016UTNEU3ZkM2NzMWExeHBsQ1FHbnRLQXRpMFdlMjd2UzJ6ODN5ZDlzRTVvV25kSlh6aFIzbFpvUi1MYjZEOFMzYUphTEpKNkV5aDB6a0RqOVRGXy1EYVpTaG5OVEVfSktqU25mbmprNnh3ekEwUTQ0OWtnR0ZndERpU1drTHBINWtJbjjSAdsBQVVfeXFMTVhaeVViYjNUblRzZkI3aFNJeWx4dzJPdjhqZXRQbGJPbDB5LTBVRFJZZ2tlTGpKT2JSdHdXMHVyOWdlS3Axb01ZQ1puVnhSdFc5Q2xTR0NNelEzRFN2ZDNjczFhMXhwbENRR250S0F0aTBXZTI3dlMyejgzeWQ5c0U1b1duZEpYemhSM2xab1ItTGI2RDhTM2FKYUxKSjZFeWgwemtEajlURl8tRGFaU2huTlRFX0pLalNuZm5qazZ4d3pBMFE0NDlrZ0dGZ3REaVNXa0xwSDVrSW44?oc=5",
-     "r": "JakartaTerkini.id"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      1,
-     20,
+     43,
      1
     ]
    },
@@ -136,9 +136,9 @@
      0,
      1,
      0,
-     2,
+     1,
      0,
-     0
+     1
     ],
     "g": [
      0,
@@ -173,10 +173,10 @@
      "r": "ANTARA News Megapolitan"
     },
     {
-     "t": "Dukung Kontingen PORPROV XV Jawa Barat, Ketua dan Anggota Komisi B DPRD Kabupaten Bandung Hadiri Pengukuhan Atlet di Jalak Harupat - Pemerintah Kabupaten Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa1ZaeW1JbzI1YnZjUWxXdGxEbC01MzVVVXByOF81cUxMRGFreER3QmxDYUJGbWN6dURKSlA0bms4SFNiNi1abVVIa1phTFpPSFBENkpTLWdvcVM3MG1acGpSUjZKYVZSSDJXb3RNRURnSklEZDFUTXhKMW5yWk80VDdENlVOVTN5VTE2QU9QbXJYamNZMUFoeXZMUWppd1RQQTlzZ2FqaWFpcnZlTWUzTXJKWEIzdHhIeC1sV0drQkpPN1UtUlplVThfeVBYaUtldUgtQmFkYjVmUWxHUi14WFYtV3FMbUt4ODFTdUk2emUwQk8tVlJqVVl1UnA?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "t": "Konsultasi Publik Tarif Air 2027, Tirta Raharja Utamakan Keterjangkauan dan Mutu Layanan - Fokus Satu - Fokus Satu",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSklzTldabVBvNkxaNmcxYnltZmtRb1JsX1lVdlhFSVkyYlpjSzZyRVRqMGExajlYT1ktUmFXcGtyQTRQZXE2REFodFpaWUd1UDZsZEh0T0JxWkZfWWZXdHZBeWplZVp1QnRIX3FzWU1SVmJyaTZERFltV3BQc1V3THBEMjF5Y1BSc0NDWTJNOXQ3TzBrcXEzcVp4alk4Z0M1dlZxa0ZDelZWQ1RiRDkwWDZETU9BRmQxV3J2aTVVQ0prbkxubncw0gHMAUFVX3lxTFBwSGhDMUZzZ2FRZnhtckV1aFZucWJSZTI5SFBfeHNvc0ViT1lkQlhpS2xuSmRENmxXOEdjSFRYV2t6RGtoTDRLYy1CWXUtU3ZWV1JuV3VyNkVlMGR5ZmNTMURmOEoxeXR1X2JwTEptQW5mYVdIZGN0MXlRemo3MkQ0aWFvNV9HSk5VNDhrdzJsNVQzaHJtNlRNdldLN09SOHJYQXNCZ0pwTTVPTTVHNFRxVmF2eWF4YkxaWEJmdmtDamt2Vmt4R21yWUNWNA?oc=5",
+     "r": "Fokus Satu"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     12,
+     14,
      3
     ]
    },
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     7,
-     14,
+     6,
+     12,
      0
     ]
    },
@@ -284,7 +284,7 @@
      "Rab"
     ],
     "p": [
-     3,
+     2,
      0,
      0,
      2,
@@ -352,7 +352,7 @@
     "w": [
      1,
      9,
-     14
+     15
     ]
    },
    "trend": {
@@ -379,7 +379,7 @@
      2,
      2,
      1,
-     8,
+     9,
      1,
      0
     ]
@@ -427,8 +427,8 @@
     ],
     "w": [
      5,
-     4,
-     12
+     6,
+     14
     ]
    },
    "trend": {
@@ -451,12 +451,12 @@
      0
     ],
     "g": [
-     0,
+     1,
      4,
      3,
      0,
      0,
-     6,
+     7,
      0
     ]
    }
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
+     "t": "DINAS PENDIDIKAN KECAMATAN CIMENYAN KABUPATEN BANDUNG PELAYANAN PENDIDIKAN MAKSIMAL - Tribuntipikor Online",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjJnLUJPbDZ2U2trejRYanhRT25zXzgwYmZmOGZxZ1dTQVF4NzNUS1lpT0VNUGJsdjRNWWRWRUdsNFNhSGotYWtXMVBkaVl3djBzU0g0SUYyd3FteGdHSlVmUTVRRzBLV1VhMVV2MFhESEN2U0QydkQ5RFV0QVFQNWFkejhFeTJuMm4xb1hHRkpwQzBLZWZpZWJScEpNYWpNcHk5QWdqdEZPVko4Z2lCZ2NfSVA3TUZuaHY1aTlB?oc=5",
+     "r": "Tribuntipikor Online"
+    },
+    {
+     "t": "Diky Ajak Insan Pendidikan Bersinergi Cegah Korupsi dan Kekerasan di Sekolah - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc201M1pZQjhWbVZYZ084Mmc5NmlJUy1FYWRLZkxQRkk0b0E0S2tBNnpBZXJDdTE3MnhfOHdXS2M5NU9GR0ZSdzJ4M3FsazZJQVRMYWllWUJrVEpodmszb0dyQlU4SjNKMFlwOHZxTkp4U0lHTlJEeVJZdFVsTV82RUxsVXBjRVgzaXg4NEQ0eEJRN3BRdHJJYmdPbHYtb01CWXRsMWhmTzBrWFI3RGFrZE1naTZfQXF4Y3pxQUJKbw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Jambore Literasi ke-5 Leksam Bedas Apresiasi Peserta Tantangan Literasi Selama Delapan Bulan - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUk4cG1aUEJuMUI2UWZGbzFMQ0xzNHU1ZGhGN205RmRFTXhjVGRNYkh2eU5JaGh2Sjd3b2JBZnFPSnUwY196T1hfZEcxdTFPc1ZEQ0x3eGI5bjFxQ2ZqRDlZeGMydWRLSXlHazYzcmc1N1NiWWFZV3l3c0lGcFFreXJzWmhYUTU4MThxS21XSFlIQmo0YUhCa2hHajJZNzVtVmxNQllKRHEwX296LTQxY2dTSDlNbTFUaF9JYW82Zw?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "Nestapa Keluarga di Pacet Bandung: Hidup dalam Cengkeraman Kemiskinan Ekstrem dan Gangguan Kejiwaan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdGxQbUJ2TDRFM243LTZYUVhLc3dmOEtmbmNOOXRUekkxMGJuQlpZTHY5QlpjUzFTWnBSWEcxRko0X3dtNldmdmtGYTB0UUhKYUtNc1RtRFV2MDktN1p2dEsybHZZZFhyeC1nbEx3T2ZyRmlZWVFwbUhHN29sY0cybjljc3VERFVuUTdWU2hHeHhlWUtpZnFKSVg0TkZNazJVcEZkLWVqSk5VY29uVzFUTWloVVh5YlQ2QzYxRjBSLUFPUENxSVNNcnRqS0JhemJreTBTeA?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "GBSI ke-5 MGMP Bahasa Indonesia Kabupaten Bandung Digelar, Siswa dan Guru Unjuk Kreativitas - deJurnal.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVZyNTJuN3RkQjNab09yMktiR0FoeTc5T253aW4xLWRjQVNSNGhXU0VWWFlEWml6eXB2RnRGYUZjOWhxY0JUYUdrNW5HWnVQeUpsTGF5Z1g4SGJnVXZuZ3Z4Q1VRRV9FYkUzR0xtUG96VmY3cmNGbVRVSEhrblhYdVk3eWQybXZwU2w3YmxVR214Sjc3ZUZ1OVM2X2Z0QWd6aG8wLTA5aGtLOVFncXR0c3l5dTVqWHZtMmFfaQ?oc=5",
      "r": "deJurnal.com"
     },
     {
@@ -508,9 +508,9 @@
      0
     ],
     "w": [
-     6,
-     7,
-     3
+     9,
+     9,
+     4
     ]
    },
    "trend": {
@@ -525,12 +525,12 @@
     ],
     "p": [
      2,
+     2,
+     0,
      1,
-     0,
-     0,
      4,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -538,7 +538,7 @@
      1,
      0,
      0,
-     1,
+     2,
      0
     ]
    }

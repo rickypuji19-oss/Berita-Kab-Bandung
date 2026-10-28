@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:39:44.272210+07:00",
+ "updated": "2026-10-28T23:38:38.162771+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,12 +11,12 @@
    26
   ],
   [
-   "Ayo Bandung",
-   18
-  ],
-  [
    "Kompas.com",
    17
+  ],
+  [
+   "Ayo Bandung",
+   16
   ],
   [
    "RRI.co.id",
@@ -35,11 +35,15 @@
    6
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "Jurnal Soreang",
+   5
   ],
   [
-   "Jurnal Soreang",
+   "ANTARA News Jawa Barat",
+   5
+  ],
+  [
+   "detikcom",
    5
   ],
   [
@@ -51,20 +55,16 @@
    4
   ],
   [
+   "Koran Gala",
+   4
+  ],
+  [
+   "Disway",
+   4
+  ],
+  [
    "opininews.com",
    4
-  ],
-  [
-   "PPID Kab. Bandung",
-   4
-  ],
-  [
-   "Bedanews",
-   3
-  ],
-  [
-   "Koran Gala",
-   3
   ]
  ],
  "topics": [
@@ -87,7 +87,7 @@
     {
      "t": "Pemprov Jabar Usulkan Rp80 Miliar untuk Urusan Agama di APBD 2027 - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnJ3REo5aHpWWEpya3JMSnlBbDd1djlTMlZaR1JTck5DNnc0ME5ORDFPS2ZrYm56RjgtRWdmelpjbW9SMm5rRUgySERZUTVLMVpGSk5RRHRVaWF0MnlUQWNaT0V4VmxkSHZJZGk2STE0MnpKMTlvWjRCcjlPcjFrblV1QTJWZGJpbmxWcWdOMDk1dE5pbUJTSWJ3bGVUWlY2Ti1BckVNaTVYb2RxRFIxZmV4OFIyNEHSAbwBQVVfeXFMT1hnR0l6RG9FRHU0MTNpREp4ZS1KdTZLam1Hb0VfNDZiZlNxSTFzS2xHQzMtVlR0RUtyblFmSnFDSUtlbi1nb1c1Y2pVVEpwX2V4OWRGeklrelFhYUxCeU1pYnNIbjBqOXVtYWQ1alpBY29SUUl2eXZHMUdNd3dPMmF5ZGpsWjlXMmxwck1vbnl2eUJsTkNrYUlkdGhsclRVZ1M4NmItTGdIMnYwRlZITkVZTUdldmtNRWtZM0g?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3p3MDQtSHc4VjZkYkdwMDJMcF9YUkxzazlqS2FwT3VRVmVkbERiOFI1RFFfNlFpdDBUSjhqUmEzQmt5TFZSUVV3ZlpXbmJ3MzM0Nlk2Q1NhZ3UzdHZ2V1d1NkNmcDdVeHJZLWtXTEtCX21HV3VRaDZsZlBsNmpxQ1ZKUzBMNFNxSEYzelE1U3E2UDIwYnV1SWY1aUVYUEpHUXRDWTdZbFNUeHdURzFBeE52YUp0SlVyMnEyVElxQ1DSAcYBQVVfeXFMTTJlNnV0ZC1iUHNZRjZpT0x2Xzc1c3pfY2IzQy1XWkZwTUxuWWJtd2c0c0hqRXdaN3UtZkFMaGVsSzdnWHlzMmNMR0R3NDlENEszd2xpUW4waXpKdEQ3WTRoYUd5QXZxVEVFYzlFQmJUcUtwSE9WRjZYZWVxY3FJaGNqTGptWUE1NmI1TW1jX3BVQjhZRlgxVUJxWTdsdWFRa3d2dVJXcWdrRmUwSFRHa1poaF9nOEVneUlGcDNKZlJkbTFwUkN3?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -117,7 +117,7 @@
     ],
     "w": [
      14,
-     15,
+     14,
      3
     ]
    },
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     9,
+     10,
      14,
      0
     ]
@@ -287,7 +287,7 @@
      3,
      0,
      0,
-     1,
+     2,
      1,
      3,
      2
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     17,
+     18,
      16
     ]
    },
@@ -434,7 +434,7 @@
     "w": [
      4,
      7,
-     14
+     13
     ]
    },
    "trend": {
@@ -457,12 +457,12 @@
      0
     ],
     "g": [
-     1,
-     3,
+     0,
+     4,
      2,
      0,
      0,
-     7,
+     6,
      4
     ]
    }

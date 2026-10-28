@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:38:38.162771+07:00",
+ "updated": "2026-10-29T00:34:16.405032+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,39 +11,27 @@
    26
   ],
   [
-   "Kompas.com",
+   "Ayo Bandung",
    17
   ],
   [
-   "Ayo Bandung",
-   16
-  ],
-  [
    "RRI.co.id",
-   13
+   12
   ],
   [
    "Radar Bandung",
-   11
+   9
   ],
   [
-   "jabarekspres.com",
+   "Kompas.com",
    8
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "jabarekspres.com",
    6
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   5
-  ],
-  [
-   "detikcom",
+   "Pemerintah Kabupaten Bandung",
    5
   ],
   [
@@ -51,7 +39,7 @@
    4
   ],
   [
-   "Satumedia.id",
+   "Galamedia News",
    4
   ],
   [
@@ -59,12 +47,24 @@
    4
   ],
   [
-   "Disway",
+   "Jurnal Soreang",
    4
   ],
   [
    "opininews.com",
    4
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   4
+  ],
+  [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
+   "Satumedia.id",
+   3
   ]
  ],
  "topics": [
@@ -85,16 +85,16 @@
      "r": "deJurnal.com"
     },
     {
-     "t": "Pemprov Jabar Usulkan Rp80 Miliar untuk Urusan Agama di APBD 2027 - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3p3MDQtSHc4VjZkYkdwMDJMcF9YUkxzazlqS2FwT3VRVmVkbERiOFI1RFFfNlFpdDBUSjhqUmEzQmt5TFZSUVV3ZlpXbmJ3MzM0Nlk2Q1NhZ3UzdHZ2V1d1NkNmcDdVeHJZLWtXTEtCX21HV3VRaDZsZlBsNmpxQ1ZKUzBMNFNxSEYzelE1U3E2UDIwYnV1SWY1aUVYUEpHUXRDWTdZbFNUeHdURzFBeE52YUp0SlVyMnEyVElxQ1DSAcYBQVVfeXFMTTJlNnV0ZC1iUHNZRjZpT0x2Xzc1c3pfY2IzQy1XWkZwTUxuWWJtd2c0c0hqRXdaN3UtZkFMaGVsSzdnWHlzMmNMR0R3NDlENEszd2xpUW4waXpKdEQ3WTRoYUd5QXZxVEVFYzlFQmJUcUtwSE9WRjZYZWVxY3FJaGNqTGptWUE1NmI1TW1jX3BVQjhZRlgxVUJxWTdsdWFRa3d2dVJXcWdrRmUwSFRHa1poaF9nOEVneUlGcDNKZlJkbTFwUkN3?oc=5",
-     "r": "Ayo Bandung"
+     "t": "PKB Kabupaten Bandung Jadi Contoh Nasional karena Sukses Kuasai Eksekutif dan Legislatif - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkNEYkJlRk82UXI4VWR1RUgyUzNMeVdzY0xkQmxxYmZTVTQ4Ukx2SXFsdmhXRkMxaGlqUW4zTUxDSWNKaUZCajNldlhHWXo0OURJbWlnQnpJZktXTlduQVJobWl2bG5qMmVtdC1SX25XVmNCdjZZWk5jal96eHY4WkhwTkZZMkdDTWNkV2stU1Nzamd6Zlpwa0I5R1FZQ3RpLWNadUR4SXdmOU1ZX1NJdGFUTW13MEdJMkhla29JYXE4Nll3WHNHNnZGQUVteE5DZzlfbnhXSXFsNDYw?oc=5",
+     "r": "Galamedia News"
     },
     {
-     "t": "Sapa Pemuda, Bupati KDS Dorong KNPI Garap Peluang Kerja hingga Petani Milenial - Bale Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlpqTHN5Ql81dHduSWs3YmdFdnQ2cTkxcEp4NGQ3OHJDRXBHeG80Q0NESlRwT1BjdEpBVDhiSXkxTVJqMXVLOUVQdl9TY2JORU5CeWw4aGx3b1JVVGZXY3pYUGRLSjZNUnkxV1Nkd0llOGhVRnlmNktfekxGV285NDdESk92TG9hb2t1Rm42VWhqUmhVNmdVSGk3QkItdmVYc3FWVmd2QnI2UQ?oc=5",
-     "r": "Bale Bandung"
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -112,33 +112,33 @@
    "v": {
     "s": [
      2,
-     4,
+     2,
      0
     ],
     "w": [
-     14,
-     14,
+     15,
+     17,
      3
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
-     0,
      1,
      0,
      1,
      0,
-     14
+     15,
+     0
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     0,
-     3
+     3,
+     0
     ]
    }
   },
@@ -186,37 +186,37 @@
      0
     ],
     "w": [
+     12,
      16,
-     18,
-     4
+     2
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     4,
      0,
      2,
      1,
      1,
      2,
-     6
+     6,
+     0
     ],
     "g": [
-     2,
      0,
      0,
      1,
      0,
      1,
+     0,
      0
     ]
    }
@@ -268,29 +268,29 @@
      0
     ],
     "w": [
-     10,
-     14,
+     6,
+     12,
      0
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     3,
      0,
      0,
-     2,
+     1,
      1,
      3,
-     2
+     2,
+     0
     ],
     "g": [
      0,
@@ -346,24 +346,24 @@
    "v": {
     "s": [
      0,
-     3,
-     2
+     1,
+     1
     ],
     "w": [
      1,
-     18,
-     16
+     15,
+     14
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
@@ -371,17 +371,17 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ],
     "g": [
      2,
      2,
-     2,
      1,
-     6,
+     5,
      1,
-     4
+     4,
+     0
     ]
    }
   },
@@ -432,38 +432,38 @@
      3
     ],
     "w": [
-     4,
-     7,
-     13
+     1,
+     6,
+     12
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     3,
      0,
      0,
      1,
      0,
      0,
+     0,
      0
     ],
     "g": [
-     0,
-     4,
+     2,
      2,
      0,
      0,
-     6,
-     4
+     7,
+     4,
+     0
     ]
    }
   },
@@ -510,42 +510,42 @@
    "v": {
     "s": [
      2,
-     4,
+     2,
      0
     ],
     "w": [
      9,
-     21,
+     20,
      5
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     1,
      2,
      0,
      1,
      2,
      1,
-     4
+     5,
+     0
     ],
     "g": [
-     0,
      1,
      1,
      0,
      0,
      2,
-     1
+     1,
+     0
     ]
    }
   }

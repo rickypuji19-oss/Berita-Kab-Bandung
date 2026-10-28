@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:35:50.856397+07:00",
+ "updated": "2026-10-29T03:28:32.447896+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   16
   ],
   [
    "RRI.co.id",
@@ -24,18 +24,22 @@
   ],
   [
    "Radar Bandung",
-   9
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   6
+   7
   ],
   [
    "jabarekspres.com",
    6
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
    "deJurnal.com",
+   4
+  ],
+  [
+   "Galamedia News",
    4
   ],
   [
@@ -43,15 +47,7 @@
    4
   ],
   [
-   "opininews.com",
-   4
-  ],
-  [
    "ANTARA News Jawa Barat",
-   4
-  ],
-  [
-   "PPID Kab. Bandung",
    4
   ],
   [
@@ -59,11 +55,15 @@
    3
   ],
   [
+   "opininews.com",
+   3
+  ],
+  [
    "Pikiran Rakyat Koran",
    3
   ],
   [
-   "detikcom",
+   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "BAZNAS Kabupaten Bandung Dukung 25 Siswa Lanjutkan Studi ke Al-Azhar Mesir - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTVxMlNhZWZ5VTZRbThNeDl0T3VQVk1IaDlxVGtSZ3FCcnFrempZZW1oZElDeFR1TVRZM0ljZ0MtRHhNSlNvTUJDaGtGYWFrWXJGWmMtdHl1RVNVbTRqNWt3Nko5cEZOeHVNRlR2MWdHMGpUYW8zN1prTWxCRm56Nng2MjV6RnN3ejY2TGgxZ3lTbW45aTdId3dCZ1jSAZwBQVVfeXFMT2E1cTJTYWVmeVU2UW04TXg5dE91UFZNSGg5cVRrUmdxQnJxa3pqWWVtaGRJQ3hUdU1UWTNJY2dDLUR4TUpTb01CQ2hrRmFha1lyRlpjLXR5dUVTVW00ajVrdzZKOXBGTnh1TUZUdjFnRzBqVGFvMzdaa01sQkZuejZ4NjI1ekZzd3o2NkxoMWd5U21uOWk3SHd3QmdY?oc=5",
-     "r": "Ketik"
-    },
-    {
      "t": "Peringati Sumpah Pemuda ke-98, Bupati Bandung Lepas Ratusan PMI dan Mahasiswa Al-Azhar Mesir - deJurnal.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmJIMnFtcUI1ZDM1WHI1NDlQTldKOGM2bkRDdWRubVBCRl92NHZBWTZndDBnV18xN3o3ekh5Z1JHYk1ZaU1aYzVwZmhQQ2k4YUdlOEpDcGdIUTRtOVNYNUdsNHdyQTh3cmY4LU5tZ1kzY2ZlRS0yR0tqR2htMEpvWWhIbVZOQllVZ285c3daT3pSWnlRVWI5UGd0cC1ZSHJWNzh3OVk4U0RPZ1lUQnlKTHR5SGJIYlZDWl9JZTVB?oc=5",
      "r": "deJurnal.com"
     },
     {
-     "t": "Pemprov Jabar Usulkan Rp80 Miliar untuk Urusan Agama di APBD 2027 - Ayo Bandung - Ayo Bandung",
+     "t": "PKB Kabupaten Bandung Jadi Contoh Nasional karena Sukses Kuasai Eksekutif dan Legislatif - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkNEYkJlRk82UXI4VWR1RUgyUzNMeVdzY0xkQmxxYmZTVTQ4Ukx2SXFsdmhXRkMxaGlqUW4zTUxDSWNKaUZCajNldlhHWXo0OURJbWlnQnpJZktXTlduQVJobWl2bG5qMmVtdC1SX25XVmNCdjZZWk5jal96eHY4WkhwTkZZMkdDTWNkV2stU1Nzamd6Zlpwa0I5R1FZQ3RpLWNadUR4SXdmOU1ZX1NJdGFUTW13MEdJMkhla29JYXE4Nll3WHNHNnZGQUVteE5DZzlfbnhXSXFsNDYw?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3p3MDQtSHc4VjZkYkdwMDJMcF9YUkxzazlqS2FwT3VRVmVkbERiOFI1RFFfNlFpdDBUSjhqUmEzQmt5TFZSUVV3ZlpXbmJ3MzM0Nlk2Q1NhZ3UzdHZ2V1d1NkNmcDdVeHJZLWtXTEtCX21HV3VRaDZsZlBsNmpxQ1ZKUzBMNFNxSEYzelE1U3E2UDIwYnV1SWY1aUVYUEpHUXRDWTdZbFNUeHdURzFBeE52YUp0SlVyMnEyVElxQ1DSAcYBQVVfeXFMTTJlNnV0ZC1iUHNZRjZpT0x2Xzc1c3pfY2IzQy1XWkZwTUxuWWJtd2c0c0hqRXdaN3UtZkFMaGVsSzdnWHlzMmNMR0R3NDlENEszd2xpUW4waXpKdEQ3WTRoYUd5QXZxVEVFYzlFQmJUcUtwSE9WRjZYZWVxY3FJaGNqTGptWUE1NmI1TW1jX3BVQjhZRlgxVUJxWTdsdWFRa3d2dVJXcWdrRmUwSFRHa1poaF9nOEVneUlGcDNKZlJkbTFwUkN3?oc=5",
-     "r": "Ayo Bandung"
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     13,
+     14,
+     16,
      3
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     15,
+     14,
      0
     ],
     "g": [
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
-     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Radar Bandung",
+     "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Pikiran-Rakyat.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHNnempsTE1CamtPaW1zNzJ4YlJhZTNNV0c2bzZ4Nk4ydUVZRFNUUDJsNzFIMmxmODcxN1prLTR5WWJBS0wxOC1BUW50dDBpWlNpQ056YVJDbHhwOXZ0ZXkyOUVFSDlzTzNZU1Q0LW52YzI4aFhOald4UEplcWtLb2puY0xOS1RwQnFRVS1vdUVWaVIxMUpNWUZ3SG0yY1BQc2lqYW5jenAyT3lhLXVwbzVhcmY?oc=5",
-     "r": "Radar Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkhSTG44aDRVaHkwaVZibGw1eUEtcXZERFFIYlBmRHlTRW9DSzB6cFprWmNoT25YMHd6TlpzNUpTRHRxaWhqWVJRNW1TZzNGSnR4TFR6Zm92dThQT1VseFc0VE5MLWpydzF6WVFlQWt6NGhWQTBhV3ZYMTJRVm1IVE94dnRjUVdRcV8wMzBVTjlmbmtDSC04RkFiNGNzRkxRRmt4NHRMU2ViOG5kUi0xaEtOTndMZDN1U2lyNXFseGN3d9IBxwFBVV95cUxOZDN4LUF6VzNCT3d4LUhJWk5QQUh5bkpKeUI1MmtrM2NOYndHYnowem0td3FraV9DM1QzbEUtWTZfNHczdWlvN0I4QlhWVkZaS05URmJiWFB2aHltb25DSzNRLXFFMXpvdVNxRW1jOWFpTmJSX0R2ZTJXa1RFTlBpdU12akJVOUl6eFJmZXFRZzkzaHdwSjA4Rk1vVFlmRWdPUnlncTZNWW5jVUtQWGM0QVVUejhWZGtrclM0b0JwSGRfaVoxaUhF?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
+     "t": "Kopi Bandung Tembus Saudi, bank bjb Dukung Ekspor Wanoja Coffee Rp4,01 Miliar dan Perkuat Pembiayaan Petani - Desk Jabar",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVDQ2VFVGRG9rUHJyUE5jMW9iTVRJZ3hmcVN6dGZGYjlPdUR1M0VOT0pxeHUtVlJmc0hsUXBSN3hqMXFDa25uamNTVzZCLWdMY0dxS2hVS2JvZ2pLa1N6RWhWQUZTRlV3SUdfTUkyeFYxUGliMm9DenhQaDZleGdzQ181ejZ2VG1sSkVjWVZCd3lfYmNFemEwRXo3TmFMMVpVbGcwN2pKSkZuTkZVb1pWZ2ZkeXpqSVRibTlxeFhOOFBFX1ZoeHplOWlYcDRfa19iY09xWVJpckhaNWhOblRXRmRFSy0xYXlhRjRNcThIUUZSNFk4MXE1QlRpcGFUMGx4RDNYV2FB0gH_AUFVX3lxTE9ncEd3TWNDZFk5X3JlRWZTOEtYSkVoQUsxeUlDd0hmNTBWZW1RTWFhZENMUFc3aEN4R0pRMEtZUkY5Yy1ENW5ONWtlcmFtX3RXZ0NLV0FVeW5JNlNoOTZVZW1OZjBKNWdaUm9GOWUyUjZQQ25CMlFXWjEwTXpSU3I4UV84NDNleExaTWxPTEg5eExEOWNnamVQLW9nanRWZElVWUoyVjFFN3dWQUJvQ1pEQVlzM29QME1aaWdyNjhKNjF1TnhrM3o4eXZ5RG9GYTVDY05DMUJ0RjFnVGMtblN6aWFhekdZZU9KdGktMmxTOUN3Q09LNEhjZ0NjZktmYw?oc=5",
+     "r": "Desk Jabar"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     6,
+     4,
      11,
      0
     ]
@@ -288,8 +288,8 @@
      0,
      1,
      1,
-     3,
      2,
+     1,
      0
     ],
     "g": [
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     6,
+     5,
      13
     ]
    },
@@ -457,11 +457,11 @@
      0
     ],
     "g": [
-     4,
+     3,
      2,
      0,
      0,
-     6,
+     7,
      5,
      0
     ]

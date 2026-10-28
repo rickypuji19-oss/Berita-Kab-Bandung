@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:29:39.246366+07:00",
+ "updated": "2026-10-28T14:46:36.106937+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,35 +8,35 @@
  "portals": [
   [
    "Pemerintah Kabupaten Bandung",
-   43
+   38
   ],
   [
    "Tribunjabar.id",
-   21
+   23
   ],
   [
    "Ayo Bandung",
-   14
+   13
+  ],
+  [
+   "Kompas.com",
+   12
   ],
   [
    "RRI.co.id",
    11
   ],
   [
-   "Kompas.com",
-   11
+   "Radar Bandung",
+   8
+  ],
+  [
+   "jabarekspres.com",
+   7
   ],
   [
    "ANTARA News Jawa Barat",
    6
-  ],
-  [
-   "Radar Bandung",
-   5
-  ],
-  [
-   "jabarekspres.com",
-   5
   ],
   [
    "detikcom",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati Bandung Lantik dan Ambil Sumpah ASN, Tekankan Integritas dan Pelayanan Kepada Masyarakat - Media Purna Polri",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalp4aE1PZ2RnYlpZYk02eFhwa2tEZjdKOXZ0Rko1Rm52cGdUeEw2VzNNS1RBUDd2RUxlaHhBRmt6ZWlhQVJPaGF4N3NMRnMwSjREOFVhVzBEQXdZUkw4dkZ2THY2MW1VaTNGRFZIYkhNRDh3cTlGa2hnT05sb29TT0VYRmZqNHJ5VWU3RkVMcHVuVlA5aHkyc0JJeWphSFZTVUFYM3FuUGJuMDNaZF9pR2FLWF91a1dIWTRHUjFHbHhwT3JNNm4td1RtQXBjajA?oc=5",
+     "r": "Media Purna Polri"
+    },
+    {
      "t": "Memasuki Penghujan, Pemkot Bandung Petakan Titik Rawan Banjir - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZDNW0zTTdkcEJBMW5va2xWUUV6eTFEZmVPdVVBc1p6Vkk0RlhyUVdwSE1tU0N6RTZHRmROVHNXNW12M0QtZllHY3VmVXJncTlzR1B3b19zSEFjb1BkclR6MjdfSFFRMlhvRFU0QjhkZGd5RkNyTE05UndkZXk2dGZMdDR6RzY0Q0JSdFd3ckxuNjhyb1BPdTFrWEtrSnVjd0U5S0ZR?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTlnbmhvb2o2WWE0RGQ5RzZlRDlHQlRUZUszenZEekpMTEVjTWdadHczdm8yQjRkMGtQa2pyYTJwd2NpNVN5eVFnLWJIYUo1VHFRTllZOS14SHlXeHNGSVFwWkdZTXpXRXZZQ0hibkdfVVpiajQ5NVVDa3ZrMlFpRHBIWkdJQ2J4Y0FHcERWNDBudFl4TlBPRGJvVF9CM1puVFNpRGZQMU5zUGNBLWx5MlpnY25ZX21CcmhNYWRQM1ZnNEFQeTVUYjZMMA?oc=5",
      "r": "BAZNAS Kab. Bandung"
-    },
-    {
-     "t": "Dorong Kepastian Investasi Daerah, KDS Perjuangkan Sinkronisasi LSD dan LP2B di Tingkat Pusat - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYlE3WkpXcEZNTmk2dzFVb3FMdVBjblBTSkhKWEFtVVBIU3BLVVM1QXNzemVOMHM0dGIyUy13UjdqQkhoMlBLd3lZMk11RUgzYWE0Sk9RZHZrUDB0NF82MW9qcl83NnJadGJsbGJNa1dZMDZzN2VZeDZmckF0azNPOWExWnpSMG8wWGxGNE40SnhPR2xYaklBSi1BaFVDeHYtcEdGYTBYWWN1aEVVYlBockFEdzBOM3ctWGF6UDh6cWVBNGR6VWxDN1d5ZWNzLW9RNmlqUVc3dU9RUFptc0V6ZGlB?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     3,
-     47,
+     4,
+     42,
      1
     ]
    },
@@ -138,7 +138,7 @@
      0,
      1,
      0,
-     3
+     4
     ],
     "g": [
      0,
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
+     11,
      13,
-     2
+     3
     ]
    },
    "trend": {
@@ -202,7 +202,7 @@
      "Rab"
     ],
     "p": [
-     3,
+     4,
      0,
      2,
      1,
@@ -216,7 +216,7 @@
      0,
      1,
      0,
-     0,
+     1,
      0
     ]
    }
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHNnempsTE1CamtPaW1zNzJ4YlJhZTNNV0c2bzZ4Nk4ydUVZRFNUUDJsNzFIMmxmODcxN1prLTR5WWJBS0wxOC1BUW50dDBpWlNpQ056YVJDbHhwOXZ0ZXkyOUVFSDlzTzNZU1Q0LW52YzI4aFhOald4UEplcWtLb2puY0xOS1RwQnFRVS1vdUVWaVIxMUpNWUZ3SG0yY1BQc2lqYW5jenAyT3lhLXVwbzVhcmY?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Pikiran-Rakyat.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkhSTG44aDRVaHkwaVZibGw1eUEtcXZERFFIYlBmRHlTRW9DSzB6cFprWmNoT25YMHd6TlpzNUpTRHRxaWhqWVJRNW1TZzNGSnR4TFR6Zm92dThQT1VseFc0VE5MLWpydzF6WVFlQWt6NGhWQTBhV3ZYMTJRVm1IVE94dnRjUVdRcV8wMzBVTjlmbmtDSC04RkFiNGNzRkxRRmt4NHRMU2ViOG5kUi0xaEtOTndMZDN1U2lyNXFseGN3d9IBxwFBVV95cUxOZDN4LUF6VzNCT3d4LUhJWk5QQUh5bkpKeUI1MmtrM2NOYndHYnowem0td3FraV9DM1QzbEUtWTZfNHczdWlvN0I4QlhWVkZaS05URmJiWFB2aHltb25DSzNRLXFFMXpvdVNxRW1jOWFpTmJSX0R2ZTJXa1RFTlBpdU12akJVOUl6eFJmZXFRZzkzaHdwSjA4Rk1vVFlmRWdPUnlncTZNWW5jVUtQWGM0QVVUejhWZGtrclM0b0JwSGRfaVoxaUhF?oc=5",
-     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     8,
+     10,
      12,
      0
     ]
@@ -284,13 +284,13 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      0,
      0,
      2,
      1,
      3,
-     1
+     2
     ],
     "g": [
      0,
@@ -313,21 +313,21 @@
    ],
    "h": [
     {
-     "t": "Polrestabes Bandung Pastikan Tindak Tegas Pendemo Anarkis, 13 Orang Telah Diamankan - Tribunjabar.id",
+     "t": "Ringkus 8 Pelaku Penyerangan di Pasar Caringin Bandung, Polisi Ungkap Ini Motifnya - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkk3eHc1VERYQmxkUWxnWkd0cm5ObTBWY0tnTG1nN3A2TEhBa0pYSDVmblh6d1RmVk9kekl5VlFQcFZIRDJuUW5wRl9mQzM5X1EyUC10YUx6LXNqWUctMk5yYWhMTW5DeXdtZXNLcGhxM1RoTF9jWVhoRHBPTHJSTFRYYTJZVFRLYlFhLU1aU2pEZFM3YkJWTDQ1VGk3TVg0Q2F2bkZKazk0alB6c2dNeTMyZEo3d3lBM2ZaYnVSeVhFalk?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
+     "t": "Motif Perselisihan, Delapan Tersangka Pengeroyokan Maut Caringin Ditangkap - Radar Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWVmVi1mUkhuX0RHMmYySHh0WU9PWVJiQkV5Y3hkbnNLYUlZSnF0elctTDJoWTB3UVF2TXdNcHZDUzBhbnlyY01MM2phS2NtbTdjT3Etdk5fVkVtZmxiV013ejdyWUt6QWdQSmRzRy1uM0w1Z1pkVlhyWXN1aXVUR1RaTDVjeldxVmkwVVF0VHZ3THZkcmdPNF94SUNrYjNhWm5GM1hMdTJGOWs3OHZTNktZdG9zem5QOE9zbzEtNkRnUGwwYktYamtydWs5Zw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0xLV1dlY0RnTWJwcUVOUzJBNHR1Q1BXWkx4T2lLNDYtRndST2MySi02T1lDYVoxX0N5ZS1NbkZLbmRIMHZ2N3J0eGFBM1hRVk9jOXpFdGN0anpVeUdIY0JyclZmSjBiem1DQ2V1M01RM0VVUDVJbzFrbnQxUmRqUS05c3l0cTQ1QkllMGxzd1lXcWhXM2hSalRPaXdtempsUlVqZEVCUTdkMTV5T2w4b3Vpbw?oc=5",
+     "r": "Radar Bandung"
     },
     {
-     "t": "Polresta Bandung Kerahkan 1.778 Personel Gabungan Amankan Laga Persib vs Melbourne Victory di Si Jalak Harupat - Kompas.com",
+     "t": "Persilakan Warga Laporkan Anggota Nakal, Kapolresta Bandung Buka Pengaduan Lewat Nomor HP Pribadi - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2xkM0hBY0hyQTRfVWlYNTlWd2NWSFplam9UazR2WkxXY0hvNHM1MlZiOWU3RTJRWDIzZllneDdjdXI0UUs1ZlNyNURod3BiQy1RdHZNNjByMlBWU2wxTWZmdUphLTFaekY1VDkyYWZUcWJKa1JkeHFabXphRkY2U3Awdm1yOFJMZ21wMUU1NlNIS05VVU9ycGZuOU51VmVSU3BEeXZNR2N2YVVKTWlqeDBnZnpnMUhweUhfNQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "8 Pelaku Pengeroyokan Maut di Pasar Induk Caringin Bandung Dibekuk Polisi, Diancam Penjara 15 Tahun - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaWdrSHp3UnJidjFYWGVRRjJ1QnAwWW5MVGRyQkVOdlhXR0kzNjdMb2pMcTZ2Tkc2anJHTjhaRFUxQUVOTmJQVkR6UEV5UmdHUjZCM3E1cU1QQVhkWFV0LWZfQnpXbVU5bGNveS1lWFZUd3RfbTQ3ajhkRFFpY05nbTlJZ1JZT1UyQWltd19lcnlUb1NoRkRTRHpCdDdsVzhTZUFpYlY4MGlXSHdQYkxNMTRad1gtUG9qak1SSHNud1JGR002cmxLUU02X0Zqekk4STN5eGdwTTBSMEczSlJyam5hSQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb0hKMUdiNzhDdFlVdVhDMGVXMzNUSjJZTzRjUmVuWm0wcElPYzVkbTZQSG9lcjlLamdRb2w1TG5kRFpvcUVGMWdKc0ZtMmF5aEFiN0NCdjNkSlJxQlpHTmQwN2lOVE5HOHRRSWphWV96OVpjQ0xoRUg3YzRDNl9hODR1UF8wclk1clctVjBNNDMxRV9iak8zZnlDUXN6WEQ2OGR3MEtGY054cWV6OEhlcXgyU0t1ckpkZzlkU2FtOVlacFR0NVk5R2JlTUNLeEVqY28zMGJZbHNta2pwWGlGUFB0MERoZw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -351,8 +351,8 @@
     ],
     "w": [
      2,
-     12,
-     15
+     14,
+     16
     ]
    },
    "trend": {
@@ -379,9 +379,9 @@
      2,
      2,
      1,
-     8,
+     7,
      1,
-     1
+     3
     ]
    }
   },
@@ -457,12 +457,12 @@
      0
     ],
     "g": [
-     1,
+     0,
      3,
      3,
      0,
      0,
-     6,
+     7,
      2
     ]
    }
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Warga Masih Butuh Bansos meski Desil Berubah, Ini Langkah Pemkot Bandung - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONURSVms4Uk5FS2JqLUd1V1p3Mm9fT3hCbE10M0hOMXlLX2xLRUxSWlhTaWkxdldMbnJ4N2tSWVhkRWhzQ2VOMjVCWWJTTnBadWZQQmFTcjAyYS1UQmUzWXhyRHJZR0QzUEVLNGtrd1FvclctenM3MHZ0RXh0TmpSdVYtRGIzRU1aZG1NRC13cmxVN091Nm5zLWREVkVfSGhEV2VBRHFkaUsyZVUtT2cxTQ?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Sekolah Rakyat Tahap III Segera Dibangun, KemenPU Jabar Ungkapkan Lokasinya - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVkyZjJnX1Y5dGpkX3M1SlVraXZab1JoUE56ODJzNi1SVzAyTmJLa1lRS0V0MDE1MWhpUUVjbERBX2JXVWw2ZlRFeVJzTGxuamlrVDd2T2lOeFFqNFhQcXVBY2ZjWHhaRmNDSG01M1NOY1l0TnJ3MF81eV9JeGdqZS1UOXAwcklmaVI2YmpPalJlNkZfNkRhbDVlbXlfRVU1ZzMyY0VfazlRdnBUaDFmMGRaYVNQR1dQ?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG54NHIwR2doNmJlaHZoSERsTXBqc1ZfanhNM2dGNFNNUGRtZlB1amFEVWlld2puUGxTNGVwZ1JiRDBrdnN4djJ5U1l1Ym51YkhCVXpSeDFzejhPY0ZkSkdRb2owX2tPSTZWMmVnZmxFcnFOaVduYm90bHhlOWhBLVlPM2NBZmlQeVQtb3VkYXVRYy1LcWoyRWhnRl9aMlQ3ek9sb2MtYWt6Y3JkR082ams1QTAya0hNb01kZHBvVkI?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "PKBM Ridho Paseh Disorot: Kelola Anggaran Negara Tapi Buta Aturan, Dinas Pendidikan Diminta Turun Tangan - jurnalpolisi.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0RrdmNRc0tMS3RESHk5eTNRRVo1dWhhLUtuYk1oTEpWS2plNW00dVFOdzk4azFNeTBVQWUzelhPYXRIYl9WYkFoQTV4ZFJfRVU2UktlMWFBRXkxVG1XVThaQWJTTDZZQVYxSDY3QlZYM2ZNd2c1aXpLSnd1OXlPZ0EtaS1tYy1rYXNsSWRqVk5tWnQxYXBrdDhzblZPMTlRTzlYNmNOak5HTmgtdEQtWE92emRFbWNfZ2NObWlLODUyOTJ3NndHZFpB?oc=5",
-     "r": "jurnalpolisi.co.id"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     6,
-     12,
-     4
+     7,
+     13,
+     5
     ]
    },
    "trend": {
@@ -530,7 +530,7 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
      0,
@@ -545,7 +545,7 @@
      0,
      0,
      2,
-     0
+     1
     ]
    }
   }

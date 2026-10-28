@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:29:36.874284+07:00",
+ "updated": "2026-10-28T13:29:39.246366+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,34 +8,34 @@
  "portals": [
   [
    "Pemerintah Kabupaten Bandung",
-   46
+   43
   ],
   [
    "Tribunjabar.id",
-   20
-  ],
-  [
-   "Kompas.com",
-   15
+   21
   ],
   [
    "Ayo Bandung",
-   12
+   14
   ],
   [
    "RRI.co.id",
-   10
+   11
+  ],
+  [
+   "Kompas.com",
+   11
   ],
   [
    "ANTARA News Jawa Barat",
    6
   ],
   [
-   "jabarekspres.com",
-   6
+   "Radar Bandung",
+   5
   ],
   [
-   "Radar Bandung",
+   "jabarekspres.com",
    5
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Memasuki Penghujan, Pemkot Bandung Petakan Titik Rawan Banjir - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZDNW0zTTdkcEJBMW5va2xWUUV6eTFEZmVPdVVBc1p6Vkk0RlhyUVdwSE1tU0N6RTZHRmROVHNXNW12M0QtZllHY3VmVXJncTlzR1B3b19zSEFjb1BkclR6MjdfSFFRMlhvRFU0QjhkZGd5RkNyTE05UndkZXk2dGZMdDR6RzY0Q0JSdFd3ckxuNjhyb1BPdTFrWEtrSnVjd0U5S0ZR?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "BAZNAS Kabupaten Bandung Dukung 25 Siswa Melanjutkan Studi ke Al-Azhar Mesir - BAZNAS Kab. Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTlnbmhvb2o2WWE0RGQ5RzZlRDlHQlRUZUszenZEekpMTEVjTWdadHczdm8yQjRkMGtQa2pyYTJwd2NpNVN5eVFnLWJIYUo1VHFRTllZOS14SHlXeHNGSVFwWkdZTXpXRXZZQ0hibkdfVVpiajQ5NVVDa3ZrMlFpRHBIWkdJQ2J4Y0FHcERWNDBudFl4TlBPRGJvVF9CM1puVFNpRGZQMU5zUGNBLWx5MlpnY25ZX21CcmhNYWRQM1ZnNEFQeTVUYjZMMA?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYlE3WkpXcEZNTmk2dzFVb3FMdVBjblBTSkhKWEFtVVBIU3BLVVM1QXNzemVOMHM0dGIyUy13UjdqQkhoMlBLd3lZMk11RUgzYWE0Sk9RZHZrUDB0NF82MW9qcl83NnJadGJsbGJNa1dZMDZzN2VZeDZmckF0azNPOWExWnpSMG8wWGxGNE40SnhPR2xYaklBSi1BaFVDeHYtcEdGYTBYWWN1aEVVYlBockFEdzBOM3ctWGF6UDh6cWVBNGR6VWxDN1d5ZWNzLW9RNmlqUVc3dU9RUFptc0V6ZGlB?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "DINAS PENDIDIKAN KECAMATAN CIMENYAN KABUPATEN BANDUNG PELAYANAN PENDIDIKAN MAKSIMAL - Tribuntipikor Online",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjJnLUJPbDZ2U2trejRYanhRT25zXzgwYmZmOGZxZ1dTQVF4NzNUS1lpT0VNUGJsdjRNWWRWRUdsNFNhSGotYWtXMVBkaVl3djBzU0g0SUYyd3FteGdHSlVmUTVRRzBLV1VhMVV2MFhESEN2U0QydkQ5RFV0QVFQNWFkejhFeTJuMm4xb1hHRkpwQzBLZWZpZWJScEpNYWpNcHk5QWdqdEZPVko4Z2lCZ2NfSVA3TUZuaHY1aTlB?oc=5",
-     "r": "Tribuntipikor Online"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     2,
-     50,
-     0
+     3,
+     47,
+     1
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      1,
      0,
-     2
+     3
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     11,
-     14,
-     3
+     10,
+     13,
+     2
     ]
    },
    "trend": {
@@ -202,7 +202,7 @@
      "Rab"
     ],
     "p": [
-     4,
+     3,
      0,
      2,
      1,
@@ -216,7 +216,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0
     ]
    }
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     11,
+     12,
      0
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polrestabes Bandung Pastikan Tindak Tegas Pendemo Anarkis, 13 Orang Telah Diamankan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWVmVi1mUkhuX0RHMmYySHh0WU9PWVJiQkV5Y3hkbnNLYUlZSnF0elctTDJoWTB3UVF2TXdNcHZDUzBhbnlyY01MM2phS2NtbTdjT3Etdk5fVkVtZmxiV013ejdyWUt6QWdQSmRzRy1uM0w1Z1pkVlhyWXN1aXVUR1RaTDVjeldxVmkwVVF0VHZ3THZkcmdPNF94SUNrYjNhWm5GM1hMdTJGOWs3OHZTNktZdG9zem5QOE9zbzEtNkRnUGwwYktYamtydWs5Zw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polresta Bandung Kerahkan 1.778 Personel Gabungan Amankan Laga Persib vs Melbourne Victory di Si Jalak Harupat - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2xkM0hBY0hyQTRfVWlYNTlWd2NWSFplam9UazR2WkxXY0hvNHM1MlZiOWU3RTJRWDIzZllneDdjdXI0UUs1ZlNyNURod3BiQy1RdHZNNjByMlBWU2wxTWZmdUphLTFaekY1VDkyYWZUcWJKa1JkeHFabXphRkY2U3Awdm1yOFJMZ21wMUU1NlNIS05VVU9ycGZuOU51VmVSU3BEeXZNR2N2YVVKTWlqeDBnZnpnMUhweUhfNQ?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaWdrSHp3UnJidjFYWGVRRjJ1QnAwWW5MVGRyQkVOdlhXR0kzNjdMb2pMcTZ2Tkc2anJHTjhaRFUxQUVOTmJQVkR6UEV5UmdHUjZCM3E1cU1QQVhkWFV0LWZfQnpXbVU5bGNveS1lWFZUd3RfbTQ3ajhkRFFpY05nbTlJZ1JZT1UyQWltd19lcnlUb1NoRkRTRHpCdDdsVzhTZUFpYlY4MGlXSHdQYkxNMTRad1gtUG9qak1SSHNud1JGR002cmxLUU02X0Zqekk4STN5eGdwTTBSMEczSlJyam5hSQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Polresta Bandung Kerahkan 1.778 Personel Amankan Persib Vs Melbourne Victory di SJH - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQamZCelhscllrYWg3NGdhbVhud1AtX3VqRUl2Qm5KZVoxcGk2MFZ0QTlBdHJobkNTc0V3WHRuejg5d2hzVnFzODhSeS1RWUVLLWN2R2hBdWlLTFJ0cFRUTUYxTXdWZjBJTFAzM1Fwa1E1Z25QMmN4Vjl0Q3FIZXBaRU1EWnFrYlpPenlqLTdtTXhGS195VUlVMWkwSTkwNkdReVNudTRXTVo4S1ZzY2h6V21VZS1YcnRXdU9qdXJTWWRHQ29nSGc?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
@@ -346,13 +346,13 @@
    "v": {
     "s": [
      0,
-     3,
+     4,
      2
     ],
     "w": [
      2,
-     14,
-     13
+     12,
+     15
     ]
    },
    "trend": {
@@ -379,9 +379,9 @@
      2,
      2,
      1,
-     7,
+     8,
      1,
-     0
+     1
     ]
    }
   },
@@ -395,6 +395,12 @@
    ],
    "h": [
     {
+     "t": "Memasuki Penghujan, Pemkot Bandung Petakan Titik Rawan Banjir - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZDNW0zTTdkcEJBMW5va2xWUUV6eTFEZmVPdVVBc1p6Vkk0RlhyUVdwSE1tU0N6RTZHRmROVHNXNW12M0QtZllHY3VmVXJncTlzR1B3b19zSEFjb1BkclR6MjdfSFFRMlhvRFU0QjhkZGd5RkNyTE05UndkZXk2dGZMdDR6RzY0Q0JSdFd3ckxuNjhyb1BPdTFrWEtrSnVjd0U5S0ZR?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Tertipu Pria yang Dikenal dari FB, Remaja di Bandung Menangis Pinggir Jalan, Tas dan HP Raib - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXRyUDdYZ3h2UU10T2hqWXc2NUl0eGpOZXBtX0x3aVpfNW9aSlJ1UGVfWm1pTndwcTZubjg4QXltSFEydHVSWVpRWnAzVjJhWTNWekN6Rmw5Q3BrUnF3eFgzdUVKQWJGbnNKa3d1Y2RwTjJ5Y0REc09OT2V6ZGdlWVhTcmpfSjBPZlBtOE5ZblA0S1o0cXd4V21ZNjFTSkpmUTJaNklDUVFyZlY2NXZxVS1qVmFPa2w2MGtoRER5ckxDUm5MNkE?oc=5",
@@ -404,12 +410,6 @@
      "t": "Kala Warga Lelah Menunggu Janji Manis Pemerintah: Banjir di Kopo Bandung Sudah Seperti Keluarga - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRTVQWGxIbF9RcXRVTFo5N1p4blVkSnctMVl2c0xKVmRPeGRsRVFPZno1WXl2c18tY3hFVFkycU9qeXJwSk02bzE1bmVYZVhvVXNJZU44bm1BcHJucjBwN3FUZ3JtODFEaW5XZlhUc3RzenI5Q3BmRVZvX1VTbU1WZ3FHMjAwUE56b0d3RG5EMUt1aEUzNk5HRjVMaE9vUjV0WmNyeHcxU05seV91bkJpWHpRcUI4ZWZIZmtmRTViRFR2d3NFSnNvTVRuYVdqMk1qLVRfanBlNklzYTVsZXNlMUZ2MA?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Viral Remaja Menangis di Pinggir Jalan Solokanjeruk Bandung, Diduga Ditipu Pria Kenalan dari FB - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTN4WGZpQWdJQnpzbWdrU3JfenI5UVozcXR5UEU3bHZKNnB3X1p3UWNXdTZWNjZFM05GRXZBNFFpdFVTaWdlaW9ScGlYUHcyZU9NQ3dpWUg4MzBIUGlwYzFrUGgyYWpJbUt6UVN2cEdjNHJXRExpQlNEQ3RTUzZHTW85bktsVS0zTjZGZmt4Z2NjakQ3aXlRZmdoaHFIRW1JTlFWZTlPYlA3OXJncU9MdENyS1NudVk3OV9Sd0lPZVptQWJuVG13WHdyZF9uS0pod0FXTVVKVE81anZIbmZEdGhZZw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -434,7 +434,7 @@
     "w": [
      4,
      5,
-     12
+     13
     ]
    },
    "trend": {
@@ -457,13 +457,13 @@
      0
     ],
     "g": [
-     0,
-     4,
+     1,
+     3,
      3,
      0,
      0,
-     7,
-     0
+     6,
+     2
     ]
    }
   },
@@ -514,7 +514,7 @@
      0
     ],
     "w": [
-     8,
+     6,
      12,
      4
     ]
@@ -530,10 +530,10 @@
      "Rab"
     ],
     "p": [
-     3,
+     2,
      2,
      0,
-     1,
+     0,
      2,
      1,
      1

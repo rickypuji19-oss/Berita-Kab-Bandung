@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:44:22.228087+07:00",
+ "updated": "2026-10-28T09:33:09.209289+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Pemerintah Kabupaten Bandung",
-   44
+   46
   ],
   [
    "Tribunjabar.id",
-   20
+   21
   ],
   [
    "Kompas.com",
-   14
+   13
   ],
   [
    "Ayo Bandung",
@@ -24,19 +24,19 @@
   ],
   [
    "RRI.co.id",
-   10
+   7
   ],
   [
    "ANTARA News Jawa Barat",
    6
   ],
   [
-   "jabarekspres.com",
+   "Radar Bandung",
    5
   ],
   [
-   "Radar Bandung",
-   5
+   "jabarekspres.com",
+   4
   ],
   [
    "detikcom",
@@ -44,10 +44,6 @@
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Disway",
    3
   ],
   [
@@ -64,6 +60,10 @@
   ],
   [
    "JakartaTerkini.id",
+   2
+  ],
+  [
+   "Fokus Satu",
    2
   ]
  ],
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     11,
-     13,
+     10,
+     12,
      2
     ]
    },
@@ -204,7 +204,7 @@
     "p": [
      4,
      0,
-     3,
+     2,
      1,
      1,
      2,
@@ -243,10 +243,10 @@
      "r": "Radar Bandung"
     },
     {
-     "t": "bank bjb Perkuat Pembiayaan Petani, Bawa Potensi Kopi Jawa Barat Mendunia - jabarekspres.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYi1EbnJZRUpZYTJjbVd0eXMtay1pbFdIRVV4S096WWlPdmk1dGh3Um1jNnktZlRmbUtOMjVJbkxObHIybkZNcnZPakxGZTlZRFFOV1pfcE1NN3prMV9rZTJOSjZPMlRtMlFqcHBWeFBmV3hqOFdvSTZYZVZraERNWXl2aFB4Vmx0aGZBUkZlZmVjcVZLeklKTjdSckdXcDlSRjgwbWp4U2t0YldOd0thX3k1M2RaaTNueWc?oc=5",
-     "r": "jabarekspres.com"
+     "t": "Lepas Ekspor Wanoja Coffee, bank bjb Perkuat UMKM dan Daya Saing Kopi Lokal - Pikiran-Rakyat.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkhSTG44aDRVaHkwaVZibGw1eUEtcXZERFFIYlBmRHlTRW9DSzB6cFprWmNoT25YMHd6TlpzNUpTRHRxaWhqWVJRNW1TZzNGSnR4TFR6Zm92dThQT1VseFc0VE5MLWpydzF6WVFlQWt6NGhWQTBhV3ZYMTJRVm1IVE94dnRjUVdRcV8wMzBVTjlmbmtDSC04RkFiNGNzRkxRRmt4NHRMU2ViOG5kUi0xaEtOTndMZDN1U2lyNXFseGN3d9IBxwFBVV95cUxOZDN4LUF6VzNCT3d4LUhJWk5QQUh5bkpKeUI1MmtrM2NOYndHYnowem0td3FraV9DM1QzbEUtWTZfNHczdWlvN0I4QlhWVkZaS05URmJiWFB2aHltb25DSzNRLXFFMXpvdVNxRW1jOWFpTmJSX0R2ZTJXa1RFTlBpdU12akJVOUl6eFJmZXFRZzkzaHdwSjA4Rk1vVFlmRWdPUnlncTZNWW5jVUtQWGM0QVVUejhWZGtrclM0b0JwSGRfaVoxaUhF?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     8,
-     12,
+     9,
+     11,
      0
     ]
    },
@@ -284,7 +284,7 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      0,
      0,
      2,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Bakal Gelar Razia Patuh Lodaya di 18 Titik Rawan Pelanggaran Lalu Lintas Ini - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQjZpcnNLbXRIV1VFS0FwSmlUbG9LTm5NMHVzZ2lwM1VWdVM2aENWRlROOERMSkt6RWxLLUlhZ3dDa3gydF9xVngyMjVodTRXb3Z6VHdKS3NNUC04LXRHY2FCVHhzbFdIV0FybXhyeDZldXdSOEM0Wng1bWUteGxmX1lzalFlRURvM3o3WVoxb2pqeERwMUR6dkw1UHYyT2tPOVFYMXZsR0VHdHE3dlZNWEF1M19NSkFBNGd4cVhtZ0JJQ01JeDVuYXZvTm5Ma290YU1jNllsZW9sXzJlMFd1dE9HWkU1STN1aXo0YdIB8gFBVV95cUxNWG0xNFpGZVlHWEtzOWpKNGNCY2UtWk9SbkctZV9nZ0lWdFlpa3VFTk5uOFNVYWNwcm1JdUZvYVZ5WGk2Sjd4aEtUX0ZHcXlwT3UyelVBQncxZU81cG1Lb1BVUUtNS09PWWNxQXRlX2JfUm9VSlZZMUNha1Q3Nk1hYUVuem5rQzZVWE1YMGtlWnpWemZ5NTduWWxmOC1aRVlfNzltS2RIWm0xUkpRd1NqWkFRN3lfVmR3U0pfS24taDZpLU5tU0VCM1dOQkM4MVQ2bGR4SjRzZDFPcXNZQjFESjc2V2JkR0pmeC1qLXljYWJLZw?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Omzet Pabrik Obat-obatan Ilegal di Bandung Capai Rp8 M, Polisi Buru Tersangka Lainnya - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVRYWVhOdnFXQUtQMWZKb0dtRU02UWcweHJhM1dPMUlvU1ExU1RuMFhuZFdBVVFzTUwzZUFKSlpxSUV0Yjl1UnY5UXg5Q2FLZXJvU2RoRU5pVlVLRkNsTmgtekxfaE9IWFZEMVJUaGFOSUFXLTdmbW9iSXplNzNlQkxqRXlYWmxxSjNyNWx5YmhrQXhpV1JfY1JXaXBKTEg4VmowQTZjZm9lTzVmUzl1eWZlbnNHblJka3dscFN1ZVpEaUhHTHRrc1NfclBMVm5I0gHWAUFVX3lxTE9xb1pteDUyZ0dSTGpLUWJSWGZ0QzlJa1VaNTZaaTdjV1hPQlFJR010aHFiYTVpZ3NtY2ljOXM0RWk5eFhQLTdGTWMwYmtTTHNrUHpQX3NGcVl0bVB1eEVqbzhlcWNfQld0bC1ZNFRjNUdlMnJNSVF4OGRtbEhOZ2hNVWV0R3hVRDZQME1LQUNJTHcxODBCT05JdmdSSWM3SWVMSkJJSW5ldks0TUtfVEQyUDI2SHI0MDd6Zm1vcjd4WHExS3FTdm5NNjJHY1prVnlrZlVEdXc?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaDFFVzNsTWVnSmNRWmFPN3JjQjF1SzFDRndRTFdPSjdjMl8tZWN4bUYxU05xLWZFeHdOdGdORVRIS2d5amlDV3ZPS1ZtVWtVY1JQUnVfU2JjczRCTmZGVTlMbkVmdlpIeVZFZEJ5Sm1GYXlWWkVnNW5kVXlaU2hXU0R1bm1jc1lIaVhwTEs2MzI4YTc3TXhjd21wTHVkR2lQWlJSNEp3ZC1uXzkwX2phaEJVN2c5WlowcG9TRTNWQXc4VjNpdFRERWdUUjJCdzkyUWE4cFE3akdxZzg?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Polresta Bandung memfokuskan Operasi Patuh Lodaya di 18 titik rawan - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMF9mVDRad0MwMHRYQ3dHRUw1aGp1dlBkUmVNdjBuMG9wWkJ1N2tTTHF1RUExTlRtcHIzd2JxM2Zpd1gxcFdaUFZhSTNaNERXUDhtc2lSeHR6cklvdm1NLTQxdDVCMTl1dndNeFJLS2I3TWlMRDNzTDJYS2RPM3VmMVhlb0JFdDQzVkNHUDVrdHU0UEpQNEhWREhvSENFakhkcmtaUHRBX2NKR3JsQXdv0gG0AUFVX3lxTE5VWHZNZEhsYUYyRGZ6aUcyM0FyUFF4UU1oeVFxSUxfRHZsUnRVMjd6MXVzdmptbWNCUm1uT0pJcERoQ1oxTjhhem9WeXQ5U2xGOERhT05iTzhLUUFudU9UWVJrTjFXMFd6dTc0SHg2dHE4eFBnS2RvS1BoQmd4b3VtWHVRbE1MZ01JWGJ6MDBqTWZRS1hMd2RQVW9QR3NIYW5kMlJUMXlJMDNRUy1oX3Q3VE9naQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
@@ -433,8 +433,8 @@
     ],
     "w": [
      5,
-     6,
-     12
+     5,
+     13
     ]
    },
    "trend": {
@@ -458,7 +458,7 @@
     ],
     "g": [
      0,
-     4,
+     5,
      3,
      0,
      0,
@@ -477,22 +477,22 @@
    ],
    "h": [
     {
-     "t": "Kronologi Eks Kasat Reskrim Wonogiri Koma 7 Tahun Usai Dikeroyok Pesilat, Dipicu Ejekan Dua Perguruan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX19rNVpPa3ZIVmRKMkJpQ1pFN1FoM0RGN0VWcGstTm1iYjZhOVpvNHRGQzZEaThLRXBfRmNWWHJpendTR3pXMC1iMk95T1ZoSkw2eHpONDBZQVJ1azRFS1dPMXh6bF9jSERtclBqLUpkSE00OTh6Yml1RVB4cXBCcGU5eG1FazB0LW00VmpLcS1lRmJmNWgxTW9UY1o2ZEtSb0xiZjRMYk40Zl9nNmlJVXBNeGFDWEhLVTFXZE1vczVwQVc1?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "DINAS PENDIDIKAN KECAMATAN CIMENYAN KABUPATEN BANDUNG PELAYANAN PENDIDIKAN MAKSIMAL - Tribuntipikor Online",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjJnLUJPbDZ2U2trejRYanhRT25zXzgwYmZmOGZxZ1dTQVF4NzNUS1lpT0VNUGJsdjRNWWRWRUdsNFNhSGotYWtXMVBkaVl3djBzU0g0SUYyd3FteGdHSlVmUTVRRzBLV1VhMVV2MFhESEN2U0QydkQ5RFV0QVFQNWFkejhFeTJuMm4xb1hHRkpwQzBLZWZpZWJScEpNYWpNcHk5QWdqdEZPVko4Z2lCZ2NfSVA3TUZuaHY1aTlB?oc=5",
      "r": "Tribuntipikor Online"
     },
     {
-     "t": "Diky Ajak Insan Pendidikan Bersinergi Cegah Korupsi dan Kekerasan di Sekolah - RRI.co.id",
+     "t": "Jambore Literasi ke-5 Leksam Bedas Apresiasi Peserta Tantangan Literasi Selama Delapan Bulan - deJurnal.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUk4cG1aUEJuMUI2UWZGbzFMQ0xzNHU1ZGhGN205RmRFTXhjVGRNYkh2eU5JaGh2Sjd3b2JBZnFPSnUwY196T1hfZEcxdTFPc1ZEQ0x3eGI5bjFxQ2ZqRDlZeGMydWRLSXlHazYzcmc1N1NiWWFZV3l3c0lGcFFreXJzWmhYUTU4MThxS21XSFlIQmo0YUhCa2hHajJZNzVtVmxNQllKRHEwX296LTQxY2dTSDlNbTFUaF9JYW82Zw?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
+     "t": "Nestapa Keluarga di Pacet Bandung: Hidup dalam Cengkeraman Kemiskinan Ekstrem dan Gangguan Kejiwaan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc201M1pZQjhWbVZYZ084Mmc5NmlJUy1FYWRLZkxQRkk0b0E0S2tBNnpBZXJDdTE3MnhfOHdXS2M5NU9GR0ZSdzJ4M3FsazZJQVRMYWllWUJrVEpodmszb0dyQlU4SjNKMFlwOHZxTkp4U0lHTlJEeVJZdFVsTV82RUxsVXBjRVgzaXg4NEQ0eEJRN3BRdHJJYmdPbHYtb01CWXRsMWhmTzBrWFI3RGFrZE1naTZfQXF4Y3pxQUJKbw?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdGxQbUJ2TDRFM243LTZYUVhLc3dmOEtmbmNOOXRUekkxMGJuQlpZTHY5QlpjUzFTWnBSWEcxRko0X3dtNldmdmtGYTB0UUhKYUtNc1RtRFV2MDktN1p2dEsybHZZZFhyeC1nbEx3T2ZyRmlZWVFwbUhHN29sY0cybjljc3VERFVuUTdWU2hHeHhlWUtpZnFKSVg0TkZNazJVcEZkLWVqSk5VY29uVzFUTWloVVh5YlQ2QzYxRjBSLUFPUENxSVNNcnRqS0JhemJreTBTeA?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -516,7 +516,7 @@
     "w": [
      7,
      9,
-     4
+     3
     ]
    },
    "trend": {
@@ -530,10 +530,10 @@
      "Rab"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
-     1,
+     0,
      2,
      1,
      1
@@ -544,7 +544,7 @@
      1,
      0,
      0,
-     2,
+     1,
      0
     ]
    }

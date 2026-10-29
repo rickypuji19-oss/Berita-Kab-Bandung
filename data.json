@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:40:46.256867+07:00",
+ "updated": "2026-10-29T23:39:48.887007+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,27 +12,23 @@
   ],
   [
    "Ayo Bandung",
-   16
-  ],
-  [
-   "Kompas.com",
-   15
+   17
   ],
   [
    "Radar Bandung",
-   13
+   12
+  ],
+  [
+   "Kompas.com",
+   12
   ],
   [
    "RRI.co.id",
    11
   ],
   [
-   "detikcom",
-   6
-  ],
-  [
    "jabarekspres.com",
-   6
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,7 +36,7 @@
   ],
   [
    "Jurnal Soreang",
-   4
+   5
   ],
   [
    "opininews.com",
@@ -65,6 +61,10 @@
   [
    "Antarwaktu.com",
    2
+  ],
+  [
+   "Disway",
+   2
   ]
  ],
  "topics": [
@@ -79,16 +79,16 @@
    ],
    "h": [
     {
-     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
-     "r": "digo.id"
-    },
-    {
      "t": "Disnaker Kabupaten Bandung Gelar Job Fair 30-31 Oktober 2026 - VISI.NEWS",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2daVlZLSGVJQkFfUWdGTFVJbzV5WlV1OUZDWUE5ZVBGbVhta0JLTFFGaEd1VS1GUFJqYjNKOFhNdzBMQm9ieU5sQzBIZVprUnhMV1JYcTlTMXpORkh5enJzT2FuR2EzMkVHcTFWa2ZqbnBadlZqVjc0QlVvd2N4NUlNcTI3emVaTkE?oc=5",
      "r": "VISI.NEWS"
+    },
+    {
+     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
+     "r": "digo.id"
     },
     {
      "t": "Bupati Bandung Tantang Pemuda Tak Cuma Jadi Penonton, 10.000 Peluang Kerja Disiapkan - Pojoksatu",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     13,
-     22,
+     12,
+     21,
      3
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     8,
+     7,
      6
     ],
     "g": [
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -177,6 +171,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
+    },
+    {
+     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
+     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     14,
+     15,
      0
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     12,
+     13,
      0
     ]
    },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Viral Video Perusakan Kebun Teh di Pangalengan, Polresta Bandung Turun Tangan Tangani Sengketa - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3lJY1Z4cVpDdVhnT0tOMUJOcjJrSEVDenpnSU5uYXZEdVJDM25YVFRORVlmVU8xTjdWakxKQkM3THNQSVlrMVZFUG9ZNnJBTzQzdWZrSDU4MUp2RDNsOTdDVDg4V3R3S210N1M0bDZaMUlEVHZETlhyNGs0OUl3ZFk3YmwwYlNwblBqeTBaVTl3UnowTFBXQ0VJQWw0ekE2YVZWMGJDYnJ3WDJCVVZRUEcxWThVOVd5OF9FYV9jNjJLcGdDZjNBTVZTeWdJM2d5cUNtbzZibDVyZmx30gHiAUFVX3lxTE5TMENBNll5X1VlWHhNbVI5emJLblplVWEwbUpIcWd4SGF2dF9IM3hwNGF2N3lqM3VTU2p0VV9wcGNGU3RmZVl3YjA3UkU2b193ajlhX0VVSG5LRnMyc3ktUFV1X1dWTjZQcWk0cWZlVUhkY2dXeWRjN2MzRm96OGNHbEFYRGp5MkgtdWpNY3dYZFZGZ2VxYnExNFpua203RUFhT05MTTVoTjk5VUZOZ0dDWmVDZU8wRmJ1VHJodjRvQjNaVENuSTdTYlltd0M5enVqMm5ZeHY1MkxYWXR0czBPdHc?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Polresta Bandung Ungkap Modus Penipuan Pakai Mesin EDC, Pemuda Diduga Gasak 5 Lokasi - jabarekspres.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWw2dUlfVFNvUXI3TzdpOEFNd1kzZU1tSnc4VlJJVWRtcXptdkxWX25Xc055M1RGSTBwTE9EZG00SVF4RUJNOWdqZjVrN0xSYzNYeTRmQWkydDNLOEhPbkx1SXJaX2FwSXpHbWRFRzE5aW1uWERBcjRjUm9KTzk3UjRNaXJNTVdhY040eHhHUUFocENCVHZ2cmpDeTRFNG5aejdpN0Y5dU1QWHhsSW9rMkVTTTJ3S0dmeUhzSFkzc0dxa0V4NVE?oc=5",
@@ -322,12 +328,6 @@
      "t": "Polresta Bandung mengungkap penipuan bermodus kartu debit kedaluwarsa - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEVGZ2NzTTc2RGRZVjJvQTlqYjJZN1ludExwaVN5Wm9mOVBwUDlWclZzN3RVMGs1X3dtWDlRQnM3LVFyN3dfYlFFRjJVTTBfTTV3NUIzbDB1OWRWSjBOVm1aVGc0QXlUYUpncmFRalFfNmZtSnY0MmQzZTJqVTE1YzRCQkxMS3QzZFFfWjRLWThIMmloNWNSRzhFSGpSWi11V1pNYmdrdU11N0l6aWZOT2Jn0gG3AUFVX3lxTE1OcFU0dVlUTWtsNGNJazJEV1VCc2xjZ2U0UjczbnBpSlFES0NTNXgwVjVDUVRwSDNIdjZUVElqZGJSZjd6NTlXMnBHMUNuUVVDZDZpa0h1c2NxWFlWb0VCRFMydzBtWVZvMFVpdXFSSmExNVJYNEhUYjNtaXo2ZHRMZnZBaXlzWjN1d2dqQVBLWHpjeVRzbWdJR0pzVzZrcGRCcy00MWZDTkFpSW9KSnhaUDRxcHh5aw?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Polresta Bandung ungkap penyalahgunaan LPG subsidi di Baleendah untuk gas portable - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0NKOUt5eUc3ME9hYzdQZXUxOGctOHA1NG5KRnVkcF85MGRFUnN6RGlVa1o2VWpzbnhUcWU3VkZZZktNWnZCTG1jem1HcFRkWmg5eTJ2QjJQZ1JkSUlGVVF6TkhzSXh0XzI2X1QwSmZscmc0MDJfdC16d1hDS1pKTWx5aW51Snd1SzNjRVBqd0tvWlJxaEdZYThCaEcwUVhvbzBVZDBnQTNQMDhWUW82LTlKR3g2Vm9nZUpXcWo0bDRvakJ6SjYxY9IByAFBVV95cUxPd0NKOUt5eUc3ME9hYzdQZXUxOGctOHA1NG5KRnVkcF85MGRFUnN6RGlVa1o2VWpzbnhUcWU3VkZZZktNWnZCTG1jem1HcFRkWmg5eTJ2QjJQZ1JkSUlGVVF6TkhzSXh0XzI2X1QwSmZscmc0MDJfdC16d1hDS1pKTWx5aW51Snd1SzNjRVBqd0tvWlJxaEdZYThCaEcwUVhvbzBVZDBnQTNQMDhWUW82LTlKR3g2Vm9nZUpXcWo0bDRvakJ6SjYxYw?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     18,
-     21
+     16,
+     18
     ]
    },
    "trend": {
@@ -375,12 +375,12 @@
      0
     ],
     "g": [
-     2,
+     0,
      2,
      0,
      5,
      1,
-     4,
+     3,
      8
     ]
    }
@@ -434,7 +434,7 @@
     "w": [
      1,
      7,
-     13
+     12
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     3,
+     2,
      3,
      0,
      0,

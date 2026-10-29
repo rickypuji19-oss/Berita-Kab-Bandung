@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:28:17.512748+07:00",
+ "updated": "2026-10-30T05:29:06.011410+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   24
   ],
   [
    "Ayo Bandung",
-   19
+   17
   ],
   [
    "Radar Bandung",
-   14
+   13
   ],
   [
    "Kompas.com",
-   12
+   13
   ],
   [
    "RRI.co.id",
-   9
+   10
   ],
   [
    "jabarekspres.com",
@@ -36,14 +36,14 @@
   ],
   [
    "detikcom",
-   5
-  ],
-  [
-   "Galamedia News",
    4
   ],
   [
    "Jurnal Soreang",
+   4
+  ],
+  [
+   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -55,7 +55,7 @@
    3
   ],
   [
-   "deJurnal.com",
+   "Galamedia News",
    3
   ],
   [
@@ -79,16 +79,16 @@
    ],
    "h": [
     {
-     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
-     "r": "digo.id"
-    },
-    {
      "t": "Disnaker Kabupaten Bandung Gelar Job Fair 30-31 Oktober 2026 - VISI.NEWS",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2daVlZLSGVJQkFfUWdGTFVJbzV5WlV1OUZDWUE5ZVBGbVhta0JLTFFGaEd1VS1GUFJqYjNKOFhNdzBMQm9ieU5sQzBIZVprUnhMV1JYcTlTMXpORkh5enJzT2FuR2EzMkVHcTFWa2ZqbnBadlZqVjc0QlVvd2N4NUlNcTI3emVaTkE?oc=5",
      "r": "VISI.NEWS"
+    },
+    {
+     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
+     "r": "digo.id"
     },
     {
      "t": "Lowongan SUPERVISOR DIRECT SALES - Pemerintah Kabupaten Bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     14,
-     22,
-     3
+     12,
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     10,
-     5,
+     7,
+     6,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1,
      0
     ]
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -177,6 +171,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
+    },
+    {
+     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
+     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "GI Kendal Rampung Lebih Cepat, United Power Apresiasi PLN bagi Industri dan Lapangan Kerja - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVppcy1zZ3lHQ1hRZ0p5STZwaHhKX1Z2Q3pwYy1ZcHlhYWhQWUNUVFNvRHFTX204Rnh4SWc2MVNudVJiTHlmZE1ydzNnX0Jsc05iRTQtaEplRTIzWUJjYkptZ0tnS19ZeGd0NTJUUTJ6aDBHdk40Q1VrVTFGYjM1UjhtZl9FNVphemw4bzdjcEJFRmM3V2xsODQ2S0JyQjFNazJRRGNCUUROOUljNUxiamw0YmpRSGlhcEFmbFBmcmkxNlp4SHc3UA?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "Roeang Kita 2026 Perluas Peluang UMKM, dari Pameran Produk hingga Kemitraan Usaha - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnF0RnI3eDQ3d3IyNEo0Z0Q3UUp5bzJteTd4TzQweXJmb3paXzFwcUZTLTZXd0ZXRGVmaTBGUmd2dEh3OWZ4WFVJcHB5ODdGVl9NZkhIZThKRGhfc0FDS1VnNmNzWlhwb3FJdmo4S1Azdm9tMDNqRWRDdDRlNDZkRGkxX2pwMERVNHhzOE82M0tWbTdlckZ0Tmp1VWQwZUZEYkl4am4wTWlmYXJid3BhQkowZWtYbC1FMDlsag?oc=5",
@@ -247,6 +241,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2JGNkZRTU9EWmtWVzN1MFp6cU5OVVF3ZU4zWVBiRnhNS25jaHNCeDhJZG9rRFRVZEVVOWk4YXlEYlNiejhEN3ZtdVBFYVZ4Mk44RXRzTE5yQzU4aU50dmRRVi02Rmd4aFU4NFBLRFJWa29GWXNxRUFROC1BNF8yT0tDZzdSSWZ5dERaQWF1eFcwOG9SVi1XbDdXZEpKTnFtY3RhM1pqX1I0cEUySFVMNFhlZDhIYzFrdFh0eUxwc05DRVZ5ODV4WGJtR2JhbVpKaGJrUXV5ZXZGU1RSR1HSAeMBQVVfeXFMTk5HbTRueVU5ZmRLT09QbDg0YkdEZDdDNkZHTEhQUzlWeHk0Qmg2Ri1pNjZIRmxpa3o2eXZsREdQbDZKQTBDVm1FUUt1TElSTEowcjZ1TmRmRHhiX1NjM25EUHlyWTZtY0pYSDJFN0hyUmFMZ1ZCWXY2eVh2NGZhdHdSb3JuX2NuNm9zYm9Bd1JhbnUzYXhjR1hWeUZKRUNnbmJ0OHFDQWhaVXh4WTk0VndYbXpuQmVucVBKNU9yei0weDg0Z2JuSzRna0RpVUJScW9GMkNRNlJqdmxydjVrSXJkZzg?oc=5",
      "r": "Radio PRFM"
+    },
+    {
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     7,
+     5,
      11,
      0
     ]
@@ -285,11 +285,11 @@
     ],
     "p": [
      0,
-     2,
      1,
      1,
+     1,
      2,
-     2,
+     1,
      0
     ],
     "g": [
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "Konflik Lahan Pangalengan Memanas, Kedua Pihak Lapor Polisi - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS01XY0VoRndUaHFmR1p6ckRyZ1l6Sm52d01mM2ctOHJIdjJ1WUplN2JqNi1UaHBfWnpIZnhVVURJWi1YeDIyaDNNc0NlY1pZT0Z5bHdaUlJlVjMwVHY0bk1ibzJGX1BHclhEMGpiMGRvY1J3T0c5N3Q2amZyV3BNUGJkcVJZNVBxZUtqOUdFcG5zMVBBaW4zVzNpTFNQb0dGcnQ2NUo3QWdZX0NNSTJvcQ?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
+     "t": "Penyalahgunaan Gas Elpiji 3 Kg di Bandung, Tersangka Ditangkap - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1uWVk2Umd5QlVMSUhTY05KQ3NIOWVldjNTU2hzN0RLMjBYT2MxbjFjcjRFVUllV2FUbkFaQUlMQmZwUjgxaXdMbXVjRl9DeFk1ckplOFpHRVRTNGpmQUJ3VGxpaHhxOW1OaWJUOWNzeUtyRlM0eWJnbTdFa3VrRGo3R2JOSzVOdWN3T2VJUHZYZGFuVjBNM1FiQ3pjcUIzdlh2TlVnVVpyaGl6d3Q1N2Y5MFQ?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Viral Video Perusakan Kebun Teh di Pangalengan, Polresta Bandung Turun Tangan Tangani Sengketa - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3lJY1Z4cVpDdVhnT0tOMUJOcjJrSEVDenpnSU5uYXZEdVJDM25YVFRORVlmVU8xTjdWakxKQkM3THNQSVlrMVZFUG9ZNnJBTzQzdWZrSDU4MUp2RDNsOTdDVDg4V3R3S210N1M0bDZaMUlEVHZETlhyNGs0OUl3ZFk3YmwwYlNwblBqeTBaVTl3UnowTFBXQ0VJQWw0ekE2YVZWMGJDYnJ3WDJCVVZRUEcxWThVOVd5OF9FYV9jNjJLcGdDZjNBTVZTeWdJM2d5cUNtbzZibDVyZmx30gHiAUFVX3lxTE5TMENBNll5X1VlWHhNbVI5emJLblplVWEwbUpIcWd4SGF2dF9IM3hwNGF2N3lqM3VTU2p0VV9wcGNGU3RmZVl3YjA3UkU2b193ajlhX0VVSG5LRnMyc3ktUFV1X1dWTjZQcWk0cWZlVUhkY2dXeWRjN2MzRm96OGNHbEFYRGp5MkgtdWpNY3dYZFZGZ2VxYnExNFpua203RUFhT05MTTVoTjk5VUZOZ0dDWmVDZU8wRmJ1VHJodjRvQjNaVENuSTdTYlltd0M5enVqMm5ZeHY1MkxYWXR0czBPdHc?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Pria di Baleendah Bandung Ditangkap Polisi, Nekat Sulap Gas LPG 3 Kg Jadi Gas Portabel - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVBnbk5XT2JUb0ZzVkJkWm5rcjNEbVlmeVBGbHgyN1dzRngzbGNuYm5BRElUUl9KdFJva1RaMzBNakx6TjYtSDhVRFR3QTFNUnBGc0lEV2NQVHZkUGRyLWd2R1hEZ0tKX1ZGdTRaWHpBdVdPYnJNZmp5T3c2bVQwVHh3M1UtSUk5Z01EOXdPQWZLRjFLMXNJVlhKaGJYWkxfZF9HMlE2T0QwcTRQaVlFcDRicHZ3ZExoOUE1U24wM0Z2RlBOSGZwUUdWdmpocnFaTEHSAdcBQVVfeXFMT2pqWGNOMTBKT0x4T0ltTnRFQWZTMjJ3S3dtNjU2b0tSTUlDRzI4NkRkYUNFNmFNS1dGWVkzaW8tTnFhWjBZcEpYTmJaeEtDaTRtcVN0ME9samtVdmtBNUx5SnF1MjlOckpIMGtSUFFta2I0Y3YxbG5oOHExMlZ2azV0OENLaVhhckhVS2lOaUg2M0JLMWN4LUZQV1FSaGJ0MTZTd01GX09pVkZ1dDFla0xPYVhkdjFqY2wyLUM0a0F5elpIaEZQUG13TllWWTdWS0JMMWxQejg?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Polresta Bandung Ungkap Modus Penipuan Pakai Mesin EDC, Pemuda Diduga Gasak 5 Lokasi - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWw2dUlfVFNvUXI3TzdpOEFNd1kzZU1tSnc4VlJJVWRtcXptdkxWX25Xc055M1RGSTBwTE9EZG00SVF4RUJNOWdqZjVrN0xSYzNYeTRmQWkydDNLOEhPbkx1SXJaX2FwSXpHbWRFRzE5aW1uWERBcjRjUm9KTzk3UjRNaXJNTVdhY040eHhHUUFocENCVHZ2cmpDeTRFNG5aejdpN0Y5dU1QWHhsSW9rMkVTTTJ3S0dmeUhzSFkzc0dxa0V4NVE?oc=5",
-     "r": "jabarekspres.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     17,
-     19
+     18,
+     23
     ]
    },
    "trend": {
@@ -377,11 +377,11 @@
     "g": [
      2,
      0,
-     4,
+     6,
      1,
      4,
-     9,
-     0
+     10,
+     1
     ]
    }
   },
@@ -395,12 +395,6 @@
    ],
    "h": [
     {
-     "t": "Halte BRT Depan Pasar Baru Bandung Bikin Macet, Dishub Siagakan Personel pada Jam Sibuk - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamRHNUViSHRvUW1VbkpJUjdqamRTU1cyYVF0TVNTQmg2cVZ2d1BTT2FMQ25rUUktaU1ZN3dqUUFkN0Y2QXFCRGdqa3oxeVRTNkx2YVVJQ0F0VmpXTjBzZm5QZTF6T3lvVVpNQ0RwTU1ZN2JncVhXdnF4NXJmaUJRNWEtWC0yUlZ0YmhLQ3lmRjUtbUtnZUpuUTNHc0JrWmVvNDlhN3lYVjByYkVjUUJHb0hmei1kanppQzM1NERRajJGX2Q0eVJGY2NjOVJuM0pmV3Rj?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Warga Jalan Tera Bandung Tolak Pengosongan Lahan, Desak Pembatalan Gedung Inspektorat - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3BOei1BWVlZYmxEcFdzY2QwMUU0ZEJqTnJoLXpBNWE3QWZCeTlVcTdINlJmYnJfTFlhdlJucU5XMzh1bGpNSmhuTnVsNzVfSGo2RjBTOE5MY1RnaFdiLVJUOThxdmxNLWliMVpBX29taGJaZm0tdVdFWG9yVThTQ2N5eGstSnd2VkJIWEZGVVpsYUZmSDRUdEFaTzIwZVYzZEpIS19KR1JnZm5qQTdiUFM4QXBub1EwY3dNQk14NDNveUdMNGpPanQ1U2x2LXVP0gHWAUFVX3lxTFBaUE42WGVSQTFTYmdzWk5raE5haFhHcnNiUHhGV2F5ejRjVFdETTR3TjJyTTdpTWhWOWMzRkpIaC13M19Kd2pZa2gxUngza1JHS2tRVHI2dmw5YXN4UWpoeDNPb3ZhY2J5dVpKMG9BLThnUFlNcmpjSF9yRFpfZnoySFlIY0lCRnVPMHRjWnFNb1NzNVdxVlpyVFZrQmpuTXdBTzg5b1lhNjBHUjQyT3Nwc3gxb1FEbVRoU3hKd1JXZEJsQi1yRjJySzBDWkZrLVpUWjlxekE?oc=5",
@@ -411,6 +405,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2p0bmZFaUNyMDBIdVpzaW1BSlQ0eWI0UEpBSDV2ckw0SHNBcHlhTFRfNmR1QTh6Yl9PTjVIcnlYZ01mdkJINUJGNjNfQ04yOC1fRE5FaG1saGFzN1YyQnBWeVIwYndxaVBqYU9ZeWRJeXJrUGhKOXJxQ2c4ekNrY3ZqWDFXY1NkbS1VZFVPZzdjRXZGcElZcE0yM0wwSFk?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     12
+     10
     ]
    },
    "trend": {
@@ -462,7 +462,7 @@
      0,
      5,
      5,
-     3,
+     1,
      0
     ]
    }
@@ -477,12 +477,6 @@
    ],
    "h": [
     {
-     "t": "Foto : Keluarga dengan Gangguan Jiwa di Pacet Bandung Mulai Direhabilitasi, Pemdes Perjuangkan Nasib Pendidikan Anak Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjAtVU5Qc1h1eUUzc194bXhVa0thRGo3ZnlKQ0VJLTAzNmVkWWhFUC1FeTU0eTNwMzEzOTAwWVpiRXZMUm1zVzVZa05pT0R0RmhQU2YtaGtNN2pKOVd6T3RrSkd3V3BNbURmM19QU29yTGgxeTkwRWo5QUQ4VEtiSUpaMUdXeFZfQWNkRTMwRVJJdGI2eTJFSlhMUFFVcVNQTEdxb1F5WkFzaERxYU5fandpUDlfUlZ1NUt0Qi1uRk9NWHg2TGM0ZG1JNmNudHpH?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Kantor SAR Bandung Catat Seluruh Daerah di Jawa Barat Memiliki Risiko Bencana Hidrometeorologi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWpmMjlnU2g4Q05SZ012bGdFbzJDdi12WnVhRnIyRTFPY3NOZ0d1M1VyTGRTN3hsNm5JYXU0cFluaXQ0S3RTRlZfYmlyVVRLZVR1aGtvNDZMaTRNeHo1MDFJTTV4OHctTUZ0Z3h4NEpmRG9TQXBJSzEtVTRqMXk3ZFBwRzdadWRTVTRpTlkyS05GcUNEZnQ1RUR0cjJjdFY3RFJWQ256NEpmemthQVpwbS1oYUhwcy14dXFaUHk3bVQ5UmpZWFZlaS1MVjF1NU84RXdlcGRLQlIwaGZT?oc=5",
@@ -493,6 +487,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05PNXBEM3dyTmlobFc5ZXA3aV9iQlg0WjdqM1RvZmNxU2lZbE9pS3JBdFFBbGlNT0w3RzRWZ25rWEVzWlFEQUprSWpQYlRYTW16OVphUkpxTEVpWE02Yld3Nm1fM1ZVdFZmODlReEYzRkV3Y2xRYTEwLXdSWGtaLXZ5NUR3UHpYSDh2RFc3a1FfbWViNkpWY1NxUjNrUkd4bUNFbmhmVGJDZXNJcDd0djJ1Zjlkd9IBuwFBVV95cUxONlVxdEVHZkpPc1ZZMkx1MXlZWjNieWFhZXJxWWh1ZXJWeDVQX0t3SVowckN4dlE1TkphcnB1bUJodFB3Wnc4WV9OV1FGUlRtSXlEWUNYVW1HeDJPUGZfdkZXQVVqVkpoYkhXeEJfMUpEa1NNbEZvY3dyVnN2X0IxZlJqeG5qRkM0SXNRRkE3Vm5GNDRxTG5WYUcwY3Ezal81YXBjY3hVQ2JDSlhsLVRXQXR2VEltV3lRS2tJ?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm1lV0dKSGNhR1l4Q2dvc3hfNDB5VTJBcFBKV0h1UjhsQS1QYzBxWnlMRVNxano2ZWdxZ0pHX2N0OGtWSjFKdnM5UnphR0hBNWpGaHJ3UU1FaDhOOFJjM2diSk5JaDBnUWRvMThXWkRZa1EwV3J3SENMR3F2STJ0RzFPYWxQWk9oOHRPQ1dHSVRQdEt0cnZUaW11VHpsY3Z0Mm53bXJyV2x6a2Z1VlE1R0VxY3o0b1AxbHE2X2kyek5SQjNsYkQw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",

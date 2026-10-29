@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:31:45.289457+07:00",
+ "updated": "2026-10-30T02:38:48.568601+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,23 +12,23 @@
   ],
   [
    "Ayo Bandung",
-   17
+   19
   ],
   [
    "Radar Bandung",
-   12
+   13
   ],
   [
    "Kompas.com",
-   12
-  ],
-  [
-   "RRI.co.id",
    11
   ],
   [
+   "RRI.co.id",
+   10
+  ],
+  [
    "jabarekspres.com",
-   6
+   7
   ],
   [
    "ANTARA News Jawa Barat",
@@ -39,15 +39,15 @@
    5
   ],
   [
+   "Jurnal Soreang",
+   5
+  ],
+  [
    "detikcom",
    4
   ],
   [
    "Galamedia News",
-   4
-  ],
-  [
-   "Jurnal Soreang",
    4
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     13,
-     23,
+     12,
+     24,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     9,
+     8,
      5,
      0
     ],
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -177,6 +171,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
+    },
+    {
+     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
+     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     10,
-     14,
+     11,
+     15,
      0
     ]
    },
@@ -206,7 +206,7 @@
      1,
      1,
      1,
-     5,
+     6,
      0,
      0
     ],
@@ -243,10 +243,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
-     "r": "Radar Bandung"
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     10,
+     12,
      0
     ]
    },
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     16,
-     21
+     18,
+     20
     ]
    },
    "trend": {
@@ -379,7 +379,7 @@
      0,
      5,
      1,
-     4,
+     3,
      10,
      0
     ]
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     10
+     11
     ]
    },
    "trend": {
@@ -462,7 +462,7 @@
      0,
      5,
      5,
-     1,
+     2,
      0
     ]
    }
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     6,
-     21,
+     5,
+     22,
      3
     ]
    },
@@ -535,7 +535,7 @@
      2,
      0,
      4,
-     1,
+     0,
      0
     ],
     "g": [

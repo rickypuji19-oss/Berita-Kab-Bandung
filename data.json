@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:39:48.887007+07:00",
+ "updated": "2026-10-30T00:36:01.007628+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   23
   ],
   [
    "Ayo Bandung",
@@ -27,11 +27,11 @@
    11
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    7
   ],
   [
-   "ANTARA News Jawa Barat",
+   "jabarekspres.com",
    6
   ],
   [
@@ -39,15 +39,15 @@
    5
   ],
   [
-   "opininews.com",
+   "detikcom",
+   4
+  ],
+  [
+   "Galamedia News",
    4
   ],
   [
    "Pojoksatu",
-   3
-  ],
-  [
-   "Galamedia News",
    3
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Antarwaktu.com",
-   2
+   "opininews.com",
+   3
   ],
   [
-   "Disway",
+   "Antarwaktu.com",
    2
   ]
  ],
@@ -112,7 +112,7 @@
    "v": {
     "s": [
      3,
-     2,
+     0,
      0
     ],
     "w": [
@@ -123,31 +123,31 @@
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      1,
      0,
      1,
      0,
-     7,
-     6
+     8,
+     5,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      2,
-     1
+     1,
+     0
     ]
    }
   },
@@ -186,33 +186,33 @@
      0
     ],
     "w": [
-     12,
+     11,
      15,
-     0
+     1
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      2,
      1,
      1,
      1,
      6,
+     0,
      0
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -269,28 +269,28 @@
     ],
     "w": [
      5,
-     13,
+     10,
      0
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     0,
      0,
      1,
      1,
      1,
      2,
-     1
+     1,
+     0
     ],
     "g": [
      0,
@@ -319,16 +319,16 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Pria di Baleendah Bandung Ditangkap Polisi, Nekat Sulap Gas LPG 3 Kg Jadi Gas Portabel - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVBnbk5XT2JUb0ZzVkJkWm5rcjNEbVlmeVBGbHgyN1dzRngzbGNuYm5BRElUUl9KdFJva1RaMzBNakx6TjYtSDhVRFR3QTFNUnBGc0lEV2NQVHZkUGRyLWd2R1hEZ0tKX1ZGdTRaWHpBdVdPYnJNZmp5T3c2bVQwVHh3M1UtSUk5Z01EOXdPQWZLRjFLMXNJVlhKaGJYWkxfZF9HMlE2T0QwcTRQaVlFcDRicHZ3ZExoOUE1U24wM0Z2RlBOSGZwUUdWdmpocnFaTEHSAdcBQVVfeXFMT2pqWGNOMTBKT0x4T0ltTnRFQWZTMjJ3S3dtNjU2b0tSTUlDRzI4NkRkYUNFNmFNS1dGWVkzaW8tTnFhWjBZcEpYTmJaeEtDaTRtcVN0ME9samtVdmtBNUx5SnF1MjlOckpIMGtSUFFta2I0Y3YxbG5oOHExMlZ2azV0OENLaVhhckhVS2lOaUg2M0JLMWN4LUZQV1FSaGJ0MTZTd01GX09pVkZ1dDFla0xPYVhkdjFqY2wyLUM0a0F5elpIaEZQUG13TllWWTdWS0JMMWxQejg?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Polresta Bandung Ungkap Modus Penipuan Pakai Mesin EDC, Pemuda Diduga Gasak 5 Lokasi - jabarekspres.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWw2dUlfVFNvUXI3TzdpOEFNd1kzZU1tSnc4VlJJVWRtcXptdkxWX25Xc055M1RGSTBwTE9EZG00SVF4RUJNOWdqZjVrN0xSYzNYeTRmQWkydDNLOEhPbkx1SXJaX2FwSXpHbWRFRzE5aW1uWERBcjRjUm9KTzk3UjRNaXJNTVdhY040eHhHUUFocENCVHZ2cmpDeTRFNG5aejdpN0Y5dU1QWHhsSW9rMkVTTTJ3S0dmeUhzSFkzc0dxa0V4NVE?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Polresta Bandung mengungkap penipuan bermodus kartu debit kedaluwarsa - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEVGZ2NzTTc2RGRZVjJvQTlqYjJZN1ludExwaVN5Wm9mOVBwUDlWclZzN3RVMGs1X3dtWDlRQnM3LVFyN3dfYlFFRjJVTTBfTTV3NUIzbDB1OWRWSjBOVm1aVGc0QXlUYUpncmFRalFfNmZtSnY0MmQzZTJqVTE1YzRCQkxMS3QzZFFfWjRLWThIMmloNWNSRzhFSGpSWi11V1pNYmdrdU11N0l6aWZOT2Jn0gG3AUFVX3lxTE1OcFU0dVlUTWtsNGNJazJEV1VCc2xjZ2U0UjczbnBpSlFES0NTNXgwVjVDUVRwSDNIdjZUVElqZGJSZjd6NTlXMnBHMUNuUVVDZDZpa0h1c2NxWFlWb0VCRFMydzBtWVZvMFVpdXFSSmExNVJYNEhUYjNtaXo2ZHRMZnZBaXlzWjN1d2dqQVBLWHpjeVRzbWdJR0pzVzZrcGRCcy00MWZDTkFpSW9KSnhaUDRxcHh5aw?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -346,42 +346,42 @@
    "v": {
     "s": [
      0,
-     3,
+     2,
      1
     ],
     "w": [
      1,
      16,
-     18
+     20
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      1,
+     0,
      0
     ],
     "g": [
-     0,
      2,
      0,
      5,
      1,
      3,
-     8
+     10,
+     0
     ]
    }
   },
@@ -433,37 +433,37 @@
     ],
     "w": [
      1,
-     7,
+     6,
      12
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
      0,
-     0,
      1,
+     0,
      0,
      0,
      0,
      0
     ],
     "g": [
-     2,
      3,
+     1,
      0,
-     0,
+     6,
      5,
-     5,
-     1
+     1,
+     0
     ]
    }
   },
@@ -509,43 +509,43 @@
    ],
    "v": {
     "s": [
-     2,
+     1,
      3,
      0
     ],
     "w": [
-     6,
+     7,
      22,
      3
     ]
    },
    "trend": {
     "d": [
-     "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
-     "Kam"
+     "Kam",
+     "Jum"
     ],
     "p": [
-     1,
      0,
      0,
      2,
      1,
      4,
+     1,
      0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      1,
      1,
-     1
+     1,
+     0
     ]
    }
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:43:00.526444+07:00",
+ "updated": "2026-10-29T22:40:46.256867+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,23 @@
   ],
   [
    "Ayo Bandung",
-   18
+   16
+  ],
+  [
+   "Kompas.com",
+   15
   ],
   [
    "Radar Bandung",
    13
   ],
   [
-   "Kompas.com",
-   13
+   "RRI.co.id",
+   11
   ],
   [
-   "RRI.co.id",
-   10
+   "detikcom",
+   6
   ],
   [
    "jabarekspres.com",
@@ -35,12 +39,8 @@
    6
   ],
   [
-   "detikcom",
-   5
-  ],
-  [
    "Jurnal Soreang",
-   5
+   4
   ],
   [
    "opininews.com",
@@ -48,10 +48,6 @@
   ],
   [
    "Pojoksatu",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -65,6 +61,10 @@
   [
    "Satumedia.id",
    3
+  ],
+  [
+   "Antarwaktu.com",
+   2
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     23,
+     22,
      3
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      12,
-     16,
+     14,
      0
     ]
    },
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      12,
      0
     ]
@@ -286,7 +286,7 @@
     "p": [
      0,
      0,
-     2,
+     1,
      1,
      1,
      2,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     17,
-     19
+     18,
+     21
     ]
    },
    "trend": {
@@ -375,7 +375,7 @@
      0
     ],
     "g": [
-     0,
+     2,
      2,
      0,
      5,
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     8,
+     7,
      13
     ]
    },
@@ -457,13 +457,13 @@
      0
     ],
     "g": [
-     2,
+     3,
      3,
      0,
      0,
      5,
      5,
-     2
+     1
     ]
    }
   },
@@ -491,7 +491,7 @@
     {
      "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm1lV0dKSGNhR1l4Q2dvc3hfNDB5VTJBcFBKV0h1UjhsQS1QYzBxWnlMRVNxano2ZWdxZ0pHX2N0OGtWSjFKdnM5UnphR0hBNWpGaHJ3UU1FaDhOOFJjM2diSk5JaDBnUWRvMThXWkRZa1EwV3J3SENMR3F2STJ0RzFPYWxQWk9oOHRPQ1dHSVRQdEt0cnZUaW11VHpsY3Z0Mm53bXJyV2x6a2Z1VlE1R0VxY3o0b1AxbHE2X2kyek5SQjNsYkQw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaXV0Q1JfRGppdXYyTlU1WDJHd3JQOUtZMEs2aEFZbTB4am5tTlZ3cU15YjlZRF9zdWsxRkdwa2ZMNnZrVjlDV1N5eGF1bGVXZFJNaXdLZWIxRXhlTloyWEZycWpDYXBkOTJ4bG1CSGRFTzVlMU00UVU2ajdTZWFKcEV2aDBnOXpPcnhqWFdoVzRlRE5LVFJUQzNvaEthcWEwWTA4ZGVURTBmUUl4Yl9lREh6dUN2Wm5jajRhWXVlNng0WWR3OVY3eW1NaGViNmlZZE5J?oc=5",
      "r": "Kompas.com"
     },
     {

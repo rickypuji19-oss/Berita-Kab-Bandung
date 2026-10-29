@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:34:21.630773+07:00",
+ "updated": "2026-10-29T12:32:16.526143+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,16 +15,16 @@
    15
   ],
   [
-   "Radar Bandung",
+   "Kompas.com",
    12
   ],
   [
-   "RRI.co.id",
-   10
+   "Radar Bandung",
+   9
   ],
   [
-   "Kompas.com",
-   9
+   "RRI.co.id",
+   8
   ],
   [
    "detikcom",
@@ -35,20 +35,16 @@
    5
   ],
   [
-   "opininews.com",
+   "Galamedia News",
+   4
+  ],
+  [
+   "Jurnal Soreang",
    4
   ],
   [
    "ANTARA News Jawa Barat",
    4
-  ],
-  [
-   "PPID Kab. Bandung",
-   4
-  ],
-  [
-   "Galamedia News",
-   3
   ],
   [
    "deJurnal.com",
@@ -59,11 +55,15 @@
    3
   ],
   [
-   "Jurnal Soreang",
+   "Koran Gala",
    3
   ],
   [
-   "bandungraya.net",
+   "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "Disway",
    3
   ]
  ],
@@ -81,7 +81,7 @@
     {
      "t": "Ada 600 Loker, Pemkab Bandung Buka Job Fair 30-31 Oktober 2026 - detikcom",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEtLVWRocUV3cVRIXzRNRnJma1pKYU9vX1ZkLXBqQUppNTFXTmlZakxvd2xRcjJ1eE1uZno5cHNoQjFKdUdzX2xxSFd4bWpCYzlNTTRGUXVSbWdwLTVBTnEwMGlPQm5nMk1Tak5ObkNQMDNFT0xJQUw0VEhXYThGa3NKZ2RFRjdEdXZtblR1QXlKVExnR3dfeUtLUjh5dVVmenBaYXBzU3ZFd9IBrwFBVV95cUxNQWJlVkZRcTBNN0lVMHFJNnU2X3RZUEYwVkZoS0poc3E0blBlOUxFdk9MZThxbGdPTzNuR3ZWTlB1NnAzM1dSU0tYX1ZuRGo1ZVFhYVNVc0poelNTRmlOZGNuNENGMW5UQjRRQnREc0FxVU40c0lrZndkRWN5VlJKVng2b3hXXzJMWVA2RnAxa0N4TmRfWnR5dFYwd3d5WUZxTUx2Q3Zjc3NZakdycmQ4?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWJlVkZRcTBNN0lVMHFJNnU2X3RZUEYwVkZoS0poc3E0blBlOUxFdk9MZThxbGdPTzNuR3ZWTlB1NnAzM1dSU0tYX1ZuRGo1ZVFhYVNVc0poelNTRmlOZGNuNENGMW5UQjRRQnREc0FxVU40c0lrZndkRWN5VlJKVng2b3hXXzJMWVA2RnAxa0N4TmRfWnR5dFYwd3d5WUZxTUx2Q3Zjc3NZakdycmQ40gGvAUFVX3lxTE1BYmVWRlFxME03SVUwcUk2dTZfdFlQRjBWRmhLSmhzcTRuUGU5TEV2T0xlOHFsZ09PM25HdlZOUHU2cDMzV1JTS1hfVm5EajVlUWFhU1VzSmh6U1NGaU5kY240Q0YxblRCNFFCdERzQXFVTjRzSWtmd2RFY3lWUkpWeDZveFdfMkxZUDZGcDFrQ3hOZF9adHl0VjB3d3lZRnFNTHZDdmNzc1lqR3JyZDg?oc=5",
      "r": "detikcom"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     15,
-     16,
-     3
+     12,
+     21,
+     2
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     13,
-     3
+     9,
+     4
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      11,
-     14,
+     16,
      1
     ]
    },
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Roeang Kita 2026 Perluas Peluang UMKM, dari Pameran Produk hingga Kemitraan Usaha - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnF0RnI3eDQ3d3IyNEo0Z0Q3UUp5bzJteTd4TzQweXJmb3paXzFwcUZTLTZXd0ZXRGVmaTBGUmd2dEh3OWZ4WFVJcHB5ODdGVl9NZkhIZThKRGhfc0FDS1VnNmNzWlhwb3FJdmo4S1Azdm9tMDNqRWRDdDRlNDZkRGkxX2pwMERVNHhzOE82M0tWbTdlckZ0Tmp1VWQwZUZEYkl4am4wTWlmYXJid3BhQkowZWtYbC1FMDlsag?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "KDS Titip Masa Depan Pemuda kepada KNPI, dari Lapangan Kerja hingga Petani Milenial - Radio PRFM",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2JGNkZRTU9EWmtWVzN1MFp6cU5OVVF3ZU4zWVBiRnhNS25jaHNCeDhJZG9rRFRVZEVVOWk4YXlEYlNiejhEN3ZtdVBFYVZ4Mk44RXRzTE5yQzU4aU50dmRRVi02Rmd4aFU4NFBLRFJWa29GWXNxRUFROC1BNF8yT0tDZzdSSWZ5dERaQWF1eFcwOG9SVi1XbDdXZEpKTnFtY3RhM1pqX1I0cEUySFVMNFhlZDhIYzFrdFh0eUxwc05DRVZ5ODV4WGJtR2JhbVpKaGJrUXV5ZXZGU1RSR1HSAeMBQVVfeXFMTk5HbTRueVU5ZmRLT09QbDg0YkdEZDdDNkZHTEhQUzlWeHk0Qmg2Ri1pNjZIRmxpa3o2eXZsREdQbDZKQTBDVm1FUUt1TElSTEowcjZ1TmRmRHhiX1NjM25EUHlyWTZtY0pYSDJFN0hyUmFMZ1ZCWXY2eVh2NGZhdHdSb3JuX2NuNm9zYm9Bd1JhbnUzYXhjR1hWeUZKRUNnbmJ0OHFDQWhaVXh4WTk0VndYbXpuQmVucVBKNU9yei0weDg0Z2JuSzRna0RpVUJScW9GMkNRNlJqdmxydjVrSXJkZzg?oc=5",
@@ -247,6 +241,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
      "r": "Galamedia News"
+    },
+    {
+     "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
+     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     7,
-     12,
+     6,
+     11,
      0
     ]
    },
@@ -289,7 +289,7 @@
      1,
      1,
      3,
-     2,
+     1,
      1
     ],
     "g": [
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     16,
-     13
+     17,
+     14
     ]
    },
    "trend": {
@@ -377,8 +377,8 @@
     "g": [
      2,
      2,
-     1,
-     4,
+     0,
+     6,
      1,
      4,
      0
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     7,
-     11
+     6,
+     12
     ]
    },
    "trend": {
@@ -457,11 +457,11 @@
      0
     ],
     "g": [
-     2,
+     4,
      2,
      0,
      0,
-     6,
+     5,
      5,
      0
     ]
@@ -483,16 +483,16 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Mahasiswa Serukan Indonesia Sadar, Gelombang Demonstrasi Usung Isu Karhutla hingga Pendidikan Mahal - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnlWd2Zfb3h3S0FldDItaHVfLWhGUHVWaUNhbW5ZajU2TTZvdnkxVE5yckdlaUxCdl8tOGstbUFSWUZiNDFzU0VLbXpuQ1BjVHh5ckFwOEhrRWZGRVFVV0NDakNrUDlCN3pMcWVhOGZYdG11a19sX3d2TV9yTTByUjZhVldEX0xSaXNGRk9ra09TU0lhVXg5X2V6VUNEcDd1RlNnblVIRHNyWTdjMm9wMnMzM2xDS09JVzhodlZFSGYycW8xN1EzMWhMNEo3b0NuUGxDdw?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "bank bjb Dorong Calon Pensiunan Dinas Pendidikan Jawa Barat Tetap Produktif dan Mandiri Lewat Program bjb Pra-Purnapreneurship - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVkpLaVFQWl82eXJYQUlPNlF0YjlNdzVnaUVQeEo3NV9wc1B0TUZRQUdKXzd5MTdGRG5fcDFfVlRQcjVOQURtNlByME9rWFRIclMxOUsxT0wzRkJiT0thZmFrY0RXd05iYWctd1RNZ3U5NTJCSnBrQlNCZ1J0aVNkUFU5MVVLRXMtZmlyTHNDa1ZFVjIwdF8xNHVfSHVMckRiMlB2dHg2MkJWMU9JT0RmOGVRZTg3NkhXS0k3eHZlcVlJa1VLcFF1YjhwS1NLWWR0MDR1ajQ2TWJsS011Qy0tS3pzRzBlZjRqNzk0MFpEZ1h3YXFwaThPeFdB?oc=5",
      "r": "Radar Bandung"
+    },
+    {
+     "t": "Dina Miéling Sumpah Pemuda, Kabupaten Bandung Miangkeun PMI 225 urang ka Jepang jeung 25 Mahasiswa ka Mesir - Galura",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYzdtNEJFazg2dk5LVXF0Zklab3dzTUM5Nzl0ekl0OHl6YzRsVFFfRUNoTFdsZTNVSl9TdzBab010SlJLdC1WSGhOMk1ZNnBzMXJqTmVuckF0SklTb1hHVVkwclhTOHgwRm1tN0hzSDllSTRRd0RSZ2tCN0JJUVRZSWQ4TWJQN3JWSXlTcEpkcFNCLWhOYi1wNXZYaXZybGR2VzRlNU1wUFBiNGtMcGNhSURLY21QMmROLWZ6N2NVSGRvc3dTZ1E4b1RIRU56dnVpLUUxamFyMnBUcGNSZHNuQW10ZkpEUW1YN1ZXRXg1dUUzM3U4cXfSAfsBQVVfeXFMT3VsaE0tU0I3ODZUR2taLVBDS3JWSmJOcTR3amwtYTBOMURqWWVwWkNQd0Noel9Ma2ZJRkdfYl9iNDEyUklvQmlveEhZZ1pZV0ZKYWxsOXRMQWNjQjd4NmFSUEhuMExBZzhYXzlUSmxYNC1ZaTZZYnVqOWdOMXBnS3RzTXlqY1JUSXpnSDdWU242RGNlUDVZZXB2ZzI5OWNxMmtfbkhaT1VrV2gyWk4zWl9wZ01WY3U4VTdLSk1DQllUM2I5SWlQWEtHaDE4bHJwV2gyZkZ4VUtsR0dxZkk0M2QzRkJsLUtKc2hzeFJmcW4walBBNnJtd0pOczA?oc=5",
+     "r": "Galura"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     7,
-     22,
+     6,
+     18,
      5
     ]
    },
@@ -530,7 +530,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      2,

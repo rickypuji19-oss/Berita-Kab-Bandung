@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:48:13.380258+07:00",
+ "updated": "2026-10-29T21:43:00.526444+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,22 +8,22 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
   ],
   [
    "Ayo Bandung",
    18
   ],
   [
+   "Radar Bandung",
+   13
+  ],
+  [
    "Kompas.com",
-   14
+   13
   ],
   [
    "RRI.co.id",
-   10
-  ],
-  [
-   "Radar Bandung",
    10
   ],
   [
@@ -43,7 +43,7 @@
    5
   ],
   [
-   "Galamedia News",
+   "opininews.com",
    4
   ],
   [
@@ -55,15 +55,15 @@
    3
   ],
   [
+   "Galamedia News",
+   3
+  ],
+  [
    "deJurnal.com",
    3
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "opininews.com",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
+     "r": "digo.id"
+    },
+    {
      "t": "Disnaker Kabupaten Bandung Gelar Job Fair 30-31 Oktober 2026 - VISI.NEWS",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2daVlZLSGVJQkFfUWdGTFVJbzV5WlV1OUZDWUE5ZVBGbVhta0JLTFFGaEd1VS1GUFJqYjNKOFhNdzBMQm9ieU5sQzBIZVprUnhMV1JYcTlTMXpORkh5enJzT2FuR2EzMkVHcTFWa2ZqbnBadlZqVjc0QlVvd2N4NUlNcTI3emVaTkE?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNl9DeGtvWXFPM2lfN1NuQVlPWU9SRElOS3RCSC1TVUlTYWx0R3NsajN3WUo5cERfTGltZ1dKYmJFUU50N3oxY1dFOTNLc2hZc2g3OUxFRm81NExLMl94UGR6NkxmU2ZVVHhwUFJYbkJBYlpGZV9lNU1lcmpuaVVzZ1NiLWN1dTk5TERwajhtaDBtUEdDQzVNSjJka0ptYnFSUXhIYmM2Zkpta0U0R21TYkt3?oc=5",
      "r": "Pojoksatu"
-    },
-    {
-     "t": "Lowongan SALES MOTORIS - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMTVtcXNRNklKVG1qNHMtSjduM2pKUW1tanVMUkQtcXI3Mk4zWk5XaHF0MXpPdjZiMVpMaURUVUV5T29qNVVWdjRyWDRSYTY1YmxJTlIzSG1PekJnTkhNVS1yb1FrU1NG?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      13,
-     22,
+     23,
      3
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     9,
-     5
+     8,
+     6
     ],
     "g": [
      0,
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     11,
-     15,
+     12,
+     16,
      0
     ]
    },
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     0,
+     1,
      2,
      1,
      1,
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      12,
      0
     ]
@@ -289,7 +289,7 @@
      2,
      1,
      1,
-     1,
+     2,
      1
     ],
     "g": [
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     16,
-     20
+     17,
+     19
     ]
    },
    "trend": {
@@ -378,7 +378,7 @@
      0,
      2,
      0,
-     6,
+     5,
      1,
      4,
      8
@@ -434,7 +434,7 @@
     "w": [
      1,
      8,
-     14
+     13
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     3,
+     2,
      3,
      0,
      0,
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Kantor SAR Bandung Catat Seluruh Daerah di Jawa Barat Memiliki Risiko Bencana Hidrometeorologi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWpmMjlnU2g4Q05SZ012bGdFbzJDdi12WnVhRnIyRTFPY3NOZ0d1M1VyTGRTN3hsNm5JYXU0cFluaXQ0S3RTRlZfYmlyVVRLZVR1aGtvNDZMaTRNeHo1MDFJTTV4OHctTUZ0Z3h4NEpmRG9TQXBJSzEtVTRqMXk3ZFBwRzdadWRTVTRpTlkyS05GcUNEZnQ1RUR0cjJjdFY3RFJWQ256NEpmemthQVpwbS1oYUhwcy14dXFaUHk3bVQ5UmpZWFZlaS1MVjF1NU84RXdlcGRLQlIwaGZT?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Gubernur Jabar mengingatkan ancaman bencana buntut alih fungsi kebun teh - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05PNXBEM3dyTmlobFc5ZXA3aV9iQlg0WjdqM1RvZmNxU2lZbE9pS3JBdFFBbGlNT0w3RzRWZ25rWEVzWlFEQUprSWpQYlRYTW16OVphUkpxTEVpWE02Yld3Nm1fM1ZVdFZmODlReEYzRkV3Y2xRYTEwLXdSWGtaLXZ5NUR3UHpYSDh2RFc3a1FfbWViNkpWY1NxUjNrUkd4bUNFbmhmVGJDZXNJcDd0djJ1Zjlkd9IBuwFBVV95cUxONlVxdEVHZkpPc1ZZMkx1MXlZWjNieWFhZXJxWWh1ZXJWeDVQX0t3SVowckN4dlE1TkphcnB1bUJodFB3Wnc4WV9OV1FGUlRtSXlEWUNYVW1HeDJPUGZfdkZXQVVqVkpoYkhXeEJfMUpEa1NNbEZvY3dyVnN2X0IxZlJqeG5qRkM0SXNRRkE3Vm5GNDRxTG5WYUcwY3Ezal81YXBjY3hVQ2JDSlhsLVRXQXR2VEltV3lRS2tJ?oc=5",
@@ -486,12 +492,6 @@
      "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm1lV0dKSGNhR1l4Q2dvc3hfNDB5VTJBcFBKV0h1UjhsQS1QYzBxWnlMRVNxano2ZWdxZ0pHX2N0OGtWSjFKdnM5UnphR0hBNWpGaHJ3UU1FaDhOOFJjM2diSk5JaDBnUWRvMThXWkRZa1EwV3J3SENMR3F2STJ0RzFPYWxQWk9oOHRPQ1dHSVRQdEt0cnZUaW11VHpsY3Z0Mm53bXJyV2x6a2Z1VlE1R0VxY3o0b1AxbHE2X2kyek5SQjNsYkQw?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Keluarga dengan Gangguan Jiwa di Pacet Bandung Mulai Direhabilitasi, Pemdes Perjuangkan Nasib Pendidikan Anak - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXAwTnlENGVfazBHd3g1NW1MN0xXSEx5b3ItMWFxYUdRY0RULWhCSnRENllONzNfVTNvZEV5N0wtZUdIQmZ6TFNKWTItUmRTelh4ek4zcnV3LUhYOGt5ZV9nRDloVlhMVEs1SXA0UXF4VGFnbm1CUElIV0hjR3lBLV9QQk1GLU5laG5RQk95VEVTamVFTjFBQWdDTU1SR1h5UEtnYXg0a0hkNVJyZnB5MGU5b2ZyQTgtX2wtZ050MHQyajZSYzNOMUxhQnhIWmJ2ZFE?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -515,7 +515,7 @@
     ],
     "w": [
      6,
-     20,
+     22,
      3
     ]
    },

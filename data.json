@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:29:36.134069+07:00",
+ "updated": "2026-10-29T19:31:08.960645+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   25
   ],
   [
    "Ayo Bandung",
-   18
+   16
   ],
   [
    "Kompas.com",
@@ -27,24 +27,16 @@
    10
   ],
   [
-   "detikcom",
-   6
+   "jabarekspres.com",
+   7
   ],
   [
-   "jabarekspres.com",
+   "detikcom",
    6
   ],
   [
    "ANTARA News Jawa Barat",
    6
-  ],
-  [
-   "Galamedia News",
-   4
-  ],
-  [
-   "deJurnal.com",
-   4
   ],
   [
    "Jurnal Soreang",
@@ -56,6 +48,14 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "Galamedia News",
+   3
+  ],
+  [
+   "deJurnal.com",
    3
   ],
   [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     14,
-     22,
-     3
+     13,
+     23,
+     2
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     9,
+     8,
      6
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1
     ]
    }
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     10,
+     11,
      14,
      1
     ]
@@ -207,7 +207,7 @@
      1,
      1,
      1,
-     5,
+     6,
      0
     ],
     "g": [
@@ -243,10 +243,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
-     "r": "Radar Bandung"
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     8,
+     5,
      11,
      0
     ]
@@ -286,9 +286,9 @@
     "p": [
      0,
      0,
-     2,
      1,
-     3,
+     1,
+     1,
      2,
      1
     ],
@@ -327,7 +327,7 @@
     {
      "t": "Polresta Bandung ungkap penyalahgunaan LPG subsidi di Baleendah untuk gas portable - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTIzVXpta2RqX2x5YjJRWE1oNlZ0MGNGRkt5cmk4VzVtcHJ4QlpnV0NCRFJnNXh2MjNxUEV2ZjV2WXA5WHhMWXVLdjltRVYxbEY4NGVPa2lfZUhfQ0tJSkNUV3REVzcyN2RGR0swUjhRdXhVdGVxWjlidW91eGpCbExWZmpYaXNxeFRwbHFINlgxYm5tMUJ0RTBCTEhfNHJTc2xmVU02U0hBZWZHSVdCRTlzbjNuZFRaSEF2bkRHc181VjTSAcgBQVVfeXFMT3dDSjlLeXlHNzBPYWM3UGV1MThnLThwNTRuSkZ1ZHBfOTBkRVJzekRpVWtaNlVqc254VHFlN1ZGWWZLTVp2QkxtY3ptR3BUZFpoOXkydkIyUGdSZElJRlVRek5Ic0l4dF8yNl9UMEpmbHJnNDAyX3QtendYQ0taSk1seWludUp3dUszY0VQandLb1pScWhHWWE4QmhHMFFYb28wVWQwZ0EzUDA4VlFvNi05Skd4NlZvZ2VKV3FqNGw0b2pCeko2MWM?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0NKOUt5eUc3ME9hYzdQZXUxOGctOHA1NG5KRnVkcF85MGRFUnN6RGlVa1o2VWpzbnhUcWU3VkZZZktNWnZCTG1jem1HcFRkWmg5eTJ2QjJQZ1JkSUlGVVF6TkhzSXh0XzI2X1QwSmZscmc0MDJfdC16d1hDS1pKTWx5aW51Snd1SzNjRVBqd0tvWlJxaEdZYThCaEcwUVhvbzBVZDBnQTNQMDhWUW82LTlKR3g2Vm9nZUpXcWo0bDRvakJ6SjYxY9IByAFBVV95cUxPd0NKOUt5eUc3ME9hYzdQZXUxOGctOHA1NG5KRnVkcF85MGRFUnN6RGlVa1o2VWpzbnhUcWU3VkZZZktNWnZCTG1jem1HcFRkWmg5eTJ2QjJQZ1JkSUlGVVF6TkhzSXh0XzI2X1QwSmZscmc0MDJfdC16d1hDS1pKTWx5aW51Snd1SzNjRVBqd0tvWlJxaEdZYThCaEcwUVhvbzBVZDBnQTNQMDhWUW82LTlKR3g2Vm9nZUpXcWo0bDRvakJ6SjYxYw?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     17,
+     18,
      19
     ]
    },
@@ -378,10 +378,10 @@
      2,
      2,
      0,
-     5,
+     4,
      1,
      4,
-     6
+     7
     ]
    }
   },
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -434,7 +434,7 @@
     "w": [
      1,
      8,
-     13
+     12
     ]
    },
    "trend": {
@@ -463,7 +463,7 @@
      0,
      5,
      5,
-     2
+     1
     ]
    }
   },
@@ -479,7 +479,7 @@
     {
      "t": "Keluarga dengan Gangguan Jiwa di Pacet Bandung Mulai Direhabilitasi, Pemdes Perjuangkan Nasib Pendidikan Anak - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZXRxVVlZNUtURzhaNFpid0F2NDZHekpvcDl1aS1ORlB5VlNoQnZVQXVTbGNfcmQ1bFhNQV9lUVBtTmlZa2dDWXFIZkRtd2pSdUZ3b3VsQ0NockRqcjZCQzlEM1hjbDNJN3g3TWdBNXdKR1JrYVZOVE1iTDMtU0x5bkUyNnB2Ql9LRG84ZU5IajBKaXV3YS0tbGxkT2dnRHoyMXdiWTNxcTBLYkFDTXZBWThVZXpuS2x3dzJ4MnBTR05WaFdYV2c?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXAwTnlENGVfazBHd3g1NW1MN0xXSEx5b3ItMWFxYUdRY0RULWhCSnRENllONzNfVTNvZEV5N0wtZUdIQmZ6TFNKWTItUmRTelh4ek4zcnV3LUhYOGt5ZV9nRDloVlhMVEs1SXA0UXF4VGFnbm1CUElIV0hjR3lBLV9QQk1GLU5laG5RQk95VEVTamVFTjFBQWdDTU1SR1h5UEtnYXg0a0hkNVJyZnB5MGU5b2ZyQTgtX2wtZ050MHQyajZSYzNOMUxhQnhIWmJ2ZFE?oc=5",
      "r": "Kompas.com"
     },
     {

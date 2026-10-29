@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:31:08.960645+07:00",
+ "updated": "2026-10-29T20:48:13.380258+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,26 +12,22 @@
   ],
   [
    "Ayo Bandung",
-   16
+   18
   ],
   [
    "Kompas.com",
-   12
-  ],
-  [
-   "Radar Bandung",
-   11
+   14
   ],
   [
    "RRI.co.id",
    10
   ],
   [
-   "jabarekspres.com",
-   7
+   "Radar Bandung",
+   10
   ],
   [
-   "detikcom",
+   "jabarekspres.com",
    6
   ],
   [
@@ -39,7 +35,15 @@
    6
   ],
   [
+   "detikcom",
+   5
+  ],
+  [
    "Jurnal Soreang",
+   5
+  ],
+  [
+   "Galamedia News",
    4
   ],
   [
@@ -48,10 +52,6 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
-   "Galamedia News",
    3
   ],
   [
@@ -117,8 +117,8 @@
     ],
     "w": [
      13,
-     23,
-     2
+     22,
+     3
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     8,
-     6
+     9,
+     5
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     1,
+     2,
      1
     ]
    }
@@ -187,8 +187,8 @@
     ],
     "w": [
      11,
-     14,
-     1
+     15,
+     0
     ]
    },
    "trend": {
@@ -213,7 +213,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     11,
+     12,
      0
     ]
    },
@@ -286,10 +286,10 @@
     "p": [
      0,
      0,
-     1,
-     1,
-     1,
      2,
+     1,
+     1,
+     1,
      1
     ],
     "g": [
@@ -331,28 +331,28 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=k1X_hUjP-8I",
+     "r": "YouTube Info Burinyay"
+    },
+    {
      "t": "Di Sawah kabupaten Bandung kita kabarkan Dago Elos kasus pidana murni dago elos bukan kasus  perdata",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=fmykL7iqV1Q",
      "r": "YouTube Dago Elos"
-    },
-    {
-     "t": "AKHIRNYA PELAKU DITANGKAP DI KABUPATEN BANDUNG‼️",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=QDaaNNtlH30",
-     "r": "YouTube Vlog Mets33"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      1
     ],
     "w": [
      1,
-     18,
-     19
+     16,
+     20
     ]
    },
    "trend": {
@@ -375,13 +375,13 @@
      0
     ],
     "g": [
-     2,
+     0,
      2,
      0,
-     4,
+     6,
      1,
      4,
-     7
+     8
     ]
    }
   },
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -434,7 +434,7 @@
     "w": [
      1,
      8,
-     12
+     14
     ]
    },
    "trend": {
@@ -457,13 +457,13 @@
      0
     ],
     "g": [
-     2,
+     3,
      3,
      0,
      0,
      5,
      5,
-     1
+     2
     ]
    }
   },
@@ -477,46 +477,46 @@
    ],
    "h": [
     {
+     "t": "Gubernur Jabar mengingatkan ancaman bencana buntut alih fungsi kebun teh - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05PNXBEM3dyTmlobFc5ZXA3aV9iQlg0WjdqM1RvZmNxU2lZbE9pS3JBdFFBbGlNT0w3RzRWZ25rWEVzWlFEQUprSWpQYlRYTW16OVphUkpxTEVpWE02Yld3Nm1fM1ZVdFZmODlReEYzRkV3Y2xRYTEwLXdSWGtaLXZ5NUR3UHpYSDh2RFc3a1FfbWViNkpWY1NxUjNrUkd4bUNFbmhmVGJDZXNJcDd0djJ1Zjlkd9IBuwFBVV95cUxONlVxdEVHZkpPc1ZZMkx1MXlZWjNieWFhZXJxWWh1ZXJWeDVQX0t3SVowckN4dlE1TkphcnB1bUJodFB3Wnc4WV9OV1FGUlRtSXlEWUNYVW1HeDJPUGZfdkZXQVVqVkpoYkhXeEJfMUpEa1NNbEZvY3dyVnN2X0IxZlJqeG5qRkM0SXNRRkE3Vm5GNDRxTG5WYUcwY3Ezal81YXBjY3hVQ2JDSlhsLVRXQXR2VEltV3lRS2tJ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm1lV0dKSGNhR1l4Q2dvc3hfNDB5VTJBcFBKV0h1UjhsQS1QYzBxWnlMRVNxano2ZWdxZ0pHX2N0OGtWSjFKdnM5UnphR0hBNWpGaHJ3UU1FaDhOOFJjM2diSk5JaDBnUWRvMThXWkRZa1EwV3J3SENMR3F2STJ0RzFPYWxQWk9oOHRPQ1dHSVRQdEt0cnZUaW11VHpsY3Z0Mm53bXJyV2x6a2Z1VlE1R0VxY3o0b1AxbHE2X2kyek5SQjNsYkQw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Keluarga dengan Gangguan Jiwa di Pacet Bandung Mulai Direhabilitasi, Pemdes Perjuangkan Nasib Pendidikan Anak - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXAwTnlENGVfazBHd3g1NW1MN0xXSEx5b3ItMWFxYUdRY0RULWhCSnRENllONzNfVTNvZEV5N0wtZUdIQmZ6TFNKWTItUmRTelh4ek4zcnV3LUhYOGt5ZV9nRDloVlhMVEs1SXA0UXF4VGFnbm1CUElIV0hjR3lBLV9QQk1GLU5laG5RQk95VEVTamVFTjFBQWdDTU1SR1h5UEtnYXg0a0hkNVJyZnB5MGU5b2ZyQTgtX2wtZ050MHQyajZSYzNOMUxhQnhIWmJ2ZFE?oc=5",
      "r": "Kompas.com"
     },
     {
-     "t": "BPBD Jabar Usulkan Status Siaga Bencana Hidrometeorologi Mulai 1 November 2026 - Tribunjabar.id",
+     "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWxBcVYtQWg0blM2enVJRDZ2VUQ3MXdmM1ZzaFN6QklCMEZ3dl9MWVQtQVdOVGtYanFRVEdaM2M0YUpHam96dzZJUk1PdHRxR0pwckQzQWgtbF90bEhEWTVubzQzUmdoRmMyNUdlSm1XUE5GdGc5cm5HeFN5b3dQLWJlQ3l0RGRUTUpYcWdSM0gzdUZpX2Q1c1ZNWjdNRkxXeU5vSlZON2FBN19GWmo3X1Q0SDdsY1ZjOHdqTG5ZWFpEbm16UThidw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Syahlevi Dorong Perda Pesantren Jadi Penguat Pengembangan Pendidikan Santri - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVBLZFZURjdwX2hOZ0d1bmJzc2tlbWJJYmpHSXFRQ2dHX1YyYWVObWdHUnVIYl9pREVGNlNEenBOSFZ0ZXlnMnBhX0xlS2xWNm4waXlBYXJSVFBkeFIweGg4M1EtZFI4R1hPNXJoQTFtT0c1bjRZVDBPX2U4azlpTm1nUlM4bTllYm5QWTA2SlA0Qmd6V1JDME1zNW1uTXRYWWswTjlDbFVxZFZ2dUlobFYxRzdqZw?oc=5",
-     "r": "Radar Bandung"
+     "u": "https://www.youtube.com/watch?v=k1X_hUjP-8I",
+     "r": "YouTube Info Burinyay"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=uc_n_1ziYz8",
      "r": "YouTube Info Burinyay"
-    },
-    {
-     "t": "Disdik Kabupaten Bandung Dorong Kreativitas Bahasa dan Sastra untuk Membentuk Generasi Berkarakter",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=mbNN-xK2WIo",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      2,
-     2,
+     3,
      0
     ],
     "w": [
      6,
-     19,
-     4
+     20,
+     3
     ]
    },
    "trend": {
@@ -540,7 +540,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      1,

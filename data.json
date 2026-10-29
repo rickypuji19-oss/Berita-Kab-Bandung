@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:29:06.011410+07:00",
+ "updated": "2026-10-30T06:25:39.087299+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   24
+   25
   ],
   [
    "Ayo Bandung",
@@ -16,15 +16,15 @@
   ],
   [
    "Radar Bandung",
-   13
+   12
   ],
   [
    "Kompas.com",
-   13
+   12
   ],
   [
    "RRI.co.id",
-   10
+   11
   ],
   [
    "jabarekspres.com",
@@ -35,11 +35,15 @@
    7
   ],
   [
+   "Jurnal Soreang",
+   5
+  ],
+  [
    "detikcom",
    4
   ],
   [
-   "Jurnal Soreang",
+   "Galamedia News",
    4
   ],
   [
@@ -52,10 +56,6 @@
   ],
   [
    "Pojoksatu",
-   3
-  ],
-  [
-   "Galamedia News",
    3
   ],
   [
@@ -117,8 +117,8 @@
     ],
     "w": [
      12,
-     23,
-     2
+     22,
+     3
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     7,
-     6,
+     8,
+     5,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     1,
+     2,
      1,
      0
     ]
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     15,
+     18,
      1
     ]
    },
@@ -491,7 +491,7 @@
     {
      "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm1lV0dKSGNhR1l4Q2dvc3hfNDB5VTJBcFBKV0h1UjhsQS1QYzBxWnlMRVNxano2ZWdxZ0pHX2N0OGtWSjFKdnM5UnphR0hBNWpGaHJ3UU1FaDhOOFJjM2diSk5JaDBnUWRvMThXWkRZa1EwV3J3SENMR3F2STJ0RzFPYWxQWk9oOHRPQ1dHSVRQdEt0cnZUaW11VHpsY3Z0Mm53bXJyV2x6a2Z1VlE1R0VxY3o0b1AxbHE2X2kyek5SQjNsYkQw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaXV0Q1JfRGppdXYyTlU1WDJHd3JQOUtZMEs2aEFZbTB4am5tTlZ3cU15YjlZRF9zdWsxRkdwa2ZMNnZrVjlDV1N5eGF1bGVXZFJNaXdLZWIxRXhlTloyWEZycWpDYXBkOTJ4bG1CSGRFTzVlMU00UVU2ajdTZWFKcEV2aDBnOXpPcnhqWFdoVzRlRE5LVFJUQzNvaEthcWEwWTA4ZGVURTBmUUl4Yl9lREh6dUN2Wm5jajRhWXVlNng0WWR3OVY3eW1NaGViNmlZZE5J?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -515,7 +515,7 @@
     ],
     "w": [
      6,
-     23,
+     22,
      3
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:32:16.526143+07:00",
+ "updated": "2026-10-29T13:31:47.907090+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   14
   ],
   [
    "Kompas.com",
@@ -20,7 +20,7 @@
   ],
   [
    "Radar Bandung",
-   9
+   11
   ],
   [
    "RRI.co.id",
@@ -47,6 +47,14 @@
    4
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
+   "bandungraya.net",
+   3
+  ],
+  [
    "deJurnal.com",
    3
   ],
@@ -56,14 +64,6 @@
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
-   "Disway",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "JPNN.com"
     },
     {
-     "t": "Pemuda Jangan Cuma Jago Nongkrong, Bupati Bandung Tantang KNPI Bikin Gebrakan - dialogpublik.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWFqZlVEMG95WG5VMGxwaVUyZ2pGaEYySmVyelotSUJMV1lZbk5jeWE2TVNDd0lYZXczTllrTkgzZmdEUUp2cDNKS29nRy1ha1ZPRWZqdWhWLWtkOFBSazJITjdhX2J3akhHclcxWGhOYUQxNExDMnZ6WGJEUmZwMk5pVVExTnpia3l1YV80d19RVXBZWmNMb21TWVRqOVNYNDZmWg?oc=5",
-     "r": "dialogpublik.com"
+     "t": "Rifki Fauzi: Jejak KDS dari Ketua KNPI Jadi Bupati Jadi Motivasi Kami, Pemuda Pasti Bisa Jadi Pemimpin! - bandungraya.net",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtpc1UtVm1lZTJBU1lROEVPdEwxTEpXRk0zbDFkcUp3bko3X0tQaHBFaWxMdlZFMnFTODNCMDd1cFAwMHhGU0Q1V205aVRpZzV6QmRZY2pBOFRYUXVxNzZNQklpajd4SmV5dEdRWGpTOEhiU1BvWTZRSFpHcExoQUFOYklDQlBSdURvNWlQM2pZSUlkS29xYUJPSnQyR0lkcUpfTWhhTXAyVmRsUUpkWG5icmRhTmw5bXp6a1RKMEJWWGdULTBVVHVFUThMUQ?oc=5",
+     "r": "bandungraya.net"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     12,
-     21,
+     14,
+     19,
      2
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     9,
-     4
+     10,
+     5
     ],
     "g": [
      0,
@@ -243,10 +243,10 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
+     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
-     "r": "Pikiran Rakyat Koran"
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
+     "r": "Radar Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     6,
+     7,
      11,
      0
     ]
@@ -289,7 +289,7 @@
      1,
      1,
      3,
-     1,
+     2,
      1
     ],
     "g": [
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     6,
+     7,
      12
     ]
    },
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Syahlevi Dorong Perda Pesantren Jadi Penguat Pengembangan Pendidikan Santri - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVBLZFZURjdwX2hOZ0d1bmJzc2tlbWJJYmpHSXFRQ2dHX1YyYWVObWdHUnVIYl9pREVGNlNEenBOSFZ0ZXlnMnBhX0xlS2xWNm4waXlBYXJSVFBkeFIweGg4M1EtZFI4R1hPNXJoQTFtT0c1bjRZVDBPX2U4azlpTm1nUlM4bTllYm5QWTA2SlA0Qmd6V1JDME1zNW1uTXRYWWswTjlDbFVxZFZ2dUlobFYxRzdqZw?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
      "t": "Viral Bangunan Sekolah Rusak, Kepala SMP 2 Ngamprah Diminta Kembalikan Uang BOS Rp159 Juta - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDBKMjFReTVveWYyeWZHN2dxeGF2dHRtTjJvVEdrR1A3cGMzN0poem5kUE9mSU1HUHhYcTRCUzMzR2NiOVF4RmhFQnBldEdPYVFPMGljTnY0cmNhb3VmNEVOSHN5blA3cC1rU0dOTGxGbnkzdGhRZmNJcGdkTzJFQkY2SmNtdVJCSUZ6cWFRX2UtT3FsVzJkUDRwblJUR1hYc19nUWh0TldEaVU1QVoxSVdLdFlxVEUwZGUwdjF0UzJIQ0N0QVZvRF9WbFhFcmhiNEJDejc2RdIB3AFBVV95cUxNNWR2dUJBZWhOeDJnbXlfN0I1VjZtZ193bWE2ME9IbFhjaGNaNXkwc2N0cEhSaHVMd18tU0FHWFotYmpUOFVBcVdyZjBqcHF6OFJCaHY1dUJ5Zkl5NlA0LWJqczBpbkFTLUstTHdKSHdZYWNqczZ6R2VwYllrdlFad2dOR2hyYldodE9pZ1BCeFVyM1F3WWpfQk13YlpnMkpuUkxhMHdpb3RqeVV2bjFMU2dhb3FyS3FGb21MSEJDWHJBUW5jdzhaaWRmTUpOaElnQlJXUlVpdGFZTmJF?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVkpLaVFQWl82eXJYQUlPNlF0YjlNdzVnaUVQeEo3NV9wc1B0TUZRQUdKXzd5MTdGRG5fcDFfVlRQcjVOQURtNlByME9rWFRIclMxOUsxT0wzRkJiT0thZmFrY0RXd05iYWctd1RNZ3U5NTJCSnBrQlNCZ1J0aVNkUFU5MVVLRXMtZmlyTHNDa1ZFVjIwdF8xNHVfSHVMckRiMlB2dHg2MkJWMU9JT0RmOGVRZTg3NkhXS0k3eHZlcVlJa1VLcFF1YjhwS1NLWWR0MDR1ajQ2TWJsS011Qy0tS3pzRzBlZjRqNzk0MFpEZ1h3YXFwaThPeFdB?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "Dina Miéling Sumpah Pemuda, Kabupaten Bandung Miangkeun PMI 225 urang ka Jepang jeung 25 Mahasiswa ka Mesir - Galura",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYzdtNEJFazg2dk5LVXF0Zklab3dzTUM5Nzl0ekl0OHl6YzRsVFFfRUNoTFdsZTNVSl9TdzBab010SlJLdC1WSGhOMk1ZNnBzMXJqTmVuckF0SklTb1hHVVkwclhTOHgwRm1tN0hzSDllSTRRd0RSZ2tCN0JJUVRZSWQ4TWJQN3JWSXlTcEpkcFNCLWhOYi1wNXZYaXZybGR2VzRlNU1wUFBiNGtMcGNhSURLY21QMmROLWZ6N2NVSGRvc3dTZ1E4b1RIRU56dnVpLUUxamFyMnBUcGNSZHNuQW10ZkpEUW1YN1ZXRXg1dUUzM3U4cXfSAfsBQVVfeXFMT3VsaE0tU0I3ODZUR2taLVBDS3JWSmJOcTR3amwtYTBOMURqWWVwWkNQd0Noel9Ma2ZJRkdfYl9iNDEyUklvQmlveEhZZ1pZV0ZKYWxsOXRMQWNjQjd4NmFSUEhuMExBZzhYXzlUSmxYNC1ZaTZZYnVqOWdOMXBnS3RzTXlqY1JUSXpnSDdWU242RGNlUDVZZXB2ZzI5OWNxMmtfbkhaT1VrV2gyWk4zWl9wZ01WY3U4VTdLSk1DQllUM2I5SWlQWEtHaDE4bHJwV2gyZkZ4VUtsR0dxZkk0M2QzRkJsLUtKc2hzeFJmcW4walBBNnJtd0pOczA?oc=5",
-     "r": "Galura"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     6,
-     18,
+     7,
+     19,
      5
     ]
    },
@@ -530,7 +530,7 @@
      "Kam"
     ],
     "p": [
-     1,
+     2,
      0,
      0,
      2,

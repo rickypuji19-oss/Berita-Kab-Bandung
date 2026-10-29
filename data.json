@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:36:01.007628+07:00",
+ "updated": "2026-10-30T01:31:45.289457+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "Ayo Bandung",
@@ -27,15 +27,15 @@
    11
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
-  ],
-  [
    "jabarekspres.com",
    6
   ],
   [
-   "Jurnal Soreang",
+   "ANTARA News Jawa Barat",
+   6
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    5
   ],
   [
@@ -47,11 +47,11 @@
    4
   ],
   [
-   "Pojoksatu",
-   3
+   "Jurnal Soreang",
+   4
   ],
   [
-   "deJurnal.com",
+   "Pojoksatu",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "VISI.NEWS"
     },
     {
-     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
+     "t": "Lowongan Supervisor (Spv) Casual Leasing - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
-     "r": "digo.id"
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReDhkanV0RWhGTUFBMXhBMVBJaEFQYzJ6Ul9FS0tleXJSSkFRZDVwTnRSYURuLWhwNk56Sl8wYXJBZE44YzdhbUVJRW5lSGs4NmEzNndlYlg5UG9FZGdiRGlXdmdaMXZB?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Bupati Bandung Tantang Pemuda Tak Cuma Jadi Penonton, 10.000 Peluang Kerja Disiapkan - Pojoksatu",
+     "t": "Lowongan SUPERVISOR DIRECT SALES - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNl9DeGtvWXFPM2lfN1NuQVlPWU9SRElOS3RCSC1TVUlTYWx0R3NsajN3WUo5cERfTGltZ1dKYmJFUU50N3oxY1dFOTNLc2hZc2g3OUxFRm81NExLMl94UGR6NkxmU2ZVVHhwUFJYbkJBYlpGZV9lNU1lcmpuaVVzZ1NiLWN1dTk5TERwajhtaDBtUEdDQzVNSjJka0ptYnFSUXhIYmM2Zkpta0U0R21TYkt3?oc=5",
-     "r": "Pojoksatu"
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tbDA5b0dnMnVNZ0UzTUp6M2lramRqc0NHSlRqTDBYcl9YTzBiTjdCU0V3WmNkeUdMSlNDZ3RWUWVEOUxGT0MtOGhoUFNZTnk2VHF2NEFkS1ljYmFCczFGeG4tbkZ5dThH?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     12,
-     21,
+     13,
+     23,
      3
     ]
    },
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     8,
+     9,
      5,
      0
     ],
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Mahasiswa Kembali 'Geruduk' DPRD Jabar, Desak Pemerintah Prabowo-Gibran Tindak Lanjuti Tuntutan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFZsY0NqdnQ4OWpmNWtfMjBwQUtMNDBpN3U0djlTNHJ3cVE4Y0NvS1pFUURxa0VhdjlzZlFQY2E3QVh2UThwR0xsckRabVdKZmwzckk1U0w1RXdsWDZJak0wNHFNVkNESzhacHQ5cmhjRDQ0U1BOaVBfckVkcVFXU3NNY3Rla1V5T1ZtaTVTalVCTWY4dF8xME9Lb3I4T2kxUTNvbk9SQUNMTWdzaEVIaW8wUllYVEUyaEE5TVRnLURsbUxVREwxTzM5dllyeHBQeTBiN0REU19ZUTQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUdIBzgFBVV95cUxQemg0VnU3LVBZU0g2OWdlZG1sVkw5UFoxV1FMbFhlalkxV0FjX0N2aEpDeEVudVBzQTlDNkc5aDhreFFJYXdERVdKeGlQTm8wRFRYY3VKX1AwTVFuNnJ2XzBQSEJKMGFZMzk3bDJCcm5VdGNtalZXa0RqbFF3Z0dQbW5iZVVfZmRhc2NfV0V1TXI5b3NFWHRhZnpfSy1uSFZPVm9mVjNUS0VQRnhHQk1Tb3JCV2V3ZHdEMGJMMjVVOVdRcjBKTEdDUFZGdXRhUQ?oc=5",
      "r": "Disway"
-    },
-    {
-     "t": "PKB Kabupaten Bandung Jadi Percontohan Nasional Pemilu 2029, Syaiful Huda Sebut Republik PKB - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHNieGlGRHNQekJXSWRFb3lNeE0zTGgyVEN1VGpSOWZVWVZCc0VEMktEQTAtYzVCRlIzWnU2YTFZWmdKX0ZkM1M3RFpOTUZiUVhpdmdna2dSeU1iblk5a0VySU1jTVQ5cEx1MTJSYktsbXdzd3lTWlFsREJ3a1ZUd3VMR3l3c241UDB3alBTVzMxS2pyZm9wX2ZBSkFjdVpkVHcwdXRIS040X0U5TzBmWnB3MHZ3T0ZyZDhmUmlnUFk4bkZBQ2pPT1Y1aDc5MlRXNW9uMkdTaERyUzZMU0x1WVdqTFVmenZZ0gHuAUFVX3lxTE1ndWdhQUdDOVRCN3NxTUR0bGdla08yRjk4LU1kdTdlOWxvWnRXUGdTQThCTGlFMmd2WTEzWVVfWXdrcmNudkVGSjA1SnV4NURvV05Id1dycUY1c0N2T3Fac29sM0FEdWY0VW0tRXMxSzVtbTNQOHJhQjRSc01sUHAzZzZOa2ZDYkktZ1lDeXFiUzlQUHpLN3k4UEtLbTQ4WDRvX3pubDY2U05MOGczUkk0RzVSbXZDNFNIYmVaWEI1dkNlQkQtMWZtRkJTQXE2VUZDSlZreDVIS3E2UlN2a0pYN3B6MmZBTVhPbGJaTmc?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     11,
-     15,
-     1
+     10,
+     14,
+     0
     ]
    },
    "trend": {
@@ -206,13 +206,13 @@
      1,
      1,
      1,
-     6,
+     5,
      0,
      0
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -243,10 +243,10 @@
      "r": "Radio PRFM"
     },
     {
-     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
-     "r": "Galamedia News"
+     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
+     "r": "Radar Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -352,7 +352,7 @@
     "w": [
      1,
      16,
-     20
+     21
     ]
    },
    "trend": {
@@ -379,7 +379,7 @@
      0,
      5,
      1,
-     3,
+     4,
      10,
      0
     ]
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     12
+     10
     ]
    },
    "trend": {
@@ -458,9 +458,9 @@
     ],
     "g": [
      3,
-     1,
      0,
-     6,
+     0,
+     5,
      5,
      1,
      0
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     7,
-     22,
+     6,
+     21,
      3
     ]
    },
@@ -533,7 +533,7 @@
      0,
      0,
      2,
-     1,
+     0,
      4,
      1,
      0

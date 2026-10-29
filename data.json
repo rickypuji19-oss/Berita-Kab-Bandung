@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:38:48.568601+07:00",
+ "updated": "2026-10-30T03:29:48.270172+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,12 +15,12 @@
    19
   ],
   [
-   "Radar Bandung",
+   "Kompas.com",
    13
   ],
   [
-   "Kompas.com",
-   11
+   "Radar Bandung",
+   12
   ],
   [
    "RRI.co.id",
@@ -32,26 +32,26 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   6
+   7
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "detikcom",
    5
   ],
   [
    "Jurnal Soreang",
-   5
-  ],
-  [
-   "detikcom",
    4
   ],
   [
-   "Galamedia News",
-   4
+   "Pemerintah Kabupaten Bandung",
+   3
   ],
   [
    "Pojoksatu",
+   3
+  ],
+  [
+   "Galamedia News",
    3
   ],
   [
@@ -85,16 +85,16 @@
      "r": "VISI.NEWS"
     },
     {
-     "t": "Lowongan Supervisor (Spv) Casual Leasing - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReDhkanV0RWhGTUFBMXhBMVBJaEFQYzJ6Ul9FS0tleXJSSkFRZDVwTnRSYURuLWhwNk56Sl8wYXJBZE44YzdhbUVJRW5lSGs4NmEzNndlYlg5UG9FZGdiRGlXdmdaMXZB?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
      "t": "Lowongan SUPERVISOR DIRECT SALES - Pemerintah Kabupaten Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tbDA5b0dnMnVNZ0UzTUp6M2lramRqc0NHSlRqTDBYcl9YTzBiTjdCU0V3WmNkeUdMSlNDZ3RWUWVEOUxGT0MtOGhoUFNZTnk2VHF2NEFkS1ljYmFCczFGeG4tbkZ5dThH?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
+     "t": "Hadir sebagai Saksi dalam Perkara PT BDS, KDS : Pemkab Bandung Hormati Proses Hukum - digo.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUwzVWFGeUdmVnpfeU11UFVJejZ0aEw0N3I3Uk9QaTZKN3pVX04za3p6a3lsZUdFSnhacHk3ZTFxVGx4LTYwRGY5TDlMRHZnNzRpYURueEF3a3FjZ1pEUHp3T210a2FkQzBjcmZkRjBPd00zQVM1MVk4LWNuazJ5bmNSOFNKdkxYQjRjbkhEWF9JMlpxLXE1WUR0UDFnbmRjeEpqUS1uai1zQzBX?oc=5",
+     "r": "digo.id"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -117,8 +117,8 @@
     ],
     "w": [
      12,
-     24,
-     3
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     8,
-     5,
+     7,
+     6,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1,
      0
     ]
@@ -187,8 +187,8 @@
     ],
     "w": [
      11,
-     15,
-     0
+     13,
+     1
     ]
    },
    "trend": {
@@ -212,7 +212,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     5,
-     12,
+     6,
+     11,
      0
     ]
    },
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     1,
+     2,
      1,
      1,
      2,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     18,
-     20
+     17,
+     22
     ]
    },
    "trend": {
@@ -377,9 +377,9 @@
     "g": [
      2,
      0,
-     5,
+     6,
      1,
-     3,
+     4,
      10,
      0
     ]
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Keluarga dengan Gangguan Jiwa di Pacet Bandung Mulai Direhabilitasi, Pemdes Perjuangkan Nasib Pendidikan Anak Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjAtVU5Qc1h1eUUzc194bXhVa0thRGo3ZnlKQ0VJLTAzNmVkWWhFUC1FeTU0eTNwMzEzOTAwWVpiRXZMUm1zVzVZa05pT0R0RmhQU2YtaGtNN2pKOVd6T3RrSkd3V3BNbURmM19QU29yTGgxeTkwRWo5QUQ4VEtiSUpaMUdXeFZfQWNkRTMwRVJJdGI2eTJFSlhMUFFVcVNQTEdxb1F5WkFzaERxYU5fandpUDlfUlZ1NUt0Qi1uRk9NWHg2TGM0ZG1JNmNudHpH?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Kantor SAR Bandung Catat Seluruh Daerah di Jawa Barat Memiliki Risiko Bencana Hidrometeorologi - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWpmMjlnU2g4Q05SZ012bGdFbzJDdi12WnVhRnIyRTFPY3NOZ0d1M1VyTGRTN3hsNm5JYXU0cFluaXQ0S3RTRlZfYmlyVVRLZVR1aGtvNDZMaTRNeHo1MDFJTTV4OHctTUZ0Z3h4NEpmRG9TQXBJSzEtVTRqMXk3ZFBwRzdadWRTVTRpTlkyS05GcUNEZnQ1RUR0cjJjdFY3RFJWQ256NEpmemthQVpwbS1oYUhwcy14dXFaUHk3bVQ5UmpZWFZlaS1MVjF1NU84RXdlcGRLQlIwaGZT?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05PNXBEM3dyTmlobFc5ZXA3aV9iQlg0WjdqM1RvZmNxU2lZbE9pS3JBdFFBbGlNT0w3RzRWZ25rWEVzWlFEQUprSWpQYlRYTW16OVphUkpxTEVpWE02Yld3Nm1fM1ZVdFZmODlReEYzRkV3Y2xRYTEwLXdSWGtaLXZ5NUR3UHpYSDh2RFc3a1FfbWViNkpWY1NxUjNrUkd4bUNFbmhmVGJDZXNJcDd0djJ1Zjlkd9IBuwFBVV95cUxONlVxdEVHZkpPc1ZZMkx1MXlZWjNieWFhZXJxWWh1ZXJWeDVQX0t3SVowckN4dlE1TkphcnB1bUJodFB3Wnc4WV9OV1FGUlRtSXlEWUNYVW1HeDJPUGZfdkZXQVVqVkpoYkhXeEJfMUpEa1NNbEZvY3dyVnN2X0IxZlJqeG5qRkM0SXNRRkE3Vm5GNDRxTG5WYUcwY3Ezal81YXBjY3hVQ2JDSlhsLVRXQXR2VEltV3lRS2tJ?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Dinsos Siapkan Panti Rujukan dan Pendidikan untuk Anak dari Keluarga dengan Gangguan Jiwa di Pacet Bandung - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaXV0Q1JfRGppdXYyTlU1WDJHd3JQOUtZMEs2aEFZbTB4am5tTlZ3cU15YjlZRF9zdWsxRkdwa2ZMNnZrVjlDV1N5eGF1bGVXZFJNaXdLZWIxRXhlTloyWEZycWpDYXBkOTJ4bG1CSGRFTzVlMU00UVU2ajdTZWFKcEV2aDBnOXpPcnhqWFdoVzRlRE5LVFJUQzNvaEthcWEwWTA4ZGVURTBmUUl4Yl9lREh6dUN2Wm5jajRhWXVlNng0WWR3OVY3eW1NaGViNmlZZE5J?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -515,7 +515,7 @@
     ],
     "w": [
      5,
-     22,
+     23,
      3
     ]
    },

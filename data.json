@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:34:44.385320+07:00",
+ "updated": "2026-10-29T18:29:36.134069+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   27
   ],
   [
    "Ayo Bandung",
-   15
-  ],
-  [
-   "Radar Bandung",
-   12
+   18
   ],
   [
    "Kompas.com",
    12
+  ],
+  [
+   "Radar Bandung",
+   11
   ],
   [
    "RRI.co.id",
@@ -31,15 +31,23 @@
    6
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
    "jabarekspres.com",
-   5
+   6
   ],
   [
    "ANTARA News Jawa Barat",
+   6
+  ],
+  [
+   "Galamedia News",
+   4
+  ],
+  [
+   "deJurnal.com",
+   4
+  ],
+  [
+   "Jurnal Soreang",
    4
   ],
   [
@@ -47,7 +55,7 @@
    3
   ],
   [
-   "deJurnal.com",
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -55,16 +63,8 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   3
-  ],
-  [
    "opininews.com",
    3
-  ],
-  [
-   "Antarwaktu.com",
-   2
   ]
  ],
  "topics": [
@@ -91,10 +91,10 @@
      "r": "Pojoksatu"
     },
     {
-     "t": "Wacana Transjabodetabek Blok M–Bandung Mencuat, Dishub: Butuh Koordinasi Lintas Provinsi - Tribunjabar.id",
+     "t": "Lowongan SALES MOTORIS - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVRxOFpkV1FuMC0taW1TanpxcnA2MVR0SGJmU1o5Y0FpZWJUc0pFdExvUU9kSWw4VVVsMzJMbC1MdWVzR2pDQzNCYkNQcHJPaUVMR3l6VWtxN09faFNFNi1pcmlla2h6MFNHOHpwbmNVb3R2UE54dTV0ejZjQ0ZtTUhQZDR4QnB4UnpqWE1pRjlXcEh3YUt5OFNKWkt1c0NjNmVBRTVZWXVEakV6NnAyV1k1Y3lkVUQxb0l0RlNjUVBGb2RwMXcxcUZpT29ScUpualhJ?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMTVtcXNRNklKVG1qNHMtSjduM2pKUW1tanVMUkQtcXI3Mk4zWk5XaHF0MXpPdjZiMVpMaURUVUV5T29qNVVWdjRyWDRSYTY1YmxJTlIzSG1PekJnTkhNVS1yb1FrU1NG?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     21,
+     14,
+     22,
      3
     ]
    },
@@ -138,7 +138,7 @@
      1,
      0,
      9,
-     7
+     6
     ],
     "g": [
      0,
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     16,
+     14,
      1
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      8,
-     10,
+     11,
      0
     ]
    },
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
-     "t": "Perusakan Kebun Teh di Pangalengan Kembali Terjadi, Polisi Tangani Laporan Kedua Belah Pihak - Kompas.com",
+     "t": "Polresta Bandung Ungkap Modus Penipuan Pakai Mesin EDC, Pemuda Diduga Gasak 5 Lokasi - jabarekspres.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1A3R3cwTDRKbUxGYVJaemROcmRTSUxMb2xPMlJBRnd3UE9oMHJnMTFQWjNHX3hibVFfNG85eUFJZ2ZzbEJ5cEhFZFJ4cjVvNDdHRFZGcVZrSnozcGpHZkQ5Rm9oRU0tb013ZmYyRElUNy03VVZlZWEyZ1hOTzFpNmd1WThZWjBrYkstUklSUmFVel9tU1VIeVJJV3FheVdwSVZpcUpDZXIxd0RCTGFsTFpaaGVIaUNpazZPS2owQ2ZRZEJ4?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWw2dUlfVFNvUXI3TzdpOEFNd1kzZU1tSnc4VlJJVWRtcXptdkxWX25Xc055M1RGSTBwTE9EZG00SVF4RUJNOWdqZjVrN0xSYzNYeTRmQWkydDNLOEhPbkx1SXJaX2FwSXpHbWRFRzE5aW1uWERBcjRjUm9KTzk3UjRNaXJNTVdhY040eHhHUUFocENCVHZ2cmpDeTRFNG5aejdpN0Y5dU1QWHhsSW9rMkVTTTJ3S0dmeUhzSFkzc0dxa0V4NVE?oc=5",
+     "r": "jabarekspres.com"
     },
     {
-     "t": "Penipuan Modus Kartu Debit Kadaluwarsa di Bandung, Pelaku Untung Rp 240 Juta - Kompas.com",
+     "t": "Polresta Bandung mengungkap penipuan bermodus kartu debit kedaluwarsa - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFMwMjFFVlcxSnlFX1BpQmVBYXJIUWNHM3BJMnpCTzlndUU0MDZvYS1XY2NUcUpzbktfVl81cERUNmxtQ2JsZnVfSUEzOGdEdnRjaTFuZnRBY1pmQ3lPY0FKdmZTQTR0blBLUHJxcEI1YTd6NXNEaUZ1RmVEVVpzM3VmOUJaendZS2JaeDQxRlVuWU9KU3ZoXzg4Nl8yZlF4VlZnRGNnMDlMQ3NzOEFubjcxZzgyZGlLX3J2bzhnN0gzcWpTeVRj?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEVGZ2NzTTc2RGRZVjJvQTlqYjJZN1ludExwaVN5Wm9mOVBwUDlWclZzN3RVMGs1X3dtWDlRQnM3LVFyN3dfYlFFRjJVTTBfTTV3NUIzbDB1OWRWSjBOVm1aVGc0QXlUYUpncmFRalFfNmZtSnY0MmQzZTJqVTE1YzRCQkxMS3QzZFFfWjRLWThIMmloNWNSRzhFSGpSWi11V1pNYmdrdU11N0l6aWZOT2Jn0gG3AUFVX3lxTE1OcFU0dVlUTWtsNGNJazJEV1VCc2xjZ2U0UjczbnBpSlFES0NTNXgwVjVDUVRwSDNIdjZUVElqZGJSZjd6NTlXMnBHMUNuUVVDZDZpa0h1c2NxWFlWb0VCRFMydzBtWVZvMFVpdXFSSmExNVJYNEhUYjNtaXo2ZHRMZnZBaXlzWjN1d2dqQVBLWHpjeVRzbWdJR0pzVzZrcGRCcy00MWZDTkFpSW9KSnhaUDRxcHh5aw?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "PTPN I Regional 2 Desak Pelaku Kekerasan dan Pengrusakan Kebun teh Dipolisikan - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWR0dENseHBjOFdKX0NtTlA1OEZQY05zZ2hvVndxWUZ5M3EtOEFlVngzejJQRncwc08wdG4yYk9FYUNHMFZjSHk4NnI5aEFmSUJiUG1WMnBEVkVYYm14RDJBekt3Y2Y4Wl9rakVhZklySWRMZXlFLWxoWHczZU53eC02ZE1jUnJoeHhTZF9jMXp2QzByc2JmY3dvR3JjQWwyNlhWUjhLb0pMaHdKM3hEM1Z1NGVnMmFpd0h3?oc=5",
-     "r": "RRI.co.id"
+     "t": "Polresta Bandung ungkap penyalahgunaan LPG subsidi di Baleendah untuk gas portable - ANTARA News Jawa Barat",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTIzVXpta2RqX2x5YjJRWE1oNlZ0MGNGRkt5cmk4VzVtcHJ4QlpnV0NCRFJnNXh2MjNxUEV2ZjV2WXA5WHhMWXVLdjltRVYxbEY4NGVPa2lfZUhfQ0tJSkNUV3REVzcyN2RGR0swUjhRdXhVdGVxWjlidW91eGpCbExWZmpYaXNxeFRwbHFINlgxYm5tMUJ0RTBCTEhfNHJTc2xmVU02U0hBZWZHSVdCRTlzbjNuZFRaSEF2bkRHc181VjTSAcgBQVVfeXFMT3dDSjlLeXlHNzBPYWM3UGV1MThnLThwNTRuSkZ1ZHBfOTBkRVJzekRpVWtaNlVqc254VHFlN1ZGWWZLTVp2QkxtY3ptR3BUZFpoOXkydkIyUGdSZElJRlVRek5Ic0l4dF8yNl9UMEpmbHJnNDAyX3QtendYQ0taSk1seWludUp3dUszY0VQandLb1pScWhHWWE4QmhHMFFYb28wVWQwZ0EzUDA4VlFvNi05Skd4NlZvZ2VKV3FqNGw0b2pCeko2MWM?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Di Sawah kabupaten Bandung kita kabarkan Dago Elos kasus pidana murni dago elos bukan kasus  perdata",
@@ -350,9 +350,9 @@
      1
     ],
     "w": [
-     2,
-     15,
-     16
+     1,
+     17,
+     19
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      "Kam"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -380,8 +380,8 @@
      0,
      5,
      1,
-     3,
-     4
+     4,
+     6
     ]
    }
   },
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     7,
-     15
+     8,
+     13
     ]
    },
    "trend": {
@@ -457,13 +457,13 @@
      0
     ],
     "g": [
-     4,
      2,
-     1,
+     3,
      0,
-     6,
+     0,
      5,
-     1
+     5,
+     2
     ]
    }
   },

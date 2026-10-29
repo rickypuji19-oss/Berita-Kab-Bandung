@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:40:55.002054+07:00",
+ "updated": "2026-10-29T16:38:02.969679+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,7 +12,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   14
   ],
   [
    "Radar Bandung",
@@ -20,7 +20,7 @@
   ],
   [
    "RRI.co.id",
-   10
+   9
   ],
   [
    "Kompas.com",
@@ -28,10 +28,14 @@
   ],
   [
    "detikcom",
-   6
+   5
   ],
   [
    "jabarekspres.com",
+   5
+  ],
+  [
+   "ANTARA News Jawa Barat",
    5
   ],
   [
@@ -40,10 +44,6 @@
   ],
   [
    "Jurnal Soreang",
-   4
-  ],
-  [
-   "ANTARA News Jawa Barat",
    4
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Wacana Transjabodetabek Blok M–Bandung Mencuat, Dishub: Butuh Koordinasi Lintas Provinsi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVRxOFpkV1FuMC0taW1TanpxcnA2MVR0SGJmU1o5Y0FpZWJUc0pFdExvUU9kSWw4VVVsMzJMbC1MdWVzR2pDQzNCYkNQcHJPaUVMR3l6VWtxN09faFNFNi1pcmlla2h6MFNHOHpwbmNVb3R2UE54dTV0ejZjQ0ZtTUhQZDR4QnB4UnpqWE1pRjlXcEh3YUt5OFNKWkt1c0NjNmVBRTVZWXVEakV6NnAyV1k1Y3lkVUQxb0l0RlNjUVBGb2RwMXcxcUZpT29ScUpualhJ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemkot Bandung Butuh 800 Miliar untuk Penanganan Banjir - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2p0bmZFaUNyMDBIdVpzaW1BSlQ0eWI0UEpBSDV2ckw0SHNBcHlhTFRfNmR1QTh6Yl9PTjVIcnlYZ01mdkJINUJGNjNfQ04yOC1fRE5FaG1saGFzN1YyQnBWeVIwYndxaVBqYU9ZeWRJeXJrUGhKOXJxQ2c4ekNrY3ZqWDFXY1NkbS1VZFVPZzdjRXZGcElZcE0yM0wwSFk?oc=5",
@@ -88,12 +94,6 @@
      "t": "Pengurus KNPI di 31 Kecamatan Diharapkan Mampu Menghadirkan Inovasi dan Program Nyata Sesuai Potensi Wilayah - Antarwaktu.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnhaVVd1UUdKWGVTSFRhanhibjFLamEyd2RsYm5FVl9oZTkxZTBsYjNhVUgzNno5aEVZYVM4bWlQRFNPa0s2a1FHeFM4RW02RHJDaEZIQ0tKbTBXTmx3eVZSXzdBNjNJbW1selh4WXp0UVFVaUtGWmt5ay1kcnNneHA5NldQQTBKcjg3RmI1ZjNmZTkybHdBb2JYX3hINzFWRXNDSDFEWmV4ekV1YTBaclAyMkZkZU5zZzRlZFBpY3lianZxcUI2dXU5VUxUVnNZWXlvanpVN1VLbTA?oc=5",
-     "r": "Antarwaktu.com"
-    },
-    {
-     "t": "Regenerasi Perlu di Persiapkan, 77.000 Petani Kabupaten Bandung Rata Rata Berusia di Atas 50 Tahun - Antarwaktu.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1BpOXhTek9TYlowY24wTFJBMzdvWWlGNTFxaUcxdVVTRVpva29RSnE1OEhGTmQtNkdLZFZHNVliWHNTNkp1b1o3Nm1TLUswdlFpTFY3cGNaZzdCUHRKMXRNZEl1U1J2NERLNUFnbDVmaGhNRGRWUzA4eGFwNVhTMUJ6d3RYcVdjY05RdFMtd3VTaTBqVWg5ZElTMEpZU05UNHJqRUN3amJ0QzBZTTJLRHFMNFZGdUhIcWUwdkthbHVCWlVsUVdoT3FFS18?oc=5",
      "r": "Antarwaktu.com"
     },
     {
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     8,
-     11,
+     7,
+     10,
      0
     ]
    },
@@ -286,7 +286,7 @@
     "p": [
      0,
      0,
-     2,
+     1,
      1,
      3,
      2,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung menyelidiki dugaan perusakan kebun teh di Pangalengan - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHlzdm1PWVpUZXhOWkJZci02Y1l1aHNLMEc3Mm1pRFB0TS1WelJGdDNCZkJxMzdXSVVoaXJEN3JMY3VDQ0VrX19EVjBxbVhibnB1amNHbDBNekdmRVZJcGtkRlB5SHd5dHRZcEVvbG9lckJBLVNyNHFhb0FtbS0yUnQtcWpIVWJIN0s5bnpmRkdoeEJMMGFpVmhpZFVsa2JvSTFvcEVZRndua0ctb3F3RXdfbw?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "Polresta Bandung: 1.778 personel amankan laga Persib di ACL Two - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVBBV0FXYmNDWjh3c1pjUWpLYTNpc3drZ0w4djljNmdaYUF1eWtTSlpmdURjcnNCeWE4QUc4YldLYVN1RnZHMndSTXJRSmJrWjNmdGdDU3g2czFlZmRiYzZfU0t4OTZCZHlzMUtWWl9tWmY2QmNGczVES3JCOUFYTThndHp5cGl6Zy00VGY4ZTZSTWI5ZU1lWWRTZ1VXX1J4YTh0YjFyVdIBrAFBVV95cUxPcHJFQ21YbGV0OUszU1E5ejlDVU05NXc5Qlp1azBfSHlaMWFFbG1udmp2Q0RSMElSNjF3c1VsYjFQNm5mV243WTFXOXZ5U3BYTkt2RHBIaUpYX0NjaDR0MHBEVkVNaEF6bXFhVWRoRjl0UWRFa2JackE4bVRPUGpOUDVjTjR4TEJlNVF5dHRBdDlnaVEyNmZIaVZONkF4ZW82Ml9rekEyaVZvcUsz?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0NaWWZoQ2VpV0VBV3Y4OVRUdkpLck5SekQ2Q0tkWUpZd1JDYVltbVMwRlRKeGU0LW1pS1FXMW05YjVZbmpoOUVrUFY0VmhETFRjSEVWbGpLOHd0ZWxEcXFiZGZaN0lSeVhtSnM0R2ZiX2swcFhKZ3V1cGlhQ0lZYzBtSVY2N0pfUlBkckp0OVVVb0piLXBWNGFHa3JuU3V4WTZjc01qMkt2VXhmNHlN0gGvAUFVX3lxTFBvQ1pZZmhDZWlXRUFXdjg5VFR2SktyTlJ6RDZDS2RZSll3UkNhWW1tUzBGVEp4ZTQtbWlLUVcxbTliNVluamg5RWtQVjRWaERMVGNIRVZsaks4d3RlbERxcWJkZlo3SVJ5WG1KczRHZmJfazBwWEpndXVwaWFDSVljMG1JVjY3Sl9SUGRySnQ5VVVvSmItcFY0YUdrcm5TdXhZNmNzTWoyS3ZVeGY0eU0?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Jalan Kolonel Masturi Ditutup Total Malam Ini, Polisi Siapkan Jalur Alternatif - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnB4djNiMXczd2M0TGtKSmFoTXM1VGFZVGF0d0gyUkdVYVNsME5mQ2ItN2RVYTd4R0x5VEc4X1N5cVZlSUN4TEVTQklGRHVienMtVmlTZkdGVVo0a21yeVotNnRRbm9uNHpua1JtQjBTLXlObHRHc0JfR2hlZzZXd0JqVDZQMTlWNV94RWhhYk5HOUlXNm1uaC14OWVOSEp5d1Y0YVExbkFLcnRfazFpdnB2eWF5V1ZrdEVVaHp4bWhmam1MSGxV0gHMAUFVX3lxTFA0T2RLSTV0SjdUTU9hNG43cUJUNDhMdFE1VVlrNXRVQ2FxLUhUa25wRkw0UWE2QmV5dXAxZXdQcEl0LTYzbHVlM3ZUN1NSREpWTnFRQjZGdGY2c190TTZHdGZLV25KSkRKaFhha01yRHYzV3Y5SzgzQXdHY2ZCMWt0enp3aGlhRW0teEZjalFqQTFYZHFELW1peENEUjRLbk1TempUY0Q4dlcyZHoyc1JLMzZxRGpORUFQdmNaNkV4MG1BTG85cHZBRFc4Yw?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Di Sawah kabupaten Bandung kita kabarkan Dago Elos kasus pidana murni dago elos bukan kasus  perdata",
@@ -352,7 +352,7 @@
     "w": [
      1,
      16,
-     12
+     13
     ]
    },
    "trend": {
@@ -381,7 +381,7 @@
      4,
      1,
      4,
-     0
+     1
     ]
    }
   },
@@ -434,7 +434,7 @@
     "w": [
      1,
      7,
-     13
+     12
     ]
    },
    "trend": {
@@ -461,7 +461,7 @@
      2,
      0,
      0,
-     6,
+     5,
      5,
      1
     ]

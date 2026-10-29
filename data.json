@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:36:32.760125+07:00",
+ "updated": "2026-10-29T10:33:24.780810+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,34 +8,42 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
   ],
   [
    "Ayo Bandung",
-   15
+   16
   ],
   [
-   "Radar Bandung",
-   11
+   "Kompas.com",
+   12
   ],
   [
    "RRI.co.id",
    10
   ],
   [
-   "Kompas.com",
+   "Radar Bandung",
    9
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
+   "Jurnal Soreang",
    5
   ],
   [
-   "Jurnal Soreang",
+   "jabarekspres.com",
+   5
+  ],
+  [
+   "detikcom",
+   5
+  ],
+  [
+   "Galamedia News",
+   4
+  ],
+  [
+   "Koran Gala",
    4
   ],
   [
@@ -47,14 +55,6 @@
    4
   ],
   [
-   "PPID Kab. Bandung",
-   4
-  ],
-  [
-   "detikcom",
-   4
-  ],
-  [
    "deJurnal.com",
    3
   ],
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "Koran Gala",
+   "Pemerintah Kabupaten Bandung",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemuda Jangan Cuma Jago Nongkrong, Bupati Bandung Tantang KNPI Bikin Gebrakan - dialogpublik.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWFqZlVEMG95WG5VMGxwaVUyZ2pGaEYySmVyelotSUJMV1lZbk5jeWE2TVNDd0lYZXczTllrTkgzZmdEUUp2cDNKS29nRy1ha1ZPRWZqdWhWLWtkOFBSazJITjdhX2J3akhHclcxWGhOYUQxNExDMnZ6WGJEUmZwMk5pVVExTnpia3l1YV80d19RVXBZWmNMb21TWVRqOVNYNDZmWg?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Bupati Sapa Pemuda, KDS Dorong KNPI Garap Peluang Kerja hingga Petani Milenial - Gerbang Patriot",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUo0Zy0wSnJNRGdQS2h0MFMzMWE1Vnl5OGlyQWtZTmRMTy0wTUFrNDV1eERWalFrd1lqbGRQOHo4dHZ3eG1hYm5lb281TFFod19hNzJYUFlWRENkZHVSZ0V0RHRING1aREtpdGZFdlhvNWVkWDdrb25yQnc1N2FNS3FQb0wxT2J0eHN4UTlhbEhSNlI0SHZNUVlvcG1iNjQyTlhaRGlrTG5lYW1xT3lYRU9sbnVqMGM?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV0M3RExZWmoyVDZXa05SaUVRVFU3VDZrcHFBcVF1dVM3dWpMNmV4TGw0WWFMXzZ0QUxHOHJDN05jQzFDaUtHbWEyNnl6MGhiY1FqV0k4bUN3NTZDOGdGYUtTQVF3bDVkQ2FsTDJINlBERTJXOVBOdGxuUm1iOENvTC1PMnBkdjNBeXQ5UjV3VThiYjlPWE5OMlpvRzFhQ21NSDAyVnR0a0tZMVU4dlJIcWRFcUZaQ09fTDVSR0k4NlNCQlBGdzZuTnRsdklsN0x4QXZYa0lNWkFlOG03NmUyemlJSFlrQXlHSzd0WkdR?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "BAZNAS Kabupaten Bandung Dukung 25 Siswa Lanjutkan Studi ke Al-Azhar Mesir - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTVxMlNhZWZ5VTZRbThNeDl0T3VQVk1IaDlxVGtSZ3FCcnFrempZZW1oZElDeFR1TVRZM0ljZ0MtRHhNSlNvTUJDaGtGYWFrWXJGWmMtdHl1RVNVbTRqNWt3Nko5cEZOeHVNRlR2MWdHMGpUYW8zN1prTWxCRm56Nng2MjV6RnN3ejY2TGgxZ3lTbW45aTdId3dCZ1jSAZwBQVVfeXFMT2E1cTJTYWVmeVU2UW04TXg5dE91UFZNSGg5cVRrUmdxQnJxa3pqWWVtaGRJQ3hUdU1UWTNJY2dDLUR4TUpTb01CQ2hrRmFha1lyRlpjLXR5dUVTVW00ajVrdzZKOXBGTnh1TUZUdjFnRzBqVGFvMzdaa01sQkZuejZ4NjI1ekZzd3o2NkxoMWd5U21uOWk3SHd3QmdY?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
@@ -117,7 +117,7 @@
     ],
     "w": [
      14,
-     15,
+     18,
      3
     ]
    },
@@ -137,8 +137,8 @@
      0,
      1,
      0,
-     13,
-     1
+     12,
+     2
     ],
     "g": [
      0,
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     12,
-     13,
+     11,
+     16,
      1
     ]
    },
@@ -206,7 +206,7 @@
      2,
      1,
      1,
-     2,
+     1,
      6,
      0
     ],
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
-     "t": "Roeang Kita 2026 Perluas Peluang UMKM, dari Pameran Produk hingga Kemitraan Usaha - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnF0RnI3eDQ3d3IyNEo0Z0Q3UUp5bzJteTd4TzQweXJmb3paXzFwcUZTLTZXd0ZXRGVmaTBGUmd2dEh3OWZ4WFVJcHB5ODdGVl9NZkhIZThKRGhfc0FDS1VnNmNzWlhwb3FJdmo4S1Azdm9tMDNqRWRDdDRlNDZkRGkxX2pwMERVNHhzOE82M0tWbTdlckZ0Tmp1VWQwZUZEYkl4am4wTWlmYXJid3BhQkowZWtYbC1FMDlsag?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "KDS Titip Masa Depan Pemuda kepada KNPI, dari Lapangan Kerja hingga Petani Milenial - Radio PRFM",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2JGNkZRTU9EWmtWVzN1MFp6cU5OVVF3ZU4zWVBiRnhNS25jaHNCeDhJZG9rRFRVZEVVOWk4YXlEYlNiejhEN3ZtdVBFYVZ4Mk44RXRzTE5yQzU4aU50dmRRVi02Rmd4aFU4NFBLRFJWa29GWXNxRUFROC1BNF8yT0tDZzdSSWZ5dERaQWF1eFcwOG9SVi1XbDdXZEpKTnFtY3RhM1pqX1I0cEUySFVMNFhlZDhIYzFrdFh0eUxwc05DRVZ5ODV4WGJtR2JhbVpKaGJrUXV5ZXZGU1RSR1HSAeMBQVVfeXFMTk5HbTRueVU5ZmRLT09QbDg0YkdEZDdDNkZHTEhQUzlWeHk0Qmg2Ri1pNjZIRmxpa3o2eXZsREdQbDZKQTBDVm1FUUt1TElSTEowcjZ1TmRmRHhiX1NjM25EUHlyWTZtY0pYSDJFN0hyUmFMZ1ZCWXY2eVh2NGZhdHdSb3JuX2NuNm9zYm9Bd1JhbnUzYXhjR1hWeUZKRUNnbmJ0OHFDQWhaVXh4WTk0VndYbXpuQmVucVBKNU9yei0weDg0Z2JuSzRna0RpVUJScW9GMkNRNlJqdmxydjVrSXJkZzg?oc=5",
      "r": "Radio PRFM"
     },
     {
-     "t": "BRI Raih Empat Penghargaan Top 20 Financial Institutions Award 2026 - Radar Bandung",
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Ekspor Mandiri Kopi Wanoja Tembus Pasar Arab Saudi - Pikiran Rakyat Koran",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkk0LWdweVZKd2FhVUxCcmFMZ244dzJfeGhpNGZWSWVaNmIwRVhqWk5RQkozcmJmWUFHSEY0Z05lZTFEV2FONUt1czNWQV84eUMtTUdGWU5EN1M0RVpCdjRXWS11bUc3UGtlSjVaVnpTazNBVjBpR1hlbnd3VjdOa2t0UVpZYWxuNkFHcTZBQ0pNLXZqWklKalNoWU5YV1k0MnVja19KeVdwUzg?oc=5",
-     "r": "Radar Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2ZudThvYWllaUpqbGFrUUYtd3hfamJnVkNSMHBRZ3F5Qm5uMTBhQTVYUllfcHlJMUNTdkgtTzhENnR6bmFCbElueWZXWVpmSHBNTjBzbl9xUjNyZU5QcDg4dm1fblBtblU2a004M0VsbGk1cU1mRk1rYndQUlB3aWFxbEp3TUVITy1QVVhmR1RXQXQwZVdCX1pFWTRBMWVGbnhGOWEwVFJ6dw?oc=5",
+     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -286,10 +286,10 @@
     "p": [
      0,
      0,
-     1,
+     2,
      1,
      3,
-     2,
+     1,
      1
     ],
     "g": [
@@ -352,7 +352,7 @@
     "w": [
      1,
      17,
-     13
+     14
     ]
    },
    "trend": {
@@ -378,7 +378,7 @@
      2,
      2,
      1,
-     4,
+     5,
      1,
      4,
      0
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     7,
-     11
+     6,
+     12
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     2,
+     3,
      2,
      0,
      0,
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Viral Bangunan Sekolah Rusak, Kepala SMP 2 Ngamprah Diminta Kembalikan Uang BOS Rp159 Juta - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDBKMjFReTVveWYyeWZHN2dxeGF2dHRtTjJvVEdrR1A3cGMzN0poem5kUE9mSU1HUHhYcTRCUzMzR2NiOVF4RmhFQnBldEdPYVFPMGljTnY0cmNhb3VmNEVOSHN5blA3cC1rU0dOTGxGbnkzdGhRZmNJcGdkTzJFQkY2SmNtdVJCSUZ6cWFRX2UtT3FsVzJkUDRwblJUR1hYc19nUWh0TldEaVU1QVoxSVdLdFlxVEUwZGUwdjF0UzJIQ0N0QVZvRF9WbFhFcmhiNEJDejc2RdIB3AFBVV95cUxNNWR2dUJBZWhOeDJnbXlfN0I1VjZtZ193bWE2ME9IbFhjaGNaNXkwc2N0cEhSaHVMd18tU0FHWFotYmpUOFVBcVdyZjBqcHF6OFJCaHY1dUJ5Zkl5NlA0LWJqczBpbkFTLUstTHdKSHdZYWNqczZ6R2VwYllrdlFad2dOR2hyYldodE9pZ1BCeFVyM1F3WWpfQk13YlpnMkpuUkxhMHdpb3RqeVV2bjFMU2dhb3FyS3FGb21MSEJDWHJBUW5jdzhaaWRmTUpOaElnQlJXUlVpdGFZTmJF?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "bank bjb Dorong Calon Pensiunan Dinas Pendidikan Jawa Barat Tetap Produktif dan Mandiri Lewat Program bjb Pra-Purnapreneurship - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVkpLaVFQWl82eXJYQUlPNlF0YjlNdzVnaUVQeEo3NV9wc1B0TUZRQUdKXzd5MTdGRG5fcDFfVlRQcjVOQURtNlByME9rWFRIclMxOUsxT0wzRkJiT0thZmFrY0RXd05iYWctd1RNZ3U5NTJCSnBrQlNCZ1J0aVNkUFU5MVVLRXMtZmlyTHNDa1ZFVjIwdF8xNHVfSHVMckRiMlB2dHg2MkJWMU9JT0RmOGVRZTg3NkhXS0k3eHZlcVlJa1VLcFF1YjhwS1NLWWR0MDR1ajQ2TWJsS011Qy0tS3pzRzBlZjRqNzk0MFpEZ1h3YXFwaThPeFdB?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYzdtNEJFazg2dk5LVXF0Zklab3dzTUM5Nzl0ekl0OHl6YzRsVFFfRUNoTFdsZTNVSl9TdzBab010SlJLdC1WSGhOMk1ZNnBzMXJqTmVuckF0SklTb1hHVVkwclhTOHgwRm1tN0hzSDllSTRRd0RSZ2tCN0JJUVRZSWQ4TWJQN3JWSXlTcEpkcFNCLWhOYi1wNXZYaXZybGR2VzRlNU1wUFBiNGtMcGNhSURLY21QMmROLWZ6N2NVSGRvc3dTZ1E4b1RIRU56dnVpLUUxamFyMnBUcGNSZHNuQW10ZkpEUW1YN1ZXRXg1dUUzM3U4cXfSAfsBQVVfeXFMT3VsaE0tU0I3ODZUR2taLVBDS3JWSmJOcTR3amwtYTBOMURqWWVwWkNQd0Noel9Ma2ZJRkdfYl9iNDEyUklvQmlveEhZZ1pZV0ZKYWxsOXRMQWNjQjd4NmFSUEhuMExBZzhYXzlUSmxYNC1ZaTZZYnVqOWdOMXBnS3RzTXlqY1JUSXpnSDdWU242RGNlUDVZZXB2ZzI5OWNxMmtfbkhaT1VrV2gyWk4zWl9wZ01WY3U4VTdLSk1DQllUM2I5SWlQWEtHaDE4bHJwV2gyZkZ4VUtsR0dxZkk0M2QzRkJsLUtKc2hzeFJmcW4walBBNnJtd0pOczA?oc=5",
      "r": "Galura"
-    },
-    {
-     "t": "Hadirkan Layanan Kesehatan di Atas Rel, Polsek Rancaekek Dukung Bakti Sosial Rail Clinic KAI untuk Warga - Katerciko -",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQakY2dXdqQUFiNUhDd0tCNl9IemxBR0VLS01xTkFYSkhmUmxwLTNuYjBxOXcwVWh0LTZnRGF3bl9EdVdTM2w0MndUd0JSSmJleHFGSGE4eEM0YU9RdGF5VnFSZ1pvVk1SdkJUUFJiMXNHOUdNNW56Zk04LVRuckFsd2tkQk5mMF9IY29Ob2ZtdjQ1TnJIYXNMVHdTYzZKY0lILVl1U05JQ1hmUElSTE9NdWtYQ0tqZTFRSmVJdzZNeDBtZXJi?oc=5",
-     "r": "Katerciko -"
     },
     {
      "t": "BIKIN BANGGA! SDN Cingcin 01 Juara Leksam Bedas 2026, Prestasi Pramuka Ikut Melejit!",
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     7,
-     20,
-     4
+     6,
+     21,
+     5
     ]
    },
    "trend": {
@@ -530,7 +530,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     1,
      0,
      0,
      2,
@@ -545,7 +545,7 @@
      0,
      1,
      1,
-     0
+     1
     ]
    }
   }

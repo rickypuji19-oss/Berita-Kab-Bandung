@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:35:48.010736+07:00",
+ "updated": "2026-10-30T18:25:36.276366+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,50 +8,42 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   28
   ],
   [
    "Ayo Bandung",
-   22
+   20
   ],
   [
    "Radar Bandung",
-   15
+   17
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   14
-  ],
-  [
-   "RRI.co.id",
-   12
+   15
   ],
   [
    "Kompas.com",
-   12
+   15
+  ],
+  [
+   "RRI.co.id",
+   11
   ],
   [
    "jabarekspres.com",
-   10
-  ],
-  [
-   "detikcom",
-   6
+   9
   ],
   [
    "ANTARA News Jawa Barat",
-   6
+   7
+  ],
+  [
+   "detikcom",
+   5
   ],
   [
    "Satumedia.id",
-   4
-  ],
-  [
-   "Galamedia News",
-   4
-  ],
-  [
-   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -59,11 +51,19 @@
    3
   ],
   [
-   "Radio PRFM",
+   "Disway",
    3
   ],
   [
-   "Disway",
+   "opininews.com",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pengangguran di Kabupaten Bandung Tembus 123 Ribu - Fokus Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUFMTG5yaWdOV2RzN0k3MENTbE9BUGxuLVdXcnk2d3RUOEd4eUVrY3ZSSFVnb3BKUkctZ0ZBZnNhOEhLWVBVeFlMZTE4dzhOU2h3UzNnLU9sbEtIQkxWSFc5R2lqZVdTMXpkZ0h4WFpLejFnLUFZTEtkYmNHUjk0bEFxUFZwc1Y3aE9B?oc=5",
+     "r": "Fokus Jabar"
+    },
+    {
+     "t": "Tiga Anggota Keluarga di Pacet Bandung Dievakuasi ke RSJ - Fokus Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2l1WXJ1dEFIOTcxajhZUEFld3dmV1BRYjgtZHRVUjR2VGRJM3NyaGtyYWluMnFkUWhXZlRJNWpHbURNN21NdEJ0TDc4Z2pyMzlxRmJkRENuc2dRc2didVl5VXpLbEZ4a0lfNVBjazdyNUtpMUxzOGZOeU9DT3FoWDh3X3VxZGhEQU5GUE9HMmxhT1pL?oc=5",
+     "r": "Fokus Jabar"
+    },
+    {
      "t": "Pemuda Bagian dari Pembangunan, Beri Ruang untuk Berinovasi dan Bekreasi - dialogpublik.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGZrbm8tRE5XRGFCMm1wRkxvRGtYNUpYYlFEN2ZuVzNYbjg1ZkFfV0c2MnBaLUNIa0R2dkpxRlVERkM4QlhGaThkWDMzWWpPR0phMEd6N1ViQTg5X0V4QXEwTHZpRWI0ZGxVZUhWTW81alFOZVR2VllqaEZIRjFYdmdmVERDQkMwb0l4TWNidFRiTnhNcS03MVhPa3lTZw?oc=5",
      "r": "dialogpublik.com"
-    },
-    {
-     "t": "Disnaker Kabupaten Bandung Gelar Job Fair 30-31 Oktober 2026 - VISI.NEWS",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2daVlZLSGVJQkFfUWdGTFVJbzV5WlV1OUZDWUE5ZVBGbVhta0JLTFFGaEd1VS1GUFJqYjNKOFhNdzBMQm9ieU5sQzBIZVprUnhMV1JYcTlTMXpORkh5enJzT2FuR2EzMkVHcTFWa2ZqbnBadlZqVjc0QlVvd2N4NUlNcTI3emVaTkE?oc=5",
-     "r": "VISI.NEWS"
-    },
-    {
-     "t": "Pemkab Bandung Rehab Rumah Keluarga Viral di Pacet, 2 Anak Diusulkan Masuk Sekolah Rakyat - kumparan.com - Kumparan",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPREpKbGhvNExJaUQ5VFRQTDUxR1RwYnc5TVVLanpMYlVZNVVmUkpRMGdDcXlCSG56d1gzcnJXS0lmZmFsdzlxTEk3RGhTUVotS01oZHNCSl9Bci15UjEyemw3U0hLRVlOVWhsN0R4emJFOWJpQVVIX0tZbXhwQWFhYmE4N1lqZC1FNE1NNVRmdWRuMTRSWDE1M2ZmVHUxVmlETkNzaC01OFpuMTk1aU12ZWdLSndzYWNGMlZFWlhjdy1YN2hkTUVOdmtSUFlVSm_SAdcBQVVfeXFMTjJTOUFZXzdEempidHlCQ2Q1cUlxYTd1WFFhd19tc3NyQU9fSkloTjlVVkh4c3l1UlFNNWthTl9vOEhicnJhbkJiWVJpdDJpZmp5dU9DRFFDcHlLR1RpcnZIaVpWcnlReXc2QUI3dGk0dl9QLUZoVmNQRDh6azJGYlF1TEhYbzY3SkhEd0tRU3NvbmM2QUo1RHFxYks4MURSV0tSaGpNXzlWQnNrcGVjVHU4dk51SlBGZmY2dk5kSm1CU2RQbENlUXg5a09DYkRvMW9FdDZNXzQ?oc=5",
-     "r": "Kumparan"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      19,
-     23,
+     26,
      1
     ]
    },
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     3,
-     6,
+     2,
+     7,
      11
     ],
     "g": [
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     8,
-     17,
-     0
+     7,
+     19,
+     1
     ]
    },
    "trend": {
@@ -206,13 +206,13 @@
      0,
      1,
      1,
-     5,
+     4,
      0,
      0
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -239,14 +239,14 @@
     {
      "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVBSZGV2clM1aVp2dWtNWG13dTc4V1NsN1Q4bXV6WW5DaTI0dEhNYldwLS05ZHRoSkpyNVg4cE1xZEVtaHlqNHZrUU51ZVBKN2o0bHluM2M1OVdkNXpjMkowWkFTYnRGYzgyanhRQWY5ZklsMm1KbXdNbThTQkx2Z045OE9kYldheUh6NjQxNnVrWGRyUS14bkpERS1ZakgtdHl2cjFtWnhpc08wNG9kYWZlbjlxZlB5LXprenFzalJ5eTVaS3A4M1ZpTnM1S2F6Q0pWODBPUFNRTUpGc2FScm4zMllxd3FOR3VjRDJBRXLSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSllUQVphVUFfb2dPLVpSOTRKV1RfaW5ITjN1RGY4bTB1emczWDJQQkhvaEh5TXE3MTlVaVFTYXRtOVRSY0F0UEI5QTh2VUdDdUI1R2ktWFdPVXY2a1dRdFBOSjQ0QmFPWkc0Y1lVLWNwR252YmdhcmllUnpPSkNRM0pzTDRqb3BGb3JrREpCd01lbS15UTVON2dvd0wyckZyLUFHdWo0N3JCVnFlZ1ZlTlZnWEJoN3ZhSTBad29xZmd1aVlZSlVPd0plS2xlNGJISkNqeE1kUkV2U1lsdmtLVkpqcVRiS3ZVZmRJTy1PRHpXRjZhX3fSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Konflik Petani dan PTPN di Pangalengan Berulang, Polisi Siapkan Forum Dialog untuk Redam Ketegangan - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUklCLTdLUUhMdGJKNVFCbnZJQVRIOVNvdlBrclo4YzZDVHV0Vm1wQlNKV1FyWU1uZUluRG9YWUtrOUZXcUQ4VExmai1aZVRtMUl1WUs1UzVTTFptQXAzTUYwNW5HdExscEVDdk80V3o4WXFBR3ExUE5lVzA5cGRCZHByR3g5VlNzalpoaGUzWk00dUxoTjEyYjAwYTFSQTVzVk4xZjR2Q0FSVy10enJxd2U3Rks2UXNFVjZvVFlmZ1VSWkxLb242ZzlKcHotYTlZa0VZNUpEa1rSAd4BQVVfeXFMT0RJRGNHZW1WNEs2Nk9tRndFd0dGTkFxaFFjWWwwX25YYllXMVltX25Zd0xGS0RoZ05YZE93azdieUFjME1xWG0xbldRS1VEbk5xM0pSNW1jRTA1UVJBQ2xOZ21xSjhvZEdzdFhCUVcxWFpXQUV6WWdsUWFFdTdvbjlDakZER2dkWlJidmFLUTRGOS16ZDVLM0dTYVNKUFNtR0VJQ3NOUmtkZF93clhmU3pGcGs5dDhKZ0VkcWphNlh2RWZJYS1zOHg1V3RvQjNZaVNDSHcwVkF2Q1hTZTB3?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Daya Group Borong Penghargaan Inovasi di Triputra Improvement Forum XXI - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTlXSTdyRGdWSUNvWWVkMGthNzZWd29OcHlUR1lTbVRoS01UNFd4T1dFNmZ4X01NMVdCcUluTnNZT0FhbUk2YlNPbGxGQV9QRlJYTGpydGdkclVNSE5OWDlTSmhYTVQ0Z1FYUlBXd1hpLUdWb0VCSlZ0cUVxcklwaXQ0SnRmTVNNUFVMa1MyTnZxSmhYTWxXLTdGcE5jamMybFBwOEdsV25PMER4WVBkOA?oc=5",
+     "r": "Radar Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     6,
-     12,
+     8,
+     11,
      1
     ]
    },
@@ -285,12 +285,12 @@
     ],
     "p": [
      0,
-     2,
      1,
      1,
      2,
-     1,
-     0
+     2,
+     2,
+     1
     ],
     "g": [
      0,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Belum Sempat Cicipi Teh Ganja Racikannya, Pengedar 12 Kg Ganja di Bandung Keburu Diringkus Polisi - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaU5jWjg3Ny1pXzRILUVUWGQ2S3J3UGVGa0wxWGFYdzVQY2c3WW5ZTkRub3FJRlp3VnY4VGs4UXNMTG1JYWszV0hJRklRMzV2QVRUX3FnOHpIbm1famwwMTF6TzU5bmtXSmU3dTNNaUlRV2J3VHZGWXRqdVBoQW5VZ19pNENnNl9SbmQwZ1RTN0tIbDkwMEJTRGl6WGpvTEdPbW9tQ1A0d3I0S1pwR3FfZk51ODZqQ0diWHpzLUYxMGRKcmp6VVptWkdlT25HM3FsVVNhRkcyOGRaZUxUdUVpMnMtM1hkZw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Ganja 12 Kg Asal Medan Gagal Beredar di Bandung, 1 Orang Ditangkap - detikcom",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRThOb0IwNFhTdnFpN0JVclBkQXB5N3VwbFBIenlaek5zdUoybnN1OVFHUXJETzV1aVBxRk1jTEVLU1lSVHF4TS0ydXRyMkdickN3em9zS1d4Y2h0LVpoU2o1YTN0WlZnUTU0NWtLb2ZHYmtJN0hQMW44UmoxV0RIUVEwVEkwSVYwTWdqdnc1SDhwZkpCcHRScDlKZmFVMEJ3Z0daT3hUSHhWc2tFbzNQTEp4cEFWSG8xM3YtRko3b9IBxAFBVV95cUxObHRtMkxVd2xoU0RVUVpPeGZXUzdFLVV2T3d5QndXSWN3MmhOTFJuQzNDQUdhcUdTV291U3NhcHgwWlp4RFdCbllfZkFiQTg0VjE2WncxNkdqLWhKWER5cDdLT1ZEYWNHbXcxVkNkTHJKa3pvQXEzQ1dYMTBCT0JnVkZGdGNEeTY3QjhaY05FNHRIUkREN1ItVmc3eWZHbWl2U0djWTNyUW8yN2JoMmd4U1BiYWI2NTZfeXRCY0ZGTUQyZndW?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWg3QTVnTEVaMjJmdExKcENEWVh3azFCc2otLTNQZFlwdHZOWV9BUjg5bG05TldVQ1RBRGN0S1dtaVA2Q1BwMmxfc3RXX29hTlkwUm9YbndQdEVyY2RqVE5mUWk5dkR0eUFIMWdoWlhCZW11eWFZY19iaGRFMlJUa01QUXB2MktvWTBLQ3BadFJDWnVPa1h0UWJUcWpDVzhqOUlWV1pxdDNndF9uT2RWMk5TU0o2X2pkRHFBX2RXNXVpeEk?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Satres Narkoba Polresta Bandung Ungkap Peredaran 12 Kilogram Ganja - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVJbFg2bnI5VVgwbHBmdzFwR09tdHpua205THlSSG9DVzh5ZHRmeXpwclBNSVMxT3ZHTTVmSDZMVFB2R0dYa20wWUJpT2FVMHM0MXI0aGdkNnl2MGZjS2lnbkxWZnZoVTBncW81Q2ZJMmdnOUVtZVZnTmplbGRNNVNLNFN5cDgzUjZlMVBHd0l2U0E5WDZ5cDQ0dFRtNGljX1pQZjBuWjdXNTdUWlc1QU5R?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -352,7 +352,7 @@
     "w": [
      1,
      20,
-     23
+     25
     ]
    },
    "trend": {
@@ -377,10 +377,10 @@
     "g": [
      2,
      0,
-     3,
+     4,
      1,
      3,
-     10,
+     11,
      5
     ]
    }
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     6,
-     15
+     5,
+     11
     ]
    },
    "trend": {
@@ -457,12 +457,12 @@
      0
     ],
     "g": [
-     3,
+     0,
      0,
      0,
      5,
      5,
-     2,
+     1,
      6
     ]
    }
@@ -515,7 +515,7 @@
     ],
     "w": [
      7,
-     27,
+     24,
      4
     ]
    },

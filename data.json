@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:25:32.556527+07:00",
+ "updated": "2026-10-31T05:25:16.954901+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,38 +12,38 @@
   ],
   [
    "Ayo Bandung",
-   23
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   20
+   19
   ],
   [
    "Kompas.com",
-   15
+   18
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   14
   ],
   [
    "Radar Bandung",
    14
   ],
   [
+   "jabarekspres.com",
+   12
+  ],
+  [
    "RRI.co.id",
    11
   ],
   [
-   "jabarekspres.com",
-   11
-  ],
-  [
    "ANTARA News Jawa Barat",
-   10
+   9
   ],
   [
    "Antarwaktu.com",
    5
   ],
   [
-   "detikcom",
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -51,7 +51,11 @@
    4
   ],
   [
-   "Jurnal Soreang",
+   "detikcom",
+   4
+  ],
+  [
+   "Pikiran-Rakyat.com",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     19,
-     26,
-     1
+     20,
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     4,
      15,
      2
     ],
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     0,
+     1,
      0
     ]
    }
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     20,
-     1
+     18,
+     0
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      1
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Gagalkan Peredaran 12 Kilogram Ganja - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlpEbTVXVXpLUVhvNnd6cE84VzkxSHNvM3h5dmhPdlpDYTRQdGlfbTZxZ2lTWDNSMjk5QmtKVjRpeEZTa1llYlJIWkVqbWkxY0M0MjZudlJpZWRyZjBlcVc3MVBaNUROM2FBZC1Cb0NtYTZ1MzYyNGUyNWJKeWZWRFNtbFY1TUZSWjdyX1VUa2VsbWFsS2F0Nkkxa2tJUC1hNld2Z1pQbmphUQ?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
+     "t": "Polisi Bongkar Gudang Penimbunan Solar Subsidi di Bandung - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEgxcndvdkcxRzF1bGhxTnpWT2U0RVI0eWlZWUJxSFRBNEMwR3NtU2wwdExtdWZSRy1URVlCeDZINWdTelk5cHdJSjRheVNRX3dSMjlrZHBSaExSWFNCdVFtMFg0WkdTQUxBQXJPYnFaYmphazY3cmx5Qk1WWFVmVFNIbHZ2aldQSnloS1hpeHdONThNZmMtQXpDVE5QTnlvSHluQlJWVm03RWV3amI4?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "FPLH Dampingi Pelaporan Tindak Pidana Lingkungan Perusakan Kebun Teh di Kebun Malabar Pangalengan Ke Polresta - Mata Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQTVtYkZCNGRDZjZLRks1WjRTWWw0TGJDMGJlbVdlaVpXNHZWb2lMMjNKVElGOEJUYXFOWkdvVTRvQXFhcFZjcGJiWmZZQ05WTk11LTBVRHh0WUpQb2FBTzJxS25pTWtXT3dZNTN5bnZRS29LdEgxRTc0UWp0c1JlZjRKdHVGZnFXTExRakI4MHItS3BTZHZhOEdhU19nVlZIMGgzQ0xpNW1ydVk0cGNHRU9nYUtPOEJHVnNsOW9Va1FvbGZuQUFubzdQT3lYSC1ESlpVejV3cXZhQWtZVHB1ZVlXZHhNenZjZk5XeEM4ZEd2VzJ0a0NZR084Nk9fSFlnZEhhWnprONIBjAJBVV95cUxOM3VVXzM3UHhqRVgtZ3BKam9RdDBaaUJ3b2pwbnFVcmVlLUVXYmtqWjRtdXVidjdrejNDYzF0UG1qbXZ0a09WWVBXUVpvYUZ1NWVLU09SN2N6ZGc5TWRPdnVBOTYyM0lNWlRzeXhpbkd6WGlGeTZzWjZDZzdHOXBMbjFVd2VyaUhPMHpsVDI2MXZYSUxCM2NrWGRudk9ST1MtMm9fX0pjTHBIZFFtNkhSZkZWbjl0Z1RHNlNnQzdCbWQySVZfb0RZNTZWUnRPU1Z2R01mWlVkcV9IUURLUWY4bFRXc1g3b2Q5WXltUEphUXFQSzNJQU54NTRKay00bzdzWEwyR2tMMTJTcFA4?oc=5",
      "r": "Mata Bandung"
-    },
-    {
-     "t": "Polresta Bandung ungkap teh ganja dikendalikan dari lapas - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXpBZ0stUTJkS20xOHl0aWNPaVVRME1vUmwyVVk3cGo4ZGhJMHlJZmRUck5aYXdjMER2NkdfSTg2a0NKN2F3OGQtQ2NPNlE3REZjYm5KaXJfRk1ob1JFNkd6cjJ3ek5DNzNfSnk0eU4wbXNwejhlRkNtUFVwWnNxMGZLV2ZaU0hKMDVKTFFONnZQT3NxYmZqOXBLVjlGMmxvT2fSAacBQVVfeXFMTjN0TUplbjBYZlFuNDdNQzRyU2h0dE16ZUI0VFNFYjRvbDI2dTlyRll1RzVua0V3WmluMGZ3UTN1YkZmaGR0VnRxN2ZSTFQzN1RfcFUwRV9fUVRNUUQzSHlmWlQ1RHBobFd0YkxXNWRNYzB5d1pUVGk3Ni1zNXVKWmx4TVVJSVpjSW9heU4xVmNWS0FPY19RbzBOZDBZQW5Ldm1pUGd6TW8?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Modus Baru Penipuan Struk EDC Kedaluwarsa di Bandung: Pemuda 23 Tahun Gasak Rp240 Juta di 17 Lokasi - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcTl1MUx4dWNxMTREd3hWQUpFMUZrQlVWWHBUakNPRzN2WE9FMDFBYUFXeHpMUFl3d2FPZnROV1Z2VDh4YlAtMzBvR3FGTnJBQURwQWItYTZDZGxaZ01iRS1hNklnZXpxTnlIQjhNbUdTaE5Pa0VtQzNzQklkelRkRUdPLU4tYkpLTXBGVHAybVN6N19RSkprYnhGalM0SkNfNXFRUzh2djA3ZzlwMUl1dVlVU3hRRlBDSkxscVBiaEt0bnRKS2Q1SVVvdXEwMWhXV21FTVU3MVAyWDZrNzhqSDltWdIB6AFBVV95cUxOQ3RLTHd6aE81LU5FS19fSGw1VGtXN2xQZjZvRDN3bVY2bEZDczdjQmlLTDE2MmNPQXlmTWZWdWx1cUN3dWREc2JHd01XZzl1MHctQXBHbFR2b1ZkN21pY0JkYmJFZ1JrT2NkRTJmY2dmQ0M0NF9MRnVMLUJ1bGozZ2Z2ekt6c0d3TUxhZFJ5QVQzS2RpRG05c3ROb3VHTHpONDZFei12MFdiVW9xV0N3YUwxQkJBZ0RobG1BelZ6eU5hUE9JSWpScHFrR2pEeUJHODRPYmx0Ujk4MXpOQ3BkeU4wMmt6cnU1?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     20,
-     26
+     23,
+     25
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     3,
-     1,
+     4,
+     0,
      2,
      11,
-     9,
+     8,
      0
     ]
    }
@@ -514,7 +514,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      23,
      4
     ]
@@ -532,7 +532,7 @@
     "p": [
      0,
      1,
-     0,
+     1,
      5,
      2,
      2,

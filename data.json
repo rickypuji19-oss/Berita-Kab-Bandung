@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T14:48:20.181677+07:00",
+ "updated": "2026-10-30T15:41:14.853709+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   27
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   20
   ],
   [
    "Ayo Bandung",
-   23
+   17
   ],
   [
    "Radar Bandung",
@@ -23,23 +27,19 @@
    12
   ],
   [
-   "RRI.co.id",
+   "jabarekspres.com",
    11
   ],
   [
-   "jabarekspres.com",
-   9
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   8
+   "RRI.co.id",
+   10
   ],
   [
    "ANTARA News Jawa Barat",
    7
   ],
   [
-   "Ketik",
+   "Satumedia.id",
    4
   ],
   [
@@ -55,11 +55,11 @@
    4
   ],
   [
-   "Gerbang Patriot",
+   "Ketik",
    3
   ],
   [
-   "Disway",
+   "Gerbang Patriot",
    3
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Kesaksian Tetangga: Dulu Pengusaha Gorden Sukses, Keluarga Viral di Pacet Bandung Kini Terpuruk - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRkdWNTRleV9zeUlLcnNDOFhIY2ZMdEU1bUdQM3pxYmxsMDlNa0d0QUk5MTViVVFsUVBBbjlqc19LbmdlRjVDODUtNzd5d2h1Tk9vU3JITmdDaWFGWXR1aDJaV0xEdUw5czR4OW1ZNlFvZmsyUkl5RlhhZHRDOWZMNFJBbm5vbXgyTjlOWEFZMmhQOVBHek5SV3d3S2ZDTUlyV1plMEJXbjFyc1VScmhMdl83d1Ffam02QXhSTGgtakhFRkp2SG1GWmpzRk5OanlRVWxSZUhReGt4MGZiTVNPVkJR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Bandung Bedas Festival 2026 Hadirkan Job Fair, Pasar Murah, hingga Color Run - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVF5SHZCVEhMWEZhUGVBbkF5RnFPdEw3MEhqeGVFZzNBUWlBeGZjNGZBSkZCd29RZWxsTTdySnhYM19Gbm90U3kyVHRVZV9CakRIYVFEYUltdkhRSzhsOU93XzlXQmpFSGYxY1RXNVlVR1pYN3hLS0hqMkRQbUhDc1VBeFZURE10WEZKMVdzSXRFcmdkTjNCa0l2VlRnejlGMm5QajBnTmlHNTQ1VmZDOQ?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Buka Bandung Bedas Festival, Bupati KDS: Pemuda Harus Diberi Ruang Tunjukkan Kemampuannya - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXdRZjZ5WXpfWngxZW0tZzIyMFkzcXFERE5TM3hwSlo2UnV0RVVrOFA5SUJqeE1EQ3FTRUhZZm9LU0hzcEltU0RUMmV2MUtrcnJlb2FfMlFtckJtaURKbnZPN1ljZTQzczUwbTBnZElrbFZ1OVlOSmxKQU5YX1hMbTdkdEtQSnhrTzZDQlhUMnFXZEtrcVo4SWRTTmpDZWFsTzZkbDhvNlpsRUhCZEHSAa4BQVVfeXFMTTl3UWY2eVl6X1p4MWVtLWcyMjBZM3FxREROUzN4cEpaNlJ1dEVVazhQOUlCanhNRENxU0VIWWZvS1NIc3BJbVNEVDJldjFLa3JyZW9hXzJRbXJCbWlESm52TzdZY2U0M3M1MG0wZ2RJa2xWdTlZTkpsSkFOWF9YTG03ZHRLUEp4a082Q0JYVDJxV2RLa3FaOElkU05qQ2VhbE82ZGw4bzZabEVIQmRB?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Buka Bandung Bedas Festival, Bupati KDS: Pemuda Harus Diberi Ruang Tunjukkan Kemampuannya - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1J0RlRuNlMtcWJRLVZ0MlFGYURUWVk4TTAxbjBmVEQ3Y0F3c1lldmt1UmNYQVlCU3RnSEV5SHNrbmZXcGFrZ25NTTJZaVl1eU1ObVVHOEJTMnlHZFFpWTNKS1ZyOWNiMi1PSXFzR0V5N2ZPeUVWWVh1TnJpcHJ0Y3FWS3BvRUZPbVBDWU1NYUdZU0VTOHUwemNOdnp6ZGpOWEdkdFNhZnA4X054TFRkdm9kOTFxVElrbktOUtIBrgFBVV95cUxNOXdRZjZ5WXpfWngxZW0tZzIyMFkzcXFERE5TM3hwSlo2UnV0RVVrOFA5SUJqeE1EQ3FTRUhZZm9LU0hzcEltU0RUMmV2MUtrcnJlb2FfMlFtckJtaURKbnZPN1ljZTQzczUwbTBnZElrbFZ1OVlOSmxKQU5YX1hMbTdkdEtQSnhrTzZDQlhUMnFXZEtrcVo4SWRTTmpDZWFsTzZkbDhvNlpsRUhCZEE?oc=5",
-     "r": "Ketik"
-    },
-    {
-     "t": "Bandung Bedas Festival Bukan Sekedar Ajang Hiburan, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Bale Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGZPc28wdENiQzRfS3RvZ0xzZk8wQmFmXzBDamtnamlrUjlna0wzYW5fdlN2SUZtNzJ1TU1SRVN6bFk2aXNvQVRibXBSazh1cXhYWHkwQllOZEVPUWYzSERRV3Ezbmdwd25PczFlQlNZeUxLSHUwR1FlcU94VWdkZHpUYlZGY1ZpOEtLalFnbG9weldRajgwbC02T1c3eWh3clRfaTdpWDNaeXFtNnJ3OFdseDhsUnRXVURLRllZenFTMFhz?oc=5",
-     "r": "Bale Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     24,
+     19,
+     27,
      1
     ]
    },
@@ -136,9 +136,9 @@
      0,
      1,
      0,
+     4,
      6,
-     6,
-     6
+     10
     ],
     "g": [
      0,
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     8,
-     17,
+     9,
+     18,
      1
     ]
    },
@@ -202,7 +202,7 @@
      "Jum"
     ],
     "p": [
-     1,
+     2,
      0,
      1,
      1,
@@ -313,16 +313,16 @@
    ],
    "h": [
     {
+     "t": "Serang Pengendara Secara Acak di Soreang, 3 Pelaku Pembacokan Ditangkap Polresta Bandung - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaW1LaVBJVmpDbUxkbDI2WDNNZ3VURW52VDZTTjlWV2w5NU1wTTd2OUU2Y0NXQUlOUmMtMjRsXzBMQXBfVGFDMWlrLXdtVjlpdkFYSXlNVjFIOFdPTXpWVC13M0czS3c5M0h0ajJ1aDhCZ1g2b3N4ZUJTelVLd3hmNmZHdTVNWVE1akduZXlxRzFDNXhnbWRzS1hYbEk2QndwNDhKVXRFQTY5NWdoeDJmN1VHQnBZeWE1ZEFGYkJ0X3VISzVscnA5R01lTQ?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Aksi Perusakan Kebun Teh di Pangalengan, Polisi Turun Tangan - jabarekspres.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU043WTJ3OEthLTVTYmw4RTV3ZnlsWXF3dU9maVFCcWhQX0x6eko5VzB1R0JqVzNjODI5Y2dMbDVxZUVtdVJxY3JZMFl6YVhUM0t3OUwwbWdpa2VqZlJkUXdBUXh0X1VaVWxzWlRsVEttQXVlQlNuTnpIMFhhTXZsZWJFNE00ZTljNHVSekljWURzbWxObGZyRjNYb0l6TmFYbkJ2Vnd3?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Viral Dugaan Perusakan Kebun Teh PTPN I, Polisi Dalami Laporan Silang Kedua Pihak - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQm1zY2RjQTdGQzZCRE4yQ1hyaFRLMnMxaGU5Wm1MNHhiMkRiNXJlWjRWenM1Zk1uNVZRQk5Nd2hLaDA0TEFObTdrMlk2bmlTXy1sNFV0YzhDMlo1eFdBMmNTRFBJaE5mVk1HV1VWVV9hdU4ySEJ1VDVUdVFNZHV0S2kzUjJmeTRwMjN6aUdCdl8weTVEbXlEbnE0ZkJhYzYzaVFfWWpvb0gyUEpFdW1tZWd3c2QxTmszSzFmWFMxUmbSAcYBQVVfeXFMTldnMzVYR2s0WEVmeXpNMFBaQ1dUbWxacXJnNEtqUnFtYzMtSlU0WTdXdEZPdnJFbjJ1MDRHaWhjSmV2UzI3cWZfamVobDZIV1dBRUZGdGRZUUpwbUZ3MHlLTVBNbWJrQjBKWTZUWEdzRm5TYjNfeXJqa0tjSlFNT3UzQk11OHFPeXMyeEhFUlU4ZFRpN0I2Rk5BeHp0ZkhXTEN3cUgxMDFnVmlJeTJQVlltcVRyWTk5Z05PZDdIdUxpZy1JUzd3?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Konflik Lahan Pangalengan Memanas, Kedua Pihak Lapor Polisi - Pikiran Rakyat Koran",
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     17,
+     16,
      23
     ]
    },
@@ -407,9 +407,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "BPBD KBB Catat Kebutuhan Terpal hingga Sembako untuk Warga Terdampak Longsor di Cisarua - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2RrbTJkNGFCZUItTXZ4MFg0QUU5VEpnVlN4Y3pTRjhCT0pHVS1PLXhmaW1yZS1MeEZKZ29fLVAzWjNFZGoyMlhoUVk5Qjg2cXo2ZkNTLWFlakx3dVlabDZLTGRSaEpObFdNUFpkamJhYUgwZjlMaHBuaURZbGZIQS1JYU41dHRNc1d3b0FQQjQtTWNVTnNLcU1Kckg5V3YwZjFoM0xwV05PV3hsNGZsVDVBV0cwd01PQ3ByNllMVll5M0gyR0FBdHR30gHPAUFVX3lxTFBIT3VyZ0J1SGFRQVRCMUF1R0xJb3h5UERkUkNrektBcVNyenRoZVpnS0VwdmhzdVZwdjQ3N3Ffd3g2YkZjWnM3bXJuWDNBc2hfZkJSR3dZREQxY0NvOVEtbWdjZjdtZlJleUtyU2hVVW11ZWhCY2FFdlNpNkVJUWhPWnhzMnhKMmpwUUhpdV9Sd2tpWTNxX1pGbEVKVVdtUUp0QTItRWcwOE90QzFYenB5NnZ5Qk1fcFNvOG4tM2JpdkdVVDdwWmRxdWFYLWtjbw?oc=5",
+     "t": "Warga Jalan Tera Bandung Tolak Pengosongan Lahan, Desak Pembatalan Gedung Inspektorat - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3BOei1BWVlZYmxEcFdzY2QwMUU0ZEJqTnJoLXpBNWE3QWZCeTlVcTdINlJmYnJfTFlhdlJucU5XMzh1bGpNSmhuTnVsNzVfSGo2RjBTOE5MY1RnaFdiLVJUOThxdmxNLWliMVpBX29taGJaZm0tdVdFWG9yVThTQ2N5eGstSnd2VkJIWEZGVVpsYUZmSDRUdEFaTzIwZVYzZEpIS19KR1JnZm5qQTdiUFM4QXBub1EwY3dNQk14NDNveUdMNGpPanQ1U2x2LXVP0gHWAUFVX3lxTFBaUE42WGVSQTFTYmdzWk5raE5haFhHcnNiUHhGV2F5ejRjVFdETTR3TjJyTTdpTWhWOWMzRkpIaC13M19Kd2pZa2gxUngza1JHS2tRVHI2dmw5YXN4UWpoeDNPb3ZhY2J5dVpKMG9BLThnUFlNcmpjSF9yRFpfZnoySFlIY0lCRnVPMHRjWnFNb1NzNVdxVlpyVFZrQmpuTXdBTzg5b1lhNjBHUjQyT3Nwc3gxb1FEbVRoU3hKd1JXZEJsQi1yRjJySzBDWkZrLVpUWjlxekE?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     15
+     12
     ]
    },
    "trend": {
@@ -462,8 +462,8 @@
      0,
      5,
      5,
-     2,
-     6
+     1,
+     4
     ]
    }
   },
@@ -514,7 +514,7 @@
      0
     ],
     "w": [
-     7,
+     6,
      23,
      6
     ]
@@ -535,7 +535,7 @@
      1,
      1,
      5,
-     1,
+     0,
      1
     ],
     "g": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:37:29.002779+07:00",
+ "updated": "2026-10-31T03:27:11.279568+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,10 +8,14 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   25
   ],
   [
    "Ayo Bandung",
+   24
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    20
   ],
   [
@@ -19,20 +23,16 @@
    18
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   14
-  ],
-  [
    "Radar Bandung",
-   14
-  ],
-  [
-   "jabarekspres.com",
-   12
+   15
   ],
   [
    "RRI.co.id",
-   10
+   11
+  ],
+  [
+   "jabarekspres.com",
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,7 +40,7 @@
   ],
   [
    "detikcom",
-   6
+   5
   ],
   [
    "Disway",
@@ -85,10 +85,10 @@
      "r": "Pojoksatu"
     },
     {
-     "t": "Pertandingan Perdana Tim Futsal Kota Depok di Porprov XV Sukses Kalahkan Pemkab Bandung - spektroom.co.id",
+     "t": "Pertandingan Perdana Tim Futsal Kota Depok di Porprov XV Sukses Kalahkan Pemkab Bandung - https://spektroom.co.id/",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWtNRHd2TnkwV0VER2hxQnlXQV9wTUY2WG51WkpNbWdhd2s4RnZGU3ZRV2QxZTh5U0J5amJ2c3p6WVhRdFRaZXlEZDhwSnY4MUFTMGpIV213dExXMVhWNjd5TVhIVk9keXlTWGtrWGVseTNDc3FSWDUxSVQ4QkJodjZ4NU1XRkhjcG03eUs4b3V6enE5ZkExVVBjdkg4cjhHQ1YyQ3hualdBczVYUzhaOXNB?oc=5",
-     "r": "spektroom.co.id"
+     "r": "https://spektroom.co.id/"
     },
     {
      "t": "Pemkab Bandung Targetkan Sepuluh Ribu Wira Usaha Muda dan Peluang Kerja Tiap Tahun - Antarwaktu.com",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     19,
-     21,
+     18,
+     26,
      2
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     4,
+     3,
      15,
      1
     ],
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     10,
-     19,
+     11,
+     20,
      0
     ]
    },
@@ -205,7 +205,7 @@
      0,
      1,
      1,
-     4,
+     5,
      0,
      3,
      1
@@ -284,12 +284,12 @@
      "Sab"
     ],
     "p": [
-     2,
+     1,
      1,
      2,
      2,
      2,
-     1,
+     2,
      0
     ],
     "g": [
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     22,
-     25
+     21,
+     28
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     4,
-     0,
-     2,
-     11,
-     8,
+     3,
+     1,
+     3,
+     12,
+     9,
      0
     ]
    }
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     5,
+     6,
      11
     ]
    },
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     8,
+     7,
      23,
-     4
+     5
     ]
    },
    "trend": {
@@ -535,13 +535,13 @@
      1,
      5,
      1,
-     2,
+     1,
      0
     ],
     "g": [
      0,
      0,
-     1,
+     2,
      1,
      1,
      1,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:39:09.923654+07:00",
+ "updated": "2026-10-30T23:36:10.971702+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,36 +11,40 @@
    27
   ],
   [
-   "Ayo Bandung",
-   21
-  ],
-  [
-   "Radar Bandung",
-   16
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
-   15
+   20
   ],
   [
    "Kompas.com",
-   14
+   18
+  ],
+  [
+   "Ayo Bandung",
+   17
+  ],
+  [
+   "Radar Bandung",
+   15
   ],
   [
    "RRI.co.id",
-   11
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   10
+   12
   ],
   [
    "jabarekspres.com",
+   12
+  ],
+  [
+   "ANTARA News Jawa Barat",
    9
   ],
   [
    "detikcom",
-   6
+   5
+  ],
+  [
+   "Jurnal Soreang",
+   4
   ],
   [
    "Disway",
@@ -51,19 +55,15 @@
    3
   ],
   [
+   "Pojoksatu",
+   3
+  ],
+  [
    "Pikiran-Rakyat.com",
    3
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Koran Gala",
-   3
-  ],
-  [
-   "opininews.com",
    3
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      17,
-     23,
+     25,
      1
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "M. Hailuki Dorong Budaya Literasi Anak Muda Kabupaten Bandung Lewat Bedah Buku Kepemimpinan AHY - Koran Gala - Koran Gala",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMF9Jb1p3UlZWZlJyOHJrTC12U1lGWENaZnZWWXpZeC1LQ0U3aGhVWjlzU0MzQkdIWlpWOHpqcHNyZ053czQ1eDFRRlNTdmdKdWtSMnFxRFBsOHRRNjNaWnFnXzl0TjZXSWJjM2VOS1lBZi1FMzEyTTJrdzNtWUVoRnFzVi1QZUtmaEtaVm9TbndFb3M5S3p2YXNFazl2RmN2d2h0b0VGNy1qZWFJU1FKTU9tcjZJdzBpVlBCZEItU1JiUTdvOTR0MnpWTTNaV3p2YlFz0gHYAUFVX3lxTFA0NmVaVmZ5UzFlTG5uMGQxMkVqMGVUa2U2dFNCRzZqdTdqMXZpVEZpa1hNY2tBSWNsRWpkTHFoTW5PTjM2ZU5Mblc3NzV2VWtLcEI2QmI3X2ZiN2FwbmV6UmVqcklyTk5LTGQzSUlBMmczMnd2Yi1mMktoTnNQeHcwUTdwckhYYjMxWjd3NTF6WTAwYXRNc0E1Yk1lNl9fT1FRSFdQUFFHTnIzWWt6dG9aYlZQckV1bGJMNHFveXRRWE9kcWw3ZlBwZkU2YWxCdlpaeUd3S2NSaQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJ3WmdpLXdURGhwNWZ5dkNkOWFXaDJoLWRrUVV6WjZKR1pWRTVMcWtwZWsyZ3EzdWJZd1lsbjdYandhbnFBNkJyUzVJc2szSDZoRGdRSTh6ZG9wMGtMbVdqczV1ZTNfRV8xdTlDb1dCNG5Nb2FqdWdaWENyaF85TzlUc2F6S1c3QnhWTFFMUTJxWjE4dDZUNm96Si1aeUpRWDdjQVN4LU9HT2VqcFFKMjJZUQ?oc=5",
      "r": "Pojoksatu"
-    },
-    {
-     "t": "Bedah Buku Kepemimpinan AHY di Kabupaten Bandung, Demokrat Bidik 60–70 Kursi DPR RI di Pemilu 2029 - Koran Gala - Koran Gala",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlpvRHJobmZySktXMWN5V1c3MU9Uc25hZnhpZm9DLXVCbXdtWE5BSVBVaGJoOE5PSHlKZ0R2WV9IVlNEYnBnUUMwZElKZXpSZk5udjZLTlpKdGxBZjJjLUozQXNJSm9iX0dzdk4xUU8tN3M0UVlPQ2FpSk9tMGVfejYtR2FHcTNuQ3lwdHlES3ZfQVNHMmVWUHRMcF8wNlEtUEhtaWlXWlYySnExaE9KZ0JRUloteWg5VWtSZE9uSzkxeDZYMFpDU2w1M2Y5VUQ4QXlUWDVR0gHbAUFVX3lxTE5DSmc5aWFJR3BZbElQS1JuQWtzMHJlMW9GeVVJWlk2NXZaS2RTRTN1eEMxSllvRkFqbTVMVklEc005UENvaVptdl9WQnpTYWVxODRHSkZ4dUdlaXRXbEVTV1lIMThNTXRNYXRvenhtb2dMR0hRZkxoWjV6NWNrdkZUT2hoT2E3UGg0eUQwZjhUcG9DQ0hiRThPZXZoZDZiZHFYSUZ1eld0X1BFUE40bkNKNHFTUTNDUXBRTG5XTUJTeV9KZFc0OGdLdVpXZW80dzg4MnBxU2pHNVhWTQ?oc=5",
-     "r": "Koran Gala"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     9,
-     19,
-     1
+     11,
+     22,
+     0
     ]
    },
    "trend": {
@@ -206,13 +206,13 @@
      0,
      1,
      1,
-     4,
+     5,
      0,
-     2
+     3
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -233,7 +233,7 @@
     {
      "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmVhR2wtRnZoa1FUTjJnNEk5MWJMc2pfbHRkam14ZzRmdUY1ejlZVHNOdlJhTXdFU3pNZ0owenlySkZlTmEySXBpRGNfTzY1NWlkMHBodldzUGFmN2NtU3ZwZ2JPZkpmX3NXNmN4TVNjREk2M1ZyUVhvTHBwVEhDOG9KNkpGOUtvQ2YzZ2ZwcmJ4bmlSSlh6WlNTbmhyaVl2YVh1cUIxNDhxcVdFWHlWR0ZrckdUVDBGVWl0bFB3WFo1cGVYTXBsSHhCUGFoRzllS0E?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -245,7 +245,7 @@
     {
      "t": "Pengakuan Pemuda di Bandung yang Racik Batang Ganja Jadi Teh, Dijanjikan Upah Perantara Rp 2 Juta - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1ZRZTJZVzVUZ1JFV2hqdGJhNXdlZG4yVVc5QXZLME9NLVBmWjFXaFR0MUFvQ1lrNE9BcU1nQnNacHhHa1dIbTQ5ejhkeUhwZnNaQVk0dTlZd2FlVllIYVFsSWQycWJMR3ZVV0E1elJMamxlOEt3S1JhaV9MTEpDRVVzTk5VVmczSGFVRjREVkZzbWI2M21JcDNFMmFhVzRNZG1hYUc3YTR0dE9TVW5Ld1Q2MEZSbThSWmJuNmE3eDZUeVZqbzBfUA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNci1QMzJQZGxmS28tb21haTFMTWxUMWZkODl1bndEZ1JCTU01clZjWTZrRUFCWWhPczZydXd0aGhRVy1UVGpZUzZVVjM0ZXhueHN1a1JBa0dQWHBEd0laZWtMYlN3SGd4YTZqc0FDYkRpbjgzRE1WT3Z3MnFqYUVIbUhGajIyYXNiVkdPaWVUZkxCVHM0bzNmVzRmQWtXTlAxajA1dzFXZGVKNnVKVnFCUGF0Qk1kMmp4SmktN3pQTXFlM0VXb0dlbHAtM1MwV1d5VElURQ?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -325,10 +325,10 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Belum Sempat Cicipi Teh Ganja Racikannya, Pengedar 12 Kg Ganja di Bandung Keburu Diringkus Polisi - Tribunjabar.id",
+     "t": "Nekat Aniaya Pengendara Motor Pakai Celurit di Soreang, Tiga Pemuda Ditangkap Polisi - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaU5jWjg3Ny1pXzRILUVUWGQ2S3J3UGVGa0wxWGFYdzVQY2c3WW5ZTkRub3FJRlp3VnY4VGs4UXNMTG1JYWszV0hJRklRMzV2QVRUX3FnOHpIbm1famwwMTF6TzU5bmtXSmU3dTNNaUlRV2J3VHZGWXRqdVBoQW5VZ19pNENnNl9SbmQwZ1RTN0tIbDkwMEJTRGl6WGpvTEdPbW9tQ1A0d3I0S1pwR3FfZk51ODZqQ0diWHpzLUYxMGRKcmp6VVptWkdlT25HM3FsVVNhRkcyOGRaZUxUdUVpMnMtM1hkZw?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVcxSjV1THVQZVVfd21JU3lmTHVva2ZxbXdWQmo2X3N1S0VVd1JRUWlsSllYZGxLS3hjRWhGTkt6UDNsUjBSN3hiZ2NFWkJJbHFIVTdSNDlyNXQ1bjEwRnJRbU9zRzJXQ1BDOGR5cG1zSzBKakxtNmZEMzVzdG5Ec1ZSNUU1ZWNGUGRzYWhndUJtU19idzNCdlZ6VVdUMUFBN19UZlJKbTd1RHFxYlNqdEQ1YmsyY0dXcFdBMUFSVzVGaHlybmhBLUxvb0xMNDJGTXBONA?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     20,
-     26
+     24,
+     25
     ]
    },
    "trend": {
@@ -377,9 +377,9 @@
     "g": [
      2,
      0,
-     3,
-     1,
-     3,
+     4,
+     0,
+     2,
      11,
      7
     ]
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     11
+     12
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      5,
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     7,
-     23,
+     8,
+     24,
      4
     ]
    },
@@ -533,7 +533,7 @@
      0,
      0,
      1,
-     0,
+     1,
      5,
      1,
      2

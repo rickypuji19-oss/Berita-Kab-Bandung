@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:38:58.246892+07:00",
+ "updated": "2026-10-30T17:35:48.010736+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,19 +11,15 @@
    27
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   20
-  ],
-  [
    "Ayo Bandung",
-   19
-  ],
-  [
-   "Kompas.com",
-   15
+   22
   ],
   [
    "Radar Bandung",
+   15
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    14
   ],
   [
@@ -31,15 +27,23 @@
    12
   ],
   [
+   "Kompas.com",
+   12
+  ],
+  [
    "jabarekspres.com",
    10
   ],
   [
-   "ANTARA News Jawa Barat",
-   7
+   "detikcom",
+   6
   ],
   [
-   "detikcom",
+   "ANTARA News Jawa Barat",
+   6
+  ],
+  [
+   "Satumedia.id",
    4
   ],
   [
@@ -51,7 +55,7 @@
    4
   ],
   [
-   "Satumedia.id",
+   "Ketik",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Disway",
-   3
-  ],
-  [
-   "Jurnal Soreang",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     18,
-     26,
+     19,
+     23,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      1,
      0,
-     2,
+     3,
      6,
      11
     ],
@@ -187,8 +187,8 @@
     ],
     "w": [
      8,
-     19,
-     1
+     17,
+     0
     ]
    },
    "trend": {
@@ -212,7 +212,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Konflik Agraria di Pangalengan Memanas, Petani Gandeng LBH Bandung Laporkan Dugaan Kekerasan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHdCMWdqWEpsc3dPWmRYX2FibnpwdFU3b3JMNWRBdllVMGJRc3ZhOENreTJtaTVzcjJ2bVAyYm8tQWRLRHpXWVUycnlpampqOTdpWnVFRFlqTGJKRVRfd19RUDZ6OWkwMDAyeHBSM3o4Rkx2N3dqeG1leTJmenIxUmgycFQwSlM5dU9LcHpGWk84Wi1VTEw2bnpkRWt3VHJtaEd0VDFka3kxaDVsLTg0UTF3QjRDa1J6c3BodUU1RXlncnEydWsxRzgzRzRqNzVucGpiR3E0eU9vdw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVBSZGV2clM1aVp2dWtNWG13dTc4V1NsN1Q4bXV6WW5DaTI0dEhNYldwLS05ZHRoSkpyNVg4cE1xZEVtaHlqNHZrUU51ZVBKN2o0bHluM2M1OVdkNXpjMkowWkFTYnRGYzgyanhRQWY5ZklsMm1KbXdNbThTQkx2Z045OE9kYldheUh6NjQxNnVrWGRyUS14bkpERS1ZakgtdHl2cjFtWnhpc08wNG9kYWZlbjlxZlB5LXprenFzalJ5eTVaS3A4M1ZpTnM1S2F6Q0pWODBPUFNRTUpGc2FScm4zMllxd3FOR3VjRDJBRXLSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUklCLTdLUUhMdGJKNVFCbnZJQVRIOVNvdlBrclo4YzZDVHV0Vm1wQlNKV1FyWU1uZUluRG9YWUtrOUZXcUQ4VExmai1aZVRtMUl1WUs1UzVTTFptQXAzTUYwNW5HdExscEVDdk80V3o4WXFBR3ExUE5lVzA5cGRCZHByR3g5VlNzalpoaGUzWk00dUxoTjEyYjAwYTFSQTVzVk4xZjR2Q0FSVy10enJxd2U3Rks2UXNFVjZvVFlmZ1VSWkxLb242ZzlKcHotYTlZa0VZNUpEa1rSAd4BQVVfeXFMT0RJRGNHZW1WNEs2Nk9tRndFd0dGTkFxaFFjWWwwX25YYllXMVltX25Zd0xGS0RoZ05YZE93azdieUFjME1xWG0xbldRS1VEbk5xM0pSNW1jRTA1UVJBQ2xOZ21xSjhvZEdzdFhCUVcxWFpXQUV6WWdsUWFFdTdvbjlDakZER2dkWlJidmFLUTRGOS16ZDVLM0dTYVNKUFNtR0VJQ3NOUmtkZF93clhmU3pGcGs5dDhKZ0VkcWphNlh2RWZJYS1zOHg1V3RvQjNZaVNDSHcwVkF2Q1hTZTB3?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Roeang Kita 2026 Perluas Peluang UMKM, dari Pameran Produk hingga Kemitraan Usaha - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnF0RnI3eDQ3d3IyNEo0Z0Q3UUp5bzJteTd4TzQweXJmb3paXzFwcUZTLTZXd0ZXRGVmaTBGUmd2dEh3OWZ4WFVJcHB5ODdGVl9NZkhIZThKRGhfc0FDS1VnNmNzWlhwb3FJdmo4S1Azdm9tMDNqRWRDdDRlNDZkRGkxX2pwMERVNHhzOE82M0tWbTdlckZ0Tmp1VWQwZUZEYkl4am4wTWlmYXJid3BhQkowZWtYbC1FMDlsag?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,9 +268,9 @@
      0
     ],
     "w": [
-     5,
-     13,
-     0
+     6,
+     12,
+     1
     ]
    },
    "trend": {
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     1,
+     2,
      1,
      1,
      2,
@@ -299,7 +299,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Ganja 12 Kg Asal Medan Gagal Beredar di Bandung, 1 Orang Ditangkap - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRThOb0IwNFhTdnFpN0JVclBkQXB5N3VwbFBIenlaek5zdUoybnN1OVFHUXJETzV1aVBxRk1jTEVLU1lSVHF4TS0ydXRyMkdickN3em9zS1d4Y2h0LVpoU2o1YTN0WlZnUTU0NWtLb2ZHYmtJN0hQMW44UmoxV0RIUVEwVEkwSVYwTWdqdnc1SDhwZkpCcHRScDlKZmFVMEJ3Z0daT3hUSHhWc2tFbzNQTEp4cEFWSG8xM3YtRko3b9IBxAFBVV95cUxObHRtMkxVd2xoU0RVUVpPeGZXUzdFLVV2T3d5QndXSWN3MmhOTFJuQzNDQUdhcUdTV291U3NhcHgwWlp4RFdCbllfZkFiQTg0VjE2WncxNkdqLWhKWER5cDdLT1ZEYWNHbXcxVkNkTHJKa3pvQXEzQ1dYMTBCT0JnVkZGdGNEeTY3QjhaY05FNHRIUkREN1ItVmc3eWZHbWl2U0djWTNyUW8yN2JoMmd4U1BiYWI2NTZfeXRCY0ZGTUQyZndW?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Polisi Bongkar Peredaran Ganja 12 Kg di Bandung, Diduga Dikendalikan dari Dalam Lapas - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWg3QTVnTEVaMjJmdExKcENEWVh3azFCc2otLTNQZFlwdHZOWV9BUjg5bG05TldVQ1RBRGN0S1dtaVA2Q1BwMmxfc3RXX29hTlkwUm9YbndQdEVyY2RqVE5mUWk5dkR0eUFIMWdoWlhCZW11eWFZY19iaGRFMlJUa01QUXB2MktvWTBLQ3BadFJDWnVPa1h0UWJUcWpDVzhqOUlWV1pxdDNndF9uT2RWMk5TU0o2X2pkRHFBX2RXNXVpeEk?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVJbFg2bnI5VVgwbHBmdzFwR09tdHpua205THlSSG9DVzh5ZHRmeXpwclBNSVMxT3ZHTTVmSDZMVFB2R0dYa20wWUJpT2FVMHM0MXI0aGdkNnl2MGZjS2lnbkxWZnZoVTBncW81Q2ZJMmdnOUVtZVZnTmplbGRNNVNLNFN5cDgzUjZlMVBHd0l2U0E5WDZ5cDQ0dFRtNGljX1pQZjBuWjdXNTdUWlc1QU5R?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Polresta Bandung Ringkus 3 Pelaku Pengeroyokan di Gapura Soreang, Terancam 9 Tahun Penjara - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVdfV0g4Rlc3Q3YxeUtpTEdFbGdVLV9tWHk0dzg2UFY3QmdsYnZTUFVBNHhBNDJUcFJPWXlFcC1yLVdvRWl3LW5zYzlZSG9DU3FHR2RkeEVNS0hkZmdHSnlsQldpeGhzWlVWS1BOWHZ6Y2U5VnpuYWtPOGNsSEV6UlctdXBVb3lTWjhON1k3dVQwc2hRSXd3anM2ZDRHSzB4SC1vSlhicUxzcTNBYnB2ZWFmTEJNOV9va3B1SkV2eEk4NFRlMkxhTnNfTzNQcDJXOWpLXzg3VkdTd1Z4NVB1aVQyY09fOW_SAewBQVVfeXFMTlNDeWtMYTJNUkQtZ2pCT2E5ZlFMLTZ0cmxLemFacFNablpVTXhIWkVkMXdiT0hienIwWGhVQkR0SVlmREUySFNtRUo2N3RzYWtwNzE1RXM4YmtfOTlDV2xWX3BmS3U0S3hWSWMtTWNEdU5hUGRjVWdfcmlEbURFRUtISF93aDl4WnFDcmE2Vl83RmpuTEpwcm1tT2l0RUl4Yzl6ZVpLRWJXZHVkY3Q1YjNuU2FKZlBmOV82YXc5S2JwU2VudTZHOVZvWXFKUVF2UDhicXNhZDdXaWFSYXJFVE8yTDNBTWFFdFZ6OGM?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -352,7 +352,7 @@
     "w": [
      1,
      20,
-     25
+     23
     ]
    },
    "trend": {
@@ -377,11 +377,11 @@
     "g": [
      2,
      0,
-     6,
+     3,
      1,
      3,
-     11,
-     3
+     10,
+     5
     ]
    }
   },
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     14
+     15
     ]
    },
    "trend": {
@@ -462,7 +462,7 @@
      0,
      5,
      5,
-     1,
+     2,
      6
     ]
    }
@@ -477,22 +477,22 @@
    ],
    "h": [
     {
+     "t": "Kejar Wajib Belajar 12 Tahun, Bandung Perkuat Kolaborasi Sekolah - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNub3lScl9xY3VZU2RXdFpXWGxweXkzZ2pRR293ZjVHMEF3WTFHZWNRR05XZFF0VnB1TVdib3BnUzhGU1Q3ZnVORG5xSVRGbmwwTUFEeVd3d2h4aWZnLW11ZHd3R29sV1FXTWVZNy1HQUktNWFpTHhJWTUzcVVWckc4dTNTZW1wMEVDU1hhSFljYngyZEVFbUMzeHFjQTlqVFdadDd3?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
+     "t": "12 Mahasiswa Politeknik STIA LAN Bandung Hadirkan Tiga Inovasi untuk Kecamatan Lembang - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnRoa19EWVdtaUQybDNUbm5SMEZXUndOREtpTnVUZ2ZJbEx3RDVBcFNwTXV3bnBXeTEwUnRreVg4NlhneHhOWThiQjIwbXNaTm1DRU9rOHpNZ3QwMm5Qa1FKQkdkV1dZWjRvTjZHTW14OG9GVWpCMEtDcGpYaWNhWlV0U3l6YUdNb3EtcDBLSzFMamhYTmZEUXh2Q2V5TENUWjcxVDd1V0hGajRmVG9YVVhSWUZWdnQtOXhxaXNuQkpkNlhMcXhjSDlRT2F6Q0U?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVBSZGV2clM1aVp2dWtNWG13dTc4V1NsN1Q4bXV6WW5DaTI0dEhNYldwLS05ZHRoSkpyNVg4cE1xZEVtaHlqNHZrUU51ZVBKN2o0bHluM2M1OVdkNXpjMkowWkFTYnRGYzgyanhRQWY5ZklsMm1KbXdNbThTQkx2Z045OE9kYldheUh6NjQxNnVrWGRyUS14bkpERS1ZakgtdHl2cjFtWnhpc08wNG9kYWZlbjlxZlB5LXprenFzalJ5eTVaS3A4M1ZpTnM1S2F6Q0pWODBPUFNRTUpGc2FScm4zMllxd3FOR3VjRDJBRXLSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Pemprov Jabar Perkuat Sistem Kesehatan Daerah - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFVPeG96UzBZS09TTkpEOWlsMmFtbDEzS3VSVy1xTHpxdWpCZF9tODJ6em1CVy01R2lZRXBmZFJKYzBTMFVENWEwVXNQOWtPOXk5cURpMUl0YlFzdTVXTEdmWU1WcDU5VGVVczdZNTVLZ3E3TWcxZEQ0QkJZdFNrZjFfVEtNTXhRUG9DS2R3?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
-     "t": "KDM Dorong Perlindungan Pendidikan dan Kesehatan agar Warga Tak Terjerat Pinjol - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDAwVjBtNnJyb09zcUkxQW9QYzhXVnZmZEUycU5FdHNJaE84REM3R0o4YnZ3Vy1YV0Y1WS1ISGY3a0I4Uks3UGl5cjROSEVaclB4Q3ZiXzhvZi0yWjlrVDJER1ZBWkdkalNYWENjOUQ3S0ZWaU9NUnA1N3g1WklDZzJqOFJNNU4zSTBaLUdzNl85d24wT3hkdm9HM1FfalZBWkxmdzJFa1hqVEU1b21yVjRMaW1naG85aWgw?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -515,7 +515,7 @@
     ],
     "w": [
      7,
-     26,
+     27,
      4
     ]
    },
@@ -533,10 +533,10 @@
      0,
      0,
      1,
-     1,
+     0,
      5,
      1,
-     1
+     2
     ],
     "g": [
      0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:25:36.276366+07:00",
+ "updated": "2026-10-30T19:30:43.050267+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,46 +8,54 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   25
   ],
   [
    "Ayo Bandung",
-   20
+   22
   ],
   [
    "Radar Bandung",
-   17
+   16
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   15
-  ],
-  [
-   "Kompas.com",
-   15
+   14
   ],
   [
    "RRI.co.id",
-   11
+   12
+  ],
+  [
+   "Kompas.com",
+   12
   ],
   [
    "jabarekspres.com",
-   9
+   11
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "detikcom",
-   5
+   6
   ],
   [
    "Satumedia.id",
    4
   ],
   [
+   "Galamedia News",
+   4
+  ],
+  [
    "Ketik",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ],
   [
@@ -56,14 +64,6 @@
   ],
   [
    "opininews.com",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
-   "PPID Kab. Bandung",
    3
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      19,
-     26,
+     24,
      1
     ]
    },
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     2,
-     7,
+     3,
+     6,
      11
     ],
     "g": [
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     7,
-     19,
+     8,
+     17,
      1
     ]
    },
@@ -206,7 +206,7 @@
      0,
      1,
      1,
-     4,
+     5,
      0,
      0
     ],
@@ -239,7 +239,7 @@
     {
      "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSllUQVphVUFfb2dPLVpSOTRKV1RfaW5ITjN1RGY4bTB1emczWDJQQkhvaEh5TXE3MTlVaVFTYXRtOVRSY0F0UEI5QTh2VUdDdUI1R2ktWFdPVXY2a1dRdFBOSjQ0QmFPWkc0Y1lVLWNwR252YmdhcmllUnpPSkNRM0pzTDRqb3BGb3JrREpCd01lbS15UTVON2dvd0wyckZyLUFHdWo0N3JCVnFlZ1ZlTlZnWEJoN3ZhSTBad29xZmd1aVlZSlVPd0plS2xlNGJISkNqeE1kUkV2U1lsdmtLVkpqcVRiS3ZVZmRJTy1PRHpXRjZhX3fSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW9GcEhEOXdfUjFYVHU5dDBlaXJnWUtQRE9nRFJGRHZFelVuQ3ZIeURyajVmeFdmN0JickRQanJwMkZjSUc5RlJOUlhHb003TV80UktBckVHdnMwcmZpQ3U0NEhLWEtydzVGdUxBcVdEbnNXV05zSkE3eHdrUGREaU5NYV9LZGZ2YkVYTEM2SXktYkFaVmx4WTRlWGQxcEhzWVVMRnlFeFJJcUVFLWdlYnZwU2I0T3VhdE9rS0FnTHlHRXgwdzdUem56SVhQOUJHX19nZTUzQlNpS0FYZjcxRkhzQ1NtVi0wSzZVWXRFSWlFWm9MejdMSDl30gH_AUFVX3lxTFBacHVlNzBwRkdxVG9mNHN4SlAtUXBiSUoxRHFod2pVMDNWUmQ5SlI1bnpUVTczTWktaWdzR2NwNERNZjZDdXhmZnRWbVhRLUpVVF9aTjRkLTRFcVFoWU9vSGg3VUdEOHp3TVNqWHFZMGNsbnRONzNXdy1LOGJQSGkyd0tOWFR4WXl5UDIwckw2TWdqVDN1dGpqbDE5MmgwMmRGZWQzSDd5M2oyZ19NM1BydS1ZTWFzclRPWndTNjZYemItVmpSbzN0cXlWSnFoemZaVDQteklNUEx1SEhWeXFUbGJCLTF1dXZ5Y0daTzFTODlWaWxhbFpWS2Z2WVp2dw?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      11,
      1
     ]
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     1,
+     2,
      1,
      2,
      2,
@@ -321,7 +321,7 @@
     {
      "t": "Ganja 12 Kg Asal Medan Gagal Beredar di Bandung, 1 Orang Ditangkap - detikcom",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRThOb0IwNFhTdnFpN0JVclBkQXB5N3VwbFBIenlaek5zdUoybnN1OVFHUXJETzV1aVBxRk1jTEVLU1lSVHF4TS0ydXRyMkdickN3em9zS1d4Y2h0LVpoU2o1YTN0WlZnUTU0NWtLb2ZHYmtJN0hQMW44UmoxV0RIUVEwVEkwSVYwTWdqdnc1SDhwZkpCcHRScDlKZmFVMEJ3Z0daT3hUSHhWc2tFbzNQTEp4cEFWSG8xM3YtRko3b9IBxAFBVV95cUxObHRtMkxVd2xoU0RVUVpPeGZXUzdFLVV2T3d5QndXSWN3MmhOTFJuQzNDQUdhcUdTV291U3NhcHgwWlp4RFdCbllfZkFiQTg0VjE2WncxNkdqLWhKWER5cDdLT1ZEYWNHbXcxVkNkTHJKa3pvQXEzQ1dYMTBCT0JnVkZGdGNEeTY3QjhaY05FNHRIUkREN1ItVmc3eWZHbWl2U0djWTNyUW8yN2JoMmd4U1BiYWI2NTZfeXRCY0ZGTUQyZndW?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHRtMkxVd2xoU0RVUVpPeGZXUzdFLVV2T3d5QndXSWN3MmhOTFJuQzNDQUdhcUdTV291U3NhcHgwWlp4RFdCbllfZkFiQTg0VjE2WncxNkdqLWhKWER5cDdLT1ZEYWNHbXcxVkNkTHJKa3pvQXEzQ1dYMTBCT0JnVkZGdGNEeTY3QjhaY05FNHRIUkREN1ItVmc3eWZHbWl2U0djWTNyUW8yN2JoMmd4U1BiYWI2NTZfeXRCY0ZGTUQyZndW0gHEAUFVX3lxTE5sdG0yTFV3bGhTRFVRWk94ZldTN0UtVXZPd3lCd1dJY3cyaE5MUm5DM0NBR2FxR1NXb3VTc2FweDBaWnhEV0JuWV9mQWJBODRWMTZadzE2R2otaEpYRHlwN0tPVkRhY0dtdzFWQ2RMckprem9BcTNDV1gxMEJPQmdWRkZ0Y0R5NjdCOFpjTkU0dEhSREQ3Ui1WZzd5ZkdtaXZTR2NZM3JRbzI3YmgyZ3hTUGJhYjY1Nl95dEJjRkZNRDJmd1Y?oc=5",
      "r": "detikcom"
     },
     {
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     20,
-     25
+     22,
+     24
     ]
    },
    "trend": {
@@ -377,11 +377,11 @@
     "g": [
      2,
      0,
-     4,
+     3,
      1,
      3,
-     11,
-     5
+     10,
+     6
     ]
    }
   },
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     5,
-     11
+     6,
+     13
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     0,
+     2,
      0,
      0,
      5,
@@ -491,7 +491,7 @@
     {
      "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVBSZGV2clM1aVp2dWtNWG13dTc4V1NsN1Q4bXV6WW5DaTI0dEhNYldwLS05ZHRoSkpyNVg4cE1xZEVtaHlqNHZrUU51ZVBKN2o0bHluM2M1OVdkNXpjMkowWkFTYnRGYzgyanhRQWY5ZklsMm1KbXdNbThTQkx2Z045OE9kYldheUh6NjQxNnVrWGRyUS14bkpERS1ZakgtdHl2cjFtWnhpc08wNG9kYWZlbjlxZlB5LXprenFzalJ5eTVaS3A4M1ZpTnM1S2F6Q0pWODBPUFNRTUpGc2FScm4zMllxd3FOR3VjRDJBRXLSAfYBQVVfeXFMUEpZVEFaYVVBX29nTy1aUjk0SldUX2luSE4zdURmOG0wdXpnM1gyUEJIb2hIeU1xNzE5VWlRU2F0bTlUUmNBdFBCOUE4dlVHQ3VCNUdpLVhXT1V2NmtXUXRQTko0NEJhT1pHNGNZVS1jcEdudmJnYXJpZVJ6T0pDUTNKc0w0am9wRm9ya0RKQndNZW0teVE1Tjdnb3dMMnJGci1BR3VqNDdyQlZxZWdWZU5WZ1hCaDd2YUkwWndvcWZndWlZWUpVT3dKZUtsZTRiSEpDanhNZFJFdlNZbHZrS1ZKanFUYkt2VWZkSU8tT0R6V0Y2YV93?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW9GcEhEOXdfUjFYVHU5dDBlaXJnWUtQRE9nRFJGRHZFelVuQ3ZIeURyajVmeFdmN0JickRQanJwMkZjSUc5RlJOUlhHb003TV80UktBckVHdnMwcmZpQ3U0NEhLWEtydzVGdUxBcVdEbnNXV05zSkE3eHdrUGREaU5NYV9LZGZ2YkVYTEM2SXktYkFaVmx4WTRlWGQxcEhzWVVMRnlFeFJJcUVFLWdlYnZwU2I0T3VhdE9rS0FnTHlHRXgwdzdUem56SVhQOUJHX19nZTUzQlNpS0FYZjcxRkhzQ1NtVi0wSzZVWXRFSWlFWm9MejdMSDl30gH_AUFVX3lxTFBacHVlNzBwRkdxVG9mNHN4SlAtUXBiSUoxRHFod2pVMDNWUmQ5SlI1bnpUVTczTWktaWdzR2NwNERNZjZDdXhmZnRWbVhRLUpVVF9aTjRkLTRFcVFoWU9vSGg3VUdEOHp3TVNqWHFZMGNsbnRONzNXdy1LOGJQSGkyd0tOWFR4WXl5UDIwckw2TWdqVDN1dGpqbDE5MmgwMmRGZWQzSDd5M2oyZ19NM1BydS1ZTWFzclRPWndTNjZYemItVmpSbzN0cXlWSnFoemZaVDQteklNUEx1SEhWeXFUbGJCLTF1dXZ5Y0daTzFTODlWaWxhbFpWS2Z2WVp2dw?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -533,10 +533,10 @@
      0,
      0,
      1,
-     0,
+     1,
      5,
      1,
-     2
+     1
     ],
     "g": [
      0,

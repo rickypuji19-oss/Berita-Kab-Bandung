@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:30:43.050267+07:00",
+ "updated": "2026-10-30T20:49:23.305317+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,27 +12,27 @@
   ],
   [
    "Ayo Bandung",
-   22
-  ],
-  [
-   "Radar Bandung",
-   16
+   21
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   14
-  ],
-  [
-   "RRI.co.id",
-   12
+   20
   ],
   [
    "Kompas.com",
-   12
+   17
+  ],
+  [
+   "Radar Bandung",
+   15
+  ],
+  [
+   "RRI.co.id",
+   10
   ],
   [
    "jabarekspres.com",
-   11
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,31 +40,31 @@
   ],
   [
    "detikcom",
-   6
-  ],
-  [
-   "Satumedia.id",
-   4
-  ],
-  [
-   "Galamedia News",
-   4
-  ],
-  [
-   "Ketik",
-   3
-  ],
-  [
-   "Radio PRFM",
-   3
+   5
   ],
   [
    "Disway",
+   4
+  ],
+  [
+   "Satumedia.id",
    3
   ],
   [
    "opininews.com",
    3
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   3
+  ],
+  [
+   "Pojoksatu",
+   2
+  ],
+  [
+   "Pikiran-Rakyat.com",
+   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Pengangguran di Kabupaten Bandung Tembus 123 Ribu - Fokus Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUFMTG5yaWdOV2RzN0k3MENTbE9BUGxuLVdXcnk2d3RUOEd4eUVrY3ZSSFVnb3BKUkctZ0ZBZnNhOEhLWVBVeFlMZTE4dzhOU2h3UzNnLU9sbEtIQkxWSFc5R2lqZVdTMXpkZ0h4WFpLejFnLUFZTEtkYmNHUjk0bEFxUFZwc1Y3aE9B?oc=5",
-     "r": "Fokus Jabar"
-    },
-    {
-     "t": "Tiga Anggota Keluarga di Pacet Bandung Dievakuasi ke RSJ - Fokus Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2l1WXJ1dEFIOTcxajhZUEFld3dmV1BRYjgtZHRVUjR2VGRJM3NyaGtyYWluMnFkUWhXZlRJNWpHbURNN21NdEJ0TDc4Z2pyMzlxRmJkRENuc2dRc2didVl5VXpLbEZ4a0lfNVBjazdyNUtpMUxzOGZOeU9DT3FoWDh3X3VxZGhEQU5GUE9HMmxhT1pL?oc=5",
-     "r": "Fokus Jabar"
-    },
-    {
-     "t": "Pemuda Bagian dari Pembangunan, Beri Ruang untuk Berinovasi dan Bekreasi - dialogpublik.com",
+     "t": "Bupati Bandung Resmikan MI Nahdatul Ilmi, Dorong Pendidikan Berbasis Akhlak dan Kemandirian Ekonomi - republika.co.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGZrbm8tRE5XRGFCMm1wRkxvRGtYNUpYYlFEN2ZuVzNYbjg1ZkFfV0c2MnBaLUNIa0R2dkpxRlVERkM4QlhGaThkWDMzWWpPR0phMEd6N1ViQTg5X0V4QXEwTHZpRWI0ZGxVZUhWTW81alFOZVR2VllqaEZIRjFYdmdmVERDQkMwb0l4TWNidFRiTnhNcS03MVhPa3lTZw?oc=5",
-     "r": "dialogpublik.com"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTN5c082RnhuLUJzNEI1bTE3czhnVzhEVnk0c1lxN05XeDhuVHB1MlJ5QjRaYXBJNTdoWVpBOWt4X2tCQmMzcHYtaWowUjdROG5BNndZRVdrOTdOQ3FtX05EOFRhZHVJYVlETHIxQzFYeG1OVDFTcWZzWnRPQzVyQzdtXy1LbXZ1X21JSlBRQldsSXI5cWl2RV9ZSWR1ekF4WUdhZXVyNHByQkxFajNrWVo0SUMwaHd3cUF5aXNfRDRsRmRUVTl5NWdyQ1hWdXJ4UTlYeS1FakF5bFloZ1BPYg?oc=5",
+     "r": "republika.co.id"
+    },
+    {
+     "t": "Bandung Bedas Festival 2026 Hadirkan 600 Lowongan Kerja, Pengangguran Tembus 123 Ribu - Pojoksatu",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJ3WmdpLXdURGhwNWZ5dkNkOWFXaDJoLWRrUVV6WjZKR1pWRTVMcWtwZWsyZ3EzdWJZd1lsbjdYandhbnFBNkJyUzVJc2szSDZoRGdRSTh6ZG9wMGtMbVdqczV1ZTNfRV8xdTlDb1dCNG5Nb2FqdWdaWENyaF85TzlUc2F6S1c3QnhWTFFMUTJxWjE4dDZUNm96Si1aeUpRWDdjQVN4LU9HT2VqcFFKMjJZUQ?oc=5",
+     "r": "Pojoksatu"
+    },
+    {
+     "t": "Bursa Kerja Bandung Bedas Festival 2026 Sediakan 600 Lowongan, Catat Tanggal dan Lokasinya - Pikiran-Rakyat.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDZaUDByTVNUTW9lWjhveHNNeWd6UVNWSXpZLUNTTVlBNU8wSXM4bFhRSU5kbjZQcGhKZjJENWxDV3JmdVlHQzNSYzNYSzZQaC16azN5bUlfdFc1LVpmZmwyOHJaVWV5aHplRE1VLXVhZkFIclZQLTU1QmtqWmNhNkkxNVpVZktPS2NiQWJKWnctOHFBd241cjVBRTBqMUFyN3V2REc3MlVVa0pPOEhnNkE4LW5BX243dzY3RTh5eGFUeXIzUHFNX3NLMkZ1Y1BwZVdFVXd1TktNd9IB3wFBVV95cUxNeVVHejhiN3QxS2s1ZkQ1ZUY1SFRHcG9Pcmc3RWVBMm8ySHZ2WGZZQloxYmhsZnZUSHBYQzlzbmJlSDFHVkxzNlZsNFVLSEtRak5renA3TTFSX0ZtNGUtMU01SnA5WVpIdzdkV2t0VXV2cU1ZbGRLVzlQWklHaW5qYlBIRnRDd0VVZnhxOHp3eU8xWVJ1M0Y5Y1FacUV0TWxYem9xbGJJb2IwMlpSTWFoaUNYM1pqa0xFbHdZZUFZY0pReEktZTRtbFVoNnpHSGlVLWxPYXktbFZFYmRleWVj?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     19,
-     24,
-     1
+     15,
+     26,
+     2
     ]
    },
    "trend": {
@@ -136,9 +136,9 @@
      0,
      1,
      0,
+     0,
      3,
-     6,
-     11
+     13
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     0
+     1
     ]
    }
   },
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "DPRD Bandung Minta Pemkot Intensifkan Sosialisasi Pembangunan BRT - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhPNE9UYmNpQXhKSmE0Y3E1d1ZxZDROZkxsakpQYVh5S0dwWnZaUUduWVE1aVp6NXpTQjZEaGZpVUdmMTFjSFFLb2lrUFVEb1R2MmVwWXc2Z0FVOTRtM3pRZHkzU0M3enpPRkVEQTlSajFJZ0N0NF90ZDFIU2N2UjlJMmZub0p2cW0yeks1R2t6S1ota3ZTVHBUVmItLTAzTVdIeUU1NmU?oc=5",
-     "r": "Radar Bandung"
+     "t": "Bandung Bedas Festival 2026 Hadirkan 600 Lowongan Kerja, Pengangguran Tembus 123 Ribu - Pojoksatu",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJ3WmdpLXdURGhwNWZ5dkNkOWFXaDJoLWRrUVV6WjZKR1pWRTVMcWtwZWsyZ3EzdWJZd1lsbjdYandhbnFBNkJyUzVJc2szSDZoRGdRSTh6ZG9wMGtMbVdqczV1ZTNfRV8xdTlDb1dCNG5Nb2FqdWdaWENyaF85TzlUc2F6S1c3QnhWTFFMUTJxWjE4dDZUNm96Si1aeUpRWDdjQVN4LU9HT2VqcFFKMjJZUQ?oc=5",
+     "r": "Pojoksatu"
     },
     {
-     "t": "Bupati KDS: Bandung Bedas Festival 2026 Semangat \"Festivalnya Pemuda Kabupaten Bandung\" - Gerbang Patriot",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUpVTzdyeGd6WVpxME9lTXRfOHMzV2F4OVpaYkFFcUNEdXhiQno3Umc5dFZuMEs5QXpfZUxyYklKZ3I1ZDFKdGhRNTNUZVpyekg0MEdfWkFESnNRLVNOak1VblV3S05BN2ZEenBvWjNLT2pZMmhXX0V5dmlQZUtRVC03OHdGX2JLZ3NKamp1Q0c3SklqUlR6SEs4aEtKeVRZWGkwSGZ3Z2NGUmEwVjd0X0JNMGJSeDB6cG0wMGZLOTA?oc=5",
-     "r": "Gerbang Patriot"
+     "t": "DPRD Jabar Dukung PWI Rebut Kembali Juara Umum Porwanas 2027 - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOV93XzVBcGNUVDVHMUcwZlhQTGlSNHZ4YzViS24tX3FpdzlJcUZHQ0w1QW9ENTBsMW8wRkNjaHA4WW5DNFNTMGVWN1NFenhfOU1NT2prLUpvcU5GT25PemRYZXdLc24yRUNLcnR1UWw0NFUxdk5kUXg0YjFtTG90amw1d1ByYXpnU05qOXN5MkpWamNhaXJpTHdKaWR0aFJVbnFCWFVn0gGrAUFVX3lxTFB3VzJfSkphRkhMU1lHM09XbWE4SnpNbDE1MEVBZXJiWTRsVVFpRnBDN3VISE5DZ2Z0SXFTVVZyVzkyZkJGZXBDVTdFY2tPVFVyQUlBcTJaTHE5YXlIYlc1VUlzSzIxTHVQTlFhU1lSbFFhV3VZV0ppUUxQYWRCaEN3MUtZUHZodkh0WFllVERBNU5iY2twUGJucFlDWGhiLU0zNnpTb1ZuTl80SQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
-     "t": "Pemilu 2029 Makin Dekat, PKB Kabupaten Bandung Mulai Seleksi Figur Caleg - JPNN.com",
+     "t": "Bandung Bedas Festival, Bupati KDS: Di Job Fair Siapkan 600 Lowongan Kerja - radarjabar.disway.id - Disway",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBMZXpzSzBEVlptNnVsdUROWGR4bGhJTkJVWUlkWVU3WFJrNkd3YmNLaThVSzQ5b3N6Tnhpclc0M281QUdQUDNpd2Y3NE9SMzJlMFhUa3czUEZGN2tCSlRrZDI4bGtKSV9TdFhPQzNzelBmS2hoODRZUGV0dnc4ZlVtRkdQWllaa2JqVGE1QnpmUnZVLTl6LURDR2d6Um9jS3ZDcnBnMGQzRVc1?oc=5",
-     "r": "JPNN.com"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlk3WUp2TTJZM0VNb1ZCaTEzVElZSmhqSlN1LUxOLS15eDJvbnNZNjhZUUdUY1Q1WWIySzhueUM2QWNpeUhMLVFSUGh6aTRNM3dXMVlhT0IyLVZ4aS11N0Q2b002OEw2bmMtVXpNZ201d21relFmMUVlNmI3LXYyS1NfSTlwS1ZyTElCSmg2bTFpTmEzRWNMa0d3R1U1amw0bXFhX09jRVhTOXg1dEo3S0530gGyAUFVX3lxTFAyWTdZSnZNMlkzRU1vVkJpMTNUSVlKaGpKU3UtTE4tLXl4Mm9uc1k2OFlRR1RjVDVZYjJLOG55QzZBY2l5SEwtUVJQaHppNE0zd1cxWWFPQjItVnhpLXU3RDZvTTY4TDZuYy1Vek1nbTV3bWt6UWYxRWU2YjctdjJLU19JOXBLVnJMSUJKaDZtMWlOYTNFY0xrR3dHVTVqbDRtcWFfT2NFWFM5eDV0SjdLTnc?oc=5",
+     "r": "Disway"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      17,
      1
     ]
@@ -206,9 +206,9 @@
      0,
      1,
      1,
-     5,
+     4,
      0,
-     0
+     2
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Pengakuan Pemuda di Bandung yang Racik Batang Ganja Jadi Teh, Dijanjikan Upah Perantara Rp 2 Juta - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1ZRZTJZVzVUZ1JFV2hqdGJhNXdlZG4yVVc5QXZLME9NLVBmWjFXaFR0MUFvQ1lrNE9BcU1nQnNacHhHa1dIbTQ5ejhkeUhwZnNaQVk0dTlZd2FlVllIYVFsSWQycWJMR3ZVV0E1elJMamxlOEt3S1JhaV9MTEpDRVVzTk5VVmczSGFVRjREVkZzbWI2M21JcDNFMmFhVzRNZG1hYUc3YTR0dE9TVW5Ld1Q2MEZSbThSWmJuNmE3eDZUeVZqbzBfUA?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Konflik Agraria di Pangalengan Memanas, Petani Gandeng LBH Bandung Laporkan Dugaan Kekerasan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHdCMWdqWEpsc3dPWmRYX2FibnpwdFU3b3JMNWRBdllVMGJRc3ZhOENreTJtaTVzcjJ2bVAyYm8tQWRLRHpXWVUycnlpampqOTdpWnVFRFlqTGJKRVRfd19RUDZ6OWkwMDAyeHBSM3o4Rkx2N3dqeG1leTJmenIxUmgycFQwSlM5dU9LcHpGWk84Wi1VTEw2bnpkRWt3VHJtaEd0VDFka3kxaDVsLTg0UTF3QjRDa1J6c3BodUU1RXlncnEydWsxRzgzRzRqNzVucGpiR3E0eU9vdw?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW9GcEhEOXdfUjFYVHU5dDBlaXJnWUtQRE9nRFJGRHZFelVuQ3ZIeURyajVmeFdmN0JickRQanJwMkZjSUc5RlJOUlhHb003TV80UktBckVHdnMwcmZpQ3U0NEhLWEtydzVGdUxBcVdEbnNXV05zSkE3eHdrUGREaU5NYV9LZGZ2YkVYTEM2SXktYkFaVmx4WTRlWGQxcEhzWVVMRnlFeFJJcUVFLWdlYnZwU2I0T3VhdE9rS0FnTHlHRXgwdzdUem56SVhQOUJHX19nZTUzQlNpS0FYZjcxRkhzQ1NtVi0wSzZVWXRFSWlFWm9MejdMSDl30gH_AUFVX3lxTFBacHVlNzBwRkdxVG9mNHN4SlAtUXBiSUoxRHFod2pVMDNWUmQ5SlI1bnpUVTczTWktaWdzR2NwNERNZjZDdXhmZnRWbVhRLUpVVF9aTjRkLTRFcVFoWU9vSGg3VUdEOHp3TVNqWHFZMGNsbnRONzNXdy1LOGJQSGkyd0tOWFR4WXl5UDIwckw2TWdqVDN1dGpqbDE5MmgwMmRGZWQzSDd5M2oyZ19NM1BydS1ZTWFzclRPWndTNjZYemItVmpSbzN0cXlWSnFoemZaVDQteklNUEx1SEhWeXFUbGJCLTF1dXZ5Y0daTzFTODlWaWxhbFpWS2Z2WVp2dw?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Daya Group Borong Penghargaan Inovasi di Triputra Improvement Forum XXI - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTlXSTdyRGdWSUNvWWVkMGthNzZWd29OcHlUR1lTbVRoS01UNFd4T1dFNmZ4X01NMVdCcUluTnNZT0FhbUk2YlNPbGxGQV9QRlJYTGpydGdkclVNSE5OWDlTSmhYTVQ0Z1FYUlBXd1hpLUdWb0VCSlZ0cUVxcklwaXQ0SnRmTVNNUFVMa1MyTnZxSmhYTWxXLTdGcE5jamMybFBwOEdsV25PMER4WVBkOA?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,9 +268,9 @@
      0
     ],
     "w": [
-     9,
-     11,
-     1
+     8,
+     10,
+     2
     ]
    },
    "trend": {
@@ -285,7 +285,7 @@
     ],
     "p": [
      0,
-     2,
+     1,
      1,
      2,
      2,
@@ -299,7 +299,7 @@
      0,
      0,
      0,
-     1
+     2
     ]
    }
   },
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Nekat Aniaya Pengendara Motor Pakai Celurit di Soreang, Tiga Pemuda Ditangkap Polisi - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObWxGT24xR3hIbC0xeFVXVmZSYVZuRDJSdmtDWmdyaHROcmtfbkNpak9JTkdpX1oxOENkMnYwekpEN05aaUlVN2RWQVZJZkVWTGIyZ2dJZmQwLUxrcEhPS3NSUUhqR1g1MVJEalYzUERVSGMyRU5kVkdab3RqSDFrVG1iU0RhUFJsREswNGdyZndRcnV2QzVsRi1VdllFWi1WNTUxMkJuTEh1VmRfa293TXVPdmp3ZlRLdkJGR1owbWJxVFJkdmRfdw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Belum Sempat Cicipi Teh Ganja Racikannya, Pengedar 12 Kg Ganja di Bandung Keburu Diringkus Polisi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaU5jWjg3Ny1pXzRILUVUWGQ2S3J3UGVGa0wxWGFYdzVQY2c3WW5ZTkRub3FJRlp3VnY4VGs4UXNMTG1JYWszV0hJRklRMzV2QVRUX3FnOHpIbm1famwwMTF6TzU5bmtXSmU3dTNNaUlRV2J3VHZGWXRqdVBoQW5VZ19pNENnNl9SbmQwZ1RTN0tIbDkwMEJTRGl6WGpvTEdPbW9tQ1A0d3I0S1pwR3FfZk51ODZqQ0diWHpzLUYxMGRKcmp6VVptWkdlT25HM3FsVVNhRkcyOGRaZUxUdUVpMnMtM1hkZw?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHRtMkxVd2xoU0RVUVpPeGZXUzdFLVV2T3d5QndXSWN3MmhOTFJuQzNDQUdhcUdTV291U3NhcHgwWlp4RFdCbllfZkFiQTg0VjE2WncxNkdqLWhKWER5cDdLT1ZEYWNHbXcxVkNkTHJKa3pvQXEzQ1dYMTBCT0JnVkZGdGNEeTY3QjhaY05FNHRIUkREN1ItVmc3eWZHbWl2U0djWTNyUW8yN2JoMmd4U1BiYWI2NTZfeXRCY0ZGTUQyZndW0gHEAUFVX3lxTE5sdG0yTFV3bGhTRFVRWk94ZldTN0UtVXZPd3lCd1dJY3cyaE5MUm5DM0NBR2FxR1NXb3VTc2FweDBaWnhEV0JuWV9mQWJBODRWMTZadzE2R2otaEpYRHlwN0tPVkRhY0dtdzFWQ2RMckprem9BcTNDV1gxMEJPQmdWRkZ0Y0R5NjdCOFpjTkU0dEhSREQ3Ui1WZzd5ZkdtaXZTR2NZM3JRbzI3YmgyZ3hTUGJhYjY1Nl95dEJjRkZNRDJmd1Y?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Polisi Bongkar Peredaran Ganja 12 Kg di Bandung, Diduga Dikendalikan dari Dalam Lapas - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWg3QTVnTEVaMjJmdExKcENEWVh3azFCc2otLTNQZFlwdHZOWV9BUjg5bG05TldVQ1RBRGN0S1dtaVA2Q1BwMmxfc3RXX29hTlkwUm9YbndQdEVyY2RqVE5mUWk5dkR0eUFIMWdoWlhCZW11eWFZY19iaGRFMlJUa01QUXB2MktvWTBLQ3BadFJDWnVPa1h0UWJUcWpDVzhqOUlWV1pxdDNndF9uT2RWMk5TU0o2X2pkRHFBX2RXNXVpeEk?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     22,
-     24
+     19,
+     27
     ]
    },
    "trend": {
@@ -375,13 +375,13 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
-     3,
+     4,
      1,
      3,
-     10,
-     6
+     12,
+     7
     ]
    }
   },
@@ -432,9 +432,9 @@
      6
     ],
     "w": [
-     1,
-     6,
-     13
+     0,
+     5,
+     11
     ]
    },
    "trend": {
@@ -449,7 +449,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -457,7 +457,7 @@
      0
     ],
     "g": [
-     2,
+     0,
      0,
      0,
      5,
@@ -515,7 +515,7 @@
     ],
     "w": [
      7,
-     24,
+     22,
      4
     ]
    },

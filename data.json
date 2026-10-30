@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:27:48.243506+07:00",
+ "updated": "2026-10-30T08:47:47.659262+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Ayo Bandung",
-   19
+   16
   ],
   [
    "Radar Bandung",
-   13
+   12
   ],
   [
    "Kompas.com",
@@ -32,15 +32,19 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   6
+   7
   ],
   [
    "detikcom",
    5
   ],
   [
+   "Galamedia News",
+   4
+  ],
+  [
    "Jurnal Soreang",
-   5
+   4
   ],
   [
    "Pikiran Rakyat Koran",
@@ -55,15 +59,11 @@
    3
   ],
   [
-   "Disway",
-   3
-  ],
-  [
-   "Galamedia News",
-   3
-  ],
-  [
    "Satumedia.id",
+   3
+  ],
+  [
+   "Disway",
    3
   ]
  ],
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     12,
+     13,
      23,
-     3
+     2
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      0,
      1,
      0,
-     7,
-     6,
+     9,
+     5,
      0
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     2,
+     1,
      1,
      0
     ]
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     11,
-     17,
-     0
+     10,
+     15,
+     1
     ]
    },
    "trend": {
@@ -202,7 +202,7 @@
      "Jum"
     ],
     "p": [
-     3,
+     2,
      1,
      1,
      1,
@@ -212,7 +212,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "GI Kendal Rampung Lebih Cepat, United Power Apresiasi PLN bagi Industri dan Lapangan Kerja - Radar Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVppcy1zZ3lHQ1hRZ0p5STZwaHhKX1Z2Q3pwYy1ZcHlhYWhQWUNUVFNvRHFTX204Rnh4SWc2MVNudVJiTHlmZE1ydzNnX0Jsc05iRTQtaEplRTIzWUJjYkptZ0tnS19ZeGd0NTJUUTJ6aDBHdk40Q1VrVTFGYjM1UjhtZl9FNVphemw4bzdjcEJFRmM3V2xsODQ2S0JyQjFNazJRRGNCUUROOUljNUxiamw0YmpRSGlhcEFmbFBmcmkxNlp4SHc3UA?oc=5",
-     "r": "Radar Bandung"
-    },
-    {
      "t": "Roeang Kita 2026 Perluas Peluang UMKM, dari Pameran Produk hingga Kemitraan Usaha - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnF0RnI3eDQ3d3IyNEo0Z0Q3UUp5bzJteTd4TzQweXJmb3paXzFwcUZTLTZXd0ZXRGVmaTBGUmd2dEh3OWZ4WFVJcHB5ODdGVl9NZkhIZThKRGhfc0FDS1VnNmNzWlhwb3FJdmo4S1Azdm9tMDNqRWRDdDRlNDZkRGkxX2pwMERVNHhzOE82M0tWbTdlckZ0Tmp1VWQwZUZEYkl4am4wTWlmYXJid3BhQkowZWtYbC1FMDlsag?oc=5",
@@ -247,6 +241,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2JGNkZRTU9EWmtWVzN1MFp6cU5OVVF3ZU4zWVBiRnhNS25jaHNCeDhJZG9rRFRVZEVVOWk4YXlEYlNiejhEN3ZtdVBFYVZ4Mk44RXRzTE5yQzU4aU50dmRRVi02Rmd4aFU4NFBLRFJWa29GWXNxRUFROC1BNF8yT0tDZzdSSWZ5dERaQWF1eFcwOG9SVi1XbDdXZEpKTnFtY3RhM1pqX1I0cEUySFVMNFhlZDhIYzFrdFh0eUxwc05DRVZ5ODV4WGJtR2JhbVpKaGJrUXV5ZXZGU1RSR1HSAeMBQVVfeXFMTk5HbTRueVU5ZmRLT09QbDg0YkdEZDdDNkZHTEhQUzlWeHk0Qmg2Ri1pNjZIRmxpa3o2eXZsREdQbDZKQTBDVm1FUUt1TElSTEowcjZ1TmRmRHhiX1NjM25EUHlyWTZtY0pYSDJFN0hyUmFMZ1ZCWXY2eVh2NGZhdHdSb3JuX2NuNm9zYm9Bd1JhbnUzYXhjR1hWeUZKRUNnbmJ0OHFDQWhaVXh4WTk0VndYbXpuQmVucVBKNU9yei0weDg0Z2JuSzRna0RpVUJScW9GMkNRNlJqdmxydjVrSXJkZzg?oc=5",
      "r": "Radio PRFM"
+    },
+    {
+     "t": "Jadi Andalan Bupati KDS, KNPI Didorong untuk Garap Peluang Kerja hingga Petani Milenial - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnJYVVh4Z2dxZzFaeU95VDBvVW9oU3J6NkMxNDQzb2NLOE5BcEh0VHlMNzFHSk9lbjFUSnpWTFlHbjQ3MjM4UEQ4U0VmN0JMdHhhUDJ5SXNIN3VxUWZrR0tXQzVRRVBiVC1YZ1ZVZzRkT3BZR294TGdwZTQwdW5VUTNLVENlOHRWLWdPbTdDNXZnOUV2SkU1cFgtM25JaUhMUzdCZU9vMEVURmF3Ri1zSUh1c0IzUFpjc3UzSER4VThUSFYtRkp6d0h4aXF3UGlHZ3RMNXQ5bDZXdw?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     7,
+     6,
      11,
      0
     ]
@@ -289,7 +289,7 @@
      1,
      1,
      2,
-     2,
+     1,
      0
     ],
     "g": [
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     18,
+     17,
      22
     ]
    },
@@ -407,10 +407,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Dedi Mulyadi Peringatkan Risiko Longsor akibat Alih Fungsi Kebun Teh di Pangalengan dan Ciwidey - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW0teGNyUXU5RTdFUHR2cDNscGc5bFBjLTVObFZPMVhKa0lHZlBqdkFnV05ZSm83OFJnVXVDYmRoRFUtLUFhdkxmMjF5M2p4cUZwdk5xOHRCMlJpMFlIS0h1Q003ek5JLVVFVkRqNmhXRlZQeEV4WDQwNGdYU1hUZjlRUVNBeFdSWkREeW1acThmZldnSVExdTdVakNTcnZEb19HejBpTkpHb2NkUHU1U1JYNXhkeGhHYVV0elgtMjBhTzNGZmtfZ0JkS3NRWWwyVTNSQtIB2gFBVV95cUxQdTJzUlJqcHJQc3ZqTjR5d3c0M2d1WXhQeUw0cm5lZHJJYlFUeGpwYndMdm11MmlzWjZIVzhtdmZlTVZrLU8wTkl5VDJmS0RyWnpNejVod3ItdEF2eVJJQ190dmxtazlCUHJZN2ZNeFE5S1JHOE5oaWtFVHc3UHpmRS1hTmtvWjBWblE0c040MmJQeEhnVkRzbzFfX3BUTFVmeXpHMTlhRkNoSUtLRG4taWtORWFrd2Vtb3JNWlVXQkdvQUtZaGdtU2pCaWhGWk8yZXZCS251YjFTQQ?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Jalan Kolonel Masturi Lembang Pagi Ini Diberlakukan Buka-Tutup setelah Tadi Malam Ditutup Total - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThGTEh1ZTlnNVVjVHVNQTRiUEE0cEs4ZVVHTjd1SmJsTTh3VGttQ1dFU0lOazlvVTlqSFFuVFM2NURrYWlBb3V4c1FpUjFGQ2YyTFk3cTU5dHdjdUpyTHFXM0EtMWNQRVZ6cW1mQ0l4OEtwTkhuSDJUdy1hSFc2Vno1OHBiLTMxOGtCdUU3T2sxdDJWZG15QU05d0V0eDl1YU5VRV9XT2VfbjRyU2dxLWd1OVh2N0g4MEtLelFnTzdPSlR4S0ozSHhsM0p1cGc4RlB4Z3hEbE9QZ253bEE0?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Simulasi Kepemimpinan Demokratis Kepala BPBD Kabupaten Bandung dalam Persiapan Penanganan Banjir ",
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     11
+     10
     ]
    },
    "trend": {
@@ -462,7 +462,7 @@
      0,
      5,
      5,
-     2,
+     1,
      0
     ]
    }
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     4,
-     23,
-     4
+     6,
+     22,
+     3
     ]
    },
    "trend": {
@@ -532,17 +532,17 @@
     "p": [
      0,
      0,
-     1,
+     2,
      0,
      4,
-     0,
+     1,
      0
     ],
     "g": [
      0,
      0,
      0,
-     2,
+     1,
      1,
      1,
      0

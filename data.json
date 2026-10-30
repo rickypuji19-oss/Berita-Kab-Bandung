@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:36:10.971702+07:00",
+ "updated": "2026-10-31T00:30:39.487556+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,28 +11,28 @@
    27
   ],
   [
+   "Ayo Bandung",
+   21
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
    20
   ],
   [
    "Kompas.com",
-   18
-  ],
-  [
-   "Ayo Bandung",
-   17
-  ],
-  [
-   "Radar Bandung",
    15
   ],
   [
-   "RRI.co.id",
-   12
+   "Radar Bandung",
+   14
   ],
   [
    "jabarekspres.com",
    12
+  ],
+  [
+   "RRI.co.id",
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -43,10 +43,6 @@
    5
   ],
   [
-   "Jurnal Soreang",
-   4
-  ],
-  [
    "Disway",
    4
   ],
@@ -55,15 +51,19 @@
    3
   ],
   [
-   "Pojoksatu",
-   3
-  ],
-  [
    "Pikiran-Rakyat.com",
    3
   ],
   [
+   "Jurnal Soreang",
+   3
+  ],
+  [
    "Satumedia.id",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ]
  ],
@@ -111,41 +111,41 @@
    ],
    "v": {
     "s": [
-     3,
+     2,
      0,
      0
     ],
     "w": [
      17,
      25,
-     1
+     2
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     1,
      0,
      1,
      0,
      0,
      3,
-     15
+     15,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
+     1,
      1,
      0
     ]
@@ -186,29 +186,29 @@
      0
     ],
     "w": [
-     11,
-     22,
+     10,
+     17,
      0
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     1,
      0,
      1,
      1,
      5,
      0,
-     3
+     3,
+     0
     ],
     "g": [
      0,
@@ -233,7 +233,7 @@
     {
      "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmVhR2wtRnZoa1FUTjJnNEk5MWJMc2pfbHRkam14ZzRmdUY1ejlZVHNOdlJhTXdFU3pNZ0owenlySkZlTmEySXBpRGNfTzY1NWlkMHBodldzUGFmN2NtU3ZwZ2JPZkpmX3NXNmN4TVNjREk2M1ZyUVhvTHBwVEhDOG9KNkpGOUtvQ2YzZ2ZwcmJ4bmlSSlh6WlNTbmhyaVl2YVh1cUIxNDhxcVdFWHlWR0ZrckdUVDBGVWl0bFB3WFo1cGVYTXBsSHhCUGFoRzllS0E?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -268,29 +268,29 @@
      0
     ],
     "w": [
-     10,
+     8,
      10,
      3
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
-     2,
+     1,
      1,
      2,
      2,
      2,
-     2
+     1,
+     0
     ],
     "g": [
      0,
@@ -298,8 +298,8 @@
      0,
      0,
      0,
-     0,
-     3
+     3,
+     0
     ]
    }
   },
@@ -347,41 +347,41 @@
     "s": [
      0,
      2,
-     1
+     0
     ],
     "w": [
      1,
-     24,
+     22,
      25
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
+     0,
      0,
      0
     ],
     "g": [
-     2,
      0,
-     4,
-     0,
+     3,
+     1,
      2,
      11,
-     7
+     8,
+     0
     ]
    }
   },
@@ -434,22 +434,22 @@
     "w": [
      1,
      6,
-     12
+     11
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      1,
+     0,
      0,
      0,
      0,
@@ -457,13 +457,13 @@
      0
     ],
     "g": [
-     1,
      0,
      0,
      5,
      5,
      1,
-     6
+     6,
+     0
     ]
    }
   },
@@ -521,31 +521,31 @@
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      1,
      1,
      5,
      1,
-     2
+     2,
+     0
     ],
     "g": [
      0,
      0,
-     0,
      1,
      1,
      1,
-     1
+     1,
+     0
     ]
    }
   }

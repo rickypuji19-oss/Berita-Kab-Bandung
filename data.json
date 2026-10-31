@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:30:51.575621+07:00",
+ "updated": "2026-10-31T14:42:05.307464+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   28
   ],
   [
    "Ayo Bandung",
-   21
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    20
   ],
   [
-   "Kompas.com",
-   18
+   "Pemerintah Kabupaten Bandung",
+   16
   ],
   [
    "Radar Bandung",
    15
+  ],
+  [
+   "Kompas.com",
+   14
   ],
   [
    "RRI.co.id",
@@ -36,7 +36,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   9
+   8
   ],
   [
    "Pikiran Rakyat Koran",
@@ -51,19 +51,19 @@
    5
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Disway",
    4
   ],
   [
-   "Disway",
-   3
-  ],
-  [
-   "Koran Gala",
-   3
-  ],
-  [
    "Radio PRFM",
+   4
+  ],
+  [
+   "Pikiran-Rakyat.com",
+   3
+  ],
+  [
+   "Jurnal Soreang",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Dinas Perpustakaan dan Arsip - Pemerintah Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a0FUN2FESVdyem4waDJwWWw4OVlZSThTb3RYQWxTLWpkWlBqSjk4LXNiZEI1RjNOMlgzOFY5U3BwNl9jVHhLSWk5azVIV18zRkY4bUk2WWt4aFRHT05YSTBOQVJ1clgzbnc?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
+    },
+    {
      "t": "Viral karena Kondisi Memprihatinkan, Keluarga di Pacet Bandung Kini Ditangani Pemkab - Jabariber News - Jabariber News",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGN2WFgwenY5S3RDMjR4S3VvSWJJWk1FNTB5cFhmakh1cF9IMXFQSnlGRG53SEU1WlV3WnNKRDBCU1BrYVdONldqOXN2X3VSRW9odm01UUxyRTk5ODZPVGxpbnVOaS1OMmdfdUQtdDBkNUhaWHpjMXQ2aV9ydFVySWk5UmRhQmJNMU8tNFB6X3B6RWZiVk00M3BQT0VsclM0eG5SSUlodFc4YlpTM0NJMUJRZlNhVlFfUzBQNzNXT2JxN1MwT2xjNzFJUXBUNWM2RmtSTnAwaTdqbW5XTGfSAeMBQVVfeXFMTU1Qc3g0eDQ5djN4ZkV2am9BMWN0TXZiMmNDVFRkeUJYMGtsbE5xbXFxUHlQQUMzcUE5cEVvSVBPMDJKMDE1dUZ2UFNwdDV1dmZSMDRiY3FKXzJzRG9mM3BoY0d0SkpOWmxISFJyTDhXX1dCZVljZUoza0oxLUlSTHlGV3ZXaE9Ja0RQVVhPZWZIeVdqRDlkMTNBQTNVbUd5NEM0cGREeFlYek9Ma3Z6cUNkbHBuX3NCQ1BINzVpQWE2VklRU1BrVUNmQWxUZlpIN1JMbHFoTG5nZURqeGxCZlB2S1U?oc=5",
@@ -88,12 +94,6 @@
      "t": "Ratusan Anggota BPD Dari 22 Kecamatan di Kabupaten Bandung Diambil Sumpah Janji Jabatan - Antarwaktu.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWhnUXMwRzhOTzBYX3BfTVZ2UE1pdTJjT1hZUTd3RWdwNENGU09fUUlLLWNCZUxHMjNlLWphaExnNWJvLTJQZ2JLZ1l5S2lTT1VnWW54TldTdzhkOVlGZVdpT0JPUlk3V1BvVG5yWnJpRTdtOVZLdDd0eWl3c1RSZXFNUU5lTlhwRUtMLWtoVGptcGpBc2RlWE1ZQ1VfSUltc0VDdWc5bjNablZVaHpfdko0eU14Tl95UGhkVTV3Zw?oc=5",
-     "r": "Antarwaktu.com"
-    },
-    {
-     "t": "Bupati Bandung: Akses Pendidikan Perlu Terus Diperluas Seiring Perkembangan Jaman - Antarwaktu.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREhkZ25FaVdSWHJHbEh1MnVabkNpRVV4RXFfR3Brd2JNSVlmOTVpZ2RWck5kV05IbkY3Vjg0QXFPLU5mWjZmNVRtX0tPMy1QczFuZDRURmhHTHA2QlJPTWhOSWZSUGlpeDVNVUdCYlNDQW5CREEtTnlPUkpXN0h3V1c0UUMzalAycXhjTmZjc2cybEZFRTdwQWVoQWFaZ0tVdGpMRUhLb1dScU1RM0o3VVFFWnRjQQ?oc=5",
      "r": "Antarwaktu.com"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     18,
-     24,
-     3
+     19,
+     22,
+     2
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      3,
-     14,
+     15,
      2
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     1,
+     0,
      1
     ]
    }
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
-     16,
-     1
+     11,
+     19,
+     0
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     4,
+     5,
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     21,
-     27
+     20,
+     24
     ]
    },
    "trend": {
@@ -379,8 +379,8 @@
      3,
      0,
      3,
-     11,
      9,
+     8,
      1
     ]
    }
@@ -395,15 +395,15 @@
    ],
    "h": [
     {
-     "t": "Cerita Warga Soal Banjir Bandang di Cipaganti Bandung: Air Capai Pinggang, Puluhan Rumah Terendam - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0k0SFhsNXh6QWFLTnpJVjlUUzh2c1otbE5uX1NqT0QyVmtWand0bkhRT0MwajZHaEF5OWxHOXpqYldnOGxsSEg4Z1h6YlQzS3h2VERibFFqOXA5Ylh2T3F0TkxRWGlfb1c0blM4cTdYS25yeThiTE5rZUh2SHQ5ME9iMlF0eWYzYzh4eE5lb2hkd2tKblE0SDdTQ2x2LUI3ZmpfM0E2aEJ0Q2REMXRNMUR5VGJabkVDejczOXhIQkFjU3c5MkVxendHNExyTVRieTc5RVA0ckNmTV9uazVj?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "10 Agenda di Bandung Akhir Pekan Ini 31 Oktober–1 November 2026, Waspada Macet - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUllIRDBpbG51MTY1clVsU2c4VWlsOVpOeUZSYTE4aktKOTB6bkdhZHBjcld1ZkFhRWVlckIxSnJ6R1p2Q0dsNWFYTHVnQVR5ZnFVZnRNN0NXMEE0SFNNY3hMdVdIcFdYYmsxRl96WmtaR3MzNkxNUGN1RDFXOXN4amxCRm1CVTZFTEpPMjFmWE85T01rMTFkX1BCRHJkSUdVZ1Brd2p1T3BNYTdpTWpYa2ZzM254eDJMRXhCTDJHaG9TeDBRa0dr?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Cerita Warga Soal Banjir Bandang di Cipaganti Bandung: Air Capai Pinggang, Puluhan Rumah Terendam - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0k0SFhsNXh6QWFLTnpJVjlUUzh2c1otbE5uX1NqT0QyVmtWand0bkhRT0MwajZHaEF5OWxHOXpqYldnOGxsSEg4Z1h6YlQzS3h2VERibFFqOXA5Ylh2T3F0TkxRWGlfb1c0blM4cTdYS25yeThiTE5rZUh2SHQ5ME9iMlF0eWYzYzh4eE5lb2hkd2tKblE0SDdTQ2x2LUI3ZmpfM0E2aEJ0Q2REMXRNMUR5VGJabkVDejczOXhIQkFjU3c5MkVxendHNExyTVRieTc5RVA0ckNmTV9uazVj?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -477,22 +477,22 @@
    ],
    "h": [
     {
+     "t": "Dua Anak dari Keluarga dengan Gangguan Jiwa di Pacet Disiapkan Masuk Sekolah Rakyat - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
+     "t": "Perkuat Tata Kelola hingga Teknologi, Mahasiswa STIA LAN Bandung Luncurkan 7 Inovasi di Desa Cibogo - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHppc2UxZFh0X1ZYWnBLc09RVmRCRzYxbV8xeVF1QTQ5REtIZnhjXzBGUEdYajFaeG9FSlhxRVNBWEp1ZzdRUERPQVNHWTl3cjQtV3ZIWVFjaDZRRE41ME0yNFVWV1BrNF9sbmRHQVFtV2lYZ0hzQkoyYUtNOUUtTjlJMGFlX1F0MVAzenFkN0Q2QjFaSmRiM3BuR0VVcG40ajdSQU96VWFIUjQzbkpRSWZ2bE9sRTU4WEdLWFdJVnNLNnIzdldDZlRWRjctZTQ3MDU2ZG1kUHBSVXJJYm1z?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kejar Wajib Belajar 12 Tahun, Bandung Perkuat Kolaborasi Sekolah - Radar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNub3lScl9xY3VZU2RXdFpXWGxweXkzZ2pRR293ZjVHMEF3WTFHZWNRR05XZFF0VnB1TVdib3BnUzhGU1Q3ZnVORG5xSVRGbmwwTUFEeVd3d2h4aWZnLW11ZHd3R29sV1FXTWVZNy1HQUktNWFpTHhJWTUzcVVWckc4dTNTZW1wMEVDU1hhSFljYngyZEVFbUMzeHFjQTlqVFdadDd3?oc=5",
      "r": "Radar Bandung"
-    },
-    {
-     "t": "12 Mahasiswa Politeknik STIA LAN Bandung Hadirkan Tiga Inovasi untuk Kecamatan Lembang - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnRoa19EWVdtaUQybDNUbm5SMEZXUndOREtpTnVUZ2ZJbEx3RDVBcFNwTXV3bnBXeTEwUnRreVg4NlhneHhOWThiQjIwbXNaTm1DRU9rOHpNZ3QwMm5Qa1FKQkdkV1dZWjRvTjZHTW14OG9GVWpCMEtDcGpYaWNhWlV0U3l6YUdNb3EtcDBLSzFMamhYTmZEUXh2Q2V5TENUWjcxVDd1V0hGajRmVG9YVVhSWUZWdnQtOXhxaXNuQkpkNlhMcXhjSDlRT2F6Q0U?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Dari Pengembangan Sarana hingga PKBM, KDS Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW9GcEhEOXdfUjFYVHU5dDBlaXJnWUtQRE9nRFJGRHZFelVuQ3ZIeURyajVmeFdmN0JickRQanJwMkZjSUc5RlJOUlhHb003TV80UktBckVHdnMwcmZpQ3U0NEhLWEtydzVGdUxBcVdEbnNXV05zSkE3eHdrUGREaU5NYV9LZGZ2YkVYTEM2SXktYkFaVmx4WTRlWGQxcEhzWVVMRnlFeFJJcUVFLWdlYnZwU2I0T3VhdE9rS0FnTHlHRXgwdzdUem56SVhQOUJHX19nZTUzQlNpS0FYZjcxRkhzQ1NtVi0wSzZVWXRFSWlFWm9MejdMSDl30gH_AUFVX3lxTFBacHVlNzBwRkdxVG9mNHN4SlAtUXBiSUoxRHFod2pVMDNWUmQ5SlI1bnpUVTczTWktaWdzR2NwNERNZjZDdXhmZnRWbVhRLUpVVF9aTjRkLTRFcVFoWU9vSGg3VUdEOHp3TVNqWHFZMGNsbnRONzNXdy1LOGJQSGkyd0tOWFR4WXl5UDIwckw2TWdqVDN1dGpqbDE5MmgwMmRGZWQzSDd5M2oyZ19NM1BydS1ZTWFzclRPWndTNjZYemItVmpSbzN0cXlWSnFoemZaVDQteklNUEx1SEhWeXFUbGJCLTF1dXZ5Y0daTzFTODlWaWxhbFpWS2Z2WVp2dw?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -514,8 +514,8 @@
      0
     ],
     "w": [
-     8,
-     21,
+     9,
+     22,
      4
     ]
    },
@@ -536,7 +536,7 @@
      5,
      2,
      2,
-     0
+     1
     ],
     "g": [
      0,

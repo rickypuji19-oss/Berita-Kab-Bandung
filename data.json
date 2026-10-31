@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:31:31.550280+07:00",
+ "updated": "2026-10-31T08:45:34.574066+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,14 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   26
   ],
   [
    "Ayo Bandung",
-   23
+   19
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   20
-  ],
-  [
-   "Kompas.com",
    17
   ],
   [
@@ -27,19 +23,27 @@
    15
   ],
   [
+   "Kompas.com",
+   15
+  ],
+  [
+   "jabarekspres.com",
+   12
+  ],
+  [
    "RRI.co.id",
    11
   ],
   [
-   "jabarekspres.com",
-   10
-  ],
-  [
    "ANTARA News Jawa Barat",
-   10
+   9
   ],
   [
-   "Disway",
+   "detikcom",
+   6
+  ],
+  [
+   "Antarwaktu.com",
    5
   ],
   [
@@ -47,8 +51,8 @@
    5
   ],
   [
-   "Antarwaktu.com",
-   3
+   "Disway",
+   4
   ],
   [
    "Pikiran-Rakyat.com",
@@ -60,10 +64,6 @@
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Koran Gala",
    3
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Antarwaktu.com"
     },
     {
-     "t": "Bandung Bedas Festival 2026 Hadirkan 600 Lowongan Kerja, Pengangguran Tembus 123 Ribu - Pojoksatu",
+     "t": "Pertandingan Perdana Tim Futsal Kota Depok di Porprov XV Sukses Kalahkan Pemkab Bandung - https://spektroom.co.id/",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJ3WmdpLXdURGhwNWZ5dkNkOWFXaDJoLWRrUVV6WjZKR1pWRTVMcWtwZWsyZ3EzdWJZd1lsbjdYandhbnFBNkJyUzVJc2szSDZoRGdRSTh6ZG9wMGtMbVdqczV1ZTNfRV8xdTlDb1dCNG5Nb2FqdWdaWENyaF85TzlUc2F6S1c3QnhWTFFMUTJxWjE4dDZUNm96Si1aeUpRWDdjQVN4LU9HT2VqcFFKMjJZUQ?oc=5",
-     "r": "Pojoksatu"
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWtNRHd2TnkwV0VER2hxQnlXQV9wTUY2WG51WkpNbWdhd2s4RnZGU3ZRV2QxZTh5U0J5amJ2c3p6WVhRdFRaZXlEZDhwSnY4MUFTMGpIV213dExXMVhWNjd5TVhIVk9keXlTWGtrWGVseTNDc3FSWDUxSVQ4QkJodjZ4NU1XRkhjcG03eUs4b3V6enE5ZkExVVBjdkg4cjhHQ1YyQ3hualdBczVYUzhaOXNB?oc=5",
+     "r": "https://spektroom.co.id/"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
-     25,
-     1
+     19,
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,16 +136,16 @@
      1,
      0,
      0,
-     1,
-     15,
-     2
+     3,
+     16,
+     1
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
+     1,
      1,
      0
     ]
@@ -161,12 +161,6 @@
    ],
    "h": [
     {
-     "t": "Bandung Bedas Festival 2026 Hadirkan 600 Lowongan Kerja, Pengangguran Tembus 123 Ribu - Pojoksatu",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJ3WmdpLXdURGhwNWZ5dkNkOWFXaDJoLWRrUVV6WjZKR1pWRTVMcWtwZWsyZ3EzdWJZd1lsbjdYandhbnFBNkJyUzVJc2szSDZoRGdRSTh6ZG9wMGtMbVdqczV1ZTNfRV8xdTlDb1dCNG5Nb2FqdWdaWENyaF85TzlUc2F6S1c3QnhWTFFMUTJxWjE4dDZUNm96Si1aeUpRWDdjQVN4LU9HT2VqcFFKMjJZUQ?oc=5",
-     "r": "Pojoksatu"
-    },
-    {
      "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
@@ -177,6 +171,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMF9Jb1p3UlZWZlJyOHJrTC12U1lGWENaZnZWWXpZeC1LQ0U3aGhVWjlzU0MzQkdIWlpWOHpqcHNyZ053czQ1eDFRRlNTdmdKdWtSMnFxRFBsOHRRNjNaWnFnXzl0TjZXSWJjM2VOS1lBZi1FMzEyTTJrdzNtWUVoRnFzVi1QZUtmaEtaVm9TbndFb3M5S3p2YXNFazl2RmN2d2h0b0VGNy1qZWFJU1FKTU9tcjZJdzBpVlBCZEItU1JiUTdvOTR0MnpWTTNaV3p2YlFz0gHYAUFVX3lxTFA0NmVaVmZ5UzFlTG5uMGQxMkVqMGVUa2U2dFNCRzZqdTdqMXZpVEZpa1hNY2tBSWNsRWpkTHFoTW5PTjM2ZU5Mblc3NzV2VWtLcEI2QmI3X2ZiN2FwbmV6UmVqcklyTk5LTGQzSUlBMmczMnd2Yi1mMktoTnNQeHcwUTdwckhYYjMxWjd3NTF6WTAwYXRNc0E1Yk1lNl9fT1FRSFdQUFFHTnIzWWt6dG9aYlZQckV1bGJMNHFveXRRWE9kcWw3ZlBwZkU2YWxCdlpaeUd3S2NSaQ?oc=5",
      "r": "Koran Gala"
+    },
+    {
+     "t": "Ketua DPRD Renie Rahayu: Sampaikan Fungsi Tugas dan Tanggungjawab Parlemen - Bedanews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzc1RFJ1YVQ2V3AtUUNrQU1WZ3NQS05ZOVBCRHhhWmZ6TUx1cTd4M2NndWxuNzZ0RWxHZlkxSWRxNl9RZDBFUFFxSVZDeHBhSXNicFNfVXpybWloQkZEZ0NtcnNFVW16WWM1emFiRzJhYW9kUk1JT0dLTVFrS1hGSkVlM1k0VzlUS09ZbU1qQmpaWEQ4MlZUNHBTcw?oc=5",
+     "r": "Bedanews"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     20,
-     1
+     21,
+     0
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     3,
-     1
+     4,
+     0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     9,
+     10,
      10,
      4
     ]
@@ -284,7 +284,7 @@
      "Sab"
     ],
     "p": [
-     1,
+     2,
      1,
      2,
      2,
@@ -325,10 +325,10 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Foto : Nekat Aniaya Pengendara Motor Pakai Celurit di Soreang, Tiga Pemuda Ditangkap Polisi - Kompas.com",
+     "t": "FPLH Dampingi Pelaporan Tindak Pidana Lingkungan Perusakan Kebun Teh di Kebun Malabar Pangalengan Ke Polresta - Mata Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnhnUVBqVGVFWkRfR1RSOUlXNFNxRGVqNHViYXVIQWFOMEZqd0hoRm9kRG0td3dBc0VJZjdwVFlqeHdULXJZUDBWMV92QVRNd1phVXFXNnNqN2VjOFBzLURZazlWNzZkRjUyRThjVmRTR0dDbThKVVBQVHNIZjRwbUsxTHV6aV9YMEljMkVlUm4wUHg5aEgycEZBVzNHc0MyQnNNdXpCSjR6bTR4dDJKb2ZVV1RRbXg4R3FvNUd2cENhZUF0ei1NMkpn?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQTVtYkZCNGRDZjZLRks1WjRTWWw0TGJDMGJlbVdlaVpXNHZWb2lMMjNKVElGOEJUYXFOWkdvVTRvQXFhcFZjcGJiWmZZQ05WTk11LTBVRHh0WUpQb2FBTzJxS25pTWtXT3dZNTN5bnZRS29LdEgxRTc0UWp0c1JlZjRKdHVGZnFXTExRakI4MHItS3BTZHZhOEdhU19nVlZIMGgzQ0xpNW1ydVk0cGNHRU9nYUtPOEJHVnNsOW9Va1FvbGZuQUFubzdQT3lYSC1ESlpVejV3cXZhQWtZVHB1ZVlXZHhNenZjZk5XeEM4ZEd2VzJ0a0NZR084Nk9fSFlnZEhhWnprONIBjAJBVV95cUxOM3VVXzM3UHhqRVgtZ3BKam9RdDBaaUJ3b2pwbnFVcmVlLUVXYmtqWjRtdXVidjdrejNDYzF0UG1qbXZ0a09WWVBXUVpvYUZ1NWVLU09SN2N6ZGc5TWRPdnVBOTYyM0lNWlRzeXhpbkd6WGlGeTZzWjZDZzdHOXBMbjFVd2VyaUhPMHpsVDI2MXZYSUxCM2NrWGRudk9ST1MtMm9fX0pjTHBIZFFtNkhSZkZWbjl0Z1RHNlNnQzdCbWQySVZfb0RZNTZWUnRPU1Z2R01mWlVkcV9IUURLUWY4bFRXc1g3b2Q5WXltUEphUXFQSzNJQU54NTRKay00bzdzWEwyR2tMMTJTcFA4?oc=5",
+     "r": "Mata Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -352,7 +352,7 @@
     "w": [
      1,
      21,
-     26
+     24
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     0,
-     1,
      3,
-     12,
+     0,
+     3,
      10,
+     8,
      0
     ]
    }
@@ -514,7 +514,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      22,
      4
     ]
@@ -535,7 +535,7 @@
      1,
      5,
      2,
-     1,
+     2,
      0
     ],
     "g": [

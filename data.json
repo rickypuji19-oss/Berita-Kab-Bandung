@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:20:58.870187+07:00",
+ "updated": "2026-11-01T01:26:38.315656+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,28 +7,28 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   28
-  ],
-  [
    "Tribunjabar.id",
    26
+  ],
+  [
+   "Ayo Bandung",
+   25
+  ],
+  [
+   "RRI.co.id",
+   18
   ],
   [
    "Kompas.com",
    18
   ],
   [
-   "RRI.co.id",
-   16
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
-   13
+   12
   ],
   [
    "Radar Bandung",
-   11
+   12
   ],
   [
    "jabarekspres.com",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     25,
+     19,
+     24,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     13,
+     15,
      4,
      0
     ],
@@ -167,16 +167,16 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
     },
     {
-     "t": "Bedah Buku AHY, 27 Penulis Muda Bahas Kepemimpinan dan Keteladanan - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEEtVW5wQXN2ckN3RVhlM2NFTXBibGttcE1YeVJHRmlQWXJKYThoWGU1YU4zZ3NsWGRLN1RUWUhRRFRmWUhKNUpQMUtxMDZFNWs0UU5Bek05aU5Rby15ckN5NkRKY1JmSkFfV1RLbTAyMkhRVHhrSnQ2UktOa09XUjZ3eGNPd2JuUHZRaFh3eFfSAZABQVVfeXFMTmxBLVVucEFzdnJDd0VYZTNjRU1wYmxrbXBNWHlSR0ZpUFlySmE4aFhlNWFOM2dzbFhkSzdUVFlIUURUZllISjVKUDFLcTA2RTVrNFFOQXpNOWlOUW8teXJDeTZESmNSZkpBX1dUS20wMjJIUVR4a0p0NlJLTmtPV1I2d3hjT3diblB2UWhYd3hX?oc=5",
-     "r": "Ketik"
+     "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     13,
-     20,
+     10,
+     17,
      0
     ]
    },
@@ -206,8 +206,8 @@
      1,
      4,
      0,
-     5,
-     2,
+     4,
+     0,
      0
     ],
     "g": [
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Berita dan Informasi polresta Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3VXduWHRIU0VmeDB4S2dvZjBCRHI2dXpMRkYyTFNhNjZ3VUl3cU8zQU0xRDA4ZFo3WFEwa1IzYlpvWDdoWTgwM0N1LW83UQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Mahasiswa di Bandung Gagal Cicipi \"Teh Ganja\" Racikannya Sendiri Usai Diringkus Polisi, 12 Kg Ganja Disita - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR0JSeVYxZi1DUXhUZkdWY0JyNEQ2Z2tOdjVLZ211RUVzVmhFQTV6LWt1ek4wNjRsSzd3MDJnUzJpXzZlQjF4ZVVyWUxGbVlQTjMwUkJnMGZRYjJFVzRkTU1NMUVJOGxhaHRrSE1FUS1wWjRkMFhVdmRxQ3dQaktQbDBMYTN1S2NmaHlxNDdCZjdaX0o4TnlqaUh6YlZQc0xVTHpVRjFfSmRmbjBVVDJpWUJ3ZS11eG9kZmJXQ0JDTTltYmZqMzZwaHVuV2pqaEhGOUdESU1xRjEtak41RGNRanc4bE9wVjFvUmfSAe8BQVVfeXFMTVpGN3U0LTBQdmhUanppcjdFZVdpcDA0X2kxOW5wZkdlRHhKQXBmdTdDdWZ6RVhZWEVrM24wX2tOSXVWeENSdE1kZXBzbEU3N0VBemJpT0NZMlJvOHpERDdiU01yOWlLWXRzQ3dTWU4wRzU5MjFyLV9KZHNxc0FrVlRLSDhzNWJyanlUbW53YksxZHJqN2NfSml2RURHUno0OUpPRGEzVWhmVWM0ZTNOWi1lN3MtdVFCWFBCeFl6S3QtaGFRT2hfdS1vc3RrSndSRXdnQ21fUjM1OVZURk9MZWxoR00wRVR6QURVZUdpNGs?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVhVRVY5ZzZINGF1bzNMMGQ0WDFjZnNJQlNqWWNkdzBDcmNkblg5US1CZmZXOVJHdEhEeUtUY3I1NFhVYjhjSTNSQkZ6ZmxxWTBESXFDVVNrQ0RYWjhSdTR6Qnk0OFNXcGVhV241Vlhxd2k1ZEtPaEJCVkg1UWVUV2FRYnpidU9OTnlRX0h0eWlxdEN6QVQyNzdmeW5HQlE5akMxMUV0czE2Yk4xeTdRaEhFZ09Mejlwb1RSQQ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Tiga Pemuda di Kabupaten Bandung Diringkus Polisi Usai Keroyok Pengendara Motor, Sempat Viral Dikira Aksi Begal - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmpQMUhTUzh4WnJVSUg5MDRhQVYzTGdWcDFwR01pOVpQdUxvSVl5cDhFWlljZ29mTWoxaE1KeWxwZHRMbjBlSkFGUFpZNVQzSS1qc2dSR0c0X3lBYVRKOGtycUxFaXJQbkFBbVItRWZuQmhHQlRISzcyTmRLVVhLVlF3WnJkdl9ERnBhb21Wa1pnMGNEZDJuNjMzRTUtSkw2cDd5TGgtN2lrVV9Tdm5iM0RFV2x1TXVTSGtxb29lb0J5ZWJvS0V0cGNrZFphTUx2d0xMTHZJbTZVSW5aVEhXdThDWF9oSEM3eHdfYlJyWlpmS2_SAfgBQVVfeXFMT3VNZ1hqb0xhRVJ5YmxIbXY5THUwcWRMdXlENDJMWlNDN1NRcEpSMDlyTHZqZkItOERwMVBpcm4xakViZ1JxQ2Eyc0NXanJaM1loZkNoSDRCaDRqNU9aYnoyR0Qzc1FtSmFoU01BTk1wZFFlYWFGem9TVHlVTkV2LUZlWU5VOS1KTjdfQXA4c1NLYlZUdzI2UEU0a2NjZUZwV0ZMeTVtU21nLTFaUFlfdTNMckZ3d2YycDZPWGRsVVktWkVhSjAwQ0FaQlFzX0ZlaDZfNEM4SndfNkZUY2M3a2RiaU92Nml1TENpdlRMZjZJM21Ea0FibFY?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -371,9 +371,9 @@
     "g": [
      0,
      0,
-     3,
+     4,
      11,
-     9,
+     8,
      4,
      0
     ]
@@ -427,7 +427,7 @@
     ],
     "w": [
      0,
-     6,
+     5,
      11
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      8,
-     25,
+     26,
      4
     ]
    },
@@ -536,8 +536,8 @@
      0,
      0,
      1,
-     1,
-     1,
+     0,
+     2,
      1,
      0
     ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:27:42.836787+07:00",
+ "updated": "2026-10-31T13:30:51.575621+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,11 +16,11 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   19
+   20
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "Radar Bandung",
@@ -36,7 +36,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   9
   ],
   [
    "Pikiran Rakyat Koran",
@@ -52,7 +52,7 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   3
+   4
   ],
   [
    "Disway",
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     19,
-     0
+     16,
+     1
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Pikiran-Rakyat.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalZPYTZBcVR4eVZZaDRUdERJU29OeDdUaDg3U1JYWElYNXVPOHpOT0lCMEVLR2RfZGVXUGFZUFliSjRSZ3pCUnA3MjVoS1E5dF9QSjF3TXJXRHY4Sy1VUGRxWEhnaHN5WDkwNEdvRjBJVGxIZWZHM0RtenMxYlk3NWlQLU42Yi0yTXRldEdlLU1YSTlOZDRUSERneWdXOUc5Smw2dFk5dzh5dF9fcWJWR21waGtaeGvSAbwBQVVfeXFMTS1hV2tEMi1ERzBLa0pNUkR0Tnp0OUx1Y0FMdXZsWHFwUHRVMERCWXdXSW9QUGlQRUhPUzlteWlPZmtLMVRvWGxyYzFvRjNLVTBLcGhkSnFydTdoa1ZMX3c1ZF94Zm1EN1RxX1ZUNHRDWWVqQmpIUFN5bmhZTlBxWnFNZVVZeF8wQnhDNGdBNldOSU9lQzJPZm96YjMtQUpobTI2alN6eUlPY3FkOVNveUFmMEE1RXRuaHRpMkU?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
      "t": "Polresta Bandung Gagalkan Peredaran 12 Kilogram Ganja - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlpEbTVXVXpLUVhvNnd6cE84VzkxSHNvM3h5dmhPdlpDYTRQdGlfbTZxZ2lTWDNSMjk5QmtKVjRpeEZTa1llYlJIWkVqbWkxY0M0MjZudlJpZWRyZjBlcVc3MVBaNUROM2FBZC1Cb0NtYTZ1MzYyNGUyNWJKeWZWRFNtbFY1TUZSWjdyX1VUa2VsbWFsS2F0Nkkxa2tJUC1hNld2Z1pQbmphUQ?oc=5",
@@ -323,12 +329,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEgxcndvdkcxRzF1bGhxTnpWT2U0RVI0eWlZWUJxSFRBNEMwR3NtU2wwdExtdWZSRy1URVlCeDZINWdTelk5cHdJSjRheVNRX3dSMjlrZHBSaExSWFNCdVFtMFg0WkdTQUxBQXJPYnFaYmphazY3cmx5Qk1WWFVmVFNIbHZ2aldQSnloS1hpeHdONThNZmMtQXpDVE5QTnlvSHluQlJWVm03RWV3amI4?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Foto : Nekat Aniaya Pengendara Motor Pakai Celurit di Soreang, Tiga Pemuda Ditangkap Polisi - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnhnUVBqVGVFWkRfR1RSOUlXNFNxRGVqNHViYXVIQWFOMEZqd0hoRm9kRG0td3dBc0VJZjdwVFlqeHdULXJZUDBWMV92QVRNd1phVXFXNnNqN2VjOFBzLURZazlWNzZkRjUyRThjVmRTR0dDbThKVVBQVHNIZjRwbUsxTHV6aV9YMEljMkVlUm4wUHg5aEgycEZBVzNHc0MyQnNNdXpCSjR6bTR4dDJKb2ZVV1RRbXg4R3FvNUd2cENhZUF0ei1NMkpn?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -376,12 +376,12 @@
     ],
     "g": [
      0,
-     4,
+     3,
      0,
      3,
      11,
      9,
-     0
+     1
     ]
    }
   },

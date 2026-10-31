@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:22:50.570172+07:00",
+ "updated": "2026-10-31T23:24:14.474649+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,23 +7,23 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   27
+   "Ayo Bandung",
+   29
   ],
   [
-   "Ayo Bandung",
+   "Tribunjabar.id",
    26
   ],
   [
-   "Kompas.com",
-   18
-  ],
-  [
    "RRI.co.id",
-   14
+   19
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   16
+  ],
+  [
+   "Kompas.com",
    14
   ],
   [
@@ -32,7 +32,7 @@
   ],
   [
    "jabarekspres.com",
-   9
+   11
   ],
   [
    "ANTARA News Jawa Barat",
@@ -40,15 +40,11 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   5
+   6
   ],
   [
    "Pikiran Rakyat Koran",
    5
-  ],
-  [
-   "Disway",
-   4
   ],
   [
    "Radio PRFM",
@@ -65,6 +61,10 @@
   [
    "Antarwaktu.com",
    3
+  ],
+  [
+   "Disway",
+   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Bupati Wongkar Pimpin Langsung Rakor Konflik Tarpok Kelurahan Bitung dan Ranomea - RRI.co.id",
+     "t": "Bupati Minsel Ikuti Rakor & Komitmen Bersama Percepatan Penyusunan RDTR Region II - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjVKVXZ5Ui1SaDUxVjNNdFJ5OTVYWlhlMjd0bGczYmUxdTFDaGtlNkZZdU9DOTNSSXRkNEtrd0NVbUstdFBlR3F5cFlSMG5PWWE5clVLTTRGNDBVbGdfalNaQTZUZW5rX003S2tDVWRKUG0xVnQ4eWJ1aURGNmYwOHFyak5mWnViMG1sWG9zcmJLVWpqUjV0TXZvcVdOYXQ5djN0ZmliQ0VLazAwTHNJTDNjejBMWC1GYU9PVW96WEFUUQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUFmNFl6ZkUwdW9zenl5S2g2WWx0X2lQdHo0QU1uTERDeWFqY05IczBFN0pIVW5hQWtkcjFBS2R4c1BuMjNkZlRLc2YyTGFFZFo3bTktMjJ5UFN0RHJyRVhzaGpZcF9nZWJWcWJTaEFTQ0xudnJBYmExY0xnTkZ4eGdvdzhKZXJnVXRxS0RZdXg0UmE1dkZsTHhMYWE4WmRDN3ZaR2ZzUmFqRWR6dEZKUFAwM05US0VTWnpsNXZhRVQ?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Pembukaan PRO-ASN di lingkungan Pemerintah Kabupaten Minsel Tahun 2026 - RRI.co.id",
+     "t": "Bupati Minsel Hadiri Opening Ceremony Agrinex Expo 2026 - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFRlajZpVWdMLTRLYUhjeUk2eURyQUZOTnI1Z0FscHlZTzFkLW5BSUYyMnp3UmVJYzh5b0hsdTBnRThEbHhFWXdkcEI2Z1RicGxjOUNsNV9vRHBmN1JkbjdzMWc1dVV5a3R6cnhFbzZud3dVZlhjTUVaV29yTlV6UzJXN1YwNTF0MWduUGE3YUJsY2VXWEVEN2I2akNpZXU0dUNCSTQ4REE4NW4zaVNoQUVpXzg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzNTSEhVb0R2WEN6Vm5nalI4T05OSDVxdU9tdktOX2VOUGlCSVNuREZRV2F1eGlXM0xXMUgzZHFEM205dHFRTC1hWlZ1YlY2WWZLQlJkdHlDMm14bVNYbDFpeFhnLVdYQmMwR3FrZ2E0UjY2b05XTHFyNlh6LXFCSFI2SzNXUHNaaDZZd0RaVS1CSXBkcEdOcWpQS1hHaUZK?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Sinergi Pemkab Bandung dan Provinsi: Plt. Camat dan Kasi Trantibum Baleendah Bersama Dinas PSDA Jabar Tertibkan Sempadan Cirasea - jurnalpolisi.co.id",
+     "t": "Bupati Wongkar Buka Sosialisasi PHBS - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUpXLTVIMEJlTVZqT0Z3V0tDR0MtcHZrbk9rQ1VkWEF3R21WMlZuZkxaejVOdVJVdlc1MzdzN3B6M19fbDhqMkZ0MFotZWNVQTdvaHJVRTJrVGY3V284U3QyTW5fdDVHcWRZbFpqMDBnVkI3VDZBQjA3UUQ4MUo3c0RPcGZ6Q2J4UjhDY19SeXExdmREeDZ5REoxbkZkRnRoOXB4QUhzWEVXLWVpMTF0UkxzMm5feXVDWmdNOUoxdkNEUllJbVJRYXREZVFfQlRaYnpWUWhQdkd1MDRuMXkzR25Jd0VfaDdMeFE?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVNDWFc2Sm1VV24wZ0I3ZVRHN3ltTkt4czQ2S0JxN1d1NnBkUk5ocmQyUHE4cVppNm1NSDI5dTY2UElMR2Z4djU0UllFa1AycGU4NUh4TGhXTzduSVMzdDZEZmNEZ1pReHpEeEstank5VlJuZUxOUjZHQTJPaURad3Jtb3MwNTA?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     19,
-     22,
+     20,
+     26,
      1
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     15,
+     16,
      4
     ],
     "g": [
@@ -173,10 +173,10 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
-     "r": "Bale Bandung"
+     "t": "Bedah Buku AHY, 27 Penulis Muda Bahas Kepemimpinan dan Keteladanan - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEEtVW5wQXN2ckN3RVhlM2NFTXBibGttcE1YeVJHRmlQWXJKYThoWGU1YU4zZ3NsWGRLN1RUWUhRRFRmWUhKNUpQMUtxMDZFNWs0UU5Bek05aU5Rby15ckN5NkRKY1JmSkFfV1RLbTAyMkhRVHhrSnQ2UktOa09XUjZ3eGNPd2JuUHZRaFh3eFfSAZABQVVfeXFMTmxBLVVucEFzdnJDd0VYZTNjRU1wYmxrbXBNWHlSR0ZpUFlySmE4aFhlNWFOM2dzbFhkSzdUVFlIUURUZllISjVKUDFLcTA2RTVrNFFOQXpNOWlOUW8teXJDeTZESmNSZkpBX1dUS20wMjJIUVR4a0p0NlJLTmtPV1I2d3hjT3diblB2UWhYd3hX?oc=5",
+     "r": "Ketik"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     11,
-     18,
+     13,
+     21,
      0
     ]
    },
@@ -207,8 +207,8 @@
      1,
      4,
      0,
-     4,
-     1
+     5,
+     2
     ],
     "g": [
      0,
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Anderpas Sentra Kuliner Baru Bawah Flyover Pasupati Bandung Resmi Dibuka, Dorong Ekonomi Kerakyatan - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjlVaDR4MmpXUWJ0Sm83bEdGUXBqOUc0OUZET0FuSGlCSERTcWtDdV9aV3B4SmRkV1B6YjZCeVVPYXJtYlA4QlhGdldEVVBSZVVRblZaNFlyU0Fja2kzQ0dwc1F6T0tfZ0dVMW85NXBudGc4QnhtRDM5UkNod3JzZVVYOHI5ZnVPbUVHRUdRRy1XMUJQNnhLcXh5a0w2Nk5ZRGVESExQaGpRbWNFemZpWkFyLS05TmhTMzRfUVBCM0t2SExIT0dhSU5Fejd4MGhjLVFjY29xMERIYjY5d0ljdmptbw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
@@ -247,6 +241,12 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     12,
-     7,
+     11,
+     9,
      4
     ]
    },
@@ -290,7 +290,7 @@
      1,
      2,
      3,
-     3
+     2
     ],
     "g": [
      0,
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     21,
+     23,
      26
     ]
    },
@@ -377,9 +377,9 @@
     "g": [
      0,
      0,
-     0,
-     3,
-     11,
+     1,
+     4,
+     9,
      8,
      4
     ]
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     7,
+     6,
      11
     ]
    },
@@ -510,13 +510,13 @@
    "v": {
     "s": [
      2,
-     4,
+     5,
      0
     ],
     "w": [
      10,
-     26,
-     4
+     25,
+     5
     ]
    },
    "trend": {
@@ -541,7 +541,7 @@
     "g": [
      0,
      0,
-     0,
+     1,
      1,
      1,
      1,

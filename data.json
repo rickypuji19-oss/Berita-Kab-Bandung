@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:45:34.574066+07:00",
+ "updated": "2026-10-31T09:36:08.521691+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Ayo Bandung",
-   19
+   25
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   17
+   15
   ],
   [
    "Radar Bandung",
@@ -24,15 +24,15 @@
   ],
   [
    "Kompas.com",
-   15
-  ],
-  [
-   "jabarekspres.com",
-   12
+   14
   ],
   [
    "RRI.co.id",
-   11
+   10
+  ],
+  [
+   "jabarekspres.com",
+   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Jurnal Soreang",
+   "Satumedia.id",
    3
   ],
   [
-   "Satumedia.id",
+   "bandungraya.net",
    3
   ]
  ],
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     19,
+     20,
      23,
      2
     ]
@@ -136,9 +136,9 @@
      1,
      0,
      0,
-     3,
-     16,
-     1
+     5,
+     14,
+     2
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Petani Kopi Lembang Buktikan Bisnis Hijau Bisa Mendunia dan Menguntungkan - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0RqMWZ6Tk1zLS1haFRramtoUkFaUXlrZC1jSjRwYm84N29TeENfSWRRbG9LdEw5UUFOS3JkdkhTdU5VSHEza0s1bk5jSEp5dEtTaG5PTm5JRmx6STVYd3J3MVdUVGxNcW5tLVRiZmJYTndXWDUwLU5hc2l5MVdoRXd0dGtVeGY1QkVxeDIxcEJBLUo4YjNkVFVPclZ4MnY1NGJOS0ZtYUw4Z9IBrwFBVV95cUxPdnI1cEZVVzNZOVlBOWlXUEhUYUNnaTFLdTNqOXpGM01wMGpQVDNHY0FpOThHVzZkYWNYMV9MaEU5Z1RuSFlrcG1XRjJXSXJMaXpuaWt3dzNaU2VTUG51S0ZQSHRtMWE5aDgwTlZqX2RFSTg5TEUwdjdaMmV3Zk5NdUlkek1oMy1mM2lKRlNLWUY3SDl1dWRnU1poOXlOd2VLQjNfUXhaV3lTRk5kYWtv?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Konflik Agraria di Pangalengan Berujung Dugaan Penculikan dan Penganiayaan Petani - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN3VzRTlyYVBGSGV5UFRMVzdOSHR6Z1ZOSHIwQTBxdW9MeFRuMnlvUUp2NTY0emxnUUVZMGpEQm9ib0RQQ2s5TU5aNTRyZ2lyRDNzMldEQWR2dElkbkMyOHlnbldDNFN6MUlZQUF4bEpsbHd1VGJqZlJWLTk2ZzJKcG16MWxGYTNLakVPWjlFZlFKMEc4YjZRZjY3b0k3THc4OUhzTDIyUE9Iek1URnJIVjJmRVoxLUpxQlp4V1dTeVRrMDItM2JmdWVOaUfSAdIBQVVfeXFMT3lDcDBpcEdPN3p0QnVwWGNHUmZ4NEJHODZQY2FGYTlwRGRiQjRJS0lFaFl4MWRQeVk4WGtXS2xYTHdVaV9Zd0t6VWdVTGFCc2dFT3h6MDI5Q0tOLXVjUUREbEEzSUQ1RE1ha200WVhpNklFLTFpYkFIRVFCZmdXNk1kanNiUGZwWGtpbGlpb0tLWTI3WlNFRlJXZjlad1E4WW16SkhvaERqaXFkZmd0M1U2emRMVnphaHR1LW5JVkpzRVpSdlNvaHB2X2s4SkN3RzNB?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     10,
-     10,
+     12,
+     9,
      4
     ]
    },
@@ -288,9 +288,9 @@
      1,
      2,
      2,
-     1,
+     2,
      3,
-     0
+     1
     ],
     "g": [
      0,
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     21,
+     23,
      24
     ]
    },
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     3,
-     0,
-     3,
-     10,
-     8,
+     1,
+     1,
+     2,
+     11,
+     9,
      0
     ]
    }
@@ -515,8 +515,8 @@
     ],
     "w": [
      9,
-     22,
-     4
+     23,
+     3
     ]
    },
    "trend": {
@@ -541,7 +541,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      1,
      1,
      1,

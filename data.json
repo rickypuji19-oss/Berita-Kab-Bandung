@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:30:29.856923+07:00",
+ "updated": "2026-10-31T12:27:42.836787+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,15 +12,15 @@
   ],
   [
    "Ayo Bandung",
-   25
+   21
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   20
+   19
   ],
   [
    "Kompas.com",
-   17
+   19
   ],
   [
    "Radar Bandung",
@@ -31,24 +31,24 @@
    11
   ],
   [
-   "ANTARA News Jawa Barat",
-   10
+   "jabarekspres.com",
+   9
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    8
   ],
   [
    "Pikiran Rakyat Koran",
+   6
+  ],
+  [
+   "Antarwaktu.com",
    5
   ],
   [
    "detikcom",
-   4
-  ],
-  [
-   "Antarwaktu.com",
-   3
+   5
   ],
   [
    "Pikiran-Rakyat.com",
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Satumedia.id",
+   "Koran Gala",
    3
   ],
   [
-   "Koran Gala",
+   "Radio PRFM",
    3
   ]
  ],
@@ -85,15 +85,15 @@
      "r": "Jabariber News"
     },
     {
-     "t": "Viral karena Kondisi Memprihatinkan, Keluarga di Pacet Bandung Kini Ditangani Pemkab - Jabariber News - Jabariber News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTVBzeDR4NDl2M3hmRXZqb0ExY3RNdmIyY0NUVGR5Qlgwa2xsTnFtcXFQeVBBQzNxQTlwRW9JUE8wMkowMTV1RnZQU3B0NXV2ZlIwNGJjcUpfMnNEb2YzcGhjR3RKSk5abEhIUnJMOFdfV0JlWWNlSjNrSjEtSVJMeUZXdldoT0lrRFBVWE9lZkh5V2pEOWQxM0FBM1VtR3k0QzRwZER4WVh6T0xrdnpxQ2RscG5fc0JDUEg3NWlBYTZWSVFTUGtVQ2ZBbFRmWkg3UkxscWhMbmdlRGp4bEJmUHZLVdIB4wFBVV95cUxNTVBzeDR4NDl2M3hmRXZqb0ExY3RNdmIyY0NUVGR5Qlgwa2xsTnFtcXFQeVBBQzNxQTlwRW9JUE8wMkowMTV1RnZQU3B0NXV2ZlIwNGJjcUpfMnNEb2YzcGhjR3RKSk5abEhIUnJMOFdfV0JlWWNlSjNrSjEtSVJMeUZXdldoT0lrRFBVWE9lZkh5V2pEOWQxM0FBM1VtR3k0QzRwZER4WVh6T0xrdnpxQ2RscG5fc0JDUEg3NWlBYTZWSVFTUGtVQ2ZBbFRmWkg3UkxscWhMbmdlRGp4bEJmUHZLVQ?oc=5",
-     "r": "Jabariber News"
-    },
-    {
      "t": "Ratusan Anggota BPD Dari 22 Kecamatan di Kabupaten Bandung Diambil Sumpah Janji Jabatan - Antarwaktu.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWhnUXMwRzhOTzBYX3BfTVZ2UE1pdTJjT1hZUTd3RWdwNENGU09fUUlLLWNCZUxHMjNlLWphaExnNWJvLTJQZ2JLZ1l5S2lTT1VnWW54TldTdzhkOVlGZVdpT0JPUlk3V1BvVG5yWnJpRTdtOVZLdDd0eWl3c1RSZXFNUU5lTlhwRUtMLWtoVGptcGpBc2RlWE1ZQ1VfSUltc0VDdWc5bjNablZVaHpfdko0eU14Tl95UGhkVTV3Zw?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
+     "t": "Bupati Bandung: Akses Pendidikan Perlu Terus Diperluas Seiring Perkembangan Jaman - Antarwaktu.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREhkZ25FaVdSWHJHbEh1MnVabkNpRVV4RXFfR3Brd2JNSVlmOTVpZ2RWck5kV05IbkY3Vjg0QXFPLU5mWjZmNVRtX0tPMy1QczFuZDRURmhHTHA2QlJPTWhOSWZSUGlpeDVNVUdCYlNDQW5CREEtTnlPUkpXN0h3V1c0UUMzalAycXhjTmZjc2cybEZFRTdwQWVoQWFaZ0tVdGpMRUhLb1dScU1RM0o3VVFFWnRjQQ?oc=5",
      "r": "Antarwaktu.com"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     16,
-     25,
-     2
+     18,
+     24,
+     3
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     1,
+     3,
      14,
      2
     ],
@@ -145,9 +145,9 @@
      0,
      0,
      0,
-     0,
-     0,
-     2
+     1,
+     1,
+     1
     ]
    }
   },
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     17,
-     1
+     19,
+     0
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Petani Kopi Lembang Buktikan Bisnis Hijau Bisa Mendunia dan Menguntungkan - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
@@ -241,12 +247,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "\"Matcha\" UMKM lokal yang menggerakan ekonomi kebun teh di Ciwidey - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0RqMWZ6Tk1zLS1haFRramtoUkFaUXlrZC1jSjRwYm84N29TeENfSWRRbG9LdEw5UUFOS3JkdkhTdU5VSHEza0s1bk5jSEp5dEtTaG5PTm5JRmx6STVYd3J3MVdUVGxNcW5tLVRiZmJYTndXWDUwLU5hc2l5MVdoRXd0dGtVeGY1QkVxeDIxcEJBLUo4YjNkVFVPclZ4MnY1NGJOS0ZtYUw4Z9IBrwFBVV95cUxPdnI1cEZVVzNZOVlBOWlXUEhUYUNnaTFLdTNqOXpGM01wMGpQVDNHY0FpOThHVzZkYWNYMV9MaEU5Z1RuSFlrcG1XRjJXSXJMaXpuaWt3dzNaU2VTUG51S0ZQSHRtMWE5aDgwTlZqX2RFSTg5TEUwdjdaMmV3Zk5NdUlkek1oMy1mM2lKRlNLWUY3SDl1dWRnU1poOXlOd2VLQjNfUXhaV3lTRk5kYWtv?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     11,
+     13,
      10,
      4
     ]
@@ -288,9 +288,9 @@
      1,
      2,
      2,
-     1,
+     2,
      3,
-     1
+     2
     ],
     "g": [
      0,
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     20,
+     21,
      27
     ]
    },
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     1,
-     1,
+     4,
+     0,
      3,
-     12,
-     10,
+     11,
+     9,
      0
     ]
    }
@@ -433,8 +433,8 @@
     ],
     "w": [
      1,
-     6,
-     12
+     7,
+     11
     ]
    },
    "trend": {
@@ -459,7 +459,7 @@
     "g": [
      0,
      0,
-     5,
+     4,
      5,
      1,
      6,

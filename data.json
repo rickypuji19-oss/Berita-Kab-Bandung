@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:24:14.474649+07:00",
+ "updated": "2026-11-01T00:20:58.870187+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,27 @@
  "portals": [
   [
    "Ayo Bandung",
-   29
+   28
   ],
   [
    "Tribunjabar.id",
    26
   ],
   [
-   "RRI.co.id",
-   19
+   "Kompas.com",
+   18
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "RRI.co.id",
    16
   ],
   [
-   "Kompas.com",
-   14
+   "Pemerintah Kabupaten Bandung",
+   13
   ],
   [
    "Radar Bandung",
-   13
+   11
   ],
   [
    "jabarekspres.com",
@@ -44,14 +44,14 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   5
+   6
   ],
   [
-   "Radio PRFM",
+   "Antarwaktu.com",
    4
   ],
   [
-   "detikcom",
+   "Disway",
    4
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Antarwaktu.com",
+   "Koran Gala",
    3
   ],
   [
-   "Disway",
+   "detikcom",
    3
   ]
  ],
@@ -79,15 +79,15 @@
    ],
    "h": [
     {
-     "t": "Bupati Minsel Ikuti Rakor & Komitmen Bersama Percepatan Penyusunan RDTR Region II - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUFmNFl6ZkUwdW9zenl5S2g2WWx0X2lQdHo0QU1uTERDeWFqY05IczBFN0pIVW5hQWtkcjFBS2R4c1BuMjNkZlRLc2YyTGFFZFo3bTktMjJ5UFN0RHJyRVhzaGpZcF9nZWJWcWJTaEFTQ0xudnJBYmExY0xnTkZ4eGdvdzhKZXJnVXRxS0RZdXg0UmE1dkZsTHhMYWE4WmRDN3ZaR2ZzUmFqRWR6dEZKUFAwM05US0VTWnpsNXZhRVQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Bupati Minsel Hadiri Opening Ceremony Agrinex Expo 2026 - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzNTSEhVb0R2WEN6Vm5nalI4T05OSDVxdU9tdktOX2VOUGlCSVNuREZRV2F1eGlXM0xXMUgzZHFEM205dHFRTC1hWlZ1YlY2WWZLQlJkdHlDMm14bVNYbDFpeFhnLVdYQmMwR3FrZ2E0UjY2b05XTHFyNlh6LXFCSFI2SzNXUHNaaDZZd0RaVS1CSXBkcEdOcWpQS1hHaUZK?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Bupati Minsel Ikuti Rakor & Komitmen Bersama Percepatan Penyusunan RDTR Region II - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUFmNFl6ZkUwdW9zenl5S2g2WWx0X2lQdHo0QU1uTERDeWFqY05IczBFN0pIVW5hQWtkcjFBS2R4c1BuMjNkZlRLc2YyTGFFZFo3bTktMjJ5UFN0RHJyRVhzaGpZcF9nZWJWcWJTaEFTQ0xudnJBYmExY0xnTkZ4eGdvdzhKZXJnVXRxS0RZdXg0UmE1dkZsTHhMYWE4WmRDN3ZaR2ZzUmFqRWR6dEZKUFAwM05US0VTWnpsNXZhRVQ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,29 +116,29 @@
      0
     ],
     "w": [
-     20,
-     26,
+     17,
+     25,
      1
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      1,
      0,
      0,
      1,
-     16,
-     4
+     13,
+     4,
+     0
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -187,28 +187,28 @@
     ],
     "w": [
      13,
-     21,
+     20,
      0
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      1,
      1,
      4,
      0,
      5,
-     2
+     2,
+     0
     ],
     "g": [
      0,
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Anderpas Sentra Kuliner Baru Bawah Flyover Pasupati Bandung Resmi Dibuka, Dorong Ekonomi Kerakyatan - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjlVaDR4MmpXUWJ0Sm83bEdGUXBqOUc0OUZET0FuSGlCSERTcWtDdV9aV3B4SmRkV1B6YjZCeVVPYXJtYlA4QlhGdldEVVBSZVVRblZaNFlyU0Fja2kzQ0dwc1F6T0tfZ0dVMW85NXBudGc4QnhtRDM5UkNod3JzZVVYOHI5ZnVPbUVHRUdRRy1XMUJQNnhLcXh5a0w2Nk5ZRGVESExQaGpRbWNFemZpWkFyLS05TmhTMzRfUVBCM0t2SExIT0dhSU5Fejd4MGhjLVFjY29xMERIYjY5d0ljdmptbw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
@@ -243,62 +249,50 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=Qh3VDgkHRWg",
      "r": "YouTube Kodam III Siliwangi"
-    },
-    {
-     "t": "SEMANGAT SUMPAH PEMUDA, DARI DESA PEMUDA BANDUNG GERAKKAN EKONOMI LEWAT KDKMP",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=7ujR_W7lWA8",
-     "r": "YouTube Portal JTV"
     }
    ],
    "v": {
     "s": [
-     1,
+     0,
      1,
      0
     ],
     "w": [
-     11,
-     9,
-     4
+     12,
+     6,
+     5
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     2,
-     1,
-     1,
      1,
      2,
+     2,
+     1,
      3,
-     2
+     3,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
+     5,
      0,
-     4,
      0
     ]
    }
@@ -351,25 +345,25 @@
     ],
     "w": [
      1,
-     23,
-     26
+     21,
+     27
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      0,
      0
@@ -377,11 +371,11 @@
     "g": [
      0,
      0,
-     1,
-     4,
+     3,
+     11,
      9,
-     8,
-     4
+     4,
+     0
     ]
    }
   },
@@ -432,23 +426,23 @@
      8
     ],
     "w": [
-     1,
+     0,
      6,
      11
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     1,
+     0,
      0,
      0,
      0,
@@ -458,12 +452,12 @@
     ],
     "g": [
      0,
-     0,
      3,
      5,
      1,
      6,
-     4
+     4,
+     0
     ]
    }
   },
@@ -483,16 +477,16 @@
      "r": "Galamedia News"
     },
     {
-     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
-     "r": "Galamedia News"
-    },
-    {
      "t": "Tutup Bimtek PAUD, Bunda Paud Boltim Rosita Dorong Pencegahan Stunting sejak Dini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDRHOGlMdUNidGM5TzhHUjlNLUZzYS1kbnpXOFFWM25oMFlsREVGMWlKU20wS0tlMVdFT1hXcmRYTF9RQWZTUHhWYmlwQzJ3RldDa3lXbm9sSGhYUllPNkU4NG1DMmw3d25oV2lsd2lYRC1XSEd4RklDTmY0STJ0aUNKbldtOTRPRVI0SUFZaDZ4eGd4WjdzczVSemtweWt2ZHFlTU5oeGxpSVFwMUhkQU5PTHRNZUxtU2pzZnFqYXIydw?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Dua Anak dari Keluarga dengan Gangguan Jiwa di Pacet Disiapkan Masuk Sekolah Rakyat - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -510,33 +504,33 @@
    "v": {
     "s": [
      2,
-     5,
+     3,
      0
     ],
     "w": [
-     10,
+     8,
      25,
-     5
+     4
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      1,
      0,
-     4,
+     3,
      2,
      2,
-     3
+     2,
+     0
     ],
     "g": [
      0,
@@ -545,7 +539,7 @@
      1,
      1,
      1,
-     1
+     0
     ]
    }
   }

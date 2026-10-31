@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:28:06.782495+07:00",
+ "updated": "2026-10-31T17:24:50.069946+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   27
+   28
   ],
   [
    "Ayo Bandung",
-   25
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
    21
   ],
   [
    "Kompas.com",
-   17
+   18
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   16
   ],
   [
    "Radar Bandung",
-   13
+   12
   ],
   [
    "RRI.co.id",
@@ -32,34 +32,34 @@
   ],
   [
    "jabarekspres.com",
-   10
+   9
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   9
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
+   "Antarwaktu.com",
+   5
+  ],
+  [
    "Pikiran-Rakyat.com",
+   5
+  ],
+  [
+   "detikcom",
+   5
+  ],
+  [
+   "Radio PRFM",
    4
   ],
   [
    "Disway",
-   4
-  ],
-  [
-   "detikcom",
-   4
-  ],
-  [
-   "Antarwaktu.com",
-   3
-  ],
-  [
-   "Jurnal Soreang",
    3
   ],
   [
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
-     24,
-     2
+     18,
+     21,
+     3
     ]
    },
    "trend": {
@@ -136,8 +136,8 @@
      1,
      0,
      0,
-     1,
-     15,
+     3,
+     14,
      2
     ],
     "g": [
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     0,
+     1,
      1,
      1
     ]
@@ -161,10 +161,10 @@
    ],
    "h": [
     {
-     "t": "Bandung Bedas Festival 2026, Bupati KDS Ungkapkan Job Fair Siapkan 600 Lowongan Kerja - Depost Jabar",
+     "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWN2cUNIVVJMS2dkMEw0V1dnNTBjT29qblMtV2xUalB1SjFMMjhYby1PUmNlcVlrY0xCWGhEMmhsY05tdnhMMGhIR0k1MW5BNFRISUoybVV5SGVMQW9ickZmYzh5RVdhYm1RcDByQmowbU5FeTNoT0VlQzFFLVhRUzh4OFVFLTlaMjJzX2ZzTTFZUkFSTXJtWVJ4Uk1MZ21JN3AybXBfMnJEZFlKbHA4Yi1ublNhb19wVHBZQzd1TlN0ajZHOGVlRw?oc=5",
-     "r": "Depost Jabar"
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     11,
-     19,
-     0
+     10,
+     17,
+     1
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     5,
+     4,
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     12,
-     10,
+     13,
+     9,
      4
     ]
    },
@@ -288,7 +288,7 @@
      1,
      2,
      2,
-     1,
+     2,
      3,
      2
     ],
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "PNS di Bojongsoang Bandung Meninggal Saat Cegat Pencuri Ayam, Pelaku Ditangkap - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVhVRVY5ZzZINGF1bzNMMGQ0WDFjZnNJQlNqWWNkdzBDcmNkblg5US1CZmZXOVJHdEhEeUtUY3I1NFhVYjhjSTNSQkZ6ZmxxWTBESXFDVVNrQ0RYWjhSdTR6Qnk0OFNXcGVhV241Vlhxd2k1ZEtPaEJCVkg1UWVUV2FRYnpidU9OTnlRX0h0eWlxdEN6QVQyNzdmeW5HQlE5akMxMUV0czE2Yk4xeTdRaEhFZ09Mejlwb1RSQQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Halaman 2 - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNmpMblBhYUQtMEtuTWpsak9qbHJjNEE1enJ0R1plZ1YwNU9NT3RySVBFUmdybkxTOEFYRUhuUE9sTzVrNm9Ed2FfV0sxdG9rRGJERkk1MjBWSXlMWjdFdTRmX01LQW1ZSnM4Y1FwUHUteWdQZnFVRzZ4Sms4SWUxdWNPbEh5cGxpTkJKekFKbTc3SzZ3UXJRTkkzeVZxWDgyZmlub0NMb204bUJCUGpwRmVWdUVtSmRLVFk5TFhjQ1nSAcYBQVVfeXFMTWhISkxTdm45QWhyWWNhbG4tUl9EMG9XaktFZWNqY1k2SHZHbVA1Wm13LVI1eGl0WDBfRzZuOVY4Ylk2Y0pIWG5wQ21VZl9pNUVod2xyVkRtR280X3FvOXNSZzc1cjA0RWVNSG5Fd0wzeXlhWGVHZzE5ZnZGeXp3NUNfcHA0WlRlbWhvd0liR2duNmYxQUpRVUstMlRGNjIwRW9NVTJkR3ptVDBkU3RnTmJBbVB0emlsOWZOSEVQbno2bi1Xc2J3?oc=5",
@@ -323,12 +329,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalZPYTZBcVR4eVZZaDRUdERJU29OeDdUaDg3U1JYWElYNXVPOHpOT0lCMEVLR2RfZGVXUGFZUFliSjRSZ3pCUnA3MjVoS1E5dF9QSjF3TXJXRHY4Sy1VUGRxWEhnaHN5WDkwNEdvRjBJVGxIZWZHM0RtenMxYlk3NWlQLU42Yi0yTXRldEdlLU1YSTlOZDRUSERneWdXOUc5Smw2dFk5dzh5dF9fcWJWR21waGtaeGvSAbwBQVVfeXFMTS1hV2tEMi1ERzBLa0pNUkR0Tnp0OUx1Y0FMdXZsWHFwUHRVMERCWXdXSW9QUGlQRUhPUzlteWlPZmtLMVRvWGxyYzFvRjNLVTBLcGhkSnFydTdoa1ZMX3c1ZF94Zm1EN1RxX1ZUNHRDWWVqQmpIUFN5bmhZTlBxWnFNZVVZeF8wQnhDNGdBNldOSU9lQzJPZm96YjMtQUpobTI2alN6eUlPY3FkOVNveUFmMEE1RXRuaHRpMkU?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Polresta Bandung Gagalkan Peredaran 12 Kilogram Ganja - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlpEbTVXVXpLUVhvNnd6cE84VzkxSHNvM3h5dmhPdlpDYTRQdGlfbTZxZ2lTWDNSMjk5QmtKVjRpeEZTa1llYlJIWkVqbWkxY0M0MjZudlJpZWRyZjBlcVc3MVBaNUROM2FBZC1Cb0NtYTZ1MzYyNGUyNWJKeWZWRFNtbFY1TUZSWjdyX1VUa2VsbWFsS2F0Nkkxa2tJUC1hNld2Z1pQbmphUQ?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -352,7 +352,7 @@
     "w": [
      1,
      22,
-     27
+     26
     ]
    },
    "trend": {
@@ -376,12 +376,12 @@
     ],
     "g": [
      0,
-     1,
-     1,
      2,
-     12,
-     10,
-     1
+     0,
+     2,
+     11,
+     9,
+     2
     ]
    }
   },
@@ -401,16 +401,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Cerita Warga Soal Banjir Bandang di Cipaganti Bandung: Air Capai Pinggang, Puluhan Rumah Terendam - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0k0SFhsNXh6QWFLTnpJVjlUUzh2c1otbE5uX1NqT0QyVmtWand0bkhRT0MwajZHaEF5OWxHOXpqYldnOGxsSEg4Z1h6YlQzS3h2VERibFFqOXA5Ylh2T3F0TkxRWGlfb1c0blM4cTdYS25yeThiTE5rZUh2SHQ5ME9iMlF0eWYzYzh4eE5lb2hkd2tKblE0SDdTQ2x2LUI3ZmpfM0E2aEJ0Q2REMXRNMUR5VGJabkVDejczOXhIQkFjU3c5MkVxendHNExyTVRieTc5RVA0ckNmTV9uazVj?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "BPBD Jabar Minta Warga Kembali Aktifkan Ronda Malam, Waspadai Ancaman Longsor saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzN0Wlc2cGxpRy10UW5DaDhDVHhKNmd3dXB6dlV4REdZd2xBLVZwVWstOFNoRmcxVFh5VktqN2h6NlZWeWc2TFJ5QWp6ME44MmxCRHRqTnhPVi01LVZicWhvck5kX3A0UDgwcFR1QzdXYnJSbUdlX1poVFNMbnJSVEZNeW9rdFhpR09ySVFHeWVXYXpXT3lOVks0ajkwVTE4aHlCcGVKVEk4bnJqY0tKcGw2NDZ3Ull5Q0hjMkpUMlRHWEhCU1dNZ2NsN1c3OElLMzBUT3ZmaHFVQnBm?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "BPBD KBB Catat Kebutuhan Terpal hingga Sembako untuk Warga Terdampak Longsor di Cisarua - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2RrbTJkNGFCZUItTXZ4MFg0QUU5VEpnVlN4Y3pTRjhCT0pHVS1PLXhmaW1yZS1MeEZKZ29fLVAzWjNFZGoyMlhoUVk5Qjg2cXo2ZkNTLWFlakx3dVlabDZLTGRSaEpObFdNUFpkamJhYUgwZjlMaHBuaURZbGZIQS1JYU41dHRNc1d3b0FQQjQtTWNVTnNLcU1Kckg5V3YwZjFoM0xwV05PV3hsNGZsVDVBV0cwd01PQ3ByNllMVll5M0gyR0FBdHR30gHPAUFVX3lxTFBIT3VyZ0J1SGFRQVRCMUF1R0xJb3h5UERkUkNrektBcVNyenRoZVpnS0VwdmhzdVZwdjQ3N3Ffd3g2YkZjWnM3bXJuWDNBc2hfZkJSR3dZREQxY0NvOVEtbWdjZjdtZlJleUtyU2hVVW11ZWhCY2FFdlNpNkVJUWhPWnhzMnhKMmpwUUhpdV9Sd2tpWTNxX1pGbEVKVVdtUUp0QTItRWcwOE90QzFYenB5NnZ5Qk1fcFNvOG4tM2JpdkdVVDdwWmRxdWFYLWtjbw?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
@@ -434,7 +434,7 @@
     "w": [
      1,
      7,
-     11
+     10
     ]
    },
    "trend": {
@@ -463,7 +463,7 @@
      5,
      1,
      6,
-     3
+     2
     ]
    }
   },
@@ -515,8 +515,8 @@
     ],
     "w": [
      8,
-     23,
-     5
+     22,
+     4
     ]
    },
    "trend": {
@@ -545,7 +545,7 @@
      1,
      1,
      1,
-     1
+     0
     ]
    }
   }

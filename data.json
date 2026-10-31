@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T06:23:23.881849+07:00",
+ "updated": "2026-10-31T07:31:31.550280+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,42 +8,38 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   25
   ],
   [
    "Ayo Bandung",
+   23
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    20
   ],
   [
    "Kompas.com",
-   18
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   14
+   17
   ],
   [
    "Radar Bandung",
-   14
+   15
   ],
   [
    "RRI.co.id",
    11
   ],
   [
+   "jabarekspres.com",
+   10
+  ],
+  [
    "ANTARA News Jawa Barat",
    10
   ],
   [
-   "jabarekspres.com",
-   9
-  ],
-  [
-   "detikcom",
-   6
-  ],
-  [
-   "Antarwaktu.com",
+   "Disway",
    5
   ],
   [
@@ -51,8 +47,12 @@
    5
   ],
   [
-   "Disway",
-   4
+   "Antarwaktu.com",
+   3
+  ],
+  [
+   "Pikiran-Rakyat.com",
+   3
   ],
   [
    "Jurnal Soreang",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     21,
-     22,
+     17,
+     25,
      1
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     5,
+     1,
      15,
      2
     ],
@@ -145,8 +145,8 @@
      0,
      0,
      0,
-     1,
      0,
+     1,
      0
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     21,
+     20,
      1
     ]
    },
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     11,
      9,
+     10,
      4
     ]
    },
@@ -284,11 +284,11 @@
      "Sab"
     ],
     "p": [
-     2,
+     1,
      1,
      2,
      2,
-     2,
+     1,
      3,
      0
     ],
@@ -325,10 +325,10 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "FPLH Dampingi Pelaporan Tindak Pidana Lingkungan Perusakan Kebun Teh di Kebun Malabar Pangalengan Ke Polresta - Mata Bandung",
+     "t": "Foto : Nekat Aniaya Pengendara Motor Pakai Celurit di Soreang, Tiga Pemuda Ditangkap Polisi - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQTVtYkZCNGRDZjZLRks1WjRTWWw0TGJDMGJlbVdlaVpXNHZWb2lMMjNKVElGOEJUYXFOWkdvVTRvQXFhcFZjcGJiWmZZQ05WTk11LTBVRHh0WUpQb2FBTzJxS25pTWtXT3dZNTN5bnZRS29LdEgxRTc0UWp0c1JlZjRKdHVGZnFXTExRakI4MHItS3BTZHZhOEdhU19nVlZIMGgzQ0xpNW1ydVk0cGNHRU9nYUtPOEJHVnNsOW9Va1FvbGZuQUFubzdQT3lYSC1ESlpVejV3cXZhQWtZVHB1ZVlXZHhNenZjZk5XeEM4ZEd2VzJ0a0NZR084Nk9fSFlnZEhhWnprONIBjAJBVV95cUxOM3VVXzM3UHhqRVgtZ3BKam9RdDBaaUJ3b2pwbnFVcmVlLUVXYmtqWjRtdXVidjdrejNDYzF0UG1qbXZ0a09WWVBXUVpvYUZ1NWVLU09SN2N6ZGc5TWRPdnVBOTYyM0lNWlRzeXhpbkd6WGlGeTZzWjZDZzdHOXBMbjFVd2VyaUhPMHpsVDI2MXZYSUxCM2NrWGRudk9ST1MtMm9fX0pjTHBIZFFtNkhSZkZWbjl0Z1RHNlNnQzdCbWQySVZfb0RZNTZWUnRPU1Z2R01mWlVkcV9IUURLUWY4bFRXc1g3b2Q5WXltUEphUXFQSzNJQU54NTRKay00bzdzWEwyR2tMMTJTcFA4?oc=5",
-     "r": "Mata Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnhnUVBqVGVFWkRfR1RSOUlXNFNxRGVqNHViYXVIQWFOMEZqd0hoRm9kRG0td3dBc0VJZjdwVFlqeHdULXJZUDBWMV92QVRNd1phVXFXNnNqN2VjOFBzLURZazlWNzZkRjUyRThjVmRTR0dDbThKVVBQVHNIZjRwbUsxTHV6aV9YMEljMkVlUm4wUHg5aEgycEZBVzNHc0MyQnNNdXpCSjR6bTR4dDJKb2ZVV1RRbXg4R3FvNUd2cENhZUF0ei1NMkpn?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     22,
-     24
+     21,
+     26
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     4,
      0,
      1,
-     11,
-     8,
+     3,
+     12,
+     10,
      0
     ]
    }
@@ -413,23 +413,23 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=Ejd9_RCrPJQ",
+     "r": "YouTube Humas Brimob Jabar"
+    },
+    {
      "t": "PEMKOT KOTA DAN KABUPATEN BANDUNG SALING LEMPAR TANGGUNG JAWAB TERKAIT BANJIR CIBADUYUT",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=JHzN0ncmdfM",
      "r": "YouTube INSAN RAHMAN"
-    },
-    {
-     "t": "Genangan Banjir Lumpuhkan Jalan, Kemacetan Panjang Tak Terhindarkan | Fokus",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=LeAnYXd011s",
-     "r": "YouTube Fokus Indosiar"
     }
    ],
    "v": {
     "s": [
      0,
      0,
-     7
+     8
     ],
     "w": [
      1,
@@ -463,7 +463,7 @@
      5,
      1,
      6,
-     1
+     2
     ]
    }
   },
@@ -532,10 +532,10 @@
     "p": [
      0,
      1,
-     0,
+     1,
      5,
      2,
-     2,
+     1,
      0
     ],
     "g": [

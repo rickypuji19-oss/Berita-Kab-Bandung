@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T19:28:20.792654+07:00",
+ "updated": "2026-10-31T20:37:06.221414+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   26
-  ],
-  [
    "Ayo Bandung",
-   25
+   27
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   21
+   "Tribunjabar.id",
+   27
   ],
   [
    "Kompas.com",
-   15
+   18
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   17
   ],
   [
    "Radar Bandung",
@@ -31,23 +31,23 @@
    11
   ],
   [
-   "ANTARA News Jawa Barat",
-   9
-  ],
-  [
    "jabarekspres.com",
-   8
+   10
   ],
   [
-   "Pikiran Rakyat Koran",
-   6
+   "ANTARA News Jawa Barat",
+   7
   ],
   [
    "Pikiran-Rakyat.com",
    5
   ],
   [
-   "Disway",
+   "Pikiran Rakyat Koran",
+   5
+  ],
+  [
+   "Antarwaktu.com",
    4
   ],
   [
@@ -55,7 +55,7 @@
    4
   ],
   [
-   "Antarwaktu.com",
+   "Disway",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTGNYSjVSMVo0eW14dnFaTHhBT2FCbDgtWWdjcWpybVhzY3JDRmRWNlJWcTM5MVBWR1JXdUdXS0ptNlZ6VUJiVjJMc3Z0MXZUdnhkT205ZE1NV3pHUzR6S3dMbGwyeDU5dFNXZUJ1WmNSNWEtUDFtZ3lR?oc=5",
      "r": "Sekitar Bandung"
-    },
-    {
-     "t": "Dinas Perpustakaan dan Arsip - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a0FUN2FESVdyem4waDJwWWw4OVlZSThTb3RYQWxTLWpkWlBqSjk4LXNiZEI1RjNOMlgzOFY5U3BwNl9jVHhLSWk5azVIV18zRkY4bUk2WWt4aFRHT05YSTBOQVJ1clgzbnc?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     17,
-     27,
-     1
+     20,
+     23,
+     2
     ]
    },
    "trend": {
@@ -136,16 +136,16 @@
      1,
      0,
      0,
-     1,
-     14,
-     3
+     2,
+     15,
+     4
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
+     1,
      0,
      1
     ]
@@ -161,10 +161,10 @@
    ],
    "h": [
     {
-     "t": "Bedah Buku AHY, 27 Penulis Muda Bahas Kepemimpinan dan Keteladanan - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalVtSk5ISzVPTEtDeTJaUzBfdy12a241aFRvVTBlZWV5ZUhycE55cEFqQ0tCNUExVU0yMXMxQ1dKQy1BQzdxcF83dldYQmNHNHpRb0s2U2x6SEg4Z2wxYzNqQ29lMkQ1ZVZldGVONDBHT3F3V3FvV3BiQ2Ziak1TcTQyX1hTdXhzcUNic3AzVW1sMkJoTi1JZno2eTJTbHPSAZABQVVfeXFMTmxBLVVucEFzdnJDd0VYZTNjRU1wYmxrbXBNWHlSR0ZpUFlySmE4aFhlNWFOM2dzbFhkSzdUVFlIUURUZllISjVKUDFLcTA2RTVrNFFOQXpNOWlOUW8teXJDeTZESmNSZkpBX1dUS20wMjJIUVR4a0p0NlJLTmtPV1I2d3hjT3diblB2UWhYd3hX?oc=5",
-     "r": "Ketik"
+     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
@@ -173,10 +173,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Pertama di Jabar, Buku Kepemimpinan AHY Dikupas Para Aktivis Muda Bandung - https://demokratjabar.or.id/",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWYxaFhjdFUwZVM3TmFZdDd0LURkODN4c19FNHhmcVUxa0lRZENzSS1BMXhmRUJrcHBRc24xbkVRa1EwR2duS3pYZVBsMnExVnZvQkZyeTlqTnNMSEtRNmRhZjNld1FqYWFkUkEtUmJIUTNEOVRiVE5iUFh2TVdBUFVlYmtVS3pmWmswTXRhTV95bTFyVVVRN2xWal9DeXowT2JwVg?oc=5",
-     "r": "https://demokratjabar.or.id/"
+     "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     12,
-     21,
-     1
+     10,
+     18,
+     0
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     5,
-     1
+     4,
+     0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     13,
+     11,
      9,
      4
     ]
@@ -286,8 +286,8 @@
     "p": [
      2,
      1,
-     2,
-     2,
+     1,
+     1,
      2,
      3,
      2
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     21,
-     25
+     22,
+     28
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
-     1,
      0,
+     1,
      3,
+     11,
      10,
-     8,
      3
     ]
    }
@@ -395,6 +395,12 @@
    ],
    "h": [
     {
+     "t": "Warga Cisarua Gotong Royong Perbaiki Jalan Rusak Secara Swadaya - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFk1SU5yUF9Nd084eGxUSG5sMEhWQWdwWjQtS0JrNm5IR0R3TDh0RlhqRHVCWk9kQVh2d1JtemJNLUtNSzhBR1c2dkNpZkpya2ViVUJQa1BXdGV3ZklpSGhTY1dpcXF2dXhFZ3BJc3pzYnFBTHZ6QTEtVExGcVZVR2VuX3lHbmJ0OEI0WnBMbkxkOUxwZHZmN0xfa2c3WkRQQ2lvSGN2OHh3dw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "10 Agenda di Bandung Akhir Pekan Ini 31 Oktober–1 November 2026, Waspada Macet - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUllIRDBpbG51MTY1clVsU2c4VWlsOVpOeUZSYTE4aktKOTB6bkdhZHBjcld1ZkFhRWVlckIxSnJ6R1p2Q0dsNWFYTHVnQVR5ZnFVZnRNN0NXMEE0SFNNY3hMdVdIcFdYYmsxRl96WmtaR3MzNkxNUGN1RDFXOXN4amxCRm1CVTZFTEpPMjFmWE85T01rMTFkX1BCRHJkSUdVZ1Brd2p1T3BNYTdpTWpYa2ZzM254eDJMRXhCTDJHaG9TeDBRa0dr?oc=5",
@@ -405,12 +411,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzN0Wlc2cGxpRy10UW5DaDhDVHhKNmd3dXB6dlV4REdZd2xBLVZwVWstOFNoRmcxVFh5VktqN2h6NlZWeWc2TFJ5QWp6ME44MmxCRHRqTnhPVi01LVZicWhvck5kX3A0UDgwcFR1QzdXYnJSbUdlX1poVFNMbnJSVEZNeW9rdFhpR09ySVFHeWVXYXpXT3lOVks0ajkwVTE4aHlCcGVKVEk4bnJqY0tKcGw2NDZ3Ull5Q0hjMkpUMlRHWEhCU1dNZ2NsN1c3OElLMzBUT3ZmaHFVQnBm?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "BPBD KBB Catat Kebutuhan Terpal hingga Sembako untuk Warga Terdampak Longsor di Cisarua - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2RrbTJkNGFCZUItTXZ4MFg0QUU5VEpnVlN4Y3pTRjhCT0pHVS1PLXhmaW1yZS1MeEZKZ29fLVAzWjNFZGoyMlhoUVk5Qjg2cXo2ZkNTLWFlakx3dVlabDZLTGRSaEpObFdNUFpkamJhYUgwZjlMaHBuaURZbGZIQS1JYU41dHRNc1d3b0FQQjQtTWNVTnNLcU1Kckg5V3YwZjFoM0xwV05PV3hsNGZsVDVBV0cwd01PQ3ByNllMVll5M0gyR0FBdHR30gHPAUFVX3lxTFBIT3VyZ0J1SGFRQVRCMUF1R0xJb3h5UERkUkNrektBcVNyenRoZVpnS0VwdmhzdVZwdjQ3N3Ffd3g2YkZjWnM3bXJuWDNBc2hfZkJSR3dZREQxY0NvOVEtbWdjZjdtZlJleUtyU2hVVW11ZWhCY2FFdlNpNkVJUWhPWnhzMnhKMmpwUUhpdV9Sd2tpWTNxX1pGbEVKVVdtUUp0QTItRWcwOE90QzFYenB5NnZ5Qk1fcFNvOG4tM2JpdkdVVDdwWmRxdWFYLWtjbw?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
@@ -434,7 +434,7 @@
     "w": [
      1,
      6,
-     10
+     11
     ]
    },
    "trend": {
@@ -463,7 +463,7 @@
      5,
      1,
      6,
-     2
+     3
     ]
    }
   },
@@ -515,7 +515,7 @@
     ],
     "w": [
      10,
-     22,
+     23,
      4
     ]
    },
@@ -541,11 +541,11 @@
     "g": [
      0,
      0,
+     0,
      1,
      1,
      1,
-     1,
-     0
+     1
     ]
    }
   }

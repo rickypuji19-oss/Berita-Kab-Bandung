@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:37:06.221414+07:00",
+ "updated": "2026-10-31T21:25:38.609459+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
-   27
+   28
   ],
   [
    "Tribunjabar.id",
-   27
-  ],
-  [
-   "Kompas.com",
-   18
+   26
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   17
+   16
+  ],
+  [
+   "Kompas.com",
+   14
   ],
   [
    "Radar Bandung",
@@ -28,7 +28,7 @@
   ],
   [
    "RRI.co.id",
-   11
+   12
   ],
   [
    "jabarekspres.com",
@@ -36,7 +36,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
   ],
   [
    "Pikiran-Rakyat.com",
@@ -47,12 +47,16 @@
    5
   ],
   [
-   "Antarwaktu.com",
+   "detikcom",
    4
   ],
   [
-   "detikcom",
-   4
+   "Galamedia News",
+   3
+  ],
+  [
+   "Antarwaktu.com",
+   3
   ],
   [
    "Disway",
@@ -60,10 +64,6 @@
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sinergi Pemkab Bandung dan Provinsi: Plt. Camat dan Kasi Trantibum Baleendah Bersama Dinas PSDA Jabar Tertibkan Sempadan Cirasea - jurnalpolisi.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUpXLTVIMEJlTVZqT0Z3V0tDR0MtcHZrbk9rQ1VkWEF3R21WMlZuZkxaejVOdVJVdlc1MzdzN3B6M19fbDhqMkZ0MFotZWNVQTdvaHJVRTJrVGY3V284U3QyTW5fdDVHcWRZbFpqMDBnVkI3VDZBQjA3UUQ4MUo3c0RPcGZ6Q2J4UjhDY19SeXExdmREeDZ5REoxbkZkRnRoOXB4QUhzWEVXLWVpMTF0UkxzMm5feXVDWmdNOUoxdkNEUllJbVJRYXREZVFfQlRaYnpWUWhQdkd1MDRuMXkzR25Jd0VfaDdMeFE?oc=5",
+     "r": "jurnalpolisi.co.id"
+    },
+    {
      "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Pemkab Bandung Perbaiki Rumah Keluarga Viral di Pacet, Dua Anak Diusulkan Masuk Sekolah Rakyat - Sekitar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTGNYSjVSMVo0eW14dnFaTHhBT2FCbDgtWWdjcWpybVhzY3JDRmRWNlJWcTM5MVBWR1JXdUdXS0ptNlZ6VUJiVjJMc3Z0MXZUdnhkT205ZE1NV3pHUzR6S3dMbGwyeDU5dFNXZUJ1WmNSNWEtUDFtZ3lR?oc=5",
-     "r": "Sekitar Bandung"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     20,
+     19,
      23,
      2
     ]
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     2,
+     1,
      15,
      4
     ],
@@ -167,15 +167,15 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
+    },
+    {
      "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -187,8 +187,8 @@
     ],
     "w": [
      10,
-     18,
-     0
+     17,
+     1
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     22,
-     28
+     21,
+     25
     ]
    },
    "trend": {
@@ -379,8 +379,8 @@
      0,
      1,
      3,
-     11,
-     10,
+     9,
+     9,
      3
     ]
    }
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Kwarcab Gerakan Pramuka Kabupaten Bandung Gelar Panen Raya Ketahanan Pangan di SMP Negeri 2 Banjaran - Galamedia News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb2ZFZGlrVHpMV2NIQVFiQmJUQl9Dc2VMN1F1SHF0S3JUTlhTSDFGSmF1cEJ6bk1kWTVPRG03MWNjN21DZjV4Y2RSQ1RDS09FcklCR1huWTNkOVRVNXBjX1hQREJQMWc0ejVpaEg4ZG5TNHFiTnIxb1J3anpnLTVRZG15SEF4U05DZnhTVWpJRG5QNUpOQW9CSDdyWXhGbTkweTh1THVQOGlidFRfUlVPaG0zdlkzTjJROXJoYmFnYnUwci14RjFudlFYMXc4Qzk0cFhuQ1dvZmlKd3BsMVdtVDRmV3Fna2dmNFVzLQ?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
      "r": "Radio PRFM"
-    },
-    {
-     "t": "Kegiatan Pembinaan Tata Kelola UPKD/K - Puskesmas Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJsRW9TdkszY0lBamxYNU5BZzJURldVNE85ZTRzbk9MSHZ0dGZGVzBUaWg2Y09kR2hOcVQ4RFNfZWk5WDVtTGNEQ1FrbzA1cW1oTEJNV0IxY3pOYlA1a3NXVkhfenF4RGdORzhkWXJNOFJJTFVQdmRXTUJSWkJwZkRZOEs1V0VlVTltUlhVQjRpeEU?oc=5",
-     "r": "Puskesmas Kabupaten Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     10,
-     23,
-     4
+     9,
+     24,
+     5
     ]
    },
    "trend": {
@@ -535,13 +535,13 @@
      0,
      4,
      2,
-     2,
+     1,
      3
     ],
     "g": [
      0,
      0,
-     0,
+     1,
      1,
      1,
      1,

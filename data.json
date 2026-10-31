@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:22:28.958140+07:00",
+ "updated": "2026-10-31T19:28:20.792654+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   27
+   "Tribunjabar.id",
+   26
   ],
   [
-   "Tribunjabar.id",
-   27
+   "Ayo Bandung",
+   25
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   16
+   21
   ],
   [
    "Kompas.com",
@@ -51,10 +51,6 @@
    4
   ],
   [
-   "Radio PRFM",
-   4
-  ],
-  [
    "detikcom",
    4
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Koran Gala",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Pemkab Bandung Perbaiki Rumah Keluarga Viral di Pacet, Dua Anak Diusulkan Masuk Sekolah Rakyat - Sekitar Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTGNYSjVSMVo0eW14dnFaTHhBT2FCbDgtWWdjcWpybVhzY3JDRmRWNlJWcTM5MVBWR1JXdUdXS0ptNlZ6VUJiVjJMc3Z0MXZUdnhkT205ZE1NV3pHUzR6S3dMbGwyeDU5dFNXZUJ1WmNSNWEtUDFtZ3lR?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a0FUN2FESVdyem4waDJwWWw4OVlZSThTb3RYQWxTLWpkWlBqSjk4LXNiZEI1RjNOMlgzOFY5U3BwNl9jVHhLSWk5azVIV18zRkY4bUk2WWt4aFRHT05YSTBOQVJ1clgzbnc?oc=5",
      "r": "Pemerintah Kabupaten Bandung"
-    },
-    {
-     "t": "Viral karena Kondisi Memprihatinkan, Keluarga di Pacet Bandung Kini Ditangani Pemkab - Jabariber News - Jabariber News",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGN2WFgwenY5S3RDMjR4S3VvSWJJWk1FNTB5cFhmakh1cF9IMXFQSnlGRG53SEU1WlV3WnNKRDBCU1BrYVdONldqOXN2X3VSRW9odm01UUxyRTk5ODZPVGxpbnVOaS1OMmdfdUQtdDBkNUhaWHpjMXQ2aV9ydFVySWk5UmRhQmJNMU8tNFB6X3B6RWZiVk00M3BQT0VsclM0eG5SSUlodFc4YlpTM0NJMUJRZlNhVlFfUzBQNzNXT2JxN1MwT2xjNzFJUXBUNWM2RmtSTnAwaTdqbW5XTGfSAeMBQVVfeXFMTU1Qc3g0eDQ5djN4ZkV2am9BMWN0TXZiMmNDVFRkeUJYMGtsbE5xbXFxUHlQQUMzcUE5cEVvSVBPMDJKMDE1dUZ2UFNwdDV1dmZSMDRiY3FKXzJzRG9mM3BoY0d0SkpOWmxISFJyTDhXX1dCZVljZUoza0oxLUlSTHlGV3ZXaE9Ja0RQVVhPZWZIeVdqRDlkMTNBQTNVbUd5NEM0cGREeFlYek9Ma3Z6cUNkbHBuX3NCQ1BINzVpQWE2VklRU1BrVUNmQWxUZlpIN1JMbHFoTG5nZURqeGxCZlB2S1U?oc=5",
-     "r": "Jabariber News"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     16,
-     22,
-     3
+     17,
+     27,
+     1
     ]
    },
    "trend": {
@@ -138,15 +138,15 @@
      0,
      1,
      14,
-     2
+     3
     ],
     "g": [
      0,
      0,
      0,
      0,
-     1,
-     1,
+     0,
+     0,
      1
     ]
    }
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Bedah Buku AHY, 27 Penulis Muda Bahas Kepemimpinan dan Keteladanan - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalVtSk5ISzVPTEtDeTJaUzBfdy12a241aFRvVTBlZWV5ZUhycE55cEFqQ0tCNUExVU0yMXMxQ1dKQy1BQzdxcF83dldYQmNHNHpRb0s2U2x6SEg4Z2wxYzNqQ29lMkQ1ZVZldGVONDBHT3F3V3FvV3BiQ2Ziak1TcTQyX1hTdXhzcUNic3AzVW1sMkJoTi1JZno2eTJTbHPSAZABQVVfeXFMTmxBLVVucEFzdnJDd0VYZTNjRU1wYmxrbXBNWHlSR0ZpUFlySmE4aFhlNWFOM2dzbFhkSzdUVFlIUURUZllISjVKUDFLcTA2RTVrNFFOQXpNOWlOUW8teXJDeTZESmNSZkpBX1dUS20wMjJIUVR4a0p0NlJLTmtPV1I2d3hjT3diblB2UWhYd3hX?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "M. Hailuki Dorong Budaya Literasi Anak Muda Kabupaten Bandung Lewat Bedah Buku Kepemimpinan AHY - Koran Gala - Koran Gala",
+     "t": "Pertama di Jabar, Buku Kepemimpinan AHY Dikupas Para Aktivis Muda Bandung - https://demokratjabar.or.id/",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMF9Jb1p3UlZWZlJyOHJrTC12U1lGWENaZnZWWXpZeC1LQ0U3aGhVWjlzU0MzQkdIWlpWOHpqcHNyZ053czQ1eDFRRlNTdmdKdWtSMnFxRFBsOHRRNjNaWnFnXzl0TjZXSWJjM2VOS1lBZi1FMzEyTTJrdzNtWUVoRnFzVi1QZUtmaEtaVm9TbndFb3M5S3p2YXNFazl2RmN2d2h0b0VGNy1qZWFJU1FKTU9tcjZJdzBpVlBCZEItU1JiUTdvOTR0MnpWTTNaV3p2YlFz0gHYAUFVX3lxTFA0NmVaVmZ5UzFlTG5uMGQxMkVqMGVUa2U2dFNCRzZqdTdqMXZpVEZpa1hNY2tBSWNsRWpkTHFoTW5PTjM2ZU5Mblc3NzV2VWtLcEI2QmI3X2ZiN2FwbmV6UmVqcklyTk5LTGQzSUlBMmczMnd2Yi1mMktoTnNQeHcwUTdwckhYYjMxWjd3NTF6WTAwYXRNc0E1Yk1lNl9fT1FRSFdQUFFHTnIzWWt6dG9aYlZQckV1bGJMNHFveXRRWE9kcWw3ZlBwZkU2YWxCdlpaeUd3S2NSaQ?oc=5",
-     "r": "Koran Gala"
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWYxaFhjdFUwZVM3TmFZdDd0LURkODN4c19FNHhmcVUxa0lRZENzSS1BMXhmRUJrcHBRc24xbkVRa1EwR2duS3pYZVBsMnExVnZvQkZyeTlqTnNMSEtRNmRhZjNld1FqYWFkUkEtUmJIUTNEOVRiVE5iUFh2TVdBUFVlYmtVS3pmWmswTXRhTV95bTFyVVVRN2xWal9DeXowT2JwVg?oc=5",
+     "r": "https://demokratjabar.or.id/"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     10,
-     17,
+     12,
+     21,
      1
     ]
    },
@@ -207,8 +207,8 @@
      1,
      4,
      0,
-     4,
-     0
+     5,
+     1
     ],
     "g": [
      1,
@@ -351,7 +351,7 @@
     ],
     "w": [
      1,
-     23,
+     21,
      25
     ]
    },
@@ -376,12 +376,12 @@
     ],
     "g": [
      0,
-     0,
      1,
+     0,
      3,
      10,
-     9,
-     2
+     8,
+     3
     ]
    }
   },
@@ -428,7 +428,7 @@
    "v": {
     "s": [
      0,
-     1,
+     0,
      8
     ],
     "w": [
@@ -477,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
+     "r": "Galamedia News"
+    },
+    {
      "t": "Dua Anak dari Keluarga dengan Gangguan Jiwa di Pacet Disiapkan Masuk Sekolah Rakyat - Radio PRFM",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
@@ -487,12 +493,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJsRW9TdkszY0lBamxYNU5BZzJURldVNE85ZTRzbk9MSHZ0dGZGVzBUaWg2Y09kR2hOcVQ4RFNfZWk5WDVtTGNEQ1FrbzA1cW1oTEJNV0IxY3pOYlA1a3NXVkhfenF4RGdORzhkWXJNOFJJTFVQdmRXTUJSWkJwZkRZOEs1V0VlVTltUlhVQjRpeEU?oc=5",
      "r": "Puskesmas Kabupaten Bandung"
-    },
-    {
-     "t": "Perkuat Tata Kelola hingga Teknologi, Mahasiswa STIA LAN Bandung Luncurkan 7 Inovasi di Desa Cibogo - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHppc2UxZFh0X1ZYWnBLc09RVmRCRzYxbV8xeVF1QTQ5REtIZnhjXzBGUEdYajFaeG9FSlhxRVNBWEp1ZzdRUERPQVNHWTl3cjQtV3ZIWVFjaDZRRE41ME0yNFVWV1BrNF9sbmRHQVFtV2lYZ0hzQkoyYUtNOUUtTjlJMGFlX1F0MVAzenFkN0Q2QjFaSmRiM3BuR0VVcG40ajdSQU96VWFIUjQzbkpRSWZ2bE9sRTU4WEdLWFdJVnNLNnIzdldDZlRWRjctZTQ3MDU2ZG1kUHBSVXJJYm1z?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     9,
+     10,
      22,
-     5
+     4
     ]
    },
    "trend": {
@@ -536,7 +536,7 @@
      4,
      2,
      2,
-     2
+     3
     ],
     "g": [
      0,
@@ -545,7 +545,7 @@
      1,
      1,
      1,
-     1
+     0
     ]
    }
   }

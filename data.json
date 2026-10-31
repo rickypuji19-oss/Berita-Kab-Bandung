@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:42:05.307464+07:00",
+ "updated": "2026-10-31T15:31:58.117172+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   27
   ],
   [
    "Ayo Bandung",
-   20
+   26
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   16
+   21
   ],
   [
    "Radar Bandung",
@@ -24,18 +24,18 @@
   ],
   [
    "Kompas.com",
-   14
+   13
   ],
   [
    "RRI.co.id",
-   11
-  ],
-  [
-   "jabarekspres.com",
-   9
+   10
   ],
   [
    "ANTARA News Jawa Barat",
+   9
+  ],
+  [
+   "jabarekspres.com",
    8
   ],
   [
@@ -43,11 +43,7 @@
    6
   ],
   [
-   "Antarwaktu.com",
-   5
-  ],
-  [
-   "detikcom",
+   "Pikiran-Rakyat.com",
    5
   ],
   [
@@ -55,16 +51,20 @@
    4
   ],
   [
-   "Radio PRFM",
+   "detikcom",
    4
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Antarwaktu.com",
    3
   ],
   [
-   "Jurnal Soreang",
+   "Koran Gala",
    3
+  ],
+  [
+   "Jabariber News",
+   2
   ]
  ],
  "topics": [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     19,
-     22,
+     17,
+     25,
      2
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     1,
      15,
      2
     ],
@@ -145,8 +145,8 @@
      0,
      0,
      0,
-     1,
      0,
+     1,
      1
     ]
    }
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     11,
-     19,
-     0
+     10,
+     16,
+     1
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     5,
+     4,
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
@@ -268,7 +268,7 @@
      0
     ],
     "w": [
-     13,
+     12,
      10,
      4
     ]
@@ -288,7 +288,7 @@
      1,
      2,
      2,
-     2,
+     1,
      3,
      2
     ],
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Halaman 2 - Pikiran-Rakyat.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNmpMblBhYUQtMEtuTWpsak9qbHJjNEE1enJ0R1plZ1YwNU9NT3RySVBFUmdybkxTOEFYRUhuUE9sTzVrNm9Ed2FfV0sxdG9rRGJERkk1MjBWSXlMWjdFdTRmX01LQW1ZSnM4Y1FwUHUteWdQZnFVRzZ4Sms4SWUxdWNPbEh5cGxpTkJKekFKbTc3SzZ3UXJRTkkzeVZxWDgyZmlub0NMb204bUJCUGpwRmVWdUVtSmRLVFk5TFhjQ1nSAcYBQVVfeXFMTWhISkxTdm45QWhyWWNhbG4tUl9EMG9XaktFZWNqY1k2SHZHbVA1Wm13LVI1eGl0WDBfRzZuOVY4Ylk2Y0pIWG5wQ21VZl9pNUVod2xyVkRtR280X3FvOXNSZzc1cjA0RWVNSG5Fd0wzeXlhWGVHZzE5ZnZGeXp3NUNfcHA0WlRlbWhvd0liR2duNmYxQUpRVUstMlRGNjIwRW9NVTJkR3ptVDBkU3RnTmJBbVB0emlsOWZOSEVQbno2bi1Xc2J3?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
      "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Pikiran-Rakyat.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalZPYTZBcVR4eVZZaDRUdERJU29OeDdUaDg3U1JYWElYNXVPOHpOT0lCMEVLR2RfZGVXUGFZUFliSjRSZ3pCUnA3MjVoS1E5dF9QSjF3TXJXRHY4Sy1VUGRxWEhnaHN5WDkwNEdvRjBJVGxIZWZHM0RtenMxYlk3NWlQLU42Yi0yTXRldEdlLU1YSTlOZDRUSERneWdXOUc5Smw2dFk5dzh5dF9fcWJWR21waGtaeGvSAbwBQVVfeXFMTS1hV2tEMi1ERzBLa0pNUkR0Tnp0OUx1Y0FMdXZsWHFwUHRVMERCWXdXSW9QUGlQRUhPUzlteWlPZmtLMVRvWGxyYzFvRjNLVTBLcGhkSnFydTdoa1ZMX3c1ZF94Zm1EN1RxX1ZUNHRDWWVqQmpIUFN5bmhZTlBxWnFNZVVZeF8wQnhDNGdBNldOSU9lQzJPZm96YjMtQUpobTI2alN6eUlPY3FkOVNveUFmMEE1RXRuaHRpMkU?oc=5",
@@ -322,12 +328,6 @@
      "t": "Polresta Bandung Gagalkan Peredaran 12 Kilogram Ganja - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlpEbTVXVXpLUVhvNnd6cE84VzkxSHNvM3h5dmhPdlpDYTRQdGlfbTZxZ2lTWDNSMjk5QmtKVjRpeEZTa1llYlJIWkVqbWkxY0M0MjZudlJpZWRyZjBlcVc3MVBaNUROM2FBZC1Cb0NtYTZ1MzYyNGUyNWJKeWZWRFNtbFY1TUZSWjdyX1VUa2VsbWFsS2F0Nkkxa2tJUC1hNld2Z1pQbmphUQ?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Polisi Bongkar Gudang Penimbunan Solar Subsidi di Bandung - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEgxcndvdkcxRzF1bGhxTnpWT2U0RVI0eWlZWUJxSFRBNEMwR3NtU2wwdExtdWZSRy1URVlCeDZINWdTelk5cHdJSjRheVNRX3dSMjlrZHBSaExSWFNCdVFtMFg0WkdTQUxBQXJPYnFaYmphazY3cmx5Qk1WWFVmVFNIbHZ2aldQSnloS1hpeHdONThNZmMtQXpDVE5QTnlvSHluQlJWVm03RWV3amI4?oc=5",
      "r": "Pikiran Rakyat Koran"
     },
     {
@@ -352,7 +352,7 @@
     "w": [
      1,
      20,
-     24
+     25
     ]
    },
    "trend": {
@@ -376,11 +376,11 @@
     ],
     "g": [
      0,
+     1,
+     1,
      3,
-     0,
-     3,
+     10,
      9,
-     8,
      1
     ]
    }
@@ -428,7 +428,7 @@
    "v": {
     "s": [
      0,
-     0,
+     1,
      8
     ],
     "w": [
@@ -489,10 +489,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Kejar Wajib Belajar 12 Tahun, Bandung Perkuat Kolaborasi Sekolah - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNub3lScl9xY3VZU2RXdFpXWGxweXkzZ2pRR293ZjVHMEF3WTFHZWNRR05XZFF0VnB1TVdib3BnUzhGU1Q3ZnVORG5xSVRGbmwwTUFEeVd3d2h4aWZnLW11ZHd3R29sV1FXTWVZNy1HQUktNWFpTHhJWTUzcVVWckc4dTNTZW1wMEVDU1hhSFljYngyZEVFbUMzeHFjQTlqVFdadDd3?oc=5",
-     "r": "Radar Bandung"
+     "t": "Viral Dituding Menyewa Mahasiswa Bodong dalam Aksi Deklarasi Sumpah Pemuda, Raffi Ahmad: Saya Tidak Tahu - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUHl0MlpjZjl4V0RfLURiQS1pMW1KM0JDT1JkOUd5TWM1TWhoQmJqSVNGWmlkVUVaLWZYVFdJMUloM2FLS1FBQm9UODNETEtNb1l1ZWNQbGVWUEk0OXlwX2JFMDZXVWp5UlpjZjlIdkFfdUY5R2F0YnNoaFd1QnRyOUtsM3hsMHBtYk1XRnFuV3lEWXExVDRNREhLd05zR2RzLVpIQzVoam9TcF9GR1o3TWMtLTVUSGxrcEtHenpVcGd5ZDJKQ0gxaVc1SlByVWZLTVN0cTV3LXhpLXNmb1HSAeMBQVVfeXFMTTVrUzlDSFBQQ3hZN2NqcU5DdlJ2QmsyXzlHdFVWOUpOWDJRVVRpN2tiZTlnTHhpZTJzZ3pnQlpPamstZUNRYzkzdkItWEc3bG5ZazEwQ19DX2hud1NHWk40Q1pOakkycFQ0LXg3ZkpnZHl6M2hNQTZ0MjFUTVJ1NEk2YlJ1c21XdUtnenU1VWF4TUNobElaMXFneTJ5QU1jcXhWVVctdThld3JKT0NhOGJIYVU5VmtuNS02V1A0Q0hHLWFOaGl1anlUNW96N1V5NWFPdW1xVG5ZcmtiVEVhbmwtNUk?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -510,11 +510,11 @@
    "v": {
     "s": [
      2,
-     3,
+     4,
      0
     ],
     "w": [
-     9,
+     8,
      22,
      4
     ]
@@ -533,7 +533,7 @@
      0,
      1,
      0,
-     5,
+     4,
      2,
      2,
      1
@@ -541,11 +541,11 @@
     "g": [
      0,
      0,
+     0,
      1,
      1,
      1,
-     1,
-     0
+     1
     ]
    }
   }

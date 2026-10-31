@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:24:10.340160+07:00",
+ "updated": "2026-11-01T06:22:35.967943+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Ayo Bandung",
-   26
+   28
   ],
   [
    "Tribunjabar.id",
@@ -19,12 +19,12 @@
    18
   ],
   [
-   "Kompas.com",
-   14
+   "Pemerintah Kabupaten Bandung",
+   15
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   11
+   "Kompas.com",
+   14
   ],
   [
    "Radar Bandung",
@@ -36,7 +36,7 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   7
   ],
   [
    "Pikiran-Rakyat.com",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     26,
+     19,
+     25,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     11,
+     15,
      4,
      0
     ],
@@ -363,11 +363,11 @@
      0
     ],
     "g": [
-     2,
      0,
-     3,
+     0,
+     4,
      9,
-     7,
+     8,
      4,
      0
     ]
@@ -383,16 +383,16 @@
    ],
    "h": [
     {
-     "t": "Warga Cisarua Gotong Royong Perbaiki Jalan Rusak Secara Swadaya - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFk1SU5yUF9Nd084eGxUSG5sMEhWQWdwWjQtS0JrNm5IR0R3TDh0RlhqRHVCWk9kQVh2d1JtemJNLUtNSzhBR1c2dkNpZkpya2ViVUJQa1BXdGV3ZklpSGhTY1dpcXF2dXhFZ3BJc3pzYnFBTHZ6QTEtVExGcVZVR2VuX3lHbmJ0OEI0WnBMbkxkOUxwZHZmN0xfa2c3WkRQQ2lvSGN2OHh3dw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "10 Agenda di Bandung Akhir Pekan Ini 31 Oktober–1 November 2026, Waspada Macet - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUllIRDBpbG51MTY1clVsU2c4VWlsOVpOeUZSYTE4aktKOTB6bkdhZHBjcld1ZkFhRWVlckIxSnJ6R1p2Q0dsNWFYTHVnQVR5ZnFVZnRNN0NXMEE0SFNNY3hMdVdIcFdYYmsxRl96WmtaR3MzNkxNUGN1RDFXOXN4amxCRm1CVTZFTEpPMjFmWE85T01rMTFkX1BCRHJkSUdVZ1Brd2p1T3BNYTdpTWpYa2ZzM254eDJMRXhCTDJHaG9TeDBRa0dr?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Warga Cisarua Gotong Royong Perbaiki Jalan Rusak Secara Swadaya - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFk1SU5yUF9Nd084eGxUSG5sMEhWQWdwWjQtS0JrNm5IR0R3TDh0RlhqRHVCWk9kQVh2d1JtemJNLUtNSzhBR1c2dkNpZkpya2ViVUJQa1BXdGV3ZklpSGhTY1dpcXF2dXhFZ3BJc3pzYnFBTHZ6QTEtVExGcVZVR2VuX3lHbmJ0OEI0WnBMbkxkOUxwZHZmN0xfa2c3WkRQQ2lvSGN2OHh3dw?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Banjir Bandang Terjang Cipaganti, 34 Rumah Terdampak Akibat Tanggul Cikalintu Jebol - Ayo Bandung - Ayo Bandung",
@@ -421,7 +421,7 @@
     ],
     "w": [
      0,
-     3,
+     4,
      11
     ]
    },
@@ -450,8 +450,8 @@
      5,
      1,
      6,
-     4,
-     0
+     3,
+     1
     ]
    }
   },
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     10,
+     9,
      27,
-     4
+     5
     ]
    },
    "trend": {
@@ -520,7 +520,7 @@
     "p": [
      1,
      0,
-     4,
+     3,
      2,
      2,
      3,
@@ -530,7 +530,7 @@
      0,
      0,
      1,
-     0,
+     1,
      2,
      1,
      0

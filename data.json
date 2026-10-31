@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:24:50.069946+07:00",
+ "updated": "2026-10-31T18:22:28.958140+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,59 +7,59 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   28
-  ],
-  [
    "Ayo Bandung",
-   21
+   27
   ],
   [
-   "Kompas.com",
-   18
+   "Tribunjabar.id",
+   27
   ],
   [
    "Pemerintah Kabupaten Bandung",
    16
   ],
   [
+   "Kompas.com",
+   15
+  ],
+  [
    "Radar Bandung",
-   12
+   13
   ],
   [
    "RRI.co.id",
    11
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    9
   ],
   [
-   "ANTARA News Jawa Barat",
-   9
+   "jabarekspres.com",
+   8
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Antarwaktu.com",
-   5
-  ],
-  [
    "Pikiran-Rakyat.com",
    5
   ],
   [
-   "detikcom",
-   5
+   "Disway",
+   4
   ],
   [
    "Radio PRFM",
    4
   ],
   [
-   "Disway",
+   "detikcom",
+   4
+  ],
+  [
+   "Antarwaktu.com",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Perbaiki Rumah Keluarga Viral di Pacet, Dua Anak Diusulkan Masuk Sekolah Rakyat - Sekitar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTGNYSjVSMVo0eW14dnFaTHhBT2FCbDgtWWdjcWpybVhzY3JDRmRWNlJWcTM5MVBWR1JXdUdXS0ptNlZ6VUJiVjJMc3Z0MXZUdnhkT205ZE1NV3pHUzR6S3dMbGwyeDU5dFNXZUJ1WmNSNWEtUDFtZ3lR?oc=5",
+     "r": "Sekitar Bandung"
+    },
+    {
      "t": "Dinas Perpustakaan dan Arsip - Pemerintah Kabupaten Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a0FUN2FESVdyem4waDJwWWw4OVlZSThTb3RYQWxTLWpkWlBqSjk4LXNiZEI1RjNOMlgzOFY5U3BwNl9jVHhLSWk5azVIV18zRkY4bUk2WWt4aFRHT05YSTBOQVJ1clgzbnc?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGN2WFgwenY5S3RDMjR4S3VvSWJJWk1FNTB5cFhmakh1cF9IMXFQSnlGRG53SEU1WlV3WnNKRDBCU1BrYVdONldqOXN2X3VSRW9odm01UUxyRTk5ODZPVGxpbnVOaS1OMmdfdUQtdDBkNUhaWHpjMXQ2aV9ydFVySWk5UmRhQmJNMU8tNFB6X3B6RWZiVk00M3BQT0VsclM0eG5SSUlodFc4YlpTM0NJMUJRZlNhVlFfUzBQNzNXT2JxN1MwT2xjNzFJUXBUNWM2RmtSTnAwaTdqbW5XTGfSAeMBQVVfeXFMTU1Qc3g0eDQ5djN4ZkV2am9BMWN0TXZiMmNDVFRkeUJYMGtsbE5xbXFxUHlQQUMzcUE5cEVvSVBPMDJKMDE1dUZ2UFNwdDV1dmZSMDRiY3FKXzJzRG9mM3BoY0d0SkpOWmxISFJyTDhXX1dCZVljZUoza0oxLUlSTHlGV3ZXaE9Ja0RQVVhPZWZIeVdqRDlkMTNBQTNVbUd5NEM0cGREeFlYek9Ma3Z6cUNkbHBuX3NCQ1BINzVpQWE2VklRU1BrVUNmQWxUZlpIN1JMbHFoTG5nZURqeGxCZlB2S1U?oc=5",
      "r": "Jabariber News"
-    },
-    {
-     "t": "Ratusan Anggota BPD Dari 22 Kecamatan di Kabupaten Bandung Diambil Sumpah Janji Jabatan - Antarwaktu.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWhnUXMwRzhOTzBYX3BfTVZ2UE1pdTJjT1hZUTd3RWdwNENGU09fUUlLLWNCZUxHMjNlLWphaExnNWJvLTJQZ2JLZ1l5S2lTT1VnWW54TldTdzhkOVlGZVdpT0JPUlk3V1BvVG5yWnJpRTdtOVZLdDd0eWl3c1RSZXFNUU5lTlhwRUtMLWtoVGptcGpBc2RlWE1ZQ1VfSUltc0VDdWc5bjNablZVaHpfdko0eU14Tl95UGhkVTV3Zw?oc=5",
-     "r": "Antarwaktu.com"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     18,
-     21,
+     16,
+     22,
      3
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     3,
+     1,
      14,
      2
     ],
@@ -319,16 +319,16 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Halaman 2 - Pikiran-Rakyat.com",
+     "t": "Tiga Pemuda di Kabupaten Bandung Diringkus Polisi Usai Keroyok Pengendara Motor, Sempat Viral Dikira Aksi Begal - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNmpMblBhYUQtMEtuTWpsak9qbHJjNEE1enJ0R1plZ1YwNU9NT3RySVBFUmdybkxTOEFYRUhuUE9sTzVrNm9Ed2FfV0sxdG9rRGJERkk1MjBWSXlMWjdFdTRmX01LQW1ZSnM4Y1FwUHUteWdQZnFVRzZ4Sms4SWUxdWNPbEh5cGxpTkJKekFKbTc3SzZ3UXJRTkkzeVZxWDgyZmlub0NMb204bUJCUGpwRmVWdUVtSmRLVFk5TFhjQ1nSAcYBQVVfeXFMTWhISkxTdm45QWhyWWNhbG4tUl9EMG9XaktFZWNqY1k2SHZHbVA1Wm13LVI1eGl0WDBfRzZuOVY4Ylk2Y0pIWG5wQ21VZl9pNUVod2xyVkRtR280X3FvOXNSZzc1cjA0RWVNSG5Fd0wzeXlhWGVHZzE5ZnZGeXp3NUNfcHA0WlRlbWhvd0liR2duNmYxQUpRVUstMlRGNjIwRW9NVTJkR3ptVDBkU3RnTmJBbVB0emlsOWZOSEVQbno2bi1Xc2J3?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmpQMUhTUzh4WnJVSUg5MDRhQVYzTGdWcDFwR01pOVpQdUxvSVl5cDhFWlljZ29mTWoxaE1KeWxwZHRMbjBlSkFGUFpZNVQzSS1qc2dSR0c0X3lBYVRKOGtycUxFaXJQbkFBbVItRWZuQmhHQlRISzcyTmRLVVhLVlF3WnJkdl9ERnBhb21Wa1pnMGNEZDJuNjMzRTUtSkw2cDd5TGgtN2lrVV9Tdm5iM0RFV2x1TXVTSGtxb29lb0J5ZWJvS0V0cGNrZFphTUx2d0xMTHZJbTZVSW5aVEhXdThDWF9oSEM3eHdfYlJyWlpmS2_SAfgBQVVfeXFMT3VNZ1hqb0xhRVJ5YmxIbXY5THUwcWRMdXlENDJMWlNDN1NRcEpSMDlyTHZqZkItOERwMVBpcm4xakViZ1JxQ2Eyc0NXanJaM1loZkNoSDRCaDRqNU9aYnoyR0Qzc1FtSmFoU01BTk1wZFFlYWFGem9TVHlVTkV2LUZlWU5VOS1KTjdfQXA4c1NLYlZUdzI2UEU0a2NjZUZwV0ZMeTVtU21nLTFaUFlfdTNMckZ3d2YycDZPWGRsVVktWkVhSjAwQ0FaQlFzX0ZlaDZfNEM4SndfNkZUY2M3a2RiaU92Nml1TENpdlRMZjZJM21Ea0FibFY?oc=5",
+     "r": "Ayo Bandung"
     },
     {
-     "t": "Polresta Bandung Tangkap 3 Pelaku Teror Kekerasan ke Warga Soreang - Pikiran-Rakyat.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalZPYTZBcVR4eVZZaDRUdERJU29OeDdUaDg3U1JYWElYNXVPOHpOT0lCMEVLR2RfZGVXUGFZUFliSjRSZ3pCUnA3MjVoS1E5dF9QSjF3TXJXRHY4Sy1VUGRxWEhnaHN5WDkwNEdvRjBJVGxIZWZHM0RtenMxYlk3NWlQLU42Yi0yTXRldEdlLU1YSTlOZDRUSERneWdXOUc5Smw2dFk5dzh5dF9fcWJWR21waGtaeGvSAbwBQVVfeXFMTS1hV2tEMi1ERzBLa0pNUkR0Tnp0OUx1Y0FMdXZsWHFwUHRVMERCWXdXSW9QUGlQRUhPUzlteWlPZmtLMVRvWGxyYzFvRjNLVTBLcGhkSnFydTdoa1ZMX3c1ZF94Zm1EN1RxX1ZUNHRDWWVqQmpIUFN5bmhZTlBxWnFNZVVZeF8wQnhDNGdBNldOSU9lQzJPZm96YjMtQUpobTI2alN6eUlPY3FkOVNveUFmMEE1RXRuaHRpMkU?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Dikendalikan dari Dalam Lapas, Sindikat Ganja 12 Kilogram Dibongkar Polresta Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSk5URzF3X1k4UnNpbWhpT0lVZXpaai1WZ1ZFaGROakRyamNLTGVMRDRkM014d2xMcm40S0pUVnhsWmx1T2s2YU5NNWJib1lKaGZOYkR3STIwUjk0d0RFY2hlUE9WZ1FZaEpGYmJFajZJaDVJSmR4N2FpOUJsdEZ0ZERtYTMxZ2tzSDA3UExmNlBxV1FBZ3JKOFhraHRQRnF1ei12dmllb1FVQmhNRl9jNTFpUUNsUG1hcXJzV1hRbHF1TXcyZTR5NTJ2a1BCSlXSAdQBQVVfeXFMUFdwMkdwb3Y1Y2VWeG51SWFBZjNkcFlVRDl3X2dZLW5rSFBhTHZuRGZOeG5CM242QUpaMkxpdnNUbVU3YUhDbDhPV0dlSGViYzJqaUxFSE5PSl9YSGV1QTZNam8xb1kzNzhFZjVoaGZIbllYMG56SUxaWHdsd21IanZyWWMwYWl3RWNNWndfU2VkUUFYNVV4SnBuODh3R1ZwMWhncnFGRjNWUTByRlNHU3RIcDNvR0FQYmstSzNpaDBQc0V0ZDlDSC1nUmtuc1lYd0lNZFo?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     22,
-     26
+     23,
+     25
     ]
    },
    "trend": {
@@ -376,10 +376,10 @@
     ],
     "g": [
      0,
-     2,
      0,
-     2,
-     11,
+     1,
+     3,
+     10,
      9,
      2
     ]
@@ -433,7 +433,7 @@
     ],
     "w": [
      1,
-     7,
+     6,
      10
     ]
    },
@@ -514,9 +514,9 @@
      0
     ],
     "w": [
-     8,
+     9,
      22,
-     4
+     5
     ]
    },
    "trend": {
@@ -536,7 +536,7 @@
      4,
      2,
      2,
-     1
+     2
     ],
     "g": [
      0,
@@ -545,7 +545,7 @@
      1,
      1,
      1,
-     0
+     1
     ]
    }
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:31:58.117172+07:00",
+ "updated": "2026-10-31T16:28:06.782495+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,30 +12,30 @@
   ],
   [
    "Ayo Bandung",
-   26
+   25
   ],
   [
    "Pemerintah Kabupaten Bandung",
    21
   ],
   [
-   "Radar Bandung",
-   15
+   "Kompas.com",
+   17
   ],
   [
-   "Kompas.com",
+   "Radar Bandung",
    13
   ],
   [
    "RRI.co.id",
+   11
+  ],
+  [
+   "jabarekspres.com",
    10
   ],
   [
    "ANTARA News Jawa Barat",
-   9
-  ],
-  [
-   "jabarekspres.com",
    8
   ],
   [
@@ -44,7 +44,7 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   5
+   4
   ],
   [
    "Disway",
@@ -59,12 +59,12 @@
    3
   ],
   [
-   "Koran Gala",
+   "Jurnal Soreang",
    3
   ],
   [
-   "Jabariber News",
-   2
+   "Koran Gala",
+   3
   ]
  ],
  "topics": [
@@ -117,7 +117,7 @@
     ],
     "w": [
      17,
-     25,
+     24,
      2
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Bandung Bedas Festival 2026, Bupati KDS Ungkapkan Job Fair Siapkan 600 Lowongan Kerja - Depost Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWN2cUNIVVJMS2dkMEw0V1dnNTBjT29qblMtV2xUalB1SjFMMjhYby1PUmNlcVlrY0xCWGhEMmhsY05tdnhMMGhIR0k1MW5BNFRISUoybVV5SGVMQW9ickZmYzh5RVdhYm1RcDByQmowbU5FeTNoT0VlQzFFLVhRUzh4OFVFLTlaMjJzX2ZzTTFZUkFSTXJtWVJ4Uk1MZ21JN3AybXBfMnJEZFlKbHA4Yi1ublNhb19wVHBZQzd1TlN0ajZHOGVlRw?oc=5",
+     "r": "Depost Jabar"
+    },
+    {
      "t": "DPRD Jabar Pastikan Dukung Ambisi PWI Jabar Juara Umum Lagi di Porwanas - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm1WOUtCcHRCcmxDbmsyM0xuYVJNUXJNUTFuVTlFX1BEVTlYWWs2Q19GUFlNWnFydjRqVmU5NnZGMlR2TjFKZ2JFdWV0SjJPN1hka1VNbEc4UVRhVGtrWWFTRmJUSmpJRTFuRXBLOEVrMHo0YVhHMG9UVkxjVnoxclUtV1FGMWZlT09xZUludnI5NS1xZ3pPU0xQVTN1MC1KTzAwVnNaTXJ4Y19jVUdOUWhVeGRELUI3aW9oNW1LUQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMF9Jb1p3UlZWZlJyOHJrTC12U1lGWENaZnZWWXpZeC1LQ0U3aGhVWjlzU0MzQkdIWlpWOHpqcHNyZ053czQ1eDFRRlNTdmdKdWtSMnFxRFBsOHRRNjNaWnFnXzl0TjZXSWJjM2VOS1lBZi1FMzEyTTJrdzNtWUVoRnFzVi1QZUtmaEtaVm9TbndFb3M5S3p2YXNFazl2RmN2d2h0b0VGNy1qZWFJU1FKTU9tcjZJdzBpVlBCZEItU1JiUTdvOTR0MnpWTTNaV3p2YlFz0gHYAUFVX3lxTFA0NmVaVmZ5UzFlTG5uMGQxMkVqMGVUa2U2dFNCRzZqdTdqMXZpVEZpa1hNY2tBSWNsRWpkTHFoTW5PTjM2ZU5Mblc3NzV2VWtLcEI2QmI3X2ZiN2FwbmV6UmVqcklyTk5LTGQzSUlBMmczMnd2Yi1mMktoTnNQeHcwUTdwckhYYjMxWjd3NTF6WTAwYXRNc0E1Yk1lNl9fT1FRSFdQUFFHTnIzWWt6dG9aYlZQckV1bGJMNHFveXRRWE9kcWw3ZlBwZkU2YWxCdlpaeUd3S2NSaQ?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "Ketua DPRD Renie Rahayu: Sampaikan Fungsi Tugas dan Tanggungjawab Parlemen - Bedanews",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzc1RFJ1YVQ2V3AtUUNrQU1WZ3NQS05ZOVBCRHhhWmZ6TUx1cTd4M2NndWxuNzZ0RWxHZlkxSWRxNl9RZDBFUFFxSVZDeHBhSXNicFNfVXpybWloQkZEZ0NtcnNFVW16WWM1emFiRzJhYW9kUk1JT0dLTVFrS1hGSkVlM1k0VzlUS09ZbU1qQmpaWEQ4MlZUNHBTcw?oc=5",
-     "r": "Bedanews"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
-     16,
-     1
+     11,
+     19,
+     0
     ]
    },
    "trend": {
@@ -207,11 +207,11 @@
      1,
      4,
      0,
-     4,
+     5,
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,
@@ -351,8 +351,8 @@
     ],
     "w": [
      1,
-     20,
-     25
+     22,
+     27
     ]
    },
    "trend": {
@@ -378,9 +378,9 @@
      0,
      1,
      1,
-     3,
+     2,
+     12,
      10,
-     9,
      1
     ]
    }
@@ -483,16 +483,16 @@
      "r": "Radio PRFM"
     },
     {
+     "t": "Kegiatan Pembinaan Tata Kelola UPKD/K - Puskesmas Kabupaten Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJsRW9TdkszY0lBamxYNU5BZzJURldVNE85ZTRzbk9MSHZ0dGZGVzBUaWg2Y09kR2hOcVQ4RFNfZWk5WDVtTGNEQ1FrbzA1cW1oTEJNV0IxY3pOYlA1a3NXVkhfenF4RGdORzhkWXJNOFJJTFVQdmRXTUJSWkJwZkRZOEs1V0VlVTltUlhVQjRpeEU?oc=5",
+     "r": "Puskesmas Kabupaten Bandung"
+    },
+    {
      "t": "Perkuat Tata Kelola hingga Teknologi, Mahasiswa STIA LAN Bandung Luncurkan 7 Inovasi di Desa Cibogo - Tribunjabar.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHppc2UxZFh0X1ZYWnBLc09RVmRCRzYxbV8xeVF1QTQ5REtIZnhjXzBGUEdYajFaeG9FSlhxRVNBWEp1ZzdRUERPQVNHWTl3cjQtV3ZIWVFjaDZRRE41ME0yNFVWV1BrNF9sbmRHQVFtV2lYZ0hzQkoyYUtNOUUtTjlJMGFlX1F0MVAzenFkN0Q2QjFaSmRiM3BuR0VVcG40ajdSQU96VWFIUjQzbkpRSWZ2bE9sRTU4WEdLWFdJVnNLNnIzdldDZlRWRjctZTQ3MDU2ZG1kUHBSVXJJYm1z?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Viral Dituding Menyewa Mahasiswa Bodong dalam Aksi Deklarasi Sumpah Pemuda, Raffi Ahmad: Saya Tidak Tahu - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUHl0MlpjZjl4V0RfLURiQS1pMW1KM0JDT1JkOUd5TWM1TWhoQmJqSVNGWmlkVUVaLWZYVFdJMUloM2FLS1FBQm9UODNETEtNb1l1ZWNQbGVWUEk0OXlwX2JFMDZXVWp5UlpjZjlIdkFfdUY5R2F0YnNoaFd1QnRyOUtsM3hsMHBtYk1XRnFuV3lEWXExVDRNREhLd05zR2RzLVpIQzVoam9TcF9GR1o3TWMtLTVUSGxrcEtHenpVcGd5ZDJKQ0gxaVc1SlByVWZLTVN0cTV3LXhpLXNmb1HSAeMBQVVfeXFMTTVrUzlDSFBQQ3hZN2NqcU5DdlJ2QmsyXzlHdFVWOUpOWDJRVVRpN2tiZTlnTHhpZTJzZ3pnQlpPamstZUNRYzkzdkItWEc3bG5ZazEwQ19DX2hud1NHWk40Q1pOakkycFQ0LXg3ZkpnZHl6M2hNQTZ0MjFUTVJ1NEk2YlJ1c21XdUtnenU1VWF4TUNobElaMXFneTJ5QU1jcXhWVVctdThld3JKT0NhOGJIYVU5VmtuNS02V1A0Q0hHLWFOaGl1anlUNW96N1V5NWFPdW1xVG5ZcmtiVEVhbmwtNUk?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -515,8 +515,8 @@
     ],
     "w": [
      8,
-     22,
-     4
+     23,
+     5
     ]
    },
    "trend": {
@@ -541,7 +541,7 @@
     "g": [
      0,
      0,
-     0,
+     1,
      1,
      1,
      1,

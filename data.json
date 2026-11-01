@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:36:23.791590+07:00",
+ "updated": "2026-11-01T16:30:25.951785+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,27 +8,23 @@
  "portals": [
   [
    "Ayo Bandung",
-   26
+   27
   ],
   [
    "Tribunjabar.id",
-   25
-  ],
-  [
-   "Kompas.com",
-   19
+   27
   ],
   [
    "RRI.co.id",
-   15
+   18
+  ],
+  [
+   "Kompas.com",
+   14
   ],
   [
    "Radar Bandung",
-   11
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   8
+   10
   ],
   [
    "jabarekspres.com",
@@ -36,7 +32,11 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   7
+   8
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   6
   ],
   [
    "Pikiran-Rakyat.com",
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Bupati KDS dan PERWATUSI Gaungkan Pola Hidup Sehat - RRI.co.id",
+     "t": "Antisipasi Penimbunan Gas Elpiji Pemkab Edukasi Para Agen - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWFMLWxsaFcwd0prRVhpcW9HQzNPR2Nza0tzY1hnQnR6aFpHM0gtWThkTzdEeEotTVlKLVlpRjBwYk5USl8wQWdpZkMwd19QZXR3WGJSY1p2Y0Y3TUY0RWJ5bklROFUzV3Bra2I1R0xQQ2tSSC1QUmJJcnFVbVotX0lGbGx6OXFvcjJrNGtHYURSYjdpN3ZB?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjdaaGI2T0tXRkV0RDVoajE0c1UzTGR2TEIxa0hVck1XTHo1YXJRcURfQnZVLVlrckVwUVhIa05OOVhLZTNfLW1sMzdpelhsZ25Qd1lqUUtzM2hLVTRXZGxzbUViU2hjWU92T05JR3FHeE95VjR3T0VUUnYyeGZwai1COHBOdWFuOXlEMk90MHdLZW1TdEEyemd5MlRYRWpVX1E?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Jaga Kesehatan dan Kebersamaan di Hari Osteoporosis Nasional - RRI.co.id",
+     "t": "Pemkab Minta Agen LPG Patuhi Penerapan HET - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEtfSzJWNmtaVmZkaDlrZzN6d1F5aDdabml1M01EYkVsR1VMNXUxZlpzc1FGaTc1TmZzcGJoRGFqYW1ncUpsWXUwa180MmI0Y2gyYUxJUGlCWDdEMFV6TGRBQlFweloxdTRmRVFrYzhGMHdmUDg4d1lOX3BkazFHQWdER25zR3paYWxaLXZjeVpGLURTY25icU45dWZwbU5TM0NZZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnFtbGpHUkRmZFVIbHU3WWRuZzVhU1doc1ZRZ29qdmJPcm90c1JoRlZldWNBTTVaVXFUN09qLTRHRWt0RVBrS25QMmZWMFNqVFl2TmcwN3dnREtEYS0wRG15RnNBcTFoaWlFcXk2QkxGTkZzLUUxQmlaM2RiU1dBS0UxaVpiN3hJMUZxakhB?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Diboikot MUI Ibun, Ustaz Nana Gerhana Dampingi Bupati Bandung Resmikan MI di Cimaung - | kejakimpolnews.com",
+     "t": "Pemkab Bandung Dorong Kepastian Investasi melalui Penyesuaian LSD - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTC10WWM5T2pabWhKZlpHYzByNFZSZUlPdktSbW5qNW9uWUltZGh4Qy1wdVhMOFJEMFNjSFc3cW5NV1Bmc191RGdUcTNzUUdtUkstYVNvbGltb21qMlR5Yk5mNTkxOGFBS2RvZGNpMW1fYmE5ZUZydkZHNGFHUmlpcW5PWG9fOVJtUk5fbXRWbVFPN3RJdmZqYUpPSElGa29uektUR1JHNTBwVTJDbU1tdzdXbS1jd1B2ai1pT1daWTN3SEc0eGVpZ0ZYMW04eFU?oc=5",
-     "r": "| kejakimpolnews.com"
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUhWdDRSU0RmN0xmNGFhN2p5RS1XOURvdFhNd1ZvODd3bF9LbHMtY3hUdm1GcXhlaV9kdzFzc0VJb0IzdU4wUzZkb0JHcU80OVZpSDlub1RwMUMzeURrZlVsdFlQMnJhdmJiRF9oZUVIczgwVXZSanZkdl91Z1Bnd0xNXzhMU2lGVG8td1NCTUxRLXYtTk11dU04UThFajJScVJGZWNwU3hzUnht?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      15,
-     21,
+     23,
      1
     ]
    },
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
-     "r": "MOST 1058"
-    },
-    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
+     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     14,
-     21,
+     11,
+     17,
      0
     ]
    },
@@ -206,8 +206,8 @@
      1,
      4,
      0,
-     5,
-     3,
+     4,
+     1,
      0
     ],
     "g": [
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Dorong Kepastian Investasi melalui Penyesuaian LSD - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUhWdDRSU0RmN0xmNGFhN2p5RS1XOURvdFhNd1ZvODd3bF9LbHMtY3hUdm1GcXhlaV9kdzFzc0VJb0IzdU4wUzZkb0JHcU80OVZpSDlub1RwMUMzeURrZlVsdFlQMnJhdmJiRF9oZUVIczgwVXZSanZkdl91Z1Bnd0xNXzhMU2lGVG8td1NCTUxRLXYtTk11dU04UThFajJScVJGZWNwU3hzUnht?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Anderpas Sentra Kuliner Baru Bawah Flyover Pasupati Bandung Resmi Dibuka, Dorong Ekonomi Kerakyatan - Tribunjabar.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjlVaDR4MmpXUWJ0Sm83bEdGUXBqOUc0OUZET0FuSGlCSERTcWtDdV9aV3B4SmRkV1B6YjZCeVVPYXJtYlA4QlhGdldEVVBSZVVRblZaNFlyU0Fja2kzQ0dwc1F6T0tfZ0dVMW85NXBudGc4QnhtRDM5UkNod3JzZVVYOHI5ZnVPbUVHRUdRRy1XMUJQNnhLcXh5a0w2Nk5ZRGVESExQaGpRbWNFemZpWkFyLS05TmhTMzRfUVBCM0t2SExIT0dhSU5Fejd4MGhjLVFjY29xMERIYjY5d0ljdmptbw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Petani Kopi Lembang Buktikan Bisnis Hijau Bisa Mendunia dan Menguntungkan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Konflik Petani dan Perkebunan di Pangalengan, LBH Desak Pemprov Jabar Turun Tangan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnZqLVRzdTNNMzY1UFdJUFAwcTh1T0prYVV2c2RjY0tPRnZ0UEdnSVRXS3N2V3BRZWVfTnl1d1RNRnZiVTNXRFpDTkh6Z3p2Tk5ldWNvVERkSmZyUVRBeVNvN3dqT19vS0JQUy05V3dPck9lM3cwTXVuTnFLY1cxbzBuZUR3akJNY25WX05aUkkyYzhGRWhWSnY2VE9wTlM0S0l0Z25oU2JBd2NJSm5McXdnQkRsd1BRTmdONkE5dlF1VW93MWc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -262,9 +262,9 @@
      0
     ],
     "w": [
-     11,
+     12,
      7,
-     5
+     4
     ]
    },
    "trend": {
@@ -283,7 +283,7 @@
      2,
      1,
      3,
-     2,
+     3,
      0
     ],
     "g": [
@@ -291,7 +291,7 @@
      0,
      0,
      0,
-     5,
+     4,
      0,
      0
     ]
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     19,
-     27
+     20,
+     25
     ]
    },
    "trend": {
@@ -365,9 +365,9 @@
     "g": [
      0,
      0,
-     2,
-     11,
-     8,
+     3,
+     9,
+     7,
      4,
      2
     ]
@@ -421,8 +421,8 @@
     ],
     "w": [
      0,
-     5,
-     11
+     4,
+     12
     ]
    },
    "trend": {
@@ -446,7 +446,7 @@
     ],
     "g": [
      0,
-     2,
+     3,
      4,
      1,
      6,
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     7,
+     8,
      26,
-     4
+     3
     ]
    },
    "trend": {
@@ -522,14 +522,14 @@
      0,
      3,
      2,
-     1,
+     2,
      2,
      0
     ],
     "g": [
      0,
      0,
-     1,
+     0,
      1,
      1,
      1,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:22:45.195452+07:00",
+ "updated": "2026-11-01T19:29:21.793189+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Ayo Bandung",
-   30
+   31
   ],
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "RRI.co.id",
-   20
+   22
   ],
   [
    "Kompas.com",
@@ -27,19 +27,23 @@
    11
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   9
+  ],
+  [
    "jabarekspres.com",
-   10
+   7
   ],
   [
    "ANTARA News Jawa Barat",
    7
   ],
   [
-   "Pikiran-Rakyat.com",
-   6
+   "Antarwaktu.com",
+   5
   ],
   [
-   "Antarwaktu.com",
+   "Pikiran-Rakyat.com",
    5
   ],
   [
@@ -47,15 +51,11 @@
    5
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Galamedia News",
+   3
   ],
   [
    "Disway",
-   4
-  ],
-  [
-   "Galamedia News",
    3
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     14,
-     22,
+     16,
+     24,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     10,
+     12,
      4,
      0
     ],
@@ -263,7 +263,7 @@
     ],
     "w": [
      11,
-     7,
+     6,
      5
     ]
    },
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
-     "t": "Diduga Jual Miras Polisi Razia Rumah Warga - RRI.co.id",
+     "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlB1d2xsTUptQXZFX2NxQVBveVdoVEhKTmJsZGp3dXNQUzJPNUpzcGc0UkVFY240NUhGOE4zeV9nRFdNMk1Mc1U5STlxOXYtRXNnNGZJT3diNWlzTlNjYlRPVUdmcm9GLWcxc3I0bktieU1DT0xsWTNRTE1aZVZzSVcyMHZVVXM3MXJLdE1jd20ydw?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "Viral Terduga Pelaku Pelecehan Anak di Margaasih Ditangkap Warga, Polisi Dalami - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkxBc3VYbFo3X0s3eEJ0NUZvRlRzUmF5QVpFdXZOcmNvemdzSTFCMzlFS1JiLTNTbnJSM1JIeUFuSzFwRVdlY1pTYlV4MjdURkVDcnliYkUtbTdxZllyVjVZY21UWkxtb1NEb0dyZXAzU2xUdjBmLVBUVkx0OElLTzNlMTVsZzBVT0xYTnJZa2p0Vm1DZ296XzNZdUp6cXZlRWppSEkyT1hKcXg0aDRPTHFQNkxoaU5CLU1mVWt6c01wNzB1Z3RwT9IBzgFBVV95cUxNbDhNLU8tVUNoeGhxRXB4eVFWa0xVZXZzbi1ZQ0hCalVWZnNEMnFJaUgwQzNjdFpINnh3Ry1FdUJ0ZmVWVWVfTWlPMXA0V1Z1ck9FR0ExRm55Ulp1SlFEUkV4Z0RzNFRfWU45SVlCekgtQnRHMW16SEZSVDd0UkljS0tiRkdsTXFZSlhyWDB0MjlVUzAzbFNGM2VKR3NocnZVbzVKVThoSF96ZlVVZkRQM1BFUnRkUTZGTnNVWW8wUE91Y1N2NzFrLXBLLWRRUQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWExvUnFFSUMyeWJVSmIwM3Y5WUdQRWVwdDRsN3FBV09PLXZqb2RXV2JOMXhxVE1WT1VDbVJYVnFBVVhNUHljTG9aTGFYS0kwMnNxOVdjNkk2WkZCUEp3RUtHMXYxQ2pwalFwMjQ2Nlk4REYyMmcyalRvNTFWcEd5azdyYV9BZjlzNkhSTjRHVTIxYXNhN1pNajJjSl9BSW5PY01DZWlyVEJUa2tscW14Z1FhdWlhTFBpZmxVN2tZY1A?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Terungkap, Bisnis Live Pornografi Berkedok Website di Bandung Raup Rp 750 Juta, 2 Orang Ditangkap - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlhrLS10aGQwQktCTC0xQ1BxMFFjcWo1eUZFcEw2S2RoeDJ0MjdTU253Z0lscFdpakEwS1NiT25DU29tYk5oYXh3UnNxLXhhVmloaUNIZHRPNVktanBQZEEzb2NFRjJGZVFMQzF2UzZyMHhnVmxFRDZiNFQyQUVLWHFjaUo5SVk1TU9iaV9mQVlhSWJRc0J5N1ptM3FZQjdNWHdNUWpDY1o2NUJlT3J2SVBoQXBtLU5kQnFTS005TmRpdE5HWE5ZOTJaYzJIdzhFVVFNcy10Vk1SZVQ1aFRV?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     24,
-     27
+     21,
+     28
     ]
    },
    "trend": {
@@ -366,10 +366,10 @@
      0,
      0,
      1,
-     11,
-     9,
+     12,
+     8,
      4,
-     2
+     3
     ]
    }
   },
@@ -383,22 +383,22 @@
    ],
    "h": [
     {
+     "t": "Mengenal Jalan Layang Mochtar Kusumaatmadja, Ikon Bandung dengan Bentang Kabel 161 Meter - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWU5Q2o4bzZUM1NPV08xUF9FZEVPUFJmSk41c21JRkgzMm1xTTkxeG5BYlZsRVRhQWdReGZEUmgydkEyLWM4RURmcF9LZ3FvTUNmcmFmbndydmVmR1hlU0xtaEliSWFCdkxwYXMzbkFQS3RzRl9uRTlvWnJQazJaWDJyRjhSTnk0MXBSUmpqeGtlTjgwaC02eW1CNGxYYjZkQUVoT3pBQlR5RXppeVVNaUQtQWNUbTVqSzUwa0NIcGZ6cEJ4OFkxTWZiM09yMFl2RWNvMtIB2gFBVV95cUxQVmd0UzBTamF3bDU4TExVQnI5S1JUcV9hamN1T1VpdXdhWmMzNDRRQ0F4YnZfbDVJb29uSVE3YnB6eWc1SmxrRzlSNy02Nzc3ZUxxZXZzSlhmT1k0b1VRbHdROWZ6ZWhfRzVCX29RMUIwQ2tjQU5QVm9FbWMwTEVhdW5paFlwcFZYNF9yVGVmTjZNVGJXMmd5blM4cDJ1dmlxck1zQ3hieFlZYUJoQTlYdkJQWW95RGRYaHR1MTFBV015SVhjNVV0WnQxZlhoeEg0T3ZZaktTSGp1UQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Warga Harapkan Perbaikan Arena Playground di Taman Superhero Bandung - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDBPR0t6TXk5QkJUZ2JvRU1ZVXc0UjBVemhDQ0k5T3djSTBiYko4OC1CSzN2Q0RwVDNhNHExbExyRnN4NVlqSXRwMmc4VTdtRE1nNlEzSU9ESzBwVlpmMXQ5Tmw0Mlo4Y2hlU09zZWREOW5UVkd1eDYwcUZoZkUtTDJZbndXSjk1SXVZaV9TWElZZWVWWVhyclB0c0Q1ZVdRMFlSd2hsSHVrRU5mRGpUNFN3R2dMczdBZzVr0gHAAUFVX3lxTE9odjdIMExOTkl5V1V3SWkzMF9ldGpHZUxHVEJSUUpveWFvNC1MLUtJcXgyMnVGVDRFcGRJWVR0a2NuUV96M1ZwX3QzQkdmQzN3Q3JjVVRoeUdTelRMZERtSS0zMV9oWkdiTE5qajJYTWYtNmQxNlZyR25zaVAyRWFSTzRrQl9jWTJPX3V5VlhNaVdBalZMVEdEaWNHUTZERzZQNi0yZ0sxem1vVldLelBnUUFJN081VmtaUVp2VjJRRg?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Penantian 14 Tahun Warga Cipaganti Bandung untuk Dapat Perbaikan Kirmir Terganggu Banjir - Tribunjabar.id",
+     "t": "Farhan Sebut Tanggul Sungai Cikalintu Jebol akibat Banjir Bandang Dari Lembang - RRI.co.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzNQUFMwYkxuQTBrRl9wS3FDVkdaRHJWaHRXV0FVZTU0WkVSVG1Mdlp6dmNjR1lWcmdhM2UxWjFvNnJaSWszelNmbGFlM3h6NnY0cnpGU2ZFRnBZcm44SktSRnppdjJpVDhDaGlSbEtqZngxLUJ3eGZmdjRDRlNtVjZFTTZVeDQ4LUNsdWxWckZGNGFQUVFSRjBXcjBVVnhkYm1kYV9mLXVhWmVfZFhTNWQ4Qm53cTNyaFFhR0VUMW5sVUlJbEZPd04tXzlucDZ5RHlwTUNn?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "10 Agenda di Bandung Akhir Pekan Ini 31 Oktober–1 November 2026, Waspada Macet - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUllIRDBpbG51MTY1clVsU2c4VWlsOVpOeUZSYTE4aktKOTB6bkdhZHBjcld1ZkFhRWVlckIxSnJ6R1p2Q0dsNWFYTHVnQVR5ZnFVZnRNN0NXMEE0SFNNY3hMdVdIcFdYYmsxRl96WmtaR3MzNkxNUGN1RDFXOXN4amxCRm1CVTZFTEpPMjFmWE85T01rMTFkX1BCRHJkSUdVZ1Brd2p1T3BNYTdpTWpYa2ZzM254eDJMRXhCTDJHaG9TeDBRa0dr?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE0wbWJ1QlBIa1NvaFdqbk1sTk14TWVzbDF4WkFFRGl1Nndrd1MwMWlCRlIzUUdlTkxLRy1xTFBCMkVZRzQ3V2Y0VW1VaVh6TzdVSFVGT1B3bGFXZnRIWDMybGZVYnJmTG54YTJuZUhfXzRINlZrUlRHNW5oQnlrVmktY3NPYmo1LVVTN28wSllXNHZNenF0dUtjV0hQanI0QVliaXBfZFp6MVh0NURocWlFZlkyRWwzNTFnS3Zn?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
@@ -420,7 +420,7 @@
      8
     ],
     "w": [
-     0,
+     2,
      6,
      13
     ]
@@ -439,19 +439,19 @@
      0,
      0,
      0,
+     1,
      0,
      0,
-     0,
-     0
+     1
     ],
     "g": [
      0,
-     2,
+     1,
      5,
      1,
      7,
      3,
-     3
+     4
     ]
    }
   },
@@ -471,16 +471,16 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Kantin Sehat Dorong Terbentuknya Ekosistem Hidup Sehat Sekolah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnRHX3d5VlRmenlzem9KZUFIYXoyelFUUm1IWUVOczM0Q0h6Y0E3WTl2bjBGa01BYV8teU45ZWN1UVlObjhwZkYtT293TTVjUlpxZUl3SkJxNGtMeWVhMzNHYkFFdm14aVRzaHFKRXF6YWQyVzRfeGRGOUc5NHkwT2poQ0pYdUNjcWlqb2dfX1d1NjZFSkJJdFVqSUdCeHkxTERsZGk0Z1B5UQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Jaga Kesehatan dan Kebersamaan di Hari Osteoporosis Nasional - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEtfSzJWNmtaVmZkaDlrZzN6d1F5aDdabml1M01EYkVsR1VMNXUxZlpzc1FGaTc1TmZzcGJoRGFqYW1ncUpsWXUwa180MmI0Y2gyYUxJUGlCWDdEMFV6TGRBQlFweloxdTRmRVFrYzhGMHdmUDg4d1lOX3BkazFHQWdER25zR3paYWxaLXZjeVpGLURTY25icU45dWZwbU5TM0NZZw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kwarcab Gerakan Pramuka Kabupaten Bandung Gelar Panen Raya Ketahanan Pangan di SMP Negeri 2 Banjaran - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb2ZFZGlrVHpMV2NIQVFiQmJUQl9Dc2VMN1F1SHF0S3JUTlhTSDFGSmF1cEJ6bk1kWTVPRG03MWNjN21DZjV4Y2RSQ1RDS09FcklCR1huWTNkOVRVNXBjX1hQREJQMWc0ejVpaEg4ZG5TNHFiTnIxb1J3anpnLTVRZG15SEF4U05DZnhTVWpJRG5QNUpOQW9CSDdyWXhGbTkweTh1THVQOGlidFRfUlVPaG0zdlkzTjJROXJoYmFnYnUwci14RjFudlFYMXc4Qzk0cFhuQ1dvZmlKd3BsMVdtVDRmV3Fna2dmNFVzLQ?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     8,
-     27,
+     9,
+     25,
      3
     ]
    },
@@ -523,7 +523,7 @@
      3,
      2,
      1,
-     3,
+     4,
      0
     ],
     "g": [

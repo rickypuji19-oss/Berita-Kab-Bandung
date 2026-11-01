@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:25:30.255834+07:00",
+ "updated": "2026-11-02T00:21:27.680598+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,39 +8,43 @@
  "portals": [
   [
    "Ayo Bandung",
-   30
-  ],
-  [
-   "RRI.co.id",
-   25
+   28
   ],
   [
    "Tribunjabar.id",
    25
   ],
   [
+   "RRI.co.id",
+   19
+  ],
+  [
    "Kompas.com",
-   14
+   19
   ],
   [
    "Radar Bandung",
-   10
+   12
   ],
   [
    "ANTARA News Jawa Barat",
-   9
+   8
   ],
   [
    "jabarekspres.com",
-   9
+   7
   ],
   [
    "Pikiran-Rakyat.com",
-   6
+   5
   ],
   [
    "Pikiran Rakyat Koran",
-   6
+   5
+  ],
+  [
+   "Antarwaktu.com",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -55,15 +59,11 @@
    3
   ],
   [
-   "Antarwaktu.com",
-   3
-  ],
-  [
    "Koran Gala",
    3
   ],
   [
-   "detikcom",
+   "Radio PRFM",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
+     "r": "Mudanesia"
+    },
+    {
      "t": "Pemkab Bandung mendorong regenerasi petani lewat keterlibatan pemuda - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDdkSy1aV0NHSGZkOExWVEwtQUI0cVVlM203SE5zenMtd3hoQWFZVkU0anRnRlhVQVl0TWxRTy1rY3otX0ZsY2FEVV9XSkR1NldlS2JfV3c5WmJIUFo1eGl6d1ZBRktQR1dNMlh0QzQyc1MwTF81Wl9haFNtYmJQOW5qSUtsS05RaVVUTUlrbkEzMzhwcGIwX091TkxqNnFmdHFoR21UM2YxV1lNd2k0SdIBtgFBVV95cUxOLVBtX3VxLUNhUmtXaGtVdFo5QmUwUkotcnRVdktkel9QWE80SzU3UDQ3eDNudWc2T3F5cjBqRmtPdVdwb1VLMWs0cnlONWp2OXBlb3RGWlZ3UHhsWVl2Q3FFRG5iOXNTSzhwSjVnSndtcElPNXpmQzVpS3pDaElod1RtMXVFcFkyRnRIUXdYZ09Ub2dYd2JoMDNwZFdvdkpTcXBsb2dGUm1WWEVhR1M5QnZieDZEZw?oc=5",
@@ -91,62 +97,50 @@
      "r": "PenaKuID"
     },
     {
-     "t": "Antisipasi Penimbunan Gas Elpiji Pemkab Edukasi Para Agen - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjdaaGI2T0tXRkV0RDVoajE0c1UzTGR2TEIxa0hVck1XTHo1YXJRcURfQnZVLVlrckVwUVhIa05OOVhLZTNfLW1sMzdpelhsZ25Qd1lqUUtzM2hLVTRXZGxzbUViU2hjWU92T05JR3FHeE95VjR3T0VUUnYyeGZwai1COHBOdWFuOXlEMk90MHdLZW1TdEEyemd5MlRYRWpVX1E?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Survey kavling ruko di soreang residence bandung",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=Wy93J4C2uTw",
      "r": "YouTube Adrian Adam Property Network"
-    },
-    {
-     "t": "Seru Banget! Jalan-Jalan, Olahraga, & Kulineran di Pemkab Bandung | Vlog Soreang",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=uPClyLUFpcg",
-     "r": "YouTube SEPULUHSEMBILANVICTUS"
     }
    ],
    "v": {
     "s": [
-     2,
+     1,
      0,
      0
     ],
     "w": [
-     13,
-     24,
+     14,
+     23,
      1
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      0,
      1,
      8,
      4,
-     1
+     2,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
+     0,
      0
     ]
    }
@@ -186,28 +180,28 @@
      0
     ],
     "w": [
-     11,
+     10,
      17,
      0
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      1,
      4,
      0,
      4,
      1,
+     0,
      0
     ],
     "g": [
@@ -262,36 +256,36 @@
      0
     ],
     "w": [
-     13,
+     11,
      8,
      5
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      1,
-     2,
-     2,
      1,
+     2,
      3,
      3,
-     1
+     1,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      5,
+     0,
      0,
      0
     ]
@@ -313,16 +307,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Polisi Amankan Penjual Keripik Terduga Pelaku Pelecehan Seksual Anak di Bawah Umur di Margaasih - Pikiran-Rakyat.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlJrbHAzbFRfWlFoZzB6alVIN3gtdTJna0ZzVE9nRmUtaVdXNHkxNTJlSVhEeDNFUDBYTm1ON01OT29UdlR2cnNwemxaMWJ1RFRWQmxqWksyQ3Z3WjF2Skw5Um0yd1hGN1JidjZQaUlUenB2Qmo0MHdfVy1odUV3TnIwRkt4c1R6Um1TUnlOQzVOanJWZkt1YlBuN2VuZmUwdmZsUHg0RHAtQlVxZm1acFZiOFFkUlNyOXVJd0FfYXhnOFNqdlFoaWlXcEVJMFNxSFZYVnBsbHRNMkQ3bEHSAeMBQVVfeXFMTUMwUTFDalF0NWN4UldwTlpPZWhSYzBXOV9La1FCUU1vOWRuUUtjYkl5R0hXVklraWpja2lHYl9BS05uNFMtQW1zV0pMblgtWjlsYmNPVzBsNlpmNkpaYkZEZkZySHlTV2FQS2w0SnFMal9MZHJURnJURUQ5SkRGMHpqMHNBNXFzT3FzM1NpSUduSzVmbWY0VXdqRUNTS0xLODIwTS1QaGZTM1BuSlRIOV9KRkNVZDF4T1p0VUFyNGRBcWVGSjQ2OUdnZEZKcUxSRUJlSlFFbEVRdGVsZXRkbW95N0E?oc=5",
+     "r": "Pikiran-Rakyat.com"
+    },
+    {
      "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Viral Pria di Margaasih Lecehkan Anak Perempuan, Polisi Langsung Amankan Pelaku - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXh6NThWUnRNODR2a0hQeVRCTVZmZGFhZVVmem4yaV9mbktPakRyWjU0YlBVZDgwOWdITXBkcENIV2g1NGppWll1M2ZuZGdEVHE4ZWc3TWI2cFcwX3g1LWFpSElzbDJpdVVqSWdHQUl6RklxeWM5UlhmTWgzR0lzazR1a2hraTFEcVhXTk82bHRhVWtUWVNySTJXb1lFM0J3RWJLa0tkU3JxSnJNQ3QxMTFkMm1JclFxcDlrUHhwNGdZa1g1VlgzRQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -339,24 +333,24 @@
     ],
     "w": [
      1,
-     26,
-     22
+     25,
+     26
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
-     0,
      1,
+     0,
      0,
      0,
      0,
@@ -364,12 +358,12 @@
     ],
     "g": [
      0,
-     0,
      1,
-     7,
-     7,
+     10,
+     8,
      4,
-     3
+     3,
+     0
     ]
    }
   },
@@ -383,21 +377,21 @@
    ],
    "h": [
     {
-     "t": "Diduga Microsleep, Honda Brio Tabrak Tiga Kendaraan di Jalan AH Nasution Bandung - RRI.co.id",
+     "t": "Lurah Cibeunying Tinjau Pembangunan Infrastruktur, Pastikan Program PSPKB 2026 Tepat Sasaran - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmxCTmVfQi12aHRQLVVfbHpJSjVZZ0xzeDBxYTRVUW5VVkw5TXJ1UHlGYkxOUmo1U2RySnA4QlpkX0xuWUN2OUJuOU9DLVVjdjhKbTVqX0p0TnVJaXZVQ3JVa2JVWnpKQXIxamxURlBtVV9LamE5YTBIejVha3o2V3J3RWdXTkFwR0xHZEYzTWlGOTV1S3BXSHcteVU0UkhyN3h1cFc3b2NFVDYyOE5mZDVjV05sR3VMTDgzZVNaUQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Kecelakaan Tunggal di Jalan AH Nasution Bandung, Satu Orang Luka Berat - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM09pZURXaUp5WG5OVnNod19icWMxeUJqYVhUcTRoczhhMklSbVJnXzBqbWVxd0c5enRBZS0za0EyZ3FGLU1VaTI2TnA0aFVOeE1IWmVZTHFkVXhMX2pVNlRYQXp3UktZdzFFS3pKeTgxeGdyOEdjSzZPaDdQZE5FSDlGWTgyWnZCbkpmSXhFYmZ0SjZITW1vOG1DaFhlYVppZVJHRThBOWwyNEQzS1NXQ0hR?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWZXZ1FIeG03cXhscEV2b0t5am4zU3pWUEdLeTBZTXpLZndNOUt2SUNpNk9iYzhsY05HeDhJLXZFWVBnQkpsR1VkdkVYd05nZ3FFX3BPZWFFemI3MUlTekpodlBKVjdoWWo5aU9ibmdlZGQwamg5cmNVM2Q1ZmdWZ2RVZlBjMGlHQ3BsMHVaZ3M1dVpSZDJYb2thRzRURV9CNV9RcW5VZTE5V2xnRGtJWTVnRnRzczdibFRIaTB0Z05GODBWUVdPdnZyb1o5OFQwZVlmaVJfdDhXS3RGeGo0?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Mengenal Jalan Layang Mochtar Kusumaatmadja, Ikon Bandung dengan Bentang Kabel 161 Meter - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWU5Q2o4bzZUM1NPV08xUF9FZEVPUFJmSk41c21JRkgzMm1xTTkxeG5BYlZsRVRhQWdReGZEUmgydkEyLWM4RURmcF9LZ3FvTUNmcmFmbndydmVmR1hlU0xtaEliSWFCdkxwYXMzbkFQS3RzRl9uRTlvWnJQazJaWDJyRjhSTnk0MXBSUmpqeGtlTjgwaC02eW1CNGxYYjZkQUVoT3pBQlR5RXppeVVNaUQtQWNUbTVqSzUwa0NIcGZ6cEJ4OFkxTWZiM09yMFl2RWNvMtIB2gFBVV95cUxQVmd0UzBTamF3bDU4TExVQnI5S1JUcV9hamN1T1VpdXdhWmMzNDRRQ0F4YnZfbDVJb29uSVE3YnB6eWc1SmxrRzlSNy02Nzc3ZUxxZXZzSlhmT1k0b1VRbHdROWZ6ZWhfRzVCX29RMUIwQ2tjQU5QVm9FbWMwTEVhdW5paFlwcFZYNF9yVGVmTjZNVGJXMmd5blM4cDJ1dmlxck1zQ3hieFlZYUJoQTlYdkJQWW95RGRYaHR1MTFBV015SVhjNVV0WnQxZlhoeEg0T3ZZaktTSGp1UQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "Warga Harapkan Perbaikan Arena Playground di Taman Superhero Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDBPR0t6TXk5QkJUZ2JvRU1ZVXc0UjBVemhDQ0k5T3djSTBiYko4OC1CSzN2Q0RwVDNhNHExbExyRnN4NVlqSXRwMmc4VTdtRE1nNlEzSU9ESzBwVlpmMXQ5Tmw0Mlo4Y2hlU09zZWREOW5UVkd1eDYwcUZoZkUtTDJZbndXSjk1SXVZaV9TWElZZWVWWVhyclB0c0Q1ZVdRMFlSd2hsSHVrRU5mRGpUNFN3R2dMczdBZzVr0gHAAUFVX3lxTE9odjdIMExOTkl5V1V3SWkzMF9ldGpHZUxHVEJSUUpveWFvNC1MLUtJcXgyMnVGVDRFcGRJWVR0a2NuUV96M1ZwX3QzQkdmQzN3Q3JjVVRoeUdTelRMZERtSS0zMV9oWkdiTE5qajJYTWYtNmQxNlZyR25zaVAyRWFSTzRrQl9jWTJPX3V5VlhNaVdBalZMVEdEaWNHUTZERzZQNi0yZ0sxem1vVldLelBnUUFJN081VmtaUVp2VjJRRg?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -420,38 +414,38 @@
      8
     ],
     "w": [
-     2,
+     1,
      6,
-     13
+     12
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
      0,
      0,
+     0,
+     0,
      1,
-     0,
-     0,
-     1
+     0
     ],
     "g": [
-     0,
      2,
      5,
      1,
      6,
      3,
-     4
+     3,
+     0
     ]
    }
   },
@@ -497,42 +491,42 @@
    ],
    "v": {
     "s": [
-     2,
-     3,
+     1,
+     1,
      0
     ],
     "w": [
      7,
-     24,
+     26,
      3
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      3,
      2,
      0,
      3,
+     0,
      0
     ],
     "g": [
      0,
      0,
+     1,
+     1,
+     1,
      0,
-     1,
-     1,
-     1,
      0
     ]
    }

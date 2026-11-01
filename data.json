@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:24:06.893184+07:00",
+ "updated": "2026-11-01T23:25:30.255834+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
-   33
-  ],
-  [
-   "Tribunjabar.id",
-   24
+   30
   ],
   [
    "RRI.co.id",
-   21
+   25
+  ],
+  [
+   "Tribunjabar.id",
+   25
   ],
   [
    "Kompas.com",
-   18
+   14
   ],
   [
    "Radar Bandung",
@@ -28,23 +28,19 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   9
   ],
   [
    "jabarekspres.com",
-   8
+   9
   ],
   [
    "Pikiran-Rakyat.com",
-   5
+   6
   ],
   [
    "Pikiran Rakyat Koran",
-   5
-  ],
-  [
-   "Antarwaktu.com",
-   4
+   6
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -59,11 +55,15 @@
    3
   ],
   [
+   "Antarwaktu.com",
+   3
+  ],
+  [
    "Koran Gala",
    3
   ],
   [
-   "Radio PRFM",
+   "detikcom",
    3
   ]
  ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      11,
-     18,
+     17,
      0
     ]
    },
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     11,
-     9,
+     13,
+     8,
      5
     ]
    },
@@ -279,11 +279,11 @@
     ],
     "p": [
      1,
-     1,
-     1,
      2,
+     2,
+     1,
      3,
-     2,
+     3,
      1
     ],
     "g": [
@@ -313,16 +313,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Polisi Amankan Penjual Keripik Terduga Pelaku Pelecehan Seksual Anak di Bawah Umur di Margaasih - Pikiran-Rakyat.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlJrbHAzbFRfWlFoZzB6alVIN3gtdTJna0ZzVE9nRmUtaVdXNHkxNTJlSVhEeDNFUDBYTm1ON01OT29UdlR2cnNwemxaMWJ1RFRWQmxqWksyQ3Z3WjF2Skw5Um0yd1hGN1JidjZQaUlUenB2Qmo0MHdfVy1odUV3TnIwRkt4c1R6Um1TUnlOQzVOanJWZkt1YlBuN2VuZmUwdmZsUHg0RHAtQlVxZm1acFZiOFFkUlNyOXVJd0FfYXhnOFNqdlFoaWlXcEVJMFNxSFZYVnBsbHRNMkQ3bEHSAeMBQVVfeXFMTUMwUTFDalF0NWN4UldwTlpPZWhSYzBXOV9La1FCUU1vOWRuUUtjYkl5R0hXVklraWpja2lHYl9BS05uNFMtQW1zV0pMblgtWjlsYmNPVzBsNlpmNkpaYkZEZkZySHlTV2FQS2w0SnFMal9MZHJURnJURUQ5SkRGMHpqMHNBNXFzT3FzM1NpSUduSzVmbWY0VXdqRUNTS0xLODIwTS1QaGZTM1BuSlRIOV9KRkNVZDF4T1p0VUFyNGRBcWVGSjQ2OUdnZEZKcUxSRUJlSlFFbEVRdGVsZXRkbW95N0E?oc=5",
-     "r": "Pikiran-Rakyat.com"
-    },
-    {
      "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Viral Pria di Margaasih Lecehkan Anak Perempuan, Polisi Langsung Amankan Pelaku - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXh6NThWUnRNODR2a0hQeVRCTVZmZGFhZVVmem4yaV9mbktPakRyWjU0YlBVZDgwOWdITXBkcENIV2g1NGppWll1M2ZuZGdEVHE4ZWc3TWI2cFcwX3g1LWFpSElzbDJpdVVqSWdHQUl6RklxeWM5UlhmTWgzR0lzazR1a2hraTFEcVhXTk82bHRhVWtUWVNySTJXb1lFM0J3RWJLa0tkU3JxSnJNQ3QxMTFkMm1JclFxcDlrUHhwNGdZa1g1VlgzRQ?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -338,9 +338,9 @@
      0
     ],
     "w": [
-     0,
+     1,
      26,
-     27
+     22
     ]
    },
    "trend": {
@@ -356,7 +356,7 @@
     "p": [
      0,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -366,8 +366,8 @@
      0,
      0,
      1,
-     10,
-     9,
+     7,
+     7,
      4,
      3
     ]
@@ -383,22 +383,22 @@
    ],
    "h": [
     {
+     "t": "Diduga Microsleep, Honda Brio Tabrak Tiga Kendaraan di Jalan AH Nasution Bandung - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmxCTmVfQi12aHRQLVVfbHpJSjVZZ0xzeDBxYTRVUW5VVkw5TXJ1UHlGYkxOUmo1U2RySnA4QlpkX0xuWUN2OUJuOU9DLVVjdjhKbTVqX0p0TnVJaXZVQ3JVa2JVWnpKQXIxamxURlBtVV9LamE5YTBIejVha3o2V3J3RWdXTkFwR0xHZEYzTWlGOTV1S3BXSHcteVU0UkhyN3h1cFc3b2NFVDYyOE5mZDVjV05sR3VMTDgzZVNaUQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Kecelakaan Tunggal di Jalan AH Nasution Bandung, Satu Orang Luka Berat - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM09pZURXaUp5WG5OVnNod19icWMxeUJqYVhUcTRoczhhMklSbVJnXzBqbWVxd0c5enRBZS0za0EyZ3FGLU1VaTI2TnA0aFVOeE1IWmVZTHFkVXhMX2pVNlRYQXp3UktZdzFFS3pKeTgxeGdyOEdjSzZPaDdQZE5FSDlGWTgyWnZCbkpmSXhFYmZ0SjZITW1vOG1DaFhlYVppZVJHRThBOWwyNEQzS1NXQ0hR?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Mengenal Jalan Layang Mochtar Kusumaatmadja, Ikon Bandung dengan Bentang Kabel 161 Meter - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWU5Q2o4bzZUM1NPV08xUF9FZEVPUFJmSk41c21JRkgzMm1xTTkxeG5BYlZsRVRhQWdReGZEUmgydkEyLWM4RURmcF9LZ3FvTUNmcmFmbndydmVmR1hlU0xtaEliSWFCdkxwYXMzbkFQS3RzRl9uRTlvWnJQazJaWDJyRjhSTnk0MXBSUmpqeGtlTjgwaC02eW1CNGxYYjZkQUVoT3pBQlR5RXppeVVNaUQtQWNUbTVqSzUwa0NIcGZ6cEJ4OFkxTWZiM09yMFl2RWNvMtIB2gFBVV95cUxQVmd0UzBTamF3bDU4TExVQnI5S1JUcV9hamN1T1VpdXdhWmMzNDRRQ0F4YnZfbDVJb29uSVE3YnB6eWc1SmxrRzlSNy02Nzc3ZUxxZXZzSlhmT1k0b1VRbHdROWZ6ZWhfRzVCX29RMUIwQ2tjQU5QVm9FbWMwTEVhdW5paFlwcFZYNF9yVGVmTjZNVGJXMmd5blM4cDJ1dmlxck1zQ3hieFlZYUJoQTlYdkJQWW95RGRYaHR1MTFBV015SVhjNVV0WnQxZlhoeEg0T3ZZaktTSGp1UQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Warga Harapkan Perbaikan Arena Playground di Taman Superhero Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDBPR0t6TXk5QkJUZ2JvRU1ZVXc0UjBVemhDQ0k5T3djSTBiYko4OC1CSzN2Q0RwVDNhNHExbExyRnN4NVlqSXRwMmc4VTdtRE1nNlEzSU9ESzBwVlpmMXQ5Tmw0Mlo4Y2hlU09zZWREOW5UVkd1eDYwcUZoZkUtTDJZbndXSjk1SXVZaV9TWElZZWVWWVhyclB0c0Q1ZVdRMFlSd2hsSHVrRU5mRGpUNFN3R2dMczdBZzVr0gHAAUFVX3lxTE9odjdIMExOTkl5V1V3SWkzMF9ldGpHZUxHVEJSUUpveWFvNC1MLUtJcXgyMnVGVDRFcGRJWVR0a2NuUV96M1ZwX3QzQkdmQzN3Q3JjVVRoeUdTelRMZERtSS0zMV9oWkdiTE5qajJYTWYtNmQxNlZyR25zaVAyRWFSTzRrQl9jWTJPX3V5VlhNaVdBalZMVEdEaWNHUTZERzZQNi0yZ0sxem1vVldLelBnUUFJN081VmtaUVp2VjJRRg?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Penantian 14 Tahun Warga Cipaganti Bandung untuk Dapat Perbaikan Kirmir Terganggu Banjir - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzNQUFMwYkxuQTBrRl9wS3FDVkdaRHJWaHRXV0FVZTU0WkVSVG1Mdlp6dmNjR1lWcmdhM2UxWjFvNnJaSWszelNmbGFlM3h6NnY0cnpGU2ZFRnBZcm44SktSRnppdjJpVDhDaGlSbEtqZngxLUJ3eGZmdjRDRlNtVjZFTTZVeDQ4LUNsdWxWckZGNGFQUVFSRjBXcjBVVnhkYm1kYV9mLXVhWmVfZFhTNWQ4Qm53cTNyaFFhR0VUMW5sVUlJbEZPd04tXzlucDZ5RHlwTUNn?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
@@ -420,7 +420,7 @@
      8
     ],
     "w": [
-     1,
+     2,
      6,
      13
     ]
@@ -439,7 +439,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      1
@@ -449,9 +449,9 @@
      2,
      5,
      1,
-     7,
+     6,
      3,
-     3
+     4
     ]
    }
   },
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     8,
+     7,
      24,
      3
     ]
@@ -522,7 +522,7 @@
      0,
      3,
      2,
-     1,
+     0,
      3,
      0
     ],

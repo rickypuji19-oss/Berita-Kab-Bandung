@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T17:26:55.331596+07:00",
+ "updated": "2026-11-01T18:22:45.195452+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Ayo Bandung",
-   28
+   30
   ],
   [
    "Tribunjabar.id",
@@ -16,11 +16,11 @@
   ],
   [
    "RRI.co.id",
-   19
+   20
   ],
   [
    "Kompas.com",
-   14
+   19
   ],
   [
    "Radar Bandung",
@@ -35,19 +35,19 @@
    7
   ],
   [
+   "Pikiran-Rakyat.com",
+   6
+  ],
+  [
+   "Antarwaktu.com",
+   5
+  ],
+  [
    "Pikiran Rakyat Koran",
    5
   ],
   [
-   "Antarwaktu.com",
-   4
-  ],
-  [
    "Pemerintah Kabupaten Bandung",
-   4
-  ],
-  [
-   "Pikiran-Rakyat.com",
    4
   ],
   [
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     13,
+     14,
      22,
      1
     ]
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     9,
+     10,
      4,
      0
     ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
+     "r": "MOST 1058"
+    },
+    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
+     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
-     "r": "Bale Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
+     "r": "Pikiran-Rakyat.com"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     11,
-     18,
+     15,
+     22,
      0
     ]
    },
@@ -205,9 +205,9 @@
      1,
      1,
      4,
-     0,
-     4,
      1,
+     5,
+     3,
      0
     ],
     "g": [
@@ -237,16 +237,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Samsung Umumkan Pemenang Solve for Tomorrow 2026, Tim BryotechAlpha dan I-SEUNG Raih Juara Pertama - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemxIaE9ORkNhZWJPSjV5eGFzLXJ3N0tseDBDcFhSSTJGT2FOMGlPYUdrVUZfelZOSmg1S1hQeWh0RmpMUThmZlp6WTFRU2hRWEU3cEJTendjSEpPcWltaVVmcjFEcFhsMkE4YTJ5bmo2OTM4UkR4LVQ5MmtwOHN6bDYtM185aVdTRTRLMVdGUEU0azhoM25MVmlNakhkZ2ozVElIUUdXY1J2WDBYOFd5RFdHV2xqd2tpWDlyc2t4azRhbW1sckdESE1xTFh4a190R0FQUzBVQVpqVjA1aFlrR0Nn0gHnAUFVX3lxTFBQZ1JGUS1CbjQwRUE1U25YcHRjR1hrUVhhbkwyUzkwRGZ1OHlQX2xKQlZpQXlZNHVFQ3VzcjJvT0FaallNdE5MSjlXdzNQTVVpeUZyRjBpYXBNaElacVVKM3RkX21aN2ZuaFB2c1BRMmQ4TjVUNmJLamo5bjdGNUN3QUxIMWZrbS0tSk1JcGwwNHI4a3dkY1l0M0t1YVpteXlMN2tXVlE0QS1kbVdiTFkzT2c2QWZpVEJCU1hiTlZ5dW9CN2FxRmM1TnNOa1VGZUtwZFJ6UlZHSlp6b2xlaEVsSmpTSXplQQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Petani Kopi Lembang Buktikan Bisnis Hijau Bisa Mendunia dan Menguntungkan - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -262,9 +262,9 @@
      0
     ],
     "w": [
-     10,
+     11,
      7,
-     4
+     5
     ]
    },
    "trend": {
@@ -284,14 +284,14 @@
      2,
      3,
      2,
-     0
+     1
     ],
     "g": [
      0,
      0,
      0,
      0,
-     4,
+     5,
      0,
      0
     ]
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     23,
-     24
+     24,
+     27
     ]
    },
    "trend": {
@@ -366,8 +366,8 @@
      0,
      0,
      1,
+     11,
      9,
-     8,
      4,
      2
     ]
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Warga Harapkan Perbaikan Arena Playground di Taman Superhero Bandung - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDBPR0t6TXk5QkJUZ2JvRU1ZVXc0UjBVemhDQ0k5T3djSTBiYko4OC1CSzN2Q0RwVDNhNHExbExyRnN4NVlqSXRwMmc4VTdtRE1nNlEzSU9ESzBwVlpmMXQ5Tmw0Mlo4Y2hlU09zZWREOW5UVkd1eDYwcUZoZkUtTDJZbndXSjk1SXVZaV9TWElZZWVWWVhyclB0c0Q1ZVdRMFlSd2hsSHVrRU5mRGpUNFN3R2dMczdBZzVr0gHAAUFVX3lxTE9odjdIMExOTkl5V1V3SWkzMF9ldGpHZUxHVEJSUUpveWFvNC1MLUtJcXgyMnVGVDRFcGRJWVR0a2NuUV96M1ZwX3QzQkdmQzN3Q3JjVVRoeUdTelRMZERtSS0zMV9oWkdiTE5qajJYTWYtNmQxNlZyR25zaVAyRWFSTzRrQl9jWTJPX3V5VlhNaVdBalZMVEdEaWNHUTZERzZQNi0yZ0sxem1vVldLelBnUUFJN081VmtaUVp2VjJRRg?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Penantian 14 Tahun Warga Cipaganti Bandung untuk Dapat Perbaikan Kirmir Terganggu Banjir - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzNQUFMwYkxuQTBrRl9wS3FDVkdaRHJWaHRXV0FVZTU0WkVSVG1Mdlp6dmNjR1lWcmdhM2UxWjFvNnJaSWszelNmbGFlM3h6NnY0cnpGU2ZFRnBZcm44SktSRnppdjJpVDhDaGlSbEtqZngxLUJ3eGZmdjRDRlNtVjZFTTZVeDQ4LUNsdWxWckZGNGFQUVFSRjBXcjBVVnhkYm1kYV9mLXVhWmVfZFhTNWQ4Qm53cTNyaFFhR0VUMW5sVUlJbEZPd04tXzlucDZ5RHlwTUNn?oc=5",
@@ -392,12 +398,6 @@
      "t": "10 Agenda di Bandung Akhir Pekan Ini 31 Oktober–1 November 2026, Waspada Macet - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUllIRDBpbG51MTY1clVsU2c4VWlsOVpOeUZSYTE4aktKOTB6bkdhZHBjcld1ZkFhRWVlckIxSnJ6R1p2Q0dsNWFYTHVnQVR5ZnFVZnRNN0NXMEE0SFNNY3hMdVdIcFdYYmsxRl96WmtaR3MzNkxNUGN1RDFXOXN4amxCRm1CVTZFTEpPMjFmWE85T01rMTFkX1BCRHJkSUdVZ1Brd2p1T3BNYTdpTWpYa2ZzM254eDJMRXhCTDJHaG9TeDBRa0dr?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kondisi Terkini Rumah Warga Cipaganti Bandung Usai Diterjang Banjir Akibat Tanggul Jebol - Halaman 2 - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb01WbGNlYklkVlloUEZqX19EdlFpRVliMVZhUjZSY2llZFZJeHZZV3hKTk9HSmxDSUFiRVZEQm9CZmVxTlR0SDhMQ0c3SFNRR3JvT1NYM3hIVlB0Q0V6djZvd3FqbkpJNDZjOUh4a1k5SFZlbnpKcHZDQ3JKWlJucXp2R3pIZnFOSU5TN0dUSlZZMURVa2VteDZIU2Q0YkN3WWRqYnZQSHdoVWFHcXdnT0R3SnVxMnU4YWVRU2plYjg0d3FuUzUzQ2Jjbmg3VUF4MEpEc3IxeUdJUXEzSVdj?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,7 +421,7 @@
     ],
     "w": [
      0,
-     5,
+     6,
      13
     ]
    },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Ratusan Pengurus Laskar Prabowo 08 Jawa Barat Mulai Konsolidasi di Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0tuSTRrUGt6YnhNdHVzckJrYmxsLWJZTnJuZ2xTRVpOWFhQU0kxYzVGYnAwc1NsU3ZqTmNndkRiSHhILVhSa3FPU0xqeVlsVEFXbnh6eEdNU2hxS0prYTJVZmVsdHFnb0s1NGo3Z3ZIdUVBN3ZpcXc2Rmt1S09jbFR2RnVBenNBbDBybktmNl9jN1B6dzVheDBDWC1ndzRmc1pYc2RSWGhqZVo0c0Y0R2xoS015LS1ta196ZGhqZTRfVUU?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Jaga Kesehatan dan Kebersamaan di Hari Osteoporosis Nasional - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEtfSzJWNmtaVmZkaDlrZzN6d1F5aDdabml1M01EYkVsR1VMNXUxZlpzc1FGaTc1TmZzcGJoRGFqYW1ncUpsWXUwa180MmI0Y2gyYUxJUGlCWDdEMFV6TGRBQlFweloxdTRmRVFrYzhGMHdmUDg4d1lOX3BkazFHQWdER25zR3paYWxaLXZjeVpGLURTY25icU45dWZwbU5TM0NZZw?oc=5",
@@ -474,12 +480,6 @@
      "t": "Kwarcab Gerakan Pramuka Kabupaten Bandung Gelar Panen Raya Ketahanan Pangan di SMP Negeri 2 Banjaran - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb2ZFZGlrVHpMV2NIQVFiQmJUQl9Dc2VMN1F1SHF0S3JUTlhTSDFGSmF1cEJ6bk1kWTVPRG03MWNjN21DZjV4Y2RSQ1RDS09FcklCR1huWTNkOVRVNXBjX1hQREJQMWc0ejVpaEg4ZG5TNHFiTnIxb1J3anpnLTVRZG15SEF4U05DZnhTVWpJRG5QNUpOQW9CSDdyWXhGbTkweTh1THVQOGlidFRfUlVPaG0zdlkzTjJROXJoYmFnYnUwci14RjFudlFYMXc4Qzk0cFhuQ1dvZmlKd3BsMVdtVDRmV3Fna2dmNFVzLQ?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
      "r": "Galamedia News"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     26,
+     27,
      3
     ]
    },

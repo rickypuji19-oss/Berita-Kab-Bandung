@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:21:27.680598+07:00",
+ "updated": "2026-11-02T01:25:41.263510+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
-   28
+   31
   ],
   [
    "Tribunjabar.id",
    25
   ],
   [
-   "RRI.co.id",
+   "Kompas.com",
    19
   ],
   [
-   "Kompas.com",
-   19
+   "RRI.co.id",
+   18
   ],
   [
    "Radar Bandung",
@@ -36,7 +36,7 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   5
+   6
   ],
   [
    "Pikiran Rakyat Koran",
@@ -51,11 +51,11 @@
    4
   ],
   [
-   "Disway",
-   4
+   "Galamedia News",
+   3
   ],
   [
-   "Galamedia News",
+   "Disway",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Diboikot MUI Ibun, Ustaz Nana Gerhana Dampingi Bupati Bandung Resmikan MI di Cimaung - | kejakimpolnews.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTC10WWM5T2pabWhKZlpHYzByNFZSZUlPdktSbW5qNW9uWUltZGh4Qy1wdVhMOFJEMFNjSFc3cW5NV1Bmc191RGdUcTNzUUdtUkstYVNvbGltb21qMlR5Yk5mNTkxOGFBS2RvZGNpMW1fYmE5ZUZydkZHNGFHUmlpcW5PWG9fOVJtUk5fbXRWbVFPN3RJdmZqYUpPSElGa29uektUR1JHNTBwVTJDbU1tdzdXbS1jd1B2ai1pT1daWTN3SEc0eGVpZ0ZYMW04eFU?oc=5",
+     "r": "| kejakimpolnews.com"
+    },
+    {
      "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDdkSy1aV0NHSGZkOExWVEwtQUI0cVVlM203SE5zenMtd3hoQWFZVkU0anRnRlhVQVl0TWxRTy1rY3otX0ZsY2FEVV9XSkR1NldlS2JfV3c5WmJIUFo1eGl6d1ZBRktQR1dNMlh0QzQyc1MwTF81Wl9haFNtYmJQOW5qSUtsS05RaVVUTUlrbkEzMzhwcGIwX091TkxqNnFmdHFoR21UM2YxV1lNd2k0SdIBtgFBVV95cUxOLVBtX3VxLUNhUmtXaGtVdFo5QmUwUkotcnRVdktkel9QWE80SzU3UDQ3eDNudWc2T3F5cjBqRmtPdVdwb1VLMWs0cnlONWp2OXBlb3RGWlZ3UHhsWVl2Q3FFRG5iOXNTSzhwSjVnSndtcElPNXpmQzVpS3pDaElod1RtMXVFcFkyRnRIUXdYZ09Ub2dYd2JoMDNwZFdvdkpTcXBsb2dGUm1WWEVhR1M5QnZieDZEZw?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "SMP Yatsrib di Kabupaten Bandung Direvitalisasi, Siswa Segera Nikmati Fasilitas Baru - PenaKuID",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkFwV1AzVmItSndYaXRSZGpJd210VXhqS1JVSFREclM0dHR0Q3N0SHBMeklMNXdfOHlvTlM4SE5zd2ZvNjdKSVZTVjl4a3FtRlgxbEZnNVl3ckxNVTRZYjVGR2lHY0hSZ09kOVJkWWlLSHI3SDNEb2NVX0tncVJpUEpNenc5b3ZZVE52S01LaHdJN21TQnZfYlVxU0ZncW5NSFcxQtIBrAFBVV95cUxOMXRCanJabDZLSmZCTThfeGdlMXlNLXBkM0NnUjNSTnVXdDhmZUFsU0QwS2VBN0VHcHh0YjZFYXhlNjFpZzJUX3Q5S0JHVF9kUmoxZGVNMEdGeDVxaG5lakZUaXRjZ2RnZEdsSngwbXJfU0ppTFNzSzJiQkJDUnNyUUlfdVlJcW8wX2lwNUd1T2FLbjlWRzBBN25kcXBBUkRjRUt0RGd3UWtlT0tQ?oc=5",
-     "r": "PenaKuID"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -231,16 +231,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Tutup PPKMB Universitas Arya Wangsa, Bupati Dorong Mahasiswa Hadapi Industri - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREhreDdTQ01XUHJKY1M0R0dRZXp6OHpkaktjdVNjVkN6aGZ3UG1GN3NidjJ2YkVQZFBqQWsxcXJIdjZLN0YxRnduN2h1Y3BqcF85aWwzc1ctS2t5OVgwcDZmb3dyTjBPRS1nVlAzbjBEOWJaSWdsU2dDa1NQNFNCd3FSekVHc09zY2xkcGdIUTZVZnJxdWcwWUp5Zm13MHl6NlZTV2hRX1Bkd09LejFPampnY2FZYmVJbXc?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Pemkab Bandung Dorong Kepastian Investasi melalui Penyesuaian LSD - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUhWdDRSU0RmN0xmNGFhN2p5RS1XOURvdFhNd1ZvODd3bF9LbHMtY3hUdm1GcXhlaV9kdzFzc0VJb0IzdU4wUzZkb0JHcU80OVZpSDlub1RwMUMzeURrZlVsdFlQMnJhdmJiRF9oZUVIczgwVXZSanZkdl91Z1Bnd0xNXzhMU2lGVG8td1NCTUxRLXYtTk11dU04UThFajJScVJGZWNwU3hzUnht?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Samsung Umumkan Pemenang Solve for Tomorrow 2026, Tim BryotechAlpha dan I-SEUNG Raih Juara Pertama - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemxIaE9ORkNhZWJPSjV5eGFzLXJ3N0tseDBDcFhSSTJGT2FOMGlPYUdrVUZfelZOSmg1S1hQeWh0RmpMUThmZlp6WTFRU2hRWEU3cEJTendjSEpPcWltaVVmcjFEcFhsMkE4YTJ5bmo2OTM4UkR4LVQ5MmtwOHN6bDYtM185aVdTRTRLMVdGUEU0azhoM25MVmlNakhkZ2ozVElIUUdXY1J2WDBYOFd5RFdHV2xqd2tpWDlyc2t4azRhbW1sckdESE1xTFh4a190R0FQUzBVQVpqVjA1aFlrR0Nn0gHnAUFVX3lxTFBQZ1JGUS1CbjQwRUE1U25YcHRjR1hrUVhhbkwyUzkwRGZ1OHlQX2xKQlZpQXlZNHVFQ3VzcjJvT0FaallNdE5MSjlXdzNQTVVpeUZyRjBpYXBNaElacVVKM3RkX21aN2ZuaFB2c1BRMmQ4TjVUNmJLamo5bjdGNUN3QUxIMWZrbS0tSk1JcGwwNHI4a3dkY1l0M0t1YVpteXlMN2tXVlE0QS1kbVdiTFkzT2c2QWZpVEJCU1hiTlZ5dW9CN2FxRmM1TnNOa1VGZUtwZFJ6UlZHSlp6b2xlaEVsSmpTSXplQQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     11,
-     8,
+     10,
+     7,
      5
     ]
    },
@@ -276,7 +276,7 @@
      1,
      2,
      3,
-     3,
+     2,
      1,
      0
     ],
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0VxZFhSSXM3c29GdUhZZW1yanUtNF9uWFVBVng4VmMyN2ROMC1WM2l1dTlJSlY5RmpEZ1ViZnVMeDJDSDdVb1Q5cldVcUZhcVllUG15RDhBQUY4eHo2THM3LUw5UTFNUGdRVEZoZTVpSTlfRm1kU29SLUxiNDV5SGlmX1BadzZ4T1k4UzlEMXp2VzRRaWtrazV2S252SENoVDR0a001d29uWmRsTnRSdlJhUjJNYlVfamkyQUh1UzRfdw?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Pedagang Keripik di Margaasih Diamankan Polisi, Diduga Lecehkan Anak Perempuan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDlYcVBGSFFZZi0zT05Zck81a1k2MVZjVVZWLTlwanh3UHU4Ri1fQXlOazdUU0hwLXZQZWItT1c4cDJTNWRBMjJOM3JRcEsxOWZTMzNQaEhhOGNSQVYxNlYzN2VDQ3JINEs3a2wwem1QVGZVUDBpa3lQOU5HQWRWcEZvQVppd0thTXVuSjE1S3VSMmQ0OXpHT2stYzk0akU2Y2lDaWtwWUs0cDRCenZkazVTSjgtY1l4SmIxYw?oc=5",
@@ -311,12 +317,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlJrbHAzbFRfWlFoZzB6alVIN3gtdTJna0ZzVE9nRmUtaVdXNHkxNTJlSVhEeDNFUDBYTm1ON01OT29UdlR2cnNwemxaMWJ1RFRWQmxqWksyQ3Z3WjF2Skw5Um0yd1hGN1JidjZQaUlUenB2Qmo0MHdfVy1odUV3TnIwRkt4c1R6Um1TUnlOQzVOanJWZkt1YlBuN2VuZmUwdmZsUHg0RHAtQlVxZm1acFZiOFFkUlNyOXVJd0FfYXhnOFNqdlFoaWlXcEVJMFNxSFZYVnBsbHRNMkQ3bEHSAeMBQVVfeXFMTUMwUTFDalF0NWN4UldwTlpPZWhSYzBXOV9La1FCUU1vOWRuUUtjYkl5R0hXVklraWpja2lHYl9BS05uNFMtQW1zV0pMblgtWjlsYmNPVzBsNlpmNkpaYkZEZkZySHlTV2FQS2w0SnFMal9MZHJURnJURUQ5SkRGMHpqMHNBNXFzT3FzM1NpSUduSzVmbWY0VXdqRUNTS0xLODIwTS1QaGZTM1BuSlRIOV9KRkNVZDF4T1p0VUFyNGRBcWVGSjQ2OUdnZEZKcUxSRUJlSlFFbEVRdGVsZXRkbW95N0E?oc=5",
      "r": "Pikiran-Rakyat.com"
-    },
-    {
-     "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -332,9 +332,9 @@
      0
     ],
     "w": [
-     1,
-     25,
-     26
+     0,
+     26,
+     28
     ]
    },
    "trend": {
@@ -349,7 +349,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -360,9 +360,9 @@
      0,
      1,
      10,
-     8,
+     9,
      4,
-     3,
+     4,
      0
     ]
    }
@@ -395,28 +395,28 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "PascaDiekspose, Banjir Langganan dan Tahunan di Dekat Polres Bandung, Soreang, kini Tak Terjadi Lagi",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=su9SJBU6gf8",
+     "r": "YouTube Aje Urban"
+    },
+    {
      "t": "Tim SAR Brimob Jabar Patroli Daerah Rawan Banjir Sekitaran Rancaekek Kab. Bandung & Jatinangor",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=Ejd9_RCrPJQ",
      "r": "YouTube Humas Brimob Jabar"
-    },
-    {
-     "t": "PEMKOT KOTA DAN KABUPATEN BANDUNG SALING LEMPAR TANGGUNG JAWAB TERKAIT BANJIR CIBADUYUT",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=JHzN0ncmdfM",
-     "r": "YouTube INSAN RAHMAN"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      0,
      8
     ],
     "w": [
      1,
-     6,
-     12
+     7,
+     13
     ]
    },
    "trend": {
@@ -434,7 +434,7 @@
      0,
      0,
      0,
-     0,
+     1,
      1,
      0
     ],
@@ -442,7 +442,7 @@
      2,
      5,
      1,
-     6,
+     7,
      3,
      3,
      0
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     7,
-     26,
+     8,
+     25,
      3
     ]
    },
@@ -515,7 +515,7 @@
      0,
      3,
      2,
-     0,
+     1,
      3,
      0,
      0

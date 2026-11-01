@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:25:41.263510+07:00",
+ "updated": "2026-11-02T02:28:40.178536+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -15,24 +15,24 @@
    25
   ],
   [
-   "Kompas.com",
-   19
+   "RRI.co.id",
+   23
   ],
   [
-   "RRI.co.id",
-   18
+   "Kompas.com",
+   15
   ],
   [
    "Radar Bandung",
-   12
+   11
+  ],
+  [
+   "jabarekspres.com",
+   9
   ],
   [
    "ANTARA News Jawa Barat",
    8
-  ],
-  [
-   "jabarekspres.com",
-   7
   ],
   [
    "Pikiran-Rakyat.com",
@@ -43,11 +43,11 @@
    5
   ],
   [
-   "Antarwaktu.com",
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Disway",
    4
   ],
   [
@@ -55,7 +55,7 @@
    3
   ],
   [
-   "Disway",
+   "Antarwaktu.com",
    3
   ],
   [
@@ -111,7 +111,7 @@
     ],
     "w": [
      14,
-     23,
+     25,
      1
     ]
    },
@@ -301,9 +301,9 @@
    ],
    "h": [
     {
-     "t": "Foto : Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
+     "t": "Foto : Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum Halaman 1 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0VxZFhSSXM3c29GdUhZZW1yanUtNF9uWFVBVng4VmMyN2ROMC1WM2l1dTlJSlY5RmpEZ1ViZnVMeDJDSDdVb1Q5cldVcUZhcVllUG15RDhBQUY4eHo2THM3LUw5UTFNUGdRVEZoZTVpSTlfRm1kU29SLUxiNDV5SGlmX1BadzZ4T1k4UzlEMXp2VzRRaWtrazV2S252SENoVDR0a001d29uWmRsTnRSdlJhUjJNYlVfamkyQUh1UzRfdw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMTd5YVV2c0JORVNfMGduZTEwQnlZZjNmNmt6R1VlQVNyOERJb3NCZk83QUVUTjVxRVJPYTBtMVdxaVB3WjBrNFdiY3FiT1o1a3RoR2NvSV93cFd5emRxbm9naUZ4bEdfMGRRelA0OFpMNDlheFg3OThEaW43SjhMaVdWV2lSOHNaVGdISWdXNjRzbm1JaDVFdFI3RzMtVHdtdEVIQUZSczIyVnhDQUUxNVEwRUwtY3p3U0FMQl9wRFNucExIdmV5ZzgtOA?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -332,9 +332,9 @@
      0
     ],
     "w": [
-     0,
-     26,
-     28
+     1,
+     25,
+     25
     ]
    },
    "trend": {
@@ -349,7 +349,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -359,8 +359,8 @@
     "g": [
      0,
      1,
-     10,
-     9,
+     8,
+     8,
      4,
      4,
      0
@@ -414,7 +414,7 @@
      8
     ],
     "w": [
-     1,
+     2,
      7,
      13
     ]
@@ -432,7 +432,7 @@
     "p": [
      0,
      0,
-     0,
+     1,
      0,
      1,
      1,
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      25,
      3
     ]
@@ -516,7 +516,7 @@
      3,
      2,
      1,
-     3,
+     4,
      0,
      0
     ],

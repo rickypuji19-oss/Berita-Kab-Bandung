@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:50:50.042997+07:00",
+ "updated": "2026-11-01T09:37:18.518344+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   29
-  ],
-  [
    "Tribunjabar.id",
    27
   ],
   [
+   "Ayo Bandung",
+   26
+  ],
+  [
    "RRI.co.id",
-   18
+   17
   ],
   [
    "Kompas.com",
@@ -24,14 +24,14 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   12
-  ],
-  [
-   "Radar Bandung",
-   10
+   13
   ],
   [
    "jabarekspres.com",
+   11
+  ],
+  [
+   "Radar Bandung",
    10
   ],
   [
@@ -39,12 +39,12 @@
    8
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Pikiran Rakyat Koran",
-   6
+   "Pikiran-Rakyat.com",
+   5
   ],
   [
    "Antarwaktu.com",
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "detikcom",
+   4
+  ],
+  [
    "Galamedia News",
    3
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "detikcom",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     16,
-     25,
+     19,
+     24,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     12,
+     15,
      4,
      0
     ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
-     "r": "MOST 1058"
-    },
-    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
+    },
+    {
+     "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     13,
-     21,
+     10,
+     17,
      0
     ]
    },
@@ -206,8 +206,8 @@
      1,
      4,
      0,
-     5,
-     2,
+     4,
+     0,
      0
     ],
     "g": [
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     12,
+     11,
      8,
      5
     ]
@@ -278,7 +278,7 @@
      "Min"
     ],
     "p": [
-     2,
+     1,
      2,
      2,
      1,
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     22,
-     24
+     21,
+     25
     ]
    },
    "trend": {
@@ -363,11 +363,11 @@
      0
     ],
     "g": [
-     1,
+     3,
      0,
      2,
      9,
-     8,
+     7,
      4,
      0
     ]
@@ -421,8 +421,8 @@
     ],
     "w": [
      0,
-     4,
-     11
+     3,
+     10
     ]
    },
    "trend": {
@@ -447,7 +447,7 @@
     "g": [
      0,
      3,
-     5,
+     4,
      1,
      6,
      3,

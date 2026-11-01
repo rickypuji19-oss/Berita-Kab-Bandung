@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:22:35.967943+07:00",
+ "updated": "2026-11-01T07:30:10.567431+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,24 +7,24 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   28
+   "Tribunjabar.id",
+   25
   ],
   [
-   "Tribunjabar.id",
-   26
+   "Ayo Bandung",
+   24
   ],
   [
    "RRI.co.id",
    18
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   15
+   "Kompas.com",
+   18
   ],
   [
-   "Kompas.com",
-   14
+   "Pemerintah Kabupaten Bandung",
+   13
   ],
   [
    "Radar Bandung",
@@ -32,7 +32,7 @@
   ],
   [
    "jabarekspres.com",
-   11
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -44,7 +44,7 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   5
+   6
   ],
   [
    "Antarwaktu.com",
@@ -55,15 +55,15 @@
    4
   ],
   [
-   "Radio PRFM",
-   4
-  ],
-  [
    "Galamedia News",
    3
   ],
   [
    "Koran Gala",
+   3
+  ],
+  [
+   "detikcom",
    3
   ]
  ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
-     "r": "MOST 1058"
-    },
-    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
+    },
+    {
+     "t": "Anggota DPR RI Rajiv Ungkap Kerja Politik Jangka Panjang Lewat Konsolidasi dan Silaturahmi di Jabar - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWV1MmYzZFZ1ZUlsRnAydVJJc05TekVUTHIyckJJUVFreWFCTk9Ka2swekw5RERscWNnUkRkYzNMaTgtallWZEJXNmR6YVpuRElxS2ZER1pobHV5cmZhN2pLdFVZV3Vfdm42QmJzdno0cnN0MjMtbkhYV0o4ZkVGb1hkdkFrSUFuOWVGZ0FBeElXWUoyZjlFdWNBVDhYREFIT2w1Zm1aaHBDWlZPbk1NNTJibXo0RXZ4Z0FCREVrRTRSSm1FaEVMSkpxMFhpdTR3dW1veFNBbEVpSUpvOU81a095dmU?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     13,
-     21,
+     10,
+     17,
      0
     ]
    },
@@ -206,8 +206,8 @@
      1,
      4,
      0,
-     5,
-     2,
+     4,
+     0,
      0
     ],
     "g": [
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     10,
+     11,
      6,
      5
     ]
@@ -279,9 +279,9 @@
     ],
     "p": [
      1,
-     1,
-     1,
      2,
+     2,
+     1,
      2,
      3,
      0
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     24,
-     25
+     19,
+     27
     ]
    },
    "trend": {
@@ -366,7 +366,7 @@
      0,
      0,
      4,
-     9,
+     11,
      8,
      4,
      0
@@ -421,7 +421,7 @@
     ],
     "w": [
      0,
-     4,
+     3,
      11
     ]
    },
@@ -471,16 +471,16 @@
      "r": "Galamedia News"
     },
     {
-     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
-     "r": "Galamedia News"
-    },
-    {
      "t": "Tutup Bimtek PAUD, Bunda Paud Boltim Rosita Dorong Pencegahan Stunting sejak Dini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDRHOGlMdUNidGM5TzhHUjlNLUZzYS1kbnpXOFFWM25oMFlsREVGMWlKU20wS0tlMVdFT1hXcmRYTF9RQWZTUHhWYmlwQzJ3RldDa3lXbm9sSGhYUllPNkU4NG1DMmw3d25oV2lsd2lYRC1XSEd4RklDTmY0STJ0aUNKbldtOTRPRVI0SUFZaDZ4eGd4WjdzczVSemtweWt2ZHFlTU5oeGxpSVFwMUhkQU5PTHRNZUxtU2pzZnFqYXIydw?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Dua Anak dari Keluarga dengan Gangguan Jiwa di Pacet Disiapkan Masuk Sekolah Rakyat - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     9,
+     8,
      27,
-     5
+     4
     ]
    },
    "trend": {
@@ -523,14 +523,14 @@
      3,
      2,
      2,
-     3,
+     2,
      0
     ],
     "g": [
      0,
      0,
      1,
-     1,
+     0,
      2,
      1,
      0

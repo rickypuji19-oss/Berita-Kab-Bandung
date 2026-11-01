@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:26:21.057558+07:00",
+ "updated": "2026-11-01T22:24:06.893184+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Ayo Bandung",
-   30
+   33
   ],
   [
    "Tribunjabar.id",
@@ -16,15 +16,15 @@
   ],
   [
    "RRI.co.id",
-   23
+   21
   ],
   [
    "Kompas.com",
-   15
+   18
   ],
   [
    "Radar Bandung",
-   11
+   10
   ],
   [
    "ANTARA News Jawa Barat",
@@ -35,12 +35,8 @@
    8
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   7
-  ],
-  [
    "Pikiran-Rakyat.com",
-   6
+   5
   ],
   [
    "Pikiran Rakyat Koran",
@@ -51,11 +47,15 @@
    4
   ],
   [
-   "Galamedia News",
-   3
+   "Pemerintah Kabupaten Bandung",
+   4
   ],
   [
    "Disway",
+   4
+  ],
+  [
+   "Galamedia News",
    3
   ],
   [
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     22,
+     13,
+     24,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     12,
+     8,
      4,
      1
     ],
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
-     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
-     "r": "MOST 1058"
-    },
-    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
+     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
+     "r": "Galamedia News"
+    },
+    {
+     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
+     "r": "Bale Bandung"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     15,
-     22,
+     11,
+     18,
      0
     ]
    },
@@ -205,9 +205,9 @@
      1,
      1,
      4,
+     0,
+     4,
      1,
-     5,
-     3,
      0
     ],
     "g": [
@@ -338,9 +338,9 @@
      0
     ],
     "w": [
-     1,
-     24,
-     24
+     0,
+     26,
+     27
     ]
    },
    "trend": {
@@ -356,7 +356,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -366,8 +366,8 @@
      0,
      0,
      1,
+     10,
      9,
-     7,
      4,
      3
     ]
@@ -422,7 +422,7 @@
     "w": [
      1,
      6,
-     12
+     13
     ]
    },
    "trend": {
@@ -449,7 +449,7 @@
      2,
      5,
      1,
-     6,
+     7,
      3,
      3
     ]
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     26,
+     24,
      3
     ]
    },

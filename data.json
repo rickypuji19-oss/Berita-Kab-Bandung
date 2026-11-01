@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:30:25.951785+07:00",
+ "updated": "2026-11-01T17:26:55.331596+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Ayo Bandung",
-   27
+   28
   ],
   [
    "Tribunjabar.id",
-   27
+   24
   ],
   [
    "RRI.co.id",
-   18
+   19
   ],
   [
    "Kompas.com",
@@ -24,30 +24,30 @@
   ],
   [
    "Radar Bandung",
-   10
+   11
   ],
   [
    "jabarekspres.com",
-   8
+   10
   ],
   [
    "ANTARA News Jawa Barat",
-   8
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   6
-  ],
-  [
-   "Pikiran-Rakyat.com",
-   6
+   7
   ],
   [
    "Pikiran Rakyat Koran",
-   6
+   5
   ],
   [
    "Antarwaktu.com",
+   4
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
+   4
+  ],
+  [
+   "Pikiran-Rakyat.com",
    4
   ],
   [
@@ -63,7 +63,7 @@
    3
   ],
   [
-   "detikcom",
+   "Radio PRFM",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     15,
-     23,
+     13,
+     22,
      1
     ]
    },
@@ -136,7 +136,7 @@
      0,
      0,
      1,
-     11,
+     9,
      4,
      0
     ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      11,
-     17,
+     18,
      0
     ]
    },
@@ -237,16 +237,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Anderpas Sentra Kuliner Baru Bawah Flyover Pasupati Bandung Resmi Dibuka, Dorong Ekonomi Kerakyatan - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjlVaDR4MmpXUWJ0Sm83bEdGUXBqOUc0OUZET0FuSGlCSERTcWtDdV9aV3B4SmRkV1B6YjZCeVVPYXJtYlA4QlhGdldEVVBSZVVRblZaNFlyU0Fja2kzQ0dwc1F6T0tfZ0dVMW85NXBudGc4QnhtRDM5UkNod3JzZVVYOHI5ZnVPbUVHRUdRRy1XMUJQNnhLcXh5a0w2Nk5ZRGVESExQaGpRbWNFemZpWkFyLS05TmhTMzRfUVBCM0t2SExIT0dhSU5Fejd4MGhjLVFjY29xMERIYjY5d0ljdmptbw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Smart Village Sumbersari, Dari Limbah Jerami Menjadi Produk Pangan, Dorong Ekonomi Sirkular Desa Berbasis AI - Pikiran Rakyat Koran",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa01YbGZKcm53M0tkWldFWDl1UFBWQUc5UmVGa2tSRkdtNHF3dlRFTE9heGZIdDU3Z1diR3RHVm4wcVhtZE9ldFBpV1RlUEhOQkVEeEdMVElZR3YyZUZtd1N6UUtlX2hRVnd5dTBqSml1QUFFSEd1QTFUOHA2d0VZX055aDZrSjRyOWFTSXQ3cnhQVWMxemFKaUF3SDQwVzNIa3pSZnM5V0xkc0VhT2xLLWFqMFppLVdPN01qZVhzeEp1N3piQ3BqUzBGblk0dk5NUHdnX2pDUnJzSXJiekF1YUpUSFU3TjRzOXd5UzZIY0I?oc=5",
      "r": "Pikiran Rakyat Koran"
+    },
+    {
+     "t": "Petani Kopi Lembang Buktikan Bisnis Hijau Bisa Mendunia dan Menguntungkan - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGY4bkJKblR1cGt5bHlYVjJhelhSVE9zeHZ1RGFKS0hXcHBwLTA3UVhDLS1TMml2M0gzLWswWnFaRm9oMFVQUG44R3FWNGNNY3o5dml6UENhY0ttVW1NbnNfWWkzcmNodlFsT3h3WURZZjhuYktzOGEtMGJaTDlpZEowYTV5RXAtYTZjV0w2aXVzdHplTTA5NU1xWmEtR0FpR3VUTGcxbU81U0VmY2x3ZHdPRV9GcldNUWVsM0Z5Vk1YZ9IBxwFBVV95cUxNYWttVGQ0aHd3Q0Nhbkhra1RnMFFhYUxKak9RaTlUTmM2eWxSUjk4cXNwRGducjVtYnRHM1BHajRfTUlLR082N2JCV1V2TWdaWXhiX2h4R0JuMC1nQktvcDZQQV9sTkdJajJ0X2ttbXRTWTFzbm53RENpWVB2SHVsUmlPdWdyRWtZbDJrek1GYzRvZDlYM0VFamQ2OVgzaWJsWUhQLXhaSWZObS1Mc0NpTWt6aEhHcEpiUHVaa1IyOEZpTmpqWkdR?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     12,
+     10,
      7,
      4
     ]
@@ -279,11 +279,11 @@
     ],
     "p": [
      1,
-     2,
-     2,
      1,
+     1,
+     2,
      3,
-     3,
+     2,
      0
     ],
     "g": [
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Diduga Jual Miras Polisi Razia Rumah Warga - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlB1d2xsTUptQXZFX2NxQVBveVdoVEhKTmJsZGp3dXNQUzJPNUpzcGc0UkVFY240NUhGOE4zeV9nRFdNMk1Mc1U5STlxOXYtRXNnNGZJT3diNWlzTlNjYlRPVUdmcm9GLWcxc3I0bktieU1DT0xsWTNRTE1aZVZzSVcyMHZVVXM3MXJLdE1jd20ydw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWExvUnFFSUMyeWJVSmIwM3Y5WUdQRWVwdDRsN3FBV09PLXZqb2RXV2JOMXhxVE1WT1VDbVJYVnFBVVhNUHljTG9aTGFYS0kwMnNxOVdjNkk2WkZCUEp3RUtHMXYxQ2pwalFwMjQ2Nlk4REYyMmcyalRvNTFWcEd5azdyYV9BZjlzNkhSTjRHVTIxYXNhN1pNajJjSl9BSW5PY01DZWlyVEJUa2tscW14Z1FhdWlhTFBpZmxVN2tZY1A?oc=5",
@@ -317,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlhrLS10aGQwQktCTC0xQ1BxMFFjcWo1eUZFcEw2S2RoeDJ0MjdTU253Z0lscFdpakEwS1NiT25DU29tYk5oYXh3UnNxLXhhVmloaUNIZHRPNVktanBQZEEzb2NFRjJGZVFMQzF2UzZyMHhnVmxFRDZiNFQyQUVLWHFjaUo5SVk1TU9iaV9mQVlhSWJRc0J5N1ptM3FZQjdNWHdNUWpDY1o2NUJlT3J2SVBoQXBtLU5kQnFTS005TmRpdE5HWE5ZOTJaYzJIdzhFVVFNcy10Vk1SZVQ1aFRV?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Berita dan Informasi polresta Terkini dan Terbaru Hari Ini - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3VXduWHRIU0VmeDB4S2dvZjBCRHI2dXpMRkYyTFNhNjZ3VUl3cU8zQU0xRDA4ZFo3WFEwa1IzYlpvWDdoWTgwM0N1LW83UQ?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     20,
-     25
+     23,
+     24
     ]
    },
    "trend": {
@@ -365,9 +365,9 @@
     "g": [
      0,
      0,
-     3,
+     1,
      9,
-     7,
+     8,
      4,
      2
     ]
@@ -395,9 +395,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Kondisi Terkini Rumah Warga Cipaganti Bandung Usai Diterjang Banjir Akibat Tanggul Jebol - Tribunjabar.id",
+     "t": "Kondisi Terkini Rumah Warga Cipaganti Bandung Usai Diterjang Banjir Akibat Tanggul Jebol - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSTBUMXEwSkI3LTdvMW5kOGxheHFhWUN0UHV5NjduOG5YWWh3OXhSYjdZM0ozZHBPNjBPNEc4QVpxdW0zYzBZWHRNU242ZVdCWlB0VHVodVBKSTJ0cE8yOG5ZZ3d0RmFsbGs4UXdCTnBqQmVRRGV5eHh3UlhBVG5KOFlXel92dXl3bE1UT3EweEx4YzBlcHRCREpsRi1sVmppSW85dDZLbl9yczNrOVBqbnhzbjZOc0QyWGc1TzZZSkUwTGpfMmJzMF9SQnRnbmtUTVJsZDVB?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb01WbGNlYklkVlloUEZqX19EdlFpRVliMVZhUjZSY2llZFZJeHZZV3hKTk9HSmxDSUFiRVZEQm9CZmVxTlR0SDhMQ0c3SFNRR3JvT1NYM3hIVlB0Q0V6djZvd3FqbkpJNDZjOUh4a1k5SFZlbnpKcHZDQ3JKWlJucXp2R3pIZnFOSU5TN0dUSlZZMURVa2VteDZIU2Q0YkN3WWRqYnZQSHdoVWFHcXdnT0R3SnVxMnU4YWVRU2plYjg0d3FuUzUzQ2Jjbmg3VUF4MEpEc3IxeUdJUXEzSVdj?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      0,
-     4,
-     12
+     5,
+     13
     ]
    },
    "trend": {
@@ -446,10 +446,10 @@
     ],
     "g": [
      0,
-     3,
-     4,
+     2,
+     5,
      1,
-     6,
+     7,
      3,
      3
     ]
@@ -477,10 +477,10 @@
      "r": "Galamedia News"
     },
     {
-     "t": "Dua Anak dari Keluarga dengan Gangguan Jiwa di Pacet Disiapkan Masuk Sekolah Rakyat - Radio PRFM",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3Nzd3htbjliRzk0YzI0Q2ppVDZEVnBvdEJsQXpwSUcyOWYwRHdPTWhPdVBaWWtUcEhLcHlmLTQzcS1tdEFhakQ5SlU2cG5PamhWWU9RRWsycl9XNE5sOVJRY2tlanp1Q0gxcV9wZ0lGdVBUSndKUmQ5NHNZaUJpWU1odnMxT2w2bjdzQmppcHhxUDhmX0EzTTZvZ2RqSktsbHVkMkN6cVYzRHJNVHVMaTg5dUREOGs1c1drLVJZRVlxMEtuVElFWDJuSXQ1TG84WUljaDE4d1FiSnlJd2N30gHkAUFVX3lxTE1IU1NtM0xOV0NleEgwT1JKWHdwZHZwZDdnRkRuZnNFUTNyd1NzR081dXl2VFQ5NWtHZ2pwZEl2UXJtUFVOLTZLVDFlWlp3ZktZb3dCTUR4Q0lvT0MzVlpIXzc1anNkblZEVlItRU1vNk1mWkQ0RGlDMnZnMjNUWEVTOG0yZG1rdlctR0NiUm5Pb0pGWVpoMnNGV0JYbFM2Vnk0VjZKQm56N1VjVTdDVDUzWUU0UlFiNmJOaXF5bnlXNzFnT003cFlfeWlNM3NIQWVzbVFlYVVGY05RV2I2aHZIZlJwLQ?oc=5",
-     "r": "Radio PRFM"
+     "t": "KDS Resmikan Ruang Kelas MI Nahdatul Ilmi, Dorong Perluasan Akses Pendidikan bagi Masyarakat Kabupaten Bandung - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUFV2b3kxVElPblk1a05Cb29yU0VLWXZPd195R0FoTjNuNVViMkdsVUVzdjBROTZVZ25feDNOeDJFMTBnenItMUFhZXMzOVlKSUdzb0ZsUnZiOWVlTlpMbU5aanRsbUJvallaaGJCd05RUjFkZW9CQ0NMVlNoX3NfbGNfbU1rZnFRZm5pR1BicnBRNkxFZnJ3SlFrbUlyamdYUEo1QWtwSWdzVEZTSTNWRjBMQ0VaMTB0NXFlWmxLMHFHQjZqYk5MeGI3VHQ1MS15cHd4WWJIcTQ3WTNHdnZjeEhmY25PamhuTnBFUUZ1UlJhdTU1SUNZYQ?oc=5",
+     "r": "Galamedia News"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -522,8 +522,8 @@
      0,
      3,
      2,
-     2,
-     2,
+     1,
+     3,
      0
     ],
     "g": [

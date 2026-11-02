@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:52:15.604760+07:00",
+ "updated": "2026-11-02T09:40:01.035762+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,20 +11,20 @@
    26
   ],
   [
-   "RRI.co.id",
+   "Tribunjabar.id",
    24
   ],
   [
-   "Tribunjabar.id",
-   23
+   "Kompas.com",
+   19
   ],
   [
-   "Kompas.com",
+   "RRI.co.id",
    15
   ],
   [
    "Radar Bandung",
-   10
+   9
   ],
   [
    "ANTARA News Jawa Barat",
@@ -36,34 +36,34 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   7
-  ],
-  [
-   "Pikiran-Rakyat.com",
    6
   ],
   [
-   "Antarwaktu.com",
+   "Pikiran-Rakyat.com",
    5
   ],
   [
    "Galamedia News",
-   3
+   4
+  ],
+  [
+   "bandungraya.net",
+   4
+  ],
+  [
+   "Antarwaktu.com",
+   4
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   3
+   4
   ],
   [
    "Disway",
-   3
+   4
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "detikcom",
    3
   ]
  ],
@@ -79,39 +79,45 @@
    ],
    "h": [
     {
-     "t": "Bupati KDS Dorong Kolaborasi Syarikat Islam-Pemkab Bandung Perluas Peluang Usaha dan Akses Pendidikan - Gerbang Patriot",
+     "t": "Penutupan Bandung Bedas Festival 2026: KDS Paparkan Program Strategis dari Job Fair hingga Modal Usaha - Galamedia News",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNek9FSjRnT1MwcWZmSE1INFNydFhOX2ZfS2tKZEpoQVVXZkF5bTNFbGtma2FzdE1jYURKMm9aWExiZ3RFVGRXYXAtYUhLVkx0ZlhiZGcyeHJZOXhSbWxUc0c2dHplTDNISy1ZSVo5aUhESHRrQXd5UjdBcUtjUFlFMUVaRTctTDVtSHo4S3JNemRhbU53b0c4Vld4MVRPc0tnSVc5dUNaT3ZJQm5POW0wbnVFQzFianVfUE1SZS00dVJaVGVRcWRzV1M4VFptZVFGdXNWeVhIVQ?oc=5",
-     "r": "Gerbang Patriot"
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUkYzQ0xsNW15c2ltMzQ5dUIwZGJZYWJqdVpqM0VJZjFQbndTeHVFYmw0elJMbGN3OFJSVU9scjFZc045RnF1OGY5NTJPeWtkbVhvZVp3R1RXVFFMT2dFcTRHWUE4WHI1REtyWW11aGNyLUtqTFNlNzlocExVemJzZmZoVFF3cW9TVk0zZk9rcndwMFN2MXlVaUZTUUoyeHBkdVBMRkpTNXRkd28tcC1tLVhwMEVpRWgzQVZBYmZlbVFlVHd2ZklOUTlTMUNBV0M2cGE1d3RmUEhRdV85V0gya3hEV1VDLXpHS3hZVHpn?oc=5",
+     "r": "Galamedia News"
     },
     {
-     "t": "SI Harus Jadi Motor Ekonomi dan Pendidikan Umat - dialogpublik.com",
+     "t": "Bupati KDS Paparkan Program Strategis Bandung Bedas, dari Lapangan Kerja hingga Modal Usaha - bandungraya.net",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUGVJdmhaSTFhOFhqTXEwaUQ5STRkSzRzX212M3NZNnlmWVA0SmRGYWMxdGp3YURNZXhJdVktSVZIcG1nTUJRb2FOX2g4dVYyTHpYN2Y2eFRyUE1wS3JMVkRhSE40MllIQ0JTdVRSdXFKUFpfR1VuVHVJWElKZw?oc=5",
-     "r": "dialogpublik.com"
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmI3OVZQc2RJS2s4Qkl6RzJCYWtERHN5S0pFc3pockZDOGQwekJUUHFUZkVKU0Z1WFlJYWQxakJMZGZRanBPRElXQXQxZG9ocGVLbEtST0p0bzRXSVBqUVU5cENvUTRUbzZ6dTJ1U0ZJc1BnS0hrVDVpM1RBX0NoUmJNMFdTb3Mzc3BiTDM4RHNuUVY2VWZVYmR5WUk1M05JTG45ZDUxNG44OUJSdVZ4dmN2dTJlcU4tYWo3dWlTUQ?oc=5",
+     "r": "bandungraya.net"
     },
     {
-     "t": "Pemkab Bandung Ajukan Tambahan Kuota BBM Subsidi Akhir 2026 - Pikiran Rakyat Koran",
+     "t": "Bupati KDS Dorong Kolaborasi Syarikat Islam-Pemkab Bandung Perluas Peluang Usaha dan Akses Pendidikan - bandungraya.net",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjg3bHJlM2cxTUY0QWdVMThzZlVMQkhLTVEwZ1J0MWxXMEoxR1ZoM1BWLXBBMGRZbUFhRDgxN0xuTEdhVC1RSkJjcmRaQmZ5amY1THcxeUh3Ull1cmJsRGhWVC1FcXYxTmhNaUV3RUpRT2ZsdDI4ZzVRcDV3V1VaWEVueXhGMHdGQ0NxekRkLWhxaE9fNjQ2TlluaFJmS1ZyY3FRRHZrRHF3TnUwakNKU1JldGg4dw?oc=5",
-     "r": "Pikiran Rakyat Koran"
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQllWX21teFp2ZHZrT2dwZFVMTENqNnZOX1hoWFlQaHVvTHF3V21rMG1TdnFURFNCT2c3bXI1ZUZ4TVcybW9lUkxCbDFBdGpUSjJCOXFLMjdZQVM0ZWkybG5IOHBjS0lsbkFKbWw4SW40LVdpdTAtN0pNa01UaFg4SjhUUG4taGhaUC02cHR3dGZ4bmtpWVdES2VyQkJVWHlFQWw5UENlMXU3ei01WTJOWlNQcnpwV3psNUowXzdTZ0l6Y3NsYXYxaUZsdHhELTg?oc=5",
+     "r": "bandungraya.net"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=Wy93J4C2uTw",
      "r": "YouTube Adrian Adam Property Network"
+    },
+    {
+     "t": "BUPATI SAPA PEMUDA",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=EeIXcSmAO9c",
+     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
      1,
-     0,
+     1,
      0
     ],
     "w": [
-     13,
-     28,
+     14,
+     26,
      1
     ]
    },
@@ -132,7 +138,7 @@
      6,
      4,
      2,
-     1
+     2
     ],
     "g": [
      0,
@@ -167,10 +173,10 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
+     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
-     "r": "Pikiran-Rakyat.com"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
+     "r": "Galamedia News"
     }
    ],
    "v": {
@@ -180,8 +186,8 @@
      0
     ],
     "w": [
-     14,
-     22,
+     11,
+     18,
      0
     ]
    },
@@ -196,11 +202,11 @@
      "Sen"
     ],
     "p": [
+     1,
+     4,
      0,
      5,
      1,
-     5,
-     3,
      0,
      0
     ],
@@ -225,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
-     "r": "Mudanesia"
-    },
-    {
      "t": "Pemkab Bandung mendorong regenerasi petani lewat keterlibatan pemuda - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDdkSy1aV0NHSGZkOExWVEwtQUI0cVVlM203SE5zenMtd3hoQWFZVkU0anRnRlhVQVl0TWxRTy1rY3otX0ZsY2FEVV9XSkR1NldlS2JfV3c5WmJIUFo1eGl6d1ZBRktQR1dNMlh0QzQyc1MwTF81Wl9haFNtYmJQOW5qSUtsS05RaVVUTUlrbkEzMzhwcGIwX091TkxqNnFmdHFoR21UM2YxV1lNd2k0SdIBtgFBVV95cUxOLVBtX3VxLUNhUmtXaGtVdFo5QmUwUkotcnRVdktkel9QWE80SzU3UDQ3eDNudWc2T3F5cjBqRmtPdVdwb1VLMWs0cnlONWp2OXBlb3RGWlZ3UHhsWVl2Q3FFRG5iOXNTSzhwSjVnSndtcElPNXpmQzVpS3pDaElod1RtMXVFcFkyRnRIUXdYZ09Ub2dYd2JoMDNwZFdvdkpTcXBsb2dGUm1WWEVhR1M5QnZieDZEZw?oc=5",
@@ -241,6 +241,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUhWdDRSU0RmN0xmNGFhN2p5RS1XOURvdFhNd1ZvODd3bF9LbHMtY3hUdm1GcXhlaV9kdzFzc0VJb0IzdU4wUzZkb0JHcU80OVZpSDlub1RwMUMzeURrZlVsdFlQMnJhdmJiRF9oZUVIczgwVXZSanZkdl91Z1Bnd0xNXzhMU2lGVG8td1NCTUxRLXYtTk11dU04UThFajJScVJGZWNwU3hzUnht?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Samsung Umumkan Pemenang Solve for Tomorrow 2026, Tim BryotechAlpha dan I-SEUNG Raih Juara Pertama - Ayo Bandung - Ayo Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemxIaE9ORkNhZWJPSjV5eGFzLXJ3N0tseDBDcFhSSTJGT2FOMGlPYUdrVUZfelZOSmg1S1hQeWh0RmpMUThmZlp6WTFRU2hRWEU3cEJTendjSEpPcWltaVVmcjFEcFhsMkE4YTJ5bmo2OTM4UkR4LVQ5MmtwOHN6bDYtM185aVdTRTRLMVdGUEU0azhoM25MVmlNakhkZ2ozVElIUUdXY1J2WDBYOFd5RFdHV2xqd2tpWDlyc2t4azRhbW1sckdESE1xTFh4a190R0FQUzBVQVpqVjA1aFlrR0Nn0gHnAUFVX3lxTFBQZ1JGUS1CbjQwRUE1U25YcHRjR1hrUVhhbkwyUzkwRGZ1OHlQX2xKQlZpQXlZNHVFQ3VzcjJvT0FaallNdE5MSjlXdzNQTVVpeUZyRjBpYXBNaElacVVKM3RkX21aN2ZuaFB2c1BRMmQ4TjVUNmJLamo5bjdGNUN3QUxIMWZrbS0tSk1JcGwwNHI4a3dkY1l0M0t1YVpteXlMN2tXVlE0QS1kbVdiTFkzT2c2QWZpVEJCU1hiTlZ5dW9CN2FxRmM1TnNOa1VGZUtwZFJ6UlZHSlp6b2xlaEVsSmpTSXplQQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -256,8 +262,8 @@
      0
     ],
     "w": [
-     9,
-     8,
+     7,
+     7,
      4
     ]
    },
@@ -272,12 +278,12 @@
      "Sen"
     ],
     "p": [
+     0,
      1,
-     2,
      0,
      2,
-     2,
-     2,
+     3,
+     1,
      0
     ],
     "g": [
@@ -313,10 +319,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
-     "r": "Ayo Bandung"
+     "t": "Foto : Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0VxZFhSSXM3c29GdUhZZW1yanUtNF9uWFVBVng4VmMyN2ROMC1WM2l1dTlJSlY5RmpEZ1ViZnVMeDJDSDdVb1Q5cldVcUZhcVllUG15RDhBQUY4eHo2THM3LUw5UTFNUGdRVEZoZTVpSTlfRm1kU29SLUxiNDV5SGlmX1BadzZ4T1k4UzlEMXp2VzRRaWtrazV2S252SENoVDR0a001d29uWmRsTnRSdlJhUjJNYlVfamkyQUh1UzRfdw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -332,9 +338,9 @@
      0
     ],
     "w": [
-     1,
-     24,
-     24
+     0,
+     25,
+     28
     ]
    },
    "trend": {
@@ -349,7 +355,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -359,10 +365,10 @@
     "g": [
      0,
      1,
+     10,
      8,
-     7,
      4,
-     3,
+     4,
      1
     ]
    }
@@ -414,9 +420,9 @@
      8
     ],
     "w": [
-     2,
+     1,
      6,
-     11
+     10
     ]
    },
    "trend": {
@@ -432,7 +438,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -442,7 +448,7 @@
      1,
      5,
      1,
-     6,
+     5,
      3,
      3,
      0
@@ -459,10 +465,10 @@
    ],
    "h": [
     {
-     "t": "Tutup Bimtek PAUD di Manado, Rosita Manoppo Pobela Tekankan Pencegahan Stunting - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXJRSUhqSkZ4MTZ0VllwcHNjclE4aDZ0UVluTnhSUHcxUmQ1UjlpeDI3QzVsN2ZBWTluYW9OTHdJRV9lem1hakFyOHpMamdYVzlVenhQclZsOVVEcEJQQVdmZE5WcXMtNTNQWXE0MVJmb1pEeG0xOEdSWk50dzNKSnZVSm5reHJZY054VFFIRklYRVVuMjcwbHhTVVpPZjc4Rmk1Y1lncVdaOEs4OXB4T1k2b3gxVk5QWHRPbA?oc=5",
-     "r": "RRI.co.id"
+     "t": "Indonesia Emas 2045, Harapan atau Ilusi? Berikut Tulisan Menarik dari Guru Besar UIN Bandung Engkus Kustyana - Jurnal Soreang",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWTFxZzhoQ2tyRWNNZkp0QUFOeU9Nd3lvV2hSeWp3bHBHN09pQ0gtV0NwNUJaMTRScjI3TFo3c29GUjFKbEhqdlJZYnlTcWh3NDRQVkhGbmlFUENMajlYS2c2ZXZNX0pTWm1RMGFLUG91UlhpNzNZbkhhczg4RUhCZlJTc3NBbnZMRlBSRmQzbFhybmNGczc5OFdWVUFPZUg0Ty1WMHpHbXUtelZNU2tDU0EzcGNWVWNMV25mRUZwWmxNZWdZVTBWbk5rejJNelF5bXQwOUcza3J2b2FpWTFMdGpaRzZmdGRTS2Y1SmdoaGg2VTNsb1NjX9IB_gFBVV95cUxOQnNWRFc2LU5TN2NSMkF5S3hpWWZqMHNQNEt4QzcweUdZRXJDY2pXbm5hejBYWUpqSW0yVER4eG1pNGNLRFpkREItUnF1SmhpQklidk4wbS05SUpkV0dNU1RxUmZ3bkJRaWlWREFNSjQtSHByaEhxbnlucmhUeWdRMTdtdVZKN1kxNE1LSEdvcWs5Z2pXUlc4MWNLWmFwSm1ERkIxZUZlbjFGaHZGVWhFNFlNdk1CUXRua2paRnZ1THBuMENnb3Z3bFJJXzJaX0xvZlhTNkVGNlJSdW1wZ3NaczdyYlRaR05TZ3hUSWV1dy1Zb3NTNzdhWFdDbUlmZw?oc=5",
+     "r": "Jurnal Soreang"
     },
     {
      "t": "Ratusan Pengurus Laskar Prabowo 08 Jawa Barat Mulai Konsolidasi di Bandung - Tribunjabar.id",
@@ -496,8 +502,8 @@
      0
     ],
     "w": [
-     7,
-     26,
+     9,
+     25,
      2
     ]
    },
@@ -516,9 +522,9 @@
      3,
      2,
      1,
-     2,
+     3,
      0,
-     0
+     1
     ],
     "g": [
      0,

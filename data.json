@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:58:28.740422+07:00",
+ "updated": "2026-11-02T21:51:52.053933+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
-   27
-  ],
-  [
    "Ayo Bandung",
    26
+  ],
+  [
+   "RRI.co.id",
+   25
   ],
   [
    "Tribunjabar.id",
@@ -31,12 +31,8 @@
    8
   ],
   [
-   "Jurnal Soreang",
-   6
-  ],
-  [
    "jabarekspres.com",
-   6
+   7
   ],
   [
    "Pikiran Rakyat Koran",
@@ -47,24 +43,28 @@
    5
   ],
   [
-   "detikcom",
+   "Jurnal Soreang",
    5
   ],
   [
-   "Antarwaktu.com",
-   3
+   "Koran Gala",
+   5
+  ],
+  [
+   "Ketik",
+   4
   ],
   [
    "bandungraya.net",
-   3
+   4
   ],
   [
-   "dialogpublik.com",
-   3
+   "Radio PRFM",
+   4
   ],
   [
    "Pikiran-Rakyat.com",
-   3
+   4
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Banjir Jadek Kopo Jadi Perhatian, Bupati KDS Dorong Penanganan Terpadu Bersama Pemprov Jabar - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlpmd3JGemp2TG13aEZrTVFmb3JhNm93NVFYTzJ0MG9wMVJhTmZRTHlLaUxNOEJCaTFBUHVfY1FnVmZLOEZnenJzUG43QkhVdlg2eWJSNVpvc0tZTnpkRzd0SmRneG1CbEhRNks5NWFZbHc4YUtFSF94QUVPOXZkRlcxMENDVHFOdDZnTFNKemFtdHdjUm9aMUZoelVoWjZjWVVFam1rSHZfYUx5M3dFWWhNOWVaTjAxd0pWS0tzMWVPd9IBswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTQ?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Bupati KDS Ajak Seluruh Elemen Perkuat Kolaborasi Wujudkan Kabupaten Bandung Tangguh Bencana - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjhudDNhMzIzZ2pYN3hfbjBuN0oyT2VlZ2ozVlBTYlZqRWNfTGFPcTZDZkdWdkhaTFhfcGVoZmhsR3pZSHZhcGo5WTVyMkdyYnFrb1U4Z1ZjOWlBSkNQRTNJOTBTSkdtbkZERlk3alR6MzBYZFFOUGtzT09PZGhoOFl5VXZVdVEyWmRYWG5RdVctOF8tcEN4X3FyQTd6ZE9kQ3JOSUFvaHJETjljNFZ1Y0EtQVRIYWhzbWRXaWJZd2U3NXfSAbQBQVVfeXFMTXA4MFB5MjNIcTB1WnNQUEZMdVVmWjkwUmtBdWlHUlR2aC1ULVo2elNiQngxNWFjal9oRHFwVXpvdWJyWlh1bGxwMk4wUDhrSVhydHZNcFBmcFlnRlAwbkliRThEVFpsU2RQd1lVV2NYUVdxak14SzhHaTdHLU5TaGlBTnZiLUhDcXQ5ZVhjSjEzZlNDRHk4RDVNQzRMTTNFQ0t4WFlsaVYzT0xkNVJZMlNTX2ZK?oc=5",
@@ -88,12 +94,6 @@
      "t": "Bupati KDS Instruksikan Perangkat Daerah Perkuat Mitigasi Bencana - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0hJNnk0YldtU3RTMDZsdkNnSTRyakstU0ZCWm9qS29EVmRhVjdOUG1fMjZrN0VqUDdDUC1sTldzNFhyOXk0dk9HNUxrU05ucURGSUZxelhCb1ZyRkN2Y3BDdTNqX0w3SHU3eU9JVDNTMk80LUxsM21odnd4ejE4aFBrSlNhdDd4dEM2cHpTMUI5VzQ3NkpHdkxZVmo3VWh1WVpoN3hweDRYODRu?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati Lantik Anggota BPD 10 Desa di Cihampelas, Tekankan Integritas - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzc1by1FcFl0cDFwMWJwNUdMczFPN1hXNUxNaXFmNHVBZGJCZEZVZzJyZVRWUTd0bHJEYWtFX2pvSkl4VktfSkwyUWhyc3ZYVkI5ekI5VDZpLUlwR240LThwRFFMU2FQdWtHMVNad0tQTnhaNGNaNGtNekVxM0JKbFBWSUV4cm9yR2pqb0xiU29pWG9YQ2VaWlRpMm1Fbm9OaGY2OG9acnVCa19pOVhj?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     11,
-     30,
-     4
+     12,
+     28,
+     5
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      2,
-     9
+     10
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      0,
-     4
+     5
     ]
    }
   },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     13,
-     20,
+     10,
+     18,
      1
     ]
    },
@@ -203,9 +203,9 @@
     ],
     "p": [
      0,
+     4,
+     0,
      5,
-     1,
-     6,
      1,
      0,
      0
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
+     "t": "Harga Aci Melonjak 30 Persen, Farhan Soroti Nasib Pedagang Cilok dan Cimol di Bandung - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazVSOUJjd1JjQzZRYVkxUDNmamtSanB2cGViYlFrTEJib2xzNENBWGtXekRZTWdqUXh3NkVRb3VjZEh1UlplTGhxUW0zLVhpWjY1dkdEWVlzV0hsdXBTekdsN0FZc3dTNG5BSmJBQkxkaUVIaVRSNVhGMmJOczZ1U2RQT1A4elJqZVo4RUFMUHFUYlJYRnd0LU0zUnZVelBHckpIUjUtaXBPbFBwVGY4MGdtTHExakx6U0hGWV91aUZVaHNGcll3QjAwYl9Bc1Ay?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Halaman 3 - Tribunjabar.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTdVQVlIQ2JrUFh3Z2VjWmVoenV3b05JejFsV2hJUTdxdW5NV1hOdTBKXzdyaktnVC1sUEJXTlpOd3JvU0lBYUU4NXpTNExITkx1NVRCcGM3eXNzejI0V0xsV01ZTjZZNDFzbS1kbjYtdk1DNzZYUDg0UnBDWmZQV1F3NTd2WHljRU4wcTR1Z3Y5NDNoaWc4UWgtT1ZWdkY1WXRfSUhGdXF3V25ZYWVhcXQzUHNjWE0zNFJ5TE90REZnUm5obDhkcHRCR0FQMmxo?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Harga Tepung Aci Meledak di Bandung, Pedagang Cipuk dan Cireng Pasar Baltos Terpaksa Nombok - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3NReG9Sa1VoRC1sN1p0dmNJZ1lJalRvTUdkbVFVZFpQMGtZYTJBblprWi1PbGFPcmNyTU9yVDgwVWJmX0FWWkVwM0hQTG1Fbl96ckl1bFVZaXBFSGpiMElId1Z0VzhZOHRUdDJ3UVZwS29kREtZbFp2OTM4TmhSd0N6S0xaeko1QWtheHlhUjFneVkzQkMybGhUMDJXZEc4ekN2YnNCUHBlcmc1dGo3Qm1JNTlERWJocU4wc1BFZXJVVWNNN25hNWV0anptNjk3NmRMQjhKQWk?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "7.893 Anak Tidak Sekolah di Bandung, Disdik Ungkap Faktor Ekonomi Jadi Penyebab Utama - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVG5Ba0g0ajdSMnF5ZGk0czAyRF9SNzdESkljR2xuUVU2MnRlVHJObnA2dXpCdjlxTHQ1MkV4WHJOMVFtd1ZKeFRDUmh5Q0R3QzhVZkRldDM2bFhSYVNRXzZUMzFsYlZNUzNwVEFUUXRwTklPb2kzQ2tNUnp5aTMzSHAySTZRUnRta1ljcFl1czRIOW1WZTljQzNlbDRJUXZIVC02NExSLXlCNVFvRDFtVmx5RVZCOFlIWTBwQkZaQ0JSS2xGZnhIYlRmQzN4dWM?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Foto : Kebun Teh di Pangalengan yang Direvitalisasi Dedi Mulyadi Dirusak, Ribuan Pohon Dibabat Oknum Petani Halaman 1 - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUNOaDJ2TGgwT0dTN0xLOGs2NGdrRHoxejlQME9UNlJLakhrT19hTmpnUXh3cDBxY045UmxuUm11RmhjWWZyUUFuQi1OZ1NWMlBRVmNIdXF0Y2dHY280RTBQd1Fta2FpM0NoaDRfUG9RSFFIdG1pa0J0T3dJSHJMQnFuM2t5OGRpN3lSamIwdURIbUU1VHNMTHAyVXVlSFMxb3dibjMwLU1rYnlxbUhYa1pwZ3loaEZGNWJXYlh3V0JGcDZob3I5dFdQa1N6Zw?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -262,9 +262,9 @@
      0
     ],
     "w": [
-     10,
-     10,
-     5
+     8,
+     11,
+     6
     ]
    },
    "trend": {
@@ -282,8 +282,8 @@
      1,
      1,
      2,
-     3,
      2,
+     1,
      1
     ],
     "g": [
@@ -293,7 +293,7 @@
      4,
      0,
      0,
-     1
+     2
     ]
    }
   },
@@ -313,15 +313,15 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Viral Video Perusakan Kebun Teh di Pangalengan Berbuntut Panjang, PTPN Tempuh Jalur Hukum - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEloQkVmdjlPS0dqODdITnJyVzZZWktBNUZQREhwU08zWV91Snlma0xNazE1OTlpTUIxWHNzbXVvNHFkbXdTNlFscjh5N21FWXMtX0w1WTdJREgyLWRVaEdxcHBPT2xCazNETzYtTlhZdU96cVRvdGxTcnFPbWZLSEs4cTFrN1QyM2pLLWttb2lHVHhIS2haQWg3dGtzWk56QjlwVGxnWFV5a3Z1ZHlETl9XWmdKb1JCUFU2b0xmcmc5cTdkaDVLMDhheTlkd3VzZjE5N0x30gHbAUFVX3lxTE95VGlkajVOVmhXYWlZbHpvMUdXeGVueE5MYVBIeTZRUzRiUnh1cHNVOFNzX1ZGNXFVMVowQlBxWVZSdURIT21sNEdVWGg4YU5xS0ZxRS1jWWl3bTNQMHdyaEk3Y3FqbzJGVXRwQ0dwZnl1NXItU3F0ZHBOc0ZScmVTYVN0WE1MTTJfXy0yRXBFel9YSFlCU0s5Zk1qRGhMUWE4dF9Kc3l0UU84Z1ZmSWJGRlptMFhlMnZfY1VudEpPRURCeS1BN2J0ZWlqenJrcmt0RUx4alRWRzdkNA?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Polisi Datangi Rumah Mahasiswa UIN Bandung, Dari Saksi Menjadi Tersangka Penyerangan Mobil Polisi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnRWeEFXazdFRWxtN3JQSkFqbVFVb2NaclRwUjFaSUxBUDQ1N0dCMVVZdkhHaTlvdDd3YWtkdVAxZXZYcEY0VGRoeUpzdFFHTnVfczdFcUg5NVplNmdTZng0eEpHU1NwVGdVczNtbkdNWnhmcUltXzZ0LVJYcmVJWThNcDlyeGd6VU5TMFNySUVLTG9iWXdZOVhlaGFPUXlZV0xNM1ZwQkQzZF9VOFlxU0psUUx1dFY4NzFBZVZTZ3EzX1E3U1FKZEJEbDZjZl91X0xkZEMzX1ZHMUY1cVBxUg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Anaknya Jadi Tersangka Kericuhan Demo di Bandung, Ibu Mahasiswa UIN Menangis Minta Keadilan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFxQ2NwNFhlUkhFTkN5UnpCM01JcnV1LVBudjFMcmhsS2k5czRyTUprUDRwc2NrcVU0aWJtaHMyWjRvTTY2aEFoNlItcUFaM2lVLXBoQk9JSVZqWnI0NWwxWENob0p6MHNUT2h1YVZIZlJjR1J6cnBTaWkxeVhwNG16NVlSS1IwSDFTbk9TU2RrbTVXLVFoZk9zdHNuTmxRcVZzUTN4OGFvYVRDaU45eWdWSFJMUUxIand0Qmg0RjRoaWVUdVU2QTNQbVRpWWFjT1hsYkJuQTY?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     17,
-     34
+     19,
+     33
     ]
    },
    "trend": {
@@ -364,12 +364,12 @@
     ],
     "g": [
      0,
-     1,
+     0,
      11,
-     9,
+     8,
      4,
      4,
-     5
+     6
     ]
    }
   },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "20 Ton Sampah Diangkut dari Sungai Dayeuhkolot, Sekda Jabar Turun Langsung ke Lokasi - Satumedia.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQek1tQ3dHeGpBS0ZsaFRzZ19KUTMxOXZtejlscEtMN1B3dEFWZE4xWkF0SUxIWlhYRmpoM1JiMG04SnJnZlBCWUpOaDlCX0lmYWhMTUY0YTkydncwS25BT19pZHVlcFVfLUxTeEpWU29zcTMxT08za0pHWW04VzBsdTl6ZFhIOVdXZUx3VzlRd2RoUEFQdlFQVkRId19vc0llMEtGbnhBc3Y1bTZwMmVYeHAwMkYxMmtRUU85bg?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
      "t": "Mahasiswa Unisba Ancam Terus Turun ke Jalan Hingga Pemerintahan Prabowo-Gibran Penuhi Tuntutan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0l0OWR1V1hCeHBEWExHMGRYWU5KTTRGMHBWcGhKTHloaXZVWDFtaWNVWHF1RTkwaTdpSl9JTVhZSTZzNEM5eTNKM1FYTHlxdnNDWG44VnpKcU5HNjNNQ010QnpJcHRVcE4wekNOeFNySW85eVJCSGFhemRqb19xN2VaUEVVeTBqdU9hVlFGZDlsb1pxTUF5LXZYaGhfRFJfU0FDeFVBQ1lDYWVwdWt6ZVhpMUlZN202LVNlcE9wa1BmNGJRTDlsNnVtd0hJVFVqU2VQNThnZmk2X2xBOXc?oc=5",
@@ -393,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUotZzlfRGN2SlhlZG5kMkhqRVYxa1puU2FqR2FYeEJQVE5GQ1hLVFVjN0RiZ2l5YTBuTjUzWnBtR3RsY1BvTHFoYWNHZ2R2R0xPNzZmVGJVcG93ZGg2UWpySUEyejhKdzk0UzN0WGxOUXlQeUpiWVBWWi1XaS1lNDZvM2RXMFpNV2hYNGJnSU91a0M0bGRIYlVWTlZHMHJSNzh4Q3VkTUZIaXhnYlhlQVIwWWXSAbQBQVVfeXFMTnVKLWc5X0RjdkpYZWRuZDJIakVWMWtablNhakdhWHhCUFRORkNYS1RVYzdEYmdpeWEwbk41M1pwbUd0bGNQb0xxaGFjR2dkdkdMTzc2ZlRiVXBvd2RoNlFqcklBMno4Snc5NFMzdFhsTlF5UHlKYllQVlotV2ktZTQ2bzNkVzBaTVdoWDRiZ0lPdWtDNGxkSGJVVk5WRzByUjc4eEN1ZE1GSGl4Z2JYZUFSMFll?oc=5",
      "r": "detikcom"
-    },
-    {
-     "t": "Pilar Whoosh Sumbat Aliran Air Cibaduyut, Pemprov Jabar Minta KCIC Sambung Drainase - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXNmRG9RNzJIZ1RxVlllaDJwV1FIOXJnY3I0MDVYRGE1WjhRZjJUYUF6VHpIUXhRTl9aeVdqRkhNTnBGRWszZzYzNFJMdlVKSUxDdG04Uk14Qk5EZU80MjgxdU9kRE5EQ0ZBTlVfaHY0R2dGY3hqLTUzS24xaXBmS2pxOFZjb0xGYnJSSlV6REtFQVpRWmtIaXhsTU5RWFgydXVYX09wQUpHWWZzZnpIQlV1akRHNXhVa2xBMXBwVzdpYi1JTng1aE10dnNQUQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -421,7 +421,7 @@
     ],
     "w": [
      3,
-     5,
+     6,
      14
     ]
    },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     24,
+     6,
+     25,
      2
     ]
    },
@@ -520,11 +520,11 @@
     "p": [
      0,
      1,
-     1,
      0,
      1,
+     2,
      0,
-     2
+     3
     ],
     "g": [
      0,

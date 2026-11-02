@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:24:01.149975+07:00",
+ "updated": "2026-11-02T07:31:30.036508+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,18 @@
  "portals": [
   [
    "Ayo Bandung",
-   29
+   28
   ],
   [
    "Tribunjabar.id",
-   25
-  ],
-  [
-   "Kompas.com",
-   19
+   24
   ],
   [
    "RRI.co.id",
+   16
+  ],
+  [
+   "Kompas.com",
    15
   ],
   [
@@ -31,19 +31,23 @@
    8
   ],
   [
+   "jabarekspres.com",
+   8
+  ],
+  [
    "Pikiran Rakyat Koran",
-   6
+   7
   ],
   [
    "Pikiran-Rakyat.com",
-   6
-  ],
-  [
-   "jabarekspres.com",
-   6
+   7
   ],
   [
    "Antarwaktu.com",
+   4
+  ],
+  [
+   "Disway",
    4
   ],
   [
@@ -55,15 +59,11 @@
    3
   ],
   [
-   "Disway",
-   3
-  ],
-  [
    "Koran Gala",
    3
   ],
   [
-   "Radio PRFM",
+   "detikcom",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "SI Harus Jadi Motor Ekonomi dan Pendidikan Umat - dialogpublik.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUGVJdmhaSTFhOFhqTXEwaUQ5STRkSzRzX212M3NZNnlmWVA0SmRGYWMxdGp3YURNZXhJdVktSVZIcG1nTUJRb2FOX2g4dVYyTHpYN2Y2eFRyUE1wS3JMVkRhSE40MllIQ0JTdVRSdXFKUFpfR1VuVHVJWElKZw?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Pemkab Bandung Ajukan Tambahan Kuota BBM Subsidi Akhir 2026 - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjg3bHJlM2cxTUY0QWdVMThzZlVMQkhLTVEwZ1J0MWxXMEoxR1ZoM1BWLXBBMGRZbUFhRDgxN0xuTEdhVC1RSkJjcmRaQmZ5amY1THcxeUh3Ull1cmJsRGhWVC1FcXYxTmhNaUV3RUpRT2ZsdDI4ZzVRcDV3V1VaWEVueXhGMHdGQ0NxekRkLWhxaE9fNjQ2TlluaFJmS1ZyY3FRRHZrRHF3TnUwakNKU1JldGg4dw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTC10WWM5T2pabWhKZlpHYzByNFZSZUlPdktSbW5qNW9uWUltZGh4Qy1wdVhMOFJEMFNjSFc3cW5NV1Bmc191RGdUcTNzUUdtUkstYVNvbGltb21qMlR5Yk5mNTkxOGFBS2RvZGNpMW1fYmE5ZUZydkZHNGFHUmlpcW5PWG9fOVJtUk5fbXRWbVFPN3RJdmZqYUpPSElGa29uektUR1JHNTBwVTJDbU1tdzdXbS1jd1B2ai1pT1daWTN3SEc0eGVpZ0ZYMW04eFU?oc=5",
      "r": "| kejakimpolnews.com"
-    },
-    {
-     "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
-     "r": "Mudanesia"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -111,7 +111,7 @@
     ],
     "w": [
      14,
-     24,
+     23,
      1
     ]
    },
@@ -131,8 +131,8 @@
      1,
      8,
      4,
-     2,
-     0
+     1,
+     1
     ],
     "g": [
      0,
@@ -155,22 +155,22 @@
    ],
    "h": [
     {
+     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
+     "r": "MOST 1058"
+    },
+    {
      "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
+     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Bedah Buku Kepemimpinan AHY, SIGMA Ajak Anak Muda Kabupaten Bandung Kritis Lewat Literasi - Bale Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRaR25CeWZHME1ZSDhBSnJfN05Hd1FBU3luNVJ5TEdVUXZ6aVpyNkJmeXhsWEdTclk1RTFEOUl0SHJzVHZLWUhjMUJwZGdwMzhTQlUxYXdvZWYzOGU2Qi1Gdks2TEFQYldac0haWXF4M1RHc3BPYXlxRmVhRE95Wm1fLVlnUy12RDNwOFhtend3TFFWTzBWZ2VhRXBWMjNBSy1ZRDRSd1ppRnVoTG5zdkpFR1o0Z0w5?oc=5",
-     "r": "Bale Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
+     "r": "Pikiran-Rakyat.com"
     }
    ],
    "v": {
@@ -180,8 +180,8 @@
      0
     ],
     "w": [
-     9,
-     17,
+     13,
+     22,
      0
     ]
    },
@@ -198,9 +198,9 @@
     "p": [
      0,
      4,
-     0,
-     4,
      1,
+     5,
+     3,
      0,
      0
     ],
@@ -225,6 +225,12 @@
    ],
    "h": [
     {
+     "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
+     "r": "Mudanesia"
+    },
+    {
      "t": "Pemkab Bandung mendorong regenerasi petani lewat keterlibatan pemuda - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDdkSy1aV0NHSGZkOExWVEwtQUI0cVVlM203SE5zenMtd3hoQWFZVkU0anRnRlhVQVl0TWxRTy1rY3otX0ZsY2FEVV9XSkR1NldlS2JfV3c5WmJIUFo1eGl6d1ZBRktQR1dNMlh0QzQyc1MwTF81Wl9haFNtYmJQOW5qSUtsS05RaVVUTUlrbkEzMzhwcGIwX091TkxqNnFmdHFoR21UM2YxV1lNd2k0SdIBtgFBVV95cUxOLVBtX3VxLUNhUmtXaGtVdFo5QmUwUkotcnRVdktkel9QWE80SzU3UDQ3eDNudWc2T3F5cjBqRmtPdVdwb1VLMWs0cnlONWp2OXBlb3RGWlZ3UHhsWVl2Q3FFRG5iOXNTSzhwSjVnSndtcElPNXpmQzVpS3pDaElod1RtMXVFcFkyRnRIUXdYZ09Ub2dYd2JoMDNwZFdvdkpTcXBsb2dGUm1WWEVhR1M5QnZieDZEZw?oc=5",
@@ -235,12 +241,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUhWdDRSU0RmN0xmNGFhN2p5RS1XOURvdFhNd1ZvODd3bF9LbHMtY3hUdm1GcXhlaV9kdzFzc0VJb0IzdU4wUzZkb0JHcU80OVZpSDlub1RwMUMzeURrZlVsdFlQMnJhdmJiRF9oZUVIczgwVXZSanZkdl91Z1Bnd0xNXzhMU2lGVG8td1NCTUxRLXYtTk11dU04UThFajJScVJGZWNwU3hzUnht?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Samsung Umumkan Pemenang Solve for Tomorrow 2026, Tim BryotechAlpha dan I-SEUNG Raih Juara Pertama - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemxIaE9ORkNhZWJPSjV5eGFzLXJ3N0tseDBDcFhSSTJGT2FOMGlPYUdrVUZfelZOSmg1S1hQeWh0RmpMUThmZlp6WTFRU2hRWEU3cEJTendjSEpPcWltaVVmcjFEcFhsMkE4YTJ5bmo2OTM4UkR4LVQ5MmtwOHN6bDYtM185aVdTRTRLMVdGUEU0azhoM25MVmlNakhkZ2ozVElIUUdXY1J2WDBYOFd5RFdHV2xqd2tpWDlyc2t4azRhbW1sckdESE1xTFh4a190R0FQUzBVQVpqVjA1aFlrR0Nn0gHnAUFVX3lxTFBQZ1JGUS1CbjQwRUE1U25YcHRjR1hrUVhhbkwyUzkwRGZ1OHlQX2xKQlZpQXlZNHVFQ3VzcjJvT0FaallNdE5MSjlXdzNQTVVpeUZyRjBpYXBNaElacVVKM3RkX21aN2ZuaFB2c1BRMmQ4TjVUNmJLamo5bjdGNUN3QUxIMWZrbS0tSk1JcGwwNHI4a3dkY1l0M0t1YVpteXlMN2tXVlE0QS1kbVdiTFkzT2c2QWZpVEJCU1hiTlZ5dW9CN2FxRmM1TnNOa1VGZUtwZFJ6UlZHSlp6b2xlaEVsSmpTSXplQQ?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     8,
+     10,
      7,
      4
     ]
@@ -272,12 +272,12 @@
      "Sen"
     ],
     "p": [
-     1,
-     1,
-     1,
      2,
      2,
-     1,
+     0,
+     2,
+     2,
+     2,
      0
     ],
     "g": [
@@ -307,16 +307,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Polisi Amankan Penjual Keripik Terduga Pelaku Pelecehan Seksual Anak di Bawah Umur di Margaasih - Pikiran-Rakyat.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlJrbHAzbFRfWlFoZzB6alVIN3gtdTJna0ZzVE9nRmUtaVdXNHkxNTJlSVhEeDNFUDBYTm1ON01OT29UdlR2cnNwemxaMWJ1RFRWQmxqWksyQ3Z3WjF2Skw5Um0yd1hGN1JidjZQaUlUenB2Qmo0MHdfVy1odUV3TnIwRkt4c1R6Um1TUnlOQzVOanJWZkt1YlBuN2VuZmUwdmZsUHg0RHAtQlVxZm1acFZiOFFkUlNyOXVJd0FfYXhnOFNqdlFoaWlXcEVJMFNxSFZYVnBsbHRNMkQ3bEHSAeMBQVVfeXFMTUMwUTFDalF0NWN4UldwTlpPZWhSYzBXOV9La1FCUU1vOWRuUUtjYkl5R0hXVklraWpja2lHYl9BS05uNFMtQW1zV0pMblgtWjlsYmNPVzBsNlpmNkpaYkZEZkZySHlTV2FQS2w0SnFMal9MZHJURnJURUQ5SkRGMHpqMHNBNXFzT3FzM1NpSUduSzVmbWY0VXdqRUNTS0xLODIwTS1QaGZTM1BuSlRIOV9KRkNVZDF4T1p0VUFyNGRBcWVGSjQ2OUdnZEZKcUxSRUJlSlFFbEVRdGVsZXRkbW95N0E?oc=5",
-     "r": "Pikiran-Rakyat.com"
-    },
-    {
      "t": "Polisi Peringatkan Bahaya Gas Portabel Oplosan di Bandung, Tak Punya Standar Keamanan - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
      "r": "Ayo Bandung"
+    },
+    {
+     "t": "Viral Pria di Margaasih Lecehkan Anak Perempuan, Polisi Langsung Amankan Pelaku - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXh6NThWUnRNODR2a0hQeVRCTVZmZGFhZVVmem4yaV9mbktPakRyWjU0YlBVZDgwOWdITXBkcENIV2g1NGppWll1M2ZuZGdEVHE4ZWc3TWI2cFcwX3g1LWFpSElzbDJpdVVqSWdHQUl6RklxeWM5UlhmTWgzR0lzazR1a2hraTFEcVhXTk82bHRhVWtUWVNySTJXb1lFM0J3RWJLa0tkU3JxSnJNQ3QxMTFkMm1JclFxcDlrUHhwNGdZa1g1VlgzRQ?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -334,7 +334,7 @@
     "w": [
      1,
      24,
-     26
+     23
     ]
    },
    "trend": {
@@ -359,8 +359,8 @@
     "g": [
      0,
      1,
-     10,
      8,
+     7,
      4,
      3,
      0
@@ -415,8 +415,8 @@
     ],
     "w": [
      1,
-     7,
-     13
+     6,
+     12
     ]
    },
    "trend": {
@@ -439,7 +439,7 @@
      0
     ],
     "g": [
-     2,
+     1,
      5,
      1,
      7,
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     8,
+     7,
      24,
      2
     ]
@@ -516,7 +516,7 @@
      3,
      2,
      1,
-     3,
+     2,
      0,
      0
     ],

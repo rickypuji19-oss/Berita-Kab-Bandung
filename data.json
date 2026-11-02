@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:40:01.035762+07:00",
+ "updated": "2026-11-02T10:41:41.150890+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
-   26
-  ],
-  [
-   "Tribunjabar.id",
-   24
-  ],
-  [
-   "Kompas.com",
-   19
+   25
   ],
   [
    "RRI.co.id",
-   15
+   23
+  ],
+  [
+   "Tribunjabar.id",
+   23
+  ],
+  [
+   "Kompas.com",
+   16
   ],
   [
    "Radar Bandung",
@@ -31,23 +31,19 @@
    8
   ],
   [
-   "jabarekspres.com",
-   8
+   "Pikiran-Rakyat.com",
+   7
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Pikiran-Rakyat.com",
-   5
+   "jabarekspres.com",
+   6
   ],
   [
    "Galamedia News",
-   4
-  ],
-  [
-   "bandungraya.net",
    4
   ],
   [
@@ -55,15 +51,19 @@
    4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   4
+   "Radio PRFM",
+   3
   ],
   [
-   "Disway",
-   4
+   "Pemerintah Kabupaten Bandung",
+   3
   ],
   [
    "Koran Gala",
+   3
+  ],
+  [
+   "Disway",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Pimpin Apel Bulan November, KDS Dorong ASN untuk Tingkatkan Kinerja dan Kualitas Pelayanan Publik - Gerbang Patriot",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGJ3NHZOd3dfanYxWkt0TGxRaVZkNGVvSm9IU3RJdGNWWnlfbDNKMWljX3VOOTlHUUJOWHYtUTlJZjhPVlp6bGttX1hBNzlXQ2M3bFdaWGgzZEoycVFaZnNMRU45eV85N1JyVDhROVRia2huV09rRzZQWURyclhPLUU5dFR3ZUgtWmlVV3F4UHFLUm5TSmVIeXVCTi04YktBTzh0NmFoaUlZdlpyRm9NYk5XQ3JFYTJwWXZWMTlPYTJEd1ZqT0Z1U0tkVHJJU3R3?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
+     "t": "Bupati KDS Paparkan Program Strategis Bandung Bedas, dari Lapangan Kerja hingga Modal Usaha - Radio PRFM",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWREaDFJT1NnSF9nd3lEeFN1YUZ4UUkwZFlxZU5BSEFNS3k5NUlzaGNWcDM3cnBXaE1HcE1ULVZBM28zeElteVd3TzlxdlNQbXVoVEdDX3NhVU5Vczh0TlJ1bTBnTGxoVEVRMUFiN1RmTGJPaUxrQTJSMG96U2JweGJ4RHFTWUVDc01qQm90ZzJvQi1wM2xOUWNMSllSTFZwVWFmOGNOWW5jcjZ5TlBtcVJhSXJoMXNNaVljSXFxZl9sYUo1Qk5acTBlWTZFVDhmTHhzcUJMVEtPeUJBT1ZpdlN1MDZQdTNx0gHuAUFVX3lxTFBndzhXLXNTMERmZmZDVVBZcjdWeVlQUUVtajNXTlZBRl9oMkJiamM0d0tua3NhaDgwcE1xbS1EV2d5bzAwMHk5Mk9KaDV3NVgyTkI2REx6WlRBWTlITGFhZjVrcFg2MkV4Y3lEVzBvTEpEaXpTNWdiV0pUVnJ4TU1OS0dlR0Rfd251dTNlYmFKYVczVnd0YVRiandXMXl1Yml4bk1sOHJTZ3JNX0xTQUdMc0p0ekNMTUpOb09oZWZOb2RlMnlZRHJfcjg3bVUzeUFVVzBVVXRQd0wtSGdWdUxsc19jUGJ3d3k1RWRSbGc?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Penutupan Bandung Bedas Festival 2026: KDS Paparkan Program Strategis dari Job Fair hingga Modal Usaha - Galamedia News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUkYzQ0xsNW15c2ltMzQ5dUIwZGJZYWJqdVpqM0VJZjFQbndTeHVFYmw0elJMbGN3OFJSVU9scjFZc045RnF1OGY5NTJPeWtkbVhvZVp3R1RXVFFMT2dFcTRHWUE4WHI1REtyWW11aGNyLUtqTFNlNzlocExVemJzZmZoVFF3cW9TVk0zZk9rcndwMFN2MXlVaUZTUUoyeHBkdVBMRkpTNXRkd28tcC1tLVhwMEVpRWgzQVZBYmZlbVFlVHd2ZklOUTlTMUNBV0M2cGE1d3RmUEhRdV85V0gya3hEV1VDLXpHS3hZVHpn?oc=5",
      "r": "Galamedia News"
-    },
-    {
-     "t": "Bupati KDS Paparkan Program Strategis Bandung Bedas, dari Lapangan Kerja hingga Modal Usaha - bandungraya.net",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmI3OVZQc2RJS2s4Qkl6RzJCYWtERHN5S0pFc3pockZDOGQwekJUUHFUZkVKU0Z1WFlJYWQxakJMZGZRanBPRElXQXQxZG9ocGVLbEtST0p0bzRXSVBqUVU5cENvUTRUbzZ6dTJ1U0ZJc1BnS0hrVDVpM1RBX0NoUmJNMFdTb3Mzc3BiTDM4RHNuUVY2VWZVYmR5WUk1M05JTG45ZDUxNG44OUJSdVZ4dmN2dTJlcU4tYWo3dWlTUQ?oc=5",
-     "r": "bandungraya.net"
-    },
-    {
-     "t": "Bupati KDS Dorong Kolaborasi Syarikat Islam-Pemkab Bandung Perluas Peluang Usaha dan Akses Pendidikan - bandungraya.net",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQllWX21teFp2ZHZrT2dwZFVMTENqNnZOX1hoWFlQaHVvTHF3V21rMG1TdnFURFNCT2c3bXI1ZUZ4TVcybW9lUkxCbDFBdGpUSjJCOXFLMjdZQVM0ZWkybG5IOHBjS0lsbkFKbWw4SW40LVdpdTAtN0pNa01UaFg4SjhUUG4taGhaUC02cHR3dGZ4bmtpWVdES2VyQkJVWHlFQWw5UENlMXU3ei01WTJOWlNQcnpwV3psNUowXzdTZ0l6Y3NsYXYxaUZsdHhELTg?oc=5",
-     "r": "bandungraya.net"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,7 +116,7 @@
      0
     ],
     "w": [
-     14,
+     13,
      26,
      1
     ]
@@ -135,10 +135,10 @@
      0,
      0,
      1,
-     6,
+     5,
      4,
-     2,
-     2
+     1,
+     3
     ],
     "g": [
      0,
@@ -173,10 +173,10 @@
      "r": "Pikiran-Rakyat.com"
     },
     {
-     "t": "Bandung Bedas Festival 2026, Bupati KDS: Ruang Memperluas Partisipasi Pemuda - Galamedia News",
+     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Halaman 2 - Pikiran-Rakyat.com",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVZUalZGd1NZdXlDaVRsLUQ1ZkowSVgyaVAtWE4yTEUyenh5Zk42NVNMSTFqVzlEaEYtSHFxVTFtWlVlR3RqeUxGNGJJME1KaXc1VGdwM0hFeFFtWjB0YmtnTHplbXo1c0JyWUsxSEttNEkyYXdGaVlkQThTOUYtMVh5YWdVLXYwTC01aURBNzM3dzJqbXNTWG9vbWxXN0lFOFd6NW9WNWJJc1ZYMmxBdm9XSFdUM3IzRmhSWXY3S1NaNVFOdDVhcnJ3?oc=5",
-     "r": "Galamedia News"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFY4NmZoS1VmZGtIV0N2cUpkcGNBM2ZLZmF2NTRFX0h3Tm1mNVFuYTBSaWVCeUtWNXlIWFJFcEE1clRSR19PYjZuaW92UU5iRDdvRnFvYVhGNXVtTnNrOUthcDhyaVBTOGlrNWxMV1hISFdCOUVyYVV0bVJ5dnFyLW13UlJ6ZGVNWnlOM1NRV3Q4Wm5wbTk0Uk1ydHJiQ0t6RkFiRHpwSWRTN0x0ZTNTUXFVQjRHRXd6c3h3MVFuMmE4cGQwOUR1aDdB0gHPAUFVX3lxTE5jZ3hULVRjOS1uc1o0RXpXQ2IyMGtnZHc2WVVsU3VEeTBHenN2MVZOeGdsVDZBMC1weGtxWkFscHhZa2VJaFF2em5DcVhqWXpwbVZ0cVRyR015WFFheXBLUC1ZRl9XZVhCYVF6Y1VLN1J4T0VyWHBJQjVCZEZEZjdrNnUydUdKaHBOWU9KcDZkbUtqaDFLM3RDbG9hUHl2RTVmUmJEQkRxVmkzSG1hT0VkSndfNUNkajlMNEJFcF96YUo3dDNZejlSYkhlNHEzdw?oc=5",
+     "r": "Pikiran-Rakyat.com"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     11,
-     18,
+     14,
+     22,
      0
     ]
    },
@@ -202,11 +202,11 @@
      "Sen"
     ],
     "p": [
-     1,
-     4,
      0,
      5,
      1,
+     5,
+     3,
      0,
      0
     ],
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     7,
-     7,
+     8,
+     8,
      4
     ]
    },
@@ -280,7 +280,7 @@
     "p": [
      0,
      1,
-     0,
+     1,
      2,
      3,
      1,
@@ -307,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "HUT ke-80 POMAU 2026, Perkuat Pengabdian dan Penegakan Hukum - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYV9vamF4Mzk3Z0wyenBzbFZJS0duSm00U0RWaENEbnZQUU03eGJfZTEtZ3Z3UUtjQk9sMkw4SE03THB5X2h6bjN2Z1VseHhHRTFwZUdSN3lpbWRKZU9PV2EzMEpZR21GY2x2ZW1WY3ZHZzcxS0xTeEluWmN1Q1Q1NHVoZDBmaVFnZENTalFpMWxlWDQ1cVdhSUtiUmR3RjVGTVpBOVhzSQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Teror Senjata Tajam di Soreang, Tiga Terduga Pelaku Ditangkap Kurang dari 24 Jam - Radio PRFM",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS05iSzFuTlZEblg4dkRKeFRkRTEwNXhnR0duTkRlOXFaVFE3NmhSR0Nia29SZGFRak9pN3dRVTlMb1JaeEV4RGNLX2tvUEc5a3lsYnpRaGlfX2pLRk1KQW9sSER1QjZfVXV2R0pJd3c1UC0xOFB4ZDI2WkhETW1TYXVMaHRDUlNBSWlUeFZTaENPRUdjYVFnaXk1MEdQVENONUFTVjJfdVYwaGctaDJfeDJ0NUUxTGlLVXJuWmxVelJFR0dHS3ZZZGZ3RlQ5MHBHeVNBUVdYWnNkQdIB3wFBVV95cUxQa0RlZnRYZ0NEOTdXVzQ4RFJtUm5BWTVnYVJld0ZZZXhxamlYMlZvb2ozSUtHZkt1QjJqVGhRN056dUpFSWFMang0eDA4YWwtanhzdkN3UUlTZl9YRE9uWXBCTUhUNkdnVm9KZ0ZLQzBLX2xycUdPMktUZkhBNkpJNTBCUzZuNk9jT05jWExJVXVSV2hRbkx3UW5oSVJSNUhFQ1M4OGxsa0l6ZG1OZjNHV3hsc2puNUdmSjJjR0o5UTZ0Z1pGak9FenlYekFhOGhtQ0tFbXVCX3RjSHdtVGZJ?oc=5",
@@ -317,12 +323,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDlYcVBGSFFZZi0zT05Zck81a1k2MVZjVVZWLTlwanh3UHU4Ri1fQXlOazdUU0hwLXZQZWItT1c4cDJTNWRBMjJOM3JRcEsxOWZTMzNQaEhhOGNSQVYxNlYzN2VDQ3JINEs3a2wwem1QVGZVUDBpa3lQOU5HQWRWcEZvQVppd0thTXVuSjE1S3VSMmQ0OXpHT2stYzk0akU2Y2lDaWtwWUs0cDRCenZkazVTSjgtY1l4SmIxYw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Foto : Perusakan Kebun Teh di Bandung Masih Berlanjut, PTPN Tempuh Jalur Hukum - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0VxZFhSSXM3c29GdUhZZW1yanUtNF9uWFVBVng4VmMyN2ROMC1WM2l1dTlJSlY5RmpEZ1ViZnVMeDJDSDdVb1Q5cldVcUZhcVllUG15RDhBQUY4eHo2THM3LUw5UTFNUGdRVEZoZTVpSTlfRm1kU29SLUxiNDV5SGlmX1BadzZ4T1k4UzlEMXp2VzRRaWtrazV2S252SENoVDR0a001d29uWmRsTnRSdlJhUjJNYlVfamkyQUh1UzRfdw?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -338,9 +338,9 @@
      0
     ],
     "w": [
-     0,
-     25,
-     28
+     1,
+     23,
+     26
     ]
    },
    "trend": {
@@ -355,7 +355,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -365,8 +365,8 @@
     "g": [
      0,
      1,
-     10,
-     8,
+     9,
+     7,
      4,
      4,
      1
@@ -421,8 +421,8 @@
     ],
     "w": [
      1,
-     6,
-     10
+     5,
+     11
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     1,
+     2,
      5,
      1,
      5,
@@ -471,16 +471,16 @@
      "r": "Jurnal Soreang"
     },
     {
+     "t": "Tutup Bimtek PAUD di Manado, Rosita Manoppo Pobela Tekankan Pencegahan Stunting - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXJRSUhqSkZ4MTZ0VllwcHNjclE4aDZ0UVluTnhSUHcxUmQ1UjlpeDI3QzVsN2ZBWTluYW9OTHdJRV9lem1hakFyOHpMamdYVzlVenhQclZsOVVEcEJQQVdmZE5WcXMtNTNQWXE0MVJmb1pEeG0xOEdSWk50dzNKSnZVSm5reHJZY054VFFIRklYRVVuMjcwbHhTVVpPZjc4Rmk1Y1lncVdaOEs4OXB4T1k2b3gxVk5QWHRPbA?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Ratusan Pengurus Laskar Prabowo 08 Jawa Barat Mulai Konsolidasi di Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0tuSTRrUGt6YnhNdHVzckJrYmxsLWJZTnJuZ2xTRVpOWFhQU0kxYzVGYnAwc1NsU3ZqTmNndkRiSHhILVhSa3FPU0xqeVlsVEFXbnh6eEdNU2hxS0prYTJVZmVsdHFnb0s1NGo3Z3ZIdUVBN3ZpcXc2Rmt1S09jbFR2RnVBenNBbDBybktmNl9jN1B6dzVheDBDWC1ndzRmc1pYc2RSWGhqZVo0c0Y0R2xoS015LS1ta196ZGhqZTRfVUU?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Jaga Kesehatan dan Kebersamaan di Hari Osteoporosis Nasional - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEtfSzJWNmtaVmZkaDlrZzN6d1F5aDdabml1M01EYkVsR1VMNXUxZlpzc1FGaTc1TmZzcGJoRGFqYW1ncUpsWXUwa180MmI0Y2gyYUxJUGlCWDdEMFV6TGRBQlFweloxdTRmRVFrYzhGMHdmUDg4d1lOX3BkazFHQWdER25zR3paYWxaLXZjeVpGLURTY25icU45dWZwbU5TM0NZZw?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     9,
+     8,
      25,
      2
     ]
@@ -521,7 +521,7 @@
      0,
      3,
      2,
-     1,
+     0,
      3,
      0,
      1

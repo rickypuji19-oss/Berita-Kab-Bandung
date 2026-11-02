@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:47:11.292218+07:00",
+ "updated": "2026-11-02T12:48:44.833816+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,18 +8,18 @@
  "portals": [
   [
    "Ayo Bandung",
-   24
+   27
   ],
   [
    "Tribunjabar.id",
-   22
-  ],
-  [
-   "Kompas.com",
-   17
+   23
   ],
   [
    "RRI.co.id",
+   17
+  ],
+  [
+   "Kompas.com",
    16
   ],
   [
@@ -27,12 +27,12 @@
    10
   ],
   [
-   "ANTARA News Jawa Barat",
-   8
+   "jabarekspres.com",
+   9
   ],
   [
-   "jabarekspres.com",
-   7
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "Pikiran Rakyat Koran",
@@ -43,7 +43,15 @@
    5
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   4
+  ],
+  [
    "Radio PRFM",
+   4
+  ],
+  [
+   "Jurnal Soreang",
    4
   ],
   [
@@ -51,19 +59,11 @@
    4
   ],
   [
-   "Jurnal Soreang",
-   3
-  ],
-  [
-   "bandungraya.net",
-   3
-  ],
-  [
    "Antarwaktu.com",
-   3
+   4
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "dialogpublik.com",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati Minta ASN Percepat Program, Waspadai Bencana - dialogpublik.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnJSczJGeHlvMmJDbml3TURBMW83c2RwT0VxTGswLW5nX3JkTlJkb0diRXFNa1VWRGVfeTlDTl9zQnlDR25VV3E1TEJJMlRVTGtzSXdEOF9BMEhiUEFPWjJxTmV2QUN1RTJxVElEWnVzb04tOWhScGxKTWpWQ1RaNGpn?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Bupati Bandung: Muscab Syarikat Islam, Momentum Merumuskan Arah Perjuangan ‎ - Radar Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlBscGhkNHY5MlVkbTNxb3lrSVExcnRVbUYzdllYcFVnYkxqTzB5YkxoUzJjSHh2NmdScFJBYTNlMm9mSHJrWFowV3R6ZXBrelFyZ1NTbVdQM1J4NVJpODk5TjRaVGtTQ2xqSWxQcUQ1YnllQWszVmJjc2ZNVGR6NFBqTTM1cjB1a3FBcHNwUGlnVXN4dkkzcF85NzJVbE9GWG9NbzRyT21xVWpsSkVJU25n?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajhOUFpiU0FXbEdqeGtnbmYzY0Ewcjl5X3daUExDYkQ4YXpOTDZQMnFUVlMxOHdhS21NR0J4VE9VMEFHVC1Pc2Vyck9zSXZBVEFqNzFXank2Q3RCVnM5Q1NOR1pIWldiZ0JmWjBVSUtmbnhiaEo3QXIzZHBINWlNUmNVRi1HOEpHQTBBcU5hYmRFNEplRUZfNnZkU2lpYkkxd1JnSFFXekVaZ202bkZEdkhRNjQ5ai1BSGpLSXI3dlp5NF9YdUZqMDdqQWRPdUJabF9hcThOaVVpckd0bkhn?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Pimpin Apel Bulan November, KDS Dorong ASN untuk Tingkatkan Kinerja dan Kualitas Pelayanan Publik - Gerbang Patriot",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGJ3NHZOd3dfanYxWkt0TGxRaVZkNGVvSm9IU3RJdGNWWnlfbDNKMWljX3VOOTlHUUJOWHYtUTlJZjhPVlp6bGttX1hBNzlXQ2M3bFdaWGgzZEoycVFaZnNMRU45eV85N1JyVDhROVRia2huV09rRzZQWURyclhPLUU5dFR3ZUgtWmlVV3F4UHFLUm5TSmVIeXVCTi04YktBTzh0NmFoaUlZdlpyRm9NYk5XQ3JFYTJwWXZWMTlPYTJEd1ZqT0Z1U0tkVHJJU3R3?oc=5",
-     "r": "Gerbang Patriot"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     17,
-     22,
+     19,
+     21,
      2
     ]
    },
@@ -138,7 +138,7 @@
      5,
      4,
      2,
-     6
+     8
     ],
     "g": [
      0,
@@ -263,7 +263,7 @@
     ],
     "w": [
      8,
-     7,
+     8,
      4
     ]
    },
@@ -319,10 +319,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Teror Senjata Tajam di Soreang, Tiga Terduga Pelaku Ditangkap Kurang dari 24 Jam - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS05iSzFuTlZEblg4dkRKeFRkRTEwNXhnR0duTkRlOXFaVFE3NmhSR0Nia29SZGFRak9pN3dRVTlMb1JaeEV4RGNLX2tvUEc5a3lsYnpRaGlfX2pLRk1KQW9sSER1QjZfVXV2R0pJd3c1UC0xOFB4ZDI2WkhETW1TYXVMaHRDUlNBSWlUeFZTaENPRUdjYVFnaXk1MEdQVENONUFTVjJfdVYwaGctaDJfeDJ0NUUxTGlLVXJuWmxVelJFR0dHS3ZZZGZ3RlQ5MHBHeVNBUVdYWnNkQdIB3wFBVV95cUxQa0RlZnRYZ0NEOTdXVzQ4RFJtUm5BWTVnYVJld0ZZZXhxamlYMlZvb2ozSUtHZkt1QjJqVGhRN056dUpFSWFMang0eDA4YWwtanhzdkN3UUlTZl9YRE9uWXBCTUhUNkdnVm9KZ0ZLQzBLX2xycUdPMktUZkhBNkpJNTBCUzZuNk9jT05jWExJVXVSV2hRbkx3UW5oSVJSNUhFQ1M4OGxsa0l6ZG1OZjNHV3hsc2puNUdmSjJjR0o5UTZ0Z1pGak9FenlYekFhOGhtQ0tFbXVCX3RjSHdtVGZJ?oc=5",
-     "r": "Radio PRFM"
+     "t": "HUT ke-80 POMAU 2026, Perkuat Pengabdian dan Penegakan Hukum - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYV9vamF4Mzk3Z0wyenBzbFZJS0duSm00U0RWaENEbnZQUU03eGJfZTEtZ3Z3UUtjQk9sMkw4SE03THB5X2h6bjN2Z1VseHhHRTFwZUdSN3lpbWRKZU9PV2EzMEpZR21GY2x2ZW1WY3ZHZzcxS0xTeEluWmN1Q1Q1NHVoZDBmaVFnZENTalFpMWxlWDQ1cVdhSUtiUmR3RjVGTVpBOVhzSQ?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -338,8 +338,8 @@
      0
     ],
     "w": [
-     1,
-     23,
+     0,
+     26,
      27
     ]
    },
@@ -355,7 +355,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -364,9 +364,9 @@
     ],
     "g": [
      0,
-     2,
+     1,
      8,
-     7,
+     8,
      4,
      4,
      2
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Perkuat Kesiapsiagaan Bencana di Musim Hujan, Pemkab Bandung dan TNI-Polri Siapkan Respons Cepat Banjir - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3dXZ1dtWTVCSHlnRFRSZHFzTWxqVjZ4NjN4TG5EUlBfWjNvRWY5SV9qYmJsbUExcmVoMmZueHFfMURLZlIwdWVsRFZ1UW1nSjVyd0NmRDVNRlZ3Zl9mOE94VHdvalhRdzVLLUkwWkNXRXo2eEtjN0lPNGFlWG5jQVI4UTBBLWZNajJYSFdNdDFyT2tXOVRxUzJ0em1xSG1GaWNMM1JnX2xZTzBjNTdKOGkwZVljQzk4amYwVWNiaTFlYllOZUk3OFgzVTFqS0pKckhtd1E1QzlKQ0JlcVZvOUtR?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Lurah Cibeunying Tinjau Pembangunan Infrastruktur, Pastikan Program PSPKB 2026 Tepat Sasaran - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWZXZ1FIeG03cXhscEV2b0t5am4zU3pWUEdLeTBZTXpLZndNOUt2SUNpNk9iYzhsY05HeDhJLXZFWVBnQkpsR1VkdkVYd05nZ3FFX3BPZWFFemI3MUlTekpodlBKVjdoWWo5aU9ibmdlZGQwamg5cmNVM2Q1ZmdWZ2RVZlBjMGlHQ3BsMHVaZ3M1dVpSZDJYb2thRzRURV9CNV9RcW5VZTE5V2xnRGtJWTVnRnRzczdibFRIaTB0Z05GODBWUVdPdnZyb1o5OFQwZVlmaVJfdDhXS3RGeGo0?oc=5",
@@ -392,12 +398,6 @@
      "t": "Mengenal Jalan Layang Mochtar Kusumaatmadja, Ikon Bandung dengan Bentang Kabel 161 Meter - Ayo Bandung - Ayo Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWU5Q2o4bzZUM1NPV08xUF9FZEVPUFJmSk41c21JRkgzMm1xTTkxeG5BYlZsRVRhQWdReGZEUmgydkEyLWM4RURmcF9LZ3FvTUNmcmFmbndydmVmR1hlU0xtaEliSWFCdkxwYXMzbkFQS3RzRl9uRTlvWnJQazJaWDJyRjhSTnk0MXBSUmpqeGtlTjgwaC02eW1CNGxYYjZkQUVoT3pBQlR5RXppeVVNaUQtQWNUbTVqSzUwa0NIcGZ6cEJ4OFkxTWZiM09yMFl2RWNvMtIB2gFBVV95cUxQVmd0UzBTamF3bDU4TExVQnI5S1JUcV9hamN1T1VpdXdhWmMzNDRRQ0F4YnZfbDVJb29uSVE3YnB6eWc1SmxrRzlSNy02Nzc3ZUxxZXZzSlhmT1k0b1VRbHdROWZ6ZWhfRzVCX29RMUIwQ2tjQU5QVm9FbWMwTEVhdW5paFlwcFZYNF9yVGVmTjZNVGJXMmd5blM4cDJ1dmlxck1zQ3hieFlZYUJoQTlYdkJQWW95RGRYaHR1MTFBV015SVhjNVV0WnQxZlhoeEg0T3ZZaktTSGp1UQ?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Warga Harapkan Perbaikan Arena Playground di Taman Superhero Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDBPR0t6TXk5QkJUZ2JvRU1ZVXc0UjBVemhDQ0k5T3djSTBiYko4OC1CSzN2Q0RwVDNhNHExbExyRnN4NVlqSXRwMmc4VTdtRE1nNlEzSU9ESzBwVlpmMXQ5Tmw0Mlo4Y2hlU09zZWREOW5UVkd1eDYwcUZoZkUtTDJZbndXSjk1SXVZaV9TWElZZWVWWVhyclB0c0Q1ZVdRMFlSd2hsSHVrRU5mRGpUNFN3R2dMczdBZzVr0gHAAUFVX3lxTE9odjdIMExOTkl5V1V3SWkzMF9ldGpHZUxHVEJSUUpveWFvNC1MLUtJcXgyMnVGVDRFcGRJWVR0a2NuUV96M1ZwX3QzQkdmQzN3Q3JjVVRoeUdTelRMZERtSS0zMV9oWkdiTE5qajJYTWYtNmQxNlZyR25zaVAyRWFSTzRrQl9jWTJPX3V5VlhNaVdBalZMVEdEaWNHUTZERzZQNi0yZ0sxem1vVldLelBnUUFJN081VmtaUVp2VjJRRg?oc=5",
      "r": "Ayo Bandung"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      1,
-     4,
-     10
+     5,
+     12
     ]
    },
    "trend": {
@@ -448,10 +448,10 @@
      1,
      5,
      1,
-     5,
+     6,
      3,
      3,
-     0
+     1
     ]
    }
   },
@@ -465,10 +465,10 @@
    ],
    "h": [
     {
-     "t": "Dadang Supriatna Paparkan Program Strategis Kabupaten Bandung, Ada 600 Lowongan Kerja dan Beasiswa BESTI - Jurnal Soreang",
+     "t": "Semangat Sumpah Pemuda, KAI Daop 2 Bandung Hadirkan Rail Clinic untuk Layani Kesehatan Gratis Warga Rancaekek - Sentralberita",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZnVJUzJWVTIzMVFTMW1WaVVSX0FqNG90VFNqLXVzOTRHVWpXd095eW1IZ2kxMk9rbjliRFZDdFJLaV8zUFFVcGVlLVE0ai15VVF5UWdZdlVfOE9ERDlxV3Y2anRaNnNLQ0o1RHhXbEJFUUh6N0ZZcEN0MWVxNHN1TjhranF4MVAydWJ6UVk1WWcxSGpSSEFqZF82QlhiOUwwczhQbXVDZ054Ri1YNkFaX0FrUl96aDlRcDBFWFpKd3NMd2RDdmVZLW1HT3hENlVQbEFmZWtFQktlNHhMTU50T0RwNnp6SDBzbnpIVG1sQllOVkNGRmJVa9IB_gFBVV95cUxOQW8xYm1IR3Zad1BJLVpvMWdIUDRXUWdRaE9pZDZlN0pWME5LVUVuMnNjN3dtRnNkSkRCVEhTSDhJNFdETzVtejc4R3gyV1FMUjhsUlh0Qzk0ZlFLeV94ZDM5Y0ZrdDFyYzRQSFo4RlE2amFTR2RRalZTWUlLV1lqTVpoR3JNeVVlSzRSQlp4SzNWMDlBMk02SGl6MmRHQXE1TWo3b2xPOFFJR2otR0Y3Rzh1WndtU3VFYVpuQzB1WTM5RXFkRXNjWjJsSk1GWU9QMFFwZENhTk0tZjlMM3QwM2k5UDJBcDZaTVlWZ2RYdkFjREdFdHJtZXdOWGdWUQ?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLThQNS1BdzZVLUZuUUFzRHJsM3E5eFlaZUVsa2VST1Z1OUt5cFY1Uno3UXZBbDZlSXo1LWxmbTllVkExWDdwb2dNSmUtajNCSHg5aV9qeUdOaTZTMm03cFdrRGlmbHoyQnZBYTJGcmgzY2NEYlV3QkRzMWEyZFUxUUdMdC1HMVlUODhsVDA0b2x5eGpuNTRWVGVsUkdTdkZ1ckFPY2JPWTFDc3ZJb2txNWd3RWNfWTd6UFFGODhrQXZrZG53c0hlOW5iM3U0emZs?oc=5",
+     "r": "Sentralberita"
     },
     {
      "t": "Indonesia Emas 2045, Harapan atau Ilusi? Berikut Tulisan Menarik dari Guru Besar UIN Bandung Engkus Kustyana - Jurnal Soreang",
@@ -503,7 +503,7 @@
     ],
     "w": [
      8,
-     21,
+     22,
      2
     ]
    },
@@ -519,8 +519,8 @@
     ],
     "p": [
      0,
-     2,
-     2,
+     3,
+     1,
      0,
      3,
      0,

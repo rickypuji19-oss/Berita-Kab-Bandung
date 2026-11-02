@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:44:54.347219+07:00",
+ "updated": "2026-11-02T20:58:28.740422+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "RRI.co.id",
-   29
+   27
   ],
   [
    "Ayo Bandung",
-   24
+   26
   ],
   [
    "Tribunjabar.id",
-   22
+   23
   ],
   [
    "Kompas.com",
-   17
+   21
   ],
   [
    "ANTARA News Jawa Barat",
@@ -28,18 +28,22 @@
   ],
   [
    "Radar Bandung",
-   7
+   8
+  ],
+  [
+   "Jurnal Soreang",
+   6
   ],
   [
    "jabarekspres.com",
-   7
+   6
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Jurnal Soreang",
+   "Pemerintah Kabupaten Bandung",
    5
   ],
   [
@@ -47,23 +51,19 @@
    5
   ],
   [
+   "Antarwaktu.com",
+   3
+  ],
+  [
    "bandungraya.net",
-   4
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   4
-  ],
-  [
-   "Koran Gala",
-   4
-  ],
-  [
-   "Gerbang Patriot",
    3
   ],
   [
    "dialogpublik.com",
+   3
+  ],
+  [
+   "Pikiran-Rakyat.com",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Pemkab Lebak Belajar Sistem Perizinan Bandung - Satelit News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVlsZlBWTWFZTl9fZ1VwTTlEZF9xZVdFMExHY2xLRXZ0UFRqY092b1RMRG10NVVIVlF3M09HaXk1UVk4NGJjQUpwQ0NIZjFVRFEtbDRUeHhlam5EUGNxWHZ6SGU2NXN3aEZWSkNHTnVnbVhZXzBqVno3b2xrd0VmYmJCQmhBZmdp?oc=5",
-     "r": "Satelit News"
+     "t": "Bupati KDS Ajak Seluruh Elemen Perkuat Kolaborasi Wujudkan Kabupaten Bandung Tangguh Bencana - Ketik",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjhudDNhMzIzZ2pYN3hfbjBuN0oyT2VlZ2ozVlBTYlZqRWNfTGFPcTZDZkdWdkhaTFhfcGVoZmhsR3pZSHZhcGo5WTVyMkdyYnFrb1U4Z1ZjOWlBSkNQRTNJOTBTSkdtbkZERlk3alR6MzBYZFFOUGtzT09PZGhoOFl5VXZVdVEyWmRYWG5RdVctOF8tcEN4X3FyQTd6ZE9kQ3JOSUFvaHJETjljNFZ1Y0EtQVRIYWhzbWRXaWJZd2U3NXfSAbQBQVVfeXFMTXA4MFB5MjNIcTB1WnNQUEZMdVVmWjkwUmtBdWlHUlR2aC1ULVo2elNiQngxNWFjal9oRHFwVXpvdWJyWlh1bGxwMk4wUDhrSVhydHZNcFBmcFlnRlAwbkliRThEVFpsU2RQd1lVV2NYUVdxak14SzhHaTdHLU5TaGlBTnZiLUhDcXQ5ZVhjSjEzZlNDRHk4RDVNQzRMTTNFQ0t4WFlsaVYzT0xkNVJZMlNTX2ZK?oc=5",
+     "r": "Ketik"
     },
     {
-     "t": "Pemkab Bandung memperkuat mitigasi bencana jelang musim hujan - ANTARA News Jawa Barat",
+     "t": "Bupati KDS Instruksikan Perangkat Daerah Perkuat Mitigasi Bencana - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemt6UmZpOGduREJoelJmU0xfTHZwcjU3czN0cTBxX3drNFpHX0Z2VE1jWDRvQ0RCVVFuUUt6QXZtOFNtV2x1cTU2LVdtQWJDNUFpOVJ3VnZhWjl3U0ZTYTRyYW1EUHExbklKV1p1UVIwR1hFUWtiUkpzUWdocWVuWVBZb2dXNUhPSTh6WWk1TGZwTXRhaGIyS0JOTXNPT0RxcE41ZEEtTdIBrAFBVV95cUxNeXY5ZWxubWNIQmxWZFNCcThDNF9pV2lrWTh3S29FNU5OcWpRZHItQk14cWFDajM5Zm1BRDFCTmk0bjdUQVJVczVFSXgxRXc4TFowbjQ0NEFTTUZWa0ZsOGN0Tk1yUjRDUnRxQkswc0l5UjNZNV94N3NwZk1MRWZndnJVNzlFc2ljc3JINjlQMUpHcjRiNFlnejhkM3A2NG1Ea0JDZnptdHBWSDV5?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0hJNnk0YldtU3RTMDZsdkNnSTRyakstU0ZCWm9qS29EVmRhVjdOUG1fMjZrN0VqUDdDUC1sTldzNFhyOXk0dk9HNUxrU05ucURGSUZxelhCb1ZyRkN2Y3BDdTNqX0w3SHU3eU9JVDNTMk80LUxsM21odnd4ejE4aFBrSlNhdDd4dEM2cHpTMUI5VzQ3NkpHdkxZVmo3VWh1WVpoN3hweDRYODRu?oc=5",
+     "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Bencana dan Siagakan Personel - bsinews.id",
+     "t": "Bupati Lantik Anggota BPD 10 Desa di Cihampelas, Tekankan Integritas - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pUXVrOFIzWGFuZXlNVjJydjl2VTlmNVJCVVNOMG9MSDB3Tlc2SHJnNzJQUG80R1RLN3NhbVB1ZklYTmJDQkVWYVY5UG1iN0p5dWk2WXV6QjByRmN6N1VNMDlJdlJmdw?oc=5",
-     "r": "bsinews.id"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzc1by1FcFl0cDFwMWJwNUdMczFPN1hXNUxNaXFmNHVBZGJCZEZVZzJyZVRWUTd0bHJEYWtFX2pvSkl4VktfSkwyUWhyc3ZYVkI5ekI5VDZpLUlwR240LThwRFFMU2FQdWtHMVNad0tQTnhaNGNaNGtNekVxM0JKbFBWSUV4cm9yR2pqb0xiU29pWG9YQ2VaWlRpMm1Fbm9OaGY2OG9acnVCa19pOVhj?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -117,7 +117,7 @@
     ],
     "w": [
      11,
-     27,
+     30,
      4
     ]
    },
@@ -167,16 +167,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Demo di Depan Gedung DPRD Jabar, Mahasiswa Salat Berjamaah - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXFSS2huVTB6WDFNSm13LTlGODhZRUI2MG1EYUttcU0xenhaaXEwdFBQbFhKU2kzSGlQWDRqMWZyeWFVdVlJY1hUWEgyb19kbjNKN0ZmNUZqRDZRTHJJYUR5RFh2MVYtdFdYVVBiOXRURGNOT2VOV3VBSVh5WDVUbmVZVWJBeGo5NFhZcUZZVWJvZE1UTVViTVl2STNpYlV4VWEtSENBUmJCT2hF0gGyAUFVX3lxTE11czV0YndERHNZeWpYRWY0aEtmNUQ1YVdVV3VucWVmQkd6WUVxUHRZLVR2Vm1rQzZhcXpIYk9oVjRQZkpqc0lwR0hrRUdIS05uRGFaOXNjNnRUb1UyLXFReXRsZHY5S0MzOTVsV1hDY0xwLTRaS1pKQ0JReFRyQ1VfRzUyN0F6aGVVVjd4RHluQmJvUENOMTg0Q19oMmtteXAwZ1dDOGtWUUR2VXdPMnN3U1E?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
      "r": "MOST 1058"
-    },
-    {
-     "t": "Sosok dan Kepemimpinan AHY Dikupas Berbagai Kalangan di Kabupaten Bandung - Pikiran-Rakyat.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXJ4QjFqY1FjSEhlZTB4MGxzenA1a1h2SU90T3o5S1Zyb3hSUExFTWNLcEcweTQxVklVVmpxWXhJRTNodW8zc1lTTmMzSExDZGd3X2NFTHFDV1kybmp6bzZxTjlsUnNIZ2VpWTNaeTJEVmdBNV9leUVheXdHNTZ0UnRRVEVpNWJEaDJqNFF4aHlOQzJnLTBEckdGQWEzZWxrZF8wNXNNN1l6bnE4ZW13YXlwalUwVWJoRlp2b3RmRjfSAcYBQVVfeXFMTWJFWDFSV01KOVVtRTh1MlFlbE5UX29aa2VnSFE0anRMMGwyMmlGLTFrQjRhd3djSDhCY3Jsajk4a3JVMDhvT1lvejdBYll5S29rUHozTkdwYlFoR3FHUlpZUi1WWGtTZ3FJbHZEblp3TG9acV9aSm1FM01LMHl5WnJHdWR0TE1pUkN3Qk1zMXBEVkJaa2RXQW04cUROSmdWQUwtZUtPTDRVSExCNzJFUjBNNUcwQVJFYkNLazR2bHNrTEE1bTF3?oc=5",
-     "r": "Pikiran-Rakyat.com"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     10,
-     18,
-     0
+     13,
+     20,
+     1
     ]
    },
    "trend": {
@@ -203,9 +203,9 @@
     ],
     "p": [
      0,
-     4,
-     0,
      5,
+     1,
+     6,
      1,
      0,
      0
@@ -217,7 +217,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   },
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     8,
+     10,
      10,
      5
     ]
@@ -280,9 +280,9 @@
     "p": [
      0,
      1,
-     0,
+     1,
      2,
-     2,
+     3,
      2,
      1
     ],
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     21,
-     29
+     17,
+     34
     ]
    },
    "trend": {
@@ -365,8 +365,8 @@
     "g": [
      0,
      1,
-     8,
-     7,
+     11,
+     9,
      4,
      4,
      5
@@ -422,7 +422,7 @@
     "w": [
      3,
      5,
-     13
+     14
     ]
    },
    "trend": {
@@ -448,7 +448,7 @@
      0,
      2,
      1,
-     5,
+     6,
      3,
      3,
      6
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "SI Didorong Manfaatkan Program Beasiswa BESTI dan PKBM - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTFWVUthbDFzMEFwV3VsbzJLVzRvRWxHcGdaTUJhNldSOUU2dzh5aUFEdFRCYUFSWlFKal9Rckg2cm83MEw2bVRvcTVqeUstZ19Bc05mamI1d1hlcFBvN0lMS2FVcjdSRDRqVHc2ZGQyQ2wzVjFvbWl2UFU3Y0Uzbi1nUGdNbXNlNWxNTjl0YkVmMHFaVzZzZm9R?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Pemkab Bandung memperkuat mitigasi bencana jelang musim hujan - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemt6UmZpOGduREJoelJmU0xfTHZwcjU3czN0cTBxX3drNFpHX0Z2VE1jWDRvQ0RCVVFuUUt6QXZtOFNtV2x1cTU2LVdtQWJDNUFpOVJ3VnZhWjl3U0ZTYTRyYW1EUHExbklKV1p1UVIwR1hFUWtiUkpzUWdocWVuWVBZb2dXNUhPSTh6WWk1TGZwTXRhaGIyS0JOTXNPT0RxcE41ZEEtTdIBrAFBVV95cUxNeXY5ZWxubWNIQmxWZFNCcThDNF9pV2lrWTh3S29FNU5OcWpRZHItQk14cWFDajM5Zm1BRDFCTmk0bjdUQVJVczVFSXgxRXc4TFowbjQ0NEFTTUZWa0ZsOGN0Tk1yUjRDUnRxQkswc0l5UjNZNV94N3NwZk1MRWZndnJVNzlFc2ljc3JINjlQMUpHcjRiNFlnejhkM3A2NG1Ea0JDZnptdHBWSDV5?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEhpZ1pDelZFdUxCVmhMTERjUGpCalBkTzVraVJkRDY5TE9xV0hFZ0I2X2FYMGJ0OXp2V2k4MjI2bk5CZWN5Q2tjZEhaMEZRU2dCSWtkS2w1TFlYRm9NM0wzMTVQZ1dIOHdDTlhrcHhGMlZVUnhSQ3Y4WERfeUlxQXU3VVJNRjRVQjI5SzZvcG9JRjdsQkIxUW5GREhPclM4S0VlSUcxdlZMVDg1Q2c?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Hadapi Ancaman Bencana, Kabupaten Bandung Perkuat Kesiapsiagaan - Radar Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUtHeUpwYXg0MnN3M2NHV3JmZmQ0LWhpNmsxUWJaeEUyeWVOdEgybWdKdWJOdmNCaUZsS1ozbjhhMHZqYnctR2dOZmtRbGQzX3ZBOWw2MWxheTZEdlVleE9YRmluc2FpVkViRjhaR1hfeEZiTDhUUTNtajJQc3Jlb1JxVHdoejlFbW56VE9Nd1Q4aDRURmhuM1R6LVhiYXo2Wmx6ag?oc=5",
-     "r": "Radar Bandung"
     },
     {
      "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     23,
+     4,
+     24,
      2
     ]
    },
@@ -521,8 +521,8 @@
      0,
      1,
      1,
+     0,
      1,
-     2,
      0,
      2
     ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:18:12.724929+07:00",
+ "updated": "2026-11-02T16:48:28.157736+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "RRI.co.id",
-   30
+   29
   ],
   [
    "Ayo Bandung",
-   25
+   27
   ],
   [
    "Kompas.com",
-   18
+   20
   ],
   [
    "Tribunjabar.id",
@@ -24,7 +24,7 @@
   ],
   [
    "Radar Bandung",
-   10
+   11
   ],
   [
    "jabarekspres.com",
@@ -40,10 +40,18 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
+   "bandungraya.net",
    4
   ],
   [
    "Galamedia News",
+   4
+  ],
+  [
+   "detikcom",
    4
   ],
   [
@@ -56,14 +64,6 @@
   ],
   [
    "Jurnal Soreang",
-   3
-  ],
-  [
-   "Radio PRFM",
-   3
-  ],
-  [
-   "bandungraya.net",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Rosiman: Siapa Pun Ketua Terpilih, APDESI Kabupaten Bandung Harus Tetap Solid dan Bersinergi - bandungraya.net",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDRTM2VNN1AtUWlENFZWQUdUOUkzS0wxc2RVRkZJSmNyNzBxVk5kMUVJQjBjS1FSWEdnRy04VlU2MXNSR2puQVR5SnFLdTlPUFV3UE5LaVVQVjZMMXFuUzRjU3k4NFRzQ1Jid2hhRl8tTVJ4SGFVTUJ0S0VBMTVZUi1CNWUwNUVzWmtKT09Kc2U5UXgzUnI0TjZ5UGFBRlVLaVRMdHNpd3Z5cFdHVGRPSTlFWUY5eGpGcFcyMG5TZw?oc=5",
+     "r": "bandungraya.net"
+    },
+    {
+     "t": "Hadapi Musim Hujan, TNI-Polri dan Pemkab Bandung Siaga Bencana - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVpLT0RpVTZ0NUg3TWY2Q0R1S0tHMnJhZ1VoYUpmNkxfZFZDLWdpUi1VQXN1V3IyWWIyN1BxbFZ5ZUJ2QkhJV1NfS0tpTk4yeEpXbURybXRkUzRJYld0Q1MtYlZHOUpwMU03MVY1VlVDY1lDWEhUWGNHV0ZZNkgwSmRNaGxKNnk2cFFGbDJ4MG54RVZLNExhMTBidHAzc1RwSzBac0VoYzdFQl91Mm95N3NnVEM?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Bupati KDS Dorong Kolaborasi Syarikat Islam-Pemkab Bandung Perluas Peluang Usaha dan Akses Pendidikan - Gerbang Patriot",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNek9FSjRnT1MwcWZmSE1INFNydFhOX2ZfS2tKZEpoQVVXZkF5bTNFbGtma2FzdE1jYURKMm9aWExiZ3RFVGRXYXAtYUhLVkx0ZlhiZGcyeHJZOXhSbWxUc0c2dHplTDNISy1ZSVo5aUhESHRrQXd5UjdBcUtjUFlFMUVaRTctTDVtSHo4S3JNemRhbU53b0c4Vld4MVRPc0tnSVc5dUNaT3ZJQm5POW0wbnVFQzFianVfUE1SZS00dVJaVGVRcWRzV1M4VFptZVFGdXNWeVhIVQ?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "KDS Tekankan Akhlak dan Pelayanan Publik di Hadapan Ribuan ASN Pemkab Bandung - Gerbang Patriot",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFdfN2FIM3ZwdGF5U0h4cU5wZTgtc0NURV9EQzNGR2FMSlA5T1lJb2FMTDBabWd5WXoxeDVoek0tbkFWV3BFemlLUW9XRVJTSWxYclpEODI4MXltLTZxdzJXSDJ4WHR0aThzWmpzMEhYcXNVaHZVWnFjbDBzUzlOUmxrTGhiMW5BY2w5NmlEU3lhM1JtTW00Z0xMbjBOb05ET1prelRjOWpQUXVqcllRRFk1S3NwMUU?oc=5",
-     "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Pemkab Bolmong dan Bolsel Kerja Sama Tangani Kebakaran - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEYzdkVWNGc1UzVUREhpMnJxNFV2Z0RtaG5HRDFLMHBWUlk1NDBIdzl5aW9mSktzYnB4ODRvdDdBaVAzbHZEY3duWXlBVk1JclNmRUwtbndaUE13VTcwZ0h0YkxjVHpEUTlfdXB6MmNQMy1fS2lIN2tIbWU0UFpLLWtxSGQ0cDAzZFZzREl1Z2ptM08waDM2aEJudWZLSXc?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -116,8 +116,8 @@
      0
     ],
     "w": [
-     14,
-     25,
+     13,
+     27,
      4
     ]
    },
@@ -137,7 +137,7 @@
      1,
      0,
      3,
-     2,
+     1,
      9
     ],
     "g": [
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     18,
+     17,
      0
     ]
    },
@@ -239,7 +239,7 @@
     {
      "t": "Peluang Kolaborasi Syarikat Islam di Bidang Ekonomi dan Pendidikan - Mudanesia",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFic9IByAFBVV95cUxPWkJlaWRTM0pENUdiNkF2MFRDcDZRNUlPb3RaM0Z5TkxMZnRXaXhlVHlFOWxOY0dvV0lwNjczZWtOZFhTdFR1djc3RnhHZWtiRjNKdkhYQjhnLWo5SWxkdHRKYzdzNkxJSWpkWkIzSkN0MDBJX2N1TzQycWhKN2R2LXZlSXc2S0diOEJDMDRqdlZMS1IyR0huRkV1bkRaQjV2NUh4V0R3WnFCWktLSEI2LTdYQTVWeS11MTZ4NWR4X2xtNE9TYmFicw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2tTdDZXRm5xWWx0Q2NBeG1ROWkwQUgwanljS1RmVG81dzhSRXpsS1oxb3lOREhqMVRYLVBnaUJkb3JRM0g1Y19IVGt4SW44X3Q5UEQ1b0h0ckhWY0EydXhkbGhaOEZLSk5QZ1Nsck9kWGpIYkd3RUNpOU52aGxtSWZHUUNBVU0zVkNQenkzYk1wQnRsRHBsVGdSeWNpRU1zaC13V3l1WTdOOGIwbDhNdWd6MlhPQkpTRGhsdzE1aE9zWUXSAcgBQVVfeXFMT1pCZWlkUzNKRDVHYjZBdjBUQ3A2UTVJT290WjNGeU5MTGZ0V2l4ZVR5RTlsTmNHb1dJcDY3M2VrTmRYU3RUdXY3N0Z4R2VrYkYzSnZIWEI4Zy1qOUlsZHR0SmM3czZMSUlqZFpCM0pDdDAwSV9jdU80MnFoSjdkdi12ZUl3NktHYjhCQzA0anZWTEtSMkdIbkZFdW5EWkI1djVIeFdEd1pxQlpLS0hCNi03WEE1VnktdTE2eDVkeF9sbTRPU2JhYnM?oc=5",
      "r": "Mudanesia"
     },
     {
@@ -262,7 +262,7 @@
      0
     ],
     "w": [
-     8,
+     9,
      8,
      5
     ]
@@ -282,7 +282,7 @@
      1,
      1,
      2,
-     2,
+     3,
      2,
      0
     ],
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     23,
-     28
+     19,
+     33
     ]
    },
    "trend": {
@@ -365,8 +365,8 @@
     "g": [
      0,
      1,
-     8,
-     7,
+     11,
+     9,
      4,
      4,
      4
@@ -383,22 +383,22 @@
    ],
    "h": [
     {
+     "t": "Hadapi Musim Hujan, TNI-Polri dan Pemkab Bandung Siaga Bencana - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVpLT0RpVTZ0NUg3TWY2Q0R1S0tHMnJhZ1VoYUpmNkxfZFZDLWdpUi1VQXN1V3IyWWIyN1BxbFZ5ZUJ2QkhJV1NfS0tpTk4yeEpXbURybXRkUzRJYld0Q1MtYlZHOUpwMU03MVY1VlVDY1lDWEhUWGNHV0ZZNkgwSmRNaGxKNnk2cFFGbDJ4MG54RVZLNExhMTBidHAzc1RwSzBac0VoYzdFQl91Mm95N3NnVEM?oc=5",
+     "r": "Kompas.com"
+    },
+    {
+     "t": "Pemprov Jabar Minta KCIC Benahi Drainase Buntu di Cibaduyut - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnZUWG53Sk1ua0NyM2tiX21PWFBoTFRsaG1lQ2hTSFl1UHJDVTZsc1RXdVlYXzVGUURzMWhOVEIwQTNWa1dqZ0NmMndyRWZIaERycHNDSFZqQnpaTWo0eHZySWxYbjYyb1NZUXM0alRsemFJbkh0WEpLZkRjY0ZHQkM4LWs0MmVDbGxEVHFKMFlDOC1hYTNrTWRuYk1KdHZ6RkxQYUttQdIBrAFBVV95cUxQQzU2RGJqc1NBMXhtb1dTTWF2RXAzeVVuVUJXVHdnXzlmRWlaLW0yeGI5UHFJTjFXeDl6dUtGRVlYTE5KTnhQaXJxOEtHUXhiOHhpclp2cjl1R3NXbnI3RzVFMGdDOTBDeHp0dzhEbm5sUXA2NnVIc1NOVlNMcFVSaTNwUnEtZ2E1YjljSmY1eTlyVDNjdVhJU09BZXhqWXoyRTJYTXJia085UWxK?oc=5",
+     "r": "detikcom"
+    },
+    {
      "t": "Bupati Bandung Tagih Realisasi Program BBWS dan Siapkan Alat Berat Mandiri Untuk Tekan Risiko Banjir - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUi1JRG0wSUh0TnBLeFpQWEgzWktOVGlOWlg0ckR6czg4Wm50VzBWTHFUQlhjNUJIUlZ1T3BLRVNubnRaSlBZU0o0LUZxWWZtMHMtWjlVQ3RFbE1kaGZhdjdrQmVwZURQVFduSElyd1ljb2Q4cGF4UzhmRUhzTjl3Sk1kVFBjYTZXc0hBVWlmTHF4NkRLQS1NS2FiV3dqYnVqNUtQVS10NHdtdmFiclhuUUN0MF9GRWZtZTgweUlFdmc0SDVhOVE?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Perkuat Kesiapsiagaan Bencana di Musim Hujan, Pemkab Bandung dan TNI-Polri Siapkan Respons Cepat Banjir - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3dXZ1dtWTVCSHlnRFRSZHFzTWxqVjZ4NjN4TG5EUlBfWjNvRWY5SV9qYmJsbUExcmVoMmZueHFfMURLZlIwdWVsRFZ1UW1nSjVyd0NmRDVNRlZ3Zl9mOE94VHdvalhRdzVLLUkwWkNXRXo2eEtjN0lPNGFlWG5jQVI4UTBBLWZNajJYSFdNdDFyT2tXOVRxUzJ0em1xSG1GaWNMM1JnX2xZTzBjNTdKOGkwZVljQzk4amYwVWNiaTFlYllOZUk3OFgzVTFqS0pKckhtd1E1QzlKQ0JlcVZvOUtR?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Lurah Cibeunying Tinjau Pembangunan Infrastruktur, Pastikan Program PSPKB 2026 Tepat Sasaran - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWZXZ1FIeG03cXhscEV2b0t5am4zU3pWUEdLeTBZTXpLZndNOUt2SUNpNk9iYzhsY05HeDhJLXZFWVBnQkpsR1VkdkVYd05nZ3FFX3BPZWFFemI3MUlTekpodlBKVjdoWWo5aU9ibmdlZGQwamg5cmNVM2Q1ZmdWZ2RVZlBjMGlHQ3BsMHVaZ3M1dVpSZDJYb2thRzRURV9CNV9RcW5VZTE5V2xnRGtJWTVnRnRzczdibFRIaTB0Z05GODBWUVdPdnZyb1o5OFQwZVlmaVJfdDhXS3RGeGo0?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "PascaDiekspose, Banjir Langganan dan Tahunan di Dekat Polres Bandung, Soreang, kini Tak Terjadi Lagi",
@@ -421,8 +421,8 @@
     ],
     "w": [
      2,
-     4,
-     12
+     5,
+     13
     ]
    },
    "trend": {
@@ -446,12 +446,12 @@
     ],
     "g": [
      1,
-     5,
+     4,
      1,
-     5,
+     6,
      3,
      3,
-     2
+     3
     ]
    }
   },
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Hadapi Ancaman Bencana, Kabupaten Bandung Perkuat Kesiapsiagaan - Radar Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUtHeUpwYXg0MnN3M2NHV3JmZmQ0LWhpNmsxUWJaeEUyeWVOdEgybWdKdWJOdmNCaUZsS1ozbjhhMHZqYnctR2dOZmtRbGQzX3ZBOWw2MWxheTZEdlVleE9YRmluc2FpVkViRjhaR1hfeEZiTDhUUTNtajJQc3Jlb1JxVHdoejlFbW56VE9Nd1Q4aDRURmhuM1R6LVhiYXo2Wmx6ag?oc=5",
+     "r": "Radar Bandung"
+    },
+    {
+     "t": "Hadapi Musim Hujan, TNI-Polri dan Pemkab Bandung Siaga Bencana - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVpLT0RpVTZ0NUg3TWY2Q0R1S0tHMnJhZ1VoYUpmNkxfZFZDLWdpUi1VQXN1V3IyWWIyN1BxbFZ5ZUJ2QkhJV1NfS0tpTk4yeEpXbURybXRkUzRJYld0Q1MtYlZHOUpwMU03MVY1VlVDY1lDWEhUWGNHV0ZZNkgwSmRNaGxKNnk2cFFGbDJ4MG54RVZLNExhMTBidHAzc1RwSzBac0VoYzdFQl91Mm95N3NnVEM?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Pemkab Bolmong Perkuat Pendidikan Inklusif di Jenjang SMP - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDN5RS1oMDBrX1NJMGtBbHZ6X3Yta25GVnd2TndxZndjam1TUHhWWjE4dzNtR0d4end2SHJkZjgyY2hKWG5WTlgtTUtZc2lpQ1BvUXQ4eFlQVjRKTHNHYXB5SG1WNTFCY3BuQl93V0R0Rnc0WWlYN0c4ZTU2LTNjRUZReE8zZEttdUlPdHQzNVRFMWhMMkNCd3VjT2ctNVhXQ3Zv?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Semangat Sumpah Pemuda, KAI Daop 2 Bandung Hadirkan Rail Clinic untuk Layani Kesehatan Gratis Warga Rancaekek - ciayumajakuning.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVRlMTlHbnJJMm1kUmZ1UUJ5LUw1UWRROGJvTWtaSlhmdGVjRUxZakF4dFRIODJqTDJPamRaT3RxaUhlSlc3MWhlaW9ZTlM5TzN5ZDBvcGl4YjQ1cEYxVzNmSTFJX1g5Q0pzWTF3UXU2R3pLZnlUVzdhTzI0Ui1IdkdzTkNkcXduS2hDbDlCQ2dSeWlSeW50NnV2MUxkSG5GZUhsc0QydG8xSktLY3VhWFR2SGpUY3g5SVZwZnlodkxBeVR2UksyMlRUS1d2YVk3ak04cFN2c3d1UzdBdE1kTQ?oc=5",
-     "r": "ciayumajakuning.id"
-    },
-    {
-     "t": "Pimpin Apel Bulanan November 2026, Bupati Bandung Tekankan Akuntabilitas Anggaran dan Kesiapsiagaan Bencana - Jurnal Soreang",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNemFtUzB0R2Z4STRWY2VfYkt6OFRyS3lIdWZzZlVIRHpvclJycHVFb0Iyb0gwVFZKSXlZX3YwajVVVmJ2bXBVbU55ekZQcTZjQmRmYktmaWRfWTF0czNTYndPaUh3SGlDeUtmcDdvLXdtNW0xOVV6MjRFUkJtR1E3bWxNS2JmWTBSdjAzUEZNVkVlV05JSVdxRExEckNxWkJ0dkZHS3c0YWFvQm9qam93elVWcmlHNDJHUGlZVjJGY2RVcWJPbURINFNlZjVMMlhzYkF6TGkwSHkyb2lsMDZJX016dVpzVk1IWUxJVzRIY1FudTlCeC05NnFrQlDSAYICQVVfeXFMT1ZGdzluazBYdHFPa1FNaFRoOWZqMzVLLWtQSGZmZFIzSDZPaEtqWjdwZEtxRVZFYVVaaW9GYnlrRFYycXVud05LNVA3d1NuZmlUajZidEJQZmVtbF93OWlzTlFpckV4OC1LczE3cno4M3RwbnJJY3JlTE1LLTU0VkN6WWItUVNEZUdLNW44X2tuaFZJSUpoWC1tYVpveV9DcFBWWEhiSFZWbE03TVd6cE9DLUJFZzhQQUl4cjBWak16YlVTdzNmVDdfOWhGVVJBNnRCcGRlTU1FZTNmc2lQYkdwT1RIUUJ6cVlsTkNFdjI3REhXazlsMHdITXp2bXJVVHFB?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     8,
-     23,
+     6,
+     24,
      2
     ]
    },
@@ -519,7 +519,7 @@
     ],
     "p": [
      0,
-     3,
+     1,
      1,
      1,
      2,

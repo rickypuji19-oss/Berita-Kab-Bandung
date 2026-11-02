@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:43:50.660174+07:00",
+ "updated": "2026-11-03T03:35:04.018360+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,20 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   27
+   "Kompas.com",
+   24
   ],
   [
-   "RRI.co.id",
-   25
+   "Ayo Bandung",
+   24
   ],
   [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
-   "Kompas.com",
-   21
+   "RRI.co.id",
+   17
   ],
   [
    "ANTARA News Jawa Barat",
@@ -28,11 +28,11 @@
   ],
   [
    "jabarekspres.com",
-   8
+   9
   ],
   [
    "Radar Bandung",
-   6
+   7
   ],
   [
    "Pikiran Rakyat Koran",
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "bandungraya.net",
+   4
+  ],
+  [
    "Pikiran-Rakyat.com",
    4
   ],
   [
    "Gerbang Patriot",
-   3
-  ],
-  [
-   "Antarwaktu.com",
    3
   ]
  ],
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     12,
-     30,
+     11,
+     27,
      4
     ]
    },
@@ -136,7 +136,7 @@
      1,
      0,
      0,
-     1,
+     0,
      10,
      1
     ],
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     12,
+     9,
      17,
      1
     ]
@@ -202,9 +202,9 @@
      "Sel"
     ],
     "p": [
-     5,
-     1,
-     5,
+     4,
+     0,
+     4,
      1,
      0,
      0,
@@ -257,8 +257,8 @@
     ],
     "w": [
      9,
-     8,
-     6
+     7,
+     5
     ]
    },
    "trend": {
@@ -283,7 +283,7 @@
     "g": [
      0,
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -307,15 +307,15 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Viral Video Perusakan Kebun Teh di Pangalengan Berbuntut Panjang, PTPN Tempuh Jalur Hukum - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEloQkVmdjlPS0dqODdITnJyVzZZWktBNUZQREhwU08zWV91Snlma0xNazE1OTlpTUIxWHNzbXVvNHFkbXdTNlFscjh5N21FWXMtX0w1WTdJREgyLWRVaEdxcHBPT2xCazNETzYtTlhZdU96cVRvdGxTcnFPbWZLSEs4cTFrN1QyM2pLLWttb2lHVHhIS2haQWg3dGtzWk56QjlwVGxnWFV5a3Z1ZHlETl9XWmdKb1JCUFU2b0xmcmc5cTdkaDVLMDhheTlkd3VzZjE5N0x30gHbAUFVX3lxTE95VGlkajVOVmhXYWlZbHpvMUdXeGVueE5MYVBIeTZRUzRiUnh1cHNVOFNzX1ZGNXFVMVowQlBxWVZSdURIT21sNEdVWGg4YU5xS0ZxRS1jWWl3bTNQMHdyaEk3Y3FqbzJGVXRwQ0dwZnl1NXItU3F0ZHBOc0ZScmVTYVN0WE1MTTJfXy0yRXBFel9YSFlCU0s5Zk1qRGhMUWE4dF9Kc3l0UU84Z1ZmSWJGRlptMFhlMnZfY1VudEpPRURCeS1BN2J0ZWlqenJrcmt0RUx4alRWRzdkNA?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Polisi Datangi Rumah Mahasiswa UIN Bandung, Dari Saksi Menjadi Tersangka Penyerangan Mobil Polisi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnRWeEFXazdFRWxtN3JQSkFqbVFVb2NaclRwUjFaSUxBUDQ1N0dCMVVZdkhHaTlvdDd3YWtkdVAxZXZYcEY0VGRoeUpzdFFHTnVfczdFcUg5NVplNmdTZng0eEpHU1NwVGdVczNtbkdNWnhmcUltXzZ0LVJYcmVJWThNcDlyeGd6VU5TMFNySUVLTG9iWXdZOVhlaGFPUXlZV0xNM1ZwQkQzZF9VOFlxU0psUUx1dFY4NzFBZVZTZ3EzX1E3U1FKZEJEbDZjZl91X0xkZEMzX1ZHMUY1cVBxUg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Anaknya Jadi Tersangka Kericuhan Demo di Bandung, Ibu Mahasiswa UIN Menangis Minta Keadilan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFxQ2NwNFhlUkhFTkN5UnpCM01JcnV1LVBudjFMcmhsS2k5czRyTUprUDRwc2NrcVU0aWJtaHMyWjRvTTY2aEFoNlItcUFaM2lVLXBoQk9JSVZqWnI0NWwxWENob0p6MHNUT2h1YVZIZlJjR1J6cnBTaWkxeVhwNG16NVlSS1IwSDFTbk9TU2RrbTVXLVFoZk9zdHNuTmxRcVZzUTN4OGFvYVRDaU45eWdWSFJMUUxIand0Qmg0RjRoaWVUdVU2QTNQbVRpWWFjT1hsYkJuQTY?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -333,8 +333,8 @@
     ],
     "w": [
      0,
-     22,
-     29
+     21,
+     31
     ]
    },
    "trend": {
@@ -358,11 +358,11 @@
     ],
     "g": [
      1,
-     7,
-     7,
+     9,
+     8,
      4,
      4,
-     6,
+     5,
      0
     ]
    }
@@ -379,20 +379,20 @@
     {
      "t": "Sekda Jabar: Banjir Cibaduyut juga karena infrastruktur bermasalah - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUcyYVFVUUlXUnA5R1B3akV5NjRndWlxWTI3eTFtSmdkNEhFbjhzaHZEVFpzSGRJdWp3LVpkaHJ2dmlZaC1RZFpjTXAxci1jVG8zYmZJcWZ1ZlpRVVBlcnZjYVJIck5SQ0hxYTIydnZYb3QwWDFqSHpxWXVwOWFMOUt2NXRPUWw3WHR3UFpoaVhza2FpMjV5TjNKN1ZMOTJTWldTU1AtbDBUaWsw0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Foto : Pilar Whoosh Diduga Hambat Aliran Air, Pemprov Jabar Minta KCIC Bangun Drainase di Cibaduyut Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOE5yTjJyaE5XQkhuNHVfS240VlRYOWY5bWxrYUhMejlzM18yYlljdjk3OXpyNnc5cHB3SV8yQlF4aE9nTHp2My1yTWlQamd4SVYtSmN4MXFET00zdUR0S2FlLVdZNUpuTDU5Qk5oT19CTFNJZmtmNVZnS1dQbEVqMnpoT050anpYMGVOSmVoQWs2QVRXN0lNdVRfZWdMQjNLR1pFVEhaMFYyU200WkpFcVVaMWVFUzRFZnMyeTltOFlIcVhyREVtb2ln?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "20 Ton Sampah Diangkut dari Sungai Dayeuhkolot, Sekda Jabar Turun Langsung ke Lokasi - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQek1tQ3dHeGpBS0ZsaFRzZ19KUTMxOXZtejlscEtMN1B3dEFWZE4xWkF0SUxIWlhYRmpoM1JiMG04SnJnZlBCWUpOaDlCX0lmYWhMTUY0YTkydncwS25BT19pZHVlcFVfLUxTeEpWU29zcTMxT08za0pHWW04VzBsdTl6ZFhIOVdXZUx3VzlRd2RoUEFQdlFQVkRId19vc0llMEtGbnhBc3Y1bTZwMmVYeHAwMkYxMmtRUU85bg?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Foto : BPBD Petakan Wilayah Rawan Banjir dan Longsor di Bandung, Kopo hingga Gedebage Jadi Perhatian Halaman 1 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelBLRGRPRC1rZFhKN0xyeXRhU3BlX29VOFRIdmQybC1QcjdId2hOT2NORWpaOVJHczBDWVZYTGxhYmNneEt3OTR3cUxmQnJWb2ZqSmp3dGN5V2ppUWpNT1IwY2pzTWc4S2RVNjRuTnBTM3VBbWVJWHpUYWtUbkxRU1VOd0VZRTVCQ0pnc2lxYlNHNXRlUXVCV2I1U0N4YzRWUnM0UkdORWRtQXdnWHJNOGwyb080c0tBbTJJR3RDeVdFWU8xYlVzYg?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -414,9 +414,9 @@
      7
     ],
     "w": [
-     3,
+     2,
      6,
-     17
+     16
     ]
    },
    "trend": {
@@ -431,7 +431,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -441,7 +441,7 @@
     "g": [
      2,
      0,
-     6,
+     5,
      3,
      3,
      10,
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     5,
+     4,
      23,
      2
     ]
@@ -517,7 +517,7 @@
      0,
      1,
      0,
-     3,
+     2,
      0
     ],
     "g": [

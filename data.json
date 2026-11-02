@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:50:15.606163+07:00",
+ "updated": "2026-11-03T00:46:06.403448+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
+   26
+  ],
+  [
+   "RRI.co.id",
    24
   ],
   [
    "Kompas.com",
-   23
+   24
   ],
   [
    "Tribunjabar.id",
    23
-  ],
-  [
-   "RRI.co.id",
-   20
   ],
   [
    "ANTARA News Jawa Barat",
@@ -29,10 +29,6 @@
   [
    "Radar Bandung",
    7
-  ],
-  [
-   "Jurnal Soreang",
-   6
   ],
   [
    "jabarekspres.com",
@@ -47,6 +43,10 @@
    5
   ],
   [
+   "Jurnal Soreang",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
@@ -55,16 +55,16 @@
    4
   ],
   [
-   "Pikiran-Rakyat.com",
+   "bandungraya.net",
    4
   ],
   [
-   "Antarwaktu.com",
-   3
+   "Koran Gala",
+   4
   ],
   [
-   "bandungraya.net",
-   3
+   "Pikiran-Rakyat.com",
+   4
   ]
  ],
  "topics": [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Sinergi Polresta Bandung, Pemkab dan BPBD Gelar Apel Siaga Bencana, KDS Tekankan Mitigasi Dini Hadapi Musim Hujan - Media Purna Polri",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMU5vYzU0MXotY1ByRjJwbUlTMlBDSGRTZHlwMlRGbkJlR0kwTHV0dUw0UVhUcU5hWk5EVDJDUHRIQW5fMlp2SXQ4d2FGdkpNNG5JVEJUMTVFbDlFVnFwTGJkWmZFQXdfaDNIbEJFS0M3WS1yRVRaUDJZT2pYSTVPSGdfdHE5bzVWWkF0blYteC1OOXNjNUxOb2Zyd0ZSbnhSUld5Nld1bGNmbnVMMUs4cEN4UzN1aS1HdjVTOWN6aUxpNUNnaUZ6NHhjRzBIUnJqVFF1S3BwdVktXy1DNHZPZWFYdzRpdw?oc=5",
+     "r": "Media Purna Polri"
+    },
+    {
      "t": "Banjir Jadek Kopo Jadi Perhatian, Bupati KDS Dorong Penanganan Terpadu Bersama Pemprov Jabar - Ketik",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTdIBswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDgwUHkyM0hxMHVac1BQRkx1VWZaOTBSa0F1aUdSVHZoLVQtWjZ6U2JCeDE1YWNqX2hEcXBVem91YnJaWHVsbHAyTjBQOGtJWHJ0dk1wUGZwWWdGUDBuSWJFOERUWmxTZFB3WVVXY1hRV3FqTXhLOEdpN0ctTlNoaUFOdmItSENxdDllWGNKMTNmU0NEeThENU1DNExNM0VDS3hYWWxpVjNPTGQ1UlkyU1NfZkrSAbQBQVVfeXFMTXA4MFB5MjNIcTB1WnNQUEZMdVVmWjkwUmtBdWlHUlR2aC1ULVo2elNiQngxNWFjal9oRHFwVXpvdWJyWlh1bGxwMk4wUDhrSVhydHZNcFBmcFlnRlAwbkliRThEVFpsU2RQd1lVV2NYUVdxak14SzhHaTdHLU5TaGlBTnZiLUhDcXQ5ZVhjSjEzZlNDRHk4RDVNQzRMTTNFQ0t4WFlsaVYzT0xkNVJZMlNTX2ZK?oc=5",
      "r": "Ketik"
-    },
-    {
-     "t": "Bupati KDS Instruksikan Perangkat Daerah Perkuat Mitigasi Bencana - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0hJNnk0YldtU3RTMDZsdkNnSTRyakstU0ZCWm9qS29EVmRhVjdOUG1fMjZrN0VqUDdDUC1sTldzNFhyOXk0dk9HNUxrU05ucURGSUZxelhCb1ZyRkN2Y3BDdTNqX0w3SHU3eU9JVDNTMk80LUxsM21odnd4ejE4aFBrSlNhdDd4dEM2cHpTMUI5VzQ3NkpHdkxZVmo3VWh1WVpoN3hweDRYODRu?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -117,28 +117,28 @@
     ],
     "w": [
      12,
-     28,
-     3
+     27,
+     5
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      0,
      1,
      0,
      0,
-     2,
-     10
+     1,
+     11,
+     0
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     0,
-     4
+     6,
+     0
     ]
    }
   },
@@ -186,27 +186,27 @@
      0
     ],
     "w": [
-     12,
-     20,
+     10,
+     17,
      1
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      4,
+     0,
+     5,
      1,
-     6,
-     1,
+     0,
      0,
      0
     ],
@@ -216,8 +216,8 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -237,9 +237,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Halaman 3 - Tribunjabar.id",
+     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTdVQVlIQ2JrUFh3Z2VjWmVoenV3b05JejFsV2hJUTdxdW5NV1hOdTBKXzdyaktnVC1sUEJXTlpOd3JvU0lBYUU4NXpTNExITkx1NVRCcGM3eXNzejI0V0xsV01ZTjZZNDFzbS1kbjYtdk1DNzZYUDg0UnBDWmZQV1F3NTd2WHljRU4wcTR1Z3Y5NDNoaWc4UWgtT1ZWdkY1WXRfSUhGdXF3V25ZYWVhcXQzUHNjWE0zNFJ5TE90REZnUm5obDhkcHRCR0FQMmxo?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -247,53 +247,47 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUNOaDJ2TGgwT0dTN0xLOGs2NGdrRHoxejlQME9UNlJLakhrT19hTmpnUXh3cDBxY045UmxuUm11RmhjWWZyUUFuQi1OZ1NWMlBRVmNIdXF0Y2dHY280RTBQd1Fta2FpM0NoaDRfUG9RSFFIdG1pa0J0T3dJSHJMQnFuM2t5OGRpN3lSamIwdURIbUU1VHNMTHAyVXVlSFMxb3dibjMwLU1rYnlxbUhYa1pwZ3loaEZGNWJXYlh3V0JGcDZob3I5dFdQa1N6Zw?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Pembangunan KDKMP di Desa Panenjoan, Kabupaten Bandung diharapkan menjadi penggerak ekonomi desa.",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=Qh3VDgkHRWg",
-     "r": "YouTube Kodam III Siliwangi"
     }
    ],
    "v": {
     "s": [
      0,
-     1,
+     0,
      0
     ],
     "w": [
+     9,
      8,
-     10,
      6
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
      1,
      0,
      2,
+     3,
      2,
-     2,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      0,
      0,
      4,
      0,
      0,
-     2
+     2,
+     0
     ]
    }
   },
@@ -313,15 +307,15 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
+     "t": "Viral Video Perusakan Kebun Teh di Pangalengan Berbuntut Panjang, PTPN Tempuh Jalur Hukum - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEloQkVmdjlPS0dqODdITnJyVzZZWktBNUZQREhwU08zWV91Snlma0xNazE1OTlpTUIxWHNzbXVvNHFkbXdTNlFscjh5N21FWXMtX0w1WTdJREgyLWRVaEdxcHBPT2xCazNETzYtTlhZdU96cVRvdGxTcnFPbWZLSEs4cTFrN1QyM2pLLWttb2lHVHhIS2haQWg3dGtzWk56QjlwVGxnWFV5a3Z1ZHlETl9XWmdKb1JCUFU2b0xmcmc5cTdkaDVLMDhheTlkd3VzZjE5N0x30gHbAUFVX3lxTE95VGlkajVOVmhXYWlZbHpvMUdXeGVueE5MYVBIeTZRUzRiUnh1cHNVOFNzX1ZGNXFVMVowQlBxWVZSdURIT21sNEdVWGg4YU5xS0ZxRS1jWWl3bTNQMHdyaEk3Y3FqbzJGVXRwQ0dwZnl1NXItU3F0ZHBOc0ZScmVTYVN0WE1MTTJfXy0yRXBFel9YSFlCU0s5Zk1qRGhMUWE4dF9Kc3l0UU84Z1ZmSWJGRlptMFhlMnZfY1VudEpPRURCeS1BN2J0ZWlqenJrcmt0RUx4alRWRzdkNA?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Polisi Datangi Rumah Mahasiswa UIN Bandung, Dari Saksi Menjadi Tersangka Penyerangan Mobil Polisi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnRWeEFXazdFRWxtN3JQSkFqbVFVb2NaclRwUjFaSUxBUDQ1N0dCMVVZdkhHaTlvdDd3YWtkdVAxZXZYcEY0VGRoeUpzdFFHTnVfczdFcUg5NVplNmdTZng0eEpHU1NwVGdVczNtbkdNWnhmcUltXzZ0LVJYcmVJWThNcDlyeGd6VU5TMFNySUVLTG9iWXdZOVhlaGFPUXlZV0xNM1ZwQkQzZF9VOFlxU0psUUx1dFY4NzFBZVZTZ3EzX1E3U1FKZEJEbDZjZl91X0xkZEMzX1ZHMUY1cVBxUg?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Anaknya Jadi Tersangka Kericuhan Demo di Bandung, Ibu Mahasiswa UIN Menangis Minta Keadilan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFxQ2NwNFhlUkhFTkN5UnpCM01JcnV1LVBudjFMcmhsS2k5czRyTUprUDRwc2NrcVU0aWJtaHMyWjRvTTY2aEFoNlItcUFaM2lVLXBoQk9JSVZqWnI0NWwxWENob0p6MHNUT2h1YVZIZlJjR1J6cnBTaWkxeVhwNG16NVlSS1IwSDFTbk9TU2RrbTVXLVFoZk9zdHNuTmxRcVZzUTN4OGFvYVRDaU45eWdWSFJMUUxIand0Qmg0RjRoaWVUdVU2QTNQbVRpWWFjT1hsYkJuQTY?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -339,19 +333,19 @@
     ],
     "w": [
      0,
-     17,
+     18,
      34
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
@@ -363,13 +357,13 @@
      0
     ],
     "g": [
-     0,
-     3,
-     10,
+     1,
+     11,
      8,
      4,
      4,
-     5
+     6,
+     0
     ]
    }
   },
@@ -385,7 +379,7 @@
     {
      "t": "Sekda Jabar: Banjir Cibaduyut juga karena infrastruktur bermasalah - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUcyYVFVUUlXUnA5R1B3akV5NjRndWlxWTI3eTFtSmdkNEhFbjhzaHZEVFpzSGRJdWp3LVpkaHJ2dmlZaC1RZFpjTXAxci1jVG8zYmZJcWZ1ZlpRVVBlcnZjYVJIck5SQ0hxYTIydnZYb3QwWDFqSHpxWXVwOWFMOUt2NXRPUWw3WHR3UFpoaVhza2FpMjV5TjNKN1ZMOTJTWldTU1AtbDBUaWsw0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -421,37 +415,37 @@
     ],
     "w": [
      2,
-     6,
+     7,
      16
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      1,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      2,
      0,
      5,
      3,
      3,
-     10
+     10,
+     0
     ]
    }
   },
@@ -502,36 +496,36 @@
      0
     ],
     "w": [
-     6,
-     20,
+     4,
+     24,
      2
     ]
    },
    "trend": {
     "d": [
-     "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
      "Min",
-     "Sen"
+     "Sen",
+     "Sel"
     ],
     "p": [
-     0,
-     1,
-     1,
      1,
      1,
      0,
-     3
+     1,
+     0,
+     2,
+     0
     ],
     "g": [
      0,
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0,
      0
     ]

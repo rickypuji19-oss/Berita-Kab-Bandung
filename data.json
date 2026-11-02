@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:31:30.036508+07:00",
+ "updated": "2026-11-02T08:52:15.604760+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "Ayo Bandung",
-   28
-  ],
-  [
-   "Tribunjabar.id",
-   24
+   26
   ],
   [
    "RRI.co.id",
-   16
+   24
+  ],
+  [
+   "Tribunjabar.id",
+   23
   ],
   [
    "Kompas.com",
@@ -40,15 +40,11 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   7
+   6
   ],
   [
    "Antarwaktu.com",
-   4
-  ],
-  [
-   "Disway",
-   4
+   5
   ],
   [
    "Galamedia News",
@@ -56,6 +52,10 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   3
+  ],
+  [
+   "Disway",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Dorong Kolaborasi Syarikat Islam-Pemkab Bandung Perluas Peluang Usaha dan Akses Pendidikan - Gerbang Patriot",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNek9FSjRnT1MwcWZmSE1INFNydFhOX2ZfS2tKZEpoQVVXZkF5bTNFbGtma2FzdE1jYURKMm9aWExiZ3RFVGRXYXAtYUhLVkx0ZlhiZGcyeHJZOXhSbWxUc0c2dHplTDNISy1ZSVo5aUhESHRrQXd5UjdBcUtjUFlFMUVaRTctTDVtSHo4S3JNemRhbU53b0c4Vld4MVRPc0tnSVc5dUNaT3ZJQm5POW0wbnVFQzFianVfUE1SZS00dVJaVGVRcWRzV1M4VFptZVFGdXNWeVhIVQ?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "SI Harus Jadi Motor Ekonomi dan Pendidikan Umat - dialogpublik.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUGVJdmhaSTFhOFhqTXEwaUQ5STRkSzRzX212M3NZNnlmWVA0SmRGYWMxdGp3YURNZXhJdVktSVZIcG1nTUJRb2FOX2g4dVYyTHpYN2Y2eFRyUE1wS3JMVkRhSE40MllIQ0JTdVRSdXFKUFpfR1VuVHVJWElKZw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjg3bHJlM2cxTUY0QWdVMThzZlVMQkhLTVEwZ1J0MWxXMEoxR1ZoM1BWLXBBMGRZbUFhRDgxN0xuTEdhVC1RSkJjcmRaQmZ5amY1THcxeUh3Ull1cmJsRGhWVC1FcXYxTmhNaUV3RUpRT2ZsdDI4ZzVRcDV3V1VaWEVueXhGMHdGQ0NxekRkLWhxaE9fNjQ2TlluaFJmS1ZyY3FRRHZrRHF3TnUwakNKU1JldGg4dw?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Diboikot MUI Ibun, Ustaz Nana Gerhana Dampingi Bupati Bandung Resmikan MI di Cimaung - | kejakimpolnews.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTC10WWM5T2pabWhKZlpHYzByNFZSZUlPdktSbW5qNW9uWUltZGh4Qy1wdVhMOFJEMFNjSFc3cW5NV1Bmc191RGdUcTNzUUdtUkstYVNvbGltb21qMlR5Yk5mNTkxOGFBS2RvZGNpMW1fYmE5ZUZydkZHNGFHUmlpcW5PWG9fOVJtUk5fbXRWbVFPN3RJdmZqYUpPSElGa29uektUR1JHNTBwVTJDbU1tdzdXbS1jd1B2ai1pT1daWTN3SEc0eGVpZ0ZYMW04eFU?oc=5",
-     "r": "| kejakimpolnews.com"
     },
     {
      "t": "Survey kavling ruko di soreang residence bandung",
@@ -110,8 +110,8 @@
      0
     ],
     "w": [
-     14,
-     23,
+     13,
+     28,
      1
     ]
    },
@@ -129,9 +129,9 @@
      0,
      0,
      1,
-     8,
+     6,
      4,
-     1,
+     2,
      1
     ],
     "g": [
@@ -180,7 +180,7 @@
      0
     ],
     "w": [
-     13,
+     14,
      22,
      0
     ]
@@ -197,7 +197,7 @@
     ],
     "p": [
      0,
-     4,
+     5,
      1,
      5,
      3,
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     10,
-     7,
+     9,
+     8,
      4
     ]
    },
@@ -272,7 +272,7 @@
      "Sen"
     ],
     "p": [
-     2,
+     1,
      2,
      0,
      2,
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Teror Senjata Tajam di Soreang, Tiga Terduga Pelaku Ditangkap Kurang dari 24 Jam - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS05iSzFuTlZEblg4dkRKeFRkRTEwNXhnR0duTkRlOXFaVFE3NmhSR0Nia29SZGFRak9pN3dRVTlMb1JaeEV4RGNLX2tvUEc5a3lsYnpRaGlfX2pLRk1KQW9sSER1QjZfVXV2R0pJd3c1UC0xOFB4ZDI2WkhETW1TYXVMaHRDUlNBSWlUeFZTaENPRUdjYVFnaXk1MEdQVENONUFTVjJfdVYwaGctaDJfeDJ0NUUxTGlLVXJuWmxVelJFR0dHS3ZZZGZ3RlQ5MHBHeVNBUVdYWnNkQdIB3wFBVV95cUxQa0RlZnRYZ0NEOTdXVzQ4RFJtUm5BWTVnYVJld0ZZZXhxamlYMlZvb2ozSUtHZkt1QjJqVGhRN056dUpFSWFMang0eDA4YWwtanhzdkN3UUlTZl9YRE9uWXBCTUhUNkdnVm9KZ0ZLQzBLX2xycUdPMktUZkhBNkpJNTBCUzZuNk9jT05jWExJVXVSV2hRbkx3UW5oSVJSNUhFQ1M4OGxsa0l6ZG1OZjNHV3hsc2puNUdmSjJjR0o5UTZ0Z1pGak9FenlYekFhOGhtQ0tFbXVCX3RjSHdtVGZJ?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Pedagang Keripik di Margaasih Diamankan Polisi, Diduga Lecehkan Anak Perempuan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDlYcVBGSFFZZi0zT05Zck81a1k2MVZjVVZWLTlwanh3UHU4Ri1fQXlOazdUU0hwLXZQZWItT1c4cDJTNWRBMjJOM3JRcEsxOWZTMzNQaEhhOGNSQVYxNlYzN2VDQ3JINEs3a2wwem1QVGZVUDBpa3lQOU5HQWRWcEZvQVppd0thTXVuSjE1S3VSMmQ0OXpHT2stYzk0akU2Y2lDaWtwWUs0cDRCenZkazVTSjgtY1l4SmIxYw?oc=5",
@@ -311,12 +317,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnhoTVMxd0pMbHdVcWd5U1BlOGQyOERiRkxOWS1BWHpZek9mbTA4aWswcEd4NU1rQ0ljSk11OE5tZGVrWEdBTjhxS2JhRWw1OXMxQk9IdlBNVzVqc045S254d29KMVE5cDhHejlSRzE1dlk1MUFtVk5oY3l0WXlfV2RkYjRER0FMWHhiZDhhV1JDWWhsaTJfb1B1TktKYzJWLXF5REV4VXRBeENCWkpuNUhORG1BSXJYcERZRGtBY3Zub2RqZVHSAcsBQVVfeXFMTnBvZFlJTTdzWFRlNENZNTFyTElrRXY5MnhPRkg4N0s3X0ZuNmxyUExseC03WklnUjZhbmFyNkRsN3l5VDdPdjUyTTlnVlFvMnpPME1Dcnh5aHpFcERyMktMMkFyNWZIckg5UUVSLXZETldhOTJrWDhhM01vaVRLU3ltOFZRcUxmNGFYRUgtMFBvY0NBNXFQYkRlMl8telllbktuOFVIMy1mVVFMXzJPNldsd2VxTVN6T0VCMEE2REdHZkhKWVBwZ3ZpS2M?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Viral Pria di Margaasih Lecehkan Anak Perempuan, Polisi Langsung Amankan Pelaku - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXh6NThWUnRNODR2a0hQeVRCTVZmZGFhZVVmem4yaV9mbktPakRyWjU0YlBVZDgwOWdITXBkcENIV2g1NGppWll1M2ZuZGdEVHE4ZWc3TWI2cFcwX3g1LWFpSElzbDJpdVVqSWdHQUl6RklxeWM5UlhmTWgzR0lzazR1a2hraTFEcVhXTk82bHRhVWtUWVNySTJXb1lFM0J3RWJLa0tkU3JxSnJNQ3QxMTFkMm1JclFxcDlrUHhwNGdZa1g1VlgzRQ?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -334,7 +334,7 @@
     "w": [
      1,
      24,
-     23
+     24
     ]
    },
    "trend": {
@@ -363,7 +363,7 @@
      7,
      4,
      3,
-     0
+     1
     ]
    }
   },
@@ -414,9 +414,9 @@
      8
     ],
     "w": [
-     1,
+     2,
      6,
-     12
+     11
     ]
    },
    "trend": {
@@ -432,7 +432,7 @@
     "p": [
      0,
      0,
-     0,
+     1,
      0,
      1,
      1,
@@ -442,7 +442,7 @@
      1,
      5,
      1,
-     7,
+     6,
      3,
      3,
      0
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Tutup Bimtek PAUD di Manado, Rosita Manoppo Pobela Tekankan Pencegahan Stunting - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXJRSUhqSkZ4MTZ0VllwcHNjclE4aDZ0UVluTnhSUHcxUmQ1UjlpeDI3QzVsN2ZBWTluYW9OTHdJRV9lem1hakFyOHpMamdYVzlVenhQclZsOVVEcEJQQVdmZE5WcXMtNTNQWXE0MVJmb1pEeG0xOEdSWk50dzNKSnZVSm5reHJZY054VFFIRklYRVVuMjcwbHhTVVpPZjc4Rmk1Y1lncVdaOEs4OXB4T1k2b3gxVk5QWHRPbA?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Ratusan Pengurus Laskar Prabowo 08 Jawa Barat Mulai Konsolidasi di Bandung - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0tuSTRrUGt6YnhNdHVzckJrYmxsLWJZTnJuZ2xTRVpOWFhQU0kxYzVGYnAwc1NsU3ZqTmNndkRiSHhILVhSa3FPU0xqeVlsVEFXbnh6eEdNU2hxS0prYTJVZmVsdHFnb0s1NGo3Z3ZIdUVBN3ZpcXc2Rmt1S09jbFR2RnVBenNBbDBybktmNl9jN1B6dzVheDBDWC1ndzRmc1pYc2RSWGhqZVo0c0Y0R2xoS015LS1ta196ZGhqZTRfVUU?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEtfSzJWNmtaVmZkaDlrZzN6d1F5aDdabml1M01EYkVsR1VMNXUxZlpzc1FGaTc1TmZzcGJoRGFqYW1ncUpsWXUwa180MmI0Y2gyYUxJUGlCWDdEMFV6TGRBQlFweloxdTRmRVFrYzhGMHdmUDg4d1lOX3BkazFHQWdER25zR3paYWxaLXZjeVpGLURTY25icU45dWZwbU5TM0NZZw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Kwarcab Gerakan Pramuka Kabupaten Bandung Gelar Panen Raya Ketahanan Pangan di SMP Negeri 2 Banjaran - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb2ZFZGlrVHpMV2NIQVFiQmJUQl9Dc2VMN1F1SHF0S3JUTlhTSDFGSmF1cEJ6bk1kWTVPRG03MWNjN21DZjV4Y2RSQ1RDS09FcklCR1huWTNkOVRVNXBjX1hQREJQMWc0ejVpaEg4ZG5TNHFiTnIxb1J3anpnLTVRZG15SEF4U05DZnhTVWpJRG5QNUpOQW9CSDdyWXhGbTkweTh1THVQOGlidFRfUlVPaG0zdlkzTjJROXJoYmFnYnUwci14RjFudlFYMXc4Qzk0cFhuQ1dvZmlKd3BsMVdtVDRmV3Fna2dmNFVzLQ?oc=5",
-     "r": "Galamedia News"
     },
     {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
@@ -497,7 +497,7 @@
     ],
     "w": [
      7,
-     24,
+     26,
      2
     ]
    },

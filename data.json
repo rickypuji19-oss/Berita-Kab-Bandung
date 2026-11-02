@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:32:15.297735+07:00",
+ "updated": "2026-11-03T05:29:23.789624+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,31 +8,35 @@
  "portals": [
   [
    "Ayo Bandung",
-   25
-  ],
-  [
-   "Kompas.com",
-   24
-  ],
-  [
-   "RRI.co.id",
-   23
+   26
   ],
   [
    "Tribunjabar.id",
-   23
+   24
+  ],
+  [
+   "Kompas.com",
+   20
+  ],
+  [
+   "RRI.co.id",
+   18
   ],
   [
    "ANTARA News Jawa Barat",
    11
   ],
   [
+   "Radar Bandung",
+   8
+  ],
+  [
    "jabarekspres.com",
    8
   ],
   [
-   "Radar Bandung",
-   6
+   "Pikiran Rakyat Koran",
+   7
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -40,10 +44,6 @@
   ],
   [
    "Jurnal Soreang",
-   5
-  ],
-  [
-   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -55,15 +55,15 @@
    4
   ],
   [
-   "Koran Gala",
-   4
-  ],
-  [
    "Pikiran-Rakyat.com",
    4
   ],
   [
    "Gerbang Patriot",
+   3
+  ],
+  [
+   "Antarwaktu.com",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Danau Retensi Kabupaten Bandung Jadi Sorotan, Tender Proyek Belum Berjalan - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTURyOEFWWmppY0RFQ0FTc1psc1YteFg4UkNHM0ZoOVA4Nk1QTENJUDNWb3oyWDVQTjNMdHNqN2twbzJFbzB1Q0M4NVA1cWpEOXN4elVNTmNNYXQ3RGJlejUxWXVYUC1WUW44dXR4cWpGNG96eXdPWG9NUDlaOHhMODB3U2lSX1RqOHFrckQ2Vy1WaHJNYkhKdXBBSXRjb1pURmI3QlZBbmhiNGhpbWtIN0dwckhMNDdxSzJEOVNRS0tCVFpX?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Sinergi Polresta Bandung, Pemkab dan BPBD Gelar Apel Siaga Bencana, KDS Tekankan Mitigasi Dini Hadapi Musim Hujan - Media Purna Polri",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMU5vYzU0MXotY1ByRjJwbUlTMlBDSGRTZHlwMlRGbkJlR0kwTHV0dUw0UVhUcU5hWk5EVDJDUHRIQW5fMlp2SXQ4d2FGdkpNNG5JVEJUMTVFbDlFVnFwTGJkWmZFQXdfaDNIbEJFS0M3WS1yRVRaUDJZT2pYSTVPSGdfdHE5bzVWWkF0blYteC1OOXNjNUxOb2Zyd0ZSbnhSUld5Nld1bGNmbnVMMUs4cEN4UzN1aS1HdjVTOWN6aUxpNUNnaUZ6NHhjRzBIUnJqVFF1S3BwdVktXy1DNHZPZWFYdzRpdw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelFlLXNfUmdxR0xGNk1zMEVBLVFBdzhudlhsZ3NwNG9zckNfTUNEeXl1VnhTZ0hMeDV2WEhSaktDam5SdDdreTAwZ25fdnZ6WTBnR1lHeUI1RHpEeWVXd3FFbDJEZzF2cjd3TWJvbWZFSHBGRkdCYnJIWUlpSi1mVkZVS3dvSkF4cVkzMmg5bTFrSkp0WWFqMTJMZHItaE1nRjl5dVlmYlQ1VURiVm1hcklaOTh3ZDRlY1NxVUlSdEhwbTRnSEtYQVRsMVo?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Banjir Jadek Kopo Jadi Perhatian, Bupati KDS Dorong Penanganan Terpadu Bersama Pemprov Jabar - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTdIBswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTQ?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     9,
-     28,
-     6
+     10,
+     29,
+     4
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     9,
+     10,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     7,
+     5,
      0
     ]
    }
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     9,
+     11,
      13,
      1
     ]
@@ -203,8 +203,8 @@
     ],
     "p": [
      4,
-     0,
-     4,
+     1,
+     5,
      1,
      0,
      0,
@@ -243,9 +243,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
+     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Halaman 3 - Tribunjabar.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTdVQVlIQ2JrUFh3Z2VjWmVoenV3b05JejFsV2hJUTdxdW5NV1hOdTBKXzdyaktnVC1sUEJXTlpOd3JvU0lBYUU4NXpTNExITkx1NVRCcGM3eXNzejI0V0xsV01ZTjZZNDFzbS1kbjYtdk1DNzZYUDg0UnBDWmZQV1F3NTd2WHljRU4wcTR1Z3Y5NDNoaWc4UWgtT1ZWdkY1WXRfSUhGdXF3V25ZYWVhcXQzUHNjWE0zNFJ5TE90REZnUm5obDhkcHRCR0FQMmxo?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -257,7 +257,7 @@
     ],
     "w": [
      9,
-     8,
+     7,
      5
     ]
    },
@@ -272,10 +272,10 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      1,
      2,
-     3,
+     2,
      2,
      1,
      0
@@ -333,8 +333,8 @@
     ],
     "w": [
      0,
-     20,
-     33
+     23,
+     29
     ]
    },
    "trend": {
@@ -357,12 +357,12 @@
      0
     ],
     "g": [
-     1,
-     10,
-     8,
-     4,
-     4,
+     3,
      6,
+     7,
+     4,
+     4,
+     5,
      0
     ]
    }
@@ -377,16 +377,16 @@
    ],
    "h": [
     {
+     "t": "Danau Retensi Kabupaten Bandung Jadi Sorotan, Tender Proyek Belum Berjalan - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTURyOEFWWmppY0RFQ0FTc1psc1YteFg4UkNHM0ZoOVA4Nk1QTENJUDNWb3oyWDVQTjNMdHNqN2twbzJFbzB1Q0M4NVA1cWpEOXN4elVNTmNNYXQ3RGJlejUxWXVYUC1WUW44dXR4cWpGNG96eXdPWG9NUDlaOHhMODB3U2lSX1RqOHFrckQ2Vy1WaHJNYkhKdXBBSXRjb1pURmI3QlZBbmhiNGhpbWtIN0dwckhMNDdxSzJEOVNRS0tCVFpX?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Sekda Jabar: Banjir Cibaduyut juga karena infrastruktur bermasalah - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Foto : Pilar Whoosh Diduga Hambat Aliran Air, Pemprov Jabar Minta KCIC Bangun Drainase di Cibaduyut Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOE5yTjJyaE5XQkhuNHVfS240VlRYOWY5bWxrYUhMejlzM18yYlljdjk3OXpyNnc5cHB3SV8yQlF4aE9nTHp2My1yTWlQamd4SVYtSmN4MXFET00zdUR0S2FlLVdZNUpuTDU5Qk5oT19CTFNJZmtmNVZnS1dQbEVqMnpoT050anpYMGVOSmVoQWs2QVRXN0lNdVRfZWdMQjNLR1pFVEhaMFYyU200WkpFcVVaMWVFUzRFZnMyeTltOFlIcVhyREVtb2ln?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "20 Ton Sampah Diangkut dari Sungai Dayeuhkolot, Sekda Jabar Turun Langsung ke Lokasi - Satumedia.id",
@@ -416,7 +416,7 @@
     "w": [
      2,
      7,
-     16
+     17
     ]
    },
    "trend": {
@@ -441,7 +441,7 @@
     "g": [
      2,
      0,
-     5,
+     6,
      3,
      3,
      10,
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     4,
-     23,
+     6,
+     21,
      2
     ]
    },
@@ -514,10 +514,10 @@
     "p": [
      1,
      1,
-     0,
+     1,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [

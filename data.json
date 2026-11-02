@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:51:52.053933+07:00",
+ "updated": "2026-11-02T22:47:18.457525+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Ayo Bandung",
-   26
-  ],
-  [
-   "RRI.co.id",
-   25
+   27
   ],
   [
    "Tribunjabar.id",
-   23
+   24
+  ],
+  [
+   "RRI.co.id",
+   22
   ],
   [
    "Kompas.com",
-   21
+   20
   ],
   [
    "ANTARA News Jawa Barat",
@@ -31,8 +31,12 @@
    8
   ],
   [
+   "Jurnal Soreang",
+   6
+  ],
+  [
    "jabarekspres.com",
-   7
+   6
   ],
   [
    "Pikiran Rakyat Koran",
@@ -43,28 +47,24 @@
    5
   ],
   [
-   "Jurnal Soreang",
+   "detikcom",
    5
-  ],
-  [
-   "Koran Gala",
-   5
-  ],
-  [
-   "Ketik",
-   4
-  ],
-  [
-   "bandungraya.net",
-   4
-  ],
-  [
-   "Radio PRFM",
-   4
   ],
   [
    "Pikiran-Rakyat.com",
    4
+  ],
+  [
+   "Ketik",
+   3
+  ],
+  [
+   "Antarwaktu.com",
+   3
+  ],
+  [
+   "bandungraya.net",
+   3
   ]
  ],
  "topics": [
@@ -81,7 +81,7 @@
     {
      "t": "Banjir Jadek Kopo Jadi Perhatian, Bupati KDS Dorong Penanganan Terpadu Bersama Pemprov Jabar - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlpmd3JGemp2TG13aEZrTVFmb3JhNm93NVFYTzJ0MG9wMVJhTmZRTHlLaUxNOEJCaTFBUHVfY1FnVmZLOEZnenJzUG43QkhVdlg2eWJSNVpvc0tZTnpkRzd0SmRneG1CbEhRNks5NWFZbHc4YUtFSF94QUVPOXZkRlcxMENDVHFOdDZnTFNKemFtdHdjUm9aMUZoelVoWjZjWVVFam1rSHZfYUx5M3dFWWhNOWVaTjAxd0pWS0tzMWVPd9IBswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTdIBswFBVV95cUxNYVVrbjZFV3picnBjd0cwbmMtblp4T19LVFpBdHEwbnJsRXQ3ZmMtNUhxRTRveWY2Zm5aTTdvM0xLN19qLVhFOHdaQnVwbUQwVG9UdHBLZGNodVdFVWFuNk1BRHZuTHJaVzBxSHRGaDQ2Y1NDa1FfTGdnTjBEUUFLQ1prWFZ5aU5NZzJLNXRuZUxLZGZKdGZvc2t3ODhMSE0xSllPWlZ1RFhEN3FJSXluYnFCTQ?oc=5",
      "r": "Ketik"
     },
     {
@@ -97,28 +97,28 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=a6lUlyxtRvs",
+     "r": "YouTube Aje Urban"
+    },
+    {
      "t": "Survey kavling ruko di soreang residence bandung",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=Wy93J4C2uTw",
      "r": "YouTube Adrian Adam Property Network"
-    },
-    {
-     "t": "BUPATI SAPA PEMUDA",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=EeIXcSmAO9c",
-     "r": "YouTube Bandung Pemkab"
     }
    ],
    "v": {
     "s": [
      1,
      1,
-     0
+     1
     ],
     "w": [
-     12,
+     11,
      28,
-     5
+     3
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      1,
      0,
      0,
-     2,
+     1,
      10
     ],
     "g": [
@@ -147,7 +147,7 @@
      0,
      0,
      0,
-     5
+     4
     ]
    }
   },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     10,
-     18,
+     12,
+     20,
      1
     ]
    },
@@ -204,8 +204,8 @@
     "p": [
      0,
      4,
-     0,
-     5,
+     1,
+     6,
      1,
      0,
      0
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     8,
-     11,
+     9,
+     10,
      6
     ]
    },
@@ -283,7 +283,7 @@
      1,
      2,
      2,
-     1,
+     2,
      1
     ],
     "g": [
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     19,
-     33
+     20,
+     31
     ]
    },
    "trend": {
@@ -364,9 +364,9 @@
     ],
     "g": [
      0,
-     0,
-     11,
-     8,
+     3,
+     7,
+     7,
      4,
      4,
      6
@@ -389,16 +389,16 @@
      "r": "Satumedia.id"
     },
     {
-     "t": "Mahasiswa Unisba Ancam Terus Turun ke Jalan Hingga Pemerintahan Prabowo-Gibran Penuhi Tuntutan - Tribunjabar.id",
+     "t": "Foto : BPBD Petakan Wilayah Rawan Banjir dan Longsor di Bandung, Kopo hingga Gedebage Jadi Perhatian Halaman 1 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0l0OWR1V1hCeHBEWExHMGRYWU5KTTRGMHBWcGhKTHloaXZVWDFtaWNVWHF1RTkwaTdpSl9JTVhZSTZzNEM5eTNKM1FYTHlxdnNDWG44VnpKcU5HNjNNQ010QnpJcHRVcE4wekNOeFNySW85eVJCSGFhemRqb19xN2VaUEVVeTBqdU9hVlFGZDlsb1pxTUF5LXZYaGhfRFJfU0FDeFVBQ1lDYWVwdWt6ZVhpMUlZN202LVNlcE9wa1BmNGJRTDlsNnVtd0hJVFVqU2VQNThnZmk2X2xBOXc?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelBLRGRPRC1rZFhKN0xyeXRhU3BlX29VOFRIdmQybC1QcjdId2hOT2NORWpaOVJHczBDWVZYTGxhYmNneEt3OTR3cUxmQnJWb2ZqSmp3dGN5V2ppUWpNT1IwY2pzTWc4S2RVNjRuTnBTM3VBbWVJWHpUYWtUbkxRU1VOd0VZRTVCQ0pnc2lxYlNHNXRlUXVCV2I1U0N4YzRWUnM0UkdORWRtQXdnWHJNOGwyb080c0tBbTJJR3RDeVdFWU8xYlVzYg?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Banjir hingga Longsor Mengintai 25 Kecamatan di Kabupaten Bandung - detikcom",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUotZzlfRGN2SlhlZG5kMkhqRVYxa1puU2FqR2FYeEJQVE5GQ1hLVFVjN0RiZ2l5YTBuTjUzWnBtR3RsY1BvTHFoYWNHZ2R2R0xPNzZmVGJVcG93ZGg2UWpySUEyejhKdzk0UzN0WGxOUXlQeUpiWVBWWi1XaS1lNDZvM2RXMFpNV2hYNGJnSU91a0M0bGRIYlVWTlZHMHJSNzh4Q3VkTUZIaXhnYlhlQVIwWWXSAbQBQVVfeXFMTnVKLWc5X0RjdkpYZWRuZDJIakVWMWtablNhakdhWHhCUFRORkNYS1RVYzdEYmdpeWEwbk41M1pwbUd0bGNQb0xxaGFjR2dkdkdMTzc2ZlRiVXBvd2RoNlFqcklBMno4Snc5NFMzdFhsTlF5UHlKYllQVlotV2ktZTQ2bzNkVzBaTVdoWDRiZ0lPdWtDNGxkSGJVVk5WRzByUjc4eEN1ZE1GSGl4Z2JYZUFSMFll?oc=5",
-     "r": "detikcom"
+     "t": "Atasi Banjir Cibaduyut, Sekda Jabar Minta KCIC Bangun Drainase Pengganti di Sekitar Pilar Jalur Kereta Cepat - Halaman 2 - Pikiran-Rakyat.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWVpVWWQxbG13NGJHN05nT0hPX2RTY2J2WG1FQ3Y3UGNZM1paeHJxMFBFb0ZBTy1xakt6QlBwRnhfU3BfR0pJeEx1V28zWjNLbTlOSHdKWE02dnJoVmo1N25Jb0E0WndteE9FZWEzWEd5LUdYT0h4RXIzUGtiVk1TSFBNVXZ1ZUl4NGNPQVp6Slh5bVNsc2pqY3JWSHpfTjh1NTdyVnhwUHB4VFREMjJYWHJ3VTNnQ3N0cFBWaFE3eEFjTGtOV2Z0U09nT1hwNE16NXVzMXNvMzFrRHFXRXF0STA2UkRPSmYwODBWZ3JYcXF4S1A5QVRj0gH8AUFVX3lxTE1yZlVRRGt5NlpuMDUtVHlpS0s1M013QU9NU3c0dWRaVE5RanJaMzBEQVFJN3VzaHh5bXpqMGN0WXZPLTE5Rk9aTDdvMkhDVW1FV19GWHNVTWpsS3BSOExfVnkwam9TRmxGeDZ1aGFBNC1Qc3JSVDJBcEpWRVNRUXFaUFZaeGUtOXJ6WmtseHJEb0hzc0Fhd1Vxa19BUGtNbTl0YnY5UzB4NWtZYzhaMTNCT01CYS1KWTFBVkhqVWVpWjhfbG1oUVRQcG5aUTFHRzJyaWQzZUtXRVJFU3VSQ3pEYTByblFJTVpKaGhMSUJOUmJNZnBlYzVnQkx1cQ?oc=5",
+     "r": "Pikiran-Rakyat.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -420,9 +420,9 @@
      7
     ],
     "w": [
-     3,
+     2,
      6,
-     14
+     16
     ]
    },
    "trend": {
@@ -438,7 +438,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -447,11 +447,11 @@
     "g": [
      0,
      2,
-     1,
+     0,
      6,
      3,
      3,
-     6
+     9
     ]
    }
   },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     25,
+     7,
+     20,
      2
     ]
    },
@@ -520,7 +520,7 @@
     "p": [
      0,
      1,
-     0,
+     1,
      1,
      2,
      0,

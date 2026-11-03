@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:45:38.651984+07:00",
+ "updated": "2026-11-03T17:45:27.910724+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   31
+  ],
+  [
+   "Ayo Bandung",
+   24
   ],
   [
    "RRI.co.id",
    21
   ],
   [
-   "Ayo Bandung",
-   21
-  ],
-  [
    "Kompas.com",
-   20
+   19
   ],
   [
    "ANTARA News Jawa Barat",
@@ -31,20 +31,20 @@
    9
   ],
   [
-   "jabarekspres.com",
+   "Pemerintah Kabupaten Bandung",
    8
   ],
   [
+   "jabarekspres.com",
+   7
+  ],
+  [
    "Ketik",
-   8
+   6
   ],
   [
    "Pikiran Rakyat Koran",
    6
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   5
   ],
   [
    "detikcom",
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "Jurnal Soreang",
+   4
+  ],
+  [
    "Antarwaktu.com",
    3
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Koran Gala",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "62 ASN Pemkot Bandung Kena Sanksi Akibat Membolos, Pelanggar Berat Terancam Dipecat - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUpkZkNDNnBWQjRoNVJHRnRpbDkzSDlVR2FaLWszU2kzZEkwQjJQVXg0ZTl5NTBLRWQyYUtGamlReXVjQk5MYk9QTVZmd0NnQzd1amYwZU1KdU1RV05sbUJ0TTA2TDJVTlY1ZkxBMWNiTXpjaG40bGNqRVBKY0ZOeTV1VFFHbGRCLWRzVlUxWWMtakt2NEYtODhjZTlHS0NVak1GMHFwOG5iaDIzTWZyR2ZjaGFwc2g3cWNLQk80dEZxTWI1N1ZpbTNyTDN5dw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYy1fc1BpeFFfM3RHQll0d0M4TDdfcEVhWjExWGpZOGY1aF93MXpUR3VXdGNxVWI2Q2xpVUZjNHNDclVKXzJ6cTRQRlhDV1kyYXF6Sl95b2lLdkNFZWw4M3cxMGl1N1FPa3lWNTc5eF9Del9peXYyajlLMExXeW91RzV5Y3NkNzVSZW1ZcF8yZXREd0Z6WFIzZThhYTQ0VlZXeUs4MHZwT2JFOUMtUUFpR0xjR2dnVWxkQ2M0TEg0MHRiSFk?oc=5",
      "r": "Gerbang Patriot"
-    },
-    {
-     "t": "Pemkab Lebak Belajar Perizinan dan Investasi ke Pemkab Bandung - radarbanten.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnlvRHZZR1o3U2VfLWxWbXFSZ0c0Tmo2cXpFS3M2djlRbEFpWE5MMmV4MG1NSjdpaXZQeVpHSjlrTDRnT1JLWG92RTItUnVvTzkxSjZwbnMyTURyQVFSZlhNXzNQZDB5S3Z5djRzUHVxSUMxX2R1RXZPUzNIUm5xSURRMEVTb0VSVTVoUHdTT2ZpS0RocU1ZR1daMXk2VlhOd0YxWElMYw?oc=5",
-     "r": "radarbanten.co.id"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     13,
-     26,
+     12,
+     27,
      8
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      3,
-     10
+     9
     ],
     "g": [
      0,
@@ -192,7 +192,7 @@
      0
     ],
     "w": [
-     11,
+     10,
      14,
      1
     ]
@@ -210,7 +210,7 @@
     "p": [
      4,
      1,
-     4,
+     3,
      2,
      0,
      0,
@@ -237,22 +237,22 @@
    ],
    "h": [
     {
+     "t": "Pemuda Persis Perkuat Ekonomi Jam'iyyah lewat Investasi dan Gerakan Tani - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTRQMTFfLTdGWjY3ZDQwWWtmbzdzanAxUWg0dTFKUjFiSXBDVmg4ZDNHWFY0MHNpWWJLWVpUV3dLS0M3aGJwdENpYzJNeFNKNkJwODZSNHl0Q0U3Vm84RG5ZOEVXMU8xQ2dkdjRhSVZtZWhLSVR2R1pobDVpX0JhamdNcFJXUHdTbl9hWFo4YjM1bGpqQzB1bzJDX2FTMzdJUno0OFNLcjluNXc0eUZ6aGFFLU5Mc1hTN3c4Xw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Dihantam Cuaca Ekstrem, Produksi Padi Jabar Turun Meski Kesejahteraan Petani dan Pariwisata Meroket - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3dlTV96X2hlRGxJVlVEWHlZTlJxZnBSSlplT0t1cmREanZycHc3TkRIMmNGOUNmYW1KUV9ldGxaSFpNTkFUSktmNlpoUDhmWlUwNVZIaEU5emF4UWM1MHk2bEt0WXY1SzAtUE14dnhMcW1tc2VGMGFTNFJQWEZreFJ5M3lna21qMHpKWUNvejBzQ0NGT2dfbnZFaGUwczFwNUhMeTJmR1hBS1p0N3hMdmZ0eHBtd0wtcTJuU2wwSXZjVlgxalVJWUg5dFQ3TTI5U2FoMnJhWFRaVFZNZmfSAd4BQVVfeXFMT0d3ZU1fel9oZURsSVZVRFh5WU5ScWZwUkpaZU9LdXJkRGp2cnB3N05ESDJjRjlDZmFtSlFfZXRsWkhaTU5BVEpLZjZaaFA4ZlpVMDVWSGhFOXpheFFjNTB5NmxLdFl2NUswLVBNeHZ4THFtbXNlRjBhUzRSUFhGa3hSeTN5Z2ttajB6SllDb3owc0NDRk9nX252RWhlMHMxcDVITHkyZkdYQUtadDd4THZmdHhwbXdMLXEyblNsMEl2Y1ZYMWpVSVlIOXRUN00yOVNhaDJyYVhUWlRWTWZn?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Pelaku UMKM Pangan di Bojong Koneng Kabupaten Bandung Didorong Memperluas Jangkauan Pasar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVU1M3hmOGVQYS1kTm5xUDJLYUFCUVhTajhFcV9WXy1yOE8zRW1vWW9zMVhYWmNSc0hLOWwtcU9RRy01eDdSUTFNZGExakpSV0o5QkxkeG1VNDFFZGtuWVJab0czNDVsT05RMk45QnlmbTc2WmQycExzVi04YVdlQW9VVEI0Zk96S3pUWTl5aUJwUGNPNlhKZVF1bmRMRmo1ZHIwSUJPdFFoeXN2cUs2V1FVUjZWTU5sRXFRc1hpYzZRaHVjWHB0dUQxa3NNM0F0ZUMxeTZIbw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnBNNmFoYVN4QzExN2VaNlJ6R2ZmVXdhTGxNVFljNjhWTVpYNmQ3NkFDazNRZmVuNzlXclowazlhcFRlaVRJZGdldnAwRVhVMzBvSzBXMWY0X1ZBVzdWY3UteTN5bW5RQ2lLTVRaeV9fcVJTWW9fczhZWEphMEZ6M1NqZkdTYXZqZ05raHhnMEpCTG5YTDE4UHphSHZyR21zbGVxa2JqODl0MTBlQ2oxaEVGM2hweHpiS0NUS21vcWY3Qm1jZDRYeVg4cW1jZmxwR0lwbDhHOGZ1VTZm?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bapenda Kabupaten Bandung Perkuat Pendataan Pajak Daerah, Siapkan Strategi Optimalisasi Pendapatan - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUjVjY0ptOTN4dFQ5WDRpM0FicFE1TDVhSTJiWlFnNVdaTS12VGNKRHUwUWc2Q1ItOFR5S1B0M3kwc0RlT0lFNDJJNlpvM2NmY0NEbzNpSXJuTGFzMnMyWjFtM1BCX1ZrMmlqNm13ZmZWRDRVdWNZQjlBZFlRbUtrWnB2akhENE1XdXVnNVJCUFNOYWJ4OURmYTBJOVFxLUVQLVRMcEYteDRvUnZVeG5JUzdwb2YyLTFmMVpNUHlZY2RqRmw4OHcyemVfMXVHZzJGWm41YjFPTkxSTWVuZ3Y5NG5DMGowdk1Yd3doSzhUY1DSAfYBQVVfeXFMTmRtY1lDVEF0aFRpMHg3X0N0SWFNVFdPLXlWOVNyT0JjNlZzQkxUV1ViZkJLWkgteEoxamNPMEdldEhGNVkzUG1GTUlmWXRYMGh2NTlDalE0YW9OZTBLT2wwRHcyc2t6MXJ5bjlwN1ZLMndXTVpnaHhfSGE2MlpOTmhEVEdlVEZzQk0tMmVDc0Y2X2NjMWNIZkFpbGlELXcxUnYzUnRRZWoxbmlKOXRuSmZ4a3RQMERwMFVaOEFuVGVnVWlYeThLZG5TNXNWUGNiMHlVdFc4T3dDRWFEUkVSeWwtMFpyMDBrMzlaTEJnMDlkaTFnNGpR?oc=5",
-     "r": "Jurnal Soreang"
     }
    ],
    "v": {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     10,
-     10,
+     9,
+     12,
      5
     ]
    },
@@ -282,7 +282,7 @@
      1,
      2,
      2,
-     2,
+     1,
      1,
      1
     ],
@@ -319,10 +319,10 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Polisi Datangi Rumah Mahasiswa UIN Bandung, Dari Saksi Menjadi Tersangka Penyerangan Mobil Polisi - Tribunjabar.id",
+     "t": "Viral Video Perusakan Kebun Teh di Pangalengan Berbuntut Panjang, PTPN Tempuh Jalur Hukum - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnRWeEFXazdFRWxtN3JQSkFqbVFVb2NaclRwUjFaSUxBUDQ1N0dCMVVZdkhHaTlvdDd3YWtkdVAxZXZYcEY0VGRoeUpzdFFHTnVfczdFcUg5NVplNmdTZng0eEpHU1NwVGdVczNtbkdNWnhmcUltXzZ0LVJYcmVJWThNcDlyeGd6VU5TMFNySUVLTG9iWXdZOVhlaGFPUXlZV0xNM1ZwQkQzZF9VOFlxU0psUUx1dFY4NzFBZVZTZ3EzX1E3U1FKZEJEbDZjZl91X0xkZEMzX1ZHMUY1cVBxUg?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEloQkVmdjlPS0dqODdITnJyVzZZWktBNUZQREhwU08zWV91Snlma0xNazE1OTlpTUIxWHNzbXVvNHFkbXdTNlFscjh5N21FWXMtX0w1WTdJREgyLWRVaEdxcHBPT2xCazNETzYtTlhZdU96cVRvdGxTcnFPbWZLSEs4cTFrN1QyM2pLLWttb2lHVHhIS2haQWg3dGtzWk56QjlwVGxnWFV5a3Z1ZHlETl9XWmdKb1JCUFU2b0xmcmc5cTdkaDVLMDhheTlkd3VzZjE5N0x30gHbAUFVX3lxTE95VGlkajVOVmhXYWlZbHpvMUdXeGVueE5MYVBIeTZRUzRiUnh1cHNVOFNzX1ZGNXFVMVowQlBxWVZSdURIT21sNEdVWGg4YU5xS0ZxRS1jWWl3bTNQMHdyaEk3Y3FqbzJGVXRwQ0dwZnl1NXItU3F0ZHBOc0ZScmVTYVN0WE1MTTJfXy0yRXBFel9YSFlCU0s5Zk1qRGhMUWE4dF9Kc3l0UU84Z1ZmSWJGRlptMFhlMnZfY1VudEpPRURCeS1BN2J0ZWlqenJrcmt0RUx4alRWRzdkNA?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -346,7 +346,7 @@
     "w": [
      0,
      24,
-     25
+     27
     ]
    },
    "trend": {
@@ -373,8 +373,8 @@
      5,
      6,
      4,
-     3,
      4,
+     5,
      0
     ]
    }
@@ -395,9 +395,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
+     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOURqdzhxRWV6ZnI5YkJlYXFzV2wzZjRlaENEb0czXzJNak1jSnRMemVvZ1RUZDhrV1FfVFhoaXRqaVlhcEhDSkRBRFBEV3duSWlIZW8zRE15NGd1clJPcDZzSzdreHdmeU9acUZVLWY0Y3RiREx1N1pwV2hFR2k3X1pWTUhKYnZuOTVqTUdhSTAyN3c0MWRxSXowMXlYUy1Dc3VHZDVJZk9XUkZrWjRyUTNRMUJCaVVWaFBpRlNXZDY3aDBZLXRWQkM5cjJrZjZyanRiSkl3VXc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      1,
-     6,
-     20
+     7,
+     19
     ]
    },
    "trend": {
@@ -456,7 +456,7 @@
      3,
      3,
      3,
-     10,
+     9,
      6
     ]
    }
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     5,
+     7,
      20,
      2
     ]
@@ -526,10 +526,10 @@
     "p": [
      1,
      2,
-     0,
+     1,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [

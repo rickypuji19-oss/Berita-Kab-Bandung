@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:34:25.897400+07:00",
+ "updated": "2026-11-04T04:30:45.305918+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,43 +7,43 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   29
+   "Tribunjabar.id",
+   32
   ],
   [
-   "Tribunjabar.id",
-   28
+   "Ayo Bandung",
+   30
   ],
   [
    "Kompas.com",
-   24
-  ],
-  [
-   "RRI.co.id",
    19
   ],
   [
+   "RRI.co.id",
+   17
+  ],
+  [
    "Pemerintah Kabupaten Bandung",
-   12
+   13
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   10
+  ],
+  [
+   "Radar Bandung",
+   8
   ],
   [
    "jabarekspres.com",
    7
   ],
   [
-   "Radar Bandung",
+   "Jurnal Soreang",
    6
   ],
   [
    "Pikiran Rakyat Koran",
-   6
-  ],
-  [
-   "Jurnal Soreang",
    5
   ],
   [
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     13,
-     33,
+     14,
+     34,
      5
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     13,
+     14,
      0
     ],
     "g": [
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     4,
-     14,
+     3,
+     15,
      3
     ]
    },
@@ -205,7 +205,7 @@
      0,
      2,
      1,
-     1,
+     0,
      0,
      0,
      0
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     10,
-     12,
-     6
+     8,
+     13,
+     5
     ]
    },
    "trend": {
@@ -273,16 +273,16 @@
     ],
     "p": [
      1,
-     3,
      2,
-     2,
-     0,
+     1,
+     1,
+     1,
      2,
      0
     ],
     "g": [
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -307,15 +307,15 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Kapolrestabes Bandung Berganti: Kombes Imran Amir Gantikan Kombes Dedi Supriyadi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm10SjNqSF90MWNQdEhLS3lTZTJjSk1iNzFNQ1llRmUyNzNyNm1PNmhWTWhwM1lacWJFQmh4WElIRjhlYUhNbnItSDVlbjVuX2FIMzBickZyUzQzUWJaZmZzQ096bW15ZEdnRDl0X2Q0ZGlHRU5KVDJ6ZDFYYXo5eVZnTWVHZlkxTUVHS2ZGU2tNNjhjTFZxR0EtTVVkN0l0cmNXVjg1QmxmQ2p6WnY0cTg4blh2TTNaNVRsU21GZTk2eWdTVm95UXFR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polresta Bandung menggencarkan edukasi kebangsaan perkuat karakter pelajar - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYk9RS3pEMUhuNk5hYkdaWHBFQy1hWHdYSURLMDNyVkZIS3FLTDd0SG1vaklqajE3aFlyc3lkeXpKSUR3T3ZXb0lLaW80ZHB2YWNtWl9tU0xEZklKNWJ1TllmSnNRMVRJa2tuZ1JxbGlvNmZTeUVzN1hFeE9qY1lyLS03Rnd3NEk1dVVJbkJTMmRjQkpKUmthd3k1VzQwWnB0aXNsemoxTDYxclY5a3hNQUIwcEZZakxI0gG-AUFVX3lxTFB3aGZRWDVlZjJPWXJWMkFsQlRkc28yRFg4dnFKczNKMXZLZ29ZRHlHb2UzVkR0d2xULUYybDUyQWxYeG1nOWhWWTlrM1NUQUhHZEcydjR5dnltWmRUMVVVSzAxVE0yZlE3ZVJORW1zYzlUQzRfM1Bkc3JvQlR5ZlJ2djY3cF9sTG16aXdoRWNpdjBkT2Rldy05eGxUSHNRQ1BXLTlwRFBRWXRhUmc2aS1FRXVFU0t5X2ppc2g5UEE?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Polresta Bandung memperkuat koordinasi lintas sektor hadapi bencana - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNby04bEhnTW11VHpwaW14MzN0SEQ5SThjVWlMNGh3TmhzX2F4MVozSkFseWNJejU4UTVQMjlxRGZQX2NfSGxFTS0ySjJwOXpRR0lfdUhEcldIYXF2czlKcnVYWC1HbHkyNHVQTjdtQlJfU0xkMW5TTmJNZUFEQU9OODBqYVFSTl80N0tWLW9aS2hVemsycWNVSDdWRllBZVJpdmMtc3dLX3hMSjJ5ZGRz0gG0AUFVX3lxTE0tMUJTZWRSZWlPMHBMaEo3OTIxY0VXcWxXWXA1Wm95MWtLUi1HYk5fN004d0FrMG5tcVVXRUZKb3pTUkN3ZmFOOGFGZzV3cHdJTXFHcG80X0hsZ2tjb2pRSnRPRGpVU2VhREF2SFRrODExUVpJNG1IcVpjYWR5cjBqOU9zM1RDVVA4ZzlFYUdOWDRiQUx0MWUyVnFuajZiRkpoMElpTVZldVpsZVJtSGN1QzRFcA?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     19,
-     27
+     22,
+     24
     ]
    },
    "trend": {
@@ -363,10 +363,10 @@
      0
     ],
     "g": [
-     8,
-     7,
+     6,
+     5,
      4,
-     3,
+     4,
      5,
      0,
      0
@@ -389,9 +389,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
+     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOURqdzhxRWV6ZnI5YkJlYXFzV2wzZjRlaENEb0czXzJNak1jSnRMemVvZ1RUZDhrV1FfVFhoaXRqaVlhcEhDSkRBRFBEV3duSWlIZW8zRE15NGd1clJPcDZzSzdreHdmeU9acUZVLWY0Y3RiREx1N1pwV2hFR2k3X1pWTUhKYnZuOTVqTUdhSTAyN3c0MWRxSXowMXlYUy1Dc3VHZDVJZk9XUkZrWjRyUTNRMUJCaVVWaFBpRlNXZDY3aDBZLXRWQkM5cjJrZjZyanRiSkl3VXc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,8 +421,8 @@
     ],
     "w": [
      1,
-     8,
-     20
+     7,
+     19
     ]
    },
    "trend": {
@@ -447,9 +447,9 @@
     "g": [
      0,
      3,
-     2,
      3,
-     10,
+     3,
+     8,
      7,
      0
     ]
@@ -503,7 +503,7 @@
     ],
     "w": [
      4,
-     19,
+     20,
      4
     ]
    },

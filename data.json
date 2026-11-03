@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:39:17.823224+07:00",
+ "updated": "2026-11-03T11:40:57.445672+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,19 +7,19 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
-   27
+   "RRI.co.id",
+   24
   ],
   [
    "Ayo Bandung",
-   26
-  ],
-  [
-   "RRI.co.id",
    23
   ],
   [
    "Tribunjabar.id",
+   23
+  ],
+  [
+   "Kompas.com",
    22
   ],
   [
@@ -27,19 +27,27 @@
    10
   ],
   [
+   "Radar Bandung",
+   8
+  ],
+  [
+   "jabarekspres.com",
+   7
+  ],
+  [
    "Pikiran Rakyat Koran",
    6
+  ],
+  [
+   "Ketik",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
    5
   ],
   [
-   "Radar Bandung",
-   5
-  ],
-  [
-   "jabarekspres.com",
+   "Pikiran-Rakyat.com",
    5
   ],
   [
@@ -51,20 +59,12 @@
    4
   ],
   [
-   "Ketik",
-   4
-  ],
-  [
-   "Jurnal Soreang",
-   4
-  ],
-  [
    "Koran Gala",
    4
   ],
   [
-   "Pikiran-Rakyat.com",
-   4
+   "bandungraya.net",
+   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "KDS Minta Maaf kepada Atlet Kabupaten Bandung, Fasilitas Porprov 2026 Tak Ideal akibat Efisiensi Anggaran - Satumedia.id",
+     "t": "Dari Siraman Rohani, KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1FxQlJyYjNkamhaRXBPWWRScUgtMFRVUFhJd2xwUUtsbUdfcjZ5TG1nNnZydmpmMFM0Y0pRSk9fMXZoVUhSMzAwNXJPZnVQNGIwbzNjSVBmbWhlM0hWVkZRNnFwcWlfSVJlOUJhR2VwYWROQnE4OXpqbVAzX0tqNjYtZVA3a2JtMmItYTNZSExKUHY4OXNqcnRvWVZzUW9fSWhnQ3JRV3lMY1ZveHJmYUlHMkc1S0pEaDVfbW9KbG5pNWPSAcgBQVVfeXFMT25vV1NZdUc0QjlTZmRRbFhoaDBfZmsyYkQ1SXhUOHg1VDdmamRxdUl1ZGN3bFFGYnQ3eVNfc2pDRkltM0dNMDgwOWlSM3pCV2JIV0pjV0psRUsyZXkzMVpXVUthM3VmMF80WHctMVZtUWVPS0xVX0UzWGVEMmxma2FkSnhnTVpvNWdNTmVzekotbXdQZ0w2TktFcnJ4eHgwSHpGeWZocWozcGtHWDgzQ3pCRTFsaktqRnEwUEZpS185Y1N5T3UwMXk?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
+     "t": "KDS Siapkan Apresiasi bagi Atlet Berprestasi, Rp5 Miliar Dialokasikan untuk Kontingen Porprov - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUXFKVWwwVEtEb0Nxak00MVZBZGI3ejlUVWFuUWdZZGZYdDV5S1g3OVFkWWUtQ0VrYWJTbnA4X1Y4LVREYTJ1X2FFcmJldVVGR3MwUzNZOC1EOFdnbC04NFA0YkhkWUowUVFRSVBzUnUzUzgyajFELWdLaGZIMng1MHJvODUyN3YtUG81X09CRDRXcXpkcUp0UVpra2k5YXBnemdSZGpaZXNuaHh4TUd6SjNOb0pBMXhDVExtMUowdDBwUVBwMm5lX3liODFFcDBmc3BEX0JzNzE?oc=5",
-     "r": "Satumedia.id"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMWhVb09LOVdhOEhXam10Y1JFMWEzVU0tM09HOFpKWUN6b0FDUndSYjZpX0dZNk1GSUJ2eHRRSUI3X3J5dkNUSWViUW5NUlFkdkhWTE1tN2h0QWZ2alctTm4wdklOZWlwLTNEMENUT3JLZmE1YkVuOVhWX3VPcDc4QXRsWnIzSlpaeWtzYm1tdnVYX05EelY2SHA1N2ZaR19fd1VaYmc5TndkZWdESll5WU1obVdGS1RHRTZMTG1TZ1ZZZXhQQ1HSAbQBQVVfeXFMT28tc3MwdGxQSURfRThRZ19kMjh2dEFQd3ZQVXd3QzFDWlFXU1h0cWZXYVUyOVlUdXVLWmtWOVB1U01IQjZuYzZKREVMeFVzbWswdVVkR3lZUTNEcTJkUTJBYWVmeFZId3ktMmxDaXBuVHVhWFV4YUtYN2xDNGVMSFVObHAyRmNtUWFoNXowM01TUVhDOWFtYmJDQnJVMFBnQ29TNUU1REpCdVJjZW1EWGQ4RjRN?oc=5",
+     "r": "Ketik"
     },
     {
-     "t": "Koordinasi Soal Banjir, Bupati Bandung Sambangi Lanud Sulaiman - Antarwaktu.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk0xRWdTTnEwZDFMWHpseHM3VnVjYlJWejYwUlZVazRhY0l4WWhJUnhST1ZjUUh1Q3cyYmVRd19TRjh1bWtBVGkzbUVFTWd6bHVzTmRPWHB5U3BuYWxyZjF2d0hlUnptOVc2ZjBXQnA4UHlsY0NIaTN6NjZwZzBnZ1NtMFNvQ1RtOU5GQVJpdFRncWJIT3c3ZVd0aDc?oc=5",
-     "r": "Antarwaktu.com"
-    },
-    {
-     "t": "Lebak Studi Tiru Pelayanan Perizinan ke Bandung - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1p2YWNQNVhXcHZsSVpZREJDRVhidjZQOTlMMW9IT3cxblN6OFV2X3JUNWlXbGtXT3E4UldhZEI0UlRBaldidDVfb21TeUVTZm9ab3ZmaDdLMklNOXUyNlVXSnoxV0J0REVBNTNsbWNnZjNWU0hJa1UzdXNDSkstaGNDT2lYT2JkMnJvTTc4eEhoZ1k?oc=5",
-     "r": "RRI.co.id"
+     "t": "Sinergi Pemkab Bandung dan Bea Cukai, Jutaan Batang Rokok Ilegal Dimusnahkan - bandungraya.net",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekNISVRjdkFrUjBfNzh6MjU2cFdxN090MjRtRTUwcGZ6WWI0TTFHLTQ2T09ZbXBHWXZUbmRFSDc0a0hHNDZsWlRXbGdpMk1NNXB2VVhFS1BtT2phUzNaWFR0TnVRZFFLcGcySXB2Y1psdTFZc2otT3A2Y3QwSENJTmYzMllObjFKams2dlRIYmFpUzg0WHRJTzJ2NFBQTi1XVm9xTDdJeWRfek0?oc=5",
+     "r": "bandungraya.net"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     10,
-     26,
-     8
+     9,
+     27,
+     9
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     9,
-     1
+     7,
+     2
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      7,
-     2
+     3
     ]
    }
   },
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     10,
+     11,
      12,
      1
     ]
@@ -205,7 +205,7 @@
      4,
      1,
      4,
-     1,
+     2,
      0,
      0,
      0
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
+     9,
      8,
-     7,
      5
     ]
    },
@@ -272,7 +272,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      1,
      2,
      2,
@@ -307,15 +307,15 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Viral Video Perusakan Kebun Teh di Pangalengan Berbuntut Panjang, PTPN Tempuh Jalur Hukum - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEloQkVmdjlPS0dqODdITnJyVzZZWktBNUZQREhwU08zWV91Snlma0xNazE1OTlpTUIxWHNzbXVvNHFkbXdTNlFscjh5N21FWXMtX0w1WTdJREgyLWRVaEdxcHBPT2xCazNETzYtTlhZdU96cVRvdGxTcnFPbWZLSEs4cTFrN1QyM2pLLWttb2lHVHhIS2haQWg3dGtzWk56QjlwVGxnWFV5a3Z1ZHlETl9XWmdKb1JCUFU2b0xmcmc5cTdkaDVLMDhheTlkd3VzZjE5N0x30gHbAUFVX3lxTE95VGlkajVOVmhXYWlZbHpvMUdXeGVueE5MYVBIeTZRUzRiUnh1cHNVOFNzX1ZGNXFVMVowQlBxWVZSdURIT21sNEdVWGg4YU5xS0ZxRS1jWWl3bTNQMHdyaEk3Y3FqbzJGVXRwQ0dwZnl1NXItU3F0ZHBOc0ZScmVTYVN0WE1MTTJfXy0yRXBFel9YSFlCU0s5Zk1qRGhMUWE4dF9Kc3l0UU84Z1ZmSWJGRlptMFhlMnZfY1VudEpPRURCeS1BN2J0ZWlqenJrcmt0RUx4alRWRzdkNA?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
      "t": "Polisi Datangi Rumah Mahasiswa UIN Bandung, Dari Saksi Menjadi Tersangka Penyerangan Mobil Polisi - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnRWeEFXazdFRWxtN3JQSkFqbVFVb2NaclRwUjFaSUxBUDQ1N0dCMVVZdkhHaTlvdDd3YWtkdVAxZXZYcEY0VGRoeUpzdFFHTnVfczdFcUg5NVplNmdTZng0eEpHU1NwVGdVczNtbkdNWnhmcUltXzZ0LVJYcmVJWThNcDlyeGd6VU5TMFNySUVLTG9iWXdZOVhlaGFPUXlZV0xNM1ZwQkQzZF9VOFlxU0psUUx1dFY4NzFBZVZTZ3EzX1E3U1FKZEJEbDZjZl91X0xkZEMzX1ZHMUY1cVBxUg?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Anaknya Jadi Tersangka Kericuhan Demo di Bandung, Ibu Mahasiswa UIN Menangis Minta Keadilan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFxQ2NwNFhlUkhFTkN5UnpCM01JcnV1LVBudjFMcmhsS2k5czRyTUprUDRwc2NrcVU0aWJtaHMyWjRvTTY2aEFoNlItcUFaM2lVLXBoQk9JSVZqWnI0NWwxWENob0p6MHNUT2h1YVZIZlJjR1J6cnBTaWkxeVhwNG16NVlSS1IwSDFTbk9TU2RrbTVXLVFoZk9zdHNuTmxRcVZzUTN4OGFvYVRDaU45eWdWSFJMUUxIand0Qmg0RjRoaWVUdVU2QTNQbVRpWWFjT1hsYkJuQTY?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     23,
-     30
+     25,
+     25
     ]
    },
    "trend": {
@@ -364,11 +364,11 @@
     ],
     "g": [
      1,
-     9,
-     7,
+     6,
+     6,
      4,
      4,
-     5,
+     4,
      0
     ]
    }
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Dari Siraman Rohani, KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1FxQlJyYjNkamhaRXBPWWRScUgtMFRVUFhJd2xwUUtsbUdfcjZ5TG1nNnZydmpmMFM0Y0pRSk9fMXZoVUhSMzAwNXJPZnVQNGIwbzNjSVBmbWhlM0hWVkZRNnFwcWlfSVJlOUJhR2VwYWROQnE4OXpqbVAzX0tqNjYtZVA3a2JtMmItYTNZSExKUHY4OXNqcnRvWVZzUW9fSWhnQ3JRV3lMY1ZveHJmYUlHMkc1S0pEaDVfbW9KbG5pNWPSAcgBQVVfeXFMT25vV1NZdUc0QjlTZmRRbFhoaDBfZmsyYkQ1SXhUOHg1VDdmamRxdUl1ZGN3bFFGYnQ3eVNfc2pDRkltM0dNMDgwOWlSM3pCV2JIV0pjV0psRUsyZXkzMVpXVUthM3VmMF80WHctMVZtUWVPS0xVX0UzWGVEMmxma2FkSnhnTVpvNWdNTmVzekotbXdQZ0w2TktFcnJ4eHgwSHpGeWZocWozcGtHWDgzQ3pCRTFsaktqRnEwUEZpS185Y1N5T3UwMXk?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Danau Retensi Kabupaten Bandung Jadi Sorotan, Tender Proyek Belum Berjalan - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTURyOEFWWmppY0RFQ0FTc1psc1YteFg4UkNHM0ZoOVA4Nk1QTENJUDNWb3oyWDVQTjNMdHNqN2twbzJFbzB1Q0M4NVA1cWpEOXN4elVNTmNNYXQ3RGJlejUxWXVYUC1WUW44dXR4cWpGNG96eXdPWG9NUDlaOHhMODB3U2lSX1RqOHFrckQ2Vy1WaHJNYkhKdXBBSXRjb1pURmI3QlZBbmhiNGhpbWtIN0dwckhMNDdxSzJEOVNRS0tCVFpX?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Foto : Pilar Whoosh Diduga Hambat Aliran Air, Pemprov Jabar Minta KCIC Bangun Drainase di Cibaduyut Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOE5yTjJyaE5XQkhuNHVfS240VlRYOWY5bWxrYUhMejlzM18yYlljdjk3OXpyNnc5cHB3SV8yQlF4aE9nTHp2My1yTWlQamd4SVYtSmN4MXFET00zdUR0S2FlLVdZNUpuTDU5Qk5oT19CTFNJZmtmNVZnS1dQbEVqMnpoT050anpYMGVOSmVoQWs2QVRXN0lNdVRfZWdMQjNLR1pFVEhaMFYyU200WkpFcVVaMWVFUzRFZnMyeTltOFlIcVhyREVtb2ln?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -416,12 +416,12 @@
    "v": {
     "s": [
      1,
-     1,
+     0,
      6
     ],
     "w": [
      2,
-     8,
+     6,
      17
     ]
    },
@@ -447,11 +447,11 @@
     "g": [
      1,
      0,
-     6,
+     5,
      3,
      3,
      10,
-     0
+     1
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      3,
-     22,
+     25,
      2
     ]
    },

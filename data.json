@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:47:13.149415+07:00",
+ "updated": "2026-11-03T15:00:20.278665+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,35 +7,35 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Kompas.com",
-   26
+   "Tribunjabar.id",
+   27
   ],
   [
    "Ayo Bandung",
-   25
-  ],
-  [
-   "Tribunjabar.id",
    23
   ],
   [
    "RRI.co.id",
-   20
+   22
+  ],
+  [
+   "Kompas.com",
+   21
   ],
   [
    "ANTARA News Jawa Barat",
-   9
-  ],
-  [
-   "Ketik",
-   8
+   10
   ],
   [
    "Radar Bandung",
+   8
+  ],
+  [
+   "Ketik",
    7
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "jabarekspres.com",
    6
   ],
   [
@@ -43,15 +43,7 @@
    6
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
    "Pikiran-Rakyat.com",
-   5
-  ],
-  [
-   "jabarekspres.com",
    5
   ],
   [
@@ -59,12 +51,20 @@
    5
   ],
   [
-   "Gerbang Patriot",
+   "Antarwaktu.com",
    4
   ],
   [
-   "bandungraya.net",
+   "Jurnal Soreang",
    4
+  ],
+  [
+   "Gerbang Patriot",
+   3
+  ],
+  [
+   "Satumedia.id",
+   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Jayantara-News.com | Kab. Bandung - Jayantara News",
+     "t": "Bupati KDS Musnahkan 1 Juta Batang Rokok Ilegal, Kerugian Negara Rp891 Juta - VISI.NEWS",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96UENJOE45QmV4S0RQVTEzRnRfNUgxMkwxVVlieTJucE9mcFpJaXotV0J5Z2tZQTdDZ1otbWN3Vk9CMkQ2QlFWb3RCNA?oc=5",
-     "r": "Jayantara News"
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVlvd3h2c09TZFJkbGxCUmIxMWpTYjI1WWJvdFhYbjhrN3FQZTFUQUFiQkl4c3lqSXpOVVNXZzBqRkRRRko1SnBObXdFTHlHTEtGb3hnV1Y1clNtYXRyRHFOLVhOYUd2b3N3NXpBMHV1UXZsQnlvWFpLNld3MkMxT291bzI0by1NeWYzLURHRU1LeGMzNjVrZjFJNWQ?oc=5",
+     "r": "VISI.NEWS"
     },
     {
-     "t": "Bupati KDS Bersama Bea Cukai Musnahkan Lebih dari Satu Juta Batang Rokok Ilegal - Gerbang Patriot",
+     "t": "KDS Sambut Kepengurusan Baru Forum HRD, Ajak Perkuat Kolaborasi Ciptakan Lapangan Kerja - Gerbang Patriot",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmtnOFhvbnp5a01yT0dWajh4S2tPT2tmdUw1VV9kQTZBU0g1STRiRnNBaWFSNzVsZmxKWVFQcGs3STl6VXZGVTVESFdRa2wtZ21UWnRmQ0FiTHR1NzBodEkxT1RZSVh6SjBrdFBfR3ZwNk12X1UyTGdpRTlCa2hfSUlJbnlCbEFDVVN2bWdsdkl1NnV2UVQwOTA0aFI3VWxNcGJMS25LRWpGekQ3VFNLYWJZQ0RlQ2xZQkE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYy1fc1BpeFFfM3RHQll0d0M4TDdfcEVhWjExWGpZOGY1aF93MXpUR3VXdGNxVWI2Q2xpVUZjNHNDclVKXzJ6cTRQRlhDV1kyYXF6Sl95b2lLdkNFZWw4M3cxMGl1N1FPa3lWNTc5eF9Del9peXYyajlLMExXeW91RzV5Y3NkNzVSZW1ZcF8yZXREd0Z6WFIzZThhYTQ0VlZXeUs4MHZwT2JFOUMtUUFpR0xjR2dnVWxkQ2M0TEg0MHRiSFk?oc=5",
      "r": "Gerbang Patriot"
     },
     {
-     "t": "Perangi Rokok Ilegal, Satpol PP dan Bea Cukai Bandung Perkuat Sinergi Penegakan Hukum dan Pengawasan - bandungraya.net",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3EtRzgyeUJ6ZUZZMlJXMzB6WVkxcG9kLUU1NW5hMFJSRV9kQ2JjbVpBeFBMbmYwSzNLQ1d4c3J1SGVwRU9zNVhGSlZSWWRNeGJxS2pma0xHc0FxZWhkeU1NeUNPZDhYVHdIcklqVThpZEFSdnBucTBxU0N2c2NzeE1PRW5IVVlwUlVoeTNHQUtCUjRmdFg3M2xJTmRSMmxjWnh1VlowdE5nZUhTYXhfZjB0NnNVbnhRNEQ1TUhYazJKa0w4WkdDSVNUUQ?oc=5",
-     "r": "bandungraya.net"
+     "t": "Pemkab Lebak Belajar Perizinan dan Investasi ke Pemkab Bandung - radarbanten.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnlvRHZZR1o3U2VfLWxWbXFSZ0c0Tmo2cXpFS3M2djlRbEFpWE5MMmV4MG1NSjdpaXZQeVpHSjlrTDRnT1JLWG92RTItUnVvTzkxSjZwbnMyTURyQVFSZlhNXzNQZDB5S3Z5djRzUHVxSUMxX2R1RXZPUzNIUm5xSURRMEVTb0VSVTVoUHdTT2ZpS0RocU1ZR1daMXk2VlhOd0YxWElMYw?oc=5",
+     "r": "radarbanten.co.id"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     10,
-     30,
-     5
+     13,
+     28,
+     8
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     4,
-     6
+     3,
+     10
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      3,
-     3
+     6
     ]
    }
   },
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     12,
+     14,
      1
     ]
    },
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "Inflasi Jabar Terkendali, OJK Pastikan Stabilitas Harga Dukung Daya Beli - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXBNOTVLTUlnVE9vWnJhbWMzX0ZfTjdZTjZFZGM0ZFJDcnhNdDlpSl82TV95TUJ1WVR1dHVoNlRzaEpsUXg4U2JUbmEzcEN1a0daZTVFY3ZEM3d6aTVSWmpsVEdnOHNrcU1NckcwSFhRMW4yaXQ4TnJIbURaMS0yYk1RQVZxbGc0bUdiYUhIOWlRaE9yM01NOFl2cmxjSnRyYjNFMjgtb2RVWmFaQkUtQXkzdFV6OHBQQmZCeTlkcw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Bapenda Kabupaten Bandung Gencarkan Pendataan dan Monitoring Pajak Daerah, Targetkan Optimalisasi PAD - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcHdQbUVuc1ctOVd2dTZiaGNINkdGUjRiSERUeUtFTlZudkQ2UWxZV3pZN2pUYXdwYjBUTVg2R1AyeE40VVc2ZS13UEpoaVZXR3hud2xZSURxU0dzQkdaN0Vuc1cwZF9OMlkwOS1jMkctVGJ1bHVxc0xqREN6QmxuTUotSzdzZjRwZ19yTHlYbGxwS0pTNW1RN2lkVjh0UmQtVktQUnlVYmRLbGkycTVZR0lwVW1nN0EtWDB1WlF5UjE3SlBJaEttcWxQQWI1YTktYUstT19WSEpfOEo0Rlp0SF9yeWVZUEtxZW4zQ1ZBc1BHd2ZG0gH6AUFVX3lxTE5RQUNUSDBrM0RsVi1UbWFqTzFydTV4cmhQVWZOUVQza1QxRjFtdnJ5Y182bjlldDZZV25mRVFpalc3cFNsUnNUQlk0ZkN6b0cwd2ZZZjY1Q1dGWW1GWEk0UEdYbUFmVWtRMnF2MlFqSkRUNmhqZHVsbWI0UGxzQWtqbDdwQzlyQnlLUmhzVEdFSU9ZWDNOQmpTclFIbmc4a1N1OEZkemtaeHBwOVI0NU5xV0x0ZVpmOWlmWGJHVzBLZW5zMzROMGE5SEhtSVV4aTJzdGE5MDRNYW1pTzhSTU1rOUZ5ZWlIaTBNUXBrNmRQOTlkNjZVTS1XUmc?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
      "t": "Foto : Kebun Teh di Pangalengan yang Direvitalisasi Dedi Mulyadi Dirusak, Ribuan Pohon Dibabat Oknum Petani - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0FMSlZNdy00LUMtNms3amEyLVFsUTVmZGdkc28yQS1RYzJwNFVZajVvWndkZjNfdFR4aXZMdEJyVmh5NnFfMU85aU8tbGlKeTNZb2FjVDI5blluZEY3a3BTTnc0MGVRQm9NZmx5bnp5dndzX1JST3VoOW44Nk5zd3NkbnE0M2NlbTE1RHVNOE1YbVBYUUtyZ19YbGY0VmpqcWNIdGF0ME9uMm80d3VUbWQ1Z0JFV0dybVRUeWw5Wk0xalVa?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Harga Aci Melonjak 30 Persen, Farhan Soroti Nasib Pedagang Cilok dan Cimol di Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazVSOUJjd1JjQzZRYVkxUDNmamtSanB2cGViYlFrTEJib2xzNENBWGtXekRZTWdqUXh3NkVRb3VjZEh1UlplTGhxUW0zLVhpWjY1dkdEWVlzV0hsdXBTekdsN0FZc3dTNG5BSmJBQkxkaUVIaVRSNVhGMmJOczZ1U2RQT1A4elJqZVo4RUFMUHFUYlJYRnd0LU0zUnZVelBHckpIUjUtaXBPbFBwVGY4MGdtTHExakx6U0hGWV91aUZVaHNGcll3QjAwYl9Bc1Ay?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     8,
-     8,
-     6
+     9,
+     9,
+     5
     ]
    },
    "trend": {
@@ -278,12 +278,12 @@
      2,
      1,
      1,
-     0
+     1
     ],
     "g": [
      0,
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     21,
-     31
+     25,
+     26
     ]
    },
    "trend": {
@@ -363,9 +363,9 @@
      0
     ],
     "g": [
-     3,
-     8,
-     7,
+     1,
+     6,
+     6,
      4,
      4,
      5,
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Proyek Irigasi dan Danau Retensi Belum Jelas, Bupati Bandung Bakal Surati Menteri PUPR - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGJKMEtzWU1waFVqd2pTNDVRZm9uSTR3YV9hSkNvaWs0QkFQbElZMHJhQng3endHTDIzUEIxNmtoUGFTdFJEZ1F6UGlRUXlMWTFfMUt6SmtCMDF2RGZUZUlTOEw4eUdoMzBFM1Y4OUx4NlRMeUxpSEhKM1JqR1ZneVR1YTR3RFdvd1BkdHhDZ01sa2JId2Y4bzBCWlQwNWJsUzBYRUxpczFmdkdOOEY0aC0tOF93d3VWTHU2NkhVemxWU2c?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Perusakan Kebun Teh Pangalengan Pernah Picu Banjir Lumpur dan Krisis Air, Warga Pun Was-was - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFneHhuV0gzNG9fbGE1Q2ZVb2xFZlpjVktrWDR3VHNRTTRvVUx0ZVlMLThtZjdpSWVMRUItTG9PSFpEd1E5SnJDNTFwVUZGRU1pYUNBbWMtcFBWaDVVcjZyRlN5dGhFSjVIQ1dQM0VvQUk3S3hHblBBX29iNGRpSldOa1EtREFvaHhlckUwbnZicDNRUTdWOWJDcEg2S0ZodUthWDI2eXZTZmExdXg3c3QzMkh0UjRGbHN0a1JjVkxsMms?oc=5",
@@ -393,12 +399,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlM4M2l3UmlPZXZUano1Tm9ONUtCckVMLTlPN0hFbHloaU5aUTBTTlNqWXhYLXlIZzhoOVF2NHd0X0RxLWsxTXNoS2xJTll3Rk5hMjdpMWpIX3htSFRibjNWMExUZUJQZ1JfaHYzX01FYTFBMmFzbms4Q2pVcVM3Z24zaEhXR3c4VXNaLXFKWTc1XzQ3RzNULVhfVURIOVhDRXZWX3BfVTNvTVFDTGRBdm9GMHRwc3lBMWlGVUttbkVXRk9vcWZRc3g0YWtJT2pR?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Dari Siraman Rohani, KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1FxQlJyYjNkamhaRXBPWWRScUgtMFRVUFhJd2xwUUtsbUdfcjZ5TG1nNnZydmpmMFM0Y0pRSk9fMXZoVUhSMzAwNXJPZnVQNGIwbzNjSVBmbWhlM0hWVkZRNnFwcWlfSVJlOUJhR2VwYWROQnE4OXpqbVAzX0tqNjYtZVA3a2JtMmItYTNZSExKUHY4OXNqcnRvWVZzUW9fSWhnQ3JRV3lMY1ZveHJmYUlHMkc1S0pEaDVfbW9KbG5pNWPSAcgBQVVfeXFMT25vV1NZdUc0QjlTZmRRbFhoaDBfZmsyYkQ1SXhUOHg1VDdmamRxdUl1ZGN3bFFGYnQ3eVNfc2pDRkltM0dNMDgwOWlSM3pCV2JIV0pjV0psRUsyZXkzMVpXVUthM3VmMF80WHctMVZtUWVPS0xVX0UzWGVEMmxma2FkSnhnTVpvNWdNTmVzekotbXdQZ0w2TktFcnJ4eHgwSHpGeWZocWozcGtHWDgzQ3pCRTFsaktqRnEwUEZpS185Y1N5T3UwMXk?oc=5",
-     "r": "Radio PRFM"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -421,7 +421,7 @@
     ],
     "w": [
      1,
-     8,
+     7,
      17
     ]
    },
@@ -447,11 +447,11 @@
     "g": [
      1,
      0,
-     5,
      3,
      3,
-     8,
-     3
+     3,
+     9,
+     4
     ]
    }
   },
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     23,
+     6,
+     21,
      2
     ]
    },
@@ -520,10 +520,10 @@
     "p": [
      1,
      1,
-     0,
+     1,
      1,
      0,
-     2,
+     3,
      0
     ],
     "g": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:35:41.324020+07:00",
+ "updated": "2026-11-03T23:42:19.637808+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,11 +12,11 @@
   ],
   [
    "Ayo Bandung",
-   25
+   29
   ],
   [
    "Kompas.com",
-   21
+   27
   ],
   [
    "RRI.co.id",
@@ -28,34 +28,30 @@
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   12
   ],
   [
    "Radar Bandung",
-   9
+   8
   ],
   [
    "jabarekspres.com",
-   8
+   7
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
-   "Jurnal Soreang",
-   5
-  ],
-  [
    "detikcom",
    5
   ],
   [
-   "Antarwaktu.com",
+   "Ketik",
    4
   ],
   [
-   "Ketik",
+   "Jurnal Soreang",
    4
   ],
   [
@@ -63,7 +59,11 @@
    4
   ],
   [
-   "Fokus Satu",
+   "Antarwaktu.com",
+   3
+  ],
+  [
+   "Pikiran-Rakyat.com",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Bupati Bandung: Tata Kelola Pemerintahan Harus Transparan - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVF2Zkh3czlGcm5feFk0ejZHUjNVRlFFazNSUDE3VTd4Q20xVGpxLUZxNDNnMmJCcUxNNDNNMUg4Z09yRDBmTng0QzBydEJCSkxFQ3IydkU4WGtZcjZJQ3pmSk0yTmlUS1dOR0VNZXFETW1VUWtDS0lmbTJENl9SaW5oWWV0MFdJRUdxZVp3YmJ3R21PcThXZDA2MFBad18x?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Pemkab Bandung menggandeng Forum HRD untuk serap lebih banyak tenaga kerja lokal - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkNfTTRBSTVkU3VPMWU0eWNpejVNYTZHSVNOSWZ6SE9HVDNBTGV0Mkl4bGxqeWd4SzNwbTNNYTBjd0o4RmN2RDViUlpQT3JYdnEzaV91YmFLUVVwV0NBekpURm4tcExVZ1Z1VzlOQTltVV9peGJkelJZdnBtV1RMTzI5Z19VRExRTS1JU19sUHI3YmRBWGtQQ0dvU3VLMUxETFZqbnFxVkF4bkc2Z0NDTHhweEdSc0ljajdvMnp6YzPSAcYBQVVfeXFMTWVTSWlsUnVvejhDZTRyNlhocHVmYUphU3k0S3pHZkthX1l3c3ZIVE9pRDg1ZGwzaVNVR3NuSlhONGk5TExudWozR1NLTUhPd1ZObXp4VjctWG92aFFsMVFuVjBuWjU0Qk1CMXBsRWFzYU1ZOWNhUFB5NU9TeXlmUzFGRmZMcmNPSi1YM3FhX2NUYlZVMnE3SFVOZktMT2xGOWEwcXhzNnI0VktCbk1KSGtJWkV0U0VfZW1SRVBfVlN6ZzRZcUJn?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Pelayanan Informasi Publik Didorong Lebih Proaktif Demi Wujudkan Pemerintahan yang Akuntabel dan Transparan - Delegasi Pemersatu Rakyat",
+     "t": "Pemkab Bandung menggandeng Forum HRD untuk serap lebih banyak tenaga kerja lokal - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zVGNabUFXTl9waGxLUHUzZ082WVdUNnZXOWhqR2lFLTVSODFmWU1MV25tRFRTZ0Z1anBDZ21JRnVxTmZ1SmcxUkhqSndWRnFCRlhtUU5BSDlnMnNEaVVoTWRlajdsd1BESnV3bTczbHRPRzhfWmdtMTVfLVpRckk?oc=5",
-     "r": "Delegasi Pemersatu Rakyat"
-    },
-    {
-     "t": "Bea Cukai Bandung Musnahkan RibuanBatang Rokok Ilegal Senilai 1,7 Miliar - Antarwaktu.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2JILVJTV252eGo5bmZEeTd5UGZsWEE4M3QyTzM5UGx6bGdiQ3ZWeV9vZEdVdzdWVE00d2ZIazF5bWh5Y0ZFMXpqTE1mSDdMNDFuVmY4OEZQd05GZk1Sa1BhbVFJb0QwNFpXSG5WamViVTdFYjFKWVVZc0tsUmQzR0JTRzkwYk5fcVFybXZkdWt6c2xHdHBJc3dhbUtxb3dLS0YybElOa0txdw?oc=5",
-     "r": "Antarwaktu.com"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVNJaWxSdW96OENlNHI2WGhwdWZhSmFTeTRLekdmS2FfWXdzdkhUT2lEODVkbDNpU1VHc25KWE40aTlMTG51ajNHU0tNSE93Vk5tenhWNy1Yb3ZoUWwxUW5WMG5aNTRCTUIxcGxFYXNhTVk5Y2FQUHk1T1N5eWZTMUZGZkxyY09KLVgzcWFfY1RiVlUycTdIVU5mS0xPbEY5YTBxeHM2cjRWS0JuTUpIa0laRXRTRV9lbVJFUF9WU3pnNFlxQmfSAcYBQVVfeXFMTWVTSWlsUnVvejhDZTRyNlhocHVmYUphU3k0S3pHZkthX1l3c3ZIVE9pRDg1ZGwzaVNVR3NuSlhONGk5TExudWozR1NLTUhPd1ZObXp4VjctWG92aFFsMVFuVjBuWjU0Qk1CMXBsRWFzYU1ZOWNhUFB5NU9TeXlmUzFGRmZMcmNPSi1YM3FhX2NUYlZVMnE3SFVOZktMT2xGOWEwcXhzNnI0VktCbk1KSGtJWkV0U0VfZW1SRVBfVlN6ZzRZcUJn?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     12,
+     14,
      33,
-     5
+     6
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      0,
-     12
+     14
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      0,
      0,
      1,
-     5
+     6
     ]
    }
   },
@@ -167,16 +167,16 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Sebelum Massa Membubarkan diri, Demo di Depan DPRD Jabar Sempat Memanas - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJKZTQxNVdKSUpRU2lfYUoxRGEtOHlnTjhuUGZXZ1FoZUZHd3lNbmRTcFlmZHJ4bHJYV1BfWHVnNGpybVQyVTMtMXZNemZnczBXUmlRWGZibjZJS0U1WHBnVnhvSWtUd3BBZUFHeE5hcVY4c2NVQ3ZGb2NhYVNOM05GMWVvRnUxcGwzLVFvVk1zN1NOcEJhZllzZTMxTW15SXBsNHBJQzZJTHRfTVI4QW9ZWdIBuAFBVV95cUxQOTl1Z1U2Si14VGN5SUFBenJsVzNLelZDa1k3LUlzeGpYQkQtOTZZZjB0QlVSa1ZDSzBLTGJMXzJWNUdHOXktbDZkbkRQNy1jemZSdUYyU2laakwxSXdDck4zbGo2T2c1VndjbGpBTGEtUzRjbVFsTDJBa3pLSkF6TldxczdKV3Y5OVNmSzdPQUdDMEFpS2dkWUlqenhnSmRUdl90V0xNblY5MnhNYkJvSThBbVZheHdl?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "PPP Bandung Pasang Badan untuk Mardiono di Tengah Kisruh Internal, Tegaskan Partai Harus Tetap Solid - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0hJVTI3b1U3WUc3NVk5WTI0TEE1Vjl3bWxCWFg4UnpFSndESzkzT1ZtYWkwclJTbFpzSmRYZVFxcmMzc3JNQm5UQ2ZMaFNHbWdzRkZvWGtDWFhvS2JkaU1ZbG5nWi1SR0o4Q2lnVHhkajBQRDI1SlJzc1d4VXd6WnVidnB6MnQ5V3JiQXR4WUM4MWlraGg0ODFtZ3FUNjN3VnRmdnBKSFdBU0hrcWxiTUFCRHVsazE1SV9KamhKM1c1aWlYTWtqakQyWHU4WXNtbi0yTGIyWmtvaFZxX2xka1p0cnY?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Jelang Porprov, Komisi V DPRD Jabar Soroti Ketersediaan Debit Air Venue Ski Air - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGZIeVI1Y0NDaFRFeUJPdFJwUFBEY0pOdFBqcGJkY1hPN09sOWh6Q082UlBTVXEwMlBfN0ZRRGRCQjlvb2dXTVMzN0xpcDRzeEtaUlp4d0c4NDBlM3RscXl2Y0VuQ3ZZaEYwTWJwV2NUemVZdWRvYldLdVdoNDF1a3I0ZndqMmlmM0JRSjY5NERZNTc5OEZiQmhWdUQxeGtJR0xnSWQzaHZfdFByTHJ5ZnkzeUdDREZUOHdRY3dfaDR6YWQx?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "PENGUKUHAN PENGURUS DPC MUSKERCAB DPC PKB",
@@ -192,9 +192,9 @@
      0
     ],
     "w": [
-     13,
+     9,
      15,
-     1
+     3
     ]
    },
    "trend": {
@@ -209,21 +209,21 @@
     ],
     "p": [
      4,
+     0,
+     3,
      1,
-     5,
-     2,
      1,
      0,
      0
     ],
     "g": [
-     0,
+     1,
      0,
      0,
      0,
      0,
      1,
-     0
+     1
     ]
    }
   },
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Serap Rp189 Triliun, Kredit UMKM Jawa Barat Sabet Peringkat Tiga Nasional - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2ZBZFF6LXpFMlNmbTAwWlBsakduajlIT3NtNzdyRnFMWXpDYUFOSEZhR3JjRW45WjhwS2Z2SElGQlBaMXpBUmdXNVIxVkpuWUY2ejRvQldyR1NCVHdlSlRtT3BQbElheG9EaGJGTU1Xd0U0N3VwOUM5aU0zRG5MNDM3a25iZlAxOVV5alZ0OGNVVTZNLUl5UHhZTVJzMlhYNWpiU1E2RVBxTk43X3hQdkRqbVZsYThRSzZXTW9VTmPSAcYBQVVfeXFMTVhVdVprVmdBRjBLa045VkFtc1NxVnZDSkgySXpfczNtSVppY1NMYnZKSFpndnQ4d01HUmdqVGNoYUdKc1poaURqWHpNTG8yaXJqU0c4T2tjWm00QVNickVVLTJNeTZRczZVcmlnSDZXU3NYM2xMaTRlN2dYaGRZXzEwOVJRdC1Kcm14UUd2R0I5bElfZWQ4UThwNzU4VzFWYjhKMG9fLW1MNDZ6UHRoQmp4QjhXYzl3ZWtzaFdfc2RsUjdVdnpR?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Pemuda Persis Perkuat Ekonomi Jam'iyyah lewat Investasi dan Gerakan Tani - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTRQMTFfLTdGWjY3ZDQwWWtmbzdzanAxUWg0dTFKUjFiSXBDVmg4ZDNHWFY0MHNpWWJLWVpUV3dLS0M3aGJwdENpYzJNeFNKNkJwODZSNHl0Q0U3Vm84RG5ZOEVXMU8xQ2dkdjRhSVZtZWhLSVR2R1pobDVpX0JhamdNcFJXUHdTbl9hWFo4YjM1bGpqQzB1bzJDX2FTMzdJUno0OFNLcjluNXc0eUZ6aGFFLU5Mc1hTN3c4Xw?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVR2R2NOVS1sMm1md2REWG9MZlNNRC1RTXo0UUdFVk9ERmktbmlfNGRPSk1ELWE1NmNpNHgwWjEtN0xKN3M0Z1JZR0Rid0o3X24xZGx4OXlYR2pLRDlublh1ZFkxd0YtbWFzMmJmQXpsZzh6U2tSYi1jZUpYOVRCSXBUZjRVMV9BV21QNFJJd0VKMzZCTFF1RUd3alRNdG5yQjJWNHRYdzNNT1F6RHdsU0hOejJKX2szRGxtai1lR2JiNldZd3dLdEs5MHFTQklOVjlKSjBicHPSAd4BQVVfeXFMT0d3ZU1fel9oZURsSVZVRFh5WU5ScWZwUkpaZU9LdXJkRGp2cnB3N05ESDJjRjlDZmFtSlFfZXRsWkhaTU5BVEpLZjZaaFA4ZlpVMDVWSGhFOXpheFFjNTB5NmxLdFl2NUswLVBNeHZ4THFtbXNlRjBhUzRSUFhGa3hSeTN5Z2ttajB6SllDb3owc0NDRk9nX252RWhlMHMxcDVITHkyZkdYQUtadDd4THZmdHhwbXdMLXEyblNsMEl2Y1ZYMWpVSVlIOXRUN00yOVNhaDJyYVhUWlRWTWZn?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Pelaku UMKM Pangan di Bojong Koneng Kabupaten Bandung Didorong Memperluas Jangkauan Pasar - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVU1M3hmOGVQYS1kTm5xUDJLYUFCUVhTajhFcV9WXy1yOE8zRW1vWW9zMVhYWmNSc0hLOWwtcU9RRy01eDdSUTFNZGExakpSV0o5QkxkeG1VNDFFZGtuWVJab0czNDVsT05RMk45QnlmbTc2WmQycExzVi04YVdlQW9VVEI0Zk96S3pUWTl5aUJwUGNPNlhKZVF1bmRMRmo1ZHIwSUJPdFFoeXN2cUs2V1FVUjZWTU5sRXFRc1hpYzZRaHVjWHB0dUQxa3NNM0F0ZUMxeTZIbw?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -263,8 +263,8 @@
     ],
     "w": [
      9,
-     12,
-     5
+     13,
+     6
     ]
    },
    "trend": {
@@ -289,7 +289,7 @@
     "g": [
      0,
      0,
-     3,
+     4,
      0,
      0,
      1,
@@ -345,8 +345,8 @@
     ],
     "w": [
      0,
-     25,
-     26
+     23,
+     28
     ]
    },
    "trend": {
@@ -369,9 +369,9 @@
      0
     ],
     "g": [
-     3,
-     5,
-     6,
+     2,
+     7,
+     7,
      4,
      3,
      5,
@@ -427,7 +427,7 @@
     ],
     "w": [
      1,
-     6,
+     7,
      20
     ]
    },
@@ -509,7 +509,7 @@
     ],
     "w": [
      4,
-     21,
+     20,
      3
     ]
    },

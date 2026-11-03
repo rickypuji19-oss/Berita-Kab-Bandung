@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:51:43.709892+07:00",
+ "updated": "2026-11-03T22:35:41.324020+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,24 +11,24 @@
    29
   ],
   [
-   "Kompas.com",
-   28
+   "Ayo Bandung",
+   25
   ],
   [
-   "Ayo Bandung",
-   23
+   "Kompas.com",
+   21
   ],
   [
    "RRI.co.id",
    17
   ],
   [
-   "ANTARA News Jawa Barat",
-   11
+   "Pemerintah Kabupaten Bandung",
+   13
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   9
+   "ANTARA News Jawa Barat",
+   11
   ],
   [
    "Radar Bandung",
@@ -43,10 +43,6 @@
    6
   ],
   [
-   "Ketik",
-   5
-  ],
-  [
    "Jurnal Soreang",
    5
   ],
@@ -55,7 +51,11 @@
    5
   ],
   [
-   "Fokus Satu",
+   "Antarwaktu.com",
+   4
+  ],
+  [
+   "Ketik",
    4
   ],
   [
@@ -63,7 +63,7 @@
    4
   ],
   [
-   "Antarwaktu.com",
+   "Fokus Satu",
    3
   ]
  ],
@@ -116,7 +116,7 @@
      1
     ],
     "w": [
-     14,
+     12,
      33,
      5
     ]
@@ -138,7 +138,7 @@
      0,
      0,
      0,
-     14
+     12
     ],
     "g": [
      0,
@@ -192,8 +192,8 @@
      0
     ],
     "w": [
-     9,
-     14,
+     13,
+     15,
      1
     ]
    },
@@ -209,10 +209,10 @@
     ],
     "p": [
      4,
-     0,
-     4,
      1,
-     0,
+     5,
+     2,
+     1,
      0,
      0
     ],
@@ -243,15 +243,15 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Dihantam Cuaca Ekstrem, Produksi Padi Jabar Turun Meski Kesejahteraan Petani dan Pariwisata Meroket - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVR2R2NOVS1sMm1md2REWG9MZlNNRC1RTXo0UUdFVk9ERmktbmlfNGRPSk1ELWE1NmNpNHgwWjEtN0xKN3M0Z1JZR0Rid0o3X24xZGx4OXlYR2pLRDlublh1ZFkxd0YtbWFzMmJmQXpsZzh6U2tSYi1jZUpYOVRCSXBUZjRVMV9BV21QNFJJd0VKMzZCTFF1RUd3alRNdG5yQjJWNHRYdzNNT1F6RHdsU0hOejJKX2szRGxtai1lR2JiNldZd3dLdEs5MHFTQklOVjlKSjBicHPSAd4BQVVfeXFMT0d3ZU1fel9oZURsSVZVRFh5WU5ScWZwUkpaZU9LdXJkRGp2cnB3N05ESDJjRjlDZmFtSlFfZXRsWkhaTU5BVEpLZjZaaFA4ZlpVMDVWSGhFOXpheFFjNTB5NmxLdFl2NUswLVBNeHZ4THFtbXNlRjBhUzRSUFhGa3hSeTN5Z2ttajB6SllDb3owc0NDRk9nX252RWhlMHMxcDVITHkyZkdYQUtadDd4THZmdHhwbXdMLXEyblNsMEl2Y1ZYMWpVSVlIOXRUN00yOVNhaDJyYVhUWlRWTWZn?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Pelaku UMKM Pangan di Bojong Koneng Kabupaten Bandung Didorong Memperluas Jangkauan Pasar - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVU1M3hmOGVQYS1kTm5xUDJLYUFCUVhTajhFcV9WXy1yOE8zRW1vWW9zMVhYWmNSc0hLOWwtcU9RRy01eDdSUTFNZGExakpSV0o5QkxkeG1VNDFFZGtuWVJab0czNDVsT05RMk45QnlmbTc2WmQycExzVi04YVdlQW9VVEI0Zk96S3pUWTl5aUJwUGNPNlhKZVF1bmRMRmo1ZHIwSUJPdFFoeXN2cUs2V1FVUjZWTU5sRXFRc1hpYzZRaHVjWHB0dUQxa3NNM0F0ZUMxeTZIbw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnBNNmFoYVN4QzExN2VaNlJ6R2ZmVXdhTGxNVFljNjhWTVpYNmQ3NkFDazNRZmVuNzlXclowazlhcFRlaVRJZGdldnAwRVhVMzBvSzBXMWY0X1ZBVzdWY3UteTN5bW5RQ2lLTVRaeV9fcVJTWW9fczhZWEphMEZ6M1NqZkdTYXZqZ05raHhnMEpCTG5YTDE4UHphSHZyR21zbGVxa2JqODl0MTBlQ2oxaEVGM2hweHpiS0NUS21vcWY3Qm1jZDRYeVg4cW1jZmxwR0lwbDhHOGZ1VTZm?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -263,8 +263,8 @@
     ],
     "w": [
      9,
-     11,
-     6
+     12,
+     5
     ]
    },
    "trend": {
@@ -289,7 +289,7 @@
     "g": [
      0,
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -345,8 +345,8 @@
     ],
     "w": [
      0,
-     23,
-     28
+     25,
+     26
     ]
    },
    "trend": {
@@ -370,11 +370,11 @@
     ],
     "g": [
      3,
-     7,
-     7,
+     5,
+     6,
      4,
      3,
-     4,
+     5,
      0
     ]
    }
@@ -427,7 +427,7 @@
     ],
     "w": [
      1,
-     8,
+     6,
      20
     ]
    },
@@ -483,10 +483,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "SI Didorong Manfaatkan Program Beasiswa BESTI dan PKBM - RRI.co.id",
+     "t": "Aplikasi IKD Makin Lengkap: Bisa Urus 10 Layanan Adminduk dari Rumah dan Pendaftaran Bansos Perlinsos - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTFWVUthbDFzMEFwV3VsbzJLVzRvRWxHcGdaTUJhNldSOUU2dzh5aUFEdFRCYUFSWlFKal9Rckg2cm83MEw2bVRvcTVqeUstZ19Bc05mamI1d1hlcFBvN0lMS2FVcjdSRDRqVHc2ZGQyQ2wzVjFvbWl2UFU3Y0Uzbi1nUGdNbXNlNWxNTjl0YkVmMHFaVzZzZm9R?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnd0RmszTWtuRnVDYThzSl9CWUNwaVgyMHQyTlBmRjR4MGFuR1U0eldwUmwwbzNNYlpINmhLUnRlTlhzWWtLSmZlZFowV3hRMkdId2JmY3J2cFNnT0h3MzNVbUxaSC1CeGNiVFphZGNFdTc3ZWJHQ2t4SmI3MFBiNnFENU9idHlZRHJlUWozNE85cVJoWk5WUGlQaDdrd05vcVpyRXJCLWRPbW5FYm5KTXNmbWh3SUNYWjdMZUU5UFdkTTlmYXc1eVhTTm1yb1pLajBBTnNJQTdnbzVkU0ZNRXQycUpNV29qVERzWg?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",
@@ -508,7 +508,7 @@
      0
     ],
     "w": [
-     5,
+     4,
      21,
      3
     ]
@@ -529,7 +529,7 @@
      0,
      1,
      0,
-     2,
+     1,
      0
     ],
     "g": [

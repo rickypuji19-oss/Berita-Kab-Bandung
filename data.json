@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:39:45.561199+07:00",
+ "updated": "2026-11-04T01:35:15.019617+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   33
   ],
   [
    "Ayo Bandung",
-   27
+   29
   ],
   [
    "Kompas.com",
@@ -28,11 +28,15 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   9
+   10
   ],
   [
    "jabarekspres.com",
    7
+  ],
+  [
+   "Jurnal Soreang",
+   6
   ],
   [
    "Radar Bandung",
@@ -44,14 +48,6 @@
   ],
   [
    "Ketik",
-   5
-  ],
-  [
-   "bandungraya.net",
-   5
-  ],
-  [
-   "Jurnal Soreang",
    4
   ],
   [
@@ -61,6 +57,10 @@
   [
    "detikcom",
    4
+  ],
+  [
+   "Gerbang Patriot",
+   3
   ],
   [
    "Antarwaktu.com",
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Komitmen Pertahankan Tiga Besar dan Perkuat Digitalisasi Layanan Informasi - Gerbang Patriot",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQnFqWGdyTUdxQW95bktHbTBQbG10Q1BvcjZvVkpLbV9YdW1OMUlUX3RnWklPS2JPQkx0a21IS0ZRelZWcDJxY055RE16dlpNbHZlcTkxSlpadDhVLXVpTDVQa1Nwbml1Wm5tSWhKTmdUXzVEZ19uQ2pxYUxlNFoxMXdCUG1pYkRNdUJKWWZvTTQyVEpjZzJQVUVyTkZvT1ZCZE9yeWVaUTJoZGY4UXpRd0x6WWxVbUs5ZTBJWlhjYXhNRnUwM3ZB?oc=5",
+     "r": "Gerbang Patriot"
+    },
+    {
      "t": "Bupati Bandung: Tata Kelola Pemerintahan Harus Transparan - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVF2Zkh3czlGcm5feFk0ejZHUjNVRlFFazNSUDE3VTd4Q20xVGpxLUZxNDNnMmJCcUxNNDNNMUg4Z09yRDBmTng0QzBydEJCSkxFQ3IydkU4WGtZcjZJQ3pmSk0yTmlUS1dOR0VNZXFETW1VUWtDS0lmbTJENl9SaW5oWWV0MFdJRUdxZVp3YmJ3R21PcThXZDA2MFBad18x?oc=5",
@@ -88,12 +94,6 @@
      "t": "Pemkab Bandung menggandeng Forum HRD untuk serap lebih banyak tenaga kerja lokal - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkNfTTRBSTVkU3VPMWU0eWNpejVNYTZHSVNOSWZ6SE9HVDNBTGV0Mkl4bGxqeWd4SzNwbTNNYTBjd0o4RmN2RDViUlpQT3JYdnEzaV91YmFLUVVwV0NBekpURm4tcExVZ1Z1VzlOQTltVV9peGJkelJZdnBtV1RMTzI5Z19VRExRTS1JU19sUHI3YmRBWGtQQ0dvU3VLMUxETFZqbnFxVkF4bkc2Z0NDTHhweEdSc0ljajdvMnp6YzPSAcYBQVVfeXFMTWVTSWlsUnVvejhDZTRyNlhocHVmYUphU3k0S3pHZkthX1l3c3ZIVE9pRDg1ZGwzaVNVR3NuSlhONGk5TExudWozR1NLTUhPd1ZObXp4VjctWG92aFFsMVFuVjBuWjU0Qk1CMXBsRWFzYU1ZOWNhUFB5NU9TeXlmUzFGRmZMcmNPSi1YM3FhX2NUYlZVMnE3SFVOZktMT2xGOWEwcXhzNnI0VktCbk1KSGtJWkV0U0VfZW1SRVBfVlN6ZzRZcUJn?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pemkab Bandung menggandeng Forum HRD untuk serap lebih banyak tenaga kerja lokal - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVNJaWxSdW96OENlNHI2WGhwdWZhSmFTeTRLekdmS2FfWXdzdkhUT2lEODVkbDNpU1VHc25KWE40aTlMTG51ajNHU0tNSE93Vk5tenhWNy1Yb3ZoUWwxUW5WMG5aNTRCTUIxcGxFYXNhTVk5Y2FQUHk1T1N5eWZTMUZGZkxyY09KLVgzcWFfY1RiVlUycTdIVU5mS0xPbEY5YTBxeHM2cjRWS0JuTUpIa0laRXRTRV9lbVJFUF9WU3pnNFlxQmfSAcYBQVVfeXFMTWVTSWlsUnVvejhDZTRyNlhocHVmYUphU3k0S3pHZkthX1l3c3ZIVE9pRDg1ZGwzaVNVR3NuSlhONGk5TExudWozR1NLTUhPd1ZObXp4VjctWG92aFFsMVFuVjBuWjU0Qk1CMXBsRWFzYU1ZOWNhUFB5NU9TeXlmUzFGRmZMcmNPSi1YM3FhX2NUYlZVMnE3SFVOZktMT2xGOWEwcXhzNnI0VktCbk1KSGtJWkV0U0VfZW1SRVBfVlN6ZzRZcUJn?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     16,
-     31,
-     6
+     13,
+     33,
+     5
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     16,
+     13,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     6,
+     5,
      0
     ]
    }
@@ -173,10 +173,10 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "PPP Bandung Pasang Badan untuk Mardiono di Tengah Kisruh Internal, Tegaskan Partai Harus Tetap Solid - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0hJVTI3b1U3WUc3NVk5WTI0TEE1Vjl3bWxCWFg4UnpFSndESzkzT1ZtYWkwclJTbFpzSmRYZVFxcmMzc3JNQm5UQ2ZMaFNHbWdzRkZvWGtDWFhvS2JkaU1ZbG5nWi1SR0o4Q2lnVHhkajBQRDI1SlJzc1d4VXd6WnVidnB6MnQ5V3JiQXR4WUM4MWlraGg0ODFtZ3FUNjN3VnRmdnBKSFdBU0hrcWxiTUFCRHVsazE1SV9KamhKM1c1aWlYTWtqakQyWHU4WXNtbi0yTGIyWmtvaFZxX2xka1p0cnY?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Mahasiswa Kembali Aksi 2 Tahun Prabowo di depan DPRD Jabar, Bakar Ban-Ledakan Petasan Sempat Terdengar - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnRxaFhLczFoNmNPNUpMTVVTRjhtTVFPZlR6R1FvS1FyRHJEcGpJeUk3MXdlUGY2T1NlOHFrbXM0Qm5xRUxkTU5kLUQwQ2UxTHBEeDhNY3RZa25oRlA1czhHUHNSaDllWXlqbFJGc3dQUVh1c2lJOHF3MURNY1NjZVZWMGVnSEdyeXl2YlN2Und0UElod2g4VHpjT3ZvYzl2R09pQjVzR1JBSmJyMzhZTVRhcmhxaHpHdjNhVnk2X0tzVkRzaENVM3VCMzAxaU1MMWpoMzBxT3AzVW9T0gHiAUFVX3lxTE1Jdnc2T01YemhGT281ZFNRSmlXNTNFMG1FX2pHd2RuUFlTUkFCVnBrQWM3cm0tYmY1ZVo1dVh1QzJMc1RLeHplSmtLd0lWWUtMb0tsbVN4Si04WVFTcW9WSk9DdjQ5bzRfYjdnNDA3OVZGam5lM0lrUW05eXl6UjJrd2w3dWo1eWVyRVZ6YkNZNnphRWpVR0EycUpnZThPZE5iNkQ0NlNidWx0VlN4NjQ0cW5nSmRZSkU4ckhqOC1VQkFobW1OQTF2dklKdmNYTUJhczd0MmNKVDVzWEM0YlNOTkE?oc=5",
+     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -186,9 +186,9 @@
      0
     ],
     "w": [
-     5,
+     4,
      13,
-     2
+     3
     ]
    },
    "trend": {
@@ -203,7 +203,7 @@
     ],
     "p": [
      0,
-     3,
+     2,
      1,
      1,
      0,
@@ -216,7 +216,7 @@
      0,
      0,
      1,
-     1,
+     2,
      0
     ]
    }
@@ -257,7 +257,7 @@
     ],
     "w": [
      10,
-     12,
+     13,
      6
     ]
    },
@@ -275,8 +275,8 @@
      1,
      3,
      2,
-     2,
-     0,
+     1,
+     1,
      2,
      0
     ],
@@ -307,15 +307,15 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "Kapolrestabes Bandung Berganti: Kombes Imran Amir Gantikan Kombes Dedi Supriyadi - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm10SjNqSF90MWNQdEhLS3lTZTJjSk1iNzFNQ1llRmUyNzNyNm1PNmhWTWhwM1lacWJFQmh4WElIRjhlYUhNbnItSDVlbjVuX2FIMzBickZyUzQzUWJaZmZzQ096bW15ZEdnRDl0X2Q0ZGlHRU5KVDJ6ZDFYYXo5eVZnTWVHZlkxTUVHS2ZGU2tNNjhjTFZxR0EtTVVkN0l0cmNXVjg1QmxmQ2p6WnY0cTg4blh2TTNaNVRsU21GZTk2eWdTVm95UXFR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polresta Bandung menggencarkan edukasi kebangsaan perkuat karakter pelajar - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYk9RS3pEMUhuNk5hYkdaWHBFQy1hWHdYSURLMDNyVkZIS3FLTDd0SG1vaklqajE3aFlyc3lkeXpKSUR3T3ZXb0lLaW80ZHB2YWNtWl9tU0xEZklKNWJ1TllmSnNRMVRJa2tuZ1JxbGlvNmZTeUVzN1hFeE9qY1lyLS03Rnd3NEk1dVVJbkJTMmRjQkpKUmthd3k1VzQwWnB0aXNsemoxTDYxclY5a3hNQUIwcEZZakxI0gG-AUFVX3lxTFB3aGZRWDVlZjJPWXJWMkFsQlRkc28yRFg4dnFKczNKMXZLZ29ZRHlHb2UzVkR0d2xULUYybDUyQWxYeG1nOWhWWTlrM1NUQUhHZEcydjR5dnltWmRUMVVVSzAxVE0yZlE3ZVJORW1zYzlUQzRfM1Bkc3JvQlR5ZlJ2djY3cF9sTG16aXdoRWNpdjBkT2Rldy05eGxUSHNRQ1BXLTlwRFBRWXRhUmc2aS1FRXVFU0t5X2ppc2g5UEE?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Polresta Bandung memperkuat koordinasi lintas sektor hadapi bencana - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNby04bEhnTW11VHpwaW14MzN0SEQ5SThjVWlMNGh3TmhzX2F4MVozSkFseWNJejU4UTVQMjlxRGZQX2NfSGxFTS0ySjJwOXpRR0lfdUhEcldIYXF2czlKcnVYWC1HbHkyNHVQTjdtQlJfU0xkMW5TTmJNZUFEQU9OODBqYVFSTl80N0tWLW9aS2hVemsycWNVSDdWRllBZVJpdmMtc3dLX3hMSjJ5ZGRz0gG0AUFVX3lxTE0tMUJTZWRSZWlPMHBMaEo3OTIxY0VXcWxXWXA1Wm95MWtLUi1HYk5fN004d0FrMG5tcVVXRUZKb3pTUkN3ZmFOOGFGZzV3cHdJTXFHcG80X0hsZ2tjb2pRSnRPRGpVU2VhREF2SFRrODExUVpJNG1IcVpjYWR5cjBqOU9zM1RDVVA4ZzlFYUdOWDRiQUx0MWUyVnFuajZiRkpoMElpTVZldVpsZVJtSGN1QzRFcA?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     19,
-     26
+     22,
+     27
     ]
    },
    "trend": {
@@ -364,10 +364,10 @@
     ],
     "g": [
      8,
-     7,
+     6,
      4,
-     3,
      4,
+     5,
      0,
      0
     ]
@@ -389,9 +389,9 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
+     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOURqdzhxRWV6ZnI5YkJlYXFzV2wzZjRlaENEb0czXzJNak1jSnRMemVvZ1RUZDhrV1FfVFhoaXRqaVlhcEhDSkRBRFBEV3duSWlIZW8zRE15NGd1clJPcDZzSzdreHdmeU9acUZVLWY0Y3RiREx1N1pwV2hFR2k3X1pWTUhKYnZuOTVqTUdhSTAyN3c0MWRxSXowMXlYUy1Dc3VHZDVJZk9XUkZrWjRyUTNRMUJCaVVWaFBpRlNXZDY3aDBZLXRWQkM5cjJrZjZyanRiSkl3VXc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -422,7 +422,7 @@
     "w": [
      1,
      8,
-     21
+     20
     ]
    },
    "trend": {
@@ -449,7 +449,7 @@
      3,
      3,
      3,
-     10,
+     9,
      7,
      0
     ]
@@ -503,8 +503,8 @@
     ],
     "w": [
      4,
-     20,
-     3
+     21,
+     4
     ]
    },
    "trend": {
@@ -518,8 +518,8 @@
      "Rab"
     ],
     "p": [
-     2,
-     0,
+     1,
+     1,
      1,
      0,
      1,
@@ -532,7 +532,7 @@
      1,
      0,
      0,
-     1,
+     2,
      0
     ]
    }

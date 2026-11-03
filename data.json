@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:45:22.961209+07:00",
+ "updated": "2026-11-03T20:59:49.905461+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "Kompas.com",
-   23
+   22
   ],
   [
    "Ayo Bandung",
    22
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "RRI.co.id",
    19
   ],
   [
-   "RRI.co.id",
-   19
+   "Pemerintah Kabupaten Bandung",
+   13
   ],
   [
    "ANTARA News Jawa Barat",
@@ -32,22 +32,30 @@
   ],
   [
    "jabarekspres.com",
-   7
+   8
   ],
   [
    "Radar Bandung",
-   7
+   6
   ],
   [
    "Pikiran Rakyat Koran",
    6
   ],
   [
+   "Antarwaktu.com",
+   5
+  ],
+  [
+   "Ketik",
+   5
+  ],
+  [
    "detikcom",
    5
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Jurnal Soreang",
    4
   ],
   [
@@ -56,14 +64,6 @@
   ],
   [
    "Koran Gala",
-   3
-  ],
-  [
-   "bandungraya.net",
-   3
-  ],
-  [
-   "Ketik",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Rokok Ilegal Senilai Rp1,7 Miliar Dimusnahkan di Kabupaten Bandung - Media Indonesia",
+     "t": "Pelayanan Informasi Publik Didorong Lebih Proaktif Demi Wujudkan Pemerintahan yang Akuntabel dan Transparan - www.media-dpr.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zVGNabUFXTl9waGxLUHUzZ082WVdUNnZXOWhqR2lFLTVSODFmWU1MV25tRFRTZ0Z1anBDZ21JRnVxTmZ1SmcxUkhqSndWRnFCRlhtUU5BSDlnMnNEaVVoTWRlajdsd1BESnV3bTczbHRPRzhfWmdtMTVfLVpRckk?oc=5",
+     "r": "www.media-dpr.com"
+    },
+    {
+     "t": "Bea Cukai Bandung Musnahkan RibuanBatang Rokok Ilegal Senilai 1,7 Miliar - Antarwaktu.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2JILVJTV252eGo5bmZEeTd5UGZsWEE4M3QyTzM5UGx6bGdiQ3ZWeV9vZEdVdzdWVE00d2ZIazF5bWh5Y0ZFMXpqTE1mSDdMNDFuVmY4OEZQd05GZk1Sa1BhbVFJb0QwNFpXSG5WamViVTdFYjFKWVVZc0tsUmQzR0JTRzkwYk5fcVFybXZkdWt6c2xHdHBJc3dhbUtxb3dLS0YybElOa0txdw?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
+     "t": "Seluruh Camat Hadiri Pembahasan Raperda APBD Kabupaten Bandung 2027, Camat Cileunyi Sampaikan Dukungan - Reformasi Aktual",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZml4VGRXa19hZm1zRFItbHFQUFIzWFdPY2VCTlo5b3M0aE8yWXZhcVNZbUVEaVJoUDNkUkpkLVJYVU9TZmI4N3NkVzdhVnViNEVpU3Z5bl9OX2dWVGx6WEJ4WUtSallSRnROSkt1aHlWS1pfUkE2Q2YwdXhDYnpxSHVkUnMyX3hUM3BDaGU5aTYza19nSGRTTG5MbnVEeEY1RjR1SXNlNVk1dFExYURwR1VB?oc=5",
-     "r": "Media Indonesia"
-    },
-    {
-     "t": "Pemda Bandung amusnahka. Jutaan Batang Rokok Ilegal Senilai Rp1,7 Miliar - deJurnal.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW9kVXdTbW9nYjFFZVRzZ28zNjJvclVkSEw0V1lCQVpnRmpsdE9QblpuZW1fcmY4bEdoVXdpSWxsWUdBQ3BfOUVGV3hsbU1yWUxMYzdKQjZ3bC0yNHBDN2Q2dGRkdXJzMU93S29QdEtXMG1IVjd1ODNDNXZUY0hEX29NeXM5SFZ4XzUxUXBaTEtNYmhsMHViU2NaanBHOWZSeWc?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "1,19 Juta Batang Rokok Ilegal Dimusnahkan di Kabupaten Bandung, Nilainya Capai Rp1,7 Miliar - Fokus Jabar",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjROdGpGdWtINFVzV25kdm1LWnBQU1dnRDRzektfMEJXZk5MbnZlTE9oX3N0TXhBVGV0UERzcnp5TUxmWUlpR3FDc0xJdl81RHBBUXZkLVBoeXhnUldqNnI1Y2VqU2pyX0VJazFFY2Z4YWdEc1RKa0JGUnpIWWVNUl8ycFEyUTZsR29yOENDZ1pVMUxvT0JaWENwekJZVkg2d054bGNMb0VsT2d3QUlqMk1FZEpRUm1IY2ZtTTd3aw?oc=5",
-     "r": "Fokus Jabar"
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWNLQmlCbTljRkdldEFRY0htc202N2NUNGZvVlJkQWZyaXJwdUJUcW45cDBFQ0VRTWxwektpSUxZOEdvYXh4NUtXa0V4NlBtdzNuX1FMOTZhbElPUDhhd19td1FUX3dVVlVCNjhvbVpVcDd5VUpMeUl0ZFdpMWU4UHdyTkV6bkJQNVZ2NTJrNzlSeVZmSS10ZFozXzlzVnBxRDJWZG9kTkpOdjJIQk9pOEJ4WWNEWnV3MEdMVmxlYXZMWmxRN2dydHB0OV96UTJqcVBSSWpJLXE?oc=5",
+     "r": "Reformasi Aktual"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     12,
-     33,
+     16,
+     30,
      7
     ]
    },
@@ -138,7 +138,7 @@
      0,
      0,
      0,
-     12
+     16
     ],
     "g": [
      0,
@@ -192,8 +192,8 @@
      0
     ],
     "w": [
-     9,
-     13,
+     12,
+     15,
      1
     ]
    },
@@ -209,10 +209,10 @@
     ],
     "p": [
      4,
-     0,
-     3,
+     1,
+     4,
      2,
-     0,
+     1,
      0,
      0
     ],
@@ -243,9 +243,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Halaman 2 - Tribunjabar.id",
+     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdVFqWkZmVEQ4cnd6RkcyQXZ0SGd6b3owZUd3dFo2cU5tSWNvZkkwYWhfUEgzZWxRUE9mZmdUeHZMMFpTa3pWbGFsWTMwbzJqTEExb0Y1SG9oWUI0ZGR1NjQ1VS1Hb2V5THd6Z3NtYkdfQUdzU3YyWklLeF9FMTJtaTZvaVlrOHJwcEtxb2R0eV9LY2RtcmFiNTFWMEFDVkRHbTV0OUtMcmlzWW0xT1h4ellzZXJ1dU1LaGt2YUp3ZXBFSHJXNFUtcklVbk5TT3NWOGJ2cDNxYUEzZVlYcFRSUlJsZHpKUQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnBNNmFoYVN4QzExN2VaNlJ6R2ZmVXdhTGxNVFljNjhWTVpYNmQ3NkFDazNRZmVuNzlXclowazlhcFRlaVRJZGdldnAwRVhVMzBvSzBXMWY0X1ZBVzdWY3UteTN5bW5RQ2lLTVRaeV9fcVJTWW9fczhZWEphMEZ6M1NqZkdTYXZqZ05raHhnMEpCTG5YTDE4UHphSHZyR21zbGVxa2JqODl0MTBlQ2oxaEVGM2hweHpiS0NUS21vcWY3Qm1jZDRYeVg4cW1jZmxwR0lwbDhHOGZ1VTZm?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -264,7 +264,7 @@
     "w": [
      11,
      10,
-     6
+     5
     ]
    },
    "trend": {
@@ -289,7 +289,7 @@
     "g": [
      0,
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     0,
-     22,
-     28
+     1,
+     25,
+     24
     ]
    },
    "trend": {
@@ -360,7 +360,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      0,
@@ -370,8 +370,8 @@
     ],
     "g": [
      1,
-     8,
-     7,
+     6,
+     5,
      4,
      4,
      4,
@@ -401,9 +401,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Proyek Irigasi dan Danau Retensi Belum Jelas, Bupati Bandung Bakal Surati Menteri PUPR - Kompas.com",
+     "t": "Perusakan Kebun Teh Pangalengan Pernah Picu Banjir Lumpur dan Krisis Air, Warga Pun Was-was - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGJKMEtzWU1waFVqd2pTNDVRZm9uSTR3YV9hSkNvaWs0QkFQbElZMHJhQng3endHTDIzUEIxNmtoUGFTdFJEZ1F6UGlRUXlMWTFfMUt6SmtCMDF2RGZUZUlTOEw4eUdoMzBFM1Y4OUx4NlRMeUxpSEhKM1JqR1ZneVR1YTR3RFdvd1BkdHhDZ01sa2JId2Y4bzBCWlQwNWJsUzBYRUxpczFmdkdOOEY0aC0tOF93d3VWTHU2NkhVemxWU2c?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFneHhuV0gzNG9fbGE1Q2ZVb2xFZlpjVktrWDR3VHNRTTRvVUx0ZVlMLThtZjdpSWVMRUItTG9PSFpEd1E5SnJDNTFwVUZGRU1pYUNBbWMtcFBWaDVVcjZyRlN5dGhFSjVIQ1dQM0VvQUk3S3hHblBBX29iNGRpSldOa1EtREFvaHhlckUwbnZicDNRUTdWOWJDcEg2S0ZodUthWDI2eXZTZmExdXg3c3QzMkh0UjRGbHN0a1JjVkxsMms?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -423,12 +423,12 @@
     "s": [
      1,
      0,
-     6
+     5
     ],
     "w": [
      1,
-     7,
-     19
+     6,
+     18
     ]
    },
    "trend": {
@@ -451,13 +451,13 @@
      0
     ],
     "g": [
-     1,
+     0,
      0,
      3,
      3,
      3,
      9,
-     6
+     5
     ]
    }
   },
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
-     "t": "Rail Clinic KAI Layani Kesehatan Gratis Warga Rancaekek - RRI.co.id",
+     "t": "Mahasiswa Unla Minta Transparansi Tata Kelola Yayasan - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRmdGt0LTJ6cjYxNFczR1FQbm9tSlB0VHFzdVFmVDVTSmwzcTlKZTFrdjJ6My1DRmFjQTE3VF9xZEMyN0tTLW0zYU9yNlZwNGY4Z1lUdXBoYXNEZGd5dW1tZkZtQkhHOERURUxRbFlBMXFlMmtsdnFORjdZTHRIa2lEaVpzWXBsTDhpMDR3X3JPWUNIcGVKMGFhd3JFWEpI?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk1WNkc5SzJJLXVudkFaSll1RnZ6TmxoZFJkQ1hqT2NleEdhQVdycVNTWm82U0NKMTEweEs2SnJXUVJRd3BWb0gweUZoS3ktMVp3a3ZLeW0tUGcxbUJla1ZKems0b0EtcjBUOF9Ccm5HblRBdFNuMzNfZ21LMzJXWFU0MnNmcUF2YUNuV09zcHZ3Z0xSTjNyVA?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Aplikasi IKD Makin Lengkap: Bisa Urus 10 Layanan Adminduk dari Rumah dan Pendaftaran Bansos Perlinsos - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnd0RmszTWtuRnVDYThzSl9CWUNwaVgyMHQyTlBmRjR4MGFuR1U0eldwUmwwbzNNYlpINmhLUnRlTlhzWWtLSmZlZFowV3hRMkdId2JmY3J2cFNnT0h3MzNVbUxaSC1CeGNiVFphZGNFdTc3ZWJHQ2t4SmI3MFBiNnFENU9idHlZRHJlUWozNE85cVJoWk5WUGlQaDdrd05vcVpyRXJCLWRPbW5FYm5KTXNmbWh3SUNYWjdMZUU5UFdkTTlmYXc1eVhTTm1yb1pLajBBTnNJQTdnbzVkU0ZNRXQycUpNV29qVERzWg?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "t": "Mahasiswa Penerima Beasiswa UIN Bandung Jadi Tersangka Demo, Tangis Ibu Pecah Harap Keadilan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0xPWWlRRkV4ZUFMMGh3cC1iZU91R2RIZmV6bXhLdjV6c3R1XzczWEhrX1JXdlpJaXpkdmRMZXRJWWJWa3FEUjQ5c0hQeElNWTRmcUF1cUVjZDNSclo2cnpsX0ViV0xKM3VGVUJjd0VWRnVsY3VHanlYX3ZKbHUtSTh5dl9pVm56dnRaS0Y3VG9rT19pWkduVjVVZHdnZUQtLXd5Y09uS2lBZmFSSEd4ZTdId1RvcVZRLW1VcmxQdzM1VENvU0NQTmRQaWdrVGhpSkNrRkdPNndOdw?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
-     "t": "SI Didorong Manfaatkan Program Beasiswa BESTI dan PKBM - RRI.co.id",
+     "t": "Rail Clinic KAI Layani Kesehatan Gratis Warga Rancaekek - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTFWVUthbDFzMEFwV3VsbzJLVzRvRWxHcGdaTUJhNldSOUU2dzh5aUFEdFRCYUFSWlFKal9Rckg2cm83MEw2bVRvcTVqeUstZ19Bc05mamI1d1hlcFBvN0lMS2FVcjdSRDRqVHc2ZGQyQ2wzVjFvbWl2UFU3Y0Uzbi1nUGdNbXNlNWxNTjl0YkVmMHFaVzZzZm9R?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRmdGt0LTJ6cjYxNFczR1FQbm9tSlB0VHFzdVFmVDVTSmwzcTlKZTFrdjJ6My1DRmFjQTE3VF9xZEMyN0tTLW0zYU9yNlZwNGY4Z1lUdXBoYXNEZGd5dW1tZkZtQkhHOERURUxRbFlBMXFlMmtsdnFORjdZTHRIa2lEaVpzWXBsTDhpMDR3X3JPWUNIcGVKMGFhd3JFWEpI?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -504,13 +504,13 @@
    "v": {
     "s": [
      1,
-     2,
+     3,
      0
     ],
     "w": [
-     6,
-     21,
-     2
+     3,
+     24,
+     3
     ]
    },
    "trend": {
@@ -525,11 +525,11 @@
     ],
     "p": [
      1,
-     2,
+     0,
      1,
      1,
      0,
-     2,
+     1,
      0
     ],
     "g": [
@@ -539,7 +539,7 @@
      1,
      0,
      0,
-     0
+     1
     ]
    }
   }

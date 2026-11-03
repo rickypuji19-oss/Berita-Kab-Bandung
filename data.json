@@ -1,11 +1,15 @@
 {
- "updated": "2026-11-03T06:27:54.812637+07:00",
+ "updated": "2026-11-03T07:33:15.235944+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
  ],
  "method": "model IndoRoBERTa, gratis",
  "portals": [
+  [
+   "RRI.co.id",
+   24
+  ],
   [
    "Kompas.com",
    24
@@ -16,22 +20,18 @@
   ],
   [
    "Ayo Bandung",
-   23
-  ],
-  [
-   "RRI.co.id",
-   18
+   22
   ],
   [
    "ANTARA News Jawa Barat",
    11
   ],
   [
-   "jabarekspres.com",
-   8
+   "Radar Bandung",
+   7
   ],
   [
-   "Radar Bandung",
+   "jabarekspres.com",
    7
   ],
   [
@@ -47,11 +47,11 @@
    5
   ],
   [
-   "detikcom",
-   5
+   "Ketik",
+   4
   ],
   [
-   "Ketik",
+   "Radio PRFM",
    4
   ],
   [
@@ -59,11 +59,11 @@
    4
   ],
   [
-   "Gerbang Patriot",
-   3
+   "detikcom",
+   4
   ],
   [
-   "Antarwaktu.com",
+   "Gerbang Patriot",
    3
   ]
  ],
@@ -118,7 +118,7 @@
     "w": [
      11,
      26,
-     5
+     6
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     5,
+     6,
      1
     ]
    }
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     9,
-     7,
+     8,
+     8,
      5
     ]
    },
@@ -276,7 +276,7 @@
      1,
      2,
      2,
-     2,
+     1,
      1,
      0
     ],
@@ -319,6 +319,12 @@
      "r": "Tribunjabar.id"
     },
     {
+     "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=rqRm840vvAc",
+     "r": "YouTube Radio PRFM 107,5 News Channel"
+    },
+    {
      "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=k1X_hUjP-8I",
@@ -328,13 +334,13 @@
    "v": {
     "s": [
      0,
-     1,
+     2,
      0
     ],
     "w": [
      0,
-     21,
-     31
+     22,
+     30
     ]
    },
    "trend": {
@@ -357,12 +363,12 @@
      0
     ],
     "g": [
-     2,
-     9,
-     8,
+     0,
+     10,
+     7,
      4,
      4,
-     4,
+     5,
      0
     ]
    }
@@ -411,12 +417,12 @@
     "s": [
      1,
      1,
-     7
+     6
     ],
     "w": [
-     2,
+     3,
      7,
-     16
+     15
     ]
    },
    "trend": {
@@ -431,7 +437,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      1,
@@ -439,12 +445,12 @@
      0
     ],
     "g": [
-     2,
+     1,
      0,
      5,
      3,
      3,
-     10,
+     9,
      0
     ]
    }
@@ -496,8 +502,8 @@
      0
     ],
     "w": [
-     6,
-     20,
+     7,
+     23,
      2
     ]
    },
@@ -517,7 +523,7 @@
      1,
      1,
      0,
-     3,
+     4,
      0
     ],
     "g": [

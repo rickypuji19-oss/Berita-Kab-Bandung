@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:38:40.077690+07:00",
+ "updated": "2026-11-03T10:39:17.823224+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,35 +7,27 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Kompas.com",
+   27
+  ],
+  [
    "Ayo Bandung",
    26
   ],
   [
    "RRI.co.id",
-   24
+   23
   ],
   [
    "Tribunjabar.id",
-   24
-  ],
-  [
-   "Kompas.com",
    22
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   10
   ],
   [
    "Pikiran Rakyat Koran",
-   6
-  ],
-  [
-   "Radar Bandung",
-   6
-  ],
-  [
-   "jabarekspres.com",
    6
   ],
   [
@@ -43,8 +35,20 @@
    5
   ],
   [
+   "Radar Bandung",
+   5
+  ],
+  [
+   "jabarekspres.com",
+   5
+  ],
+  [
    "detikcom",
    5
+  ],
+  [
+   "Antarwaktu.com",
+   4
   ],
   [
    "Ketik",
@@ -55,16 +59,12 @@
    4
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Koran Gala",
    4
   ],
   [
-   "Gerbang Patriot",
-   3
-  ],
-  [
-   "Antarwaktu.com",
-   3
+   "Pikiran-Rakyat.com",
+   4
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "KDS Minta Maaf kepada Atlet Kabupaten Bandung, Fasilitas Porprov 2026 Tak Ideal akibat Efisiensi Anggaran - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUXFKVWwwVEtEb0Nxak00MVZBZGI3ejlUVWFuUWdZZGZYdDV5S1g3OVFkWWUtQ0VrYWJTbnA4X1Y4LVREYTJ1X2FFcmJldVVGR3MwUzNZOC1EOFdnbC04NFA0YkhkWUowUVFRSVBzUnUzUzgyajFELWdLaGZIMng1MHJvODUyN3YtUG81X09CRDRXcXpkcUp0UVpra2k5YXBnemdSZGpaZXNuaHh4TUd6SjNOb0pBMXhDVExtMUowdDBwUVBwMm5lX3liODFFcDBmc3BEX0JzNzE?oc=5",
+     "r": "Satumedia.id"
+    },
+    {
+     "t": "Koordinasi Soal Banjir, Bupati Bandung Sambangi Lanud Sulaiman - Antarwaktu.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk0xRWdTTnEwZDFMWHpseHM3VnVjYlJWejYwUlZVazRhY0l4WWhJUnhST1ZjUUh1Q3cyYmVRd19TRjh1bWtBVGkzbUVFTWd6bHVzTmRPWHB5U3BuYWxyZjF2d0hlUnptOVc2ZjBXQnA4UHlsY0NIaTN6NjZwZzBnZ1NtMFNvQ1RtOU5GQVJpdFRncWJIT3c3ZVd0aDc?oc=5",
+     "r": "Antarwaktu.com"
+    },
+    {
      "t": "Lebak Studi Tiru Pelayanan Perizinan ke Bandung - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1p2YWNQNVhXcHZsSVpZREJDRVhidjZQOTlMMW9IT3cxblN6OFV2X3JUNWlXbGtXT3E4UldhZEI0UlRBaldidDVfb21TeUVTZm9ab3ZmaDdLMklNOXUyNlVXSnoxV0J0REVBNTNsbWNnZjNWU0hJa1UzdXNDSkstaGNDT2lYT2JkMnJvTTc4eEhoZ1k?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Danau Retensi Kabupaten Bandung Jadi Sorotan, Tender Proyek Belum Berjalan - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTURyOEFWWmppY0RFQ0FTc1psc1YteFg4UkNHM0ZoOVA4Nk1QTENJUDNWb3oyWDVQTjNMdHNqN2twbzJFbzB1Q0M4NVA1cWpEOXN4elVNTmNNYXQ3RGJlejUxWXVYUC1WUW44dXR4cWpGNG96eXdPWG9NUDlaOHhMODB3U2lSX1RqOHFrckQ2Vy1WaHJNYkhKdXBBSXRjb1pURmI3QlZBbmhiNGhpbWtIN0dwckhMNDdxSzJEOVNRS0tCVFpX?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Dadang Supriatna Minta ASN Kabupaten Bandung Percepat Serapan Anggaran dan Siaga Bencana - Pojoksatu",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2VJSlpCODh4LVgyeDNUQVgzMFpHU3hfLWZPaHNMWjl2TnFNUkY1TUl5WVdpTGh6eXRaRmJNaFZnQTJKT0xoZnZDUEs1aEo1aXpudU1GWTEySV83Vm4tcnI4akt5aGhLSE53aEhXYjhuSWFZWS1qekdjSkZKaVBzNlhrempqbXJlRzhYdVVQOWpzd3pwdVp3b2JxR1BHNnJuaXNWc3JmaHZxMnRiNHFIUnUzeHNZN2FF?oc=5",
-     "r": "Pojoksatu"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     11,
-     25,
-     6
+     10,
+     26,
+     8
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     10,
+     9,
      1
     ],
     "g": [
@@ -146,8 +146,8 @@
      0,
      0,
      0,
-     6,
-     1
+     7,
+     2
     ]
    }
   },
@@ -243,9 +243,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Halaman 3 - Tribunjabar.id",
+     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTdVQVlIQ2JrUFh3Z2VjWmVoenV3b05JejFsV2hJUTdxdW5NV1hOdTBKXzdyaktnVC1sUEJXTlpOd3JvU0lBYUU4NXpTNExITkx1NVRCcGM3eXNzejI0V0xsV01ZTjZZNDFzbS1kbjYtdk1DNzZYUDg0UnBDWmZQV1F3NTd2WHljRU4wcTR1Z3Y5NDNoaWc4UWgtT1ZWdkY1WXRfSUhGdXF3V25ZYWVhcXQzUHNjWE0zNFJ5TE90REZnUm5obDhkcHRCR0FQMmxo?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     9,
+     8,
      7,
      5
     ]
@@ -272,7 +272,7 @@
      "Sel"
     ],
     "p": [
-     1,
+     0,
      1,
      2,
      2,
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     24,
-     27
+     23,
+     30
     ]
    },
    "trend": {
@@ -364,8 +364,8 @@
     ],
     "g": [
      1,
+     9,
      7,
-     6,
      4,
      4,
      5,
@@ -395,10 +395,10 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "20 Ton Sampah Diangkut dari Sungai Dayeuhkolot, Sekda Jabar Turun Langsung ke Lokasi - Satumedia.id",
+     "t": "Foto : Pilar Whoosh Diduga Hambat Aliran Air, Pemprov Jabar Minta KCIC Bangun Drainase di Cibaduyut Halaman 1 - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQek1tQ3dHeGpBS0ZsaFRzZ19KUTMxOXZtejlscEtMN1B3dEFWZE4xWkF0SUxIWlhYRmpoM1JiMG04SnJnZlBCWUpOaDlCX0lmYWhMTUY0YTkydncwS25BT19pZHVlcFVfLUxTeEpWU29zcTMxT08za0pHWW04VzBsdTl6ZFhIOVdXZUx3VzlRd2RoUEFQdlFQVkRId19vc0llMEtGbnhBc3Y1bTZwMmVYeHAwMkYxMmtRUU85bg?oc=5",
-     "r": "Satumedia.id"
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOE5yTjJyaE5XQkhuNHVfS240VlRYOWY5bWxrYUhMejlzM18yYlljdjk3OXpyNnc5cHB3SV8yQlF4aE9nTHp2My1yTWlQamd4SVYtSmN4MXFET00zdUR0S2FlLVdZNUpuTDU5Qk5oT19CTFNJZmtmNVZnS1dQbEVqMnpoT050anpYMGVOSmVoQWs2QVRXN0lNdVRfZWdMQjNLR1pFVEhaMFYyU200WkpFcVVaMWVFUzRFZnMyeTltOFlIcVhyREVtb2ln?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -420,8 +420,8 @@
      6
     ],
     "w": [
-     3,
-     7,
+     2,
+     8,
      17
     ]
    },
@@ -437,7 +437,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      1,
@@ -502,8 +502,8 @@
      0
     ],
     "w": [
-     4,
-     23,
+     3,
+     22,
      2
     ]
    },
@@ -520,7 +520,7 @@
     "p": [
      1,
      1,
-     1,
+     0,
      1,
      0,
      1,

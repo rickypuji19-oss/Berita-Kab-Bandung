@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:50:54.158252+07:00",
+ "updated": "2026-11-03T09:38:40.077690+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,31 +11,31 @@
    26
   ],
   [
+   "RRI.co.id",
+   24
+  ],
+  [
    "Tribunjabar.id",
-   23
+   24
   ],
   [
    "Kompas.com",
-   21
-  ],
-  [
-   "RRI.co.id",
-   20
+   22
   ],
   [
    "ANTARA News Jawa Barat",
-   10
-  ],
-  [
-   "Radar Bandung",
-   8
-  ],
-  [
-   "jabarekspres.com",
-   8
+   11
   ],
   [
    "Pikiran Rakyat Koran",
+   6
+  ],
+  [
+   "Radar Bandung",
+   6
+  ],
+  [
+   "jabarekspres.com",
    6
   ],
   [
@@ -117,8 +117,8 @@
     ],
     "w": [
      11,
-     26,
-     5
+     25,
+     6
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     5,
+     6,
      1
     ]
    }
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     13,
+     12,
      1
     ]
    },
@@ -243,9 +243,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Tribunjabar.id",
+     "t": "Buka Peluang Tembus Pasar Ekspor, Mendag Dukung Produk UMKM Masuk Ritel Modern - Halaman 3 - Tribunjabar.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdpRzlCY2xaSHhmWGlTLXREWnJYZUdzQTJzaGhpUXJuRnRleHRzQm5EWU8wUGw4bTN4YzlJS2dOMVNFUTc0WWdsc09MNnJmT2tVWGRsRUxiakp2N2tZcXNXWDUyUk9MZXFWWlAtUFhfOXc2VXZ4UjEzLUpIZnZaeTRKMk9fRVdEeDBBaUFWekFaTE93bFJhUVhuN3RBSndNNmNMVTBiRW96TWx3Ql9ldkJqc2xwWHBLQ3hNZFJVWnJLVEN4aE9N?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTdVQVlIQ2JrUFh3Z2VjWmVoenV3b05JejFsV2hJUTdxdW5NV1hOdTBKXzdyaktnVC1sUEJXTlpOd3JvU0lBYUU4NXpTNExITkx1NVRCcGM3eXNzejI0V0xsV01ZTjZZNDFzbS1kbjYtdk1DNzZYUDg0UnBDWmZQV1F3NTd2WHljRU4wcTR1Z3Y5NDNoaWc4UWgtT1ZWdkY1WXRfSUhGdXF3V25ZYWVhcXQzUHNjWE0zNFJ5TE90REZnUm5obDhkcHRCR0FQMmxo?oc=5",
      "r": "Tribunjabar.id"
     }
    ],
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     8,
-     8,
+     9,
+     7,
      5
     ]
    },
@@ -272,7 +272,7 @@
      "Sel"
     ],
     "p": [
-     0,
+     1,
      1,
      2,
      2,
@@ -340,7 +340,7 @@
     "w": [
      0,
      24,
-     28
+     27
     ]
    },
    "trend": {
@@ -363,8 +363,8 @@
      0
     ],
     "g": [
-     3,
-     6,
+     1,
+     7,
      6,
      4,
      4,
@@ -389,16 +389,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
+     "t": "Sekda Jabar: Banjir Cibaduyut juga karena infrastruktur bermasalah - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
      "t": "20 Ton Sampah Diangkut dari Sungai Dayeuhkolot, Sekda Jabar Turun Langsung ke Lokasi - Satumedia.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQek1tQ3dHeGpBS0ZsaFRzZ19KUTMxOXZtejlscEtMN1B3dEFWZE4xWkF0SUxIWlhYRmpoM1JiMG04SnJnZlBCWUpOaDlCX0lmYWhMTUY0YTkydncwS25BT19pZHVlcFVfLUxTeEpWU29zcTMxT08za0pHWW04VzBsdTl6ZFhIOVdXZUx3VzlRd2RoUEFQdlFQVkRId19vc0llMEtGbnhBc3Y1bTZwMmVYeHAwMkYxMmtRUU85bg?oc=5",
      "r": "Satumedia.id"
-    },
-    {
-     "t": "Foto : BPBD Petakan Wilayah Rawan Banjir dan Longsor di Bandung, Kopo hingga Gedebage Jadi Perhatian Halaman 1 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelBLRGRPRC1rZFhKN0xyeXRhU3BlX29VOFRIdmQybC1QcjdId2hOT2NORWpaOVJHczBDWVZYTGxhYmNneEt3OTR3cUxmQnJWb2ZqSmp3dGN5V2ppUWpNT1IwY2pzTWc4S2RVNjRuTnBTM3VBbWVJWHpUYWtUbkxRU1VOd0VZRTVCQ0pnc2lxYlNHNXRlUXVCV2I1U0N4YzRWUnM0UkdORWRtQXdnWHJNOGwyb080c0tBbTJJR3RDeVdFWU8xYlVzYg?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -420,9 +420,9 @@
      6
     ],
     "w": [
-     2,
+     3,
      7,
-     16
+     17
     ]
    },
    "trend": {
@@ -437,7 +437,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      1,
@@ -450,7 +450,7 @@
      6,
      3,
      3,
-     9,
+     10,
      0
     ]
    }
@@ -503,7 +503,7 @@
     ],
     "w": [
      4,
-     22,
+     23,
      2
     ]
    },
@@ -520,10 +520,10 @@
     "p": [
      1,
      1,
-     0,
+     1,
      1,
      0,
-     2,
+     1,
      0
     ],
     "g": [

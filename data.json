@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:40:57.445672+07:00",
+ "updated": "2026-11-03T12:42:21.663920+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,19 +7,19 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "RRI.co.id",
-   24
-  ],
-  [
-   "Ayo Bandung",
-   23
+   "Kompas.com",
+   26
   ],
   [
    "Tribunjabar.id",
+   24
+  ],
+  [
+   "RRI.co.id",
    23
   ],
   [
-   "Kompas.com",
+   "Ayo Bandung",
    22
   ],
   [
@@ -28,19 +28,15 @@
   ],
   [
    "Radar Bandung",
-   8
+   7
   ],
   [
-   "jabarekspres.com",
-   7
+   "Ketik",
+   6
   ],
   [
    "Pikiran Rakyat Koran",
    6
-  ],
-  [
-   "Ketik",
-   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
@@ -55,15 +51,19 @@
    5
   ],
   [
-   "Antarwaktu.com",
-   4
-  ],
-  [
-   "Koran Gala",
-   4
+   "jabarekspres.com",
+   5
   ],
   [
    "bandungraya.net",
+   4
+  ],
+  [
+   "Jurnal Soreang",
+   4
+  ],
+  [
+   "Antarwaktu.com",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Dari Siraman Rohani, KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - Radio PRFM",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1FxQlJyYjNkamhaRXBPWWRScUgtMFRVUFhJd2xwUUtsbUdfcjZ5TG1nNnZydmpmMFM0Y0pRSk9fMXZoVUhSMzAwNXJPZnVQNGIwbzNjSVBmbWhlM0hWVkZRNnFwcWlfSVJlOUJhR2VwYWROQnE4OXpqbVAzX0tqNjYtZVA3a2JtMmItYTNZSExKUHY4OXNqcnRvWVZzUW9fSWhnQ3JRV3lMY1ZveHJmYUlHMkc1S0pEaDVfbW9KbG5pNWPSAcgBQVVfeXFMT25vV1NZdUc0QjlTZmRRbFhoaDBfZmsyYkQ1SXhUOHg1VDdmamRxdUl1ZGN3bFFGYnQ3eVNfc2pDRkltM0dNMDgwOWlSM3pCV2JIV0pjV0psRUsyZXkzMVpXVUthM3VmMF80WHctMVZtUWVPS0xVX0UzWGVEMmxma2FkSnhnTVpvNWdNTmVzekotbXdQZ0w2TktFcnJ4eHgwSHpGeWZocWozcGtHWDgzQ3pCRTFsaktqRnEwUEZpS185Y1N5T3UwMXk?oc=5",
-     "r": "Radio PRFM"
+     "t": "Perangi Rokok Ilegal, Satpol PP dan Bea Cukai Bandung Perkuat Sinergi Penegakan Hukum dan Pengawasan - bandungraya.net",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3EtRzgyeUJ6ZUZZMlJXMzB6WVkxcG9kLUU1NW5hMFJSRV9kQ2JjbVpBeFBMbmYwSzNLQ1d4c3J1SGVwRU9zNVhGSlZSWWRNeGJxS2pma0xHc0FxZWhkeU1NeUNPZDhYVHdIcklqVThpZEFSdnBucTBxU0N2c2NzeE1PRW5IVVlwUlVoeTNHQUtCUjRmdFg3M2xJTmRSMmxjWnh1VlowdE5nZUhTYXhfZjB0NnNVbnhRNEQ1TUhYazJKa0w4WkdDSVNUUQ?oc=5",
+     "r": "bandungraya.net"
     },
     {
-     "t": "KDS Siapkan Apresiasi bagi Atlet Berprestasi, Rp5 Miliar Dialokasikan untuk Kontingen Porprov - Ketik",
+     "t": "Bupati KDS Perkuat Perang terhadap Rokok Ilegal, Lindungi Penerimaan Negara dan Iklim Usaha - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMWhVb09LOVdhOEhXam10Y1JFMWEzVU0tM09HOFpKWUN6b0FDUndSYjZpX0dZNk1GSUJ2eHRRSUI3X3J5dkNUSWViUW5NUlFkdkhWTE1tN2h0QWZ2alctTm4wdklOZWlwLTNEMENUT3JLZmE1YkVuOVhWX3VPcDc4QXRsWnIzSlpaeWtzYm1tdnVYX05EelY2SHA1N2ZaR19fd1VaYmc5TndkZWdESll5WU1obVdGS1RHRTZMTG1TZ1ZZZXhQQ1HSAbQBQVVfeXFMT28tc3MwdGxQSURfRThRZ19kMjh2dEFQd3ZQVXd3QzFDWlFXU1h0cWZXYVUyOVlUdXVLWmtWOVB1U01IQjZuYzZKREVMeFVzbWswdVVkR3lZUTNEcTJkUTJBYWVmeFZId3ktMmxDaXBuVHVhWFV4YUtYN2xDNGVMSFVObHAyRmNtUWFoNXowM01TUVhDOWFtYmJDQnJVMFBnQ29TNUU1REpCdVJjZW1EWGQ4RjRN?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObmRBSXMtZk96T0R4VG9vcFJiOVR0TTFEbVVLZXMzOGZRVFMyQjJkMDd3QnpUWVFNanhLamhVMXBXb1U0TG53R3QyUGMwNnhqSWdOLTlaXzdJX295VWhKQnBDZHVMaHZKTlhXSUxFX1FpUU1LNW5uZzBPVE5zQW45N2paM1l4dHRBWGZJblZHdldWbTA4QjRWS2kxZk1PUHprZk52RjdvR1FMandCRmQ4ck5vTnJtTjl3cy10M201THjSAbIBQVVfeXFMUHNtLWpJNFJfMElRd1JFYW1aUVJDTHUyU3pIeVQ5dng2Wlpxdm1Za0R5T01yRXZLRlRzckdicnQ3WF9qUElTeTRoWjVoay0wMFpCbUVHYS1XaVM0V2phZnd6YkdVQm5VR0F0TVE5dFNTaHJtRVM5S3c5dkNWZVAzenpncHlIRVkyS1BOQzdyTHBmYUVoN1RRVlVSdEJ1QkhEa1dPRWNBYjBVY2ctQ2hpOUN1Zw?oc=5",
      "r": "Ketik"
     },
     {
-     "t": "Sinergi Pemkab Bandung dan Bea Cukai, Jutaan Batang Rokok Ilegal Dimusnahkan - bandungraya.net",
+     "t": "Bea Cukai dan Satpol PP Kabupaten Bandung Musnahkan 1,19 Juta Batang Rokok Ilegal, Potensi Kerugian Rp891 Juta - Jurnal Soreang",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekNISVRjdkFrUjBfNzh6MjU2cFdxN090MjRtRTUwcGZ6WWI0TTFHLTQ2T09ZbXBHWXZUbmRFSDc0a0hHNDZsWlRXbGdpMk1NNXB2VVhFS1BtT2phUzNaWFR0TnVRZFFLcGcySXB2Y1psdTFZc2otT3A2Y3QwSENJTmYzMllObjFKams2dlRIYmFpUzg0WHRJTzJ2NFBQTi1XVm9xTDdJeWRfek0?oc=5",
-     "r": "bandungraya.net"
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbDRxZUdLZmpDSE5QU0tYQ0pYNHBzUlN4VVdCekhrMGRoYmlIb191QWhVRzA3aFNVR3BCMjRKbnNJTTRpWWlWSTdjZjhQcXNLVGEwX2lJMkpOcWFmd19lUFpGUU5FeTR5ODhTTm9haW9qMXR2QjRlY3cwN0F2LWM1WGRodjU3RFkydFJ1RWNsQ1NQVldLaUUzaUt4aTVzZE03M2VNdDJRT2xHWDZOV1VLRGJ5RXJMRnJTQ0tWOWhRUWZ2SE9GT1FoYVdTd1NrY2VobVJsT0FmUXh4cldrdnhUZnNsalVNakpaYWdYOGxkcHpzVExQWkJFbkNMU09iWE3SAYQCQVVfeXFMTXJCLWN1ZDBmVWUxbkFnZjB3YWd2NkRsaVdsX1RvTGliZ0w4Wm15bndwRktvcTVJaHQzSjhxbVJyeUFkLWRZZGtEOXVmRlRYelh1Q1h6cnVyc2FnaVA3bHFYa01wb3VGdjlVOGk4TkFjOHdFRUdlX2Y2WlNuZ19FbWpBenlnVHQ1N0V5YUVBTTRneTZET1ctTWhFQU10eXZybEE5Y3NKaDNwc05zMk40Z1NjeWZiOXFMWG1LS0E4M3FSdVdidy0xRzlmal9yTUs4cGxQWWRLTGZreVdTOG9TaVVZSW5xd2ZydmNhR2RhaWdVVmZLZUxsVjBDa3U0ZS1CTVc3QTU?oc=5",
+     "r": "Jurnal Soreang"
     },
     {
      "t": "Ironis, Dekat Kantor  Pemkab Bandung di  Soreang Kota,   Masih Terlihat Tumpukan Sampah! Jorok!",
@@ -117,8 +117,8 @@
     ],
     "w": [
      9,
-     27,
-     9
+     28,
+     6
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     7,
-     2
+     4,
+     5
     ],
     "g": [
      0,
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     7,
+     4,
      3
     ]
    }
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "PPP Bandung Pasang Badan untuk Mardiono di Tengah Kisruh Internal, Tegaskan Partai Harus Tetap Solid - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0hJVTI3b1U3WUc3NVk5WTI0TEE1Vjl3bWxCWFg4UnpFSndESzkzT1ZtYWkwclJTbFpzSmRYZVFxcmMzc3JNQm5UQ2ZMaFNHbWdzRkZvWGtDWFhvS2JkaU1ZbG5nWi1SR0o4Q2lnVHhkajBQRDI1SlJzc1d4VXd6WnVidnB6MnQ5V3JiQXR4WUM4MWlraGg0ODFtZ3FUNjN3VnRmdnBKSFdBU0hrcWxiTUFCRHVsazE1SV9KamhKM1c1aWlYTWtqakQyWHU4WXNtbi0yTGIyWmtvaFZxX2xka1p0cnY?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Jelang Porprov, Komisi V DPRD Jabar Soroti Ketersediaan Debit Air Venue Ski Air - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGZIeVI1Y0NDaFRFeUJPdFJwUFBEY0pOdFBqcGJkY1hPN09sOWh6Q082UlBTVXEwMlBfN0ZRRGRCQjlvb2dXTVMzN0xpcDRzeEtaUlp4d0c4NDBlM3RscXl2Y0VuQ3ZZaEYwTWJwV2NUemVZdWRvYldLdVdoNDF1a3I0ZndqMmlmM0JRSjY5NERZNTc5OEZiQmhWdUQxeGtJR0xnSWQzaHZfdFByTHJ5ZnkzeUdDREZUOHdRY3dfaDR6YWQx?oc=5",
@@ -171,12 +177,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXFSS2huVTB6WDFNSm13LTlGODhZRUI2MG1EYUttcU0xenhaaXEwdFBQbFhKU2kzSGlQWDRqMWZyeWFVdVlJY1hUWEgyb19kbjNKN0ZmNUZqRDZRTHJJYUR5RFh2MVYtdFdYVVBiOXRURGNOT2VOV3VBSVh5WDVUbmVZVWJBeGo5NFhZcUZZVWJvZE1UTVViTVl2STNpYlV4VWEtSENBUmJCT2hF0gGyAUFVX3lxTE11czV0YndERHNZeWpYRWY0aEtmNUQ1YVdVV3VucWVmQkd6WUVxUHRZLVR2Vm1rQzZhcXpIYk9oVjRQZkpqc0lwR0hrRUdIS05uRGFaOXNjNnRUb1UyLXFReXRsZHY5S0MzOTVsV1hDY0xwLTRaS1pKQ0JReFRyQ1VfRzUyN0F6aGVVVjd4RHluQmJvUENOMTg0Q19oMmtteXAwZ1dDOGtWUUR2VXdPMnN3U1E?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Buku Kepemimpinan AHY Dibedah di Bandung, 27 Penulis Muda Sumbang Perspektif - MOST 1058",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21CWUhGUndpOFRXUHRUcmpnajNVc01iMTBIUUNudjcwdGJkellHWm13b0dFMEdpd3k1MWNFYUc4bENiLWZieHlhTkpTLUVQUDVvZW9pVlNNbFNlRVotbHVkM1o0cXZoQm1jbjlrRVVpM3NmVjNhbzU2akRrUndZRkhWSjNkUVRoQ0NlLW5IS3FwbV9QTHY1VExNSWRwVmx5eWJZd2xBWWw4alE?oc=5",
-     "r": "MOST 1058"
     }
    ],
    "v": {
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     11,
+     10,
      12,
      1
     ]
@@ -203,7 +203,7 @@
     ],
     "p": [
      4,
-     1,
+     0,
      4,
      2,
      0,
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     25,
-     25
+     22,
+     29
     ]
    },
    "trend": {
@@ -364,8 +364,8 @@
     ],
     "g": [
      1,
-     6,
-     6,
+     9,
+     7,
      4,
      4,
      4,
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Perusakan Kebun Teh Pangalengan Bandung Disorot, Pengamat Ingatkan Ancaman Banjir - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlM4M2l3UmlPZXZUano1Tm9ONUtCckVMLTlPN0hFbHloaU5aUTBTTlNqWXhYLXlIZzhoOVF2NHd0X0RxLWsxTXNoS2xJTll3Rk5hMjdpMWpIX3htSFRibjNWMExUZUJQZ1JfaHYzX01FYTFBMmFzbms4Q2pVcVM3Z24zaEhXR3c4VXNaLXFKWTc1XzQ3RzNULVhfVURIOVhDRXZWX3BfVTNvTVFDTGRBdm9GMHRwc3lBMWlGVUttbkVXRk9vcWZRc3g0YWtJT2pR?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Dari Siraman Rohani, KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - Radio PRFM",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1FxQlJyYjNkamhaRXBPWWRScUgtMFRVUFhJd2xwUUtsbUdfcjZ5TG1nNnZydmpmMFM0Y0pRSk9fMXZoVUhSMzAwNXJPZnVQNGIwbzNjSVBmbWhlM0hWVkZRNnFwcWlfSVJlOUJhR2VwYWROQnE4OXpqbVAzX0tqNjYtZVA3a2JtMmItYTNZSExKUHY4OXNqcnRvWVZzUW9fSWhnQ3JRV3lMY1ZveHJmYUlHMkc1S0pEaDVfbW9KbG5pNWPSAcgBQVVfeXFMT25vV1NZdUc0QjlTZmRRbFhoaDBfZmsyYkQ1SXhUOHg1VDdmamRxdUl1ZGN3bFFGYnQ3eVNfc2pDRkltM0dNMDgwOWlSM3pCV2JIV0pjV0psRUsyZXkzMVpXVUthM3VmMF80WHctMVZtUWVPS0xVX0UzWGVEMmxma2FkSnhnTVpvNWdNTmVzekotbXdQZ0w2TktFcnJ4eHgwSHpGeWZocWozcGtHWDgzQ3pCRTFsaktqRnEwUEZpS185Y1N5T3UwMXk?oc=5",
@@ -393,12 +399,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTURyOEFWWmppY0RFQ0FTc1psc1YteFg4UkNHM0ZoOVA4Nk1QTENJUDNWb3oyWDVQTjNMdHNqN2twbzJFbzB1Q0M4NVA1cWpEOXN4elVNTmNNYXQ3RGJlejUxWXVYUC1WUW44dXR4cWpGNG96eXdPWG9NUDlaOHhMODB3U2lSX1RqOHFrckQ2Vy1WaHJNYkhKdXBBSXRjb1pURmI3QlZBbmhiNGhpbWtIN0dwckhMNDdxSzJEOVNRS0tCVFpX?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Sekda Jabar: Banjir Cibaduyut juga karena infrastruktur bermasalah - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pSeUVNZ0xRbkRYekJpNGF2VVRxT003VjZaRUtxREtySjdBU2hRNVpTcGt6RWRreVh4U2lwSjJTSXNTeFN3R2pVamo0ZG1NQWYxdElGc1l6QVhhNFFBaXZCQzR3eVE3T3pEczJUTWdMS3BQblE4WnFsd1lGSHM0d2J1Mmkyek9QbFJWVS1xU2cya0lpWk8wdjItbVJQOGdndXFhNWxOOGxpTktwWnhLWjBR0gGyAUFVX3lxTE9jelJ5RU1nTFFuRFh6Qmk0YXZVVHFPTTdWNlpFS3FES3JKN0FTaFE1WlNwa3pFZGt5WHhTaXBKMlNJc1N4U3dHalVqajRkbU1BZjF0SUZzWXpBWGE0UUFpdkJDNHd5UTdPekRzMlRNZ0xLcFBuUThacWx3WUZIczR3YnUyaTJ6T1BsUlZVLXFTZzJrSWlaTzB2Mi1tUlA4Z2d1cWE1bE44bGlOS3BaeEtaMFE?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -420,9 +420,9 @@
      6
     ],
     "w": [
-     2,
-     6,
-     17
+     1,
+     7,
+     18
     ]
    },
    "trend": {
@@ -440,7 +440,7 @@
      0,
      0,
      1,
-     1,
+     0,
      1,
      0
     ],
@@ -451,7 +451,7 @@
      3,
      3,
      10,
-     1
+     2
     ]
    }
   },
@@ -503,7 +503,7 @@
     ],
     "w": [
      3,
-     25,
+     23,
      2
     ]
    },

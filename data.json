@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:35:15.019617+07:00",
+ "updated": "2026-11-04T02:40:40.488871+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   33
+   32
   ],
   [
    "Ayo Bandung",
-   29
+   31
   ],
   [
    "Kompas.com",
-   23
+   24
   ],
   [
    "RRI.co.id",
-   20
+   19
   ],
   [
    "ANTARA News Jawa Barat",
@@ -28,19 +28,11 @@
   ],
   [
    "Pemerintah Kabupaten Bandung",
-   10
+   11
   ],
   [
    "jabarekspres.com",
    7
-  ],
-  [
-   "Jurnal Soreang",
-   6
-  ],
-  [
-   "Radar Bandung",
-   6
   ],
   [
    "Pikiran Rakyat Koran",
@@ -48,7 +40,15 @@
   ],
   [
    "Ketik",
-   4
+   5
+  ],
+  [
+   "Jurnal Soreang",
+   5
+  ],
+  [
+   "Radar Bandung",
+   5
   ],
   [
    "Koran Gala",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     13,
-     33,
-     5
+     16,
+     31,
+     6
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     13,
+     16,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     5,
+     6,
      0
     ]
    }
@@ -167,15 +167,15 @@
      "r": "Ayo Bandung"
     },
     {
-     "t": "Sebelum Massa Membubarkan diri, Demo di Depan DPRD Jabar Sempat Memanas - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJKZTQxNVdKSUpRU2lfYUoxRGEtOHlnTjhuUGZXZ1FoZUZHd3lNbmRTcFlmZHJ4bHJYV1BfWHVnNGpybVQyVTMtMXZNemZnczBXUmlRWGZibjZJS0U1WHBnVnhvSWtUd3BBZUFHeE5hcVY4c2NVQ3ZGb2NhYVNOM05GMWVvRnUxcGwzLVFvVk1zN1NOcEJhZllzZTMxTW15SXBsNHBJQzZJTHRfTVI4QW9ZWdIBuAFBVV95cUxQOTl1Z1U2Si14VGN5SUFBenJsVzNLelZDa1k3LUlzeGpYQkQtOTZZZjB0QlVSa1ZDSzBLTGJMXzJWNUdHOXktbDZkbkRQNy1jemZSdUYyU2laakwxSXdDck4zbGo2T2c1VndjbGpBTGEtUzRjbVFsTDJBa3pLSkF6TldxczdKV3Y5OVNmSzdPQUdDMEFpS2dkWUlqenhnSmRUdl90V0xNblY5MnhNYkJvSThBbVZheHdl?oc=5",
+     "t": "Warga Sakit Harus Ditandu, DPRD KBB Desak Jalan Cicapeu Segera Diperbaiki - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDZ5cHdJZWphc25yRUhDUWI1YWJqR01VaVlxTzk2Tm9lYXI1ekhybUxMMHJoY05YSUtOVVFCRFVUVElIeFdRRDJhb0g3bWN3WUFkcDRwcGJGTkpCTG9VX3JQTmV0N0ZGV0haNDZLbFRQWkluYU4tWFl1X0NEYktab2VtWVJuaGRYaVBIT0M3dU4zVkl6eklhazhMRGdvRW5DbXd0N2J1R2JnbjlXVWkzMWxFeWFFdVdER0Q5b180U2FmdDF30gHEAUFVX3lxTE80Nnlwd0llamFzbnJFSENRYjVhYmpHTVVpWXFPOTZOb2VhcjV6SHJtTEwwcmhjTlhJS05VUUJEVVRUSUh4V1FEMmFvSDdtY3dZQWRwNHBwYkZOSkJMb1VfclBOZXQ3RkZXSFo0NktsVFBaSW5hTi1YWXVfQ0RiS1pvZW1ZUm5oZFhpUEhPQzd1TjNWSXp6SWFrOExEZ29FbkNtd3Q3YnVHYmduOVdVaTMxbEV5YUV1V0RHRDlvXzRTYWZ0MXc?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Mahasiswa Kembali Aksi 2 Tahun Prabowo di depan DPRD Jabar, Bakar Ban-Ledakan Petasan Sempat Terdengar - Ayo Bandung - Ayo Bandung",
+     "t": "Sebelum Massa Membubarkan diri, Demo di Depan DPRD Jabar Sempat Memanas - Ayo Bandung - Ayo Bandung",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnRxaFhLczFoNmNPNUpMTVVTRjhtTVFPZlR6R1FvS1FyRHJEcGpJeUk3MXdlUGY2T1NlOHFrbXM0Qm5xRUxkTU5kLUQwQ2UxTHBEeDhNY3RZa25oRlA1czhHUHNSaDllWXlqbFJGc3dQUVh1c2lJOHF3MURNY1NjZVZWMGVnSEdyeXl2YlN2Und0UElod2g4VHpjT3ZvYzl2R09pQjVzR1JBSmJyMzhZTVRhcmhxaHpHdjNhVnk2X0tzVkRzaENVM3VCMzAxaU1MMWpoMzBxT3AzVW9T0gHiAUFVX3lxTE1Jdnc2T01YemhGT281ZFNRSmlXNTNFMG1FX2pHd2RuUFlTUkFCVnBrQWM3cm0tYmY1ZVo1dVh1QzJMc1RLeHplSmtLd0lWWUtMb0tsbVN4Si04WVFTcW9WSk9DdjQ5bzRfYjdnNDA3OVZGam5lM0lrUW05eXl6UjJrd2w3dWo1eWVyRVZ6YkNZNnphRWpVR0EycUpnZThPZE5iNkQ0NlNidWx0VlN4NjQ0cW5nSmRZSkU4ckhqOC1VQkFobW1OQTF2dklKdmNYTUJhczd0MmNKVDVzWEM0YlNOTkE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJKZTQxNVdKSUpRU2lfYUoxRGEtOHlnTjhuUGZXZ1FoZUZHd3lNbmRTcFlmZHJ4bHJYV1BfWHVnNGpybVQyVTMtMXZNemZnczBXUmlRWGZibjZJS0U1WHBnVnhvSWtUd3BBZUFHeE5hcVY4c2NVQ3ZGb2NhYVNOM05GMWVvRnUxcGwzLVFvVk1zN1NOcEJhZllzZTMxTW15SXBsNHBJQzZJTHRfTVI4QW9ZWdIBuAFBVV95cUxQOTl1Z1U2Si14VGN5SUFBenJsVzNLelZDa1k3LUlzeGpYQkQtOTZZZjB0QlVSa1ZDSzBLTGJMXzJWNUdHOXktbDZkbkRQNy1jemZSdUYyU2laakwxSXdDck4zbGo2T2c1VndjbGpBTGEtUzRjbVFsTDJBa3pLSkF6TldxczdKV3Y5OVNmSzdPQUdDMEFpS2dkWUlqenhnSmRUdl90V0xNblY5MnhNYkJvSThBbVZheHdl?oc=5",
      "r": "Ayo Bandung"
     }
    ],
@@ -187,7 +187,7 @@
     ],
     "w": [
      4,
-     13,
+     14,
      3
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Berita UMKM Bandung: Peluang Bisnis, Tips, dan Sukses Usaha Kecil Bandung - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wU3Q5MFBWQnlUVzViMkJFV1EyRDNTbDU1ZEpvbUw0X0M0VjZmVW1xZlV6cEZzbHdLdklMZmxfcnMxVkJMRkNoRHdwaG45Sk9Ld1NlOXh1amRXWnlrUUtJ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Serap Rp189 Triliun, Kredit UMKM Jawa Barat Sabet Peringkat Tiga Nasional - Ayo Bandung - Ayo Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2ZBZFF6LXpFMlNmbTAwWlBsakduajlIT3NtNzdyRnFMWXpDYUFOSEZhR3JjRW45WjhwS2Z2SElGQlBaMXpBUmdXNVIxVkpuWUY2ejRvQldyR1NCVHdlSlRtT3BQbElheG9EaGJGTU1Xd0U0N3VwOUM5aU0zRG5MNDM3a25iZlAxOVV5alZ0OGNVVTZNLUl5UHhZTVJzMlhYNWpiU1E2RVBxTk43X3hQdkRqbVZsYThRSzZXTW9VTmPSAcYBQVVfeXFMTVhVdVprVmdBRjBLa045VkFtc1NxVnZDSkgySXpfczNtSVppY1NMYnZKSFpndnQ4d01HUmdqVGNoYUdKc1poaURqWHpNTG8yaXJqU0c4T2tjWm00QVNickVVLTJNeTZRczZVcmlnSDZXU3NYM2xMaTRlN2dYaGRZXzEwOVJRdC1Kcm14UUd2R0I5bElfZWQ4UThwNzU4VzFWYjhKMG9fLW1MNDZ6UHRoQmp4QjhXYzl3ZWtzaFdfc2RsUjdVdnpR?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTRQMTFfLTdGWjY3ZDQwWWtmbzdzanAxUWg0dTFKUjFiSXBDVmg4ZDNHWFY0MHNpWWJLWVpUV3dLS0M3aGJwdENpYzJNeFNKNkJwODZSNHl0Q0U3Vm84RG5ZOEVXMU8xQ2dkdjRhSVZtZWhLSVR2R1pobDVpX0JhamdNcFJXUHdTbl9hWFo4YjM1bGpqQzB1bzJDX2FTMzdJUno0OFNLcjluNXc0eUZ6aGFFLU5Mc1hTN3c4Xw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Dihantam Cuaca Ekstrem, Produksi Padi Jabar Turun Meski Kesejahteraan Petani dan Pariwisata Meroket - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVR2R2NOVS1sMm1md2REWG9MZlNNRC1RTXo0UUdFVk9ERmktbmlfNGRPSk1ELWE1NmNpNHgwWjEtN0xKN3M0Z1JZR0Rid0o3X24xZGx4OXlYR2pLRDlublh1ZFkxd0YtbWFzMmJmQXpsZzh6U2tSYi1jZUpYOVRCSXBUZjRVMV9BV21QNFJJd0VKMzZCTFF1RUd3alRNdG5yQjJWNHRYdzNNT1F6RHdsU0hOejJKX2szRGxtai1lR2JiNldZd3dLdEs5MHFTQklOVjlKSjBicHPSAd4BQVVfeXFMT0d3ZU1fel9oZURsSVZVRFh5WU5ScWZwUkpaZU9LdXJkRGp2cnB3N05ESDJjRjlDZmFtSlFfZXRsWkhaTU5BVEpLZjZaaFA4ZlpVMDVWSGhFOXpheFFjNTB5NmxLdFl2NUswLVBNeHZ4THFtbXNlRjBhUzRSUFhGa3hSeTN5Z2ttajB6SllDb3owc0NDRk9nX252RWhlMHMxcDVITHkyZkdYQUtadDd4THZmdHhwbXdMLXEyblNsMEl2Y1ZYMWpVSVlIOXRUN00yOVNhaDJyYVhUWlRWTWZn?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -258,7 +258,7 @@
     "w": [
      10,
      13,
-     6
+     5
     ]
    },
    "trend": {
@@ -277,12 +277,12 @@
      2,
      1,
      1,
-     2,
-     0
+     1,
+     1
     ],
     "g": [
      0,
-     4,
+     3,
      0,
      0,
      1,
@@ -340,7 +340,7 @@
     "w": [
      0,
      22,
-     27
+     26
     ]
    },
    "trend": {
@@ -363,7 +363,7 @@
      0
     ],
     "g": [
-     8,
+     7,
      6,
      4,
      4,
@@ -421,7 +421,7 @@
     ],
     "w": [
      1,
-     8,
+     7,
      20
     ]
    },
@@ -465,9 +465,15 @@
    ],
    "h": [
     {
-     "t": "Mahasiswa Unla Minta Transparansi Tata Kelola Yayasan - RRI.co.id",
+     "t": "Berita dan Informasi perlindungan kesehatan masyarakat Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk1WNkc5SzJJLXVudkFaSll1RnZ6TmxoZFJkQ1hqT2NleEdhQVdycVNTWm82U0NKMTEweEs2SnJXUVJRd3BWb0gweUZoS3ktMVp3a3ZLeW0tUGcxbUJla1ZKems0b0EtcjBUOF9Ccm5HblRBdFNuMzNfZ21LMzJXWFU0MnNmcUF2YUNuV09zcHZ3Z0xSTjNyVA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqN0Z3b29kNkhHYUxrTVBTeGpwNjFDcWxZNWhtX0oxcUU2N2dWVE5yRWdFOTJld3M0eGQ2Rm1OU1BJWDV5ejZTaXVfOWVQMHdlXzYxUGk0U21oenI3XzdwSEVqcWxCay10YVB1cUtra2NhT2Jn?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Berita dan Informasi percepat penurunan stunting Terkini dan Terbaru Hari Ini - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZHJfbW1wQVpPRlQ1OGVjb1paT2MtNGdOSkVoLV9WdnkzY09XRWtGcnZkeGdNS3dZdEtOcVlGa1cwWFl6V1gzT0MtSGx1UWNqTEVCemhOUHlkc25uNTJmQWo3VHpOTTZJ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -475,12 +481,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0xPWWlRRkV4ZUFMMGh3cC1iZU91R2RIZmV6bXhLdjV6c3R1XzczWEhrX1JXdlpJaXpkdmRMZXRJWWJWa3FEUjQ5c0hQeElNWTRmcUF1cUVjZDNSclo2cnpsX0ViV0xKM3VGVUJjd0VWRnVsY3VHanlYX3ZKbHUtSTh5dl9pVm56dnRaS0Y3VG9rT19pWkduVjVVZHdnZUQtLXd5Y09uS2lBZmFSSEd4ZTdId1RvcVZRLW1VcmxQdzM1VENvU0NQTmRQaWdrVGhpSkNrRkdPNndOdw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Rail Clinic KAI Layani Kesehatan Gratis Warga Rancaekek - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRmdGt0LTJ6cjYxNFczR1FQbm9tSlB0VHFzdVFmVDVTSmwzcTlKZTFrdjJ6My1DRmFjQTE3VF9xZEMyN0tTLW0zYU9yNlZwNGY4Z1lUdXBoYXNEZGd5dW1tZkZtQkhHOERURUxRbFlBMXFlMmtsdnFORjdZTHRIa2lEaVpzWXBsTDhpMDR3X3JPWUNIcGVKMGFhd3JFWEpI?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",

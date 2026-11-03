@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:40:42.270564+07:00",
+ "updated": "2026-11-03T19:45:22.961209+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,47 +8,39 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
-  ],
-  [
-   "Ayo Bandung",
-   23
-  ],
-  [
-   "RRI.co.id",
-   22
+   32
   ],
   [
    "Kompas.com",
-   20
+   23
   ],
   [
-   "ANTARA News Jawa Barat",
-   11
-  ],
-  [
-   "Radar Bandung",
-   9
-  ],
-  [
-   "jabarekspres.com",
-   8
+   "Ayo Bandung",
+   22
   ],
   [
    "Pemerintah Kabupaten Bandung",
+   19
+  ],
+  [
+   "RRI.co.id",
+   19
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   10
+  ],
+  [
+   "jabarekspres.com",
    7
   ],
   [
-   "Ketik",
-   6
+   "Radar Bandung",
+   7
   ],
   [
    "Pikiran Rakyat Koran",
    6
-  ],
-  [
-   "Jurnal Soreang",
-   5
   ],
   [
    "detikcom",
@@ -59,11 +51,19 @@
    4
   ],
   [
-   "Antarwaktu.com",
+   "Satumedia.id",
    3
   ],
   [
-   "Satumedia.id",
+   "Koran Gala",
+   3
+  ],
+  [
+   "bandungraya.net",
+   3
+  ],
+  [
+   "Ketik",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "62 ASN Pemkot Bandung Kena Sanksi Akibat Membolos, Pelanggar Berat Terancam Dipecat - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUpkZkNDNnBWQjRoNVJHRnRpbDkzSDlVR2FaLWszU2kzZEkwQjJQVXg0ZTl5NTBLRWQyYUtGamlReXVjQk5MYk9QTVZmd0NnQzd1amYwZU1KdU1RV05sbUJ0TTA2TDJVTlY1ZkxBMWNiTXpjaG40bGNqRVBKY0ZOeTV1VFFHbGRCLWRzVlUxWWMtakt2NEYtODhjZTlHS0NVak1GMHFwOG5iaDIzTWZyR2ZjaGFwc2g3cWNLQk80dEZxTWI1N1ZpbTNyTDN5dw?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Rokok Ilegal Senilai Rp1,7 Miliar Dimusnahkan di Kabupaten Bandung - Media Indonesia",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZml4VGRXa19hZm1zRFItbHFQUFIzWFdPY2VCTlo5b3M0aE8yWXZhcVNZbUVEaVJoUDNkUkpkLVJYVU9TZmI4N3NkVzdhVnViNEVpU3Z5bl9OX2dWVGx6WEJ4WUtSallSRnROSkt1aHlWS1pfUkE2Q2YwdXhDYnpxSHVkUnMyX3hUM3BDaGU5aTYza19nSGRTTG5MbnVEeEY1RjR1SXNlNVk1dFExYURwR1VB?oc=5",
+     "r": "Media Indonesia"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Pemda Bandung amusnahka. Jutaan Batang Rokok Ilegal Senilai Rp1,7 Miliar - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW9kVXdTbW9nYjFFZVRzZ28zNjJvclVkSEw0V1lCQVpnRmpsdE9QblpuZW1fcmY4bEdoVXdpSWxsWUdBQ3BfOUVGV3hsbU1yWUxMYzdKQjZ3bC0yNHBDN2Q2dGRkdXJzMU93S29QdEtXMG1IVjd1ODNDNXZUY0hEX29NeXM5SFZ4XzUxUXBaTEtNYmhsMHViU2NaanBHOWZSeWc?oc=5",
+     "r": "deJurnal.com"
     },
     {
-     "t": "KDS Sambut Kepengurusan Baru Forum HRD, Ajak Perkuat Kolaborasi Ciptakan Lapangan Kerja - Gerbang Patriot",
+     "t": "1,19 Juta Batang Rokok Ilegal Dimusnahkan di Kabupaten Bandung, Nilainya Capai Rp1,7 Miliar - Fokus Jabar",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYy1fc1BpeFFfM3RHQll0d0M4TDdfcEVhWjExWGpZOGY1aF93MXpUR3VXdGNxVWI2Q2xpVUZjNHNDclVKXzJ6cTRQRlhDV1kyYXF6Sl95b2lLdkNFZWw4M3cxMGl1N1FPa3lWNTc5eF9Del9peXYyajlLMExXeW91RzV5Y3NkNzVSZW1ZcF8yZXREd0Z6WFIzZThhYTQ0VlZXeUs4MHZwT2JFOUMtUUFpR0xjR2dnVWxkQ2M0TEg0MHRiSFk?oc=5",
-     "r": "Gerbang Patriot"
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjROdGpGdWtINFVzV25kdm1LWnBQU1dnRDRzektfMEJXZk5MbnZlTE9oX3N0TXhBVGV0UERzcnp5TUxmWUlpR3FDc0xJdl81RHBBUXZkLVBoeXhnUldqNnI1Y2VqU2pyX0VJazFFY2Z4YWdEc1RKa0JGUnpIWWVNUl8ycFEyUTZsR29yOENDZ1pVMUxvT0JaWENwekJZVkg2d054bGNMb0VsT2d3QUlqMk1FZEpRUm1IY2ZtTTd3aw?oc=5",
+     "r": "Fokus Jabar"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     14,
-     27,
+     12,
+     33,
      7
     ]
    },
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     3,
-     11
+     0,
+     12
     ],
     "g": [
      0,
@@ -192,8 +192,8 @@
      0
     ],
     "w": [
-     11,
-     14,
+     9,
+     13,
      1
     ]
    },
@@ -209,8 +209,8 @@
     ],
     "p": [
      4,
-     1,
-     4,
+     0,
+     3,
      2,
      0,
      0,
@@ -243,9 +243,9 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Tribunjabar.id",
+     "t": "Bank Indonesia Perwakilan Jabar Dorong Investasi Industri Mampu Membuka Banyak Lapangan Kerja - Halaman 2 - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnBNNmFoYVN4QzExN2VaNlJ6R2ZmVXdhTGxNVFljNjhWTVpYNmQ3NkFDazNRZmVuNzlXclowazlhcFRlaVRJZGdldnAwRVhVMzBvSzBXMWY0X1ZBVzdWY3UteTN5bW5RQ2lLTVRaeV9fcVJTWW9fczhZWEphMEZ6M1NqZkdTYXZqZ05raHhnMEpCTG5YTDE4UHphSHZyR21zbGVxa2JqODl0MTBlQ2oxaEVGM2hweHpiS0NUS21vcWY3Qm1jZDRYeVg4cW1jZmxwR0lwbDhHOGZ1VTZm?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdVFqWkZmVEQ4cnd6RkcyQXZ0SGd6b3owZUd3dFo2cU5tSWNvZkkwYWhfUEgzZWxRUE9mZmdUeHZMMFpTa3pWbGFsWTMwbzJqTEExb0Y1SG9oWUI0ZGR1NjQ1VS1Hb2V5THd6Z3NtYkdfQUdzU3YyWklLeF9FMTJtaTZvaVlrOHJwcEtxb2R0eV9LY2RtcmFiNTFWMEFDVkRHbTV0OUtMcmlzWW0xT1h4ellzZXJ1dU1LaGt2YUp3ZXBFSHJXNFUtcklVbk5TT3NWOGJ2cDNxYUEzZVlYcFRSUlJsZHpKUQ?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -262,9 +262,9 @@
      0
     ],
     "w": [
-     10,
      11,
-     5
+     10,
+     6
     ]
    },
    "trend": {
@@ -282,14 +282,14 @@
      1,
      2,
      2,
-     1,
+     2,
      1,
      2
     ],
     "g": [
      0,
      0,
-     3,
+     4,
      0,
      0,
      1,
@@ -345,8 +345,8 @@
     ],
     "w": [
      0,
-     27,
-     24
+     22,
+     28
     ]
    },
    "trend": {
@@ -370,10 +370,10 @@
     ],
     "g": [
      1,
-     6,
-     6,
+     8,
+     7,
      4,
-     3,
+     4,
      4,
      0
     ]
@@ -395,15 +395,15 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Tribunjabar.id",
+     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Halaman 2 - Tribunjabar.id",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRoMmFLX3Z6NUZhVnJad0NzakNEZEhiX0pGdkQ1YktaOVFtaGJjZmxzN2otMk8xOWVGdFVoOHRJcUNvelhvVWtxb3FCZ1pIRHlKbVN2Y1NlSWRqNnRWaFg3UFdwa05iWEdaX19SMnRiU1ZmdkluVGFkdFV0ZkNuQlFtdk1rT1Y5QTV4NW1QUHNVeXI4QUVkaFd6ZWpicUFEUWxUT1NINUdfdERNcXlmcExWT1A4Z1pSMGd5OUhHTzRJYURWVVFobDY3N1FFdHc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOURqdzhxRWV6ZnI5YkJlYXFzV2wzZjRlaENEb0czXzJNak1jSnRMemVvZ1RUZDhrV1FfVFhoaXRqaVlhcEhDSkRBRFBEV3duSWlIZW8zRE15NGd1clJPcDZzSzdreHdmeU9acUZVLWY0Y3RiREx1N1pwV2hFR2k3X1pWTUhKYnZuOTVqTUdhSTAyN3c0MWRxSXowMXlYUy1Dc3VHZDVJZk9XUkZrWjRyUTNRMUJCaVVWaFBpRlNXZDY3aDBZLXRWQkM5cjJrZjZyanRiSkl3VXc?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Perusakan Kebun Teh Pangalengan Pernah Picu Banjir Lumpur dan Krisis Air, Warga Pun Was-was - Kompas.com",
+     "t": "Proyek Irigasi dan Danau Retensi Belum Jelas, Bupati Bandung Bakal Surati Menteri PUPR - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFneHhuV0gzNG9fbGE1Q2ZVb2xFZlpjVktrWDR3VHNRTTRvVUx0ZVlMLThtZjdpSWVMRUItTG9PSFpEd1E5SnJDNTFwVUZGRU1pYUNBbWMtcFBWaDVVcjZyRlN5dGhFSjVIQ1dQM0VvQUk3S3hHblBBX29iNGRpSldOa1EtREFvaHhlckUwbnZicDNRUTdWOWJDcEg2S0ZodUthWDI2eXZTZmExdXg3c3QzMkh0UjRGbHN0a1JjVkxsMms?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGJKMEtzWU1waFVqd2pTNDVRZm9uSTR3YV9hSkNvaWs0QkFQbElZMHJhQng3endHTDIzUEIxNmtoUGFTdFJEZ1F6UGlRUXlMWTFfMUt6SmtCMDF2RGZUZUlTOEw4eUdoMzBFM1Y4OUx4NlRMeUxpSEhKM1JqR1ZneVR1YTR3RFdvd1BkdHhDZ01sa2JId2Y4bzBCWlQwNWJsUzBYRUxpczFmdkdOOEY0aC0tOF93d3VWTHU2NkhVemxWU2c?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -427,8 +427,8 @@
     ],
     "w": [
      1,
-     6,
-     18
+     7,
+     19
     ]
    },
    "trend": {
@@ -457,7 +457,7 @@
      3,
      3,
      9,
-     5
+     6
     ]
    }
   },
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
-     "t": "SI Didorong Manfaatkan Program Beasiswa BESTI dan PKBM - RRI.co.id",
+     "t": "Rail Clinic KAI Layani Kesehatan Gratis Warga Rancaekek - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTFWVUthbDFzMEFwV3VsbzJLVzRvRWxHcGdaTUJhNldSOUU2dzh5aUFEdFRCYUFSWlFKal9Rckg2cm83MEw2bVRvcTVqeUstZ19Bc05mamI1d1hlcFBvN0lMS2FVcjdSRDRqVHc2ZGQyQ2wzVjFvbWl2UFU3Y0Uzbi1nUGdNbXNlNWxNTjl0YkVmMHFaVzZzZm9R?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRmdGt0LTJ6cjYxNFczR1FQbm9tSlB0VHFzdVFmVDVTSmwzcTlKZTFrdjJ6My1DRmFjQTE3VF9xZEMyN0tTLW0zYU9yNlZwNGY4Z1lUdXBoYXNEZGd5dW1tZkZtQkhHOERURUxRbFlBMXFlMmtsdnFORjdZTHRIa2lEaVpzWXBsTDhpMDR3X3JPWUNIcGVKMGFhd3JFWEpI?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Pemkab Bandung memperkuat mitigasi bencana jelang musim hujan - ANTARA News Jawa Barat",
+     "t": "Aplikasi IKD Makin Lengkap: Bisa Urus 10 Layanan Adminduk dari Rumah dan Pendaftaran Bansos Perlinsos - Pemerintah Kabupaten Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemt6UmZpOGduREJoelJmU0xfTHZwcjU3czN0cTBxX3drNFpHX0Z2VE1jWDRvQ0RCVVFuUUt6QXZtOFNtV2x1cTU2LVdtQWJDNUFpOVJ3VnZhWjl3U0ZTYTRyYW1EUHExbklKV1p1UVIwR1hFUWtiUkpzUWdocWVuWVBZb2dXNUhPSTh6WWk1TGZwTXRhaGIyS0JOTXNPT0RxcE41ZEEtTdIBrAFBVV95cUxNeXY5ZWxubWNIQmxWZFNCcThDNF9pV2lrWTh3S29FNU5OcWpRZHItQk14cWFDajM5Zm1BRDFCTmk0bjdUQVJVczVFSXgxRXc4TFowbjQ0NEFTTUZWa0ZsOGN0Tk1yUjRDUnRxQkswc0l5UjNZNV94N3NwZk1MRWZndnJVNzlFc2ljc3JINjlQMUpHcjRiNFlnejhkM3A2NG1Ea0JDZnptdHBWSDV5?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnd0RmszTWtuRnVDYThzSl9CWUNwaVgyMHQyTlBmRjR4MGFuR1U0eldwUmwwbzNNYlpINmhLUnRlTlhzWWtLSmZlZFowV3hRMkdId2JmY3J2cFNnT0h3MzNVbUxaSC1CeGNiVFphZGNFdTc3ZWJHQ2t4SmI3MFBiNnFENU9idHlZRHJlUWozNE85cVJoWk5WUGlQaDdrd05vcVpyRXJCLWRPbW5FYm5KTXNmbWh3SUNYWjdMZUU5UFdkTTlmYXc1eVhTTm1yb1pLajBBTnNJQTdnbzVkU0ZNRXQycUpNV29qVERzWg?oc=5",
+     "r": "Pemerintah Kabupaten Bandung"
     },
     {
-     "t": "Stunting Masih Jadi Tantangan, Pemprov Jabar Intervensi Gizi di KBB - RRI.co.id",
+     "t": "SI Didorong Manfaatkan Program Beasiswa BESTI dan PKBM - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEhpZ1pDelZFdUxCVmhMTERjUGpCalBkTzVraVJkRDY5TE9xV0hFZ0I2X2FYMGJ0OXp2V2k4MjI2bk5CZWN5Q2tjZEhaMEZRU2dCSWtkS2w1TFlYRm9NM0wzMTVQZ1dIOHdDTlhrcHhGMlZVUnhSQ3Y4WERfeUlxQXU3VVJNRjRVQjI5SzZvcG9JRjdsQkIxUW5GREhPclM4S0VlSUcxdlZMVDg1Q2c?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTFWVUthbDFzMEFwV3VsbzJLVzRvRWxHcGdaTUJhNldSOUU2dzh5aUFEdFRCYUFSWlFKal9Rckg2cm83MEw2bVRvcTVqeUstZ19Bc05mamI1d1hlcFBvN0lMS2FVcjdSRDRqVHc2ZGQyQ2wzVjFvbWl2UFU3Y0Uzbi1nUGdNbXNlNWxNTjl0YkVmMHFaVzZzZm9R?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -526,10 +526,10 @@
     "p": [
      1,
      2,
-     0,
+     1,
      1,
      0,
-     3,
+     2,
      0
     ],
     "g": [

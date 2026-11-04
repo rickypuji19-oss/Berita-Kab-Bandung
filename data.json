@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:08:23.921087+07:00",
+ "updated": "2026-11-04T17:57:28.985273+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,47 +7,43 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   29
+   "RRI.co.id",
+   28
   ],
   [
    "Ayo Bandung",
    27
   ],
   [
-   "RRI.co.id",
-   23
+   "Tribunjabar.id",
+   26
   ],
   [
    "Kompas.com",
-   23
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   16
+   21
   ],
   [
    "ANTARA News Jawa Barat",
-   9
+   13
+  ],
+  [
+   "PPID Kab. Bandung",
+   10
   ],
   [
    "Pikiran Rakyat Koran",
    8
   ],
   [
-   "PPID Kab. Bandung",
+   "jabarekspres.com",
    7
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
-   "Radar Bandung",
+   "detikcom",
    5
   ],
   [
-   "detikcom",
+   "Radar Bandung",
    4
   ],
   [
@@ -55,15 +51,19 @@
    3
   ],
   [
-   "Antarwaktu.com",
-   3
+   "Pojoksatu",
+   2
   ],
   [
-   "Koran Gala",
+   "Antarwaktu.com",
    2
   ],
   [
    "Ketik",
+   2
+  ],
+  [
+   "Fokus Jabar",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Dadang Supriatna Tagih BBWS Soal Realisasi Dua Danau Retensi di Rancaekek dan Bojongsoang - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3pxLWRUZ0x4UWg1U29ESEpyUlBUT29EenJqSXozanNqaDVhdEM1MjlCaXFhcTFBTHBCTXd2SFRHTjRybW8wVm9wVkxja1E2OUcyVWZzRy1WMHRkUzQwdVpsOVZrQ1N0YV94Y0NhUjJjY2xpdzVmZ1MxeEFqc2VvcmdpSVRlc0RER1JKYVl0MUlFVEZmU1F4cHo0clp3WmI1V2I4c2pfRklCYXBRelJ3eWhMVjBZeVJvWEp4bER1UzlNZjZBRFRxemg1RExrdWk4Z3hMVlRqMGxIZ1Y3?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Pemkab Bandung memetakan kebutuhan pompa portabel antisipasi banjir - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU4OE1zdUduTFQ5dlJEWWJyUktyb2RnSHQzUnJXc2JwcVNyeTNpMVNJNjREMThJMGF2MjMtUEFUaWw2Y3Y5V0xGSjAwcmRaRFBPYmpBOWdkb1lWc19pbWN4TEtOU0oyTTVkSWVWVG1GUXVWcEFvenhIUU53aHI3YkJHWWFQSFFXTWRhTTNxcWc5Ulg5ZTRSajlvXzJrV2FYVTVFdDhHaW1DaTJvVkxZ0gG0AUFVX3lxTE10YUtxMi1EVUQ1LUY3TzkzUXJ2U3k2djRmV2lzYW9FZWU5d3pYRVBPUnNERFFqSnItZ2Y1NEJha0hZWHBKb2h2UXBOcGs1MGlVbmtveXhzMEpZSkN2b2g2ekdPYnNnWExkMHJYZnV6ZDZqMml2TDNaTFFXeURpeVBKblZVc1gwR1A3Ny0wWDh3WXR4ZUdib1JndFV5ZDAtaTN5T3RNak9BVC1sQUo4eGVwV21WdQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Berita Acara Pemeriksaaan Hasil Pekerjaan Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "t": "Bandung memperkuat kolaborasi pentahelix guna antisipasi hidrometeorologi - ANTARA News Jawa Barat",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGp2M2VTeWlRcWZENUN1NU9haGhHYTd1TTdBRFJkTXVNTThqZ1lqUUFleUhYVk90aVhtV0tfUFZCeEZFUXNtanVSakluTkg2VmQ1cThXUXhIcEhtdDRuYTlFQ3l3MXFiVkZTSzhSUW12ZnpyczZMWUlQbHdmcW9UZWl3MW5KNDJ1YWlvQ2E0WGgtTVdfTFZVZUVuSUpNQ1NFYkNnb1JWM2ZFY0NGcWlVbnNqa2pBbFNxdHo5TGotdWF4V2dmdWY4WGVQMHFrMnpQcEc3VGU3czVJRUg2RGRMM0N4UV9RSms?oc=5",
-     "r": "PPID Kab. Bandung"
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDcwQVF2MkZIUGhIRlk2VDJoRWNnaGVidlZSS2xvXzFUTmFXQWlydExybUc2blh0UVk2aWljWGJ4RGV4eTJXV1BELTlCMzZBbVVNaWFCOWhQQXdzZThpWkdvYVdPQkN2STJRQjVQaUZoS0dnOXp4OWFVZnlaQTlNTVo5aElMRmxIRHo2N0FoMkk4blpjSXA0Z09XSDlMT3FUa2NvdVFad0tHMWdJbU92bUVIZEx4b03SAbwBQVVfeXFMTkZzSS1vcGFnM2JEZ1A4NUN1LTg2am1sQjZSMHEzTXFsT1hwWHlUQlROSEFVOFo0WnhkZThwbVJjbVNneW9jQmNTc3JqeUk1aG9BRGVkbzdjWEw5TzdhbDlNQVBGWHl4NTB3N1hlRzk5VTY4VllIMVptVzNleE1ZQ2xMSXV3c2lVZ3hUUEVlMDFLQXdzTEp1ZGphNEJvWWZyd0F1MWdXTU1Gbk1qakFMS2VQQVJCbWU2M1RVQko?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Dokumen Penawaran Administratif Dinas Perpustakaan dan Arsip Kabupaten Bandung Tahun 2026 - PPID Kab. Bandung",
+     "t": "Kabar Baik Pekerja, Pemkab Bandung Siapkan Rumah Subsudi hingga Susun, Gandeng Forum HRD Rekrut Warga Lokal - Pojoksatu",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNkdPcWVyQU5ndWVpU3FyQ1JleHJmbWN1dnYtS0F5RmptRmp2S25vRjQ5dFlRQUtNTXdBVkdXdFRhdWpDZU54dWViaGZGakM0cWE0TUR0aUdFdDVBT0UzNUtWdEhXTTlzbzRVbDl3VnQzMmFiTWRsZHktSWNybUhNOVo1RmRHVUZZbTVQZTZsMnFBQ2UzSGpNeVV5QWZnRml1dkduWlRnWUN5RlZiQ19pVnRpaVJUeDM5bmc5SzFwTjNJSGJWYVN1Q0ttVndUeUdCaEM2cFpZNGV3aldWYTVfSEl1Wjg3SnRu?oc=5",
-     "r": "PPID Kab. Bandung"
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWjZFVTVMdnJQLWZVUXY5bk1MTXp6WV9BU3pGRDFTR3A1SDNUTC1McmdwNnhZX0xXUE9QNjhOQk1fa281emoxckRRWTY0UlV1cmJETXlfLXpuSzJFU0ZQSjZxTjcwUFBTa2RJS0Y1N0J0dUxXWDluakVheEJQV0tUd29Zc0QwQzcyUTBIc01hdVpkVXcxSUlyMXRlNy1iazdFdUhNVGdrTFktZ1ZjS1VINjZpcEUtSHo1Z244c29HNU5vczA3anhKVjFUVkpkNm8?oc=5",
+     "r": "Pojoksatu"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     9,
-     42,
-     3
+     8,
+     36,
+     5
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     6,
+     5,
      3
     ],
     "g": [
@@ -147,7 +147,7 @@
      0,
      1,
      3,
-     0
+     2
     ]
    }
   },
@@ -173,10 +173,10 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Mahasiswa Kembali Sampaikan Aspirasi di Gedung DPRD Jabar - RRI.co.id",
+     "t": "Warga Sakit Harus Ditandu, DPRD KBB Desak Jalan Cicapeu Segera Diperbaiki - Ayo Bandung - Ayo Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTVCQk9KOTB1OG1iT2pPYzBvOUVxRFJUR2RoNGhSVjNqbVBkV3UzbnVFdHV2SGVMSlJ1THhFUGNzWm1JVjVjRVlzWG1BZEQtbkl6dVpHaW1qeVAxMXhiN0M2QlkzazVtSUVWQlBOcmZFcVpTRlFiajNtckZJNUo2ekZEM1B6Sk83VmtUdExMS3o0TXlRVlNIUUt0dEJCUmhHblE?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0hpa1BJa3dKYmQ4S21pZjFnMUZUVS1acWNtcXpOZWk1ZGZqMkhvdXdZWWc1eldYam4tWlVDMVdXRU81cUhCaHZUc0RoS2tsN2ZFYTZUeUxaSWx6aG9McDFLdDUzQ2RmR1ZfLXpId0xWUXRDSUdySnNLUTFwazl3cUdCRVpVT3RXMnNQSHdNUjdjejVkZ1NXckxYUWd1d3dNTmE1YWhFRGJDNWF3QklNV0t3aEhId9IBuwFBVV95cUxQY3hkSzFabko3c3J5bVp1Y2RERXJwMTRJMVIxMXl3RU9xd0VhWFNOVjRETWpWOTdqRjhnTVFPX0c2S3ZYc0ZCbnZSWE5scnoxWDhmX3RZVV9kbFlNcnFHM2lyTlBLTzhyd05LSlJERWltSDFQNHBNZWdIVnVZOEZINklpREJuR2hmUlhtaEx1bXpDUGlsSkJDVXEwNURCektVUnJvRGZtQzFkV2oxbEswZGw0b2UxczM0N24w?oc=5",
+     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     8,
-     12,
+     7,
+     13,
      2
     ]
    },
@@ -205,7 +205,7 @@
      0,
      4,
      2,
-     1,
+     0,
      0,
      0,
      1
@@ -231,22 +231,22 @@
    ],
    "h": [
     {
+     "t": "DIP BAGIAN PEREKONOMIAN.xlsx - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak9mcVBJTTQ0OVI0TjF4OHBPeWt2eUNUODFvWE5wUm5xb0ppWTY0d05FT3ZJLVQ4Nkd0bTZ5TXcwT3dzVWNacHFma25wTVltQTI0MzdKeExsSTVzMjhfTDBWWExGRHNvM2x5RWw4VXR3OFBSS3cxNUd0c0EtNnRIVHRjY2RPeE92NHdpNUJFRU1JUnYzZzhGakM5bFVkeDNvWUZYWWVWUE8xVHlodGJIenpQUndfdkFSS0dZN3NCMlc?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelgxbEhKUW8zZ0JOa1psbUstSllhZDZtekttOFJoRm9iWTZPYm5GRVpIUUpCajRHODYyaHRjaHpZZlZXcER6UlU0Y2ZyNzJWRm94TW5mbWJhWHI2cjl3T3VGb2lIX0Vta2RGYTI0RVNmZXVvRUEyaHQzOGV1M0Y5NnFyemJUMG9TVTVSTVRsUDNhOWVWcU9VaUhTeGJDekZWR1BMVFdaUFRZdXBpVmc?oc=5",
      "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Bupati: Aktivitas Ekonomi Masyarakat, Perkuat Kecintaan Budaya Lokal - RRI.co.id",
+     "t": "Pemkot Bandung Perkuat Pengendalian Inflasi jelang Akhir 2026 - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1EwSFY1UDZDQ2YwUDFfLVM3N0pSVVcxQVZ1VDBFREkwbFJNWDJ4Tkc4b2lVTDVCaDl1VndHcncteUJUalZlOHNYLThVTGJBczVSaER6QTBXQTZzZFRQLUVXME1MdWtiNFdYeUFXRS1ITGlUMnpBck1sM19ZbElfcWJRZDN0TmF3S203QVctRmFMS0RoYVJQM2hiVS12bVQtTl95U0hjWUI1NFJfcEE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFJKVHVwYS1yZXROUnVuUjFxM3lXMEF5eDlKc0VXcGpOX3FTS0V5MjFGY09iWVlHNUNSdVlDNGZyWmdKVmthUzJObUdlc09xWExLdzd4ZE5DWnlKNS1hNGE3ZHZjZTF4b05fbTlRMlpwZW54QXh6TmpsZVlWTm5palM2Q21qbThlNHpPaWoxaHF5OVN1WXNmeGh3VkV6QTZOdDJ4SEJsYw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdXVjZUFhMnE4NzdTUHNLcmpTMVZfZTNLZGJ5WXdxUEo0NHRJdnJabXZVS29IRmhqRThOdEc2SFpiOWtPNWdrcE9kY2pnSXU3YnpCY2hzV0M3anRXUGdUcHNOTXhEUGEzT2V4cXVmcXgtM3p0alNPMm54M0ktNzJlemxReVBuci1aUHRLR3hmVVVYRW0wTW1jNFhvSG9NbEM1S20xVGIwS1E4LXp3RVhaVHlFVmdrd25ZbnVRTWJsZWJxUEVaaTdyS29QNW1TdkxnVE04ZVMyOTM5cWpIV3BrdHhvZWlRUU9ySVpaek14ejdLcVpkT2pnZ3JxU0NiTG85VVpIVjBMRElPVENBR05Tdld2eTRLUjZfYnJGZ25rMHdUY25tZzh3eGFibnZCSGNNelVJ?oc=5",
-     "r": "PPID Kab. Bandung"
     }
    ],
    "v": {
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     10,
-     16,
-     5
+     8,
+     18,
+     4
     ]
    },
    "trend": {
@@ -272,17 +272,17 @@
      "Rab"
     ],
     "p": [
+     0,
+     2,
+     2,
      1,
-     2,
-     2,
-     2,
      1,
      1,
      1
     ],
     "g": [
      0,
-     3,
+     2,
      0,
      0,
      1,
@@ -301,22 +301,22 @@
    ],
    "h": [
     {
-     "t": "Hanya 6 Bulan Menjabat, Kombes Dedi Supriyadi Dimutasi Dari Kapolrestabes Bandung - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeFBMVHVnbXJZaUZHS041NzFXcUk2R2k4bnRnMi1Tb1B3UTA3UmJLUThZMVFCbnpkY1Z5VGNNYWNkSkVodmhJYnZmQkU5NWxmbFg0RXk3blA1RVNiLU5nazhJdlV5dllRUnF5ZTk4UGQ2bTI5QnI1SXBSbHNZdmpFUVZ3bTR0UzkxTkZfei01VVFyM292THFWaDlHcnA1RDFwQmxoVXVPTm5IakQ0b21JTVBsSlo4aTZsLWFBQzNTY2JONThla0FQQnNwaw?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Teror Ketukan Pintu 3 Hari Berujung Penganiayaan di Majalaya, Dua Pemuda Ditangkap - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTFTdnVDSnFZUXFzd3VnM1B1Y3NtdlJmR0wyOVBZWW1yQW56LW1QQnZZelMwcEI1QUV3UFpjbzZNeVlxTkVGNF9NY3VudWxnNjZ2OUdzTk14MVQzQXJlaEVEWUxFM0ZiZ0ZxTEVncDExTklIREhGbHV1YnFXaUwtdTRRMmJ2eEI5UHlrU1N5TVJkZ1hxeHQ1a1A4aUluRm9IMGh3eWhoWjlQVHZLdTI1dGUtVGhNdzdnRGhJdmtVQUdwQQ?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Kapolrestabes Bandung Berganti: Kombes Imran Amir Gantikan Kombes Dedi Supriyadi - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm10SjNqSF90MWNQdEhLS3lTZTJjSk1iNzFNQ1llRmUyNzNyNm1PNmhWTWhwM1lacWJFQmh4WElIRjhlYUhNbnItSDVlbjVuX2FIMzBickZyUzQzUWJaZmZzQ096bW15ZEdnRDl0X2Q0ZGlHRU5KVDJ6ZDFYYXo5eVZnTWVHZlkxTUVHS2ZGU2tNNjhjTFZxR0EtTVVkN0l0cmNXVjg1QmxmQ2p6WnY0cTg4blh2TTNaNVRsU21GZTk2eWdTVm95UXFR?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Polresta Bandung menggencarkan edukasi kebangsaan perkuat karakter pelajar - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYk9RS3pEMUhuNk5hYkdaWHBFQy1hWHdYSURLMDNyVkZIS3FLTDd0SG1vaklqajE3aFlyc3lkeXpKSUR3T3ZXb0lLaW80ZHB2YWNtWl9tU0xEZklKNWJ1TllmSnNRMVRJa2tuZ1JxbGlvNmZTeUVzN1hFeE9qY1lyLS03Rnd3NEk1dVVJbkJTMmRjQkpKUmthd3k1VzQwWnB0aXNsemoxTDYxclY5a3hNQUIwcEZZakxI0gG-AUFVX3lxTFB3aGZRWDVlZjJPWXJWMkFsQlRkc28yRFg4dnFKczNKMXZLZ29ZRHlHb2UzVkR0d2xULUYybDUyQWxYeG1nOWhWWTlrM1NUQUhHZEcydjR5dnltWmRUMVVVSzAxVE0yZlE3ZVJORW1zYzlUQzRfM1Bkc3JvQlR5ZlJ2djY3cF9sTG16aXdoRWNpdjBkT2Rldy05eGxUSHNRQ1BXLTlwRFBRWXRhUmc2aS1FRXVFU0t5X2ppc2g5UEE?oc=5",
+     "t": "Polresta Bandung menghadirkan layanan SIM jemput bola di pesantren - ANTARA News Jawa Barat",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xQblFONllvdmJuUm9KYVAzWFRKSTFhSkZmTE5ONF92WDRVYm1JazJPa2xMaFNxUUdmRFdaNGM1eHIxVS1Ra3hBWWV3TWFSQWVNd1c2M29iZjd5S2s1SWo5WERuUEtQT0JpYld2UWlRdW0xYTFLYzBVVjhhSUNxQkVSaG1wd0o2all2V0VrcjNEOGpIRnpZd29RcURoTlZJaVQycVFBWU9xR3B5V3fSAbMBQVVfeXFMTzRGWEJpQzBfUHJOYUtDd2JZc3VNb1VOWTRGQ05wX1ZLQUxkVmFDVTctel9EVl9FMVg4SXZHai1CdGFzMkwyckJiLUZUT0RUWVBfdFNsWFdmVnRNUFZRVjV5T3AxWjB0R3Jyc2s4SS1QZG92MmFHVFhRVThYaFc1ZFIyVEV6OFNlc2M4d0VqaVpEc1RKQXU0d3JXS2otb1pQazJOTGVwVnk5c3lIZ3RwczRzemc?oc=5",
      "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Polresta Bandung Jemput Bola Pelayanan SIM di Pesantren - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUh0WGgwQWFtMWFhU2l3akloSy1BRWJKRnRFSVNGUFUwSk5rYjBVSUtxcDJ6VXIzR1ZCNTNhbHc5M1R6Y2FwNHpQWEUwZ2VqRmtldXdrQ1gwWVJLSUxBWkJtUGxfQVpTclppSlNEOFJiRjVoRFVEMEN3RHdpOG5aR05IVkUtdy00VkdlVndCRVhvZmxSSGN1SzhjckRkRDBJ?oc=5",
+     "r": "jabarekspres.com"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -338,9 +338,9 @@
      0
     ],
     "w": [
-     0,
-     20,
-     24
+     1,
+     21,
+     21
     ]
    },
    "trend": {
@@ -360,16 +360,16 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "g": [
-     7,
-     6,
+     4,
+     5,
      3,
      3,
      5,
      0,
-     0
+     1
     ]
    }
   },
@@ -383,22 +383,22 @@
    ],
    "h": [
     {
-     "t": "Pemkab Bandung Petakan Wilayah Rawan Banjir: Dayeuhkolot Hingga Baleendah Jadi Fokus - Halaman 2 - Tribunjabar.id",
+     "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOURqdzhxRWV6ZnI5YkJlYXFzV2wzZjRlaENEb0czXzJNak1jSnRMemVvZ1RUZDhrV1FfVFhoaXRqaVlhcEhDSkRBRFBEV3duSWlIZW8zRE15NGd1clJPcDZzSzdreHdmeU9acUZVLWY0Y3RiREx1N1pwV2hFR2k3X1pWTUhKYnZuOTVqTUdhSTAyN3c0MWRxSXowMXlYUy1Dc3VHZDVJZk9XUkZrWjRyUTNRMUJCaVVWaFBpRlNXZDY3aDBZLXRWQkM5cjJrZjZyanRiSkl3VXc?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : Perusakan Kebun Teh Pangalengan Pernah Picu Banjir Lumpur dan Krisis Air, Warga Pun Was-was Halaman 1 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYno1VEdxTDBlOWVSc3lOZ0ZQLXV6MTdMR1MwRnd0TE1IdF94dXI1MG5nMTFkRmh4Vlp1ak1nWGpESFdaYnloUGZQSlg5XzFEcloxa3loaDBkQ1RMRHBxMFo4ZDhGV1cxanpQaW05ekdscG00TndnV0FPNVYtXzZ6RGVpZW5UVlBqQ0dOMFE1RHVFMWN0bThQY19pSWFrNFBRNmtWc2RXUXBhNEhsR1Nfc1IwUlpfUk9hRHRTQnpkTUNLMC1lN2lCOGZ4cnNnQQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXNjMVg3N0NmaUlsalJmVkVMenNyekFwRWozblFCc1FhekowY0ZWcWtmMG5hN3M0NWtUaHRmRFlxRXU4WkczTk55eF9hbXl5ZmlZXzBLY19iUGtnd2NEeXpET0w1UVgxNlk4VWVESEotV1hLejZsR0d1UFQzb1A5Zmh6VzU2TGFwMlY4Ymw5M0txYnpRUDVHX2FtWHl0VTNmaDllT3NVbE15aXNFdUgzaUtqczFHV0VxWFJWRXQ4X3JzVUZ1MHYw?oc=5",
      "r": "Kompas.com"
     },
     {
-     "t": "Proyek Irigasi dan Danau Retensi Belum Jelas, Bupati Bandung Bakal Surati Menteri PUPR - Kompas.com",
+     "t": "Pemkab Bandung memetakan kebutuhan pompa portabel antisipasi banjir - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVB6dEJFbmdkdG1hMmdDQUxqVjhqMF9ENXdvbVFfQnQ2Q1g5MjZEaXFoa2plZW9xeHJnTUFGbUdOaG5EVkxaMnZHRG1WdTBKOG1kcnBxVjk5MFlhTHlXOGljT1lSaTF1Y0pGQS1YSWZxMWh1aFROM0pTN2tFQVRZZjd4NmgweVlvX09qelZ6VmtpRVBEcHhPNW1BV3o5NHlWZ2lXQWxONF9UczhicU85LXlaQ0ZqSC1FLU83Zm1IakVTMFZxUmZNUmJMamNob28?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU4OE1zdUduTFQ5dlJEWWJyUktyb2RnSHQzUnJXc2JwcVNyeTNpMVNJNjREMThJMGF2MjMtUEFUaWw2Y3Y5V0xGSjAwcmRaRFBPYmpBOWdkb1lWc19pbWN4TEtOU0oyTTVkSWVWVG1GUXVWcEFvenhIUU53aHI3YkJHWWFQSFFXTWRhTTNxcWc5Ulg5ZTRSajlvXzJrV2FYVTVFdDhHaW1DaTJvVkxZ0gG0AUFVX3lxTE10YUtxMi1EVUQ1LUY3TzkzUXJ2U3k2djRmV2lzYW9FZWU5d3pYRVBPUnNERFFqSnItZ2Y1NEJha0hZWHBKb2h2UXBOcGs1MGlVbmtveXhzMEpZSkN2b2g2ekdPYnNnWExkMHJYZnV6ZDZqMml2TDNaTFFXeURpeVBKblZVc1gwR1A3Ny0wWDh3WXR4ZUdib1JndFV5ZDAtaTN5T3RNak9BVC1sQUo4eGVwV21WdQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "110 Bangunan Liar di Baleendah Bandung Ditertibkan demi Cegah Banjir - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGRZWUI4dW9ueTA3MlltSzZRUzJhOTIzbnN1TnJYUjJ0T2tTMEd6eEtIQTFPTWNmU1lXbDAyOEdTcmZ1ZENCQm4wRlRuU1BJOElJdXN6NUJvbkJwNG04M3RQYUtDRVRqeWZfc2JpTmRHbk1XMWFEYTRramVVaXJKakVKN3N6eGI1Mmp3RlpLT0JKQUhRQXZXNE1xS2pCS3ppdU9kWjVXZng4d0ZDOEVqcFVnTdIBuAFBVV95cUxPVVhyRnBhNTdObWo2MlE1WUpFQnY3aFJrZDluQnVockNDQ1ZCUWxHZ01ELWF2OHZfNExWQTR2NDZmMF9kMjdkMGs1SjFUSjRQa1h0alM5RlNQV25oV1NuUy16WHF0RlAzWUNXVUxFWWY1eHVsZE9YLTEwekEwSFhKN0JQaXB3Z1RmUTIzRnlhb3RIMkpIZlJIUjFRNFhkNklwWHV1a3M0eEt2MUJiS3ZtM2ROb0FaeUZY?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -421,8 +421,8 @@
     ],
     "w": [
      1,
-     8,
-     17
+     7,
+     19
     ]
    },
    "trend": {
@@ -447,11 +447,11 @@
     "g": [
      0,
      3,
-     2,
-     3,
-     8,
-     6,
-     0
+     1,
+     0,
+     9,
+     7,
+     4
     ]
    }
   },
@@ -465,22 +465,22 @@
    ],
    "h": [
     {
+     "t": "Pemkab Petakan 6 Langkah Atasi Bencana Hidromterologi Basah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnZUQ243UVF2QVZGQVlKbTlYMjdoeGgtd0U2RF83MzNtbnd0WlFIX01BX2ktcXFZOW9aRmwwZ2ZNYzg3UC1ZUFJnSnlkSnBTOXRCNExSejJZZXZhTnJMN1dWMzM3ZXNKX2RnRTdESkxzNjNLaTd0djVrd3J4WDJsUlJwcmRCUFBwZE0wWU9VS1BtN1dVa1JlblVEMmx3SWNTb1JweQ?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Apel Siaga Bencana, Bupati : Ancaman Bencana Hidrometeorologi Basah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDd5TGt4Z1h6UUF6aXZQYU1rMzE2ak93Um43Ujljb2xIbWYzbUVuTkZDY2VKRzZEcmlTRjNDRnk0bV84SU5wekRGaHU0SVlUb1lPcEs1OF83QTlTWjZTUTdac1c4bWdpTXJ2OU9pR3EyRGJEUFo3eFdfeHFTSFpOMVpKSldqNTNGTjc1djdnenBpZW0zSVFpSXB6cnVjUlpQR1R4YzdJRGF6Qmc?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Rp159 Juta Kembali ke Kas - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
-     "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Peninjauan Gedung Eks RSUD Soreang untuk Fasilitas Pendidikan - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3M5bloySHNRRm5JSjBEZ093RWpOcmk4eUp1ZFlhcHlJNkxQcnFMRjV1eE5KUF9TMVVTc3o2QTBXOEg3Rkx2eHI3SnhTUVVmejRWMmJPa1E1ODdVQ1JIWkJLNkJSeEUyVXd3SFRVOXlOYmhCczdxQUFKb1RuREIwbDNJdFBGR1oxNE5IZ0ZQYXp4UUxSR0FUeGV0Z1BjMEx0Q2lwTFJjb0swQ1pFRlJ6bmF2bFE4Nlk?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",
@@ -503,7 +503,7 @@
     ],
     "w": [
      2,
-     19,
+     21,
      4
     ]
    },

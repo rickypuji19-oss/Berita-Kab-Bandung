@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:43:09.115676+07:00",
+ "updated": "2026-11-05T00:41:37.463149+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,19 +16,19 @@
   ],
   [
    "Ayo Bandung",
-   23
+   22
   ],
   [
    "Kompas.com",
-   21
+   19
   ],
   [
    "PPID Kab. Bandung",
-   15
+   13
   ],
   [
    "ANTARA News Jawa Barat",
-   12
+   10
   ],
   [
    "Pikiran Rakyat Koran",
@@ -36,14 +36,14 @@
   ],
   [
    "jabarekspres.com",
-   6
-  ],
-  [
-   "detikcom",
    5
   ],
   [
    "Inilahkoran.id",
+   4
+  ],
+  [
+   "detikcom",
    4
   ],
   [
@@ -111,43 +111,43 @@
    ],
    "v": {
     "s": [
-     1,
-     4,
+     0,
+     3,
      1
     ],
     "w": [
      8,
-     36,
-     2
+     34,
+     3
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      0,
      4,
-     4
+     4,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
      1,
+     2,
      1,
-     1
+     0
     ]
    }
   },
@@ -193,30 +193,30 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     0,
      2,
      2,
      0,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
      0,
      0,
+     1,
+     1,
      0,
-     1,
-     1,
      0
     ]
    }
@@ -263,30 +263,30 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
-     0,
      2,
      1,
      0,
      1,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      2,
      0,
      0,
      1,
      1,
+     0,
      0
     ]
    }
@@ -323,35 +323,29 @@
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=rqRm840vvAc",
      "r": "YouTube Radio PRFM 107,5 News Channel"
-    },
-    {
-     "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=k1X_hUjP-8I",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     1,
      0
     ],
     "w": [
      1,
-     22,
-     20
+     20,
+     17
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
@@ -359,17 +353,17 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ],
     "g": [
-     3,
      4,
      4,
      3,
      5,
      0,
-     1
+     1,
+     0
     ]
    }
   },
@@ -389,16 +383,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk1RdWdxdG9XYlFObnRRcWtKQVh6WXY0OHVmOEc3Z3R0ckJ0R1FXQlhhaFYtNTNMaDJvaS1tM252ZDd3Mml0X2JodC1RbVZJSmpFWDF3R2RVSXlYbjBUdkU2Z29lSjhhaThxTjVlaC1vUG9lNkE2aUxvSExzcUIwVnRfOXp1RXF1eE9OX0Q5TllOc1dpbW1xVXpZcmY4dWZtX0tyanozTGZGZUFXVXljYkpQYkdxNE1CdnVQWnJ6XzMtcVVkV0xsVnYtYTVhSVRySGc?oc=5",
+     "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmdFSktKaWdqQU9TTUlUMHBLTlNicURlY2ZndkpWaUVyME1GMkhoZXBnME5YX1I1d1pnY0pHR3M5SnptSFZYLWRYd1NHNVFIZV8zRHFqd3l5bnV1VE1oVUY3MVlUa2ZmWDN6ZXFuUTY5bEhNNGZqOEZ5a2hhckcxZkxmNmlIbnRxQ2dvWEE5Z0syZUZDOWJpQ1p3bHdlUFFUd0xyQVotdzgzRkRrTmxPS0g4ckR3QlFaSnBOYnRoUExaZVJvRlAyU2tLdnRMcFNvWW9Z?oc=5",
      "r": "Kompas.com"
     },
     {
-     "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
+     "t": "Pemkab Bandung memetakan kebutuhan pompa portabel antisipasi banjir - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXNjMVg3N0NmaUlsalJmVkVMenNyekFwRWozblFCc1FhekowY0ZWcWtmMG5hN3M0NWtUaHRmRFlxRXU4WkczTk55eF9hbXl5ZmlZXzBLY19iUGtnd2NEeXpET0w1UVgxNlk4VWVESEotV1hLejZsR0d1UFQzb1A5Zmh6VzU2TGFwMlY4Ymw5M0txYnpRUDVHX2FtWHl0VTNmaDllT3NVbE15aXNFdUgzaUtqczFHV0VxWFJWRXQ4X3JzVUZ1MHYw?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU4OE1zdUduTFQ5dlJEWWJyUktyb2RnSHQzUnJXc2JwcVNyeTNpMVNJNjREMThJMGF2MjMtUEFUaWw2Y3Y5V0xGSjAwcmRaRFBPYmpBOWdkb1lWc19pbWN4TEtOU0oyTTVkSWVWVG1GUXVWcEFvenhIUU53aHI3YkJHWWFQSFFXTWRhTTNxcWc5Ulg5ZTRSajlvXzJrV2FYVTVFdDhHaW1DaTJvVkxZ0gG0AUFVX3lxTE10YUtxMi1EVUQ1LUY3TzkzUXJ2U3k2djRmV2lzYW9FZWU5d3pYRVBPUnNERFFqSnItZ2Y1NEJha0hZWHBKb2h2UXBOcGs1MGlVbmtveXhzMEpZSkN2b2g2ekdPYnNnWExkMHJYZnV6ZDZqMml2TDNaTFFXeURpeVBKblZVc1gwR1A3Ny0wWDh3WXR4ZUdib1JndFV5ZDAtaTN5T3RNak9BVC1sQUo4eGVwV21WdQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -421,37 +415,37 @@
     ],
     "w": [
      1,
-     8,
-     20
+     7,
+     19
     ]
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
-     0,
      1,
      0,
      1,
+     0,
      0,
      0
     ],
     "g": [
-     0,
      3,
      2,
      2,
      8,
+     4,
      5,
-     5
+     0
     ]
    }
   },
@@ -498,7 +492,7 @@
    "v": {
     "s": [
      0,
-     3,
+     2,
      0
     ],
     "w": [
@@ -509,20 +503,20 @@
    },
    "trend": {
     "d": [
-     "Kam",
      "Jum",
      "Sab",
      "Min",
      "Sen",
      "Sel",
-     "Rab"
+     "Rab",
+     "Kam"
     ],
     "p": [
      0,
-     0,
      1,
      0,
      1,
+     0,
      0,
      0
     ],
@@ -531,8 +525,8 @@
      0,
      0,
      0,
-     0,
      2,
+     0,
      0
     ]
    }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:43:44.590581+07:00",
+ "updated": "2026-11-04T23:43:09.115676+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -11,20 +11,20 @@
    28
   ],
   [
-   "Ayo Bandung",
-   26
-  ],
-  [
    "RRI.co.id",
    25
   ],
   [
+   "Ayo Bandung",
+   23
+  ],
+  [
    "Kompas.com",
-   20
+   21
   ],
   [
    "PPID Kab. Bandung",
-   14
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -32,7 +32,7 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   7
+   6
   ],
   [
    "jabarekspres.com",
@@ -85,40 +85,40 @@
      "r": "Pojoksatu"
     },
     {
-     "t": "REKAP PERMOHONAN INFORMASI DI APLIKASI SIDAPIN DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZjg4Tmo1TjcxNXAwcGJqZklQcTBWMXFSWjBPMjU3UHV2Ym56d05QNGJweTBDb3NqOTgydUJIZUFSTEdhdEM0a29rM205dFRlcVlZVWVxSnJHN2JpRFB1dldSZHBYbTUwZkRudndTcXlCSFNfOWY0dFRLTUkwWUNWQUhONWVDZHU1UEFxWnIxaExtMy1lQkNkMWdxNXNSNEV4ZXk2bkU1VDZfVnlVLVB3dFNJbU5fUWNMcHNkYURsdm5GSnEwRlk0eXdJWHZTc1RqeGVDNG82THlfZml6RGo5OG5nNDJSZw?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "Modal MUA Tanpa Bunga Rp10 Juta dari Bupati KDS Siap Tangkal Bank Emok di Majalaya - Harapan Rakyat",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3lGTFJ3MTJZYTExSld0MXlBNEY3Q0NmVm1QNTdXenktZ1BIeVowTUtPakhkdFlxY3llMjJLV0puVC1BQ2ZNMVkwWWpZNGpoeTlfb0VPakdwZjl5NWh4SWxWaWJycGJidHI1Q2R0LWM4eU42VnVnSXFSb1l1U2E2cktMaWtfYzVRenhRQTU3U1ZLQlJDZUtV?oc=5",
      "r": "Harapan Rakyat"
     },
     {
-     "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
+     "t": "Reklame Ilegal Menjamur di Kabupaten Bandung, Penindakan Tunggu Hasil Pengawasan - Inilahkoran.id",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=dnhEfeP7ptE",
-     "r": "YouTube Kompas1"
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmxuRmJQdUlLbjl6S003RGhwMEQwNnVDVmNSdktDejdOZFFuSVk3ai1JbVRnV2VXd05DdTd0bC16WFM1SXJZQjhid0VfdTA0TUJiRnkwcjNLRlBURmJDcGxYdjZIOENzZDN6WGFJRnBJYktfUm12X2xtSW5NY3h5U0UtdWk4dGV5LVJYN3JsVS1rTTgzSFR6dUJITF9ZS09DRFlfNHlKN2ZVdw?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
+     "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=sWQMXRfoGG4",
+     "r": "YouTube INSAN RAHMAN"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=JW0pRQbjN2U",
+     "u": "https://www.youtube.com/watch?v=dnhEfeP7ptE",
      "r": "YouTube Kompas1"
     }
    ],
    "v": {
     "s": [
      1,
-     3,
+     4,
      1
     ],
     "w": [
      8,
      36,
-     3
+     2
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      0,
      1,
-     2,
+     1,
      1
     ]
    }
@@ -257,7 +257,7 @@
     ],
     "w": [
      5,
-     17,
+     16,
      4
     ]
    },
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     23,
-     22
+     22,
+     20
     ]
    },
    "trend": {
@@ -363,8 +363,8 @@
      1
     ],
     "g": [
+     3,
      4,
-     5,
      4,
      3,
      5,
@@ -383,16 +383,16 @@
    ],
    "h": [
     {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk1RdWdxdG9XYlFObnRRcWtKQVh6WXY0OHVmOEc3Z3R0ckJ0R1FXQlhhaFYtNTNMaDJvaS1tM252ZDd3Mml0X2JodC1RbVZJSmpFWDF3R2RVSXlYbjBUdkU2Z29lSjhhaThxTjVlaC1vUG9lNkE2aUxvSExzcUIwVnRfOXp1RXF1eE9OX0Q5TllOc1dpbW1xVXpZcmY4dWZtX0tyanozTGZGZUFXVXljYkpQYkdxNE1CdnVQWnJ6XzMtcVVkV0xsVnYtYTVhSVRySGc?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
@@ -422,7 +422,7 @@
     "w": [
      1,
      8,
-     19
+     20
     ]
    },
    "trend": {
@@ -450,7 +450,7 @@
      2,
      2,
      8,
-     4,
+     5,
      5
     ]
    }
@@ -483,28 +483,28 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=Qsx6_JGmRuQ",
+     "r": "YouTube Ths Chanel TV "
+    },
+    {
      "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=QqKB3rocnOc",
      "r": "YouTube SMP Negeri 2 Banjaran Kabupaten Bandung"
-    },
-    {
-     "t": "Jaksa Masuk Sekolah! Pesan Keras untuk Pelajar soal Bullying dan Medsos",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=k1X_hUjP-8I",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      0
     ],
     "w": [
      2,
-     17,
-     3
+     18,
+     2
     ]
    },
    "trend": {
@@ -529,7 +529,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      2,

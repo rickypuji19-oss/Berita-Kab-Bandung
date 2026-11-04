@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:39:47.456466+07:00",
+ "updated": "2026-11-05T05:37:40.635048+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   29
   ],
   [
    "Ayo Bandung",
-   25
+   24
   ],
   [
    "RRI.co.id",
@@ -20,11 +20,11 @@
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "PPID Kab. Bandung",
-   13
+   14
   ],
   [
    "ANTARA News Jawa Barat",
@@ -32,14 +32,14 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   6
-  ],
-  [
-   "jabarekspres.com",
-   5
+   7
   ],
   [
    "Inilahkoran.id",
+   4
+  ],
+  [
+   "jabarekspres.com",
    4
   ],
   [
@@ -59,12 +59,12 @@
    2
   ],
   [
-   "Pikiran-Rakyat.com",
+   "Radar Bandung",
    2
   ],
   [
-   "Radar Bandung",
-   2
+   "Tribuntipikor Online",
+   1
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "110 Bangunan Liar Dibongkar di Baleendah, Normalisasi Irigasi Berlanjut - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Dialog Forum Tokoh Masyarakat Lintas Sektor Kecamatan Soreang 2026, Ketua DPRD Renie Rahayu Fauzi Serap Aspirasi melalui Rebo Keliling (Boling) - Tribuntipikor Online",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSmZSVHQ0QXB1SHgxVkczdXRLVDFFRmdnams0anRpWWVoZ0pCQTFsYmU5U2FVM0JfLVMwNGdRcHA0Vl9jNHY3RWhmaXNPOWxlSHp4SWRVUmNlV20tY05lbGNDX0pCMm92Y0N3TE5sWkpoVDRtRm44T1dwRFppME9EZy1FMGNLZmpWdU5SS2UxZE1WNnlBcDRXeDc1NzhSRjBxcWZ1cmdnN0hzMk92OHhNcHRqYWp1OVNuSmZZN1J6cHM5WGVrb0Fza1FpRy11RkpSWkp1RTJydjRNRTZIZ1d5ZWhkalhrWmE2bkFoQThVQVlpRDZiVGRNZE5QWDYxcVVHXzd1bHRDNXpxdw?oc=5",
      "r": "Tribuntipikor Online"
     },
     {
-     "t": "Modal MUA Tanpa Bunga Rp10 Juta dari Bupati KDS Siap Tangkal Bank Emok di Majalaya - Harapan Rakyat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3lGTFJ3MTJZYTExSld0MXlBNEY3Q0NmVm1QNTdXenktZ1BIeVowTUtPakhkdFlxY3llMjJLV0puVC1BQ2ZNMVkwWWpZNGpoeTlfb0VPakdwZjl5NWh4SWxWaWJycGJidHI1Q2R0LWM4eU42VnVnSXFSb1l1U2E2cktMaWtfYzVRenhRQTU3U1ZLQlJDZUtV?oc=5",
-     "r": "Harapan Rakyat"
-    },
-    {
-     "t": "Reklame Ilegal Menjamur di Kabupaten Bandung, Penindakan Tunggu Hasil Pengawasan - Inilahkoran.id",
+     "t": "REKAP PERMOHONAN INFORMASI DI APLIKASI SIDAPIN DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmxuRmJQdUlLbjl6S003RGhwMEQwNnVDVmNSdktDejdOZFFuSVk3ai1JbVRnV2VXd05DdTd0bC16WFM1SXJZQjhid0VfdTA0TUJiRnkwcjNLRlBURmJDcGxYdjZIOENzZDN6WGFJRnBJYktfUm12X2xtSW5NY3h5U0UtdWk4dGV5LVJYN3JsVS1rTTgzSFR6dUJITF9ZS09DRFlfNHlKN2ZVdw?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZjg4Tmo1TjcxNXAwcGJqZklQcTBWMXFSWjBPMjU3UHV2Ym56d05QNGJweTBDb3NqOTgydUJIZUFSTEdhdEM0a29rM205dFRlcVlZVWVxSnJHN2JpRFB1dldSZHBYbTUwZkRudndTcXlCSFNfOWY0dFRLTUkwWUNWQUhONWVDZHU1UEFxWnIxaExtMy1lQkNkMWdxNXNSNEV4ZXk2bkU1VDZfVnlVLVB3dFNJbU5fUWNMcHNkYURsdm5GSnEwRlk0eXdJWHZTc1RqeGVDNG82THlfZml6RGo5OG5nNDJSZw?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -118,7 +118,7 @@
     "w": [
      8,
      37,
-     3
+     2
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      1,
-     2,
+     1,
      1,
      0
     ]
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     4,
-     16,
+     5,
+     15,
      3
     ]
    },
@@ -203,7 +203,7 @@
     ],
     "p": [
      2,
-     1,
+     2,
      0,
      0,
      0,
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     6,
+     7,
      14,
      4
     ]
@@ -274,7 +274,7 @@
     "p": [
      2,
      1,
-     0,
+     1,
      1,
      1,
      1,
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     20,
-     16
+     19,
+     14
     ]
    },
    "trend": {
@@ -358,8 +358,8 @@
     ],
     "g": [
      5,
-     3,
-     3,
+     2,
+     2,
      4,
      0,
      1,
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "110 Bangunan Liar Dibongkar di Baleendah, Normalisasi Irigasi Berlanjut - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
@@ -387,12 +393,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmdFSktKaWdqQU9TTUlUMHBLTlNicURlY2ZndkpWaUVyME1GMkhoZXBnME5YX1I1d1pnY0pHR3M5SnptSFZYLWRYd1NHNVFIZV8zRHFqd3l5bnV1VE1oVUY3MVlUa2ZmWDN6ZXFuUTY5bEhNNGZqOEZ5a2hhckcxZkxmNmlIbnRxQ2dvWEE5Z0syZUZDOWJpQ1p3bHdlUFFUd0xyQVotdzgzRkRrTmxPS0g4ckR3QlFaSnBOYnRoUExaZVJvRlAyU2tLdnRMcFNvWW9Z?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -415,7 +415,7 @@
     ],
     "w": [
      1,
-     7,
+     9,
      20
     ]
    },
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     2,
+     1,
      15,
-     3
+     2
     ]
    },
    "trend": {
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      0,
@@ -522,7 +522,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      2,

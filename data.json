@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T09:37:49.046822+07:00",
+ "updated": "2026-11-04T10:39:01.255665+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,23 +12,19 @@
   ],
   [
    "Ayo Bandung",
-   26
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   25
-  ],
-  [
-   "Kompas.com",
-   25
+   30
   ],
   [
    "RRI.co.id",
+   21
+  ],
+  [
+   "Kompas.com",
    20
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   10
   ],
   [
    "Pikiran Rakyat Koran",
@@ -39,32 +35,36 @@
    7
   ],
   [
+   "Pemerintah Kabupaten Bandung",
+   5
+  ],
+  [
    "Radar Bandung",
    5
+  ],
+  [
+   "Inilahkoran.id",
+   4
+  ],
+  [
+   "Ketik",
+   4
+  ],
+  [
+   "Koran Gala",
+   4
   ],
   [
    "detikcom",
    4
   ],
   [
-   "Inilahkoran.id",
-   3
-  ],
-  [
    "Antarwaktu.com",
    3
   ],
   [
-   "Ketik",
-   2
-  ],
-  [
-   "Jurnal Soreang",
-   2
-  ],
-  [
-   "Gerbang Patriot",
-   2
+   "bandungraya.net",
+   3
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "PROGRAM DAN KEGIATAN DINAS SOSIAL KABUPATEN BANDUNG TAHUN 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2xDV0RyTkxPUVRqVG9ILWpMU20zeHhvUjJNdEI2engyeVpvYUw3MVI0OG43TmpzdHJUcktHTERLRlB5QzJSRjhGM1pQaWZscXphMW5qalVqMHZZVkVFcVFyTTFkWUNpS1ZON0l2YWtTNDhwTHJaTEpjVnhZaldkZzNENFMzUWxfZDQ3cTYtWDZ3TnpMcFFKTkp6T3oyWF9oYTJFLWlZRVJiUWs?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
+     "t": "Warga Tolak Revitalisasi Taman Fitnes Bandung, Farhan Pertimbangkan Perkecil Area Skatepark - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE9IcjJrc3dWdkxPTTNaQ09PNlk3aVBsY0l1dThqaVNfVmN5YldaREZ2SC1NNXd3TUpKbWdmSEZtQUFZNS11N0ZTRjNsQmFYQU1tX2VJcUt6elBoUGw2N2lqeXRDeENoSGVab1dTeEtHeFdEblpqSjU1d3A0UXcxbnBJSXBZd2o4NGVwREsxQnVqVi1nMjZOR0h0cU9zbnFJa0NPdjdXempBaFN3dU5tSkFtZkNUcjF1eWNkelRHOWR2YmlNVU5WemlWVXVHQdIB0wFBVV95cUxOUGZIR1FHTDZUT29DUC1JRVN0bVRrVzRUR3hqWVl6OXUzejR0LUpjZDJiVDI2cjlhR1FZWjVQLUJoV0lsMU5rWm1Kd2lCTUJSUlBDc1RUYnJQVkFiak5OdUdPd194c1Z4bTZfZUs1djJKcUZxTk44OHdaWk1zZ1NqOHNVTlA3STF5aEM1b0tsWGpxcms0clFBeFlNQVRCMmE1emREbW1pWldubGxfYzVGNkx0SF90eHFINE9naE12dmM4S1E4MGNNUWlyZnFOUzk3RnJV?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Pemkab Bandung Dorong TJSL Korporasi Lindungi Pekerja Rentan - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS29pMlZ5Y0FjWV9MMjVLOWtrcEl2VU1VdjFQbF9hWDlaYU55SXZCVVo5SU54a3VRSHVrZUxpOUlNTXdienByaUtqMWZSY2JPd2dzZ2t2WTFKa2QyNzJLa2tCVkR5TFozOHVKR0pmZ0N0VUowcHlCN3pHRWdBdjBCN3Z6XzhmSzVSX3hzaVA1V3dfbDdxS2ZDMkY0VVpaTy1wTjFveGszVmtEQUx5Y0R6OV93Um5BZDg?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Bupati Bandung dan Bea Cukai Musnahkan Rokok Ilegal Senilai Rp1,7 Miliar - republika.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkhOVWktSXlDOU8xeVZDZlZXY0tOZVJRTG5iWDNJQmVlLWVyTDJvUGJSV09DbVNTSldfdzZCZHVNYUVSeklUQU9MMlE2cGRwYnNTbEh0cEU1U1E5TlpabDZ4cTE1bFM5VE1LVTlRQ2JrT2V0eUN4ejlRbFB4dUtQdUd6bTY4UkhHMDROcG5rUlNUQ1dKZVdrSWxTY1hFVGc1TWIwaGE2ZmZnOGp0WVg0R1RuNU5NZ0c1Q2xRTw?oc=5",
-     "r": "republika.co.id"
-    },
-    {
-     "t": "BUKTI KELULUSAN - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oTTRjd2hhUEZjUUFBV0J3cEVUSHNteVlOYllEOXNMMHlEU25wVk1MdU5aX0dqYTZuZGxkZVVOcVRIWnJKd09GNWJVdlVwWGRDeGpBX0hKT0k2dG4yckdETUFrUU5rSWpZSUYzZHNGY25URmVZMGJxdA?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
     },
     {
      "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     9,
-     43,
+     14,
+     31,
      5
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     8,
+     13,
      1
     ],
     "g": [
@@ -231,9 +231,15 @@
    ],
    "h": [
     {
+     "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdXVjZUFhMnE4NzdTUHNLcmpTMVZfZTNLZGJ5WXdxUEo0NHRJdnJabXZVS29IRmhqRThOdEc2SFpiOWtPNWdrcE9kY2pnSXU3YnpCY2hzV0M3anRXUGdUcHNOTXhEUGEzT2V4cXVmcXgtM3p0alNPMm54M0ktNzJlemxReVBuci1aUHRLR3hmVVVYRW0wTW1jNFhvSG9NbEM1S20xVGIwS1E4LXp3RVhaVHlFVmdrd25ZbnVRTWJsZWJxUEVaaTdyS29QNW1TdkxnVE04ZVMyOTM5cWpIV3BrdHhvZWlRUU9ySVpaek14ejdLcVpkT2pnZ3JxU0NiTG85VVpIVjBMRElPVENBR05Tdld2eTRLUjZfYnJGZ25rMHdUY25tZzh3eGFibnZCSGNNelVJ?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Berita UMKM Bandung: Peluang Bisnis, Tips, dan Sukses Usaha Kecil Bandung - RRI.co.id",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vWHpBdFJYeEI5WXlYUHhYRjFJS2V5RHBXZnViWXhGMC1IZk13ejg2Z1RnbWpIbzlINDk5T2hkTTc0WkVYRjhaakstWV9SV0tnQ2xOZEFuYl9DcUhrQzlB?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wU3Q5MFBWQnlUVzViMkJFV1EyRDNTbDU1ZEpvbUw0X0M0VjZmVW1xZlV6cEZzbHdLdklMZmxfcnMxVkJMRkNoRHdwaG45Sk9Ld1NlOXh1amRXWnlrUUtJ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS29KZ1AzSVZ3VUd6Q0ZqOWk0cnV3Mk1Fa2dCekh1V1otMnZWbDRmSkRoOG15NEliQm1RbUVZdEY2bnlaUVhKR1ZUUDNwRHduZFRfbXFreUJmYWdKc25ISHMwb2VzMkgzRFpMTHJqcC12dVFVY2xrZ0ZzY0tPOXM2MUlEdTEycG1oWWdhdjNn?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Serap Rp189 Triliun, Kredit UMKM Jawa Barat Sabet Peringkat Tiga Nasional - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2ZBZFF6LXpFMlNmbTAwWlBsakduajlIT3NtNzdyRnFMWXpDYUFOSEZhR3JjRW45WjhwS2Z2SElGQlBaMXpBUmdXNVIxVkpuWUY2ejRvQldyR1NCVHdlSlRtT3BQbElheG9EaGJGTU1Xd0U0N3VwOUM5aU0zRG5MNDM3a25iZlAxOVV5alZ0OGNVVTZNLUl5UHhZTVJzMlhYNWpiU1E2RVBxTk43X3hQdkRqbVZsYThRSzZXTW9VTmPSAcYBQVVfeXFMTVhVdVprVmdBRjBLa045VkFtc1NxVnZDSkgySXpfczNtSVppY1NMYnZKSFpndnQ4d01HUmdqVGNoYUdKc1poaURqWHpNTG8yaXJqU0c4T2tjWm00QVNickVVLTJNeTZRczZVcmlnSDZXU3NYM2xMaTRlN2dYaGRZXzEwOVJRdC1Kcm14UUd2R0I5bElfZWQ4UThwNzU4VzFWYjhKMG9fLW1MNDZ6UHRoQmp4QjhXYzl3ZWtzaFdfc2RsUjdVdnpR?oc=5",
-     "r": "Ayo Bandung"
     }
    ],
    "v": {
@@ -257,8 +257,8 @@
     ],
     "w": [
      10,
-     14,
-     5
+     15,
+     4
     ]
    },
    "trend": {
@@ -282,7 +282,7 @@
     ],
     "g": [
      0,
-     3,
+     2,
      0,
      0,
      1,
@@ -340,7 +340,7 @@
     "w": [
      0,
      20,
-     26
+     22
     ]
    },
    "trend": {
@@ -363,8 +363,8 @@
      0
     ],
     "g": [
-     7,
-     6,
+     4,
+     5,
      4,
      4,
      5,
@@ -421,7 +421,7 @@
     ],
     "w": [
      1,
-     8,
+     7,
      19
     ]
    },
@@ -447,9 +447,9 @@
     "g": [
      0,
      3,
-     2,
      3,
-     9,
+     3,
+     8,
      7,
      0
     ]
@@ -465,21 +465,21 @@
    ],
    "h": [
     {
+     "t": "Rp159 Juta Kembali ke Kas - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
+     "r": "Inilahkoran.id"
+    },
+    {
      "t": "Berita dan Informasi perlindungan kesehatan masyarakat Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqN0Z3b29kNkhHYUxrTVBTeGpwNjFDcWxZNWhtX0oxcUU2N2dWVE5yRWdFOTJld3M0eGQ2Rm1OU1BJWDV5ejZTaXVfOWVQMHdlXzYxUGk0U21oenI3XzdwSEVqcWxCay10YVB1cUtra2NhT2Jn?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Mahasiswa Penerima Beasiswa UIN Bandung Jadi Tersangka Demo, Tangis Ibu Pecah Harap Keadilan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0xPWWlRRkV4ZUFMMGh3cC1iZU91R2RIZmV6bXhLdjV6c3R1XzczWEhrX1JXdlpJaXpkdmRMZXRJWWJWa3FEUjQ5c0hQeElNWTRmcUF1cUVjZDNSclo2cnpsX0ViV0xKM3VGVUJjd0VWRnVsY3VHanlYX3ZKbHUtSTh5dl9pVm56dnRaS0Y3VG9rT19pWkduVjVVZHdnZUQtLXd5Y09uS2lBZmFSSEd4ZTdId1RvcVZRLW1VcmxQdzM1VENvU0NQTmRQaWdrVGhpSkNrRkdPNndOdw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Rail Clinic KAI Layani Kesehatan Gratis Warga Rancaekek - RRI.co.id",
+     "t": "Berita dan Informasi percepat penurunan stunting Terkini dan Terbaru Hari Ini - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRmdGt0LTJ6cjYxNFczR1FQbm9tSlB0VHFzdVFmVDVTSmwzcTlKZTFrdjJ6My1DRmFjQTE3VF9xZEMyN0tTLW0zYU9yNlZwNGY4Z1lUdXBoYXNEZGd5dW1tZkZtQkhHOERURUxRbFlBMXFlMmtsdnFORjdZTHRIa2lEaVpzWXBsTDhpMDR3X3JPWUNIcGVKMGFhd3JFWEpI?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZHJfbW1wQVpPRlQ1OGVjb1paT2MtNGdOSkVoLV9WdnkzY09XRWtGcnZkeGdNS3dZdEtOcVlGa1cwWFl6V1gzT0MtSGx1UWNqTEVCemhOUHlkc25uNTJmQWo3VHpOTTZJ?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -503,7 +503,7 @@
     ],
     "w": [
      2,
-     20,
+     22,
      4
     ]
    },

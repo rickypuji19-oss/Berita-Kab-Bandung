@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:46:43.218373+07:00",
+ "updated": "2026-11-05T03:40:12.209386+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   28
+  ],
+  [
+   "Ayo Bandung",
+   24
   ],
   [
    "RRI.co.id",
    23
   ],
   [
-   "Ayo Bandung",
-   22
-  ],
-  [
    "Kompas.com",
-   17
+   18
   ],
   [
    "PPID Kab. Bandung",
@@ -91,10 +91,10 @@
      "r": "Pojoksatu"
     },
     {
-     "t": "REKAP PERMOHONAN INFORMASI DI APLIKASI SIDAPIN DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZjg4Tmo1TjcxNXAwcGJqZklQcTBWMXFSWjBPMjU3UHV2Ym56d05QNGJweTBDb3NqOTgydUJIZUFSTEdhdEM0a29rM205dFRlcVlZVWVxSnJHN2JpRFB1dldSZHBYbTUwZkRudndTcXlCSFNfOWY0dFRLTUkwWUNWQUhONWVDZHU1UEFxWnIxaExtMy1lQkNkMWdxNXNSNEV4ZXk2bkU1VDZfVnlVLVB3dFNJbU5fUWNMcHNkYURsdm5GSnEwRlk0eXdJWHZTc1RqeGVDNG82THlfZml6RGo5OG5nNDJSZw?oc=5",
-     "r": "PPID Kab. Bandung"
+     "t": "Modal MUA Tanpa Bunga Rp10 Juta dari Bupati KDS Siap Tangkal Bank Emok di Majalaya - Harapan Rakyat",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3lGTFJ3MTJZYTExSld0MXlBNEY3Q0NmVm1QNTdXenktZ1BIeVowTUtPakhkdFlxY3llMjJLV0puVC1BQ2ZNMVkwWWpZNGpoeTlfb0VPakdwZjl5NWh4SWxWaWJycGJidHI1Q2R0LWM4eU42VnVnSXFSb1l1U2E2cktMaWtfYzVRenhRQTU3U1ZLQlJDZUtV?oc=5",
+     "r": "Harapan Rakyat"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     36,
+     38,
      2
     ]
    },
@@ -187,7 +187,7 @@
     ],
     "w": [
      6,
-     15,
+     14,
      3
     ]
    },
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      15,
      4
     ]
@@ -276,7 +276,7 @@
      1,
      0,
      1,
-     0,
+     1,
      1,
      0
     ],
@@ -391,7 +391,7 @@
     {
      "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmdFSktKaWdqQU9TTUlUMHBLTlNicURlY2ZndkpWaUVyME1GMkhoZXBnME5YX1I1d1pnY0pHR3M5SnptSFZYLWRYd1NHNVFIZV8zRHFqd3l5bnV1VE1oVUY3MVlUa2ZmWDN6ZXFuUTY5bEhNNGZqOEZ5a2hhckcxZkxmNmlIbnRxQ2dvWEE5Z0syZUZDOWJpQ1p3bHdlUFFUd0xyQVotdzgzRkRrTmxPS0g4ckR3QlFaSnBOYnRoUExaZVJvRlAyU2tLdnRMcFNvWW9Z?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXNjMVg3N0NmaUlsalJmVkVMenNyekFwRWozblFCc1FhekowY0ZWcWtmMG5hN3M0NWtUaHRmRFlxRXU4WkczTk55eF9hbXl5ZmlZXzBLY19iUGtnd2NEeXpET0w1UVgxNlk4VWVESEotV1hLejZsR0d1UFQzb1A5Zmh6VzU2TGFwMlY4Ymw5M0txYnpRUDVHX2FtWHl0VTNmaDllT3NVbE15aXNFdUgzaUtqczFHV0VxWFJWRXQ4X3JzVUZ1MHYw?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -465,16 +465,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Apel Siaga Bencana, Bupati : Ancaman Bencana Hidrometeorologi Basah - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDd5TGt4Z1h6UUF6aXZQYU1rMzE2ak93Um43Ujljb2xIbWYzbUVuTkZDY2VKRzZEcmlTRjNDRnk0bV84SU5wekRGaHU0SVlUb1lPcEs1OF83QTlTWjZTUTdac1c4bWdpTXJ2OU9pR3EyRGJEUFo3eFdfeHFTSFpOMVpKSldqNTNGTjc1djdnenBpZW0zSVFpSXB6cnVjUlpQR1R4YzdJRGF6Qmc?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Rp159 Juta Kembali ke Kas - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     1,
-     17,
+     2,
+     16,
      2
     ]
    },
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      0,

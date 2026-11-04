@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:42:05.749043+07:00",
+ "updated": "2026-11-05T02:46:43.218373+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,23 +8,23 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
+   29
   ],
   [
    "RRI.co.id",
-   24
-  ],
-  [
-   "Ayo Bandung",
    23
   ],
   [
+   "Ayo Bandung",
+   22
+  ],
+  [
    "Kompas.com",
-   18
+   17
   ],
   [
    "PPID Kab. Bandung",
-   13
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,6 +47,10 @@
    4
   ],
   [
+   "Pojoksatu",
+   2
+  ],
+  [
    "Antarwaktu.com",
    2
   ],
@@ -60,10 +64,6 @@
   ],
   [
    "Pikiran-Rakyat.com",
-   2
-  ],
-  [
-   "Radar Bandung",
    2
   ]
  ],
@@ -91,10 +91,10 @@
      "r": "Pojoksatu"
     },
     {
-     "t": "Modal MUA Tanpa Bunga Rp10 Juta dari Bupati KDS Siap Tangkal Bank Emok di Majalaya - Harapan Rakyat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3lGTFJ3MTJZYTExSld0MXlBNEY3Q0NmVm1QNTdXenktZ1BIeVowTUtPakhkdFlxY3llMjJLV0puVC1BQ2ZNMVkwWWpZNGpoeTlfb0VPakdwZjl5NWh4SWxWaWJycGJidHI1Q2R0LWM4eU42VnVnSXFSb1l1U2E2cktMaWtfYzVRenhRQTU3U1ZLQlJDZUtV?oc=5",
-     "r": "Harapan Rakyat"
+     "t": "REKAP PERMOHONAN INFORMASI DI APLIKASI SIDAPIN DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZjg4Tmo1TjcxNXAwcGJqZklQcTBWMXFSWjBPMjU3UHV2Ym56d05QNGJweTBDb3NqOTgydUJIZUFSTEdhdEM0a29rM205dFRlcVlZVWVxSnJHN2JpRFB1dldSZHBYbTUwZkRudndTcXlCSFNfOWY0dFRLTUkwWUNWQUhONWVDZHU1UEFxWnIxaExtMy1lQkNkMWdxNXNSNEV4ZXk2bkU1VDZfVnlVLVB3dFNJbU5fUWNMcHNkYURsdm5GSnEwRlk0eXdJWHZTc1RqeGVDNG82THlfZml6RGo5OG5nNDJSZw?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -117,7 +117,7 @@
     ],
     "w": [
      8,
-     35,
+     36,
      2
     ]
    },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     5,
-     14,
+     6,
+     15,
      3
     ]
    },
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
      0,
@@ -257,7 +257,7 @@
     ],
     "w": [
      5,
-     16,
+     15,
      4
     ]
    },
@@ -334,7 +334,7 @@
     "w": [
      1,
      20,
-     17
+     16
     ]
    },
    "trend": {
@@ -360,7 +360,7 @@
      5,
      3,
      3,
-     5,
+     4,
      0,
      1,
      0
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
@@ -387,12 +393,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmdFSktKaWdqQU9TTUlUMHBLTlNicURlY2ZndkpWaUVyME1GMkhoZXBnME5YX1I1d1pnY0pHR3M5SnptSFZYLWRYd1NHNVFIZV8zRHFqd3l5bnV1VE1oVUY3MVlUa2ZmWDN6ZXFuUTY5bEhNNGZqOEZ5a2hhckcxZkxmNmlIbnRxQ2dvWEE5Z0syZUZDOWJpQ1p3bHdlUFFUd0xyQVotdzgzRkRrTmxPS0g4ckR3QlFaSnBOYnRoUExaZVJvRlAyU2tLdnRMcFNvWW9Z?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Pemkab Bandung memetakan kebutuhan pompa portabel antisipasi banjir - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU4OE1zdUduTFQ5dlJEWWJyUktyb2RnSHQzUnJXc2JwcVNyeTNpMVNJNjREMThJMGF2MjMtUEFUaWw2Y3Y5V0xGSjAwcmRaRFBPYmpBOWdkb1lWc19pbWN4TEtOU0oyTTVkSWVWVG1GUXVWcEFvenhIUU53aHI3YkJHWWFQSFFXTWRhTTNxcWc5Ulg5ZTRSajlvXzJrV2FYVTVFdDhHaW1DaTJvVkxZ0gG0AUFVX3lxTE10YUtxMi1EVUQ1LUY3TzkzUXJ2U3k2djRmV2lzYW9FZWU5d3pYRVBPUnNERFFqSnItZ2Y1NEJha0hZWHBKb2h2UXBOcGs1MGlVbmtveXhzMEpZSkN2b2g2ekdPYnNnWExkMHJYZnV6ZDZqMml2TDNaTFFXeURpeVBKblZVc1gwR1A3Ny0wWDh3WXR4ZUdib1JndFV5ZDAtaTN5T3RNak9BVC1sQUo4eGVwV21WdQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -415,7 +415,7 @@
     ],
     "w": [
      1,
-     6,
+     7,
      19
     ]
    },
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     2,
+     1,
      17,
      2
     ]
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:40:12.209386+07:00",
+ "updated": "2026-11-05T04:39:47.456466+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -12,19 +12,19 @@
   ],
   [
    "Ayo Bandung",
-   24
+   25
   ],
   [
    "RRI.co.id",
-   23
+   22
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "PPID Kab. Bandung",
-   15
+   13
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,10 +47,6 @@
    4
   ],
   [
-   "Pojoksatu",
-   2
-  ],
-  [
    "Antarwaktu.com",
    2
   ],
@@ -64,6 +60,10 @@
   ],
   [
    "Pikiran-Rakyat.com",
+   2
+  ],
+  [
+   "Radar Bandung",
    2
   ]
  ],
@@ -85,16 +85,16 @@
      "r": "Tribuntipikor Online"
     },
     {
-     "t": "Kabar Baik Pekerja, Pemkab Bandung Siapkan Rumah Subsudi hingga Susun, Gandeng Forum HRD Rekrut Warga Lokal - Pojoksatu",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWjZFVTVMdnJQLWZVUXY5bk1MTXp6WV9BU3pGRDFTR3A1SDNUTC1McmdwNnhZX0xXUE9QNjhOQk1fa281emoxckRRWTY0UlV1cmJETXlfLXpuSzJFU0ZQSjZxTjcwUFBTa2RJS0Y1N0J0dUxXWDluakVheEJQV0tUd29Zc0QwQzcyUTBIc01hdVpkVXcxSUlyMXRlNy1iazdFdUhNVGdrTFktZ1ZjS1VINjZpcEUtSHo1Z244c29HNU5vczA3anhKVjFUVkpkNm8?oc=5",
-     "r": "Pojoksatu"
-    },
-    {
      "t": "Modal MUA Tanpa Bunga Rp10 Juta dari Bupati KDS Siap Tangkal Bank Emok di Majalaya - Harapan Rakyat",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3lGTFJ3MTJZYTExSld0MXlBNEY3Q0NmVm1QNTdXenktZ1BIeVowTUtPakhkdFlxY3llMjJLV0puVC1BQ2ZNMVkwWWpZNGpoeTlfb0VPakdwZjl5NWh4SWxWaWJycGJidHI1Q2R0LWM4eU42VnVnSXFSb1l1U2E2cktMaWtfYzVRenhRQTU3U1ZLQlJDZUtV?oc=5",
      "r": "Harapan Rakyat"
+    },
+    {
+     "t": "Reklame Ilegal Menjamur di Kabupaten Bandung, Penindakan Tunggu Hasil Pengawasan - Inilahkoran.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmxuRmJQdUlLbjl6S003RGhwMEQwNnVDVmNSdktDejdOZFFuSVk3ai1JbVRnV2VXd05DdTd0bC16WFM1SXJZQjhid0VfdTA0TUJiRnkwcjNLRlBURmJDcGxYdjZIOENzZDN6WGFJRnBJYktfUm12X2xtSW5NY3h5U0UtdWk4dGV5LVJYN3JsVS1rTTgzSFR6dUJITF9ZS09DRFlfNHlKN2ZVdw?oc=5",
+     "r": "Inilahkoran.id"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -117,8 +117,8 @@
     ],
     "w": [
      8,
-     38,
-     2
+     37,
+     3
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      1,
-     1,
+     2,
      1,
      0
     ]
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     6,
-     14,
+     4,
+     16,
      3
     ]
    },
@@ -202,8 +202,8 @@
      "Kam"
     ],
     "p": [
-     3,
      2,
+     1,
      0,
      0,
      0,
@@ -231,12 +231,6 @@
    ],
    "h": [
     {
-     "t": "DIP BAGIAN PEREKONOMIAN.xlsx - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak9mcVBJTTQ0OVI0TjF4OHBPeWt2eUNUODFvWE5wUm5xb0ppWTY0d05FT3ZJLVQ4Nkd0bTZ5TXcwT3dzVWNacHFma25wTVltQTI0MzdKeExsSTVzMjhfTDBWWExGRHNvM2x5RWw4VXR3OFBSS3cxNUd0c0EtNnRIVHRjY2RPeE92NHdpNUJFRU1JUnYzZzhGakM5bFVkeDNvWUZYWWVWUE8xVHlodGJIenpQUndfdkFSS0dZN3NCMlc?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
-    {
      "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelgxbEhKUW8zZ0JOa1psbUstSllhZDZtekttOFJoRm9iWTZPYm5GRVpIUUpCajRHODYyaHRjaHpZZlZXcER6UlU0Y2ZyNzJWRm94TW5mbWJhWHI2cjl3T3VGb2lIX0Vta2RGYTI0RVNmZXVvRUEyaHQzOGV1M0Y5NnFyemJUMG9TVTVSTVRsUDNhOWVWcU9VaUhTeGJDekZWR1BMVFdaUFRZdXBpVmc?oc=5",
@@ -247,6 +241,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1EwSFY1UDZDQ2YwUDFfLVM3N0pSVVcxQVZ1VDBFREkwbFJNWDJ4Tkc4b2lVTDVCaDl1VndHcncteUJUalZlOHNYLThVTGJBczVSaER6QTBXQTZzZFRQLUVXME1MdWtiNFdYeUFXRS1ITGlUMnpBck1sM19ZbElfcWJRZDN0TmF3S203QVctRmFMS0RoYVJQM2hiVS12bVQtTl95U0hjWUI1NFJfcEE?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdXVjZUFhMnE4NzdTUHNLcmpTMVZfZTNLZGJ5WXdxUEo0NHRJdnJabXZVS29IRmhqRThOdEc2SFpiOWtPNWdrcE9kY2pnSXU3YnpCY2hzV0M3anRXUGdUcHNOTXhEUGEzT2V4cXVmcXgtM3p0alNPMm54M0ktNzJlemxReVBuci1aUHRLR3hmVVVYRW0wTW1jNFhvSG9NbEM1S20xVGIwS1E4LXp3RVhaVHlFVmdrd25ZbnVRTWJsZWJxUEVaaTdyS29QNW1TdkxnVE04ZVMyOTM5cWpIV3BrdHhvZWlRUU9ySVpaek14ejdLcVpkT2pnZ3JxU0NiTG85VVpIVjBMRElPVENBR05Tdld2eTRLUjZfYnJGZ25rMHdUY25tZzh3eGFibnZCSGNNelVJ?oc=5",
+     "r": "PPID Kab. Bandung"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      6,
-     15,
+     14,
      4
     ]
    },
@@ -391,7 +391,7 @@
     {
      "t": "56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXNjMVg3N0NmaUlsalJmVkVMenNyekFwRWozblFCc1FhekowY0ZWcWtmMG5hN3M0NWtUaHRmRFlxRXU4WkczTk55eF9hbXl5ZmlZXzBLY19iUGtnd2NEeXpET0w1UVgxNlk4VWVESEotV1hLejZsR0d1UFQzb1A5Zmh6VzU2TGFwMlY4Ymw5M0txYnpRUDVHX2FtWHl0VTNmaDllT3NVbE15aXNFdUgzaUtqczFHV0VxWFJWRXQ4X3JzVUZ1MHYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmdFSktKaWdqQU9TTUlUMHBLTlNicURlY2ZndkpWaUVyME1GMkhoZXBnME5YX1I1d1pnY0pHR3M5SnptSFZYLWRYd1NHNVFIZV8zRHFqd3l5bnV1VE1oVUY3MVlUa2ZmWDN6ZXFuUTY5bEhNNGZqOEZ5a2hhckcxZkxmNmlIbnRxQ2dvWEE5Z0syZUZDOWJpQ1p3bHdlUFFUd0xyQVotdzgzRkRrTmxPS0g4ckR3QlFaSnBOYnRoUExaZVJvRlAyU2tLdnRMcFNvWW9Z?oc=5",
      "r": "Kompas.com"
     },
     {
@@ -416,7 +416,7 @@
     "w": [
      1,
      7,
-     19
+     20
     ]
    },
    "trend": {
@@ -443,7 +443,7 @@
      2,
      2,
      8,
-     4,
+     5,
      5,
      0
     ]
@@ -459,12 +459,6 @@
    ],
    "h": [
     {
-     "t": "Pemkot Bandung Dorong Transformasi Posyandu, Perluas Layanan ke Enam Bidang SPM - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjhHRVZPalFhaDl5SHhDckpRSmZ0MjFkWVNUUzFEQWtGeC1CU0pkWWFkUDNvb3FYUDBubzdVYjZadmtkemNySndQNmpTcjE5ZHA5R21PMlJiUDFBR0hiQXA2RmFGc2xsVlJTUGsydTREY0dFdnB0OVdjSVZwYVlXRFlyWEdDYWFaSFFsSVRPbm1sS1pLUnY4SUl0ZW1TUjZOZGE0cUpRelR6eGJONllfVERTZS0zY2wya2JBdEVR?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
@@ -475,6 +469,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
      "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Peninjauan Gedung Eks RSUD Soreang untuk Fasilitas Pendidikan - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3M5bloySHNRRm5JSjBEZ093RWpOcmk4eUp1ZFlhcHlJNkxQcnFMRjV1eE5KUF9TMVVTc3o2QTBXOEg3Rkx2eHI3SnhTUVVmejRWMmJPa1E1ODdVQ1JIWkJLNkJSeEUyVXd3SFRVOXlOYmhCczdxQUFKb1RuREIwbDNJdFBGR1oxNE5IZ0ZQYXp4UUxSR0FUeGV0Z1BjMEx0Q2lwTFJjb0swQ1pFRlJ6bmF2bFE4Nlk?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
@@ -497,8 +497,8 @@
     ],
     "w": [
      2,
-     16,
-     2
+     15,
+     3
     ]
    },
    "trend": {
@@ -522,7 +522,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      2,

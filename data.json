@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:44:44.240464+07:00",
+ "updated": "2026-11-05T19:47:57.509540+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,43 +8,51 @@
  "portals": [
   [
    "RRI.co.id",
-   26
+   27
   ],
   [
    "Tribunjabar.id",
    25
   ],
   [
-   "Ayo Bandung",
-   22
-  ],
-  [
    "Kompas.com",
-   21
+   20
   ],
   [
-   "PPID Kab. Bandung",
-   11
+   "Ayo Bandung",
+   19
   ],
   [
    "ANTARA News Jawa Barat",
    10
   ],
   [
-   "detikcom",
+   "jabarekspres.com",
    5
   ],
   [
-   "jabarekspres.com",
-   5
+   "detikcom",
+   4
   ],
   [
    "Pikiran Rakyat Koran",
    4
   ],
   [
+   "PPID Kab. Bandung",
+   4
+  ],
+  [
    "Radar Bandung",
    3
+  ],
+  [
+   "Inilahkoran.id",
+   3
+  ],
+  [
+   "Satumedia.id",
+   2
   ],
   [
    "Ketik",
@@ -55,16 +63,8 @@
    2
   ],
   [
-   "Inilahkoran.id",
-   2
-  ],
-  [
    "deJurnal.com",
    2
-  ],
-  [
-   "karawang bekasi disway",
-   1
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Kabupaten Bandung Siapkan Normalisasi Sungai hingga Danau Retensi untuk Atasi Banjir - karawangbekasi.disway.id - karawang bekasi disway",
+     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral - jabarekspres.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONGpWaFZmRlN5YWktbEJsLXBvZEUySEFDM1FYTC01S09SNTZwRkdxNzVkU18yd2xvYVFsMDJ3VXB3YUNsU1BTS3VUUFZ2M0liX2cycnJ2OXhBa1VjTDcxdHNnV3phRFFIOWFqTjBORXFNcGRKaHhEYkh6Qnp0RHczZ2Y3T0ZlTEIxZmV3NDkwa1BJSnV3SnBqaFRETVlaaDNQb3FTWnBtS1JtRHUyclhwTTVoMUV0N0dTeS1kMDVQWm9ocDkzbXR0eDE0Z3E5QnVhUTlhUmJn0gHGAUFVX3lxTE50Z2lKZkFsMExGQm1xa20taEhFYTgySG5BSjc0aWxndmJVLU9EY0lUVUtzRnBCUWRzb2UxZjdCUzJMMGRNQW1HSUJvNDMtSUlmTGJ6SUc3U3BCbnFldzBmMUZxbFFGRjdrb1dwZklwMERzbkpUVzQzUUtFVkl5RGkya0p5dkxvVzlrbmZ6N1Z2b08zUzZ2djlBc3Vpb1ppRE5rQ2FkV3I2ck9pNDUtRDdlTU5USHVHaXBBdW04UDRHejNERkY0UQ?oc=5",
-     "r": "karawang bekasi disway"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0N1N2dQSzdlQkRXbmhnSTh0a3lrSnNYU01WZ1ptaHk1YndDLVU2eVhucE93d3VpREtLckp1OVZhdUtpRGxxWkxpQXMweTVuemxtSnZxMTlTYUphTXN2VXF5Ykx3djhPbk1uU0ZSLTBtNTNoV05wV2Zjczk4Y2ljbUNTVk1aSUlvNlhmSU4xVERhNmkyZ0t4bUtCZ1B3TXFQQkpEdXBnN1VsdlhVM0xF?oc=5",
+     "r": "jabarekspres.com"
     },
     {
-     "t": "Kendalikan Banjir, KDS Perkuat Sinergi Pemkab, Pemprov, dan BBWS Citarum - digo.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVR1Yy1QdHJ3a2RmV1NNaDNzR1FiNTdSa1pfNG5LbzA5UlBqb3ljQmNoZllZWDNrdEFnRlNDYTBOYU5EZ3ZwaFEwckQ0Z3lQQzFKQ3VUMldWenM1Q2g2R2cwRUM4MFpiZU55TXZXYk1ZVlJqbVlOUEFyTEF1UV9lZWVKLXhUdkxGcmphZ0s0N1ZiOU1JYzhWWUM2UjU4Zw?oc=5",
-     "r": "digo.id"
+     "t": "KDS Ingatkan Forum Kabupaten Sehat: Jangan Cuma Kejar Predikat - Satumedia.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlZVTzdmMVQ4NTY5bVZPb3I5cDVFTmlvTmVFNnU3TENwYlhHT2tQQ0RpOHZqd2FwcEYwanlrM3BiU2tGczNVYjNPTmZaWlY1WG1hclZrSGdpOGZVMWxlMFJGSmdZa25OUGs2b0JaVHZmVUlqckdXSUhFV1V6a1I0NDVtQ25YTUpkR21jbU1FVm1hdVYwenBRallQSFhZVHc?oc=5",
+     "r": "Satumedia.id"
     },
     {
-     "t": "Bupati: ASN Utamakan Kepentingan Umum dalam Siraman Rohani - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjhIVWZ4S2RkTDI1TDV6Zjd0cEowVjg3VmNFdjVibUNnMU9VSkF2bFRaMlJqcEJYaDhWMjhQM0R0Q2ZnclBLdlpBWm1VWlBVNHFVaDlpY2pua3Z2YWZaYjhUb3ZoeHdlX0txczRsVHNmOWJIcWpOb3hfN3RXV2JDb2FYWFpkbmQ5aXFMNWtXWUJwbUlwbGx1X2pKUXhFZjNSYlE?oc=5",
-     "r": "RRI.co.id"
+     "t": "Pemkab Bandung menyiapkan enam kolam retensi untuk tangani banjir - ANTARA News Jawa Barat",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3I0Yzh4RGZ2dEktV3BaNVo1eWJKTlRuOXVuRDI4bWdnWWZyTnhBVTFodGJ6cXZqQXNGU0VPdWVucnkwbkpRamlwRlNqeWk4R05lYWljUElzS01Hb1ptZExiVHJiejIwdXZaOE5TbnV1T0ZlWUFaZnpKd0twaDcyMVNzakJ1cmU3dkttNUF1SnNJc09FdTU3cGFZT3lMV0JqbXl2UjlnN1JvQ2NL0gGyAUFVX3lxTE9MbDhCMjRQdzVsaTFWbk9BbFQxZ2tWZVBqS3VoTnFnMmlLMGFHT2U3WS1TRnMtWTZIc0ZkSzd6TlZaNUYwdGRIVlItRkI5elhEZFkwLTJxS2podEo3MkgwejJHOWEybk5pbTNkU2hWRUdBdFo4XzhYd1E5NHhxT0dwdzFBMThlVFNiRW1pSXQxSVhnQkRxUl9MZVJaa1I3TTRWc01JUmViY01HRkVubTlMa1E?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
@@ -117,8 +117,8 @@
     ],
     "w": [
      4,
-     31,
-     9
+     21,
+     14
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     2,
-     2
+     1,
+     3
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      1,
      0,
      2,
-     7
+     12
     ]
    }
   },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Bhabinkamtibmas Polsek Lembang Monitoring Kegiatan Reses Anggota DPRD KBB di Desa Pagerwangi - SUARA PAKTA",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWkhVMG5HVTZMRDcwT0VQOTdiNHlTVVlrOWxGT1oxWlNWVzJxbjZZTDc0OEpyVUM0dmw4SUlPZTFRVWlhaHZTNGczMzFNZnpTSDVNVW54eFpfUGEwV1hjbWNhWkp4OWJ2T0lwWFB2MTVzUFE0akVPWll3?oc=5",
+     "r": "SUARA PAKTA"
+    },
+    {
      "t": "Ketua DPRD Kabupaten Bandung Dorong Penataan Alun-alun Soreang, Jadi Ikon dan Wajah Ibu Kota - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUhOOHVVWHQ3T2JCTXFaX19EdmxiNS1tTWdpTWlYR1RYR09JVVE3MHlQREViV1Z5akNXM05SY0FOOHQ0MkhRWXhsbURVM3dBTkpqc2Z5WWJkd3BrRlVUVXJoOTl1UnppT3ZVZlpzUlRONXBmN01FQm1BejB4Snp3YllmaGlfZTVRTnNsdFhmMUJsakp1aXFtNXpfSjBfdndMdmhLV1pBUGRsTU5WLWVFUEhHeU5jcHZOZXhHNFB3?oc=5",
@@ -171,12 +177,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHVOX2ExQWZkZ05LeWN4VFFJN0gwUk42UHE0OFVFY010elVCb0lkb2xkeFBtRnEwMUZpOXJhLWlyLS1OVlk3OFo0X21hc0wtTmNyaldtYm41Z01sY0I2d1lfZUVMeHpMbEgyUlhER1dYU1JnUXdQXzBDeHdFaGxRUjRvU0p6ZV9iVHJOTlF1Mi1CZFQtQURyVDJVQUVJT0s3UlFfd0EzcHF3S3B2clV6WTRTcjY0bUFUZUdWLU9ESmExdw?oc=5",
      "r": "deJurnal.com"
-    },
-    {
-     "t": "Ketua DPRD Hj. Renie Rahayu Fauzi, Pentingnya Penataan Insfrastruktur Alun-alun Soreang sebagai Ikon dan Wajah Ibu Kota Kabupaten Bandung - patrolinews86",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb0NXckdkaW13Y2VaVnB3a3dYVTRWS0RSUUZUTFhybzZ1YUJ4RDhScjlFUFdTa0RrcE9yYnVxTnB4WGkxTGNzazZnZHJUSVdRdUJlaHBwdnRFWmwzLTBBV2ljSmFxemFNNDNxYmNmYjdjeFlsRW5xek0wTU5EdFNaMFprOWVTRG9MZDJ4aFZsc3VJWjRHWWlSbEdIZFhKaldJeW9laWZaeVFlRjB1V3hZZ2NLVXNRcHlscUFfNk1Gcms2VHIzcUFoTW55VEcxb1BOTjBJS29zZ2JMeTRuR3dvc0tqM20ydG9BRzgtYW84SnJaZVB2cEx2TG9LR3M5LThHVEpB?oc=5",
-     "r": "patrolinews86"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      6,
-     13,
+     14,
      2
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Pengangguran Jabar Turun Jadi 6,67 Persen tapi 13 Ribu Orang jadi Korban PHK - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHByU3ctQkF0aTVucjJUYjdrQ2pBbUg2T0hpVVRUUHV5TzZwdWVSV0dlVXBiVnpYSlBSclZPcTBFbHR4WDBaT3phYnJxMGE4Q011dWhiOFN4bWFhSHVxVzJRM2J2YndHUlplZDJ1Ty14MFRzRlhiQ3hpTGJxZEJESmtFbTRzWDRCY19JSXJEb3VieDZvUjJvQ0ZQNkFEb2xlVTdvbjRhaHdqTUg2VTlqbUd6Qm1CLU15VkNYa0VLWDdoUDlj?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Harga Jagung di Jawa Barat Naik, Bulog Salurkan 1.100 Ton Jagung SPHP untuk Peternak - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2l2ZHJVV05LWDI5UEJ0T2hscF9KeGh6UUw3N25OdVVBLUI2Smx0alZiS3BibzJSUkxMWUltZ0VJeGVkTktkcGUwMWpBWE5QM3kwUV9VeUlrUDZPbkhObFVtR01wVWRnVDJuV1ZDYUpNWHZCamd5SGZhUUp3dlgwUzNsZU1MUE1Ndi1xR1VXX19yZ2hWRmplTzVQYnVRMW9sZVFEUFVhN1VDaGQ2VFJtcVB6WHIxMEVhdXczY3JVMnNTdmNzbW9TZ05fZHBBamVDT093?oc=5",
@@ -241,12 +247,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORldPSC02ZG1FNXJuRmFyYlJzRzZtNjhaal93emVXd1JXRnpmOFlfeDg3aTVUbFJoUnBFZEJ2TzVuWWpYcFNTLWFUZ0ZCeXkwSWg0Qkl6WXNJTGZXZG5rUjd0MzZ0cFR2TFBhVkRySUN4VEpWOGN4Wmc0QkRuQjVjUHg0UGk3RTJwT1VvSUVPZTdCV0Z2NmxXek1zVWk5M3pkUnpPQmY0Z1JXN2ctRXhELTdxclBMREl3UnJmMjAwc2lsRzByZV9wdzA1OEMwTnBNajBz?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Sumbang 51,97 Persen PDB, Konsumsi Rumah Tangga Masih Tulang Punggung Ekonomi RI - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2pRWjBVSi1jYzk5RG1GQUJldjU3ZjdkR0VzTlBhZEsxSzlJd1ZScjhFT19fcmZ6SHVzb2NMdTAxamlrT2VpbUFLa3Z0MnZTckwxSjl6OEJ0NWZzMG81UjdLZFBzODYyLWxLUFJXNktGQkRyX0p3LXBZdDhsYXB0cVdRbE9wVTN4ZU5VeUF1LURnMmlmV1MxcWZCdjduZzljZE5kSEJCMEZpLWhvUkNVZFE2Wko0dTk4SEhweVRZd19ha09ocV8xUg?oc=5",
-     "r": "Kompas.com"
     }
    ],
    "v": {
@@ -256,9 +256,9 @@
      0
     ],
     "w": [
-     7,
-     15,
-     3
+     5,
+     17,
+     2
     ]
    },
    "trend": {
@@ -272,8 +272,8 @@
      "Kam"
     ],
     "p": [
-     1,
-     1,
+     0,
+     0,
      1,
      1,
      1,
@@ -281,7 +281,7 @@
      1
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      1,
@@ -377,22 +377,22 @@
    ],
    "h": [
     {
-     "t": "Banjir Berulang di Bandung, Enam Kolam Retensi Diprioritaskan di Bojongsoang dan Rancaekek - Kompas.com",
+     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral - jabarekspres.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTNFWllFWVcxTlJHd1FMUk1CTl9EcG5QM0VSVXZ6b0xEVG5KaGVzYmhlNVg4MGlUWm1IZjZQN1VCZWlhaHVpY2hQZjdpUTg5ZXJseWFySW5sRzV6TG5hWXQ1OVZiUko3YU9GbmwyclVJeDR5bzluZThub3l3dXdJMkpRZnl1YnJZNHRITFgxanYxZkRWTEtObjNCRUpxV0xoQWtMVzlmTDRIaTNNVUhxRHA5ckxqLTBCS2Y5b1dndkVSakxoTE1J?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0N1N2dQSzdlQkRXbmhnSTh0a3lrSnNYU01WZ1ptaHk1YndDLVU2eVhucE93d3VpREtLckp1OVZhdUtpRGxxWkxpQXMweTVuemxtSnZxMTlTYUphTXN2VXF5Ykx3djhPbk1uU0ZSLTBtNTNoV05wV2Zjczk4Y2ljbUNTVk1aSUlvNlhmSU4xVERhNmkyZ0t4bUtCZ1B3TXFQQkpEdXBnN1VsdlhVM0xF?oc=5",
+     "r": "jabarekspres.com"
     },
     {
-     "t": "Atasi Banjir, Pemkab Bandung Siapkan Normalisasi & Danau Retensi - detikcom",
+     "t": "Pemkab Bandung menyiapkan enam kolam retensi untuk tangani banjir - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlJrNmtIWFI1aXhnSjNlNUVFMFdPR1R3amdJbmFGWjVqN1FCclBUZTc0a1NBRDlNRWh0Qk9RcS1iVWdUWVYwY0Nzdzk4dDJyVVFMa2h0ZUZyMW9pTklUSDdwM2RrTEYtSmY3SnNRdWVrcTRKX1k3ZWZVVm1iLU1fa05tZVlwdzQ3NnNISTZ6a1gwVl9QSjZYaDl0eXhrMjhCR1lRZ3dqelVWQdIBrwFBVV95cUxPQmN6aTBvaHFRZ0lfXzl1N2ItYW5oMEZnN1BISlJJYThybmt4UzJxeXlKdk9wT1NjQ2tZa2NsU1RwQTBISGE1SVplVE4wRE5VMWlnM1d1eHdRaXFpQ2J3MXM3QXI3XzI1QUNpeDdad3dBQUlkVXlsaWx2cm5NWXNMbERoTEtQeUxlbDQ1Z3ItZk5ZREk3WnJlbUl5S0FFandiLS00RlQ0YkxxSk1GZDZJ?oc=5",
-     "r": "detikcom"
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3I0Yzh4RGZ2dEktV3BaNVo1eWJKTlRuOXVuRDI4bWdnWWZyTnhBVTFodGJ6cXZqQXNGU0VPdWVucnkwbkpRamlwRlNqeWk4R05lYWljUElzS01Hb1ptZExiVHJiejIwdXZaOE5TbnV1T0ZlWUFaZnpKd0twaDcyMVNzakJ1cmU3dkttNUF1SnNJc09FdTU3cGFZT3lMV0JqbXl2UjlnN1JvQ2NL0gGyAUFVX3lxTE9MbDhCMjRQdzVsaTFWbk9BbFQxZ2tWZVBqS3VoTnFnMmlLMGFHT2U3WS1TRnMtWTZIc0ZkSzd6TlZaNUYwdGRIVlItRkI5elhEZFkwLTJxS2podEo3MkgwejJHOWEybk5pbTNkU2hWRUdBdFo4XzhYd1E5NHhxT0dwdzFBMThlVFNiRW1pSXQxSVhnQkRxUl9MZVJaa1I3TTRWc01JUmViY01HRkVubTlMa1E?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Fokus Genjot Jalan hingga Sampah, Pemkot Bandung Gelontorkan 30 Persen Anggaran RAPBD 2027 - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnBYakNjVGIxWHJidUo5M3hPd3JkWjhudnFBVGdOeV9odHhoa2lnOVI2aExaTkVLbzhVcHVVVnlGdWVRbFRHMnMxQkpYZU5zVFBmOFZBMVdtSzY2eks2Q2VTNTYwVnZoMDNwUUw2NXFLSjBMLVRaUDFoYkt3ek9Sc1NSbzJObjE5MmdNc0treHlYSVFDWE9ReXVmMnhWS0FXb1B2bmluYlVSX2lvNXp4OEdGa2gwMDZteDVBWjBfZG9pY09nM2NkZHhDTW9GSUNTSTdlOVZvVQ?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Bupati KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWM0blRPR0o5MDlMeVVFWTRQSWpUVjJialcyMWl4cjBwcUpmdXFmRWxHOHFNVFExUzJQeGFTeUVwbEUyVTAzdktRWkxveFZBazVpcmludUZsbXhldzdDT0Jrb09Jamt1LWIyMThvZ2F3aWxDY1A4UzRaa19pRi1uNjB1Y0lMMmlEcjk4S2hRX3VSSlVYeWM4?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "JALAN PENGHUBUNG KOTA BANDUNG DAN KABUPATEN BANDUNG KINI MULUS",
@@ -415,8 +415,8 @@
     ],
     "w": [
      1,
-     9,
-     23
+     7,
+     25
     ]
    },
    "trend": {
@@ -442,10 +442,10 @@
      2,
      1,
      0,
-     9,
+     6,
      5,
      5,
-     5
+     10
     ]
    }
   },

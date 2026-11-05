@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:37:15.411855+07:00",
+ "updated": "2026-11-06T06:33:16.137622+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   27
+   28
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "Ayo Bandung",
@@ -27,15 +27,19 @@
    8
   ],
   [
+   "Pikiran Rakyat Koran",
+   5
+  ],
+  [
    "Inilahkoran.id",
-   6
+   5
   ],
   [
    "PPID Kab. Bandung",
    5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "jabarekspres.com",
    4
   ],
   [
@@ -47,11 +51,11 @@
    3
   ],
   [
-   "jabarekspres.com",
+   "Ketik",
    3
   ],
   [
-   "Ketik",
+   "deJurnal.com",
    3
   ],
   [
@@ -60,10 +64,6 @@
   ],
   [
    "Radar Bandung",
-   2
-  ],
-  [
-   "deJurnal.com",
    2
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      4,
-     22,
+     23,
      17
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "BANGGAR DPRD Kabupaten Bandung Bahas Raperda APBD 2027, Renie Rahayu Fauzi Pimpin Pembahasan - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFlRcFF0eUgzYTY4SEo0MnNxX0VuUTZnV0ZyZm9ITEJ1cmlXLWIteWdpS3RGT3J6WTlZSzJDUzBZWUZiMWpqc1JzRVpyY2tMTTMxQjcxZk04VWpuOHRmQWNFVm0tcE1XR0JHTUFzOFFqYmIzRlBoVURoVnprYmhKNW43bTV4Zy1uc2JVYURDY3A2RkRaeExWa2d4VkJPVk11RjUwbjBtaElsU3FTWFFmdHFQY1FFdnZGbDZOT3BB?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Bhabinkamtibmas Polsek Lembang Monitoring Kegiatan Reses Anggota DPRD KBB di Desa Pagerwangi - SUARA PAKTA",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWkhVMG5HVTZMRDcwT0VQOTdiNHlTVVlrOWxGT1oxWlNWVzJxbjZZTDc0OEpyVUM0dmw4SUlPZTFRVWlhaHZTNGczMzFNZnpTSDVNVW54eFpfUGEwV1hjbWNhWkp4OWJ2T0lwWFB2MTVzUFE0akVPWll3?oc=5",
@@ -170,12 +176,6 @@
      "t": "Ketua DPRD Kabupaten Bandung Dorong Penataan Alun-alun Soreang, Jadi Ikon dan Wajah Ibu Kota - deJurnal.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUhOOHVVWHQ3T2JCTXFaX19EdmxiNS1tTWdpTWlYR1RYR09JVVE3MHlQREViV1Z5akNXM05SY0FOOHQ0MkhRWXhsbURVM3dBTkpqc2Z5WWJkd3BrRlVUVXJoOTl1UnppT3ZVZlpzUlRONXBmN01FQm1BejB4Snp3YllmaGlfZTVRTnNsdFhmMUJsakp1aXFtNXpfSjBfdndMdmhLV1pBUGRsTU5WLWVFUEhHeU5jcHZOZXhHNFB3?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "H. Uya Mulyana, Merawat Tradisi Pesantren dan Mengabdikan Diri untuk Pendidikan serta Guru Ngaji - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHVOX2ExQWZkZ05LeWN4VFFJN0gwUk42UHE0OFVFY010elVCb0lkb2xkeFBtRnEwMUZpOXJhLWlyLS1OVlk3OFo0X21hc0wtTmNyaldtYm41Z01sY0I2d1lfZUVMeHpMbEgyUlhER1dYU1JnUXdQXzBDeHdFaGxRUjRvU0p6ZV9iVHJOTlF1Mi1CZFQtQURyVDJVQUVJT0s3UlFfd0EzcHF3S3B2clV6WTRTcjY0bUFUZUdWLU9ESmExdw?oc=5",
      "r": "deJurnal.com"
     }
    ],
@@ -257,8 +257,8 @@
     ],
     "w": [
      3,
-     17,
-     2
+     18,
+     1
     ]
    },
    "trend": {
@@ -284,7 +284,7 @@
      0,
      0,
      1,
-     1,
+     0,
      0,
      0,
      0
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     14,
-     9
+     15,
+     8
     ]
    },
    "trend": {
@@ -357,7 +357,7 @@
      0
     ],
     "g": [
-     3,
+     2,
      2,
      2,
      0,
@@ -383,9 +383,9 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0N1N2dQSzdlQkRXbmhnSTh0a3lrSnNYU01WZ1ptaHk1YndDLVU2eVhucE93d3VpREtLckp1OVZhdUtpRGxxWkxpQXMweTVuemxtSnZxMTlTYUphTXN2VXF5Ykx3djhPbk1uU0ZSLTBtNTNoV05wV2Zjczk4Y2ljbUNTVk1aSUlvNlhmSU4xVERhNmkyZ0t4bUtCZ1B3TXFQQkpEdXBnN1VsdlhVM0xF?oc=5",
+     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral – Laman 4 - jabarekspres.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjR6c045RTc4NkUtaEROWHdSTFZ6RzUyU2p4LVpBTWZ4SGtDV2lTVGo1MU54a3RZM1oteF9BQksxOGpqZ1p2VnhMdV94RHZnazlwdFd0dFdVdGg2Zk1TdkNwS2dKQ2VqSV93UFB3MXNHUzFzZ2dncWw5Tkh2RTYwaWhNUXRCVTZiWVpfSkFtTlZPN19YTnBsWXI5OEJvN3NCS3BYNDd1cWJndDVmcGNtNGRR?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -414,7 +414,7 @@
      2
     ],
     "w": [
-     3,
+     4,
      7,
      24
     ]
@@ -435,7 +435,7 @@
      1,
      0,
      0,
-     2,
+     3,
      0
     ],
     "g": [
@@ -465,16 +465,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "SDN Panyirapan 3 Ngirim Dua Barung Pangunggulan, Sumarni: Pesta Siaga Jadi Wahana Ngawangun Karakter Siswa - Galura",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmxkcVRLTHFBT3lZNVlSak1feEhZWmdEYU43a2lSa3R4M0FZRFNDVnZLNEllMU1uMFBPdlRxZVVBWlZhN3dMSGU2Um1BRUVWSUk3QlB3RkhyS013WkVNc3dWYWJHSGZsbTltcEtQUXVwZkRhSGJpbkI4bnluaExVdnVWY0hrMHFNbGthdEtfWXU0S0x6MjIwMWlfdmdSVDlwY2RqNkZaeE9LREE4Z0xfcXNHdTJfN0M5aFh1NnQ1eXJtbElFUEpyNXgtU2UyS0tJcUtYTEg0NlVydDQyX0c0N011UVVxNmEyaGRoU1pXbTVYQdIB9wFBVV95cUxNUlFSS3hsVm03LXMxeVRzN3doZTItUnhQbG1qaHhTQVBSU1ctQ1BkV0NIMGJ4RkJMWnN5NDVhOTJ6OS16YVhYUnQ3ZXl0M29tdjR3Q1RRdFFybjd0d0R5eEEtVFdZUjNXZjJQR3ktaG15MDZVOGE1Q1FwZUcwQjBMVDY3Q2R4elpUbHY2YTNoZWlMTWZ6ZHpReGp5Z3NXLU1KdmkzZDZHOWVPQ0NvVE9qVVZ2UEdiNHpKdzVoTjJmUWZfTVd6RnNveFpQZzFSZndVbGNLMm1sam9DQnF6ZDlKdzZ4WUVuZ3FzbUZYQTlGdkViZG9qeERj?oc=5",
+     "r": "Galura"
+    },
+    {
      "t": "Miris! Siswi SMP di Pangalengan Diduga Jadi Korban Kekerasan, Keluarga Pertanyakan Perlindungan Sekolah - Jayantara News",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlV3OVVfa2dEd2EySkxZOHBRcDhtY0NmaU5CY216Qm8tNVMyVUEtSDQ0TlRna3lYdlEwUmM2cFlxY09YT3luVkkxRQ?oc=5",
      "r": "Jayantara News"
-    },
-    {
-     "t": "Disdamkarmatan Bandung Siaga Hadapi Potensi Bencana Hidrometeorologi - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJsd2t5WGxuX2FOdzZwQ1BYLTJFWG4zbENlUng0VUFJdGdwdUJnTWxXVU16eGo0dnJxbXY1QXItNVgtUTgtYU5CZlV2WXA0ZEEzRGg3dnBMMTd1Mlo1ZGFMT0VRTHBtUDRRNmxNakU3bWs4VWNPNXN5SlRJUmdMeVlnNUlyeVBkaGcwM2NrZkc1RXZwNC1JaTZQeGZDRzNZaUFhYTNlaE1vbUJRbXpSRg?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
@@ -497,7 +497,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      2
     ]
    },

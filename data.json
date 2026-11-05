@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:57:41.384750+07:00",
+ "updated": "2026-11-05T09:46:56.955448+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -59,11 +59,11 @@
    2
   ],
   [
-   "Tribuntipikor Online",
+   "Radio PRFM",
    1
   ],
   [
-   "Harapan Rakyat",
+   "Tribuntipikor Online",
    1
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bea Cukai Bandung Musnahkan 1,19 Juta Batang Rokok Ilegal Senilai Rp1,7 Miliar - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0h6S2NvdFBUb0xkd00waFk2aGRlUXJCaXlTd0tRSUM3WXpLMGFjQ0VlZlN0QUdTWlU1N0ZYNlcta0M1cC1qMTJCUGprUHp5ZS1vS2VDU0RwWnB4ZmJwUzNkbklMNWp1LWxxclNUc1E5ZlZUM3FqR0Z3OWF3OUVBVTVzREFMYTBUWW9YcExJXzBieXRkeGcwcEFZSmVDcGRtWEt3bThHMUdlZEJ5VUhUSFc4T3RYYUZFcFYtak43bUlfOWxsbkRNVzFtaHZ2MENZaHdXM0pR0gHbAUFVX3lxTE1hZnFFeWVyYW5wM0FaSTNNMTd2QVlMaUh6OXNTSHdhY3BrLW03d2otSGdxbWdXaUV2UTc5NU5mZlhqT2lNV2g4WnpQOFdJSV9OeDZyV2gyUXF5Tm5aZUI0NjJjZktLZnhSRzlxSW56blRKVGdqc051ZGZsN250eGJscmdiY0tCcVdDdVdEZlRCR0k0MFJJYTFQVzdWT0VxcXJGUjJFNWRkTElVZC16ckNMWlJybXFIVVJyU2hYdExVTUJQaUhUOVJUSnJ1MEJiZG1rSllIdm1FdjZMNA?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Jangan Ada Informasi yang Dikunci karena Itu Hak Masyarakat ! - dialogpublik.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajcxQlFPbVVHQVNCUlVFRFlEMy1nUEFRdjdzUk1nUGd1TTRJRnl2aVVVY2xaUWJuVjNESkI2U2VsRzhkUHo3UG1BNGtBNkE3eE5xdy1lN0MwTjl2a2pPNFZBTkhIN3JvSjJIVDk3bk9YQlBJWHNIVER2ckVTRnNzaHpsbkhfOWVxdTYxZ0dR?oc=5",
@@ -89,12 +95,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXRQRnJQd3IxSTBSU2hIYW9JZU03Wmk3YnFlYW54d1N5cHdaLUtQZG9kYk90eUoyaUNqQzQybzFTZkw3TzBkdk1Tc29ocmR1TExLRG9DbFJ1V2dYU3liRnZGOVUzMUFra19YSU1FX05Yclk4dVNEYVdaVDFWa2N6WXB3eFh0SVJfYzlMUkFwMUN3Mlg2MldUbzgzNjhJLTdCLUJiMXVVSWZidHhWLXB3eDFBWVVyRV9CcXBmanY4WkdKdnFQWG9meEhoQTFVdkJKMVUwTkdKZ0JQTVJVZWxnUGs5RGRIb3RwS2JnedIB8gFBVV95cUxNLXoxckllQ09LR0RPbFpMWklDWDNQd1lfS0hyVGo3dkNOWl85RmRNMWFfb19FYUJvQjBZUnBTMjFvektncl92WDFWVEZTSE1wMWF3aEJielRoNVY2WDdYMHZqOFBLdTlMdjlUdTRaTUtHRFpNV0pqaEg5cEJzRWFJU3l3N0ROQVhoV04tT1lQRHlqUTcwcTZXT1Rqa0o4UEVpb1FfMXM4TjNpNFBCRUFvajhPZUc1U0dvY3NYT2JzbHY4QWJST0NtdlJJcVQ5T1VZREJhd0YxcDZYVW9wekN2Tlppbm9OMU9OVzRaRWRVOThEUQ?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "110 Bangunan Liar Dibongkar di Baleendah, Normalisasi Irigasi Berlanjut - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
-     "r": "Pikiran Rakyat Koran"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     7,
+     6,
      39,
-     2
+     3
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     3,
+     2,
      4,
      0
     ],
@@ -146,7 +146,7 @@
      0,
      1,
      0,
-     1,
+     2,
      1
     ]
    }
@@ -383,16 +383,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
+     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk1RdWdxdG9XYlFObnRRcWtKQVh6WXY0OHVmOEc3Z3R0ckJ0R1FXQlhhaFYtNTNMaDJvaS1tM252ZDd3Mml0X2JodC1RbVZJSmpFWDF3R2RVSXlYbjBUdkU2Z29lSjhhaThxTjVlaC1vUG9lNkE2aUxvSExzcUIwVnRfOXp1RXF1eE9OX0Q5TllOc1dpbW1xVXpZcmY4dWZtX0tyanozTGZGZUFXVXljYkpQYkdxNE1CdnVQWnJ6XzMtcVVkV0xsVnYtYTVhSVRySGc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",

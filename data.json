@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:46:40.570366+07:00",
+ "updated": "2026-11-05T12:48:18.497848+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Ayo Bandung",
-   24
+   26
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "RRI.co.id",
-   21
+   23
   ],
   [
    "Kompas.com",
@@ -47,14 +47,6 @@
    3
   ],
   [
-   "dialogpublik.com",
-   2
-  ],
-  [
-   "Pojoksatu",
-   2
-  ],
-  [
    "Antarwaktu.com",
    2
   ],
@@ -64,6 +56,14 @@
   ],
   [
    "Radio PRFM",
+   1
+  ],
+  [
+   "dialogpublik.com",
+   1
+  ],
+  [
+   "Tribuntipikor Online",
    1
   ]
  ],
@@ -117,7 +117,7 @@
     ],
     "w": [
      6,
-     38,
+     37,
      3
     ]
    },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     8,
-     13,
+     5,
+     14,
      3
     ]
    },
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     4,
+     1,
      2,
      0,
      0,
@@ -415,7 +415,7 @@
     ],
     "w": [
      1,
-     7,
+     9,
      17
     ]
    },
@@ -465,16 +465,16 @@
      "r": "Jayantara News"
     },
     {
-     "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Rp159 Juta Kembali ke Kas - Inilahkoran.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
      "r": "Inilahkoran.id"
+    },
+    {
+     "t": "Mahasiswa Penerima Beasiswa UIN Bandung Jadi Tersangka Demo, Tangis Ibu Pecah Harap Keadilan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0xPWWlRRkV4ZUFMMGh3cC1iZU91R2RIZmV6bXhLdjV6c3R1XzczWEhrX1JXdlpJaXpkdmRMZXRJWWJWa3FEUjQ5c0hQeElNWTRmcUF1cUVjZDNSclo2cnpsX0ViV0xKM3VGVUJjd0VWRnVsY3VHanlYX3ZKbHUtSTh5dl9pVm56dnRaS0Y3VG9rT19pWkduVjVVZHdnZUQtLXd5Y09uS2lBZmFSSEd4ZTdId1RvcVZRLW1VcmxQdzM1VENvU0NQTmRQaWdrVGhpSkNrRkdPNndOdw?oc=5",
+     "r": "Tribunjabar.id"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     1,
-     14,
-     2
+     2,
+     13,
+     3
     ]
    },
    "trend": {
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      0,
@@ -522,7 +522,7 @@
     ],
     "g": [
      0,
-     0,
+     1,
      0,
      0,
      2,

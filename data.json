@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:47:47.974833+07:00",
+ "updated": "2026-11-06T01:39:22.174314+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   25
+   24
   ],
   [
    "Tribunjabar.id",
@@ -16,7 +16,7 @@
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     5,
+     4,
      21,
-     16
+     15
     ]
    },
    "trend": {
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     5,
+     4,
      0
     ],
     "g": [
@@ -146,7 +146,7 @@
      1,
      0,
      0,
-     16,
+     15,
      0
     ]
    }
@@ -257,8 +257,8 @@
     ],
     "w": [
      3,
-     17,
-     1
+     16,
+     2
     ]
    },
    "trend": {
@@ -284,7 +284,7 @@
      0,
      0,
      1,
-     0,
+     1,
      0,
      0,
      0
@@ -319,6 +319,12 @@
      "r": "PPID Kab. Bandung"
     },
     {
+     "t": "Pemuda Asal Cijagra Jadi Korban Begal di Paseh Bandung Polisi Didesak Buru Pelaku",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=G_BXBfVXk5w",
+     "r": "YouTube Command Center Teh Aanya"
+    },
+    {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=rqRm840vvAc",
@@ -328,13 +334,13 @@
    "v": {
     "s": [
      0,
-     1,
+     2,
      0
     ],
     "w": [
      1,
      14,
-     6
+     7
     ]
    },
    "trend": {
@@ -358,7 +364,7 @@
     ],
     "g": [
      2,
-     1,
+     2,
      1,
      0,
      1,
@@ -441,10 +447,10 @@
     "g": [
      1,
      0,
+     6,
      5,
      5,
-     5,
-     10,
+     9,
      0
     ]
    }
@@ -497,7 +503,7 @@
     ],
     "w": [
      1,
-     12,
+     11,
      2
     ]
    },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:10:36.781182+07:00",
+ "updated": "2026-11-05T16:47:54.872923+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
-   23
+   "RRI.co.id",
+   25
   ],
   [
    "Tribunjabar.id",
-   22
+   24
   ],
   [
-   "RRI.co.id",
-   21
+   "Ayo Bandung",
+   23
   ],
   [
    "Kompas.com",
@@ -24,18 +24,18 @@
   ],
   [
    "PPID Kab. Bandung",
-   15
+   14
   ],
   [
    "ANTARA News Jawa Barat",
    10
   ],
   [
-   "Pikiran Rakyat Koran",
-   6
+   "jabarekspres.com",
+   5
   ],
   [
-   "jabarekspres.com",
+   "Pikiran Rakyat Koran",
    4
   ],
   [
@@ -43,27 +43,27 @@
    4
   ],
   [
+   "Radar Bandung",
+   3
+  ],
+  [
    "Inilahkoran.id",
    3
   ],
   [
-   "Radar Bandung",
+   "Ketik",
    2
   ],
   [
-   "Radio PRFM",
+   "Depost Jabar",
+   2
+  ],
+  [
+   "Jurnal Soreang",
    1
   ],
   [
-   "dialogpublik.com",
-   1
-  ],
-  [
-   "Tribuntipikor Online",
-   1
-  ],
-  [
-   "Harapan Rakyat",
+   "Antarwaktu.com",
    1
   ]
  ],
@@ -79,46 +79,46 @@
    ],
    "h": [
     {
-     "t": "Gebyar Bakti Sosial Baznas KBB, Jeje Dorong Zakat untuk Pemberdayaan Masyarakat - Inilahkoran.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUtSNU5QZmlHTUNab0hzaV94cjY4bm1qV09rOFp1bDcxQU9kcW1KdUFzZDlhbkI0cXJnUTUwNmNzbi1wX3BSYk1XcngtbHlEekVJXzFHcTBZODNrcWhuMXJXN1RYc3B0WW5MMF9pTW8xZUhITV9xdDEwLTBHbkVYcHE0dUxKaWI3WGhZM0duWUFLVHZiNXRlRWdVU0syMTlUR2pHMkVnc2o?oc=5",
-     "r": "Inilahkoran.id"
+     "t": "Ketua Pembangunan Masjid Agung Kecamatan Paseh Cipaku Ucapkan Terima Kasih kepada Para Donatur - Radar Bandung",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVS1oVnlURC1JMGZSSDBPby1fSmhPSzU4YWhWV3E2cHlKRm5QVXRPQ1FTM3JTSUNUaGlrRVd5NTctSnJRQ29fc0VULUpPcWR2SEN5QWVtd3hRMlZPbW5nZFB5YzEtZFY3aFFoaFFhMUxTMU1MUDl2ZXAtLWxsSGNSQjVNemRmdEVBWjhJV0xTekZrVk52YXhjR1FIWEVtVHpOR1pXZE5Jd3hzd0tqckFqVXJDajREOGRxVjd0a3M0TjdiSVBmcEFKSmtRckhpTTQ?oc=5",
+     "r": "Radar Bandung"
     },
     {
-     "t": "Program Pemberdayaan Ekonomi dan Pendidikan Bandung Bedas Festival - RRI.co.id",
+     "t": "Bupati Minta Pemdes Memaksimalkan Minimnya Anggaran Desa - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtSUnJ1OXZZZWJrak5TMG1MX3hIeU13ZDRoNEtnYUQ0WXVGcTBFRS1RaFNHSHhYVW5PVDcyVG5ZQXNtbFFocDZDRjR1ZXBEWG15X003Q0Nydm9fSHZ5SUxpbjBvekc3U2NvcmdxamtKeGt2RENlV0VsREJNbmZESnZVb3BMc05yZVlPNHhUdFNRbkhvZWNKVGo5RUVTMWl3LTNwMlFEOEFOVWF3VkE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTJoZnpDdlNRY0tsMEdQMVl5d1lxQTctdzZvNlRNMS1MdkhXZlptc0gzYk9xSjgtczBhMlI1SHMtTkpnXzBObjJXSFRLRjBINU55WVg4ZjAwTEtFVEIyM0VaWHgtLTA1VDdlT3M2R0EtUWlwQTZTa01OQkl5QktMUGgySE44NHJLaWJDaGJ6bXFoQUZwM0JQTDJIMXB1Y1Z6?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Bandung Bedas Festival Jadi Kolaborasi Program Pemberdayaan Masyarakat - RRI.co.id",
+     "t": "Job Fair Modal Usaha, Program Strategis Pemkab Bandung - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUlteVZpNXg2ZW5fNW5nZzBKV2ItdnFPanA5bVJjbjNEbzMwSUctQlpZdDF6ZTloV0hfdExJZ0dtdEFFRTI5dVNUeUtBRHl0WC1JeFg5SWl5dEhWcTVuNWtLMklkTzFUbTFrMkw4V1E3N1F6YVNwUHpxa3N3RlZnY04ta1A4R01OWVpFbC1BcFExRVFOYXJuV0lma3BoZTBDeERNaUdJbHlla0w3WXZqcFhKYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2tRUjVIYVg5WklqMGVOZ2JWeFYwcHNfMDRCcEs4bnh4cEdQY3Rqd3c5NjMweGpuTUNqM2hkUzFWVE1POUhTRGpjYTJOSV9UV0ptZnR6WkZkNXhIc0V3RFkzV19uX1cxYURiQ3FZdmF6c0Q3NHBmTW0xR1pHS0xvNFAxRE0wTGNDbE9IRGJyWnNwUkZGQU5qWlpjdzU?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=oK9acGbHguo",
+     "r": "YouTube Diklat ASN Kab Bandung"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=9LyHzWDiiD8",
      "r": "YouTube Diklat ASN Kab Bandung"
-    },
-    {
-     "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=sWQMXRfoGG4",
-     "r": "YouTube INSAN RAHMAN"
     }
    ],
    "v": {
     "s": [
      0,
-     4,
+     5,
      1
     ],
     "w": [
-     3,
+     5,
      35,
-     3
+     5
     ]
    },
    "trend": {
@@ -138,7 +138,7 @@
      0,
      0,
      3,
-     0
+     2
     ],
     "g": [
      0,
@@ -147,7 +147,7 @@
      1,
      0,
      2,
-     1
+     3
     ]
    }
   },
@@ -187,8 +187,8 @@
     ],
     "w": [
      6,
-     14,
-     1
+     13,
+     3
     ]
    },
    "trend": {
@@ -214,8 +214,8 @@
      0,
      0,
      0,
-     0,
      1,
+     2,
      0,
      0
     ]
@@ -257,7 +257,7 @@
     ],
     "w": [
      8,
-     14,
+     15,
      4
     ]
    },
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Polisi Tangkap Marketing Kasus Obat Ilegal Kopo Bizpark, Total Tersangka Jadi Enam - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEh2bHhSR1ZhSGZ5OHM5bzFVd1QyRHJYajREYmRHLXdHRnZSbG82MmVrSWx3dHo1TVhvTWJUaTFXSXlrRjAtdGY5N0tkT1RvV2dwcUFDZnhYeTcxOVJ6djAzWWszV0RCQU10ODA5YUlQRjd2OXdKZWxYRmZJcXg5UUNUclcycjNJRHBYWDVMbE04ZjAxTElyQm1FM29tTk15eGxWWHZ5RDE5NmxyNmhIMzdQR1JVaWtLQVJXWnRocFBHaXZIYXJ6MXdiVmZwazg?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Teror Ketukan Pintu 3 Hari Berujung Penganiayaan di Majalaya, Dua Pemuda Ditangkap - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTFTdnVDSnFZUXFzd3VnM1B1Y3NtdlJmR0wyOVBZWW1yQW56LW1QQnZZelMwcEI1QUV3UFpjbzZNeVlxTkVGNF9NY3VudWxnNjZ2OUdzTk14MVQzQXJlaEVEWUxFM0ZiZ0ZxTEVncDExTklIREhGbHV1YnFXaUwtdTRRMmJ2eEI5UHlrU1N5TVJkZ1hxeHQ1a1A4aUluRm9IMGh3eWhoWjlQVHZLdTI1dGUtVGhNdzdnRGhJdmtVQUdwQQ?oc=5",
@@ -311,12 +317,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFJ6SS12QkNrLTVyTDUtN1FhUzZRYXc4SFd6RFZoRmsxNHBKdWhsMzlHWkg4QXNNQnpsVFFTRVE5TUhRVHRrZ2dMTklwVG9vMV80ZTNMT0hBZ2pDLTBqX1JBNXQ3Y1IzUldPQTZkRThuUmJ6SFY3NG5aakllMmRPNmFndHdRSmRJSTUxRzc2ZnA4RHg1Qkx6dVV1ckw2cHFtcWVrMkhXM0NMZm9GRHRUQ2RUQU5ZcEJfQ2J3cFo3SQ?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Polresta Bandung menghadirkan layanan SIM jemput bola di pesantren - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xQblFONllvdmJuUm9KYVAzWFRKSTFhSkZmTE5ONF92WDRVYm1JazJPa2xMaFNxUUdmRFdaNGM1eHIxVS1Ra3hBWWV3TWFSQWVNd1c2M29iZjd5S2s1SWo5WERuUEtQT0JpYld2UWlRdW0xYTFLYzBVVjhhSUNxQkVSaG1wd0o2all2V0VrcjNEOGpIRnpZd29RcURoTlZJaVQycVFBWU9xR3B5V3fSAbMBQVVfeXFMTzRGWEJpQzBfUHJOYUtDd2JZc3VNb1VOWTRGQ05wX1ZLQUxkVmFDVTctel9EVl9FMVg4SXZHai1CdGFzMkwyckJiLUZUT0RUWVBfdFNsWFdmVnRNUFZRVjV5T3AxWjB0R3Jyc2s4SS1QZG92MmFHVFhRVThYaFc1ZFIyVEV6OFNlc2M4d0VqaVpEc1RKQXU0d3JXS2otb1pQazJOTGVwVnk5c3lIZ3RwczRzemc?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -357,13 +357,13 @@
      0
     ],
     "g": [
-     5,
+     4,
      3,
      3,
      4,
      0,
      1,
-     0
+     1
     ]
    }
   },
@@ -377,46 +377,46 @@
    ],
    "h": [
     {
-     "t": "110 Bangunan Liar Dibongkar di Baleendah, Normalisasi Irigasi Berlanjut - Pikiran Rakyat Koran",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
-     "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
+     "t": "Atasi Banjir, Bupati Dadang Supriatna Dorong Pemda se-Bandung Raya Satukan Program dan Anggaran - Jurnal Soreang",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVWNmSGVQckVudHFsNlFSd292VjFuNHRkdkpsbDdGZFc5SGFFUlhzcFhwdU92SWpGZ3I0UGplOFA2ZXROS1VMSFpxLWY4TUsxUGV4ZzZnMFFzOGFoOU9kVnViYVVwYzJuT0dNRnpLNFNDLXlTdkU2OWpaS2JmRVZOdWhyZUh1UmxLTTA3SGk0UVJNY3J2WlJOb2RxYzNPZXVlNTRkc29jc0hpaWU0WDYwMllkTzlIdzl2b3MtS282ODBneE4yWDdQanEtazFGQl83bUkyb3NMRDV2WVpXbEk1WUNFUWZyYUIzVXVkMNIB8gFBVV95cUxQc2RLdDVScXdfd1ZrTjhERDM2eURlWXhDcWtLWVZYc3Q4V0ppUGdxTWxmazAxLVVnTTYtckI4R05VeEo2RDA4cEtqNTVpZWZ2MnVWclZreEtoR0JkSzFGSUNQSmQ2RHFSdTJSNlVmaGlwNGNEMGpQc2RlZTVFcnhUZVRjeTJWR0NoLUptaUdiNk1uUGpOanlseXZCenNOZi1ubjhMOWdTX3VHWW40a0t4SkZkTkdTSGZWeVpaVU91MnlFUURFdllnUVZhY19tT214TDlJV3hMZDhFNy13Z2lMd1d4U2p3b0tmVUF1RnktcEFUdw?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
+     "t": "Atasi Banjir, KDS Ajak Daerah se-Bandung Raya Satukan Program dan Anggaran - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeF9sUDVoN0Jwcm10SUd6TUNxSXNITXZKRkFQVW41YUZubW5oQm9JSHJrTXNRZ0xLTjZOS2RUcHdSNmtsMHU0b0xOSXBSUVljRmFiUFR5eVk1LUZZYzZYYzNiaEUwYnRFUUNqRnpVLTkxWXR1ZTAzbWs5MGZtYXQtZzFUZU1qV2ZqLV8yaHRiMmZWWV9VOTFBSnpKNlZuTE9sTVl2Y0thbk1jUjRwM1Nsam13WXYxbWcwa1N6REhBUHpCQdIBxwFBVV95cUxNNmJ1UHhaY0hGb0pSUnFwcG5xdHFZdU1WQUhxdlVwSzRqS2hXY0hOYU54VW50M0VjWUc3VTMzSkswX0MyVFBzRG4zOGpFSFkxeUVmVExqWGVucFNHMlBDU29nSEVVcHJEX3hLaTczdzBiS0d0a3ZGaUxtSENWX3gzRmlVa2tqWEVzLW9rWHpSRllobndKOVdyUFc4YThYTzAwQmFZWW5YSmNWY1lYM09VS1FINjNGNFlaTzdSbFZoYnFhUWlMU2pv?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
+     "t": "110 Bangunan Liar di Baleendah Bandung Ditertibkan Cegah Banjir Saat Musim Hujan - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2JiajZLTERFT3JNalg3bElTazJoRkQ1YS1uWmM2LXBmSUpNbndLOUxsbWowUndMdC1qeUFVdzFWc2p2OEZCdzYtZ09lcVQtYVhVaXM3b0NsYWRUbVZLTVRBRFhPZHF2S1lycExfWnlzdGh4cVV5dFhBU2tRTXo3RzlxenplRDY1OW1JWWdEMWFoZTRuWHlUX2NxWEYyc3JyZkxROHJCSWRzdk55YmVSaFpKSHRsOFZpLWFZdldWX0txOFMzdDg2X0ZMeTM4S0FV?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "JALAN PENGHUBUNG KOTA BANDUNG DAN KABUPATEN BANDUNG KINI MULUS",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=nzhVt7WUATE",
+     "r": "YouTube INSAN RAHMAN"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=71XgTF2fdTg",
      "r": "YouTube Info Burinyay"
-    },
-    {
-     "t": "PascaDiekspose, Banjir Langganan dan Tahunan di Dekat Polres Bandung, Soreang, kini Tak Terjadi Lagi",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=su9SJBU6gf8",
-     "r": "YouTube Aje Urban"
     }
    ],
    "v": {
     "s": [
      1,
-     0,
-     5
+     1,
+     4
     ],
     "w": [
      1,
      10,
-     16
+     21
     ]
    },
    "trend": {
@@ -439,13 +439,13 @@
      0
     ],
     "g": [
-     3,
+     2,
      1,
      0,
-     7,
+     9,
      5,
      5,
-     0
+     3
     ]
    }
   },
@@ -497,7 +497,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      2
     ]
    },

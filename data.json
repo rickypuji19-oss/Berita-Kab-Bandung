@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:46:56.955448+07:00",
+ "updated": "2026-11-05T10:42:36.211606+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,16 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   25
-  ],
-  [
    "Ayo Bandung",
    24
   ],
   [
+   "Tribunjabar.id",
+   24
+  ],
+  [
    "RRI.co.id",
-   22
+   21
   ],
   [
    "Kompas.com",
@@ -24,7 +24,7 @@
   ],
   [
    "PPID Kab. Bandung",
-   16
+   14
   ],
   [
    "ANTARA News Jawa Barat",
@@ -51,6 +51,10 @@
    2
   ],
   [
+   "Pojoksatu",
+   2
+  ],
+  [
    "Antarwaktu.com",
    2
   ],
@@ -60,10 +64,6 @@
   ],
   [
    "Radio PRFM",
-   1
-  ],
-  [
-   "Tribuntipikor Online",
    1
   ]
  ],
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     5,
+     6,
      14,
      3
     ]
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
      0,
@@ -383,16 +383,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
      "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan Halaman 1 - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk1RdWdxdG9XYlFObnRRcWtKQVh6WXY0OHVmOEc3Z3R0ckJ0R1FXQlhhaFYtNTNMaDJvaS1tM252ZDd3Mml0X2JodC1RbVZJSmpFWDF3R2RVSXlYbjBUdkU2Z29lSjhhaThxTjVlaC1vUG9lNkE2aUxvSExzcUIwVnRfOXp1RXF1eE9OX0Q5TllOc1dpbW1xVXpZcmY4dWZtX0tyanozTGZGZUFXVXljYkpQYkdxNE1CdnVQWnJ6XzMtcVVkV0xsVnYtYTVhSVRySGc?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -415,7 +415,7 @@
     ],
     "w": [
      1,
-     10,
+     8,
      17
     ]
    },
@@ -459,6 +459,12 @@
    ],
    "h": [
     {
+     "t": "Miris! Siswi SMP di Pangalengan Diduga Jadi Korban Kekerasan, Keluarga Pertanyakan Perlindungan Sekolah - Jayantara News",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlV3OVVfa2dEd2EySkxZOHBRcDhtY0NmaU5CY216Qm8tNVMyVUEtSDQ0TlRna3lYdlEwUmM2cFlxY09YT3luVkkxRQ?oc=5",
+     "r": "Jayantara News"
+    },
+    {
      "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
@@ -469,12 +475,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
      "r": "Inilahkoran.id"
-    },
-    {
-     "t": "Peninjauan Gedung Eks RSUD Soreang untuk Fasilitas Pendidikan - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3M5bloySHNRRm5JSjBEZ093RWpOcmk4eUp1ZFlhcHlJNkxQcnFMRjV1eE5KUF9TMVVTc3o2QTBXOEg3Rkx2eHI3SnhTUVVmejRWMmJPa1E1ODdVQ1JIWkJLNkJSeEUyVXd3SFRVOXlOYmhCczdxQUFKb1RuREIwbDNJdFBGR1oxNE5IZ0ZQYXp4UUxSR0FUeGV0Z1BjMEx0Q2lwTFJjb0swQ1pFRlJ6bmF2bFE4Nlk?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",

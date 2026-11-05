@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:31:34.735007+07:00",
+ "updated": "2026-11-05T07:38:04.279061+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,11 +7,11 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
-   29
+   "Ayo Bandung",
+   25
   ],
   [
-   "Ayo Bandung",
+   "Tribunjabar.id",
    25
   ],
   [
@@ -20,11 +20,11 @@
   ],
   [
    "Kompas.com",
-   18
+   20
   ],
   [
    "PPID Kab. Bandung",
-   14
+   15
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,6 +47,10 @@
    4
   ],
   [
+   "Pojoksatu",
+   2
+  ],
+  [
    "Antarwaktu.com",
    2
   ],
@@ -55,15 +59,11 @@
    2
   ],
   [
-   "Jurnal Soreang",
-   2
-  ],
-  [
-   "Radar Bandung",
-   2
-  ],
-  [
    "Tribuntipikor Online",
+   1
+  ],
+  [
+   "Harapan Rakyat",
    1
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bandung Diapit Ancaman Longsor dan Banjir: Pemkot Pangkas Sedimentasi, Warga Didesak Melek Evakuasi Mandiri - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXRQRnJQd3IxSTBSU2hIYW9JZU03Wmk3YnFlYW54d1N5cHdaLUtQZG9kYk90eUoyaUNqQzQybzFTZkw3TzBkdk1Tc29ocmR1TExLRG9DbFJ1V2dYU3liRnZGOVUzMUFra19YSU1FX05Yclk4dVNEYVdaVDFWa2N6WXB3eFh0SVJfYzlMUkFwMUN3Mlg2MldUbzgzNjhJLTdCLUJiMXVVSWZidHhWLXB3eDFBWVVyRV9CcXBmanY4WkdKdnFQWG9meEhoQTFVdkJKMVUwTkdKZ0JQTVJVZWxnUGs5RGRIb3RwS2JnedIB8gFBVV95cUxNLXoxckllQ09LR0RPbFpMWklDWDNQd1lfS0hyVGo3dkNOWl85RmRNMWFfb19FYUJvQjBZUnBTMjFvektncl92WDFWVEZTSE1wMWF3aEJielRoNVY2WDdYMHZqOFBLdTlMdjlUdTRaTUtHRFpNV0pqaEg5cEJzRWFJU3l3N0ROQVhoV04tT1lQRHlqUTcwcTZXT1Rqa0o4UEVpb1FfMXM4TjNpNFBCRUFvajhPZUc1U0dvY3NYT2JzbHY4QWJST0NtdlJJcVQ5T1VZREJhd0YxcDZYVW9wekN2Tlppbm9OMU9OVzRaRWRVOThEUQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "110 Bangunan Liar Dibongkar di Baleendah, Normalisasi Irigasi Berlanjut - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZiOVpxTUx0N2drTklZek1mMVpuc3oyUFJMWFkxOWtzcHQ1M1ZqdExzdEZPNXhzbUtCdUk3d1JZWklBVGY2R01FZjQtT0Q0ci1La18zaXNONHhfWV9MQXhrVGRQd1NkUkRzVGNjYWFET3Vlc3BXUDVxYmhLdFMyQ2JaMWdXYUh1aGphZTNscE45VXVxQWRiQzlwaGl1T2t0RjdCaGxySG15UnJ6UVlBVjRhN0RSbWxydG5qYmozQTZwUXMxX3c?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Dialog Forum Tokoh Masyarakat Lintas Sektor Kecamatan Soreang 2026, Ketua DPRD Renie Rahayu Fauzi Serap Aspirasi melalui Rebo Keliling (Boling) - Tribuntipikor Online",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSmZSVHQ0QXB1SHgxVkczdXRLVDFFRmdnams0anRpWWVoZ0pCQTFsYmU5U2FVM0JfLVMwNGdRcHA0Vl9jNHY3RWhmaXNPOWxlSHp4SWRVUmNlV20tY05lbGNDX0pCMm92Y0N3TE5sWkpoVDRtRm44T1dwRFppME9EZy1FMGNLZmpWdU5SS2UxZE1WNnlBcDRXeDc1NzhSRjBxcWZ1cmdnN0hzMk92OHhNcHRqYWp1OVNuSmZZN1J6cHM5WGVrb0Fza1FpRy11RkpSWkp1RTJydjRNRTZIZ1d5ZWhkalhrWmE2bkFoQThVQVlpRDZiVGRNZE5QWDYxcVVHXzd1bHRDNXpxdw?oc=5",
-     "r": "Tribuntipikor Online"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     8,
-     37,
-     2
+     7,
+     38,
+     3
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      0,
      0,
-     4,
+     3,
      4,
      0
     ],
@@ -147,7 +147,7 @@
      1,
      1,
      1,
-     0
+     1
     ]
    }
   },
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     5,
-     15,
+     6,
+     14,
      3
     ]
    },
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     2,
+     3,
      2,
      0,
      0,
@@ -357,8 +357,8 @@
      0
     ],
     "g": [
-     5,
-     2,
+     4,
+     3,
      3,
      4,
      0,
@@ -416,7 +416,7 @@
     "w": [
      1,
      9,
-     20
+     16
     ]
    },
    "trend": {
@@ -440,9 +440,9 @@
     ],
     "g": [
      3,
-     2,
-     2,
-     8,
+     1,
+     0,
+     7,
      5,
      5,
      0
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      15,
      2
     ]
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     0,
+     1,
      0,
      1,
      0,

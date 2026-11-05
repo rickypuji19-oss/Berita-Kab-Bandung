@@ -1,72 +1,11 @@
 {
- "updated": "2026-11-06T03:37:02.904893+07:00",
+ "updated": "2026-11-06T04:33:15.889913+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
  ],
  "method": "model IndoRoBERTa, gratis",
- "portals": [
-  [
-   "RRI.co.id",
-   26
-  ],
-  [
-   "Tribunjabar.id",
-   23
-  ],
-  [
-   "Kompas.com",
-   18
-  ],
-  [
-   "Ayo Bandung",
-   16
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   8
-  ],
-  [
-   "Inilahkoran.id",
-   6
-  ],
-  [
-   "PPID Kab. Bandung",
-   5
-  ],
-  [
-   "detikcom",
-   4
-  ],
-  [
-   "Koran Gala",
-   3
-  ],
-  [
-   "jabarekspres.com",
-   3
-  ],
-  [
-   "Ketik",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
-   3
-  ],
-  [
-   "Satumedia.id",
-   2
-  ],
-  [
-   "Radar Bandung",
-   2
-  ],
-  [
-   "deJurnal.com",
-   2
-  ]
- ],
+ "portals": [],
  "topics": [
   {
    "n": "Pemkab",
@@ -78,24 +17,6 @@
     "ASN"
    ],
    "h": [
-    {
-     "t": "Rokok Illegal Lenyap! Target Cukai Jabar Rp30 Triliun - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTN1UWljaTA3eU91SXV3RTd4X1JaNnJsY3RLSV9iMEstYkkwTUpTMGhWUG1lWlJxXzA2aFJwRi1xZUl4WllhUWc3cTBWR21LVjZEaVRuYzlsMWVwSkFsSFBpa2NNX3lRZThQSnVOUktVVW12eWZfS0lKN2wwby1QMHhWcmozYnRRcWlORzBoWVpaVkFuTVV0cS04NA?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Foto : Pemkab Bandung Perkuat Mitigasi Banjir Lintas Sektor, Bupati Dadang Gandeng Kejari Kawal Anggaran Halaman 1 - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVG9NYkZ0T25WenpHSHRKZUNfaHluY0I1dDlSb3I2QkJrelBnNzE4OE1tUS1Sem9MT1IzRk9jRTRuV3ZIRy1Vbm5JSWI5V3lUMWRvZ0tuU1lyUWw2WmJmbmxkQjNJWkVzZG5GeG03ekZkd2NBNm5oLXdpVDJmeGVwYk1XYXl0ZWFoekFES1RSa0xDVUNJVlgtakRWbkRSQUY3NEV2UkFrQVpMYks5ZzBKSkhoc1l5bHZEZFowXzB0X3ZuNkxVX0M1Z3N0YmJNOEJn?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Jutaan Batang Rokok Ilegal di Kabupaten Bandung Dibakar - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGJfTlV4YTZ6Y0dwWHFMMUFINUVQOVhfQlNRR29waElrVFQ0X0pQR1R4a3F1UGVackMzN3lWSkV2N3NVY3hMOWlaVWdQZjlJeVYyN0dTTlpHS2JKZVczVWx4YnAxUEN4U1Z4amcxNERjbnVUNUNpVmRJSHBPdGU5WGlsRVVjM3NjMmw5ZUZjYndUYU4xTEk0MFNxM1ZFMUQ5SUlB?oc=5",
-     "r": "RRI.co.id"
-    },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
      "s": "neu",
@@ -116,9 +37,9 @@
      1
     ],
     "w": [
-     4,
-     22,
-     16
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -137,7 +58,7 @@
      0,
      0,
      0,
-     4,
+     0,
      0
     ],
     "g": [
@@ -146,7 +67,7 @@
      1,
      0,
      0,
-     16,
+     0,
      0
     ]
    }
@@ -159,26 +80,7 @@
     "partai",
     "pilkada"
    ],
-   "h": [
-    {
-     "t": "Bhabinkamtibmas Polsek Lembang Monitoring Kegiatan Reses Anggota DPRD KBB di Desa Pagerwangi - SUARA PAKTA",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWkhVMG5HVTZMRDcwT0VQOTdiNHlTVVlrOWxGT1oxWlNWVzJxbjZZTDc0OEpyVUM0dmw4SUlPZTFRVWlhaHZTNGczMzFNZnpTSDVNVW54eFpfUGEwV1hjbWNhWkp4OWJ2T0lwWFB2MTVzUFE0akVPWll3?oc=5",
-     "r": "SUARA PAKTA"
-    },
-    {
-     "t": "Ketua DPRD Kabupaten Bandung Dorong Penataan Alun-alun Soreang, Jadi Ikon dan Wajah Ibu Kota - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUhOOHVVWHQ3T2JCTXFaX19EdmxiNS1tTWdpTWlYR1RYR09JVVE3MHlQREViV1Z5akNXM05SY0FOOHQ0MkhRWXhsbURVM3dBTkpqc2Z5WWJkd3BrRlVUVXJoOTl1UnppT3ZVZlpzUlRONXBmN01FQm1BejB4Snp3YllmaGlfZTVRTnNsdFhmMUJsakp1aXFtNXpfSjBfdndMdmhLV1pBUGRsTU5WLWVFUEhHeU5jcHZOZXhHNFB3?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "H. Uya Mulyana, Merawat Tradisi Pesantren dan Mengabdikan Diri untuk Pendidikan serta Guru Ngaji - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHVOX2ExQWZkZ05LeWN4VFFJN0gwUk42UHE0OFVFY010elVCb0lkb2xkeFBtRnEwMUZpOXJhLWlyLS1OVlk3OFo0X21hc0wtTmNyaldtYm41Z01sY0I2d1lfZUVMeHpMbEgyUlhER1dYU1JnUXdQXzBDeHdFaGxRUjRvU0p6ZV9iVHJOTlF1Mi1CZFQtQURyVDJVQUVJT0s3UlFfd0EzcHF3S3B2clV6WTRTcjY0bUFUZUdWLU9ESmExdw?oc=5",
-     "r": "deJurnal.com"
-    }
-   ],
+   "h": [],
    "v": {
     "s": [
      0,
@@ -186,9 +88,9 @@
      0
     ],
     "w": [
-     5,
-     14,
-     2
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -202,19 +104,19 @@
      "Jum"
     ],
     "p": [
-     1,
      0,
      0,
      0,
-     1,
-     3,
+     0,
+     0,
+     0,
      0
     ],
     "g": [
      0,
      0,
-     1,
-     1,
+     0,
+     0,
      0,
      0,
      0
@@ -229,26 +131,7 @@
     "inflasi",
     "investasi"
    ],
-   "h": [
-    {
-     "t": "Pengangguran Jabar Turun Jadi 6,67 Persen tapi 13 Ribu Orang jadi Korban PHK - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHByU3ctQkF0aTVucjJUYjdrQ2pBbUg2T0hpVVRUUHV5TzZwdWVSV0dlVXBiVnpYSlBSclZPcTBFbHR4WDBaT3phYnJxMGE4Q011dWhiOFN4bWFhSHVxVzJRM2J2YndHUlplZDJ1Ty14MFRzRlhiQ3hpTGJxZEJESmtFbTRzWDRCY19JSXJEb3VieDZvUjJvQ0ZQNkFEb2xlVTdvbjRhaHdqTUg2VTlqbUd6Qm1CLU15VkNYa0VLWDdoUDlj?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Harga Jagung di Jawa Barat Naik, Bulog Salurkan 1.100 Ton Jagung SPHP untuk Peternak - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2l2ZHJVV05LWDI5UEJ0T2hscF9KeGh6UUw3N25OdVVBLUI2Smx0alZiS3BibzJSUkxMWUltZ0VJeGVkTktkcGUwMWpBWE5QM3kwUV9VeUlrUDZPbkhObFVtR01wVWRnVDJuV1ZDYUpNWHZCamd5SGZhUUp3dlgwUzNsZU1MUE1Ndi1xR1VXX19yZ2hWRmplTzVQYnVRMW9sZVFEUFVhN1VDaGQ2VFJtcVB6WHIxMEVhdXczY3JVMnNTdmNzbW9TZ05fZHBBamVDT093?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : Sumbang 51,97 Persen PDB, Konsumsi Rumah Tangga Masih Tulang Punggung Ekonomi RI Halaman 1 - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORldPSC02ZG1FNXJuRmFyYlJzRzZtNjhaal93emVXd1JXRnpmOFlfeDg3aTVUbFJoUnBFZEJ2TzVuWWpYcFNTLWFUZ0ZCeXkwSWg0Qkl6WXNJTGZXZG5rUjd0MzZ0cFR2TFBhVkRySUN4VEpWOGN4Wmc0QkRuQjVjUHg0UGk3RTJwT1VvSUVPZTdCV0Z2NmxXek1zVWk5M3pkUnpPQmY0Z1JXN2ctRXhELTdxclBMREl3UnJmMjAwc2lsRzByZV9wdzA1OEMwTnBNajBz?oc=5",
-     "r": "Kompas.com"
-    }
-   ],
+   "h": [],
    "v": {
     "s": [
      0,
@@ -256,9 +139,9 @@
      0
     ],
     "w": [
-     3,
-     17,
-     2
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -274,17 +157,17 @@
     "p": [
      0,
      0,
-     1,
      0,
-     1,
-     1,
+     0,
+     0,
+     0,
      0
     ],
     "g": [
      0,
      0,
-     1,
-     1,
+     0,
+     0,
      0,
      0,
      0
@@ -300,24 +183,6 @@
     "pungli"
    ],
    "h": [
-    {
-     "t": "Polisi Tangkap Marketing Kasus Obat Ilegal Kopo Bizpark, Total Tersangka Jadi Enam - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEh2bHhSR1ZhSGZ5OHM5bzFVd1QyRHJYajREYmRHLXdHRnZSbG82MmVrSWx3dHo1TVhvTWJUaTFXSXlrRjAtdGY5N0tkT1RvV2dwcUFDZnhYeTcxOVJ6djAzWWszV0RCQU10ODA5YUlQRjd2OXdKZWxYRmZJcXg5UUNUclcycjNJRHBYWDVMbE04ZjAxTElyQm1FM29tTk15eGxWWHZ5RDE5NmxyNmhIMzdQR1JVaWtLQVJXWnRocFBHaXZIYXJ6MXdiVmZwazg?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Teror Ketukan Pintu 3 Hari Berujung Penganiayaan di Majalaya, Dua Pemuda Ditangkap - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTFTdnVDSnFZUXFzd3VnM1B1Y3NtdlJmR0wyOVBZWW1yQW56LW1QQnZZelMwcEI1QUV3UFpjbzZNeVlxTkVGNF9NY3VudWxnNjZ2OUdzTk14MVQzQXJlaEVEWUxFM0ZiZ0ZxTEVncDExTklIREhGbHV1YnFXaUwtdTRRMmJ2eEI5UHlrU1N5TVJkZ1hxeHQ1a1A4aUluRm9IMGh3eWhoWjlQVHZLdTI1dGUtVGhNdzdnRGhJdmtVQUdwQQ?oc=5",
-     "r": "Kompas.com"
-    },
-    {
-     "t": "Dasar Hukum - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFJ6SS12QkNrLTVyTDUtN1FhUzZRYXc4SFd6RFZoRmsxNHBKdWhsMzlHWkg4QXNNQnpsVFFTRVE5TUhRVHRrZ2dMTklwVG9vMV80ZTNMT0hBZ2pDLTBqX1JBNXQ3Y1IzUldPQTZkRThuUmJ6SFY3NG5aakllMmRPNmFndHdRSmRJSTUxRzc2ZnA4RHg1Qkx6dVV1ckw2cHFtcWVrMkhXM0NMZm9GRHRUQ2RUQU5ZcEJfQ2J3cFo3SQ?oc=5",
-     "r": "PPID Kab. Bandung"
-    },
     {
      "t": "Pemuda Asal Cijagra Jadi Korban Begal di Paseh Bandung Polisi Didesak Buru Pelaku",
      "s": "neu",
@@ -338,9 +203,9 @@
      0
     ],
     "w": [
-     1,
-     14,
-     8
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -358,17 +223,17 @@
      0,
      0,
      0,
-     1,
+     0,
      0,
      0
     ],
     "g": [
-     2,
-     2,
-     2,
      0,
-     1,
-     1,
+     0,
+     0,
+     0,
+     0,
+     0,
      0
     ]
    }
@@ -382,24 +247,6 @@
     "Baleendah"
    ],
    "h": [
-    {
-     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral - jabarekspres.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0N1N2dQSzdlQkRXbmhnSTh0a3lrSnNYU01WZ1ptaHk1YndDLVU2eVhucE93d3VpREtLckp1OVZhdUtpRGxxWkxpQXMweTVuemxtSnZxMTlTYUphTXN2VXF5Ykx3djhPbk1uU0ZSLTBtNTNoV05wV2Zjczk4Y2ljbUNTVk1aSUlvNlhmSU4xVERhNmkyZ0t4bUtCZ1B3TXFQQkpEdXBnN1VsdlhVM0xF?oc=5",
-     "r": "jabarekspres.com"
-    },
-    {
-     "t": "Pemkab Bandung menyiapkan enam kolam retensi untuk tangani banjir - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3I0Yzh4RGZ2dEktV3BaNVo1eWJKTlRuOXVuRDI4bWdnWWZyTnhBVTFodGJ6cXZqQXNGU0VPdWVucnkwbkpRamlwRlNqeWk4R05lYWljUElzS01Hb1ptZExiVHJiejIwdXZaOE5TbnV1T0ZlWUFaZnpKd0twaDcyMVNzakJ1cmU3dkttNUF1SnNJc09FdTU3cGFZT3lMV0JqbXl2UjlnN1JvQ2NL0gGyAUFVX3lxTE9MbDhCMjRQdzVsaTFWbk9BbFQxZ2tWZVBqS3VoTnFnMmlLMGFHT2U3WS1TRnMtWTZIc0ZkSzd6TlZaNUYwdGRIVlItRkI5elhEZFkwLTJxS2podEo3MkgwejJHOWEybk5pbTNkU2hWRUdBdFo4XzhYd1E5NHhxT0dwdzFBMThlVFNiRW1pSXQxSVhnQkRxUl9MZVJaa1I3TTRWc01JUmViY01HRkVubTlMa1E?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Bupati KDS Soroti Rutilahu, Banjir, dan Dana BAZNAS - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWM0blRPR0o5MDlMeVVFWTRQSWpUVjJialcyMWl4cjBwcUpmdXFmRWxHOHFNVFExUzJQeGFTeUVwbEUyVTAzdktRWkxveFZBazVpcmludUZsbXhldzdDT0Jrb09Jamt1LWIyMThvZ2F3aWxDY1A4UzRaa19pRi1uNjB1Y0lMMmlEcjk4S2hRX3VSSlVYeWM4?oc=5",
-     "r": "RRI.co.id"
-    },
     {
      "t": "JALAN PENGHUBUNG KOTA BANDUNG DAN KABUPATEN BANDUNG KINI MULUS",
      "s": "neu",
@@ -420,9 +267,9 @@
      2
     ],
     "w": [
-     3,
-     8,
-     24
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -438,19 +285,19 @@
     "p": [
      1,
      0,
-     1,
      0,
      0,
-     2,
+     0,
+     0,
      0
     ],
     "g": [
      1,
      0,
-     6,
-     5,
-     5,
-     9,
+     1,
+     0,
+     0,
+     0,
      0
     ]
    }
@@ -464,24 +311,6 @@
     "bansos"
    ],
    "h": [
-    {
-     "t": "Miris! Siswi SMP di Pangalengan Diduga Jadi Korban Kekerasan, Keluarga Pertanyakan Perlindungan Sekolah - Jayantara News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlV3OVVfa2dEd2EySkxZOHBRcDhtY0NmaU5CY216Qm8tNVMyVUEtSDQ0TlRna3lYdlEwUmM2cFlxY09YT3luVkkxRQ?oc=5",
-     "r": "Jayantara News"
-    },
-    {
-     "t": "Disdamkarmatan Bandung Siaga Hadapi Potensi Bencana Hidrometeorologi - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJsd2t5WGxuX2FOdzZwQ1BYLTJFWG4zbENlUng0VUFJdGdwdUJnTWxXVU16eGo0dnJxbXY1QXItNVgtUTgtYU5CZlV2WXA0ZEEzRGg3dnBMMTd1Mlo1ZGFMT0VRTHBtUDRRNmxNakU3bWs4VWNPNXN5SlRJUmdMeVlnNUlyeVBkaGcwM2NrZkc1RXZwNC1JaTZQeGZDRzNZaUFhYTNlaE1vbUJRbXpSRg?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
-     "r": "RRI.co.id"
-    },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
      "s": "neu",
@@ -502,9 +331,9 @@
      0
     ],
     "w": [
-     1,
-     11,
-     2
+     0,
+     0,
+     0
     ]
    },
    "trend": {
@@ -520,7 +349,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -530,7 +359,7 @@
      0,
      0,
      0,
-     2,
+     0,
      0,
      0,
      0

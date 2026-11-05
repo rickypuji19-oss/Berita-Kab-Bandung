@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:42:36.211606+07:00",
+ "updated": "2026-11-05T11:46:40.570366+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -32,7 +32,7 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   6
+   5
   ],
   [
    "jabarekspres.com",
@@ -97,27 +97,27 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=9LyHzWDiiD8",
+     "r": "YouTube Diklat ASN Kab Bandung"
+    },
+    {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=sWQMXRfoGG4",
      "r": "YouTube INSAN RAHMAN"
-    },
-    {
-     "t": "PEMKAB BANDUNG MUSNAHKAN 1,2 JUTA LEBIH BATANG ROKOK ILEGAL, FORKOPIMDA TURUT HADIR",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=dnhEfeP7ptE",
-     "r": "YouTube Kompas1"
     }
    ],
    "v": {
     "s": [
      0,
-     3,
+     4,
      1
     ],
     "w": [
      6,
-     39,
+     38,
      3
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Ketua DPRD Hj. Renie Rahayu Fauzi, Pentingnya Penataan Insfrastruktur Alun-alun Soreang sebagai Ikon dan Wajah Ibu Kota Kabupaten Bandung - patrolinews86",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb0NXckdkaW13Y2VaVnB3a3dYVTRWS0RSUUZUTFhybzZ1YUJ4RDhScjlFUFdTa0RrcE9yYnVxTnB4WGkxTGNzazZnZHJUSVdRdUJlaHBwdnRFWmwzLTBBV2ljSmFxemFNNDNxYmNmYjdjeFlsRW5xek0wTU5EdFNaMFprOWVTRG9MZDJ4aFZsc3VJWjRHWWlSbEdIZFhKaldJeW9laWZaeVFlRjB1V3hZZ2NLVXNRcHlscUFfNk1Gcms2VHIzcUFoTW55VEcxb1BOTjBJS29zZ2JMeTRuR3dvc0tqM20ydG9BRzgtYW84SnJaZVB2cEx2TG9LR3M5LThHVEpB?oc=5",
+     "r": "patrolinews86"
+    },
+    {
      "t": "Dialog Forum Tokoh Masyarakat Lintas Sektor Kecamatan Soreang 2026, Ketua DPRD Renie Rahayu Fauzi Serap Aspirasi melalui Rebo Keliling (Boling) - Tribuntipikor Online",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSmZSVHQ0QXB1SHgxVkczdXRLVDFFRmdnams0anRpWWVoZ0pCQTFsYmU5U2FVM0JfLVMwNGdRcHA0Vl9jNHY3RWhmaXNPOWxlSHp4SWRVUmNlV20tY05lbGNDX0pCMm92Y0N3TE5sWkpoVDRtRm44T1dwRFppME9EZy1FMGNLZmpWdU5SS2UxZE1WNnlBcDRXeDc1NzhSRjBxcWZ1cmdnN0hzMk92OHhNcHRqYWp1OVNuSmZZN1J6cHM5WGVrb0Fza1FpRy11RkpSWkp1RTJydjRNRTZIZ1d5ZWhkalhrWmE2bkFoQThVQVlpRDZiVGRNZE5QWDYxcVVHXzd1bHRDNXpxdw?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVRpUzNQZkp5MkNrNHhNUXN1NXh3TGpLY2c0NzdXWWl5UnZ3S3l0YWhNOGFERWg5MUs0SG9ISFBqMWhJbktjdktTbTVCZ1pYOVpXdlZacW8zRmlFOEFjb2RxbS00a1RQWHNBRlQtWVF0NFZxYThuOVVZbHJldURpN1NneGNWazZCQTI5MFRxRGpuSnNtVVRj?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Bupati KDS Apresiasi Rangkaian Giat Bandung Bedas Festival - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckJncnJUVEQ5YWwtU0pNMnd4ZV96WXhqbEItMGp0TVhwMWlTYWppd3VDOVEtX0NXWnI5blBKV01XZmU4Nkt5TzdOVldWb01STzNwRmZUSHhJank0Q0ttaWlpcFlIOW9lTWxuR0VpbnM3cWlZelM3ZWRNMFllQ3VkTTU1TlkyQXAxSkR1RERTaE9zaVgyRFU2d1NhTzBhcWZiYUJV?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -186,8 +186,8 @@
      0
     ],
     "w": [
-     6,
-     14,
+     8,
+     13,
      3
     ]
    },
@@ -202,13 +202,13 @@
      "Kam"
     ],
     "p": [
-     3,
+     4,
      2,
      0,
      0,
      0,
      1,
-     0
+     1
     ],
     "g": [
      0,
@@ -415,7 +415,7 @@
     ],
     "w": [
      1,
-     8,
+     7,
      17
     ]
    },

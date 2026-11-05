@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:46:43.226947+07:00",
+ "updated": "2026-11-05T23:54:51.807579+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "RRI.co.id",
-   28
+   26
   ],
   [
    "Tribunjabar.id",
-   24
+   23
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
@@ -27,12 +27,16 @@
    9
   ],
   [
+   "Inilahkoran.id",
+   6
+  ],
+  [
    "detikcom",
    5
   ],
   [
    "PPID Kab. Bandung",
-   4
+   5
   ],
   [
    "Koran Gala",
@@ -48,10 +52,6 @@
   ],
   [
    "Radar Bandung",
-   3
-  ],
-  [
-   "Inilahkoran.id",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Pemkab Bandung Perkuat Mitigasi Banjir Lintas Sektor, Bupati Dadang Gandeng Kejari Kawal Anggaran Halaman 1 - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVG9NYkZ0T25WenpHSHRKZUNfaHluY0I1dDlSb3I2QkJrelBnNzE4OE1tUS1Sem9MT1IzRk9jRTRuV3ZIRy1Vbm5JSWI5V3lUMWRvZ0tuU1lyUWw2WmJmbmxkQjNJWkVzZG5GeG03ekZkd2NBNm5oLXdpVDJmeGVwYk1XYXl0ZWFoekFES1RSa0xDVUNJVlgtakRWbkRSQUY3NEV2UkFrQVpMYks5ZzBKSkhoc1l5bHZEZFowXzB0X3ZuNkxVX0M1Z3N0YmJNOEJn?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Jutaan Batang Rokok Ilegal di Kabupaten Bandung Dibakar - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGJfTlV4YTZ6Y0dwWHFMMUFINUVQOVhfQlNRR29waElrVFQ0X0pQR1R4a3F1UGVackMzN3lWSkV2N3NVY3hMOWlaVWdQZjlJeVYyN0dTTlpHS2JKZVczVWx4YnAxUEN4U1Z4amcxNERjbnVUNUNpVmRJSHBPdGU5WGlsRVVjM3NjMmw5ZUZjYndUYU4xTEk0MFNxM1ZFMUQ5SUlB?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGhxRnMxUXNLY18tdk12R1JSamRoNjZkb1Z0bTZ2aHNMZmI3NjZUeVdFSWxpTkR2T2xOenQ3VXJZQ0hZQWlZRTZmaVYyY2Z2NUgtTDNMcl9OWWVaUzkzTThDcXZISnd6ZnRHWnJJVXY1Yi1zcHZYdzR5bFpBd0F5R1NJWURCR2llQUp6U1M5TURmRHNpUlFrZ24xVHZTa3ZLdU1Z?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Bandung Dorong Kolaborasi Lintas Sektor untuk Tingkatkan Kualitas Kesehatan Masyarakat - jurnalpolisi.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVUwM2ZIOVJxRGRPY1htbnAxcDRFNkVZMnF1TzF6Rzd3Y1JkZmY2RFRqYWtKdTBySFBvYXlacVZBbk80NzdnT1o3ZmFwS0tSUThSLTJ2UnJKaUhvT2M5c2dqaHZZaTZwSldGeFVqU09pZTBWZ0puNkpweElzYUdXOThGWERNa2lVWkpVa0kxWXpjamJYYzVOZGlkZDZkMk9STFJMbEtSYmNsdmZrRXZLVUVWUE1QdGRLNUJNWENR?oc=5",
-     "r": "jurnalpolisi.co.id"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
@@ -118,7 +118,7 @@
     "w": [
      5,
      20,
-     15
+     17
     ]
    },
    "trend": {
@@ -137,8 +137,8 @@
      0,
      0,
      0,
-     1,
-     4
+     0,
+     5
     ],
     "g": [
      0,
@@ -146,8 +146,8 @@
      0,
      1,
      0,
-     1,
-     14
+     0,
+     17
     ]
    }
   },
@@ -258,7 +258,7 @@
     "w": [
      3,
      17,
-     2
+     1
     ]
    },
    "trend": {
@@ -285,7 +285,7 @@
      0,
      0,
      1,
-     1,
+     0,
      0,
      0
     ]
@@ -313,10 +313,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Polresta Bandung menghadirkan layanan SIM jemput bola di pesantren - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xQblFONllvdmJuUm9KYVAzWFRKSTFhSkZmTE5ONF92WDRVYm1JazJPa2xMaFNxUUdmRFdaNGM1eHIxVS1Ra3hBWWV3TWFSQWVNd1c2M29iZjd5S2s1SWo5WERuUEtQT0JpYld2UWlRdW0xYTFLYzBVVjhhSUNxQkVSaG1wd0o2all2V0VrcjNEOGpIRnpZd29RcURoTlZJaVQycVFBWU9xR3B5V3fSAbMBQVVfeXFMTzRGWEJpQzBfUHJOYUtDd2JZc3VNb1VOWTRGQ05wX1ZLQUxkVmFDVTctel9EVl9FMVg4SXZHai1CdGFzMkwyckJiLUZUT0RUWVBfdFNsWFdmVnRNUFZRVjV5T3AxWjB0R3Jyc2s4SS1QZG92MmFHVFhRVThYaFc1ZFIyVEV6OFNlc2M4d0VqaVpEc1RKQXU0d3JXS2otb1pQazJOTGVwVnk5c3lIZ3RwczRzemc?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "t": "Dasar Hukum - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFJ6SS12QkNrLTVyTDUtN1FhUzZRYXc4SFd6RFZoRmsxNHBKdWhsMzlHWkg4QXNNQnpsVFFTRVE5TUhRVHRrZ2dMTklwVG9vMV80ZTNMT0hBZ2pDLTBqX1JBNXQ3Y1IzUldPQTZkRThuUmJ6SFY3NG5aakllMmRPNmFndHdRSmRJSTUxRzc2ZnA4RHg1Qkx6dVV1ckw2cHFtcWVrMkhXM0NMZm9GRHRUQ2RUQU5ZcEJfQ2J3cFo3SQ?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     15,
-     9
+     16,
+     8
     ]
    },
    "trend": {
@@ -358,7 +358,7 @@
     ],
     "g": [
      2,
-     3,
+     2,
      1,
      1,
      0,
@@ -415,7 +415,7 @@
     ],
     "w": [
      3,
-     8,
+     7,
      24
     ]
    },
@@ -442,10 +442,10 @@
      1,
      1,
      0,
-     6,
      5,
      5,
-     9
+     5,
+     10
     ]
    }
   },
@@ -497,7 +497,7 @@
     ],
     "w": [
      1,
-     13,
+     12,
      2
     ]
    },

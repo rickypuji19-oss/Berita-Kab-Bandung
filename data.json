@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:38:04.279061+07:00",
+ "updated": "2026-11-05T08:57:41.384750+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Ayo Bandung",
+   "Tribunjabar.id",
    25
   ],
   [
-   "Tribunjabar.id",
-   25
+   "Ayo Bandung",
+   24
   ],
   [
    "RRI.co.id",
@@ -20,26 +20,22 @@
   ],
   [
    "Kompas.com",
-   20
+   19
   ],
   [
    "PPID Kab. Bandung",
-   15
+   16
   ],
   [
    "ANTARA News Jawa Barat",
-   10
+   11
   ],
   [
    "Pikiran Rakyat Koran",
-   7
+   6
   ],
   [
    "jabarekspres.com",
-   5
-  ],
-  [
-   "Inilahkoran.id",
    4
   ],
   [
@@ -47,7 +43,11 @@
    4
   ],
   [
-   "Pojoksatu",
+   "Inilahkoran.id",
+   3
+  ],
+  [
+   "dialogpublik.com",
    2
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Jangan Ada Informasi yang Dikunci karena Itu Hak Masyarakat ! - dialogpublik.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajcxQlFPbVVHQVNCUlVFRFlEMy1nUEFRdjdzUk1nUGd1TTRJRnl2aVVVY2xaUWJuVjNESkI2U2VsRzhkUHo3UG1BNGtBNkE3eE5xdy1lN0MwTjl2a2pPNFZBTkhIN3JvSjJIVDk3bk9YQlBJWHNIVER2ckVTRnNzaHpsbkhfOWVxdTYxZ0dR?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Bandung Diapit Ancaman Longsor dan Banjir: Pemkot Pangkas Sedimentasi, Warga Didesak Melek Evakuasi Mandiri - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXRQRnJQd3IxSTBSU2hIYW9JZU03Wmk3YnFlYW54d1N5cHdaLUtQZG9kYk90eUoyaUNqQzQybzFTZkw3TzBkdk1Tc29ocmR1TExLRG9DbFJ1V2dYU3liRnZGOVUzMUFra19YSU1FX05Yclk4dVNEYVdaVDFWa2N6WXB3eFh0SVJfYzlMUkFwMUN3Mlg2MldUbzgzNjhJLTdCLUJiMXVVSWZidHhWLXB3eDFBWVVyRV9CcXBmanY4WkdKdnFQWG9meEhoQTFVdkJKMVUwTkdKZ0JQTVJVZWxnUGs5RGRIb3RwS2JnedIB8gFBVV95cUxNLXoxckllQ09LR0RPbFpMWklDWDNQd1lfS0hyVGo3dkNOWl85RmRNMWFfb19FYUJvQjBZUnBTMjFvektncl92WDFWVEZTSE1wMWF3aEJielRoNVY2WDdYMHZqOFBLdTlMdjlUdTRaTUtHRFpNV0pqaEg5cEJzRWFJU3l3N0ROQVhoV04tT1lQRHlqUTcwcTZXT1Rqa0o4UEVpb1FfMXM4TjNpNFBCRUFvajhPZUc1U0dvY3NYT2JzbHY4QWJST0NtdlJJcVQ5T1VZREJhd0YxcDZYVW9wekN2Tlppbm9OMU9OVzRaRWRVOThEUQ?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2toUTBaWVVDVTRsTllNV1BxVkljRDlZMFF1bE1fT1JZeVBqOE9IR0xRM2tsY3dIM3MwVkctSXFHZlVoX1dabFpTQ1JpaGVKVHo2X1p6Z3R3eTNxSVczN1B2d0x4TnJlclp5YklZQkhtYUczZU9kclI0SjFIQ3BCa0pISTBwWER1bXdVZzZlOVNEMEM4dnFxWmc5TGRGYUxOUmt2Vm0zWDQ1cHhPc3UwNkE5OWpwNFRvWHBEb0Z3RUc?oc=5",
      "r": "Pikiran Rakyat Koran"
-    },
-    {
-     "t": "SPPBJ Dinas Perpustakaan dan Arsip kabupaten Bandung tahun 2026 - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZiOVpxTUx0N2drTklZek1mMVpuc3oyUFJMWFkxOWtzcHQ1M1ZqdExzdEZPNXhzbUtCdUk3d1JZWklBVGY2R01FZjQtT0Q0ci1La18zaXNONHhfWV9MQXhrVGRQd1NkUkRzVGNjYWFET3Vlc3BXUDVxYmhLdFMyQ2JaMWdXYUh1aGphZTNscE45VXVxQWRiQzlwaGl1T2t0RjdCaGxySG15UnJ6UVlBVjRhN0RSbWxydG5qYmozQTZwUXMxX3c?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "MANTAP PISAN PA SEKDA JAWABARAT KOLOBORASI DENGAN PEMKAB BANDUNG DALAM MEMBERSIHKAN SALURAN",
@@ -117,8 +117,8 @@
     ],
     "w": [
      7,
-     38,
-     3
+     39,
+     2
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      0,
      0,
      1,
-     1,
+     0,
      1,
      1
     ]
@@ -186,7 +186,7 @@
      0
     ],
     "w": [
-     6,
+     5,
      14,
      3
     ]
@@ -202,7 +202,7 @@
      "Kam"
     ],
     "p": [
-     3,
+     2,
      2,
      0,
      0,
@@ -333,7 +333,7 @@
     ],
     "w": [
      1,
-     20,
+     17,
      15
     ]
    },
@@ -415,8 +415,8 @@
     ],
     "w": [
      1,
-     9,
-     16
+     10,
+     17
     ]
    },
    "trend": {
@@ -442,7 +442,7 @@
      3,
      1,
      0,
-     7,
+     8,
      5,
      5,
      0
@@ -496,8 +496,8 @@
      0
     ],
     "w": [
-     2,
-     15,
+     1,
+     14,
      2
     ]
    },
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      0,

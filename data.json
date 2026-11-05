@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:54:25.591660+07:00",
+ "updated": "2026-11-05T15:10:36.781182+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,35 +8,31 @@
  "portals": [
   [
    "Ayo Bandung",
-   26
-  ],
-  [
-   "Tribunjabar.id",
    23
   ],
   [
-   "RRI.co.id",
+   "Tribunjabar.id",
    22
   ],
   [
+   "RRI.co.id",
+   21
+  ],
+  [
    "Kompas.com",
-   20
+   21
   ],
   [
    "PPID Kab. Bandung",
-   14
+   15
   ],
   [
    "ANTARA News Jawa Barat",
-   11
+   10
   ],
   [
    "Pikiran Rakyat Koran",
    6
-  ],
-  [
-   "Inilahkoran.id",
-   4
   ],
   [
    "jabarekspres.com",
@@ -45,6 +41,10 @@
   [
    "detikcom",
    4
+  ],
+  [
+   "Inilahkoran.id",
+   3
   ],
   [
    "Radar Bandung",
@@ -116,8 +116,8 @@
      1
     ],
     "w": [
-     4,
-     37,
+     3,
+     35,
      3
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      0,
-     4,
+     3,
      0
     ],
     "g": [
@@ -188,7 +188,7 @@
     "w": [
      6,
      14,
-     3
+     1
     ]
    },
    "trend": {
@@ -214,8 +214,8 @@
      0,
      0,
      0,
+     0,
      1,
-     2,
      0,
      0
     ]
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Sumbang 51,97 Persen PDB, Konsumsi Rumah Tangga Masih Tulang Punggung Ekonomi RI Halaman 1 - Kompas.com",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORldPSC02ZG1FNXJuRmFyYlJzRzZtNjhaal93emVXd1JXRnpmOFlfeDg3aTVUbFJoUnBFZEJ2TzVuWWpYcFNTLWFUZ0ZCeXkwSWg0Qkl6WXNJTGZXZG5rUjd0MzZ0cFR2TFBhVkRySUN4VEpWOGN4Wmc0QkRuQjVjUHg0UGk3RTJwT1VvSUVPZTdCV0Z2NmxXek1zVWk5M3pkUnpPQmY0Z1JXN2ctRXhELTdxclBMREl3UnJmMjAwc2lsRzByZV9wdzA1OEMwTnBNajBz?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Sumbang 51,97 Persen PDB, Konsumsi Rumah Tangga Masih Tulang Punggung Ekonomi RI - Kompas.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2pRWjBVSi1jYzk5RG1GQUJldjU3ZjdkR0VzTlBhZEsxSzlJd1ZScjhFT19fcmZ6SHVzb2NMdTAxamlrT2VpbUFLa3Z0MnZTckwxSjl6OEJ0NWZzMG81UjdLZFBzODYyLWxLUFJXNktGQkRyX0p3LXBZdDhsYXB0cVdRbE9wVTN4ZU5VeUF1LURnMmlmV1MxcWZCdjduZzljZE5kSEJCMEZpLWhvUkNVZFE2Wko0dTk4SEhweVRZd19ha09ocV8xUg?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtSUnJ1OXZZZWJrak5TMG1MX3hIeU13ZDRoNEtnYUQ0WXVGcTBFRS1RaFNHSHhYVW5PVDcyVG5ZQXNtbFFocDZDRjR1ZXBEWG15X003Q0Nydm9fSHZ5SUxpbjBvekc3U2NvcmdxamtKeGt2RENlV0VsREJNbmZESnZVb3BMc05yZVlPNHhUdFNRbkhvZWNKVGo5RUVTMWl3LTNwMlFEOEFOVWF3VkE?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "PEMERINTAH KABUPATEN BANDUNG DINAS PARIWISATA DAN EKONOMI KREATIF - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelgxbEhKUW8zZ0JOa1psbUstSllhZDZtekttOFJoRm9iWTZPYm5GRVpIUUpCajRHODYyaHRjaHpZZlZXcER6UlU0Y2ZyNzJWRm94TW5mbWJhWHI2cjl3T3VGb2lIX0Vta2RGYTI0RVNmZXVvRUEyaHQzOGV1M0Y5NnFyemJUMG9TVTVSTVRsUDNhOWVWcU9VaUhTeGJDekZWR1BMVFdaUFRZdXBpVmc?oc=5",
-     "r": "PPID Kab. Bandung"
     }
    ],
    "v": {
@@ -256,8 +256,8 @@
      0
     ],
     "w": [
-     7,
-     15,
+     8,
+     14,
      4
     ]
    },
@@ -278,7 +278,7 @@
      1,
      1,
      1,
-     0
+     1
     ],
     "g": [
      2,
@@ -334,7 +334,7 @@
     "w": [
      1,
      17,
-     15
+     16
     ]
    },
    "trend": {
@@ -357,7 +357,7 @@
      0
     ],
     "g": [
-     4,
+     5,
      3,
      3,
      4,
@@ -383,16 +383,16 @@
      "r": "Pikiran Rakyat Koran"
     },
     {
+     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF4R3RnOFMtUEp4WlBqcEVfREJtUmdQZFJIY29jUkY1QkpZOGhRajVaenZOc1JxTEhtOW1WYmt2SkN4YjNGY1d6VWpCLU01NWdSbkYxWXppbGNtRDJ1YTl4WTdGa05hRXZyYkRCREdzaHFlbzRRTThNcVJYajU3T1lOMFJ6LWU2OUxuNEhmaHREbE5HODNoRHpHbURCSldIeFY1SUlnOFdCNmhnZVNJZTJ3cDFCQktrb1pUR2JIMVFRcjk5UFJ5RQ?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Jeje Ritchie Ismail Sebut Wlayah KBB Masuk Status Rawan Bencana Longsor Saat Musim Hujan - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVVVd00xcEVOWjdJbVNNMnNEVXNUU0lBVEVtbV9OcklSZ0RHZXdZZjE5SVVTYkJjZTZMVkEwNDBHMFNmSDBFeVMxTUhpeGFkdXNtSmpOMERybWhtN1BMU0hPX21USG85ZHlZV2gtcmFOcmlmN2dyek0zSFlHNWlDYUMtY1RCME1fVG9wZ3RrZ2ladk5Sd1NUTXcybUp2OXNQZzFOTks0ZVl0U190MUxmQUxHaUhTaWFONHJCZkF6QTBBOEFKLTZ3enNqZlc4TDVpQjRVSUtB?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : 56 Kios di Pasar Baleendah Dibongkar, Bangunan Liar di Jalur Irigasi Cirasea Juga Ditertibkan Halaman 1 - Kompas.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk1RdWdxdG9XYlFObnRRcWtKQVh6WXY0OHVmOEc3Z3R0ckJ0R1FXQlhhaFYtNTNMaDJvaS1tM252ZDd3Mml0X2JodC1RbVZJSmpFWDF3R2RVSXlYbjBUdkU2Z29lSjhhaThxTjVlaC1vUG9lNkE2aUxvSExzcUIwVnRfOXp1RXF1eE9OX0Q5TllOc1dpbW1xVXpZcmY4dWZtX0tyanozTGZGZUFXVXljYkpQYkdxNE1CdnVQWnJ6XzMtcVVkV0xsVnYtYTVhSVRySGc?oc=5",
-     "r": "Kompas.com"
     },
     {
      "t": "Forkopimcam Rancaekek Gelar Apel Siaga Bencana, Perkuat Antisipasi Banjir dan Puting Beliung",
@@ -415,8 +415,8 @@
     ],
     "w": [
      1,
-     9,
-     17
+     10,
+     16
     ]
    },
    "trend": {
@@ -442,7 +442,7 @@
      3,
      1,
      0,
-     8,
+     7,
      5,
      5,
      0
@@ -496,9 +496,9 @@
      0
     ],
     "w": [
-     2,
+     1,
      13,
-     3
+     2
     ]
    },
    "trend": {
@@ -513,7 +513,7 @@
     ],
     "p": [
      0,
-     1,
+     0,
      0,
      1,
      0,
@@ -522,7 +522,7 @@
     ],
     "g": [
      0,
-     1,
+     0,
      0,
      0,
      2,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:06:29.905713+07:00",
+ "updated": "2026-11-05T22:46:43.226947+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,39 +8,39 @@
  "portals": [
   [
    "RRI.co.id",
-   27
+   28
   ],
   [
    "Tribunjabar.id",
-   25
+   24
   ],
   [
    "Kompas.com",
-   19
+   18
   ],
   [
    "Ayo Bandung",
-   19
+   16
   ],
   [
    "ANTARA News Jawa Barat",
    9
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
    "detikcom",
    5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "PPID Kab. Bandung",
    4
   ],
   [
-   "PPID Kab. Bandung",
-   4
+   "Koran Gala",
+   3
+  ],
+  [
+   "jabarekspres.com",
+   3
   ],
   [
    "Ketik",
@@ -55,15 +55,15 @@
    3
   ],
   [
+   "Pikiran Rakyat Koran",
+   3
+  ],
+  [
    "Satumedia.id",
    2
   ],
   [
    "Depost Jabar",
-   2
-  ],
-  [
-   "deJurnal.com",
    2
   ]
  ],
@@ -117,8 +117,8 @@
     ],
     "w": [
      5,
-     18,
-     16
+     20,
+     15
     ]
    },
    "trend": {
@@ -146,7 +146,7 @@
      0,
      1,
      0,
-     2,
+     1,
      14
     ]
    }
@@ -256,7 +256,7 @@
      0
     ],
     "w": [
-     4,
+     3,
      17,
      2
     ]
@@ -274,7 +274,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      1,
      0,
      1,
@@ -333,8 +333,8 @@
     ],
     "w": [
      1,
-     16,
-     16
+     15,
+     9
     ]
    },
    "trend": {
@@ -357,10 +357,10 @@
      0
     ],
     "g": [
-     4,
+     2,
      3,
-     3,
-     4,
+     1,
+     1,
      0,
      1,
      1
@@ -377,9 +377,9 @@
    ],
    "h": [
     {
-     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral – Laman 4 - jabarekspres.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjR6c045RTc4NkUtaEROWHdSTFZ6RzUyU2p4LVpBTWZ4SGtDV2lTVGo1MU54a3RZM1oteF9BQksxOGpqZ1p2VnhMdV94RHZnazlwdFd0dFdVdGg2Zk1TdkNwS2dKQ2VqSV93UFB3MXNHUzFzZ2dncWw5Tkh2RTYwaWhNUXRCVTZiWVpfSkFtTlZPN19YTnBsWXI5OEJvN3NCS3BYNDd1cWJndDVmcGNtNGRR?oc=5",
+     "t": "Tekan Risiko Banjir, Pemkab Bandung Perkuat Sinergi Lintas Sektoral - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0N1N2dQSzdlQkRXbmhnSTh0a3lrSnNYU01WZ1ptaHk1YndDLVU2eVhucE93d3VpREtLckp1OVZhdUtpRGxxWkxpQXMweTVuemxtSnZxMTlTYUphTXN2VXF5Ykx3djhPbk1uU0ZSLTBtNTNoV05wV2Zjczk4Y2ljbUNTVk1aSUlvNlhmSU4xVERhNmkyZ0t4bUtCZ1B3TXFQQkpEdXBnN1VsdlhVM0xF?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -416,7 +416,7 @@
     "w": [
      3,
      8,
-     22
+     24
     ]
    },
    "trend": {
@@ -442,10 +442,10 @@
      1,
      1,
      0,
+     6,
      5,
      5,
-     5,
-     8
+     9
     ]
    }
   },
@@ -465,16 +465,16 @@
      "r": "Jayantara News"
     },
     {
-     "t": "Rp159 Juta Kembali ke Kas - Inilahkoran.id",
+     "t": "Disdamkarmatan Bandung Siaga Hadapi Potensi Bencana Hidrometeorologi - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVG9WUnc2aUl3dndqMTBGem1FYThQcVNnM2ROd1MwSmNCLTdySG56aU9LSDFBSjhtTWw2eVY4OVFJN1lMaHFhTG5LNEhMX3k1b2ROWkl0U2Q2UXgwYUViemdn?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJsd2t5WGxuX2FOdzZwQ1BYLTJFWG4zbENlUng0VUFJdGdwdUJnTWxXVU16eGo0dnJxbXY1QXItNVgtUTgtYU5CZlV2WXA0ZEEzRGg3dnBMMTd1Mlo1ZGFMT0VRTHBtUDRRNmxNakU3bWs4VWNPNXN5SlRJUmdMeVlnNUlyeVBkaGcwM2NrZkc1RXZwNC1JaTZQeGZDRzNZaUFhYTNlaE1vbUJRbXpSRg?oc=5",
+     "r": "RRI.co.id"
     },
     {
-     "t": "Mahasiswa Penerima Beasiswa UIN Bandung Jadi Tersangka Demo, Tangis Ibu Pecah Harap Keadilan - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0xPWWlRRkV4ZUFMMGh3cC1iZU91R2RIZmV6bXhLdjV6c3R1XzczWEhrX1JXdlpJaXpkdmRMZXRJWWJWa3FEUjQ5c0hQeElNWTRmcUF1cUVjZDNSclo2cnpsX0ViV0xKM3VGVUJjd0VWRnVsY3VHanlYX3ZKbHUtSTh5dl9pVm56dnRaS0Y3VG9rT19pWkduVjVVZHdnZUQtLXd5Y09uS2lBZmFSSEd4ZTdId1RvcVZRLW1VcmxQdzM1VENvU0NQTmRQaWdrVGhpSkNrRkdPNndOdw?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Bupati: Guru Terus Tingkatkan Kompetensi Menghadapi Perkembangan Zaman - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpRVVzbmNGcWN6Umh0dnkwY3N5SlRLUzhvblVoWVY5ZHF0cHRSakN4M3kwbld0X2JVeXZVcmlra2l5bHk3T0hnUGlCTlNGREFQcEt3aFhGZTlvUkg5MTB2RjBVUzZsTXFWOWM5V3FuclR5WkJ3R1FDQjhnYjRwb3RQNWN1OXhrSW1peFJEcUY0VGZmc05TQkxBYmpYZ1J1NUNiTWNMYTl1bnNEblE?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Kapolresta Bandung Kombes Pol Dr. Tri Suhartanto Peduli Pendidikan Pimpin Upacara di SMPN 1 Soreang ",
@@ -497,7 +497,7 @@
     ],
     "w": [
      1,
-     12,
+     13,
      2
     ]
    },

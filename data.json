@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:39:22.174314+07:00",
+ "updated": "2026-11-06T02:43:19.674757+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -20,7 +20,7 @@
   ],
   [
    "Ayo Bandung",
-   15
+   16
   ],
   [
    "ANTARA News Jawa Barat",
@@ -31,11 +31,11 @@
    6
   ],
   [
-   "PPID Kab. Bandung",
-   5
+   "detikcom",
+   4
   ],
   [
-   "detikcom",
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      4,
-     21,
+     22,
      15
     ]
    },
@@ -313,10 +313,10 @@
      "r": "Kompas.com"
     },
     {
-     "t": "Dasar Hukum - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFJ6SS12QkNrLTVyTDUtN1FhUzZRYXc4SFd6RFZoRmsxNHBKdWhsMzlHWkg4QXNNQnpsVFFTRVE5TUhRVHRrZ2dMTklwVG9vMV80ZTNMT0hBZ2pDLTBqX1JBNXQ3Y1IzUldPQTZkRThuUmJ6SFY3NG5aakllMmRPNmFndHdRSmRJSTUxRzc2ZnA4RHg1Qkx6dVV1ckw2cHFtcWVrMkhXM0NMZm9GRHRUQ2RUQU5ZcEJfQ2J3cFo3SQ?oc=5",
-     "r": "PPID Kab. Bandung"
+     "t": "Polresta Bandung menghadirkan layanan SIM jemput bola di pesantren - ANTARA News Jawa Barat",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xQblFONllvdmJuUm9KYVAzWFRKSTFhSkZmTE5ONF92WDRVYm1JazJPa2xMaFNxUUdmRFdaNGM1eHIxVS1Ra3hBWWV3TWFSQWVNd1c2M29iZjd5S2s1SWo5WERuUEtQT0JpYld2UWlRdW0xYTFLYzBVVjhhSUNxQkVSaG1wd0o2all2V0VrcjNEOGpIRnpZd29RcURoTlZJaVQycVFBWU9xR3B5V3fSAbMBQVVfeXFMTzRGWEJpQzBfUHJOYUtDd2JZc3VNb1VOWTRGQ05wX1ZLQUxkVmFDVTctel9EVl9FMVg4SXZHai1CdGFzMkwyckJiLUZUT0RUWVBfdFNsWFdmVnRNUFZRVjV5T3AxWjB0R3Jyc2s4SS1QZG92MmFHVFhRVThYaFc1ZFIyVEV6OFNlc2M4d0VqaVpEc1RKQXU0d3JXS2otb1pQazJOTGVwVnk5c3lIZ3RwczRzemc?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "Pemuda Asal Cijagra Jadi Korban Begal di Paseh Bandung Polisi Didesak Buru Pelaku",
@@ -339,8 +339,8 @@
     ],
     "w": [
      1,
-     14,
-     7
+     13,
+     9
     ]
    },
    "trend": {
@@ -363,9 +363,9 @@
      0
     ],
     "g": [
+     3,
      2,
      2,
-     1,
      0,
      1,
      1,

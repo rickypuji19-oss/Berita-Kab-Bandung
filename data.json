@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:56:57.409359+07:00",
+ "updated": "2026-11-06T09:45:11.698062+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "RRI.co.id",
-   27
+   28
   ],
   [
    "Tribunjabar.id",
-   23
+   25
   ],
   [
    "Kompas.com",
@@ -20,11 +20,11 @@
   ],
   [
    "Ayo Bandung",
-   16
+   17
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   7
   ],
   [
    "Inilahkoran.id",
@@ -99,20 +99,20 @@
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=oK9acGbHguo",
+     "u": "https://www.youtube.com/watch?v=k_C_D4N3kUw",
      "r": "YouTube Diklat ASN Kab Bandung"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
      "s": "neu",
-     "u": "https://www.youtube.com/watch?v=9LyHzWDiiD8",
+     "u": "https://www.youtube.com/watch?v=oK9acGbHguo",
      "r": "YouTube Diklat ASN Kab Bandung"
     }
    ],
    "v": {
     "s": [
      0,
-     5,
+     6,
      1
     ],
     "w": [
@@ -188,7 +188,7 @@
     "w": [
      5,
      14,
-     2
+     3
     ]
    },
    "trend": {
@@ -214,7 +214,7 @@
      0,
      0,
      1,
-     1,
+     2,
      0,
      0,
      0
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "BPS Jabar: Wow Mengejutkan! Angka Pengangguran Sempat Menurun - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjk0S0xTVm44T09OLThxMDlXdjFteUdaZElXTEVWN3VJOExXRmFHNGRfSFROM2t1aTA1Mi1QYVBLbG9rN1pkVlhmekF4MS1ZNmMxMTFjekN2QXBqV0JNSUtDOC1SMGNoelF6YW9tNmVCWFhDWlRjT2xfcThUX1FLdkRTVHRFbDg1X3drelFsdkZ0ci1lUVo2UGdwUjFtaW9TZWRCdU5SX2pqTTJ6T09z?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Pengangguran Jabar Turun Jadi 6,67 Persen tapi 13 Ribu Orang jadi Korban PHK - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHByU3ctQkF0aTVucjJUYjdrQ2pBbUg2T0hpVVRUUHV5TzZwdWVSV0dlVXBiVnpYSlBSclZPcTBFbHR4WDBaT3phYnJxMGE4Q011dWhiOFN4bWFhSHVxVzJRM2J2YndHUlplZDJ1Ty14MFRzRlhiQ3hpTGJxZEJESmtFbTRzWDRCY19JSXJEb3VieDZvUjJvQ0ZQNkFEb2xlVTdvbjRhaHdqTUg2VTlqbUd6Qm1CLU15VkNYa0VLWDdoUDlj?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2l2ZHJVV05LWDI5UEJ0T2hscF9KeGh6UUw3N25OdVVBLUI2Smx0alZiS3BibzJSUkxMWUltZ0VJeGVkTktkcGUwMWpBWE5QM3kwUV9VeUlrUDZPbkhObFVtR01wVWRnVDJuV1ZDYUpNWHZCamd5SGZhUUp3dlgwUzNsZU1MUE1Ndi1xR1VXX19yZ2hWRmplTzVQYnVRMW9sZVFEUFVhN1VDaGQ2VFJtcVB6WHIxMEVhdXczY3JVMnNTdmNzbW9TZ05fZHBBamVDT093?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Foto : Sumbang 51,97 Persen PDB, Konsumsi Rumah Tangga Masih Tulang Punggung Ekonomi RI Halaman 1 - Kompas.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORldPSC02ZG1FNXJuRmFyYlJzRzZtNjhaal93emVXd1JXRnpmOFlfeDg3aTVUbFJoUnBFZEJ2TzVuWWpYcFNTLWFUZ0ZCeXkwSWg0Qkl6WXNJTGZXZG5rUjd0MzZ0cFR2TFBhVkRySUN4VEpWOGN4Wmc0QkRuQjVjUHg0UGk3RTJwT1VvSUVPZTdCV0Z2NmxXek1zVWk5M3pkUnpPQmY0Z1JXN2ctRXhELTdxclBMREl3UnJmMjAwc2lsRzByZV9wdzA1OEMwTnBNajBz?oc=5",
-     "r": "Kompas.com"
     }
    ],
    "v": {
@@ -334,7 +334,7 @@
     "w": [
      1,
      15,
-     10
+     12
     ]
    },
    "trend": {
@@ -359,7 +359,7 @@
     "g": [
      3,
      2,
-     2,
+     4,
      0,
      1,
      1,
@@ -411,7 +411,7 @@
     "s": [
      1,
      1,
-     2
+     3
     ],
     "w": [
      4,
@@ -439,7 +439,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      0,
      5,
      5,

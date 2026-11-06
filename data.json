@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:33:16.137622+07:00",
+ "updated": "2026-11-06T07:36:15.290817+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   28
+   27
   ],
   [
    "Tribunjabar.id",
@@ -16,22 +16,22 @@
   ],
   [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
-   16
+   17
   ],
   [
    "ANTARA News Jawa Barat",
    8
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
+   "Inilahkoran.id",
+   6
   ],
   [
-   "Inilahkoran.id",
+   "Pikiran Rakyat Koran",
    5
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Satumedia.id",
+   "Radio PRFM",
    2
   ],
   [
-   "Radar Bandung",
+   "Satumedia.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Antisipasi Banjir, Pemkab Bandung Hitung Kebutuhan Pompa Portabel untuk Wilayah Rawan - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFQ5bXRKSGVpRHd4MzExcUZhdnNNTW8teVJnd3lScDhDTWN2UTF0LWFrbkRabjNCcGdTUjhlOEVmVkxod05Fc09GdV9VMEV5WjZQa1I1bC1JUGQxejJ4RE9EeVVjWDljakVSdFcxcFNPMDBWMGRhVG56Q3RkUU5nLUJKcWFkSmZZU25vMk45VkcxZmVVSUhlamhPamZvMlctRlFGb2ZUSTBSLWZLeHlxeG9jZlVUbG5zMk56ZjhPSWh4VHRzUTMwdnYxYUcxc3pqdEExdGo4NHJWaEk5MjNTddIB5gFBVV95cUxNblpuV1V0cWt4WFBpT1BfN2w0cE1yOEVHZElhLXNHQ2o5NWI4TEhsZFM3c0VfYUxFbWR5b2JTVG5qTjBHdVlRdDhva0pPM3o0ZTZEQ3NHbnN4UTNGekM2WWJfM2Z1SGdJYnc3OFBmZktCOUxnT3hBeDFUOVZUR2dmSnZPTzdKMlVSUWptTUQ5U0FtbWRMLUZqX2lTT2ttaGtvcjl6SVpadVYyanpUTS1rWjNkcGZzVVZKQjl5eHk4TG1RNnZ0S2dfTkpQQU5yM0lZRE1Ga2g0UEtHMjNGRm5TdHc2VmVWdw?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Normalisasi Sungai Cikahiyangan Jadi Upaya Atasi Banjir Kopo Sayati - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0s1dWlveFhfeHBMNGIyZERaMDlPZ2NVTldxRXVKSmkyWXJhMV9UcTYtcDllLTE4cVBfbW5GOFE0cE45T0l2eEE3STJWb1VaSU5PMHRUM0VjSXdmU2VsSFM3cnFETUNoa18xcnBYLWl1bFkzTElxVDBuOXJVdXBfV0NoemlkZ0k0dFRTa0dwbTZMUTVtSk5VQTV6Z3lxaFRkc3NkMnpRdHFUVzVQRGdpSmJ3c2tHMFVMUm9RUA?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkFLR1BxWmx4Si0zakdUQmtkSms3RlNYOHVzb0xScTVST3ZyR2Fhd0VNZlh4NWdoSXV0Qi04UWtWR0NlR3ExSEdjUTc5aEF6S0dvQnVZZzRsb2hybzVHM3QtTnJXN1pjTm10ZVU3bWNhbzgwazJLQ0xLWHJKMmc2Q0lwT2xTWUJBVk50MHl0Zk4taXRMOUw4RGFiTG45LTJ3azlDY1Jmd1A3czJPSjlHM0pOblFBeDd6TDlwRXpqTkdLelNr0gHKAUFVX3lxTE5kLXM1QXFhakNnY0hLWGFXQUxmZnR6QnptU3M4bUwwN0k2U0szaTExdkpIUE4yWnVwYWx1c0JGTGtUREFNNGYtUlkySHhtcHkzNHZGQmNEY1BHVjJDMkpwNnZScXlMdnpoUl9RVDhyOFIzWkcwTDVTdXFSZGV3dEVOTHZxckpiM2xlTnY0cjVKVzBUclVBXzAxdWtIaTluTTE0c0lLR25icXVBQmFmWnNtdDE1MWRNeU1WNkxObktqQmNKUHp6OXMta2c?oc=5",
      "r": "Giwangkara"
-    },
-    {
-     "t": "Rokok Illegal Lenyap! Target Cukai Jabar Rp30 Triliun - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTN1UWljaTA3eU91SXV3RTd4X1JaNnJsY3RLSV9iMEstYkkwTUpTMGhWUG1lWlJxXzA2aFJwRi1xZUl4WllhUWc3cTBWR21LVjZEaVRuYzlsMWVwSkFsSFBpa2NNX3lRZThQSnVOUktVVW12eWZfS0lKN2wwby1QMHhWcmozYnRRcWlORzBoWVpaVkFuTVV0cS04NA?oc=5",
-     "r": "RRI.co.id"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
@@ -118,7 +118,7 @@
     "w": [
      4,
      23,
-     17
+     18
     ]
    },
    "trend": {
@@ -147,7 +147,7 @@
      0,
      0,
      16,
-     1
+     2
     ]
    }
   },
@@ -188,7 +188,7 @@
     "w": [
      5,
      13,
-     3
+     4
     ]
    },
    "trend": {
@@ -214,7 +214,7 @@
      0,
      0,
      1,
-     2,
+     3,
      0,
      0,
      0
@@ -257,8 +257,8 @@
     ],
     "w": [
      3,
-     18,
-     1
+     17,
+     2
     ]
    },
    "trend": {
@@ -284,7 +284,7 @@
      0,
      0,
      1,
-     0,
+     1,
      0,
      0,
      0
@@ -377,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Antisipasi Banjir, Pemkab Bandung Hitung Kebutuhan Pompa Portabel untuk Wilayah Rawan - Radio PRFM",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFQ5bXRKSGVpRHd4MzExcUZhdnNNTW8teVJnd3lScDhDTWN2UTF0LWFrbkRabjNCcGdTUjhlOEVmVkxod05Fc09GdV9VMEV5WjZQa1I1bC1JUGQxejJ4RE9EeVVjWDljakVSdFcxcFNPMDBWMGRhVG56Q3RkUU5nLUJKcWFkSmZZU25vMk45VkcxZmVVSUhlamhPamZvMlctRlFGb2ZUSTBSLWZLeHlxeG9jZlVUbG5zMk56ZjhPSWh4VHRzUTMwdnYxYUcxc3pqdEExdGo4NHJWaEk5MjNTddIB5gFBVV95cUxNblpuV1V0cWt4WFBpT1BfN2w0cE1yOEVHZElhLXNHQ2o5NWI4TEhsZFM3c0VfYUxFbWR5b2JTVG5qTjBHdVlRdDhva0pPM3o0ZTZEQ3NHbnN4UTNGekM2WWJfM2Z1SGdJYnc3OFBmZktCOUxnT3hBeDFUOVZUR2dmSnZPTzdKMlVSUWptTUQ5U0FtbWRMLUZqX2lTT2ttaGtvcjl6SVpadVYyanpUTS1rWjNkcGZzVVZKQjl5eHk4TG1RNnZ0S2dfTkpQQU5yM0lZRE1Ga2g0UEtHMjNGRm5TdHc2VmVWdw?oc=5",
+     "r": "Radio PRFM"
+    },
+    {
      "t": "Normalisasi Sungai Cikahiyangan Jadi Upaya Atasi Banjir Kopo Sayati - Pikiran Rakyat Koran",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0s1dWlveFhfeHBMNGIyZERaMDlPZ2NVTldxRXVKSmkyWXJhMV9UcTYtcDllLTE4cVBfbW5GOFE0cE45T0l2eEE3STJWb1VaSU5PMHRUM0VjSXdmU2VsSFM3cnFETUNoa18xcnBYLWl1bFkzTElxVDBuOXJVdXBfV0NoemlkZ0k0dFRTa0dwbTZMUTVtSk5VQTV6Z3lxaFRkc3NkMnpRdHFUVzVQRGdpSmJ3c2tHMFVMUm9RUA?oc=5",
@@ -387,12 +393,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjR6c045RTc4NkUtaEROWHdSTFZ6RzUyU2p4LVpBTWZ4SGtDV2lTVGo1MU54a3RZM1oteF9BQksxOGpqZ1p2VnhMdV94RHZnazlwdFd0dFdVdGg2Zk1TdkNwS2dKQ2VqSV93UFB3MXNHUzFzZ2dncWw5Tkh2RTYwaWhNUXRCVTZiWVpfSkFtTlZPN19YTnBsWXI5OEJvN3NCS3BYNDd1cWJndDVmcGNtNGRR?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Pemkab Bandung menyiapkan enam kolam retensi untuk tangani banjir - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3I0Yzh4RGZ2dEktV3BaNVo1eWJKTlRuOXVuRDI4bWdnWWZyTnhBVTFodGJ6cXZqQXNGU0VPdWVucnkwbkpRamlwRlNqeWk4R05lYWljUElzS01Hb1ptZExiVHJiejIwdXZaOE5TbnV1T0ZlWUFaZnpKd0twaDcyMVNzakJ1cmU3dkttNUF1SnNJc09FdTU3cGFZT3lMV0JqbXl2UjlnN1JvQ2NL0gGyAUFVX3lxTE9MbDhCMjRQdzVsaTFWbk9BbFQxZ2tWZVBqS3VoTnFnMmlLMGFHT2U3WS1TRnMtWTZIc0ZkSzd6TlZaNUYwdGRIVlItRkI5elhEZFkwLTJxS2podEo3MkgwejJHOWEybk5pbTNkU2hWRUdBdFo4XzhYd1E5NHhxT0dwdzFBMThlVFNiRW1pSXQxSVhnQkRxUl9MZVJaa1I3TTRWc01JUmViY01HRkVubTlMa1E?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "JALAN PENGHUBUNG KOTA BANDUNG DAN KABUPATEN BANDUNG KINI MULUS",
@@ -416,7 +416,7 @@
     "w": [
      4,
      7,
-     24
+     25
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      5,
      5,
      10,
-     1
+     2
     ]
    }
   },

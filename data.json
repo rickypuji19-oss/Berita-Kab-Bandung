@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:36:15.290817+07:00",
+ "updated": "2026-11-06T08:56:57.409359+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -16,11 +16,11 @@
   ],
   [
    "Kompas.com",
-   19
+   20
   ],
   [
    "Ayo Bandung",
-   17
+   16
   ],
   [
    "ANTARA News Jawa Barat",
@@ -47,15 +47,15 @@
    4
   ],
   [
+   "deJurnal.com",
+   4
+  ],
+  [
    "Koran Gala",
    3
   ],
   [
    "Ketik",
-   3
-  ],
-  [
-   "deJurnal.com",
    3
   ],
   [
@@ -117,7 +117,7 @@
     ],
     "w": [
      4,
-     23,
+     22,
      18
     ]
    },
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Anggota DPR RI dan ATR/BPN Kabupaten Bandung Sosialisasikan PTSL di Banjaran, Target 15 Ribu Sertifikat Tanah - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ3hVZFVRUHNKejQ0LXVKdW1leDFZSkZxNFFmOWJEcVNDdDEyUmtlb0hyLWtld0g4a2p3cjJuOXM0QXdTM0ZqbmtVcF8wUG92WURhUzZvdlhrcnB3MGNZVWNMbWdkRERkNjdWTmRSTG8xNzI5bkwxRXhBNGxEUHBEcUZwaXRLQ2VTVmJDSmV0dWVNV3pscGhzUWVUcXRtZlhaSEF4Wm5oUHNXbDJMV0laTTFrMEZ0VDdCWmg1cFVkQkIwMC1OS0RSUVZwd1pYbmpGM1pqXw?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "BANGGAR DPRD Kabupaten Bandung Bahas Raperda APBD 2027, Renie Rahayu Fauzi Pimpin Pembahasan - deJurnal.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFlRcFF0eUgzYTY4SEo0MnNxX0VuUTZnV0ZyZm9ITEJ1cmlXLWIteWdpS3RGT3J6WTlZSzJDUzBZWUZiMWpqc1JzRVpyY2tMTTMxQjcxZk04VWpuOHRmQWNFVm0tcE1XR0JHTUFzOFFqYmIzRlBoVURoVnprYmhKNW43bTV4Zy1uc2JVYURDY3A2RkRaeExWa2d4VkJPVk11RjUwbjBtaElsU3FTWFFmdHFQY1FFdnZGbDZOT3BB?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWkhVMG5HVTZMRDcwT0VQOTdiNHlTVVlrOWxGT1oxWlNWVzJxbjZZTDc0OEpyVUM0dmw4SUlPZTFRVWlhaHZTNGczMzFNZnpTSDVNVW54eFpfUGEwV1hjbWNhWkp4OWJ2T0lwWFB2MTVzUFE0akVPWll3?oc=5",
      "r": "SUARA PAKTA"
-    },
-    {
-     "t": "Ketua DPRD Kabupaten Bandung Dorong Penataan Alun-alun Soreang, Jadi Ikon dan Wajah Ibu Kota - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUhOOHVVWHQ3T2JCTXFaX19EdmxiNS1tTWdpTWlYR1RYR09JVVE3MHlQREViV1Z5akNXM05SY0FOOHQ0MkhRWXhsbURVM3dBTkpqc2Z5WWJkd3BrRlVUVXJoOTl1UnppT3ZVZlpzUlRONXBmN01FQm1BejB4Snp3YllmaGlfZTVRTnNsdFhmMUJsakp1aXFtNXpfSjBfdndMdmhLV1pBUGRsTU5WLWVFUEhHeU5jcHZOZXhHNFB3?oc=5",
-     "r": "deJurnal.com"
     }
    ],
    "v": {
@@ -187,8 +187,8 @@
     ],
     "w": [
      5,
-     13,
-     4
+     14,
+     2
     ]
    },
    "trend": {
@@ -214,7 +214,7 @@
      0,
      0,
      1,
-     3,
+     1,
      0,
      0,
      0
@@ -301,6 +301,12 @@
    ],
    "h": [
     {
+     "t": "Anak Jadi Tersangka Demo Bandung, Ibu Mahasiswa UIN Ini Syok: Dia Tak Bawa Bom Molotov atau Batu - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU1NT1VRdmpUMDBWTER4Q2FIdHY1TTN2STBXVUpRek9fTXZEVWx2R2dWUjVHUV9JVWJudFkxZ3VHOXFicXRrR0MyeFh3N1RieU5KX1M0aWJBRmJ1Y3RBanVpb1VZOWM5N2IxRnU1VkxpNjI1UVZGUFdSY05jWWdpbURadHFlaFJETlZ5MnJrV3hVUVl3YmRhNXlla05TNmkzOXNlWndDNGEyZ2oxMG9IdUVpMHNnQUh2aWMxelFNeEN4ZWR1Z2lYYWZGWURJbGkxbENkMTBoWHQxLV9YSFE?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Polisi Tangkap Marketing Kasus Obat Ilegal Kopo Bizpark, Total Tersangka Jadi Enam - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEh2bHhSR1ZhSGZ5OHM5bzFVd1QyRHJYajREYmRHLXdHRnZSbG82MmVrSWx3dHo1TVhvTWJUaTFXSXlrRjAtdGY5N0tkT1RvV2dwcUFDZnhYeTcxOVJ6djAzWWszV0RCQU10ODA5YUlQRjd2OXdKZWxYRmZJcXg5UUNUclcycjNJRHBYWDVMbE04ZjAxTElyQm1FM29tTk15eGxWWHZ5RDE5NmxyNmhIMzdQR1JVaWtLQVJXWnRocFBHaXZIYXJ6MXdiVmZwazg?oc=5",
@@ -311,12 +317,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTFTdnVDSnFZUXFzd3VnM1B1Y3NtdlJmR0wyOVBZWW1yQW56LW1QQnZZelMwcEI1QUV3UFpjbzZNeVlxTkVGNF9NY3VudWxnNjZ2OUdzTk14MVQzQXJlaEVEWUxFM0ZiZ0ZxTEVncDExTklIREhGbHV1YnFXaUwtdTRRMmJ2eEI5UHlrU1N5TVJkZ1hxeHQ1a1A4aUluRm9IMGh3eWhoWjlQVHZLdTI1dGUtVGhNdzdnRGhJdmtVQUdwQQ?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Dasar Hukum - PPID Kab. Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFJ6SS12QkNrLTVyTDUtN1FhUzZRYXc4SFd6RFZoRmsxNHBKdWhsMzlHWkg4QXNNQnpsVFFTRVE5TUhRVHRrZ2dMTklwVG9vMV80ZTNMT0hBZ2pDLTBqX1JBNXQ3Y1IzUldPQTZkRThuUmJ6SFY3NG5aakllMmRPNmFndHdRSmRJSTUxRzc2ZnA4RHg1Qkx6dVV1ckw2cHFtcWVrMkhXM0NMZm9GRHRUQ2RUQU5ZcEJfQ2J3cFo3SQ?oc=5",
-     "r": "PPID Kab. Bandung"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -334,7 +334,7 @@
     "w": [
      1,
      15,
-     8
+     10
     ]
    },
    "trend": {
@@ -357,13 +357,13 @@
      0
     ],
     "g": [
-     2,
+     3,
      2,
      2,
      0,
      1,
      1,
-     0
+     1
     ]
    }
   },
@@ -496,7 +496,7 @@
      0
     ],
     "w": [
-     1,
+     0,
      13,
      2
     ]
@@ -514,7 +514,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:42:21.284775+07:00",
+ "updated": "2026-11-08T03:37:39.343428+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "RRI.co.id",
-   25
+   26
   ],
   [
    "Tribunjabar.id",
@@ -16,30 +16,30 @@
   ],
   [
    "Kompas.com",
-   20
+   19
   ],
   [
    "Ayo Bandung",
-   13
+   12
   ],
   [
    "ANTARA News Jawa Barat",
-   12
+   11
   ],
   [
    "Inilahkoran.id",
    7
   ],
   [
-   "Koran Gala",
+   "PPID Kab. Bandung",
    6
   ],
   [
-   "PPID Kab. Bandung",
+   "Jurnal Soreang",
    5
   ],
   [
-   "Jurnal Soreang",
+   "Koran Gala",
    5
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "PERBUP Tugas dan Fungsi Perangkat Daerah Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0c4eWxfRkJzRzFSajgxTFl5SWZrWFJJMXdoMnpyQWR2NUdVRGt0QjBCVGc5T1RiSjBkU1MwalRLMk1MSk84c1pHNl9NMkx2eUxWc25YRFNKU1FheUl1dHl6a1U5eTliMUIzRkVYUXd1YVVwSjg2cDR0VnFMWkxyLUFScHFobEFYeW1UTHRFYzNtdC0tamRCeXhwNGRza1h1Q1JDLU5IeUl5aExuZG4xaGw1ajFLSlZvXzJ3MlNVM21GcS1yc2hTNkJKTWlLakVpX2RJS1RrdXkzZEhyUTdtWkJGX3BUZ3c?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "SARANA PENDUKUNG LAYANAN PPID DINAS LINGKUNGAN HIDUP KABUPATEN BANDUNG - PPID Kab. Bandung",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ3NqVmlxWEMzdTgzNEdiUXpFNlFjUjRvLWtfQ1hJTXFReWdUOHg2UHp4S2t5WUFDcU9raWFSOFpSQkN4TWl2NG95Z3M4TDhPQTd3MmFKTHc5U1hwR3VaekdUbUhMWFEtV1ZyVVB6cTRkdWFuaFFVSTlJVmp0cGxxTnFDYUh1V2VmSjNrejA2cGlwTzRrSXJIcGRXbmJnOS1EaGozbE4ydmFsbHp5MjBUbHc0dURSWVFTSWliSTJXQ1dHN3JqVlpB?oc=5",
      "r": "PPID Kab. Bandung"
     },
     {
-     "t": "Raih 227 Suara, Galih Hendra Pimpin APDESI Kabupaten Bandung 2026-2031 - Delegasi Pemersatu Rakyat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfSzNibjhHOXI1UV80SlZmYUZLOHZKSURPQTNiOG1RS0pSdXBfRWdqYzRlejFXNVFkb3JVVWw0bjBqUUpuSEQwdjZ5aGVqWTZQWjlLSDFueXdER0MtZjl3UTFLemZyMnBkZkVVdXk4a3NCendtVC1hamxFYS1Sdw?oc=5",
-     "r": "Delegasi Pemersatu Rakyat"
-    },
-    {
-     "t": "Polresta Bandung memfasilitasi dialog PTPN dan petani Pangalengan - ANTARA News Jawa Barat",
+     "t": "Polresta Bandung Fasilitasi Dialog PTPN I Regional 2 dan Petani Pangalengan, Sepakati Jaga Kondusivitas Wilayah - Tribratanews Polda Jabar",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzBjT3dSMElpSUJjQXZLbUt2NjB4UXBUV3NTVzkxLU56dHI1b1AxUnVjeERoZEFzYTY3VURRWjlZTmYwdmdJXzc1Q2R2aDQ4NElxeTJ3Q1JmRDk1RW52SC00RzJ6Z2pLQk03RDRaRnJwb0d3Z0ZKZnMwQS1keEV4Tmh1WnFOZDZiYWh5d0ZUdmFxZGVfTFVHNFhZOFNuTFdsU0dRZ1dFVVVjQ1hX0gGyAUFVX3lxTE41SkQwWW5OR0pQRlRYc3BFb1V2bFFSTkZWbE9FWjQ5MjIwM2JMMHFkNmd6ZDFfMjFMbklFRlNuSU9pTDFyOG4wYVFEMmFxWUFIdkJBdUl6YWRiZ19KUmRaTXJiakF0XzBRcTdqNEVmbWZxSmltbzE0OWliVWNveDk1cWZ5TWJiUUcwSlh6MDVvQ3kzSFh3azBoYnJpQmM2b2tLR2V5aldkeTFBR0VveE53S0E?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQekhCdEJpaXhDS09kT2ltMkhwaXU5RmpMSG1iVFF0Qk5fNk5TWTU4UU5jUUZkRDdlek15d3VYUmhpWXVDMmFPckItVEdiT3lqTTlHRkhEdVczaGg2MUVnMjVNb1FtRVVpaG9oalJpWFI2WkJSSDY3eUVxWkpEOUpiUTFPNEVQcF9takJqTDRMT2xLOXFUb0dZTDRGZTJXZDZPSGhwdGpTM1NYd0FQdW5FdXgzRVpDbk1NaUlpa2QwUWYxQnRZMDlZN2RjbjZNWmxvbmF1RmJ6aUVxZm9CNnFrZWplUEM?oc=5",
+     "r": "Tribratanews Polda Jabar"
     },
     {
      "t": "Pelatihan penyusunan modul pembelajaran persiapan corporate university asn pemkab bandung",
@@ -116,38 +116,38 @@
      1
     ],
     "w": [
-     9,
-     19,
-     13
+     8,
+     21,
+     12
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     1,
      5,
-     3
+     3,
+     0
     ],
     "g": [
-     0,
      1,
      0,
      0,
-     7,
+     6,
      5,
-     1
+     1,
+     0
     ]
    }
   },
@@ -198,34 +198,34 @@
      0
     ],
     "w": [
+     7,
      8,
-     9,
      4
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     1,
      0,
      0,
      1,
      3,
      1,
-     4
+     4,
+     0
     ],
     "g": [
+     2,
+     2,
      0,
-     2,
-     2,
      0,
      0,
      0,
@@ -275,21 +275,21 @@
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
+     1,
+     1,
+     1,
      0,
-     1,
-     1,
-     1,
      0
     ],
     "g": [
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "Polisi Intensif Selidiki Kasus Penculikan Anak - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzlKeXZYTVR4cmtiQmRNaWxsWGtvTExHZUdTcEFQcHhkZ2syNkNoRzJkdHBDcHk1dWZ6eUNIYXlqUm8zZTRIRDVUMmhrQmFsclhQZWdObTFibVRYa05LSWliOHJlOFBiUU5aV0tnR3MtV2ZkeXhtRTdrWEhOVGxlVmwtWm9iUGp4UmFfQVJvTmlLQnhtQzJn?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "Polisi Intensif Selidiki Kasus Penculikan Anak Berinisial SIA - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdU5uSl9rT1gybTBDZXZ5VTEtVmloci13aloxSnBHUS1pSldLY1E3MG1zMmNTd1R5Nnc1b2wwb21xU2lHMVRaMUZESG9ZUkZXa3V0MUlRcG9Dc0UzUF9lMXlQb3BKQ2tLX0hIRVZZNTBWSVRDOGhhUGpXVHo0RFlLdDNocFdaeThvSGQxSEk5LV9OLWZMOGFYWUZsN0FDSjQ2aFNnTjdZRkVGM0U?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Viral Aksi Todong Airsoft Gun di Jalan Raya Banjaran-Soreang, Seorang Remaja Ditangkap Polisi - Kompas.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNazZIanhFOUM5Ql9NXy1LRXZneFhWdFZtV2xEblduUlYtYmtqQ2ZOM0JlVjB0ZXBzQmZLcDlHYU1pU0ZOaWItZDFlOHRMQkZkbVpQVFZNLWV3bXNVNXN5Q01mbDRyb3plTE14V1I0bUpWcFdZYmYzOG1lWC1kU2JaMXlDOXB5enBJQVRWaDJXUVhHNFRJZG5tcTNQR1NZdDhWbWNocmV3bUFDR2prTTRyY1B2bi1sbTVaeE1XR2tEdWpBZm5Z?oc=5",
      "r": "Kompas.com"
-    },
-    {
-     "t": "Penemuan Jenazah Perempuan di Jelegong Rancaekek, Polisi Dipastikan Tak Temukan Tanda Kekerasan - Ayo Bandung - Ayo Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOFgtQ3lKWVpYeWlMbnpRLVBsTzFrTUlaWE1tMTEyZjZoaDJXZHY1cXBwOWlVX1ZYS3NpVnhVUVBDVXJpc1VMZkladXlwRFVnVVFWdWI2WGdhWUIzR0JiU3FlbDRGMkRTLUNkVWtCVlg5aVhEVGZGYXdLY0JIZm56OGl4ZURvQ1A1Z1pWOXRITUdYVTlNaVVBbDZTV0xhUERBekNtRWxkZC1HMU1tNUFRTU9saWVxdUlwek5YZW1fSkZrTksyUmhNOFo2NUswemF2TWxBVzYwTWI2aUhpUWfSAeMBQVVfeXFMT2NhdkgtaTlUSFliYVZKazBOWGJiZ2NlX3doRWlvdm41RVA2d05jQVpiUm5uSTlJaExYMmRkbEdIdHZoV0VwMVZJUzI3ZGUzZWV0VTFHY05OWmp0ZmhIYWRIT0JDbnAxWTJBZGFybHR1WW5QODk3X0JpME5KYUwwOW14ZHoyM0JEYnJpbkFvNWZqcmJzSUN2RjlYY19GZEZNbUN6N0F2Mk1PZUcySVY2NFZramE0QkVkc085bTc3NXBMQXpUM2sxSnd6MmZTODg3YWgtQkR3YmJWeUM1cmc2cWNGdW8?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Tangis Ibu di Majalaya: Anak Tewas Dilindas Fortuner, Polisi Tangkap Pengemudi - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmdBeWJrclpfNEVxNllMY1FscE9WQXBmenlvUkl5TlVDS2hEWlNVZmw2dEQ4U1JmUElNTjlwZHpuNDFNbF9nN0RUOXB5elNvV2dybmsyLWFyX01ScmYyT3FNUjhMeXNjSmViV3BvV1RVcXJjcDlOeFNYUlVaTVZYWXZhQ2FHRURNRDJUdkdHZGxYQ1p1cFM5SEtZaUgtSmZLOXZ0NFdvNVlJejRGWkJLUTd3amUyRmhkUTV2MHBJT05RM21lbEHSAcsBQVVfeXFMTXRNLW9xOTVOTW9lbURqb25LNEk4WWhYVUdjVFhGdVlQSE91ZzhoTDdnS1loUFktd2J4bWtPSDFqVWxlYVlwam9OeDRPTkZ0Wnczd2dHUjdwYzZva2ltdENzZGd3NUt5REpiaFN0RlZYM0ptbk5SX0huS0piTjNRNm5Ud1RkbzJQUmZITE0xRmM3VDNsUHdVeFJVQnQ1aExpMjVwd2xzMlpjRVVEVmZvSnRQSHNzWm5PRTc2NkM0X3ZEQ0RMOXFja0s1WlE?oc=5",
-     "r": "Ayo Bandung"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -346,36 +346,36 @@
     "w": [
      1,
      14,
-     16
+     15
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
-     0,
      1,
+     0,
      0,
      0,
      0
     ],
     "g": [
-     2,
      4,
      0,
      0,
      1,
      6,
-     3
+     4,
+     0
     ]
    }
   },
@@ -389,12 +389,6 @@
    ],
    "h": [
     {
-     "t": "Habib Abdullah Sumbang Emas Perdana Angkat Besi Kabupaten Bandung di Porprov Jabar 2026 - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUljNUJ4WWhQbUVtQTBwalFDR0ZiZFdDRDJzMEc4cHV1UzBLQVVKazJlWEpGMXF3LWtSYnpIZDVWNE9GSlFXb0FZUlFwSE9fME52amphOWdVNUREc0N2ZVZhT2hOWVFhRjdwVnF1MlRyZHYta2hWNEhUSUZTb3F3Y2hXZG1rTHdZbmZiMTd4SURrNDZEOWpGMXlOc3ljLTMwQmtOYnZqV2pNMGtwX19JZ0NzMEFJM1JMT0dWRHVFMi14TGRqOW9aOTVtZHZtYlp2X0HSAdcBQVVfeXFMTkxSTmFXY0tYZXdBZ0dPeVA0bmhJb0p5YTFkdk9UMWtuOENadk9pejVWWE0xZ1RuQVNISm9FdlBid2libkEwZDNmQTJnMWZpWW9ocm12SHR4dGpZWkxUZWJLT1hNaWZQQ0lsSGQyTThVNzhDOFhrNnhKdm5RWFd6TDFzSzNFdFpiX2tRZDlpdWRfWjhGNFJXSm5qNkFPdmZidUhGTl9ZY0tVVGRYVFR0c2lJTjMzVlpWUXZ4dmk5SFNLZ1I4MGlhMTJ6QlAtVzFjbHVMakptTGs?oc=5",
-     "r": "Koran Gala"
-    },
-    {
      "t": "Banjir Terus Menghantui Kabupaten Bandung, Dadang Minta Daerah Tetangga Ikut Patungan Anggaran - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0pfakRDS0U3XzZyVV9md010NzFYWDFyY3dQdFk2UTlBbjFSa0lsbXhTbU5TdU9qR3Ayelo2NU96dEJsd3VCNkxvM1FjV0U4RDduRUp2SEt2aUF5Sklqai1OM1FCck5WVjRpa0M1Y1ZlOEVwQzZDVGxmWnJvdnFXbmp3X0M0WHoxUUwwazMycXZkV285WEFheU1zZXhDZ3doZW9tWnVKT2tJSUpqRWY5T0VoU1JwZHhLM19jLTVZMldaT1NLVERnR3RUN284WmZSTGs5RXBtY3plVDdTWjJiYWtR?oc=5",
@@ -405,6 +399,12 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYWxtMWF6allQRGRLMmVUdXFsZWVGOEtCUHJlZFN6U3F6b3Y4NHpObmpLZXhOdFl1Zlo2Q1ZMU2RqZXpBRFdKWV9KdDAtbjV4M3Z1eVZPX3lFRmFxLWxpdlg5cEtmeTZMd0tVWDV2UFRHVVFXeFp4aDZqc0l5QlRORVhRUXdrMWR0ZW9na3FtbHBnZXpra2h1cE1sRkZxaEo1TVk3NGVqWUhndGROQ2M4SnhKM200N1I4djRndGttMldjdlM3Y0xKRWNrWlVuQ0ZwUUg3SGZTYVFUTVAxRmJLZmlxOA?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Teror Senjata Api di Jalanan Bandung oleh Remaja 17 Tahun - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1c2SlR3bWN1Wnd1MlFaOWtQdC1Bck5SQktJaHM5UklnenVPX0ZZYjhRTXBid0tzUVJNS1oxNDFuTGl0TUluU2JidkNnT2xOdGhoVklZc2NqeEhNX3h3b2dLdktlVnBQczRmSUxWbzdSa3NCNWo3cjc2VFlKWkNldVZXT3k5YUtNdlpXa01wdTREdjNSbWFObFJ5UTdNVnVpRHBBeXlqaVRKRGJENUEzcWhkejjSAboBQVVfeXFMTWo2Y2o2VkFNWXlKWGdjU2FpNnhuWjZDMTlsZTQ4ZnBNNFV6UVZkb1hidkxqcTNYLW5nZ21iTWNMaUZJRTZETUZnQUJ3MDFYWm9LVHlaOFVtRENCams2cHNrRE5iS1c5VDFZZXh3U2NVZy1tbFpGSTZKM2RwZ1pwdWprZm1rYW1DWnFMbnRyZ0phUXd5N0t0MkUtWjhENnY0dmtNcnBHRHpuN3o0Z3pTUlRlQzUzX0diS2x3?oc=5",
+     "r": "detikcom"
     },
     {
      "t": "Simulasi Rapat Koordinasi Kesiapsiagaan Menghadapi Banjir di Kecamatan Baleendah, Kabupaten Bandung ",
@@ -426,38 +426,38 @@
      5
     ],
     "w": [
-     3,
+     2,
      6,
-     27
+     28
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      2,
      0,
-     1
+     0,
+     0
     ],
     "g": [
-     0,
-     2,
+     3,
      4,
      5,
      11,
      5,
-     5
+     5,
+     0
     ]
    }
   },
@@ -515,30 +515,30 @@
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
      1,
      0,
      0,
      0,
      1,
+     0,
      0
     ],
     "g": [
      0,
-     0,
      1,
      0,
      0,
      1,
+     0,
      0
     ]
    }

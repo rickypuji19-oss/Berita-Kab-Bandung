@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:36:57.622693+07:00",
+ "updated": "2026-11-07T10:54:56.555046+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,15 +8,15 @@
  "portals": [
   [
    "RRI.co.id",
-   25
-  ],
-  [
-   "Tribunjabar.id",
    24
   ],
   [
+   "Tribunjabar.id",
+   22
+  ],
+  [
    "Kompas.com",
-   18
+   19
   ],
   [
    "Ayo Bandung",
@@ -27,11 +27,15 @@
    11
   ],
   [
+   "Koran Gala",
+   7
+  ],
+  [
    "deJurnal.com",
    5
   ],
   [
-   "Koran Gala",
+   "Inilahkoran.id",
    5
   ],
   [
@@ -39,15 +43,11 @@
    4
   ],
   [
+   "Satumedia.id",
+   4
+  ],
+  [
    "Jurnal Soreang",
-   4
-  ],
-  [
-   "Inilahkoran.id",
-   4
-  ],
-  [
-   "jabarekspres.com",
    4
   ],
   [
@@ -55,16 +55,16 @@
    4
   ],
   [
-   "Antarwaktu.com",
-   3
-  ],
-  [
-   "Satumedia.id",
-   3
-  ],
-  [
    "Pikiran Rakyat Koran",
    3
+  ],
+  [
+   "jabarekspres.com",
+   3
+  ],
+  [
+   "Antarwaktu.com",
+   2
   ]
  ],
  "topics": [
@@ -79,16 +79,16 @@
    ],
    "h": [
     {
-     "t": "Raih 227 Suara, Galih Hendrawan Pimpin APDESI Kabupaten Bandung 2026–2031 - Tribuntipikor Online",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2JpQ2FwTjQwVXE5UElSeTVReGpYTW1jaU5FQTVTdjc0c2ZoOThSSFQ3dzhacTJZeWo0N2RVQjNkRVE2N3hlNWhYbnNLclEyOGZMWkVKMjVQRUVVR1hQZ21IV0tuM2VVRTNNdUZleUo3NldPU1ZxdEF3VVZ4Z0hsdXo5VXkteG16QlpMNnhzaEFVaGJhV0ZOUlE4R2JPR2NHWW9zdGdWRUdtVVRWMmJv?oc=5",
-     "r": "Tribuntipikor Online"
-    },
-    {
      "t": "Tanda Terima Permintaan Informasi Dinas Perpustakaan dan Arsip Kabupaten Bandung - PPID Kab. Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXM5bTQwbjY5T1pvMVFTdUpPelN0TXA4RmtMa1FmLVQybktTWi1BbzhGZnJKRHJFWHJoeVdlSmZYNmVNYVdiOGJnUjlSRDhXT09YbW9fQzF0aXBlMUFGajNBaUJEZVNpREpLRUpRX2dUQnM5ajZMZWtKU2RFMEFYc291MlNJRTRWQkdYSVJlblZxNzJycENXLVVfdjVqZjEzTVNiN0w4QTU1VDBFOE1XM0d5elVrZXVIclJHSGp3a3hqN3RMNTVnNEhJTDl0cDY4dndTS0Q2TnZ6bC1n?oc=5",
      "r": "PPID Kab. Bandung"
+    },
+    {
+     "t": "KDS Minta Ketua APDESI Terpilih Rangkul Seluruh Kepala Desa, Perkuat Sinergi Pembangunan - Depost Jabar",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUE5zOWdNOWdsODVKelNPNG1QeTNJeVk5SEhKUlVGMm1hOHZCMEdZaHR2MUVfZDNiRDdrY2ZKOHpwQXQwTVpxYlAwb21NM2JBTllkbGhmWS0tVUlJeGJ4TTVvUmtnZ255elpiaklDOHFSSXNoNFBvVU53WVBob3hfQno2cW12QVFYV3JDY1Z6REpYenNYZW5GeUhsdkdWYUY4YmZ3Q1kzSURIYVJrX0tmYUc4ejFTX29BXzVmZUdodkRGN0FyMUhGZEM4Yjk?oc=5",
+     "r": "Depost Jabar"
     },
     {
      "t": "Galih Hendrawan Pimpin APDESI Merah Putih Kabupaten Bandung, KDS Tekankan Persatuan dan Kolaborasi Desa - SERGAP",
@@ -117,8 +117,8 @@
     ],
     "w": [
      8,
-     16,
-     18
+     17,
+     17
     ]
    },
    "trend": {
@@ -136,16 +136,16 @@
      0,
      0,
      0,
-     2,
+     3,
      5,
-     1
+     0
     ],
     "g": [
      0,
      1,
      0,
      0,
-     13,
+     12,
      5,
      0
     ]
@@ -177,18 +177,24 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWDR5XzcyNG5VRWo4MHVQUS1kbHVVTnprOFpEcDVUUl8wUUdWdk1mMVlLMWladlJaQWJicGtsVS1lUF9nTzZuRk5seFJKZnNnWEVEME13clV3TlBWZVd2OG16VkF4YWRiY1NiY041ODkzczRJZEpyY2dMRHY0RFJGYnA4RnNCUkZ1ZktyVWEyU3pBam04UUtWeW9BX3F6d3BjU0l5VE1BS0RRalpJNjRaOFFfNUFST2ZRRTkyeFNfUXFKS3BadkxJUGw0QXk1SXVnUUFpQmpOX2tWeEJNd3NYS2VfWQ?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "73 Tahun KPU || H. Uus Haerudin Firdaus, S.H.I., selaku Ketua Komisi A DPRD Kabupaten Bandung",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=VaxiYEV9Do0",
+     "r": "YouTube KPU Kabupaten Bandung"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      0,
      0
     ],
     "w": [
      5,
-     10,
-     2
+     9,
+     3
     ]
    },
    "trend": {
@@ -208,11 +214,11 @@
      1,
      3,
      1,
-     0
+     1
     ],
     "g": [
      0,
-     1,
+     2,
      1,
      0,
      0,
@@ -231,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Polisi Mediasi Konflik Agraria di Pangalengan, Petani dan PTPN Sepakat Redam Gesekan - Kompas.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGNNbXk3Y0UzLTNpbk1EWTBudnhjdmRXZUFsRWtkRjJqVHo5YVc0LVo3Y2tjNldrc1Z1c29iaE1ZQk42T09jX3NjVTl3VldiNFVNeTQ4V18weXBxeU1qNmRneF9aeTVaNGhlNlhGY2VVa0NZYmpXRlVJQy13S2JTUjd3S19kWVByYW9qTXV3UDVoYjlGSm5YdnZTQ1A1bklPZksyUW43S0dMdWR0T2N1N0p3SUcyODhsYmJvaFozZlc2a18wVFdr?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Foto : Konsumsi Rumah Tangga Masih jadi Jangkar Ekonomi, tapi Daya Beli Warga Belum Pulih Halaman 1 - Kompas.com",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUpfSzlZTkk1aU94WENNWG1Cb3RtUWMtVzBWRnJZM3VFMG1Lc3ktREVSS2tyMzZ5dWg4a3VhbDhEeU5ycHl3elNCemZFWUZhemMyVlNrUjhGb2xmZkxtdzA2MXBSTWtSZ0FEc2tsUy1WQUxYaDhGWmJ0RzE0UEhhMGR2TXJFZzAyMWc4eUZTM2U4TEVMVGhoV2lMU0lHWnlZZ20wNHZYMG92eDZldkg2cERwMDJMUzZsWWNucndSNzJYdUZPYnhMUTJUU1BlRlU?oc=5",
@@ -241,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjk0S0xTVm44T09OLThxMDlXdjFteUdaZElXTEVWN3VJOExXRmFHNGRfSFROM2t1aTA1Mi1QYVBLbG9rN1pkVlhmekF4MS1ZNmMxMTFjekN2QXBqV0JNSUtDOC1SMGNoelF6YW9tNmVCWFhDWlRjT2xfcThUX1FLdkRTVHRFbDg1X3drelFsdkZ0ci1lUVo2UGdwUjFtaW9TZWRCdU5SX2pqTTJ6T09z?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pengangguran Jabar Turun Jadi 6,67 Persen tapi 13 Ribu Orang jadi Korban PHK - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHByU3ctQkF0aTVucjJUYjdrQ2pBbUg2T0hpVVRUUHV5TzZwdWVSV0dlVXBiVnpYSlBSclZPcTBFbHR4WDBaT3phYnJxMGE4Q011dWhiOFN4bWFhSHVxVzJRM2J2YndHUlplZDJ1Ty14MFRzRlhiQ3hpTGJxZEJESmtFbTRzWDRCY19JSXJEb3VieDZvUjJvQ0ZQNkFEb2xlVTdvbjRhaHdqTUg2VTlqbUd6Qm1CLU15VkNYa0VLWDdoUDlj?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -258,7 +264,7 @@
     "w": [
      3,
      14,
-     1
+     0
     ]
    },
    "trend": {
@@ -283,7 +289,7 @@
     "g": [
      0,
      0,
-     1,
+     0,
      0,
      0,
      0,
@@ -301,6 +307,12 @@
    ],
    "h": [
     {
+     "t": "Foto : Tangis Ibu Korban Balita Tewas Dilindas Fortuner di Majalaya Bandung, Polisi Amankan Pengendara Halaman 1 - Kompas.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Y1RzYtemtnQmtHNkJ1dy1uSzJMZkJKdElkc1JQMTZjNmthOEJYS25nSFVzQzdIWG1TVGR6OV9lRnJybVpIaGxISzNkWjZtYmFyM01mWkluQ0hKWDNya3RsYjlOVzBMQWgxTVo0ZWZVZTZ3c09YZ3VVM2tMZjlxRVllb0JPSk40eW40b1F3QTFJZWZ0UWRPeVVrWHNhWjNyZkhKX3FsMDRtSjlIUFoycTNoRWl6OS14ZXhDNVhWMEp1M3dHbl9ydTFMNU5GYlpFM2c?oc=5",
+     "r": "Kompas.com"
+    },
+    {
      "t": "Polisi mendalami pengancaman dengan senapan angin di Bandung - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnNJU0lqNTh2QjdXQW5wNTFBVzZDdXFHc2txWXMyeUp4LUJCQ010SVdOb3VESC1ySXNNWF80eUdKeEdTTENQNmlsNFVDelhsWDBjeGF3dWNzRWZYalhEUWxsdU5KdnprRC1KbHpneGdCZUZ4YlBWN05IY05rbmtJVXpfMFhjRmV3amZJVVNwWmp2Y2RHcEdxMHhYTFhSYk04ZjBuWVZ30gGrAUFVX3lxTE04emVJNVFzOVoyUGZablg1RVB5cHI4TFctWGdzM09Nc25aTTh2ZUlwQXQ3N1BzWW1tSl9nLVRMZE9kdmpoZDNJN2prRVBPTTc1b2IyVm5XUlY0UUJ1dWV5VmkyNmdjWTltanY4WWNvQXlTTmtyenJOTG9aTkxBaXVILTRSS2V1bm9JcndSX1IyVlVydXRVOHdESUduV192cDlJS1hMNWFQeHB5WQ?oc=5",
@@ -311,12 +323,6 @@
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMko4X3YwOHJ2SDBZcjBCN09LeHVXMUg1QXF1aldYVHpscW9lZXNGOGM5US1TQTdNNktsd1VaU3RLSDQ5N0VTZVU2MFZjU245bWVFWVpPaDR6YWFPNGMwMTdlNGdERk9SM2l2RnhYX0JmNy1STktFSHFCWVJxaXJnTDlHZTFVT3NwZGlPRWJCRkVPNnpuMUJlT1VIWW5EWWxfODROSGtZa2JjTDdWRjBLWktRZFlERER2T1lBdU42RQ?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Satlantas Polresta Bandung menyelidiki kecelakaan mobil tewaskan balita - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjlWUFA4X0JjTXpzQk10MV96cVFnLWg0Z2E2Y2xuWGhkVlhiZDFPamk1c2Q5ZjRHYVVJRHBKaDBRT1JGcDJ5LWhVM2xxNDJzZnNld1Z2Q1Z4Q0JXeUlSM3FHS0RONC1sekNiZUZSaDNSVzM0a2hrQ2RGU0xhQkhaRjJwMWZmbERsbU83ekhsUWdTSm81VDE2T1RvWnlEYTFtb2ZXZzlxdmZidG5XMDNMTXlFenHSAboBQVVfeXFMTTJmTGhuTzBDUFdMQklVZjJzbU9CNWV3Uy1sR3R0SGltTmppVGYtN0JBVl9BRUYtVXo2SHR3ZWtIUHhSdVRqNGtiMVpxUUIxWWNXQXBldUw0cE5EdWtjaFYtY0ozSHB5VExNRXN3c3lwZlhuLVJkZHRHalFQUlpBTWVTbmhiZGtROTdxQkYtSlh3SlJsaEZ1ZTZxYTA5SUo0Sm5DRlZ4MW8zZUdFYmpUWFM3aTRuTXYtVF93?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -334,7 +340,7 @@
     "w": [
      1,
      14,
-     13
+     14
     ]
    },
    "trend": {
@@ -363,7 +369,7 @@
      0,
      1,
      6,
-     0
+     1
     ]
    }
   },
@@ -377,46 +383,46 @@
    ],
    "h": [
     {
+     "t": "Teror Senjata Api di Jalanan Bandung oleh Remaja 17 Tahun - detikcom",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1c2SlR3bWN1Wnd1MlFaOWtQdC1Bck5SQktJaHM5UklnenVPX0ZZYjhRTXBid0tzUVJNS1oxNDFuTGl0TUluU2JidkNnT2xOdGhoVklZc2NqeEhNX3h3b2dLdktlVnBQczRmSUxWbzdSa3NCNWo3cjc2VFlKWkNldVZXT3k5YUtNdlpXa01wdTREdjNSbWFObFJ5UTdNVnVpRHBBeXlqaVRKRGJENUEzcWhkejjSAboBQVVfeXFMTWo2Y2o2VkFNWXlKWGdjU2FpNnhuWjZDMTlsZTQ4ZnBNNFV6UVZkb1hidkxqcTNYLW5nZ21iTWNMaUZJRTZETUZnQUJ3MDFYWm9LVHlaOFVtRENCams2cHNrRE5iS1c5VDFZZXh3U2NVZy1tbFpGSTZKM2RwZ1pwdWprZm1rYW1DWnFMbnRyZ0phUXd5N0t0MkUtWjhENnY0dmtNcnBHRHpuN3o0Z3pTUlRlQzUzX0diS2x3?oc=5",
+     "r": "detikcom"
+    },
+    {
+     "t": "Kapolresta Bandung Turun Tangan, PTPN dan APP Sepakat Redam Ketegangan - Koran Gala - Koran Gala",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmtvWVU1SnJFalZ5YmdhaXNZOTVENEgyRVpDSVUxcnpSSDU4cXdKSHlhYk9ZODkyWmdQTnRiWXZ4MFNrb3NJVFlycjhhVVlyUU95OTktbDd2RWc3RVBheDdJT0ZFaVBnSmdaR1NEcXE0N1A4NzBjUXZOSGs1d1Q1T0J4eUhzWjdTNmJyNHlOMFhWakZHSW45blRGbG1jMVFFTE5iSTd5Y3hsV1JMaFVUci1R0gG3AUFVX3lxTE05U0xUX3U1bXlWOEZMMnJBaG1Mb1lmQk9uQk8xVEFtbmpLYzZ4UjhadmVyQXpUd1lUeVpiZkhxVnJlOVZYNHVtQXVuYlhXYmdVd1ZXNW1mYlZ3UDczRTQxTmM4RE84SWR0TWo3bVFjaldWZF9LaFBXTGVKaWJQREF3OEczMFV2aklYemlvemZsWEFZVWtucnFjR2RSeWxUcS1FVEtkMmpKMjhHVEh6eG1qYU9SVmpEWQ?oc=5",
+     "r": "Koran Gala"
+    },
+    {
      "t": "Jalan Mulus di Bandung Dibongkar Lagi, Pengamat ITB: Seperti Dibuat Berulang Agar Uangnya Ada - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGxrM2s1YmkyMU5CQWExVWpZM3M1c0ZGZFdFdmtTaHMtdUYwTDFQcXRua1RLWkdscndDU0hyYkJUYjRSZ0xfQUJvbUF4bTMyR19vNVZybXI0WWttT204Sm5RT1hPQ0F5R3NBeDloNWdBa3o1Vkd1UUdfQ1dzUV9HUGFlOEJjdmQwZVpwZUIwWERSWlBiMmthaU5mOGZiS0EyWkgzSEZBY2hnZWI4dDRJTnhNUWFyOHlkOEkxbDJzODJNTEJwS1JMb25KTUR3OE5KS19VTWJhUXp1Zw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Jalan Talaga Bodas-Pelajar Pejuang Rusak akibat Galian Drainase, Plat Baja Jadi Solusi Sementara - Tribunjabar.id",
+     "t": "Tugas 3 FSAP4401 | PERSIAPAN PENANGANAN BENCANA BANJIR DAN TANAH LONGSOR DI KABUPATEN BANDUNG",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjNLcmxkbXp0WkxtaTBqc1JyZi1NUkhmZ2FVOG4zblpfUGdDWFBrY192NWpmYmJmS2puVGFrOHBvWndxZDFhZ2M2S1N6dHdKbmJ1ZGliQU5GekJFVS1JaThDRGFuV0pQVkV4Qm9RdUJkWE1jR2x6aHFGMzU1bW5MUmRncENVbE51OG4zdEdYamhqanhiclZEMWxJUGh3WmVERHVJcWR6MjFlQ0hwcW05dzI4UllyS2lhRXBPeWdoMm5GTTNOM2RwTExJaEd1dFZyc25UX0xDZE9MeW04WXA4?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Galih Hendrawan Terpilih Jadi Ketua APDESI Merah Putih Kabupaten Bandung 2026-2031 - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkEtVUFQWmR0VEhIZHNxY2dneUtjNEpRVGFxWmJhVkN5aU1scm5WcDhqVzNLUXRWWFF4SFYwbnJlSEFNM2prS3UxVHpveFJ1MUJ5NkttS0RrdFdUcXp3SkhJODVmV0tPX19fTTZNLU9uclNUelV4c2ZvNmdQcG5nOEMxZGwwaURZZWhsNDJ5QmwtQ2lJbWJoZ3dqc1V6bUNJc0NrdWQ0NDVMaWpDNndNNnktUk0tVkFJSUhIRDdzak1mMjTSAcgBQVVfeXFMT0lhZFNleVh6RGpjLVNfUHNuMWFrdjl1aDlFSlVVMm0yZnUwbHlkdDhWSG16Xy1mMFdLd2pwRDcyN1k5c09CLXNaNjlmNXRzdFpYV3ZTNDBfVkM2dE1nNElqZ2l0akc0ZUFhLUlIcTl1RG82SjY2cnltSFEwbnJfZ2N2RjYxaElwYjNnVENpY184Y0ZCUy1xekpBbjJyU09qTUtEb09SaWZNSG1uMm1acS03SHhrRGRKNjZBNmRxN3RTd25zWGJwUlc?oc=5",
-     "r": "Koran Gala"
+     "u": "https://www.youtube.com/watch?v=0u_NupOFzNA",
+     "r": "YouTube Dhea Fitri Nur"
     },
     {
      "t": "RAPAT KOORDINASI PENANGGULANGAN BENCANA BANJIR DI KABUPATEN BANDUNG ",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=r5rJ9vtngBI",
      "r": "YouTube Mochamad Azizan"
-    },
-    {
-     "t": "JALAN PENGHUBUNG KOTA BANDUNG DAN KABUPATEN BANDUNG KINI MULUS",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=nzhVt7WUATE",
-     "r": "YouTube INSAN RAHMAN"
     }
    ],
    "v": {
     "s": [
      0,
      1,
-     3
+     4
     ],
     "w": [
-     5,
+     3,
      7,
-     24
+     28
     ]
    },
    "trend": {
@@ -431,10 +437,10 @@
     ],
     "p": [
      0,
-     1,
      0,
      0,
-     3,
+     0,
+     2,
      1,
      0
     ],
@@ -443,9 +449,9 @@
      3,
      5,
      5,
-     9,
-     5,
-     0
+     11,
+     6,
+     2
     ]
    }
   },
@@ -481,18 +487,12 @@
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=Qsx6_JGmRuQ",
      "r": "YouTube Ths Chanel TV "
-    },
-    {
-     "t": "Kegiatan Panen Raya Program Ketahanan Pangan Kwarcab Kabupaten Bandung di SMPN 2 Banjaran",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=QqKB3rocnOc",
-     "r": "YouTube SMP Negeri 2 Banjaran Kabupaten Bandung"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     1,
      0
     ],
     "w": [

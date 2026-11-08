@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:42:26.277965+07:00",
+ "updated": "2026-11-09T05:36:53.340190+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,12 +7,12 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
-   "Tribunjabar.id",
+   "RRI.co.id",
    22
   ],
   [
-   "RRI.co.id",
-   21
+   "Tribunjabar.id",
+   22
   ],
   [
    "Kompas.com",
@@ -43,15 +43,15 @@
    5
   ],
   [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
    "Inilahkoran.id",
    4
   ],
   [
    "Satumedia.id",
-   3
-  ],
-  [
-   "Pikiran Rakyat Koran",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Siapkan Dua Alat Berat untuk Atasi Banjir - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUs4eUhEaldPaWhsdnhPWkphN1FPQUw1b1RzUmxKTDAySlluMnhCZ0s5QkdRZHhhMUswWHZKZ3ZucEdjWmRHekQyMVo0a0p4eE1xUHlrUDNiOVlpSHhwUW82bjNKRER5dzJOS1YwTThubUZ6d0hWaFdKMHBySDZ2TzNnZFphTzhRbmdOT1VUMW9UbWRmeDlzNi1lRHFYcTZKQ2VqbE4tWmJqb0xTRkE?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Bupati KDS Acungi Jempol! KNPI Pencetak Pemuda HANDAL - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUFhUnJqSWJzREtIZGJmeExZbU90ZExweFJsSUkxMnFTZWxuejZfQkJ4MHM0UGNRT1dLNjFDWkFkRHh6T0N0UXdYX0lmcFRteEVHQzFrQ2p1LUdfVm1qVE96RnhZWVA1RjFJTVlQeE9JTGZDemJpMERlUnk5aVh5NzVtTXNFWHk5QTlCVHdreDBaN2Q1Y1FPOUlRQ3oyZw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUhoa05QcDh5emMwT0dGYUZCSFJUM05MYzRhZWJYelp6RFZpeXBMeXZ5aE15TGxEU3hVZkZpaTlaWlA0ODFXZ0NaYXp6ODdPMkxwN1R3VkNWRTJ4YU5QLUJtM3V5Um52aWVqWjNRUUIzNGMxdWdLVFg1Q2JQakY5TWZWOXd0SDQ0X2VnT1RDMWNSTk42NWdNWDBjdWVoRlFhY25qYw?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Pemkab Bandung Ubah Lapak Jadi Tenda, Lokasi Jualan Jadi Nyaman - BeritaSatu.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlQycU1TbFlPcVRtaGZPRlpCVFZwRzQycklvU1doTmdOS1p3bzQtQlA0eTFDOTVTMUllUktpeUlzY3ZRTkRZY3FIODVQR2dqWWFab3hTZ0E1YndLQW1GdHUyR2dVY0JneFZfLTFqRGF3S2phSHdENUlyUHFnZ0o3ejRSXzBtczFGd1dJX1ZHVW1ObUJJaFV1NGdEbkY4ZjRjSzBkV0VR?oc=5",
-     "r": "BeritaSatu.com"
     },
     {
      "t": "Galih Hendrawan Terpilih Jadi Ketua APDESI Kabupaten Bandung, Fokus Perkuat Sinergi dn Kemajuan Desa",
@@ -116,9 +116,9 @@
      0
     ],
     "w": [
-     9,
-     24,
-     6
+     10,
+     23,
+     7
     ]
    },
    "trend": {
@@ -136,7 +136,7 @@
      0,
      0,
      5,
-     2,
+     3,
      2,
      0
     ],
@@ -147,7 +147,7 @@
      5,
      1,
      0,
-     0
+     1
     ]
    }
   },
@@ -199,7 +199,7 @@
     ],
     "w": [
      8,
-     8,
+     9,
      2
     ]
    },
@@ -313,15 +313,15 @@
    ],
    "h": [
     {
-     "t": "Cegah Kemaksiatan Polisi Amankan Sejumlah Pemuda dalam Pengaruh Alkohol - RRI.co.id",
+     "t": "Operasi Cipkon Polisi Sasar Warung Penjual Miras - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnhZRXJ5VmZhZ3A2bzhsVGxqeS1sRHloWlVIUnh6eUhVLUxvUWhGQ3NjWldGcFJfSi1aYzNtRm1jNmhXT09vbHQ3Qzl6VWR3WG01ZHN5a0VEdkptejVaWmRFdzhIRlRuMnRRQ0VtRlNDSFZrWGVtREp0amdBSkd6RUxsQTJia0I5Y1ZNalhrTWtac1UwdUswM2FtMXVfMkJxMUk5NUx1dE1IWE1jdGRCdWcyZ3J6aktT?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0hXQVpQempjWmNoZ1BodWlzWWx0SnFScXFWY2JUdVBxal9GVGEzczBpcm5la0tzWlU0LTNxczhsZXE1eWhPMHFPdjU3UGhSbXh4Ql9YNmhzLTRNVk5DM3A3SExiWlZ3UDVTa1FEb21pOFdQNWpuR3drX0FEQlVjWlkwU2JudTBFR0U4dzdEaUVTczlBc1F0ZVdR?oc=5",
      "r": "RRI.co.id"
     },
     {
      "t": "Polresta Bandung Fasilitasi Mediasi Konflik Pangalengan, Kedua Pihak Sepakat Redam Perselisihan - jabarekspres.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRlFBOXU0ZEVybExscGdEeFZSYndRWTBXYU9aTHd6Y2RmX2ZRclRrbGh1Z0lKdnY0WGlVSmJkNEh5aWlRc0dSbjhPZWkxMnA2NVFwNlhla1BtNklJc0FRdmFEcEYzRF80T1Vudmh6dXBqS1NOT0NkaW5FU1dQMmFzYzc4QXBJTTRjT1E3M2E0V3hweUFpOXBsTEx1TkpwS2xZQjFJRERzYVk4cFR1aERCa2tseDR3b0VyMTNFcjdDWF9SRmhXNjNENWZQUXpoLVlWamV3dA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpKLVEzZTBKYkJVRWJTMG9Gcm5rTExyZVdiQ0xfaFpsSnNsXzU1WXJDR0lWUVRaQU1OcGxZTEhLMWExVHA3dk90UDFJLTJ1MEROY3I0UXZTMlQ2R2lJWE5qSmJuazNZUmctdkZUWEJncFNsaTlab1lOMmlTZkFkeU1oUFdaWEJvRHlwRzd1eWFWZXNETFFYbWpvMkViMDdkcVZiTkkyUG01S1J4M2tLQXdyYmZ5NWtYMW45Q0REeUZqZWxBd3ZhQkdYTXZjaXZmUmNSRjFlVQ?oc=5",
      "r": "jabarekspres.com"
     },
     {
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Pemkab Bandung Siapkan Dua Alat Berat untuk Atasi Banjir - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUs4eUhEaldPaWhsdnhPWkphN1FPQUw1b1RzUmxKTDAySlluMnhCZ0s5QkdRZHhhMUswWHZKZ3ZucEdjWmRHekQyMVo0a0p4eE1xUHlrUDNiOVlpSHhwUW82bjNKRER5dzJOS1YwTThubUZ6d0hWaFdKMHBySDZ2TzNnZFphTzhRbmdOT1VUMW9UbWRmeDlzNi1lRHFYcTZKQ2VqbE4tWmJqb0xTRkE?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Mesin RDF di Tegallega Bandung Mati, Farhan Minta Kementerian PU Melakukan Perbaikan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEJIMktJTWZFVDN2MS05T3g0bkRJd3BoNmpsWF9aY1pyRHZkRm5hdlEwdkJiMUF5SFhKamNoWXBTUXVjU1E1cVRJUXRYbVFSRURKRjJZcHpGREVrd05uSFpxaEFfd3I4YlVZZ0VSMVJhUGtyaERCcFdmLXhlMEhIemN2NXUwTDluUkZCQ0EyLUliS2ZkOFc2UndqWmhHUExxQzBhcFc4WWtCWGVyc3gySnZZN2JyMWdKVkxvQ2drcnMwRkJ2RHZHSXppa2t0UXc?oc=5",
@@ -393,12 +399,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd2xsdE1vT1JFMzFhVi0xOUxKU1NsUFUwdUk2VDBKVV9DUGdPaHhzNHRnNU80UE1FRjFvczVFOHpVZ2tkNzZKRGZ0ZjRQNG1YZU00RF9XQ2lNMmNjTkw5WFZCb2JYWUpnS2JMbjFDal9yd19OWXpCUUFPaEh5NV9CUjctd1RCcGFTYjdGdWJKdGdIal9aUWh5Rk1wOEh1X28tX2lrLUNqcGQ3WE0zbUlWeEZjV0lCenhOM2E5bFZQV1A3WlZoMFhr?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Habib Abdullah Sumbang Emas Perdana Angkat Besi Kabupaten Bandung di Porprov Jabar 2026 - Koran Gala - Koran Gala",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUljNUJ4WWhQbUVtQTBwalFDR0ZiZFdDRDJzMEc4cHV1UzBLQVVKazJlWEpGMXF3LWtSYnpIZDVWNE9GSlFXb0FZUlFwSE9fME52amphOWdVNUREc0N2ZVZhT2hOWVFhRjdwVnF1MlRyZHYta2hWNEhUSUZTb3F3Y2hXZG1rTHdZbmZiMTd4SURrNDZEOWpGMXlOc3ljLTMwQmtOYnZqV2pNMGtwX19JZ0NzMEFJM1JMT0dWRHVFMi14TGRqOW9aOTVtZHZtYlp2X0HSAdcBQVVfeXFMTkxSTmFXY0tYZXdBZ0dPeVA0bmhJb0p5YTFkdk9UMWtuOENadk9pejVWWE0xZ1RuQVNISm9FdlBid2libkEwZDNmQTJnMWZpWW9ocm12SHR4dGpZWkxUZWJLT1hNaWZQQ0lsSGQyTThVNzhDOFhrNnhKdm5RWFd6TDFzSzNFdFpiX2tRZDlpdWRfWjhGNFJXSm5qNkFPdmZidUhGTl9ZY0tVVGRYVFR0c2lJTjMzVlpWUXZ4dmk5SFNLZ1I4MGlhMTJ6QlAtVzFjbHVMakptTGs?oc=5",
-     "r": "Koran Gala"
     },
     {
      "t": "Simulasi Rapat Koordinasi Kesiapsiagaan Menghadapi Banjir di Kecamatan Baleendah, Kabupaten Bandung ",
@@ -422,7 +422,7 @@
     "w": [
      1,
      7,
-     24
+     25
     ]
    },
    "trend": {
@@ -451,7 +451,7 @@
      4,
      5,
      0,
-     0
+     1
     ]
    }
   },
@@ -465,12 +465,6 @@
    ],
    "h": [
     {
-     "t": "Menakar Peran Filantropi untuk Memperluas Akses Pendidikan dan Memutus Rantai Kemiskinan di Jabar - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM3J1XzA2UFJyamFuaHgxM3FBUi03NUJNempaZ01VZWQ0Ny1BdU5qOU5POHF1Nkg4aEdCaTZkNzFabE1NR0FlRFRfc2pXNGgxcFZMeW9hN1lKNzAxNXRXX0VKRURIUm96VHJOVGFlRTdCejV5WEVFNG9uOHR4c3hTNHBabE9qRjlyVHFBTWF5NW1hbWppNnlvUFJTNzgzRnlzbDNrOVIzajUwSDZMSVg4bzVrbnM2Rm9pcXVVeWF5V05OTUl3eU14T3RoUUhybHRpVHhPVlFlRG9feGRHaFU4UlJR?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
      "t": "Mahasiswa Demo di Depan DPRD Jabar, Soroti Isu Pendidikan hingga Lingkungan - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWN6Qlo5VHZLMEd4cy1iMXBBdXdMdXNibzM3S2RuODZWbnJ3RE9oTEUtUTVDZW9felNjX3hPSGZ4dDZSWkxRVF9FUzJNeGYxUDFiN3Y5WVVMOFBFSHEtaUNyMVdkR0JQWWhFSTdnMzkxeG10NVhPY3ZnRzBqSkY5X3I4V182RWM5VVJHS3FSS1gxNVdsVVo0aUllVUZxdXJxckZKeUc2bkEwVW5hRjZya3hWbmR2ZjJqVmtaUFVoQWdKLWfSAcgBQVVfeXFMT3RrYTZfS2dWZG9sQmhza3JMNWxSTWxtSmlwbU1HUDlPVXpJam82cmNWWDVncFl0MHkzY2tOLTdLQTVkYTE3TFJVODRUM1pRWkt1TGRXR3lTZ3lQTnR0SktDUXFVX1ZUT0dmX3pTUmxFOFpoUjBxWld1RlF4NWZHYWhvNnM5Sk53Nl9QYUlOOTZUZmMwU0lYSWxJLWl0VG5EZGEyQ0FKdXBSTTJTaU12NXBJMGcweTBDeE54d2xSbHJKdlM2TWI3QXE?oc=5",
@@ -481,6 +475,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlV3OVVfa2dEd2EySkxZOHBRcDhtY0NmaU5CY216Qm8tNVMyVUEtSDQ0TlRna3lYdlEwUmM2cFlxY09YT3luVkkxRQ?oc=5",
      "r": "Jayantara News"
+    },
+    {
+     "t": "Disdamkarmatan Bandung Siaga Hadapi Potensi Bencana Hidrometeorologi - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJsd2t5WGxuX2FOdzZwQ1BYLTJFWG4zbENlUng0VUFJdGdwdUJnTWxXVU16eGo0dnJxbXY1QXItNVgtUTgtYU5CZlV2WXA0ZEEzRGg3dnBMMTd1Mlo1ZGFMT0VRTHBtUDRRNmxNakU3bWs4VWNPNXN5SlRJUmdMeVlnNUlyeVBkaGcwM2NrZkc1RXZwNC1JaTZQeGZDRzNZaUFhYTNlaE1vbUJRbXpSRg?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "Juara Harapan 1 FTBI Kab. Bandung 2026 ",
@@ -504,7 +504,7 @@
     "w": [
      0,
      7,
-     2
+     1
     ]
    },
    "trend": {
@@ -532,7 +532,7 @@
      0,
      1,
      0,
-     1,
+     0,
      0
     ]
    }

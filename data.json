@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:59:32.121997+07:00",
+ "updated": "2026-11-09T01:42:26.277965+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,20 +7,16 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Tribunjabar.id",
+   22
+  ],
+  [
    "RRI.co.id",
    21
   ],
   [
-   "Tribunjabar.id",
-   21
-  ],
-  [
    "Kompas.com",
-   16
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   11
+   14
   ],
   [
    "Ayo Bandung",
@@ -29,6 +25,10 @@
   [
    "PPID Kab. Bandung",
    9
+  ],
+  [
+   "ANTARA News Jawa Barat",
+   8
   ],
   [
    "Jurnal Soreang",
@@ -43,16 +43,12 @@
    5
   ],
   [
-   "Satumedia.id",
-   4
-  ],
-  [
    "Inilahkoran.id",
    4
   ],
   [
-   "detikcom",
-   4
+   "Satumedia.id",
+   3
   ],
   [
    "Pikiran Rakyat Koran",
@@ -60,6 +56,10 @@
   ],
   [
    "jabarekspres.com",
+   3
+  ],
+  [
+   "detikcom",
    3
   ],
   [
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati KDS Acungi Jempol! KNPI Pencetak Pemuda HANDAL - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUFhUnJqSWJzREtIZGJmeExZbU90ZExweFJsSUkxMnFTZWxuejZfQkJ4MHM0UGNRT1dLNjFDWkFkRHh6T0N0UXdYX0lmcFRteEVHQzFrQ2p1LUdfVm1qVE96RnhZWVA1RjFJTVlQeE9JTGZDemJpMERlUnk5aVh5NzVtTXNFWHk5QTlCVHdreDBaN2Q1Y1FPOUlRQ3oyZw?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Porprov Jabar Pemkab Tinjau Pemusatan Latihan Cabor Drumband - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUhoa05QcDh5emMwT0dGYUZCSFJUM05MYzRhZWJYelp6RFZpeXBMeXZ5aE15TGxEU3hVZkZpaTlaWlA0ODFXZ0NaYXp6ODdPMkxwN1R3VkNWRTJ4YU5QLUJtM3V5Um52aWVqWjNRUUIzNGMxdWdLVFg1Q2JQakY5TWZWOXd0SDQ0X2VnT1RDMWNSTk42NWdNWDBjdWVoRlFhY25qYw?oc=5",
@@ -89,12 +95,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlQycU1TbFlPcVRtaGZPRlpCVFZwRzQycklvU1doTmdOS1p3bzQtQlA0eTFDOTVTMUllUktpeUlzY3ZRTkRZY3FIODVQR2dqWWFab3hTZ0E1YndLQW1GdHUyR2dVY0JneFZfLTFqRGF3S2phSHdENUlyUHFnZ0o3ejRSXzBtczFGd1dJX1ZHVW1ObUJJaFV1NGdEbkY4ZjRjSzBkV0VR?oc=5",
      "r": "BeritaSatu.com"
-    },
-    {
-     "t": "Cetak Sejarah di Porprov XV Jabar, Tim Hoki Indoor Putri Kabupaten Bandung Sabet Medali Perak - Sumedang Bagus",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1R1d3d5N3lhSmxGcVIyZ2FLeFBaYXdQVmpjbFlmN3ljb1h3T3FObU1PNWNnLVFxQWs4NkNWeXo3VnVGZldEczNnYmEzeVNDaTJXX3R4cjlSR3VTV0I2NGpPcWcyZWtMMDZHV3hSdTNtUFRndVlGM0dMNnQwVmZpdWhpbERQVUZaNUdHeFZRS2hIMThVMmxsX1NJVlpxc1FOcXNNNDBqOGVRemdMaVBhODRRNUxfSmdGTnUzN043NFlkSnpYOTgtZ0JpMFhZR1NrOHVMemFKOFF3Zi1RaWZkQmZMTmJYZ9IB6wFBVV95cUxNeG02c1JMOFgxS1RlTlpEMGo5MGhlLVRyTmJNVHBBUExydldhRl9CR0drcVBycmFrLXVEOGtEQnlONjVBNHNsd3prZl9fZlBodEdOOTgwRXhqY0xpR01qTlFqU3pNVDYtc1MxY2diLXRLdmpDLUVoYWZtUnp5RE5yR0hWTml3UkoyNVlUekdleVFDSW85YVBZcnVaN3pZcGV6TXZhVmdobkY0QzB0b2FKWXE2QVlfRFF3THNZT2RGSHJOUU5sTktxVHAyQk1aVlBwdDdrQU0wcnhfMTRSaTEtRFpvYUhYS0wzNmpN?oc=5",
-     "r": "Sumedang Bagus"
     },
     {
      "t": "Galih Hendrawan Terpilih Jadi Ketua APDESI Kabupaten Bandung, Fokus Perkuat Sinergi dn Kemajuan Desa",
@@ -113,40 +113,40 @@
     "s": [
      0,
      10,
-     1
+     0
     ],
     "w": [
-     11,
-     19,
-     9
+     9,
+     24,
+     6
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      5,
-     4,
-     2
+     2,
+     2,
+     0
     ],
     "g": [
-     1,
      0,
      0,
-     3,
+     0,
      5,
      1,
+     0,
      0
     ]
    }
@@ -199,32 +199,32 @@
     ],
     "w": [
      8,
-     7,
-     4
+     8,
+     2
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      0,
      1,
      3,
      1,
      4,
-     1
+     1,
+     0
     ],
     "g": [
      2,
-     2,
+     0,
      0,
      0,
      0,
@@ -269,26 +269,26 @@
     ],
     "w": [
      3,
-     12,
+     13,
      0
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
+     1,
+     1,
+     1,
      0,
-     1,
-     1,
-     1,
      0,
      0
     ],
@@ -313,6 +313,12 @@
    ],
    "h": [
     {
+     "t": "Cegah Kemaksiatan Polisi Amankan Sejumlah Pemuda dalam Pengaruh Alkohol - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnhZRXJ5VmZhZ3A2bzhsVGxqeS1sRHloWlVIUnh6eUhVLUxvUWhGQ3NjWldGcFJfSi1aYzNtRm1jNmhXT09vbHQ3Qzl6VWR3WG01ZHN5a0VEdkptejVaWmRFdzhIRlRuMnRRQ0VtRlNDSFZrWGVtREp0amdBSkd6RUxsQTJia0I5Y1ZNalhrTWtac1UwdUswM2FtMXVfMkJxMUk5NUx1dE1IWE1jdGRCdWcyZ3J6aktT?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Polresta Bandung Fasilitasi Mediasi Konflik Pangalengan, Kedua Pihak Sepakat Redam Perselisihan - jabarekspres.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRlFBOXU0ZEVybExscGdEeFZSYndRWTBXYU9aTHd6Y2RmX2ZRclRrbGh1Z0lKdnY0WGlVSmJkNEh5aWlRc0dSbjhPZWkxMnA2NVFwNlhla1BtNklJc0FRdmFEcEYzRF80T1Vudmh6dXBqS1NOT0NkaW5FU1dQMmFzYzc4QXBJTTRjT1E3M2E0V3hweUFpOXBsTEx1TkpwS2xZQjFJRERzYVk4cFR1aERCa2tseDR3b0VyMTNFcjdDWF9SRmhXNjNENWZQUXpoLVlWamV3dA?oc=5",
@@ -323,24 +329,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXF0aHBOT2NfYnA3ZV83Y1hPS3p2bVZwNzBzNHI2RTFsNVFaTGRUek9hWVNwRmdGLXZIRDVSakQ4N0pQZjBVWnZpamlha2lRdmZXRTVhSzViX2ZnNTNuWktuNm94VWJZbDBuS2NLbG0wMXptWFhTRzRjYzlCbm92QUdNakdvNG9UX1h1aWtCQ29uY3E5VF9ZbXdnODZPaWd6THpfMjRyQ0diSkhKaDA3bDJiejhKWFIzd2x5V0RoRHVoN1VZMmgzNnY1bHJ2MmxzYThyQzhoQlU1amRkRTNYd0xVSmpzNzRuamlTZWY4LWw?oc=5",
      "r": "PPID Kab. Bandung"
-    },
-    {
-     "t": "Polisi Intensif Selidiki Kasus Penculikan Anak - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzlKeXZYTVR4cmtiQmRNaWxsWGtvTExHZUdTcEFQcHhkZ2syNkNoRzJkdHBDcHk1dWZ6eUNIYXlqUm8zZTRIRDVUMmhrQmFsclhQZWdObTFibVRYa05LSWliOHJlOFBiUU5aV0tnR3MtV2ZkeXhtRTdrWEhOVGxlVmwtWm9iUGp4UmFfQVJvTmlLQnhtQzJn?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=rqRm840vvAc",
-     "r": "YouTube Radio PRFM 107,5 News Channel"
     }
    ],
    "v": {
     "s": [
      0,
-     1,
+     0,
      0
     ],
     "w": [
@@ -351,30 +345,30 @@
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
-     0,
      1,
+     0,
      0,
      0,
      0,
      0
     ],
     "g": [
+     0,
      1,
-     0,
-     0,
      1,
      6,
      4,
+     0,
      0
     ]
    }
@@ -389,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Mesin RDF di Tegallega Bandung Mati, Farhan Minta Kementerian PU Melakukan Perbaikan - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEJIMktJTWZFVDN2MS05T3g0bkRJd3BoNmpsWF9aY1pyRHZkRm5hdlEwdkJiMUF5SFhKamNoWXBTUXVjU1E1cVRJUXRYbVFSRURKRjJZcHpGREVrd05uSFpxaEFfd3I4YlVZZ0VSMVJhUGtyaERCcFdmLXhlMEhIemN2NXUwTDluUkZCQ0EyLUliS2ZkOFc2UndqWmhHUExxQzBhcFc4WWtCWGVyc3gySnZZN2JyMWdKVkxvQ2drcnMwRkJ2RHZHSXppa2t0UXc?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Kawasan Kumuh Bandung Tembus 285 Hektare, DPKP Kejar Perbaikan Ribuan Rutilahu - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd2xsdE1vT1JFMzFhVi0xOUxKU1NsUFUwdUk2VDBKVV9DUGdPaHhzNHRnNU80UE1FRjFvczVFOHpVZ2tkNzZKRGZ0ZjRQNG1YZU00RF9XQ2lNMmNjTkw5WFZCb2JYWUpnS2JMbjFDal9yd19OWXpCUUFPaEh5NV9CUjctd1RCcGFTYjdGdWJKdGdIal9aUWh5Rk1wOEh1X28tX2lrLUNqcGQ3WE0zbUlWeEZjV0lCenhOM2E5bFZQV1A3WlZoMFhr?oc=5",
@@ -399,12 +399,6 @@
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUljNUJ4WWhQbUVtQTBwalFDR0ZiZFdDRDJzMEc4cHV1UzBLQVVKazJlWEpGMXF3LWtSYnpIZDVWNE9GSlFXb0FZUlFwSE9fME52amphOWdVNUREc0N2ZVZhT2hOWVFhRjdwVnF1MlRyZHYta2hWNEhUSUZTb3F3Y2hXZG1rTHdZbmZiMTd4SURrNDZEOWpGMXlOc3ljLTMwQmtOYnZqV2pNMGtwX19JZ0NzMEFJM1JMT0dWRHVFMi14TGRqOW9aOTVtZHZtYlp2X0HSAdcBQVVfeXFMTkxSTmFXY0tYZXdBZ0dPeVA0bmhJb0p5YTFkdk9UMWtuOENadk9pejVWWE0xZ1RuQVNISm9FdlBid2libkEwZDNmQTJnMWZpWW9ocm12SHR4dGpZWkxUZWJLT1hNaWZQQ0lsSGQyTThVNzhDOFhrNnhKdm5RWFd6TDFzSzNFdFpiX2tRZDlpdWRfWjhGNFJXSm5qNkFPdmZidUhGTl9ZY0tVVGRYVFR0c2lJTjMzVlpWUXZ4dmk5SFNLZ1I4MGlhMTJ6QlAtVzFjbHVMakptTGs?oc=5",
      "r": "Koran Gala"
-    },
-    {
-     "t": "Banjir Terus Menghantui Kabupaten Bandung, Dadang Minta Daerah Tetangga Ikut Patungan Anggaran - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0pfakRDS0U3XzZyVV9md010NzFYWDFyY3dQdFk2UTlBbjFSa0lsbXhTbU5TdU9qR3Ayelo2NU96dEJsd3VCNkxvM1FjV0U4RDduRUp2SEt2aUF5Sklqai1OM1FCck5WVjRpa0M1Y1ZlOEVwQzZDVGxmWnJvdnFXbmp3X0M0WHoxUUwwazMycXZkV285WEFheU1zZXhDZ3doZW9tWnVKT2tJSUpqRWY5T0VoU1JwZHhLM19jLTVZMldaT1NLVERnR3RUN284WmZSTGs5RXBtY3plVDdTWjJiYWtR?oc=5",
-     "r": "Tribunjabar.id"
     },
     {
      "t": "Simulasi Rapat Koordinasi Kesiapsiagaan Menghadapi Banjir di Kecamatan Baleendah, Kabupaten Bandung ",
@@ -423,40 +417,40 @@
     "s": [
      0,
      1,
-     5
+     4
     ],
     "w": [
-     2,
+     1,
      7,
-     26
+     24
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      0,
      1,
+     0,
      0
     ],
     "g": [
-     3,
      4,
      4,
      11,
      4,
      5,
+     0,
      0
     ]
    }
@@ -508,27 +502,27 @@
      0
     ],
     "w": [
-     1,
-     8,
+     0,
+     7,
      2
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      0,
      0,
      1,
+     0,
      0,
      0
     ],
@@ -536,10 +530,10 @@
      0,
      0,
      0,
-     0,
      1,
      0,
-     1
+     1,
+     0
     ]
    }
   }

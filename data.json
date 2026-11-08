@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:37:39.343428+07:00",
+ "updated": "2026-11-08T07:06:57.705914+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "RRI.co.id",
-   26
+   29
   ],
   [
    "Tribunjabar.id",
-   22
+   23
   ],
   [
    "Kompas.com",
@@ -20,50 +20,50 @@
   ],
   [
    "Ayo Bandung",
-   12
-  ],
-  [
-   "ANTARA News Jawa Barat",
    11
   ],
   [
-   "Inilahkoran.id",
-   7
+   "ANTARA News Jawa Barat",
+   9
   ],
   [
    "PPID Kab. Bandung",
-   6
-  ],
-  [
-   "Jurnal Soreang",
-   5
+   8
   ],
   [
    "Koran Gala",
    5
   ],
   [
+   "Inilahkoran.id",
+   5
+  ],
+  [
+   "jabarekspres.com",
+   4
+  ],
+  [
    "deJurnal.com",
    4
   ],
   [
-   "Satumedia.id",
-   3
+   "Jurnal Soreang",
+   4
+  ],
+  [
+   "detikcom",
+   4
   ],
   [
    "Pikiran Rakyat Koran",
    3
   ],
   [
-   "jabarekspres.com",
-   3
-  ],
-  [
-   "detikcom",
-   3
-  ],
-  [
    "Delegasi Pemersatu Rakyat",
+   2
+  ],
+  [
+   "Antarwaktu.com",
    2
   ]
  ],
@@ -117,8 +117,8 @@
     ],
     "w": [
      8,
-     21,
-     12
+     23,
+     10
     ]
    },
    "trend": {
@@ -144,8 +144,8 @@
      1,
      0,
      0,
-     6,
      5,
+     4,
      1,
      0
     ]
@@ -199,8 +199,8 @@
     ],
     "w": [
      7,
-     8,
-     4
+     9,
+     3
     ]
    },
    "trend": {
@@ -224,7 +224,7 @@
     ],
     "g": [
      2,
-     2,
+     1,
      0,
      0,
      0,
@@ -269,7 +269,7 @@
     ],
     "w": [
      3,
-     13,
+     15,
      0
     ]
    },
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
+     "t": "RINGKASAN DAPTAR PELAKSANAAN ANGGARAN (DPA) SATUAN POLISI PAMONG PRAJA KABUPATEN BANDUNG TAHUN 2026 - PPID Kab. Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXF0aHBOT2NfYnA3ZV83Y1hPS3p2bVZwNzBzNHI2RTFsNVFaTGRUek9hWVNwRmdGLXZIRDVSakQ4N0pQZjBVWnZpamlha2lRdmZXRTVhSzViX2ZnNTNuWktuNm94VWJZbDBuS2NLbG0wMXptWFhTRzRjYzlCbm92QUdNakdvNG9UX1h1aWtCQ29uY3E5VF9ZbXdnODZPaWd6THpfMjRyQ0diSkhKaDA3bDJiejhKWFIzd2x5V0RoRHVoN1VZMmgzNnY1bHJ2MmxzYThyQzhoQlU1amRkRTNYd0xVSmpzNzRuamlTZWY4LWw?oc=5",
+     "r": "PPID Kab. Bandung"
+    },
+    {
      "t": "Polisi Intensif Selidiki Kasus Penculikan Anak - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzlKeXZYTVR4cmtiQmRNaWxsWGtvTExHZUdTcEFQcHhkZ2syNkNoRzJkdHBDcHk1dWZ6eUNIYXlqUm8zZTRIRDVUMmhrQmFsclhQZWdObTFibVRYa05LSWliOHJlOFBiUU5aV0tnR3MtV2ZkeXhtRTdrWEhOVGxlVmwtWm9iUGp4UmFfQVJvTmlLQnhtQzJn?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Polisi Intensif Selidiki Kasus Penculikan Anak Berinisial SIA - RRI.co.id",
+     "t": "REALISASI ANGGARAN SATUAN POLISI PAMONG PRJA KABUPATEN BANDUNG SEMSESTER 1 TAHUN 2026 - PPID Kab. Bandung",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdU5uSl9rT1gybTBDZXZ5VTEtVmloci13aloxSnBHUS1pSldLY1E3MG1zMmNTd1R5Nnc1b2wwb21xU2lHMVRaMUZESG9ZUkZXa3V0MUlRcG9Dc0UzUF9lMXlQb3BKQ2tLX0hIRVZZNTBWSVRDOGhhUGpXVHo0RFlLdDNocFdaeThvSGQxSEk5LV9OLWZMOGFYWUZsN0FDSjQ2aFNnTjdZRkVGM0U?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Viral Aksi Todong Airsoft Gun di Jalan Raya Banjaran-Soreang, Seorang Remaja Ditangkap Polisi - Kompas.com",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNazZIanhFOUM5Ql9NXy1LRXZneFhWdFZtV2xEblduUlYtYmtqQ2ZOM0JlVjB0ZXBzQmZLcDlHYU1pU0ZOaWItZDFlOHRMQkZkbVpQVFZNLWV3bXNVNXN5Q01mbDRyb3plTE14V1I0bUpWcFdZYmYzOG1lWC1kU2JaMXlDOXB5enBJQVRWaDJXUVhHNFRJZG5tcTNQR1NZdDhWbWNocmV3bUFDR2prTTRyY1B2bi1sbTVaeE1XR2tEdWpBZm5Z?oc=5",
-     "r": "Kompas.com"
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0ZVTm16X3RodVBNWW44a3BnT1hXM3NSTkVEMl8xMHV4QktSdlh4QTNkdXNOZDhtZWdIWDlSd0ZnazBod0xVbm5KSHRuR290QUFLVTd0QVpSblBZVktGVC1WNjJ6cEVZcWt6RUVTTEtVeGdJMUZsamV3YjlyMGtHUFVRdmdzODJvYkh6enZZVGNITDNQOWNoLVNzRUNCOURqSmpQUjZldTM3MGxuSWg1ZDUwamFjeWI4MzhKa09MRFJGOFlqd2Q4bUhpZEg3c2ctakVWUzNQTkQyU0lvRGlNOQ?oc=5",
+     "r": "PPID Kab. Bandung"
     },
     {
      "t": "🔴LIVE Operasi Patuh Lodaya 2026 Pekan ke 2 di Wilayah Hukum Polresta Bandung",
@@ -426,9 +426,9 @@
      5
     ],
     "w": [
-     2,
-     6,
-     28
+     3,
+     7,
+     25
     ]
    },
    "trend": {
@@ -442,7 +442,7 @@
      "Min"
     ],
     "p": [
-     0,
+     1,
      0,
      0,
      2,
@@ -454,7 +454,7 @@
      3,
      4,
      5,
-     11,
+     8,
      5,
      5,
      0
@@ -471,21 +471,21 @@
    ],
    "h": [
     {
+     "t": "Pemkot Bandung Andalkan Sekolah Rakyat untuk Tangani 7.800 Anak Tidak Sekolah - RRI.co.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEtLdVJhOHV3UUthN01BbHhIc2ktdXVzOEF2R1ZWaE5pSWRyR01JeTlMLXJZMzdYT1hOWWVmYm9oVnNWMlJQMklEcHY2RkhRWjF3cmZDV0Y1S3BuOTJkT0Y2OUpRR1V4M2pmakdTaUhkTURuQjJrNllKLTNEc04zVU1RN21wbUpSMnhqTjlBdjFXUEFiNWMzeWZVS1B2QTg4VmlaWDBZajJtNWxJRmRfQ2VGamstYm52cGhv?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
      "t": "Mahasiswa Demo di Depan DPRD Jabar, Soroti Isu Pendidikan hingga Lingkungan - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcG1IYzcyZFZQN0JHREN6eE9PQ19VczlwMTJibWdoN2g0dkpRejJaUGFsMGtQdUNUdDloem1pTTZtbjZzYi0yNGtxc3JTby1VdVpmeVMwbHVXUjVGc3hXd0NaLWlxMW1nTjhnTUpRSnhodXIyVEVpaGJhd2tHSmxNbGhoWEZ1bWtPVG91REg1ay1jYWxQcWx1bWY0Ni1VZVBNUUt4T2p1YzZhVEFtUFdzWUE5dk5fb0o4VEJxdTgyYXUxUUdaYjVidVBCVTXSAdIBQVVfeXFMUE92ZC1rWnVvdFd0QUlYTktmdmhHc3BqMmhUaU9kWGpEdnRLNzRleUhPQnd4TFJIdGUxT1Z6Rzc4cFkyQjVoN3ZIQWlwWkxrYlo0dkxEY2lLMWdOUHdZUldqRk9HZjR6NlBYYmJsV1ltdXVoUDZZM296d0pORE1oVzIyWTBxMVR1X3I4dDdYSUxpUWFYX0FuQlc2VF9TTVdfN2Fybk9YZmpVc05Ud0QxUkdqNjVqOGdHOEdPcF9ieHU4QmY4bmZienZRVFNEUUNrNmx3?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Miris! Siswi SMP di Pangalengan Diduga Jadi Korban Kekerasan, Keluarga Pertanyakan Perlindungan Sekolah - Jayantara News",
+     "t": "Pemkot Bandung Gandeng Plan International Indonesia, Target Zero New Stunting - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlV3OVVfa2dEd2EySkxZOHBRcDhtY0NmaU5CY216Qm8tNVMyVUEtSDQ0TlRna3lYdlEwUmM2cFlxY09YT3luVkkxRQ?oc=5",
-     "r": "Jayantara News"
-    },
-    {
-     "t": "Apel Siaga Bencana, Bupati : Ancaman Bencana Hidrometeorologi Basah - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDd5TGt4Z1h6UUF6aXZQYU1rMzE2ak93Um43Ujljb2xIbWYzbUVuTkZDY2VKRzZEcmlTRjNDRnk0bV84SU5wekRGaHU0SVlUb1lPcEs1OF83QTlTWjZTUTdac1c4bWdpTXJ2OU9pR3EyRGJEUFo3eFdfeHFTSFpOMVpKSldqNTNGTjc1djdnenBpZW0zSVFpSXB6cnVjUlpQR1R4YzdJRGF6Qmc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3RQb2hhQkVoRVdYSW5yYVl6U3lNc1Fxc0dpQm51WmRISW93cDRrYlRSU2RNSHFzOERyT2g3cFNnaVp2OXZJdUdIQlkyRkRBbnl5VXlVUFI4Rkd5c2xORzFIOFFnLTVrd2Q2NVFnWm92RE96SGJzei0tWUFEbzJHNGFlTjRoMjg4eUtDTVNHaXp2VEJOMW0xUV9nQ1A4MWVUeUEtbzBoLU1GZmVtSHQtZU5JRGt4TXVzdmJ3?oc=5",
      "r": "RRI.co.id"
     },
     {

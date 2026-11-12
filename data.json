@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:23:32.800831+07:00",
+ "updated": "2026-11-12T10:30:53.681409+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,11 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   22
+   24
   ],
   [
    "RRI.co.id",
-   17
+   20
   ],
   [
    "Kompas.com",
@@ -24,6 +24,14 @@
   ],
   [
    "Radio PRFM",
+   9
+  ],
+  [
+   "Koran Gala",
+   7
+  ],
+  [
+   "deJurnal.com",
    7
   ],
   [
@@ -31,23 +39,15 @@
    7
   ],
   [
-   "deJurnal.com",
-   6
-  ],
-  [
    "Ayo Bandung",
    6
   ],
   [
-   "Pemerintah Kabupaten Bandung",
-   5
-  ],
-  [
-   "Koran Gala",
-   5
-  ],
-  [
    "jabarekspres.com",
+   5
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    4
   ],
   [
@@ -55,15 +55,15 @@
    4
   ],
   [
+   "Galamedia News",
+   3
+  ],
+  [
    "PPID Kab. Bandung",
    3
   ],
   [
-   "Satumedia.id",
-   2
-  ],
-  [
-   "opininews.com",
+   "Ketik",
    2
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "BUKTI KELULUSAN - Pemerintah Kabupaten Bandung",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qT190THB4ZEZlWDRFVXdUN19VSmtpRGdVZlhEQXZJQ0hEUUkxWktrSEEtNUt1em1CS0VuSDFGbVd5T3EzY19wTC01Mm5oZF8yZEFkWlJuWGpjQWJsOUhLcXl3RXlhX0FQZ2lyLUxIOHBXVGszajBDYQ?oc=5",
-     "r": "Pemerintah Kabupaten Bandung"
+     "t": "Pemkab Bandung Minta Wartawan Utamakan Akurasi dan Verifikasi dalam Publikasi Pembangunan - Galamedia News",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXFZcWFsUVdWdkNYdF9ONU5lcjZabFBBV2ZOWXJJQ1p1LW5JckFPOU9kRlZ3RWFLU3k4V285T0FEUTl1TVM4clZMRHAtelgtZlNzVngzMWNDOVVQME1IR055NzdJRUpjczFRUjhMX1NoMjFBXzZGOTVvRFJmQXM0OHdLYU9tYU9zRmdhb1hLcndwYm1PSTR3bWJVTGFydlQzS0tSVWZNUFRTaHpfUmZoSjhPZUU2TlRaRmZhc0EzblFsa0FIYUNqdV9uTXktZU5uZ0tQakJjREdITjB0MkE?oc=5",
+     "r": "Galamedia News"
     },
     {
-     "t": "Bupati KDS Dorong PWI Jadi Mitra Strategis dalam Publikasi Pembangunan dan Pelayanan Publik - Ketik",
+     "t": "Beri Motivasi Langsung kepada Atlet, KDS Optimistis Kabupaten Bandung Raih Prestasi Terbaik di Porprov Jabar 2026 - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmlGeVRlLTJlWFNBc1J6bkRFRXFFV0YtUF90Rm5vRnF6aEZNdFpLYUNKX3Z5RWVtLUZSZWVZRHNtc25aNkx1XzZ1MGU3UVJIaUd1Z29LYVdFX1pobVU0Tzl2UDR5NGxEREItYnctTkRyZEphM0pfVDZzTFpfV2pRR0c5aThUSWVvejVGNGFIdGV4TVVhMkFteXpDMGM1dmd6OWFfMFhWU0xhVDAwaWtIUDVTUdIBswFBVV95cUxPcmlGeVRlLTJlWFNBc1J6bkRFRXFFV0YtUF90Rm5vRnF6aEZNdFpLYUNKX3Z5RWVtLUZSZWVZRHNtc25aNkx1XzZ1MGU3UVJIaUd1Z29LYVdFX1pobVU0Tzl2UDR5NGxEREItYnctTkRyZEphM0pfVDZzTFpfV2pRR0c5aThUSWVvejVGNGFIdGV4TVVhMkFteXpDMGM1dmd6OWFfMFhWU0xhVDAwaWtIUDVTUQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVRyNnE1QVU2d0VVQkpMam5yd2c3MlU2b3drVDBZUHdPQ0Nwck9RSWowSmtlcW1FYVhLMHd2UnFlYlBBRjNFSlg3S01MYThSZWd3czR3QUZFelRKdmZOd2dNQTZ5RHRiNkJqb1hpTnZReW9oc29ZR0FvOTREN2VuWk41THlqVE0wM1czMy02RFVSc3c3V21nOW80M1ZfbkJwNjBpTEZob2xPSUNnZ3pmSkxLc2NCMnlXVEIzSUcxWUpERjkyYklHSHFkX0F4RmRVTHFFZEtfeDd1NVF2eXNnStIBzwFBVV95cUxOallUYjVsYWlvak9ORjFOa3pHeXFDRXhjc0VEM1YzUG1wYXF2U2x0M3JwdS1SbE15dHVETGpCaUxQaWxaYmd6dnAzMFVSc1A5dFlwNGVTVnBPRGJqLWFYbTdKbHFXUjVHX1d4M0FqaW5EbGIyZ2RDQkFxckkwamhzZDVMVThUXzRXdDBZOVFSX2ZLdEdna3Q1MFhwVFg2eUNDcW9QN0FPZTE1cWhsaUFzSlZrcERfLXNBbVV5QjZSYW5RSVBteWViaDdDLWJGdVk?oc=5",
      "r": "Ketik"
     },
     {
-     "t": "Pemkab Bandung Kaji Perampingan OPD, Penataan Struktur Organisasi Disiapkan Mulai 2027 - Satumedia.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2V4UG04amFQRHZFR2RBWjFnYXdoYTA3VHBCS1NtcERtczlOLVk2V2ZDMnVFbEp4elJELTRxVkFjTXF3X2JIVWhuQm5UUkZNY1ZWVjI0VU9MTXZLVnZvcjZtTlAzRHB2Mmp5bmZ5RzA1V0hYMVRTT3V3VzZWTy0wOGRpcThSb21FeXlWX19DVnpoZjFhenJUa0gzc0pGYTFxV0RqT2NuZklvRHFGVFFIbVk0U2NrMGprZTRpa0liWQ?oc=5",
-     "r": "Satumedia.id"
+     "t": "KDS Beri Dukungan Langsung Atlet Kabupaten Bandung di Porprov Jabar 2026 - Radio PRFM",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWlZoTFJVQmoyYlVtQXA5cE40eXphQ0trWExXcjhycHVyNzItSW5IRk9KMWZVQ1dDTnl2QmFpWWprdXdGM0VQM0hkUHBwdTl2RDhoNmlqb2w3OVdPUC1sNERrd0ZTaVhJbDJPcGtwZ3p5ajIyVU9jY3Noa0tjMFMxTlpreUstNW00ZW1DaFdJa3I4VHg3T3ExRE5vdFRSQzdvTVB2NC1rWUtBMDR2d2NxY21FY0w5dThrR1VLcVBUYjh1Q25iN1h5bVMzVmZXeEpO0gHWAUFVX3lxTE83TWg0R1BDRUl6ZTNrY29DUDZudWstYjdZQWZVZ09EbldzOWMzbzAxRXpNZjBzNGxSa25zejlHMnRUSkw3TEhhRjJOVEVsRjh2Tm1ONktvd29iRDFUX0lVTTZxVjNRdWd4SHJDUk9TSHBRLXFOdm5MaVBhWlJxNXdCU2VEdnJmZXBjUGhCcmc0aHBHR3lfZ01JTmJYVG1hcWZIdFVOTDhlTGdzZXc2U3RjaGxRSkxNZ1packoyMGNxZFlfRl9MaUdZa0VCOHRkX1IteXlFM3c?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "🔴LIVE Pemkab Bandung Bergerak, Dugaan Jaringan TPPO Bermodus Rekrutmen PMI Terungkap",
@@ -116,9 +116,9 @@
      1
     ],
     "w": [
-     5,
-     24,
-     3
+     7,
+     28,
+     1
     ]
    },
    "trend": {
@@ -136,16 +136,16 @@
      0,
      0,
      0,
-     1,
+     0,
      4,
-     0
+     3
     ],
     "g": [
      0,
      0,
      0,
      0,
-     4,
+     2,
      0,
      0
     ]
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Anggota DPRD H. Dadang Suryana: Pembangunan Rumah Ibadah Harus Sesuai Prosedur - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlQxNTY0OTZoVDdXRUtyR3gzZnp3OEVJZTNSd3FOZmxfOVJ2MlBkSnRiNEtUencxcVk2M2JjX0pndXRScHVES0RHT3pkWjdiR0hyRFBqNS05YjlCVmZFaXRhbEJpSHpYTTVKT2E5WmNLLVNhZHBvSGU1UzAweGE2TjJtUXBzX2QwS1VxMFdHXzdrZGs1ajJzODhweUZxWHdkU3NHengxX2NiQQ?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Reses di Katapang, Anton Ahmad Fauzi Soroti Sumur Artesis dan Limbah Industri Diduga Tak Berizin - deJurnal.com",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1pxVkNxZDFoVUpzVlIzdElwd1lwOHJDMXRtRHkxRVBJRTBOU3BHX2dpMmRQUEVROEV5NHZfOXlSZEhTZG02X1lPcUg1NHNtdnhOZlIxbDA2RVI3LV9DcG5PeXJ1RVlPZW5XOV9rVmE4OWFQN0ozNWFXb0lPTXlpcE1keG5QZ3NtX1ZqRXlfaXctWHJ2TzdQaC1aUWRMUGEwOVpGYWNpWXI2NTUyTy1HUzUxcjVFT0NXYUdtaXVZdWdhRkk?oc=5",
@@ -170,12 +176,6 @@
      "t": "Reses DPRD, H.Dadang Suryana Soroti Wacana Desa Rahayu Jadi Kelurahan - deJurnal.com",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkthcWdnbWpBWVBEVFVPUERodzdYMFBIUDFDcFVNcld5cThERmFZOW5GY1lndXdXY1Nod19ObG91aDFBTGNjdDJpRDhtS3RNeWpVVERiNVFCQ1JvTlg3cmREVzRDbHZNVzBEYTVmemJHYlU3STlWcVVlZm5kYU5meE1vNzJDWHFxazVnbmJjbzR6MXJOc0FGUGJDMWQyWjQ?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "H. Tedi Supriadi: Komisi D DPRD Kabupaten Bandung Buka Ruang Aspirasi Pendidikan, Kesehatan hingga Sosial Budaya - deJurnal.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTmRzZ1NPR1NwbE5OY0NyYXVzZi1UNEMwMm5QS2FWVnlmbDhIeWthQmZRN3RUaWRhckZFUlN3dy1IckwtajNjNmNoNnFXekFpcFA4Z3YyN2FPam1qTUdCSXkydlFfOTAyRUkxcDE5b3BzOWtmM3JwdFBnQ2NKYXVFcllBYWdYNk1GenRsYmNlazJiQmU2X0JmbGtXZm1fM1V0bExlbEFYRzBUTE5NM0hCUzVyVXZ3VGFBMTk3NENvZmdqRjhhcU1jMUE0TGFhcnVHWFhjT2pn?oc=5",
      "r": "deJurnal.com"
     },
     {
@@ -199,7 +199,7 @@
     ],
     "w": [
      7,
-     13,
+     14,
      3
     ]
    },
@@ -269,7 +269,7 @@
     ],
     "w": [
      5,
-     11,
+     12,
      5
     ]
    },
@@ -345,8 +345,8 @@
     ],
     "w": [
      1,
-     23,
-     17
+     24,
+     18
     ]
    },
    "trend": {
@@ -371,7 +371,7 @@
     "g": [
      5,
      2,
-     0,
+     1,
      4,
      0,
      5,
@@ -427,7 +427,7 @@
     ],
     "w": [
      2,
-     8,
+     9,
      12
     ]
    },
@@ -451,10 +451,10 @@
      0
     ],
     "g": [
-     4,
+     5,
      3,
      0,
-     2,
+     1,
      5,
      1,
      0
@@ -489,27 +489,27 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandung || Dapil 3",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=hBsSB-nlc-8",
+     "r": "YouTube KPU Kabupaten Bandung"
+    },
+    {
      "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=PqOTWKxRHIE",
      "r": "YouTube KPU Kabupaten Bandung"
-    },
-    {
-     "t": "PGRI Kabupaten Bandung Gelar Lomba Borangan dan Pasanggiri Pupuh Peringati HUT ke 81 dan HGN 2026",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=hk-Af_6ojgk",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      1,
-     2,
+     3,
      0
     ],
     "w": [
      0,
-     5,
+     6,
      3
     ]
    },

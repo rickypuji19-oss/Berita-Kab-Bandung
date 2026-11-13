@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:30:04.184289+07:00",
+ "updated": "2026-11-13T22:49:51.377579+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,30 +8,30 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   27
   ],
   [
    "RRI.co.id",
-   17
+   19
   ],
   [
    "Kompas.com",
-   12
+   18
   ],
   [
    "Ayo Bandung",
-   11
-  ],
-  [
-   "Pemerintah Kabupaten Bandung",
-   10
-  ],
-  [
-   "Ketik",
-   8
+   14
   ],
   [
    "ANTARA News Jawa Barat",
+   7
+  ],
+  [
+   "Ketik",
+   7
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    7
   ],
   [
@@ -39,7 +39,7 @@
    7
   ],
   [
-   "Galamedia News",
+   "Koran Gala",
    6
   ],
   [
@@ -47,24 +47,24 @@
    6
   ],
   [
-   "Pikiran Rakyat Koran",
+   "jabarekspres.com",
    4
   ],
   [
-   "jabarekspres.com",
-   4
+   "Galamedia News",
+   3
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   3
   ],
   [
    "Gerbang Patriot",
    3
   ],
   [
-   "PPID Kab. Bandung",
-   3
-  ],
-  [
-   "Radio PRFM",
-   3
+   "Media Purna Polri",
+   2
   ]
  ],
  "topics": [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
-     "t": "Apel Akbar Satlinmas Jabar: KDS Bawa 300 Personel Kabupaten Bandung dan Tekankan Perlindungan Anggota - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEdTTU9yYndFZHNJc2FtVmlTajl6c0E1TVR5X2l4blFQZjFSQlVhOHJxVmZmb1hQS2c4SzJlRm1DTENhc0p2elpvVnFsUGpiSTl0MUJKY2M4TGd1c0NTeEZyNU5nTVVsMnFoMG9qajN2Uk1ocjB2X05KV2NJR3B2ekgyRkJHX25NTmtGUkh5OURpTG1qQURPcWtnZXlYOVBZNXRQWjJGM2tLdkNnb3B6RXBqSnBBWVFYOGsxel95Z3pVMzRjVjNwWXd6bFFCTWZ6N212Sm9FOThPTHFjQ0FVSU1aMHRRRE1vb3lvcw?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Hormati Proses Hukum, Pemkab Bandung Tunggu Vonis Korupsi PT BDS Inkracht - Inilahkoran.id",
+     "t": "Kejari Kabupaten Bandung siapkan banding dalam kasus korupsi PT BDS - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkJvUl9UWTJiRVhkMW9BejROVVUzUFZWMGI1WnBpaWpINXNKUWFkSzVYZEM5eVZEdGlCZmJNWVg1WjdWbjBoeFN1Nk0xcFVrOFpKYUlnTThKbERKNU5oem5FeHVLXzl3NFhGQ3NNMG9BWXZ0bGl5SlRqdmtUQzUwa1VJZ1lmUG9UXzM2UlJIQmlMdjNnZHJ0VE0xMHliWkRx?oc=5",
-     "r": "Inilahkoran.id"
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFJPTmpVVWFtNXN3QTBNb2I0MDVCbS1acjBWZmszc19iRTctSjEwdjVUTnFNUHJhZGZ5UVNFU0pEbk9Yc0lPNmwwQ3laUGlsOG1TbHVZX0RkRkQ3TUdJWGRMemJrWEI4bjZvQUMxMW1tV2tBbmtaVC05WXlJTV9CWWJveUpnRGZvejBWdEFIY0ViVmVyendNUENrYzNwYXlEZGtuTUJoTjQ5YmhYdVVj0gG0AUFVX3lxTFAzQmtzRmtKUU1NUUppTHZ4cFRjTjlmQ3A5dlU5R3BLOG1XNzc3WEdVVi1xU0VuTmZmd3oya1Y1UWRCZDBBcFVhYmo0UWxGTzh5ajAwN19LT3k0RVpHTnlRUjdKeUdxZkJuRjJOZi1JeDM2dVpFaldFdlNoR1puQmlvR0VjZ0NtX3lOUGZFdndHWENtM2MwSzEtZWI2a1dtRmkyclV0NUZOS0NFS3JwVkl4d2lUWQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "KDS Lantik Pejabat Administrator, Minta Birokrasi Kabupaten Bandung Lebih Profesional, Responsif dan Inovatif - Galamedia News",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTlhiMGxCNXVQLWV3QzE4WlNlaUl4dlVMR3FNZGZ5S1BoWl8zaGUycU5tcUJPT01xcHBwYTl5MU5OMVA5ZkFhWTdMZVV3M3dRRlZvbENMYkdvS3NMZG9DQUZhRU13TVMyZVRYZjJVb2FzNjg2V0FabVNBdDRybEVmaHI3R2tkdUxic3NMVXRoSmFDVG9DT3V1OGZVcENCT3hhSlZ6cFlpOEw1T1pNM1JLVWZLczk0Ym5kZWZNV3hrRGNNSVBPb05wRUtCSUZOU2U1M01iNDNZb2RpSTN4RmVuaTZpaEZYNlRNZXMzM1lfWHNweV80M3c?oc=5",
-     "r": "Galamedia News"
+     "t": "Reses Masa Sidang 1, Acep Ana Soroti Penurunan APBD Kabupaten Bandung Hingga 1 T - liputan4.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1c0bUZkNHk4Yk1kcWMxWGNmMTdxZ3RsWXFKNDFlNThueUhwMFRtbGJqREQxX1RkNlFDWWFZU1Q0enVNUUI2UVBudUtnYVUtSGZxdHNxc296azAtVTZXZ3RkZ21CdlFUQUhfYi1GLUttWHBiV1d5ZVFmNER1OEhoS1VteFY5cDFaSzFxbDcwRkdldGRhcWFFM0tTWVpTXzZ0ZEdF?oc=5",
+     "r": "liputan4.com"
+    },
+    {
+     "t": "Tak Kunjung Ambil Sikap di Kasus Korupsi PT BDS, Pemkab Bandung Pilih Tunggu Proses hingga Inkrah - jabarekspres.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVF0N1NDSUlfSGtUdmNFbGR0Z0hzYU4tcW5FN1oxNDcwYktDN285TkhmVS12X2hlMmI5M2o4eWROaWpQMUxPekRuVFN4RWtwVHdpQmctOVVBTDk0cXp4N2R1SnlSclNieXVtTDAyX1VTN09WTUpaX21LYTJNcGpOY0EwTUtfbm9iNVR6RzVTNVA3R3JmZ2FKdWVBTzlmQVlNd2w5YVRUZjdlWHptWG1NcWFmbjdTQmxXaW5lNFlvVjNoSmVfWnMtVHpZcTZPTE0yRDQtcDlObw?oc=5",
+     "r": "jabarekspres.com"
     },
     {
      "t": "🔴LIVE Pemkab Bandung Bergerak, Dugaan Jaringan TPPO Bermodus Rekrutmen PMI Terungkap",
@@ -110,9 +110,9 @@
      1
     ],
     "w": [
-     11,
-     25,
-     1
+     10,
+     21,
+     9
     ]
    },
    "trend": {
@@ -131,8 +131,8 @@
      0,
      0,
      0,
-     10,
-     1
+     8,
+     2
     ],
     "g": [
      0,
@@ -141,7 +141,7 @@
      1,
      0,
      0,
-     1
+     9
     ]
    }
   },
@@ -155,22 +155,22 @@
    ],
    "h": [
     {
+     "t": "Reses Masa Sidang 1, Acep Ana Soroti Penurunan APBD Kabupaten Bandung Hingga 1 T - liputan4.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1c0bUZkNHk4Yk1kcWMxWGNmMTdxZ3RsWXFKNDFlNThueUhwMFRtbGJqREQxX1RkNlFDWWFZU1Q0enVNUUI2UVBudUtnYVUtSGZxdHNxc296azAtVTZXZ3RkZ21CdlFUQUhfYi1GLUttWHBiV1d5ZVFmNER1OEhoS1VteFY5cDFaSzFxbDcwRkdldGRhcWFFM0tTWVpTXzZ0ZEdF?oc=5",
+     "r": "liputan4.com"
+    },
+    {
+     "t": "Foto Gibran Diturunkan dari Ruang Banggar DPRD Jabar, Buky Wibawa Akan Surati KMP - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmFJdnFla0pxdDBCVjRRY1ZBRERoazlpX2dONEd2ZDRneDFDbkJJTEt0cURkSkNJZHVGWGprTVJkT1ZZcVE5bDdjNUkwNVJLcGM0VHRlVXBTNWNRd3V5VlptdkpxNXpacW5pTkRtRzdqWUpjWm56Ml9HODRnMS0tQWlmelVvM1RkSVY5R0tQVDVfUVF1dkFHa09aRGNyRXZMS1MzakdKMTVmbjg0cnU4dWRqSlhsUGNGSThhLUlvR0Q1NHpNRUlKaHk5Zw?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Rapat Paripurna DPRD Bandung Molor Dua Jam, Andri Gunawan Kritik Lemahnya Koordinasi Pemkot - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXJtSEVocXhBSzVYLThOUkhKTlJhZW9jZy1UcEs4YUZSYllZR2xsY3p6RzViMFBMRVNFOGF0SlpXenY0UWsyYkZuS2xRMEJWZ29GdGxMMmppdVVETWpDeGp5TmpnRlVNTkdMd2lXNV9GUFFuSjd0amtodDM5eE1BZlhqakdMNUJmUFdGemtobjR6b2Flb2RKWnZEM3hNTHRpMlFSaURwWjVMalFZRUdNdENfRWdHalpDaEJNX3JyZFlzZ0JDclFRMzlDd1NjTzdyVzlwVFJzbl8?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Anggota Dewan Apresiasi Pengelolaan Keuangan PDAM Tirta Raharja Kabupaten Bandung yang Sehat dan Transparan - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPekwzVnZmY05RY1dISVVGUHVqUXVUczhxMHVqT1o0MHNqYVRVRWdhQ3l3LWpUREktLUw0d0JDczdxM08yMER1MUZVNERJN3ZOZ1lFRko0eTFFeENYcnFHVEt5RXZqWXl4dmlrQ2x3bGY3enFUVUppTm5oNm5HdzdJczJLZWQ1eXEtTkl5aVo0M0V4bmtET0hIcFBwRkxUTzYzREdHSWp4SVUzUEh5eU4xYm5yU3VLa3NfQXVjMTNMOXg0TnN3ZmhlWVZ0aEM2blpycUtB?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
-     "t": "H.Asep Ikhsan, Bangun Silaturahmi Dalam Reses Masa Sidang I Th.Sidang 2026-2027 DPRD Kab.Bandung F. Demokrat - https://warta.in/",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamo1c0owVkZMNDFBcElDVVJfYV9EaUpyU1FGcnVlblJxQU8zbzk2VnRXSnF1clAwQldUX1dKM1dRZlFmd0hnZU9rQ0tFM0NiLThHMWpqN0s0UTZaM1laWlZoMVgxeDhYVTk0SVFqOE13ajV0SVgyaGJwTkkzSGtmVFZOMUhTUVE2RGZycTA3MUtEc2VtcDZnbW9ZeGFncmtuYmN6Smt0cVZ3dW1CWXZsMjMtYlNrQTFDZU5IUFdzdXhSdw?oc=5",
-     "r": "https://warta.in/"
     },
     {
      "t": "H.Toni Permana S.H., Anggota DPRD Kabupaten Bandung Fraksi Nasdem Dapil VI Melakukan Kegiatan Reses",
@@ -187,13 +187,13 @@
    ],
    "v": {
     "s": [
-     2,
+     1,
      9,
      0
     ],
     "w": [
      9,
-     14,
+     16,
      4
     ]
    },
@@ -208,7 +208,7 @@
      "Jum"
     ],
     "p": [
-     2,
+     1,
      1,
      1,
      1,
@@ -237,6 +237,12 @@
    ],
    "h": [
     {
+     "t": "Salurkan 15 Unit, Jeje Prioritaskan Pelaku UMKM Kecil - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzk5em0xQmRCbFJiLUdDYlFGb2RoV3VCWHpnbDRnQkFSbDJPYl80OVowTlFxdUo3SHNxYVFhb0JxZHh6NkhIWU50MlhCdzY3LXFzdUltQU94VmF0a2FSSVRldktHcWsxWjIwdnM0T2ROVEhOenR3LTFkb3NPNzhaaFFyZUZLN09TSXMwZFFHV1hNQkRLRTFxRy1CZnltc1U?oc=5",
+     "r": "jabarekspres.com"
+    },
+    {
      "t": "Kabandung Bangkit Salurkan Rp 70 Miliar untuk UMKM - Pikiran Rakyat Koran",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkQtTndTYkxwZnpFUWEzcl8wVEstbThMalVpZ2FzQ0lWS0c1ZFU3QjNKYXVpOXRGT2IxTGduY3dBSXJ3TEFkNkY0THFfTjUyZjFhYVpkWVE2VUhSZXpzLThhdjJoTmxpTkRBZkRIX2tDRTNRNDIyWUhFenlTQ3lOSzlfR0pEWkhNT1BBMXpxWDJ1ZFFDZjdUUW5OM3hMalYzcXRmYnZR?oc=5",
@@ -247,12 +253,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanA5RjdXa3dLMzIxYUF1aDVBVGVLRE9kZ09FNjRES1pMR1FRSGFkdWwybVJEVGpYbGtBbDBfeS13Y1k1UDVmS1IzQ0RvZTVtRlR1ZHNTYVpuWG41azRpSmVUSFhrMTQyTVU1NWdRWnhxZ3paQzQzOEltNC0yd1NtZDh2TnNTNGo5d3Bad3hzZW5sR1piQ3pnNVBJVktsaU52aDdCTmJ5N1lCU2FOcmE40gGvAUFVX3lxTFBqcDlGN1drd0szMjFhQXVoNUFUZUtET2RnT0U2NERLWkxHUVFIYWR1bDJtUkRUalhsa0FsMF95LXdjWTVQNWZLUjNDRG9lNW1GVHVkc1NhWm5YbjVrNGlKZVRIWGsxNDJNVTU1Z1FaeHFnelpDNDM4SW00LTJ3U21kOHZOc1M0ajl3cFp3eHNlbmxHWmJDemc1UElWS2xpTnZoN0JOYnk3WUJTYU5yYTg?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Inovasi Kabupaten Bandung Bangkit Tembus Lima Besar Nasional ISIM 2026 - Satumedia.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjl6VE5YemN5VE5BUWpNYmJNMzFYUzFRSFBacVVFRVRrYUdldXl6UnNpbFlNZUdlRHYxLVZSYW9mdnA1U210TVBPamZ1YllRUVVDWXhmTkNOdmtWME9pT19YLWhBUmxxQTZlcWZibktjWWxoU3RKUVdmZDJtSjN1TmhaTlFxOENLaHRkeXJtMTBVRFJCaVdlTHBISWpqd01acDk5cHpzSHVXdjA?oc=5",
-     "r": "Satumedia.id"
     }
    ],
    "v": {
@@ -263,8 +263,8 @@
     ],
     "w": [
      8,
-     16,
-     5
+     13,
+     6
     ]
    },
    "trend": {
@@ -290,7 +290,7 @@
      0,
      0,
      1,
-     2,
+     3,
      2,
      0,
      0
@@ -307,22 +307,22 @@
    ],
    "h": [
     {
-     "t": "BREAKING NEWS: Eks Dirut PT BDS dan PT CFR Divonis 16 serta 18 Tahun atas Kasus Korupsi BUMD Bandung - Tribunjabar.id",
+     "t": "Kejari Kabupaten Bandung siapkan banding dalam kasus korupsi PT BDS - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWVhkY3k0cE1hNG0yMHpraHpFMWROWG8yZDdRUGVFWW9qSS1Rc0JZM0FtaE5uUXZ0VnJWdU1rWmxKSjdaSklyWUpScmxCOGY4bWF2UjJkUVNIcjl2YndJT0lDRFhEbURDS0UtY2pLQTlaeTNDSHFhMWNtb1dGRmU5WGFIeFprd1lCd0ZXbm5uemtpeThHajVzTllwdG5EWXdiTGgzY2RiTE9vdHdtdVY0M09jTlJTVkp1TUQ4cVJ0LVo5QzhRV2N2NzJYRm1iaXlPdEtlTVpNRXVQXzNOZTMzaGRjZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFJPTmpVVWFtNXN3QTBNb2I0MDVCbS1acjBWZmszc19iRTctSjEwdjVUTnFNUHJhZGZ5UVNFU0pEbk9Yc0lPNmwwQ3laUGlsOG1TbHVZX0RkRkQ3TUdJWGRMemJrWEI4bjZvQUMxMW1tV2tBbmtaVC05WXlJTV9CWWJveUpnRGZvejBWdEFIY0ViVmVyendNUENrYzNwYXlEZGtuTUJoTjQ5YmhYdVVj0gG0AUFVX3lxTFAzQmtzRmtKUU1NUUppTHZ4cFRjTjlmQ3A5dlU5R3BLOG1XNzc3WEdVVi1xU0VuTmZmd3oya1Y1UWRCZDBBcFVhYmo0UWxGTzh5ajAwN19LT3k0RVpHTnlRUjdKeUdxZkJuRjJOZi1JeDM2dVpFaldFdlNoR1puQmlvR0VjZ0NtX3lOUGZFdndHWENtM2MwSzEtZWI2a1dtRmkyclV0NUZOS0NFS3JwVkl4d2lUWQ?oc=5",
+     "r": "ANTARA News Jawa Barat"
+    },
+    {
+     "t": "Kasus Korupsi di Kabupaten Bandung - Tribun Jabar - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yYXZCRVVSN3dBdklUNVJtemczbGpqY2VfUm1hbXdCdVV2bmNqcmJpTjduTTNDMGhNa0FVNGVzRGhxQnUyTkdWNWNkY0Q2V1pPOXIwbk5YanQwenJ3V2dndkVDWUtmY1NScVBZekdKdzNMbzRuTEVTYw?oc=5",
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Terkait Kasus PT BDS, Pemkab Bandung Pilih Hormati Proses Hukum di Pengadilan Tipikor hingga Inkracht - Galamedia News",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDZCTGtKWXliZUU5eVhlVGtSdjlUQlNCakNzZXVOdXB1UXo2eTl2dTI0SC1JU3MyZkNOYjBua00zZ3BRSzZTYWY4TVJkZ3FNS2hHek1nb1g2OWx5QTEwci1DU1dFbEc1SFNybWI4aTV2dHNEbXF4VEMxT0liMUt0S0ZGQ3V5LVNmOTlLRzQxb2l2Z3c1NC1zM3NYWVZ6c25UbWh4NnktMndGQTRCcldkMVF6Vkt2SkgtbGlsX3dnRFNxUVFxa0g4V1NiYWdPSXp5YWdONUhJcjA2bkRuN09kYUtoS09yNlloSzI0cg?oc=5",
-     "r": "Galamedia News"
-    },
-    {
-     "t": "Polisi Bongkar 6 Kasus Curanmor di Bandung dalam 2 Pekan, 8 Tersangka Ditangkap, 2 Buron - Tribunjabar.id",
+     "t": "Tak Kunjung Ambil Sikap di Kasus Korupsi PT BDS, Pemkab Bandung Pilih Tunggu Proses hingga Inkrah - jabarekspres.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUR0ck4wSzI3QVNldTNaRW1aRjdlY1RkZkJHc052bkZyNF84TWpvUThaOEhvckg0a3d3enNrZkVrU1pXZUx4WURteU9aNU1FNTMtNTJaQjJkem5lS21DOHVEc211d3pPNGc2ajNRaDJ6N0RlcmxNcHRPRkdDZHUwUUZucF81QzltbGJIZ3BXNl9PQUpvcDBBVWVWbC1OdDZCT1k1WXUzODlTcUE3WkJZU3JuVndFWWw2WmEyb212MjNpM2FxT25TaDF5TzBsSzFoNU93?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVF0N1NDSUlfSGtUdmNFbGR0Z0hzYU4tcW5FN1oxNDcwYktDN285TkhmVS12X2hlMmI5M2o4eWROaWpQMUxPekRuVFN4RWtwVHdpQmctOVVBTDk0cXp4N2R1SnlSclNieXVtTDAyX1VTN09WTUpaX21LYTJNcGpOY0EwTUtfbm9iNVR6RzVTNVA3R3JmZ2FKdWVBTzlmQVlNd2w5YVRUZjdlWHptWG1NcWFmbjdTQmxXaW5lNFlvVjNoSmVfWnMtVHpZcTZPTE0yRDQtcDlObw?oc=5",
+     "r": "jabarekspres.com"
     },
     {
      "t": "SATLANTAS POLRESTA BANDUNG BERKUNJUNG KE RUMAH BALITA KORBAN DITABRAK FORTUNER",
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     19,
-     18
+     14,
+     26
     ]
    },
    "trend": {
@@ -363,13 +363,13 @@
      0
     ],
     "g": [
+     0,
      1,
-     1,
-     4,
-     1,
-     6,
-     4,
-     1
+     5,
+     0,
+     5,
+     3,
+     12
     ]
    }
   },
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Viral Truk Terperosok di Perlintasan Ahmad Yani Bandung, KAI Pastikan Perjalanan Kereta Tetap Aman - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXJEaVR5NDd2Zlp6TjJFbFlaNHdNbG1JN2p5VVNEWHVfd3JHY2k1S1JUTVIwRmNXbUw4V3FYQUFtNGJDajdSNS0yeHZUbzVBajRIcWFKNHZ5UGdpaC1FT1luOU9wcUNNSFJJSWxMUkZYSkh2ci1PLXlidFRweHpkOXBmMUZxd3hiME0yT2xSbTRHUlkwSEpDUktJaV9jNTBuUHc4RjM2TTR4alJIbGpnYzJsQXJmMFdpYWV5ZTVNU1cteVIxWkEwSVIyMVBVYmNueUtRYUJpODdqY1N6bEZUbUZB0gHnAUFVX3lxTE5ZSkNGTFM5TlBXbmtuQUVOVWFiQUpiQ2hjRXQ2TUFnaXZLSEJoQjNFRUE1T2xPcE05SnJLcktNQzQ3dlZFTVh2bGR0eWlERzFXT2JyWThFUk44QzZKR190VG5IQml5MFlyMG0wRzRDVWlyS2ppTGNOMFpmcHlWTlE3T2NURFh1a0JGckV5eUp6ZWsxMzYzeEtEaTFDRnhnM3piVjU3MXNqZHRaSWxndkxMemNIN2dIbGgyUGc4VndXSWdEV1kwZFNPZkpQWmEteHd3cjZGQ0pPaFRPbzRRMTlGNjJIQUxsUQ?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Masalah Izin Tambang Andesit di Baleendah Bandung, Potensi Ancaman Kerusakan Jalan - Ayo Bandung - Ayo Bandung",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQW81Q3NZeWpHX2hNNnAzeWtYaG43eXRxb1lsbXR1clNnV2F5MmhnUjBYUE1waGFjVElBNEhZZTlsSXJZTkFNMzNiN29FQmo1bWdUb2lENTRha0xwU2dlNUdHYlNGQnNZTnNPVmRkQ2NrUlJrcmxxTi15bk1sN1BuMHpZcjYteHBoN2J2M0ZWeVQ0X0E0dW5IdkEyZkwxbklDb2FXMFJzekZBWVBBRmtjWkZ2ZzdMeHZ3T0k3U1pnNXNLa291QnVDLXltY1bSAdIBQVVfeXFMTlNfRV9JcWpoVjk0U2hIZDluNXVzMll2V2NfeDc3RzNXNENCeEs1RXJoeG9lT0t1cDA4WElIeEVCXzJvVG43RFdFZFlwQ3JDcGJ3YzdpWm8zX1BiWlNTSjNHZjFaamZLQ1M3QjhKR29jcnpya1NQMzNwRmtSbVpLS0JRYXZlQVlVU2c1RFQ4d01KUXdtZHBiZ3JOUGNBZVlGNGUyS1NfdURfN1Z6THVmaUdHS1lxMUw0akNkVDRKMFpHZjRvQUl2cjFqSUN6bWpkOXZn?oc=5",
@@ -392,12 +398,6 @@
      "t": "PHRI Jabar Ungkap Keluhan Wisatawan di Bandung: dari Macet hingga Parkir - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2JRWV81b1Blb29TYTByM3NDTU03bXF1cEczeFhfVWJLbzJlTnZPUklfVkxDSjVJQ1FQejM0SXBkak16d0RWTTBuU0FpazVydmVOZnhINVVHQmRsVzZmaFkyZjM3T2RLeEE1ZmlteGJrUnZyNTQyblIycDRaZDVMNVdqY3JkR3BoS1pUSW5Bdm1jeEJVckJPRmRlVTZqNHRBMmJud1BfR0dSZ3pSNThJN2FIazVxVF9iQ3hha1BQbw?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "900 Pohon Produktif Ditanam di Kawasan Bandung Utara untuk Tekan Risiko Banjir dan Longsor - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTVGNnRocjBEeUNmWEhNREtOSGhlNzNkSHNIN205SWJIQ1Q1c014cWMxOURlclRKMFNZQTNHXzc5djBMbGNma25pLTJ5OFJEeWRzRW02bEN3U2lNLU5UdmR0ZWV1MHlIRVdKREdTRzRQNU9raC1nNndVYVJkV1YzcG5DTi1xWXZQUWJnVGtLNFctSk42R0dSWDVyUnEwU3ZCZVVhcFE2TVZuYjlkNkxfSTJ6bTlmUTlLOFpSM2F2NXRWLVFwMXgwWnM2aTM3NmNmbEZpNkNLOUk?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -421,7 +421,7 @@
     ],
     "w": [
      0,
-     8,
+     11,
      12
     ]
    },
@@ -465,46 +465,46 @@
    ],
    "h": [
     {
-     "t": "Peduli Veteran, Kemhan Beri Bantuan Kesehatan hingga Sambangi Rumah Veteran Sakit - jabarekspres.com",
+     "t": "Foto : UPTD PPA Kabupaten Bandung Ungkap 23 Kasus TPPO: Korban Didominasi Anak Putus Sekolah yang Terjerat Utang Halaman 1 - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmFpeHIwWEpUSDl6VWluWkZkanMyWkpKcEk3S21CQ1BSUHlrWUZyTElSdk9vUWdvck9oWTducTFJUDVGN2lSYm1JaVRhM0JkbTh2eURmRjNvQnFzTEoyb09GLUxWNjVsUElSQmZ1NnZMdXNQVUpHaXRJMTRBYjJUNHNyMk44Y25YTm5WZm9BOEV2bTJTUkNnSGoxV3pDTzRKTERkM3JXR1R4UjdfRngwZExQVW9EczBGLXU4X3ZyZTR6Zw?oc=5",
-     "r": "jabarekspres.com"
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemNTaV9QRlRscm9PRG82cmdtNFZSdEZGeEhYTVB1aXB1NE1fVmtwc2s1SkxjcWx2aGctQ0hqRWVDQ2R6Vm1iOER6RkI0Y1dJRXdTZHNHVDNncTAzWTh5c1pKamx0cFNuZDhPelYzTGU2YmNqZHBwcThLT185ZDJzSTRGa05CVkc5LTY2M2R6Z296aWV4RnNKTmR4czNleUlXeDdTc3NTbzNaX0NwVVhWOHJqemFHYkZNeEVkNEwtRGhGSGsxc1gtbTNFYWdlclhpQmpJ?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Jawa Barat Jadi Provinsi dengan Anak Tidak Sekolah Terbanyak di Indonesia, Jumlahnya Tembus 508 Ribu - Ayo Bandung - Ayo Bandung",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUjdiUG9KVmotNVc3UjY1ejJjUF8tUk14NkhHR3BxNVhqdGNjQ2FTQks2a3RlU1JIVndaSkNpVDNMLXh3X0EySmtjNVA0ejhFd3Y1R1dsckJ2N3RJTkVKVnFqN256VkJDOEQtOXhWVzNLc05tZmJUdzJWUWthc24tS0M5bno2ZUpXNWEzRjJwOFJmRU5PbUd6XzdndkV3c2dWUHFXblN3X0VwcjdtcWtERWYzeFFoREtVZ0lEb2pUYV84OWtsQ0xLYTVMbVp6SUxFODRkMXZoX284Z9IB3wFBVV95cUxNekFyQlJ5MjdQN083Z05IMjYwWThOZXgzSDFhbjBpNXlDSHloR0hqLU1kV2FYbTZ2c0tJakdRenZfM3VqRk0xWWMyN3d1ZWQ5STdBZTBocXlwTWNrUUdlYUpXaV9UVHJicXEteTV2Z09rTnRRQ2ZOeFhMQ2RzdHJfN0gyOVJfSXM4VjhLWlR3WXJZMVJXbTNpZDY0QU40amFna3VPZV9majBBZnBiUGJnYno1NmFmTGVoS0RkQjJ0TkpjYW9OQ29yNjBEOF9VZlg5RnRaeXIxRmFDbWttdmlV?oc=5",
+     "t": "Bidik Pangkas Separuh Kemiskinan, Jabar Kebut Perlinsos Digital di 27 Daerah - Ayo Bandung - Ayo Bandung",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXJJUGI2Vkl0U3BsRDBZX1p1SlJQbWpMUFBPRDZtamszdlRFRHplUFI3eU5qTHRHUW9lMG8xTGpuTk1ZbWthcFdkWElTWmFMZGFVNE0tVVE1MzRTY3o2cUdVUUJRZUpDX3FpY3ZSTUJwR1pkWHJNMDdEUkZ6WGlyZWw1UXpmNjZvSzlyaHJIZlRQWmdSNUJ0WnBSNXdWWjJDekNxUFYzblRtZ2xmbFRkeXRPMjB0aWg1ZGFUTmJXbWs1UVU20gHKAUFVX3lxTE9IRFo4aU44WXVRR2M0YmUxZ1dGc3ZCY0FvVjVkNFBtRERuQjhWOGFkMUR6VEFWbV9DdFBJNEFOYkh4U3BWWDc2NlVSaFEwdGdFVVF3cnBjeUIxMUIwRTFTTndLWXdObWk5UUt2MlNiX09SSlMzWGx3R1Bvdm9sdXJsaC1Gd0Z3bjUxaEtLRVlKVVNYVm4xLTVjdnU4LWlYbENRX2lKZ3Ntdks5NUZNbWliaDBmaEV6RlB4TEx2c1JjQi02RkxZQ0xiMHc?oc=5",
      "r": "Ayo Bandung"
     },
     {
-     "t": "Pasca Siswa Tengelam di Kolam Renang, Disdik KBB Minta Guru Awasi Siswa - Ayo Bandung - Ayo Bandung",
+     "t": "UPTD PPA Kabupaten Bandung Ungkap 23 Kasus TPPO: Korban Didominasi Anak Putus Sekolah yang Terjerat Utang - Kompas.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTNEOGwtLW1tSmlaM0pNcW5yRFB0V0hfOEtPM2lJV09HdGpJWG1HR3d4RUhsMGZkd05MNURPd1V4blZmd0JHUFVDYXE3enhLVVhTc1dyUjc1ZmNiTDdEcW80WVpqa1Y2T0s2ZW1ER0RmM2lBY1NQZHJLX25mNGZqLTJJdThWbTY4RUE1b3NZeDMzSnp0SUlRTmtlZklqS0NmTnQwVm9sNnZhN183TE1uTWNHcy1NR1NnTHY2a0530gHDAUFVX3lxTE1YSzRJQVlEYW4yVS1FSnJiemNGdTJwOHAwc3cwWlJnNmppNFhVd0RqcGFaN2VKNXVnMWExbmhOVVl3bFFTQW5rZ0pmcERuX0hacno5MXMxRDNmeUxNMVdJN292aGV2MnVUZVp1Z0lVeUo0RmEwcVo1bzVHM2ktX0J4Z1lVMUo1NkxrTTNRaFUwNGs0WEVITlVFYXJrUkRVRUg4eGM5ZWs0bGl0OEhUOVRNTHpwbGpDRGVZTlRveHJPMGdGOA?oc=5",
-     "r": "Ayo Bandung"
-    },
-    {
-     "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandung || Dapil 3",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=hBsSB-nlc-8",
-     "r": "YouTube KPU Kabupaten Bandung"
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmR3VTBKWUc5SzJPWXdSMUxIMncxUTJwMndmZW9tSkpKZnBYVzNOUFAwWDktX0hucDhIQjJpeWVYYS1lQzZOcWVkQnpkSXBJRm5SaS1zbDk1VmZ6ZmdsdlhJZ1FRRkZadmxQRHZVRy1LMWQ0LVNTdzUtQ0FYTXBEY0EtYU1XTXYwM3RxV3M4QzlMbm9Sbm1uZDBzTjBhWEUzYVlPTVpUTm1LaVozeGdqZEtqZ19XMFhoUVJ4Z0I2S19ha0RjUThmNQ?oc=5",
+     "r": "Kompas.com"
     },
     {
      "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=PqOTWKxRHIE",
      "r": "YouTube KPU Kabupaten Bandung"
+    },
+    {
+     "t": "PGRI Kabupaten Bandung Gelar Lomba Borangan dan Pasanggiri Pupuh Peringati HUT ke 81 dan HGN 2026",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=hk-Af_6ojgk",
+     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      0,
-     3,
+     2,
      0
     ],
     "w": [
      1,
      7,
-     2
+     3
     ]
    },
    "trend": {
@@ -533,7 +533,7 @@
      0,
      0,
      0,
-     0
+     1
     ]
    }
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:26:25.087571+07:00",
+ "updated": "2026-11-15T03:16:44.515815+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,39 +8,39 @@
  "portals": [
   [
    "Tribunjabar.id",
-   28
-  ],
-  [
-   "RRI.co.id",
-   20
+   29
   ],
   [
    "Ayo Bandung",
-   16
+   18
+  ],
+  [
+   "RRI.co.id",
+   13
   ],
   [
    "Kompas.com",
-   15
-  ],
-  [
-   "deJurnal.com",
-   9
+   13
   ],
   [
    "ANTARA News Jawa Barat",
-   8
+   9
   ],
   [
    "detikcom",
    7
   ],
   [
-   "jabarekspres.com",
-   6
+   "deJurnal.com",
+   7
   ],
   [
-   "PPID Kab. Bandung",
-   6
+   "Radio PRFM",
+   5
+  ],
+  [
+   "jabarekspres.com",
+   5
   ],
   [
    "Ketik",
@@ -51,7 +51,7 @@
    4
   ],
   [
-   "Radio PRFM",
+   "PPID Kab. Bandung",
    4
   ],
   [
@@ -59,11 +59,11 @@
    3
   ],
   [
-   "Pemerintah Kabupaten Bandung",
+   "Koran Gala",
    3
   ],
   [
-   "Koran Gala",
+   "Pikiran Rakyat Koran",
    3
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Bupati Bandung Minta APDESI Merah Putih Jadi Wadah Pemersatu dan Perjuangan Pemerintahan Desa - Pojoksatu",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWNlMEc4OGFVeDRpRnZoVHNBR2N5ZDRZM01PVHZHT2hYWUg5RG9obWRSM3dhMzVjZmtjZ0JwM0ZiXzBOZFVTcGxNaFlkZDRkQ3l2R2hPTk9yUWlZTXhhSE5SZ0tCU21OcV9VSDFXN3hDaTVuZkFPLW9XTmMxTGhTaWJtYWpCTnlXTHdyTzBGMTlHNlI1eU9ZUlAtLU5QeVlNN1hiUVNCdTRGTmZjYVRGdjFKVlA4MDJLeFVDSk1uSQ?oc=5",
+     "r": "Pojoksatu"
+    },
+    {
      "t": "Pilkades Digital Kabupaten Bandung Dimulai 2027, 199 Desa Masuk Gelombang Pertama - JournalArta",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3JNZXlfYVp0VEkwSlBCak91NFFFV1hJY00yS3VPVHk0U04waDNlcU9ocTBIUXM2bk1BOEJZU3pmZktHYXZab2Nfc2xvZWwyY3llS0Q0U2RpVHJaeXNYeEpzR0hPWHVzMEhDQWFWS3V0ZC0tYkdRdmt6Y1AxMG5kMldMSFUwa0k?oc=5",
@@ -88,12 +94,6 @@
      "t": "Kabupaten Bandung siapkan Pilkades Digital serentak tiga gelombang pada 2027 - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFdISHd6YW5YWEFjZXdraVFYenJyTElfT2hpVWx5ZXJjZ3lGUlJ4RzhzZDJsMTdJZ2hRd3Q3SVFnM3d0aWhQeGJOS0FvSnVhcVA3RjBoNEhNNi0tMTEyTGdKVEZWNTJ1OGpWaXEtMThzZkt5R1UxLTU3YlZkMUE5NzVCRG14aTgyam11ZlhNSEhDV0FLN0hncHdOZzhpY194SUVRbnhzdFBEY1BDeWdXYXRhN0VlU05aZThv0gHAAUFVX3lxTE1jQm5nWU1EdDVZZjdLdThVX3pOQ2NySGxvZWFUSHlxaTJfVHlpdndUbGNIUEcxMTBxOVpPeHB0RjR1YTU4bEt2ejdvbVFFYWl3V2kyMDE3WW83dnM3eTFqN2NsSWM5V1ZhLVNJRmlSOXNPZW1USmFOc181ME5ZWTdmRUhXQ1J0OXpZbkNpdEpEa01WemJSWFFiS3JaYW5abjRIQ0RIRzNBOXNBaDR2S1hfdnJPLXNBdXQ5blVqV1dtcg?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "BPBD Kabupaten Bandung: Belum ada laporan korban terkait angin puting beliung Ciwidey - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGItcVpFa3BqRUVYbDRZZ3ljLUd6X1Q4VmRqRXgzc2V4NUloc2Q4bGRrd0loX2VGZzdfQzVfTzRTRm0xVmkwWTRyRm4zQ2xlM0w0OTE0cVRoTXZvZlBpVWxRbDg0Z013OWswS0ZoYmF3QlZpQm9QTVhENjgybmZQb254aERKa0tUcHJEQS00dnp0a0N6MC15NXBrdnNXS1kwQWo4dVBOQmUzYVZWN3BiVFRnMWZmUlB4dUE4WXJRTDdGdWFmdkHSAcsBQVVfeXFMUG9jMkJDTjA5djFVeHhsWGxHVHg3dnJvUURTZUhCd2hFRlVpbk1XS3VvSm8xYWNwTlU1Ml8ycTZfV2d0ZG1lc2p1T1NpUjNScFNYdGtjalRHWWxoNFczd1o3YUxyZG9LOW5HZFZlekE3d1JsMWZFZGoxVGlLaV9xN0o3cTl0bFRjOWt3aTZvTlRHUjhCQjl1dTN1bXViaV9IX1cxM1E3VEFBWjAzNlVpVHpVc3U2aFRZejJHaEFWZDZyR096NE1hRUlOVGc?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -111,19 +111,19 @@
     ],
     "w": [
      1,
-     27,
-     16
+     25,
+     19
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
@@ -131,17 +131,17 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      0,
      1,
      0,
      0,
-     2,
-     14
+     1,
+     18,
+     0
     ]
    }
   },
@@ -192,37 +192,37 @@
      0
     ],
     "w": [
-     8,
-     18,
+     7,
+     16,
      4
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      1,
      1,
-     1,
      2,
      0,
      2,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      1,
      0,
      2,
      0,
      1,
+     0,
      0
     ]
    }
@@ -243,16 +243,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Job Fair Internasional Solusi Atasi Tingginya Jumlah Pengangguran Terbuka - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmZiZXpvbVJLRUQ0c0tGTVhYdEQ2ZGk0S2pLWjdHS25BVzBjLVppWEFSNS1kZnVmbktxZ1RyMFI1SS1CV1JCZWNvN3JNeU1jaDNXaDdjdGdhNXJtdWN0Ti0zVGZWSUVKLUUyMVgzakE4YXVabnZ0NWtOQ0Jvb3YyZVAtV2UySkcxV2FkZldPa3ppTEJvSWFFLXFYWUZyV2VUVVNmN24yMURTc2dzLVJYeHh2VFp6dU0?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Rupiah Melemah, Harga HP di BEC Bandung Meroket: iPhone 15 Bekas Masih Bertahan Rp15 Juta - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWdhdlFqNkd2d0RHdTI2TlhZcmtnRVFrWVQ2SHR5VXhoQWhQei03UHFyeHc0Wk1XSFdUM25mZ2lzNFY3c2I0aUJIU2hBVi1CUGlqWWF4ZDBLbHB3ZGxvNXZYbExaUmtNMk9qbk8waVJ6NzZmWVhnYVZ3VFA1WFAzUFZ0VUxrZndmZmFBSzBZYk4yUkVENkJJNEJwVEVYZ0MxM1M1dmxFVnJYT1BiUjI0c3k4T0lLY1ZMZU5zT1d6QVY3LXN0WGVtRDJGbDJBYzJfS21GMw?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Salurkan 15 Unit, Jeje Prioritaskan Pelaku UMKM Kecil - jabarekspres.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzk5em0xQmRCbFJiLUdDYlFGb2RoV3VCWHpnbDRnQkFSbDJPYl80OVowTlFxdUo3SHNxYVFhb0JxZHh6NkhIWU50MlhCdzY3LXFzdUltQU94VmF0a2FSSVRldktHcWsxWjIwdnM0T2ROVEhOenR3LTFkb3NPNzhaaFFyZUZLN09TSXMwZFFHV1hNQkRLRTFxRy1CZnltc1U?oc=5",
+     "r": "jabarekspres.com"
     }
    ],
    "v": {
@@ -262,35 +262,35 @@
      0
     ],
     "w": [
-     7,
-     15,
+     9,
+     13,
      6
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
-     0,
-     0,
+     2,
      2,
      1,
      4,
      0,
+     0,
      0
     ],
     "g": [
-     0,
      1,
      3,
      2,
+     0,
      0,
      0,
      0
@@ -313,16 +313,16 @@
      "r": "Tribratanews Polda Jabar"
     },
     {
+     "t": "Bandingkan Surat Pengunduran Diri Gibran dengan Soeharto, Yusril: MPR Tidak Perlu Adakan Sidang Persetujuan - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmh2bm5RRldZSXlXbGZTNmRvOGdGOXQ3WlFIQjZoVXRvZnFra3ViZnRiZW1oMWVKZ0hEVzNjVGRqUGRsenVJM2djODR3bnM0QTZOMno0MGM0MU1XVkhOQl9TeVJoRkdoLUZjMl9vdlVaRkJqNzlmTnY3ZFVTOTZaN0NmUzlyRWFoYlpSblRNdHg4SEJkMGRMRVh0Tm5kaHhoSVFpM2N1UnpLQzFoU3hFLThyUno3WmFLQVRtd2Jic0JTRzFnQXZGQWZPVU5JdVV6clJTYWJiYUszZFM5UGRmWTNR0gHnAUFVX3lxTE8wNkdPZWh6aXhfdHkyVU5LQ2IxUGdIMGsxSGpySU1aemhueTV6cXk4LU1Nc21jaFJTb0tZNlZpTG5qTWZNY3hHMlFja2hKSERXUVNfWG1PMXNMSG9YNkhJZmRsRWNKeWh5RE42Qzl6c01sNUFOdnNydWdGSEIxYkRZa0RPaW0xaXg1SS1XQjJJWXdQVEdmbnI4OVZVajNEaVlNRlJYUDJHT25QUFJVcHJvaXBwUzFtd1pVX1JPLWNmcUttVUpxcnZTVDZBQnpobUgtSllLTDI4M2oxV0VyTnhhS09tZ0h2NA?oc=5",
+     "r": "Ayo Bandung"
+    },
+    {
      "t": "Kasus Korupsi di Kabupaten Bandung - Tribun Jabar - Tribunjabar.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yYXZCRVVSN3dBdklUNVJtemczbGpqY2VfUm1hbXdCdVV2bmNqcmJpTjduTTNDMGhNa0FVNGVzRGhxQnUyTkdWNWNkY0Q2V1pPOXIwbk5YanQwenJ3V2dndkVDWUtmY1NScVBZekdKdzNMbzRuTEVTYw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Kejari Kabupaten Bandung siapkan banding dalam kasus korupsi PT BDS - ANTARA News Jawa Barat",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFJPTmpVVWFtNXN3QTBNb2I0MDVCbS1acjBWZmszc19iRTctSjEwdjVUTnFNUHJhZGZ5UVNFU0pEbk9Yc0lPNmwwQ3laUGlsOG1TbHVZX0RkRkQ3TUdJWGRMemJrWEI4bjZvQUMxMW1tV2tBbmtaVC05WXlJTV9CWWJveUpnRGZvejBWdEFIY0ViVmVyendNUENrYzNwYXlEZGtuTUJoTjQ5YmhYdVVj0gG0AUFVX3lxTFAzQmtzRmtKUU1NUUppTHZ4cFRjTjlmQ3A5dlU5R3BLOG1XNzc3WEdVVi1xU0VuTmZmd3oya1Y1UWRCZDBBcFVhYmo0UWxGTzh5ajAwN19LT3k0RVpHTnlRUjdKeUdxZkJuRjJOZi1JeDM2dVpFaldFdlNoR1puQmlvR0VjZ0NtX3lOUGZFdndHWENtM2MwSzEtZWI2a1dtRmkyclV0NUZOS0NFS3JwVkl4d2lUWQ?oc=5",
-     "r": "ANTARA News Jawa Barat"
     },
     {
      "t": "SATLANTAS POLRESTA BANDUNG BERKUNJUNG KE RUMAH BALITA KORBAN DITABRAK FORTUNER",
@@ -339,19 +339,19 @@
     ],
     "w": [
      0,
-     14,
+     10,
      28
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
@@ -363,13 +363,13 @@
      0
     ],
     "g": [
-     1,
      5,
      0,
      5,
-     3,
+     4,
      13,
-     1
+     1,
+     0
     ]
    }
   },
@@ -401,57 +401,57 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "PUTING BELIUNG TERJANG CIWIDEY BANDUNG! LEBIH DARI 50 RUMAH TERDAMPAK, PASAR CIBEUREUM RUSAK",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=qiuUbbfY3Ng",
+     "r": "YouTube GLOBAL ONE NEWS"
+    },
+    {
      "t": "Detik-detik Angin Puting Beliung Terjang Pasar Ciwidey Bandung | Massive Tornado in Indonesia",
      "s": "pos",
      "u": "https://www.youtube.com/watch?v=pHCsQXKmxI8",
      "r": "YouTube Weather & Crisis"
-    },
-    {
-     "t": "JALUR NASIONAL BANDUNG TERENDAM BANJIR, LALU LINTAS LUMPUH | UN NEWS | UTV |",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=OPVTXaYR9Es",
-     "r": "YouTube UTV Televisi Indonesia"
     }
    ],
    "v": {
     "s": [
-     3,
+     4,
      1,
      6
     ],
     "w": [
      1,
-     7,
+     4,
      12
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
-     0,
      1,
      0,
      1,
      0,
-     2
+     3,
+     0
     ],
     "g": [
-     1,
      2,
      5,
      0,
-     4,
+     5,
      3,
-     3
+     3,
+     0
     ]
    }
   },
@@ -465,12 +465,6 @@
    ],
    "h": [
     {
-     "t": "Tutup Reses di Sangkanhurip Katapang, Hj. Aas Aisyah Tampung Aspirasi Warga soal BPJS, Pendidikan hingga Infrastruktur - deJurnal.com",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0xzTUEtUlo2WjBvUVl3SnoxNWdvVWxQbUE2RXc5U3loQ1V5R0JPN3haRmlzQWdqd0Y5RHc1WHZUTnpIcXFuWDRKRGZWMFN0X3VXVWhnc0lZcjNXQnVGTG83Mm9CSGVOYkI3N0liT3kzUWxzbnloTUdJT0ZMVE1oZE9yRnVjN3prT0hwcURTSC0xWXgwSlBjNThaN0JYV0dIeThydEV6emhzODRxOG9HampyOTJiTlZENU9zaEFoVzYtVmFqbDZwV0lRbUVzc21EOENjSmgyWFhnOURSZHc?oc=5",
-     "r": "deJurnal.com"
-    },
-    {
      "t": "Dukung Asta Cita Primajasa Foundation Salurkan Beasiswa Pendidikan - RRI.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVU1ZYk5SR1Fuc3ZyTHMwR1VtOGtJSmJiWlJJTzR4blZoT0JIejMya1VQYWdWQXVrNlp1MzkwNlhNVUtqVmYwTjlHbUJXWjBGZW5QZnI1UjZlc0cxQkJ6V0tCdzBoejZ6RmVoRWZ2alVtc3BIcHBSeHBlZ2UzdXA1NUJST016RFZUTmg0S3hlN0dkQmZPc1hubDRBQmFqVnc1MXRDSUlVUm1YQQ?oc=5",
@@ -483,56 +477,62 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "Kapolda Jabar Irjen Hengki Minta Orang Tua Tak Remehkan Keluhan Anak soal Perundungan di Sekolah - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVJnMllOd0EwcHlDN0dIZzU0QzA2VWEyY29tdVFyNTZhWG5tTHo0MWZNOGNtYjl0bW1JTElFaVJZVEhvZDdXMGJILThEUzNwQllsellnUkxySExJaHRWTTVZcHZERDJoNzZOSmowSzlyb1RmMm9vS1VrTHVDRDBLZ2lNOUo0V2E4WmJQS01JaXBNVkh5MFFuQ0pSSDl2ZGljV0dicGRvRWQyQjhDMDBOTWpwR3lDUnlvU0NrMS1GekR5MDRvSFdfU0pnX28xS0VLTDlualRpTEQwTENNZmp5UA?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandun | Dapil 4, 5 dan 6",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=q5bI5BQh8nU",
+     "r": "YouTube KPU Kabupaten Bandung"
+    },
+    {
      "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=PqOTWKxRHIE",
      "r": "YouTube KPU Kabupaten Bandung"
-    },
-    {
-     "t": "PGRI Kabupaten Bandung Gelar Lomba Borangan dan Pasanggiri Pupuh Peringati HUT ke 81 dan HGN 2026",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=hk-Af_6ojgk",
-     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
      0,
-     2,
+     3,
      0
     ],
     "w": [
      2,
-     12,
+     9,
      2
     ]
    },
    "trend": {
     "d": [
-     "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
-     "Sab"
+     "Sab",
+     "Min"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      0,
-     1
+     1,
+     0
     ],
     "g": [
-     0,
      1,
      0,
      0,
      0,
      1,
+     0,
      0
     ]
    }

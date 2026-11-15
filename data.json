@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:16:44.515815+07:00",
+ "updated": "2026-11-15T07:34:54.342933+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   30
   ],
   [
    "Ayo Bandung",
@@ -23,20 +23,16 @@
    13
   ],
   [
+   "deJurnal.com",
+   10
+  ],
+  [
    "ANTARA News Jawa Barat",
-   9
+   8
   ],
   [
    "detikcom",
    7
-  ],
-  [
-   "deJurnal.com",
-   7
-  ],
-  [
-   "Radio PRFM",
-   5
   ],
   [
    "jabarekspres.com",
@@ -56,6 +52,10 @@
   ],
   [
    "Galamedia News",
+   3
+  ],
+  [
+   "Radio PRFM",
    3
   ],
   [
@@ -112,7 +112,7 @@
     "w": [
      1,
      25,
-     19
+     18
     ]
    },
    "trend": {
@@ -140,7 +140,7 @@
      0,
      0,
      1,
-     18,
+     17,
      0
     ]
    }
@@ -155,22 +155,22 @@
    ],
    "h": [
     {
+     "t": "Tetup Reses, Legislator PAN H. Tedi : Pembangunan Tak Bisa Hanya Dibebankan ke Desa, Aspirasi Masyarakat Perlu Dikawal Bersama - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUFrVVlKZzVTeDQzMGY3aFBLVG5LLWsyQVdPSFltVTJQUXZxaW5lZ1J5RTBHUEZVMVVjdXRnQjdzdHhRZHhKUUlHOFJzTXh4WnEtdXdpaEI5ZHNZRjhjZjZQZHlIU1BjRHVTY3k4NVdPSlVnUlBvdXZNb2U2SjRob0FIeFRaemJKcEk5c1AzNzRjbGpheHZiejYzakFvbHdGYWl4VlZNajV6WVNyYTdvQzY4TW01LVVSZVJzZjBuWjNadUg3a0lJUVJnZkFPanFWTmEwdVZmak5aMXdBM0hEcjNGX21Gdw?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
+     "t": "Tutup Reses di Sangkanhurip Katapang, Hj. Aas Aisyah Tampung Aspirasi Warga soal BPJS, Pendidikan hingga Infrastruktur - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0xzTUEtUlo2WjBvUVl3SnoxNWdvVWxQbUE2RXc5U3loQ1V5R0JPN3haRmlzQWdqd0Y5RHc1WHZUTnpIcXFuWDRKRGZWMFN0X3VXVWhnc0lZcjNXQnVGTG83Mm9CSGVOYkI3N0liT3kzUWxzbnloTUdJT0ZMVE1oZE9yRnVjN3prT0hwcURTSC0xWXgwSlBjNThaN0JYV0dIeThydEV6emhzODRxOG9HampyOTJiTlZENU9zaEFoVzYtVmFqbDZwV0lRbUVzc21EOENjSmgyWFhnOURSZHc?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
      "t": "Dedi Mulyadi Soroti Pencopotan Foto Gibran di DPRD Jabar, Minta Dilakukan Petugas yang Ditunjuk - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdTFWMFFhWGNhY2FFaWRYNEdLUDZhUDg1X0JqcUk2Zzg1TkNBOW4zRVhyRDdnOWl3MFVOd2FTaUp6S3NoODQ4QkRDSnk0X0ZRU2czZWhOeTN4S1c4SEp0U25wdEtxelZudnh5ek1SZUFsRHV1eGRBbXFEX1MxaFBJeDlUUFlPbldYaVIwZXJJcFlqSG5KSFFRNGg2QlpGTjYxakswd0pUdFpiTVM1RFZkVGlWbzdiX2p5ZWNFdXRzYTNOcFI4dWRjTDVVa0JsQVlPWTVqUXlfQzB3dmh6SkE?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "DPRD KBB Soroti Fasilitas Gedung Damkar, Penyelesaian Pembangunan Butuh Anggaran - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUhBREpuWnc2OFlzblJRSWl1dnlFY2dWTUpRS3l5bTNmT3J6Z1dGS1JkaFlUQ1pucEZsY2RWY1J3VHNCN1ZvbXlBdVE3UzNuT2ZlSnJjZFBhN3JDMHl0dFhIR1kwWlF6TFhyTWNCbG5uSDZvSnZWTkJlZWYzLXpCY1lkMzBuOTRGRG9DQTkwaEtTcWxibjVhMDROVVZxdHhDc0lVUjRhTE1hTlBpU2xWSjlxSnJHN1FFdkR5UVg4aw?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
-     "t": "Dadang Suryana Kritik Sosialisasi Pilkades Digital, Singgung Ketepatan Sasaran dan Efisiensi Anggaran - deJurnal.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3EzUkF5bVo4NmhfQ3U2RHpTOU9yTzhpVWxka3JDMHRwR0dRemE5ZzJpSUVvV1R4ZTU2eW05ZkZmeDVHZF96UWVKQk5YekVuaUd2WjRPNUN0WENiVlNBSjdyV0pXcGdkLU5fb1YxMXp4Si1HaExSZWRNQ3lCbDk5MExTQlJfanVzMHBWSTRHWGRWUHdrOUpCQnlUVFhTdlE0QkVod3Zja3V4bTNkSEh2aG1QMFpRM1U1ZWgzSGJRX1J5YzFMXzJWaEhn?oc=5",
-     "r": "deJurnal.com"
     },
     {
      "t": "Asep Yusup Salim Anggota DPRD Kabupaten Bandung Fraksi Golkar. Reses Masa Sidang 1 Tahun 2026-2027",
@@ -192,9 +192,9 @@
      0
     ],
     "w": [
-     7,
-     16,
-     4
+     8,
+     18,
+     3
     ]
    },
    "trend": {
@@ -211,7 +211,7 @@
      1,
      1,
      2,
-     0,
+     1,
      2,
      1,
      0
@@ -219,7 +219,7 @@
     "g": [
      1,
      0,
-     2,
+     1,
      0,
      1,
      0,
@@ -249,10 +249,10 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Salurkan 15 Unit, Jeje Prioritaskan Pelaku UMKM Kecil - jabarekspres.com",
+     "t": "SK UMSK Jabar Terbit 11 November, Perusahaan Harus Hitung Kekurangan Upah Sejak Januari - Tribunjabar.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzk5em0xQmRCbFJiLUdDYlFGb2RoV3VCWHpnbDRnQkFSbDJPYl80OVowTlFxdUo3SHNxYVFhb0JxZHh6NkhIWU50MlhCdzY3LXFzdUltQU94VmF0a2FSSVRldktHcWsxWjIwdnM0T2ROVEhOenR3LTFkb3NPNzhaaFFyZUZLN09TSXMwZFFHV1hNQkRLRTFxRy1CZnltc1U?oc=5",
-     "r": "jabarekspres.com"
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSncwSXN4RGFIZHpxMmJZclRTc1BoTDF0ZkdUaWdueEJyM0lNbzViOHFTaGZVbkpqdzlGU2lZV2E4X3dkSGRzVHd5dmtmNUM5OC1WQjVlTHpZVlFuOTFTNDJ6Si14REVDSy11emhMU3pBblhpb1JMSzg3a3BEaHRsQ2FwVjNtMzVpU2VNMG50OEFYcHMtVjJjbGU2a2ltV2RpWEtVVC0zMUNoWDhKYmRUZllRaGZ6YU1xYjdjMjJaZWh0QnFOQnlyREJtOTZEWFhfRzFj?oc=5",
+     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     9,
-     13,
+     7,
+     14,
      6
     ]
    },
@@ -278,7 +278,7 @@
      "Min"
     ],
     "p": [
-     2,
+     0,
      2,
      1,
      4,
@@ -339,8 +339,8 @@
     ],
     "w": [
      0,
-     10,
-     28
+     9,
+     29
     ]
    },
    "trend": {
@@ -363,11 +363,11 @@
      0
     ],
     "g": [
-     5,
-     0,
+     4,
+     1,
      5,
      4,
-     13,
+     14,
      1,
      0
     ]
@@ -407,17 +407,17 @@
      "r": "YouTube GLOBAL ONE NEWS"
     },
     {
-     "t": "Detik-detik Angin Puting Beliung Terjang Pasar Ciwidey Bandung | Massive Tornado in Indonesia",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=pHCsQXKmxI8",
-     "r": "YouTube Weather & Crisis"
+     "t": "PUTING BELIUNG MENGHANTAM CIWIDEY! PULUHAN RUMAH DAN TOKO HANCUR!",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=RoIeSR4jLHU",
+     "r": "YouTube KABAR ONLEN"
     }
    ],
    "v": {
     "s": [
      4,
      1,
-     6
+     7
     ],
     "w": [
      1,
@@ -450,7 +450,7 @@
      0,
      5,
      3,
-     3,
+     4,
      0
     ]
    }
@@ -465,12 +465,6 @@
    ],
    "h": [
     {
-     "t": "Dukung Asta Cita Primajasa Foundation Salurkan Beasiswa Pendidikan - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVU1ZYk5SR1Fuc3ZyTHMwR1VtOGtJSmJiWlJJTzR4blZoT0JIejMya1VQYWdWQXVrNlp1MzkwNlhNVUtqVmYwTjlHbUJXWjBGZW5QZnI1UjZlc0cxQkJ6V0tCdzBoejZ6RmVoRWZ2alVtc3BIcHBSeHBlZ2UzdXA1NUJST016RFZUTmg0S3hlN0dkQmZPc1hubDRBQmFqVnc1MXRDSUlVUm1YQQ?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "Disdik KBB Minta Sekolah Perketat Pengawasan Siswa saat Pembelajaran Renang - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1U1UC1HS1BCd2w5Ri1sTmgyU1BSb0FRbzVkWG1PSDRKWDFnRnJqNW5XVUpURFlfUFh1QUNoNHJvM3pXMGVmamliME1JOXBVMlQwQ3RRN1hNRzRVQlpSOXFQcGdJY1lUc3AwU3hZVTJkNU5RLUhJX05mNUpXZjRjaXVuVExPSFNoanUzOVAzQmtDaHNmSlh3LUdJTE5OeExOMGtJNklKRUNVVWRBa0FUSkhrdUp6UVd3c2c?oc=5",
@@ -481,6 +475,12 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVJnMllOd0EwcHlDN0dIZzU0QzA2VWEyY29tdVFyNTZhWG5tTHo0MWZNOGNtYjl0bW1JTElFaVJZVEhvZDdXMGJILThEUzNwQllsellnUkxySExJaHRWTTVZcHZERDJoNzZOSmowSzlyb1RmMm9vS1VrTHVDRDBLZ2lNOUo0V2E4WmJQS01JaXBNVkh5MFFuQ0pSSDl2ZGljV0dicGRvRWQyQjhDMDBOTWpwR3lDUnlvU0NrMS1GekR5MDRvSFdfU0pnX28xS0VLTDlualRpTEQwTENNZmp5UA?oc=5",
      "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Lantik Pengurus APDESI Merah Putih, KDS Tekankan Pentingnya Soliditas 270 Desa - Radio PRFM",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdEhKNG5YVHVwUTY5cEl3N2piSkdaOEdvWXUwZ3hCcUttWXpBbnNab3dpb2xkN3JIeUVpOW1hZndPXy1qU1hIZzRBcmRvNXc1YWE5ZTd2RVlseGwwT1dQdGoyR0lpX1BTWGZIT3ZDSTNES2ZORXB3dldHM29YZDQzcnZRdGhRODNzU21kMW5hblRYZG02WmZhdk5rNVhQei1mVkdWZk5na0lsOEJrYkVtWERQRHRKNEFtTkhNLUt1dGJjRGVnUjZjeXR2T2VoTm1UVGp6dkl5SdIB3AFBVV95cUxNTVZCYmx3OVFwWWdxbmRNUExvdnE1c1lJR1U3NmhGVU5IelhwZnRfV0pqZUNWb1o4SGJaYnRuQ3dSdjFCQm1rT01tVXJKRnFsR2haRFR4RGJXZU1SaGk5TWRxSzNpWWRCRFF2ei0xNHlydkJXdEp0MXB5c0RjbnYxcEh5b2U3enAya3NWU0FncFRrZEY1NUZCV2J5ZEdVZ1gtNGtNZ3VvdHNKSHdtbks3Vi1qV1RuMjJCcXlvUFJMNjBBWElZdWZKUDVLcm5TMHk2eWU0RFFpbDF3WWl5?oc=5",
+     "r": "Radio PRFM"
     },
     {
      "t": "Sinergi Bakesbangpol dan KPU Mewujudkan Demokrasi Bermartabat di Kabupaten Bandun | Dapil 4, 5 dan 6",
@@ -502,9 +502,9 @@
      0
     ],
     "w": [
-     2,
-     9,
-     2
+     1,
+     11,
+     1
     ]
    },
    "trend": {
@@ -523,11 +523,11 @@
      0,
      1,
      0,
-     1,
+     0,
      0
     ],
     "g": [
-     1,
+     0,
      0,
      0,
      0,

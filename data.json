@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:34:39.632726+07:00",
+ "updated": "2026-11-16T14:30:41.932274+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,11 @@
  "portals": [
   [
    "Tribunjabar.id",
-   20
+   25
+  ],
+  [
+   "RRI.co.id",
+   17
   ],
   [
    "Ayo Bandung",
@@ -16,30 +20,26 @@
   ],
   [
    "Kompas.com",
-   17
-  ],
-  [
-   "RRI.co.id",
-   11
+   15
   ],
   [
    "Jurnal Soreang",
-   9
+   10
   ],
   [
    "Ketik",
-   8
+   9
   ],
   [
-   "ANTARA News Jawa Barat",
+   "jabarekspres.com",
    7
   ],
   [
    "detikcom",
-   7
+   6
   ],
   [
-   "jabarekspres.com",
+   "ANTARA News Jawa Barat",
    5
   ],
   [
@@ -52,18 +52,18 @@
   ],
   [
    "deJurnal.com",
+   4
+  ],
+  [
+   "Galamedia News",
    3
   ],
   [
+   "VISI.NEWS",
+   2
+  ],
+  [
    "Antarwaktu.com",
-   2
-  ],
-  [
-   "ANTARA News Megapolitan",
-   2
-  ],
-  [
-   "MetroTVNews.com",
    2
   ]
  ],
@@ -79,44 +79,44 @@
    ],
    "h": [
     {
-     "t": "Gempur Rokok Ilegal, Kasatpol PP Kabupaten Bandung Ajak Masyarakat Aktif dalam Penegakan Hukum Cukai - Jurnal Soreang",
+     "t": "Drumband Kabupaten Bandung Raih 1 Emas dan 2 Perak di Porprov XV - VISI.NEWS",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdWsyODU2ekgwNWwySXpocEY1UU1DZDR1eXZHNkc0UXRwenluckQ4c0dzMDJSSWhzaDVVejRzS2xfbTM1T2NKR3JKNE1aYlVmLWhIQ21jZmt0UlF4SkNxUE5GR1B3QXNETW42cFpFTUE4STZ2RkZSNU9kenA4R1dXWnZXX3ZIMEswM3RlZy04TjVDamZPSEZBSVNJVEE0SW9kRlpXSjZCUXR4dU5XQVdRQUk1Yno0R3lsMHVFSEpkY3J4SVBPOFBscFZGTjJOX3V3eFhVMlFrcDZDWS1oMEgxMEhHek15UkV1NTZ3VWFzaEIyckE?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0Mxdm8zTWtBWE0tMHI1ZW5RMlZhTGVlZHpDTjlWOG5LS21fZ0oxS0owLXRGSXRVU29IUGdoUkZHYzNON2MxLWhneTdGaTg3ckRiOUhvS3NVQ3FpMkJaeG5Rclo1VjUtZ0NjRHBCYlcxNnJqanVtRVBiNHoxaVBMaEFFaC1rQmhxUXFRLWtSYw?oc=5",
+     "r": "VISI.NEWS"
     },
     {
-     "t": "Puting Beliung Bandung, Pemkab Siapkan Bantuan Sewa Rumah - Lintas Priangan",
+     "t": "Jayantara-News.com | Bandung - Jayantara News",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTVjZmM3NjdNdkhzcWdZUXo0bmlOblNfQ3JuUXgxMFJYbG9TRlRkdzBnV25ubzZoZy1wY3RRT0pBM3RQNHBhWDNmc1NlcFNkYklzeHBVWl9oMWktOWkycjBhYlpYTXZFdi0zNS11Z1o2eFN5OGRSejhoZm9lSjNyVDBUSnByYzBkSkdWZjFFX3pMN2FpTE9wRnAzMHVBTzh2OVE?oc=5",
-     "r": "Lintas Priangan"
+     "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZWIyTFJqNHNlUlh0dTZneWJtZTBXYW9xVG1tSVN6c0RMRnhieHhBVE1NMzNwOEdqNEVxN0VaeVFMd1BTNW1ZM1psTQ?oc=5",
+     "r": "Jayantara News"
     },
     {
-     "t": "Drumband Kabupaten Bandung Lampaui Capaian Porprov 2022 - Sumedang Bagus",
+     "t": "KDS Dorong Aparatur Desa Lebih Percaya Diri Membangun, Inspektorat Diminta Aktif Lakukan Pendampingan - Ketik",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2ZVaE1XMmVTaHR0NUkwdmtMOWV4bjFmRjhpYnJFaS1nNmo3NlZ6Z2RFYTAxVTNqd01qenFYZmpwc0FFWmpMbEdFV08zMktUSGlhbjBiTVQtUHBORzRtN0d4eTE3NE92SGlPVHlHMllZQTdJTUg5TWpNQ25WSnMtMDIzck5ZSG5ndVhoQnRyeS1pQU5Wd0dqUzFaU09md0dFbnM4b0x1NG5HQXpVRjItWnlhcWc?oc=5",
-     "r": "Sumedang Bagus"
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVG1JZkZIaEpUNThEcXlBNkplTUliX3BaWElpMk5pWnZJSmoxT0Z6aFV2VjVQWHRPNDR6TDdCd3VTcDhFS3RSMFlRd2RXWXBjVlhWSGlGR2dFdU1Ra3FORF9ZTGowMUFVYjdxVFNESTlPTk9Oajh0dlVEOEM2TlBOT3Ftc2NKT2xQRDJZX2VUbmhVUDlzZTZ5dGpiVDA3QUVOQnF5SjZmTmJZSlRTbkVGenFCOUZTVHRlNVR0blpodkl4WVFHRktYT1VSYmFRd9IBvwFBVV95cUxQbVB5Ym52WTM0cVVWNU9jWXBPaEVYQlBmckloblJUN0M5V3B6bFlLU3pjWTFJNGNJWU5TOTB5T2JLdy0tWEJwVVJfYVpSenBlb2dNWV9WeEJTUnVwSlNPZGxvQWxPM0ZDVWVjQWZrNExNZWxERlhIWjNwVUU3V1BVWnVkYWU4Rzc3LWR4T0F2dXFwVkpOZV9OemJ6elJTWVdNNUdBdkdUUkpGZDFiVW1hQ0ZBOFhQYUEtd2JmSUs5cw?oc=5",
+     "r": "Ketik"
     },
     {
-     "t": "Puting Beliung Terjang Kabupaten Bandung, 296 Atap Rumah Rusak dan Segera Diperbaiki",
+     "t": "Pemkab Bandung Tetapkan Status Darurat Dan Pastikan Perbaikan Kerusakan Akibat Puting Beliung",
      "s": "neg",
-     "u": "https://www.youtube.com/watch?v=wJb6EzUlYJA",
+     "u": "https://www.youtube.com/watch?v=PMNiY-OT3Sg",
      "r": "YouTube GARUDA TV"
     },
     {
-     "t": "Cepet Banget‼️ Menjajal MJT Leuwipanjang - Soreang Anti Kejebak Macet, Berapa Tarifnya?",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=oSNKpfeR7gk",
-     "r": "YouTube Rian Firmansyah"
+     "t": "Pemkab Bandung Tetapkan Status Darurat Dan Pastikan Perbaikan Kerusakan Akibat Puting Beliung",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=Vt4oEaKWf9c",
+     "r": "YouTube GARUDA TV"
     }
    ],
    "v": {
     "s": [
      1,
      3,
-     3
+     5
     ],
     "w": [
-     4,
+     7,
      25,
      21
     ]
@@ -138,16 +138,16 @@
      0,
      0,
      4,
-     1
+     4
     ],
     "g": [
      1,
      0,
      0,
      0,
-     5,
+     0,
      18,
-     0
+     7
     ]
    }
   },
@@ -161,22 +161,22 @@
    ],
    "h": [
     {
+     "t": "Sambo Kabupaten Bandung Raih 1 Emas dan 1 Perunggu di Porprov XV - VISI.NEWS",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlMzVVJUeG80WVpQemFzM2pYUEZpQlRMZmZ3MUNCbENCaV9XY2tqTXQtTU5GMXJNaEJQRDRqcENNTzZELUVoVGFOSm45QmNpR0M5dl9CcW5DelVwQU9reEYtNVlDbm5hQkJydkRseG1ZOEk0X2RGbkV3RENucFZ0OFBXMDRaT3Iwa2N1Qmhpdw?oc=5",
+     "r": "VISI.NEWS"
+    },
+    {
+     "t": "DPRD Kabupaten Bandung Desak Pemkab Kaji Ulang Swatanisasi PJU - dialogpublik.com",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnRILU0yZzlyUWhuT0M2Y0w2Y1J3d1RHSFFyTTVMV2pHbmR4QW1YNEhiaDNvUXFYUEpic1ptUXRYWlZkaHBkQi1XSWxRODJ5U2t1bDlXekpOMGZYNGR5N3dfSXJMM1N5QmJXbURfY2V5c2xfYk5rZHMyLTJzOExabTY4RnFVQUZFN2tuYTlKQ2FnUQ?oc=5",
+     "r": "dialogpublik.com"
+    },
+    {
      "t": "Drumband Kabupaten Bandung Lampaui Capaian Porprov 2022 - Sumedang Bagus",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2ZVaE1XMmVTaHR0NUkwdmtMOWV4bjFmRjhpYnJFaS1nNmo3NlZ6Z2RFYTAxVTNqd01qenFYZmpwc0FFWmpMbEdFV08zMktUSGlhbjBiTVQtUHBORzRtN0d4eTE3NE92SGlPVHlHMllZQTdJTUg5TWpNQ25WSnMtMDIzck5ZSG5ndVhoQnRyeS1pQU5Wd0dqUzFaU09md0dFbnM4b0x1NG5HQXpVRjItWnlhcWc?oc=5",
      "r": "Sumedang Bagus"
-    },
-    {
-     "t": "Efisiensi Anggaran Tak Surutkan Prestasi, Kabupaten Bandung Sabet 164 Medali Porprov Jabar 2026 - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYUdoeVp6Mm53cGJWVHJRVmVWOVdDMnNCblJ0VmVuUG1KdXV2cFR1QnczVUtfMU9nRlZSZHBacFlrX0ZKZEx0SHlZOVp2eTFYaXlHRGlGczUxLVBlY1Y2V1dlOUo1cmJ5TVgzNEZ3czlFelg1Mm9JbXhZTUN1MGpZTWlheW1QLTFMUE1YT2w5NWw0c0hTeDJTSVFwRFJPZFgtSkhnTUhZdXdvQ1A4OVFoVUFQTUFmcWdCSUlxY2YxQUtLMl9xTGlod3haRUUwb1o2cHFtM3ZIVEhtUTRkWXlxVWRnTllJNTB5MDNlSw?oc=5",
-     "r": "Jurnal Soreang"
-    },
-    {
-     "t": "Cabor Drumband Kabupaten Bandung Sabet 1 Emas dan 2 Perak di Porprov XV Jabar 2026, Ketua DPRD Beri Apresiasi - Jurnal Soreang",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUU91cWFDZDNFd01ic21vOVhuZ3FHdzlnOHdSV2tuZWlXbjIzazR2bl9mZXZvWGhvaW4wS2xvazU1TDJOdXJBTkJRc3dDNWVaNy1JYm83TWtJNi1USjZoRVd0aFgxSzBrREtfNjVxWXhMQWFFUVJjX0R4ajEzaHlGTDN1WlpGendOZ0c4a2gxZXJLRHlFUEx0OHg4ZWhNUHNiMmsxSDh0QWU2S2U2NDgwN1YxQW40UUJnQ01URWlvaXJTaHZSMDVhREgzMHlQMW5kRFd5Ny14dUhGRzFpejVFdDJndU9qQlJ4X2JMSXpGM0ExRC13VFFPV1lfMWJPWEE?oc=5",
-     "r": "Jurnal Soreang"
     },
     {
      "t": "Asep Yusup Salim Anggota DPRD Kabupaten Bandung Fraksi Golkar. Reses Masa Sidang 1 Tahun 2026-2027",
@@ -198,78 +198,8 @@
      0
     ],
     "w": [
-     12,
-     14,
-     1
-    ]
-   },
-   "trend": {
-    "d": [
-     "Sel",
-     "Rab",
-     "Kam",
-     "Jum",
-     "Sab",
-     "Min",
-     "Sen"
-    ],
-    "p": [
-     1,
-     3,
-     0,
-     1,
-     1,
-     5,
-     1
-    ],
-    "g": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0
-    ]
-   }
-  },
-  {
-   "n": "Ekonomi",
-   "d": "Situasi ekonomi",
-   "k": [
-    "UMKM",
-    "inflasi",
-    "investasi"
-   ],
-   "h": [
-    {
-     "t": "Petani stroberi di Rancabali rasakan manisnya Mekaar 8% - ANTARA News Jawa Barat",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3d2OFVkdnF5Um1pT2FSanZaNFdPcTkyZVliZngzWTNnamJ3enl2b1N2dmtzVGRXN19QaHg0YmVEcmM1V0VKYWtZaDFHZFVTVmNjdDNkeVN6c29VMzFnUlJVa1lieXFzN1NGdGs0STFLOTFPR0VMX21SRFNSYk9aYVhLYXhsa3lSQzlWV2lONVJzUE9GMVpETHFWa0I3NXNLcFlPMw?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "KDS: Peran Ulama dan Masyarakat Penting dalam Menjaga Kondusivitas Daerah - Ketik",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQV9TN0VhSUxEYlR2RHdCT1BvaXdZNERyZU9ZcGFsSDNYbDh1M2IzR25mMW40bWVuSFpWeGZfNFdPNDJibU8yclkwd1NHNC1aM3dXLURsd28yWlRjVWdKU0hmMmxsc3lzb2ZmUk9TX05QSzBqOGgyLTd4cEVOMlBZS3I0U3VRaWRJVWtKYkh0MllZNWhhbTh2azBn0gGaAUFVX3lxTE9BX1M3RWFJTERiVHZEd0JPUG9pd1k0RHJlT1lwYWxIM1hsOHUzYjNHbmYxbjRtZW5IWlZ4Zl80V080MmJtTzJyWTB3U0c0LVozd1ctRGx3bzJaVGNVZ0pTSGYybGxzeXNvZmZST1NfTlBLMGo4aDItN3hwRU4yUFlLcjRTdVFpZElVa0piSHQyWVk1aGFtOHZrMGc?oc=5",
-     "r": "Ketik"
-    },
-    {
-     "t": "Kampus Berdampak, UT Bandung Libatkan UMKM hingga Pelajar dalam UT Bandung Fest 2026 - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTI3ZUVkQ2xvdXllWDMzTkJsRmxOUm1lSGZVQV9GZ0Y4Q3JBalM0a0xCRTdWMWJSUzJXa2xKVGVfMHh5ZWVpbVZnaUEzbUlmazIyWFc4bWZ4S0hzMTZ4a19wQUhXRVFQY1lHTnRmcmNQRmg5LVYyY3JsMXBCczRzRndiNDQwUmFOQk1BTWlUblp6elJuemZRWGdvZUJ0eF9WSXE1bzBzUHBwd3JoUDdFTHZoTFRuM0VNQjNPeGpEYXZ5a3dad2hDejZpbTlHd28?oc=5",
-     "r": "Tribunjabar.id"
-    }
-   ],
-   "v": {
-    "s": [
-     0,
-     0,
-     0
-    ],
-    "w": [
-     8,
-     12,
+     9,
+     17,
      4
     ]
    },
@@ -284,8 +214,78 @@
      "Sen"
     ],
     "p": [
+     0,
      2,
      0,
+     1,
+     0,
+     5,
+     1
+    ],
+    "g": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "n": "Ekonomi",
+   "d": "Situasi ekonomi",
+   "k": [
+    "UMKM",
+    "inflasi",
+    "investasi"
+   ],
+   "h": [
+    {
+     "t": "Dosen UPI Perkenalkan Model Kelas Industri Tripartit, Hebatnya Sudah Dipakai Hotel di Bandung - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZXk2VzlQN1lldnBpdThlLUZ5WXVmZEEyOTMtVGRxLUk2RjdUWnBpdHVSVHFpcDdyVXlQc1ZDd0RiTHAxMHNsbUJEd0tKWnVfTFZSZ2NQbTFkd1hCMDlydEg2dzRSc0xPMG0xU011WFo2R1c1ampQZnppTVIxckZkNWtBclNkMHNSN0hyU18tekhLbXRmdndTQllSWTNEQTBLa3FiYVkxcS1oUF9OSVpxQmtFOUJpOXRRMWZvUXpldGR4WjFNbG1pVmJLV1ZRby0tOUtrRHVXTGc3dWd1a2ViV1NsLTZlbHJ4?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
+     "t": "Dengarkan Kebutuhan Pelanggan, PLN Majalaya Perkuat Kemitraan dengan Dunia Usaha - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGhfQ1dKNHozM3FrMFdHbzNZMzNjT3FwWXpsRmRRWDJfVnRwQUtTdzZoZ21sQmo1Rkdiekt6Z2FSa1F0R3NDYjEtWDFmOWVac0ppY2VsSWk1ZXNtamk4cEtwQWN6cGVtTWJVNEh3OXJWUHRidjRtbWZScHJxcm04dkF1anZwYmczWGZiaDRnWldjUlV4S1BCSmVGaFBLQmRkNVNoRk5VaXoydGZXTVdkS2NhMlNENUFtcE1NOUFSRkdZUjVHWmlheUZ2VXNRRUM1?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
+     "t": "Jadwal dan Harga Tiket Persib Bandung vs Bali United Pekan Ke-10 Super League - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1FpeXVMdGlURm5GVlZGUWdmZkRMdGJQQ0pRbzV3bWRQTTh0YmpEdEVvVnR3ckNCYy1oTzJ2ekNxSjJxZlVLdHFOczI3SVNfSlZnanlONDlDYlhld3EzUmtBQXRXcWVWV0dHQlFUR1Uzb3FYNTJGR05PVmZfZk5Hb2xPMWJKS3lkZ1JvU0ZoR0p3QUdpT0VCYlNsU0FmUzUzWUo0YjVvSkoxM2VTUW5XMXBFeWMtQ1o1ZU5qSjk2MW5Kdw?oc=5",
+     "r": "Tribunjabar.id"
+    }
+   ],
+   "v": {
+    "s": [
+     0,
+     0,
+     0
+    ],
+    "w": [
+     8,
+     15,
+     2
+    ]
+   },
+   "trend": {
+    "d": [
+     "Sel",
+     "Rab",
+     "Kam",
+     "Jum",
+     "Sab",
+     "Min",
+     "Sen"
+    ],
+    "p": [
+     1,
+     1,
      4,
      0,
      0,
@@ -293,7 +293,7 @@
      0
     ],
     "g": [
-     2,
+     0,
      2,
      0,
      0,
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
-     "t": "Gempur Rokok Ilegal, Kasatpol PP Kabupaten Bandung Ajak Masyarakat Aktif dalam Penegakan Hukum Cukai - Jurnal Soreang",
+     "t": "Puting Beliung di Ciwidey-Pasirjambu, Polresta Bandung Salurkan Ratusan Paket Sembako hingga Terpal - jabarekspres.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdWsyODU2ekgwNWwySXpocEY1UU1DZDR1eXZHNkc0UXRwenluckQ4c0dzMDJSSWhzaDVVejRzS2xfbTM1T2NKR3JKNE1aYlVmLWhIQ21jZmt0UlF4SkNxUE5GR1B3QXNETW42cFpFTUE4STZ2RkZSNU9kenA4R1dXWnZXX3ZIMEswM3RlZy04TjVDamZPSEZBSVNJVEE0SW9kRlpXSjZCUXR4dU5XQVdRQUk1Yno0R3lsMHVFSEpkY3J4SVBPOFBscFZGTjJOX3V3eFhVMlFrcDZDWS1oMEgxMEhHek15UkV1NTZ3VWFzaEIyckE?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUzBYdVhucXJ6S0xNVWw5aHBVWGR0alpZeVpKWUFWUUU3dUZJcU50MjBOR010dm1jNGVUclZ0Z2ZsMWRYRnh1M0pPVm1OUWNTLXpkWGhsYlM0V1F6X2pZOGlod2lfMnF3SE1ERFR2YlVXX0VBejRZamJiV0c0a3ExNkRBWEpQcnBqRVM4SXYwYTZtdkdNanFEck10R0tkejlOSklWdFRTRjM5WG9nVEQzVGk5TEsxT2tYQndpQ0NSd29ENER4YUd1dmVUVnpkZnowa3RGVkdSVDZfZw?oc=5",
+     "r": "jabarekspres.com"
     },
     {
-     "t": "Perangi Rokok Ilegal, Satpol PP Kabupaten Bandung Gandeng Bea Cukai dan Kejaksaan, Pelanggar Terancam Pidana - Jurnal Soreang",
+     "t": "Operasi Zebra 2026 Digelar Dua Pekan, Polresta Bandung Fokus Tertibkan Knalpot Brong hingga Balap Liar - jabarekspres.com",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb0s0U3NsOUJNUnpaSXE3YVZENGxueEFMWXdaVU9kVk9ZY18wTDBvbFllZENyRVp3aFJzOUcxanZjQ1diMmY1alJCeUNTSldGcFlnVFFjU013SEZ2cE9OeVRWMGtSWFAydEQwa0J5MzJQdDRndlFxbDRiU00tNjRwU2k5MFQwZlpyem9YbS1XNlBWeGNDZ3BOcnkwQ3BqWmFhOUF1aUtPWmI1LXRWU1JXM2ZzMlUwRkp3QVUySXBpYTZMd29nb01yb3o2NG9RUE42RVlpRHZmMmM5TWZwNkN0cExhSXhycGtJOHRwbGJoUnB2R25ZNnNpSzVheDQ?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN09QQVhEekxTbmtDTGlfbll4SXdGNTJoX2JpMk04dHJvajNhc05CV1JfRUp1M2tfMWRtZ0hYVGRaM3dva1VZLVc1YXE1cVpwaEhDaE96MVJHSk1OaHh3U2JsNTBjY0o0RjhfTjRTVVJUTzZqNjhnMjJwTG1aZjV3QXVGNGp3dWdiWWNjT0FGZ1kzZGdpbG0zbHI4MFBmUzNFZUZUb1FPb1R3T1BnaUNnQUV2cXExVG9zNkJPWlJoajMxTVV0eUw2U2ttRWVXWDg1NTlvQWJnSU9Pc2NudWc?oc=5",
+     "r": "jabarekspres.com"
     },
     {
-     "t": "Rokok Ilegal Buka Celah Korupsi, Satpol PP Kabupaten Bandung Gandeng Bea Cukai dan Tipidkor Perkuat Pengawasan - Jurnal Soreang",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM3JOamdZY3BlNk95bHNWSEpjMDhFNjA4VF81VTJaOGRaMFU0MVJ4ME13ZzRpa0pyWnJYMmIyZE96WW1KUGRzTVl3blNXTWRkNEM1OXJ2ZXFpQ2swUDViU2dZdDdsWTZkYWdUUEJmRVFEcG9ySk5OZTY5eUJwdDdBRldDWXZpbXNUeEpyenNMdldFaUxvLUFXbnV3MEFGQU5OZWt5VlNRVUE0RjE0aUFQSVMyMjRGV2dvM1BFSHowX1MxRnJuN21sQjFVMERRNVpEVkIzcER2bFdub0R5eGxJSnQ5ZHlFZjJtUzRWUUpGVm9GTE1jX3dfOHZweXA4VkVY?oc=5",
-     "r": "Jurnal Soreang"
+     "t": "Yadi Berharap Dukungan Kejari Perkuat NPCI Bandung menuju Juara Umum Peparda 2026 - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0ZHa0pXWnM0dGQ5WC1kU05wX2JwaXhLbGk4YlJSak4ydm1rdW84Q1dDdzc3LUVjNk1nLVRodWdaMllhWmpoa2xnS3lxeVpORjktX1U4anJHLVpaS3kzcHkzYXR6eVdqMHVPdkRFVHE3RjBRV3h5cmVrV0lJQmIwRkpYd2FMM1p4b0NPU1dZUHB6c2h4b2dwMWxVeXlfYi1nWURNQ01Tb3hkSHQxcDgtUWYwa0NyMUlMS0tydnJSRFQ?oc=5",
+     "r": "RRI.co.id"
     },
     {
      "t": "SATLANTAS POLRESTA BANDUNG BERKUNJUNG KE RUMAH BALITA KORBAN DITABRAK FORTUNER",
@@ -344,9 +344,9 @@
      0
     ],
     "w": [
-     2,
-     11,
-     23
+     3,
+     15,
+     24
     ]
    },
    "trend": {
@@ -366,16 +366,16 @@
      0,
      0,
      2,
-     0
+     1
     ],
     "g": [
      0,
      4,
-     3,
-     13,
+     4,
+     12,
      1,
      1,
-     1
+     2
     ]
    }
   },
@@ -407,28 +407,28 @@
      "r": "Koran Gala"
     },
     {
+     "t": "Puting Beliung Terjang Ciwidey Bandung, Kios dan Rumah Rusak Parah | IDXC UPDATE",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=fy264kkvEzE",
+     "r": "YouTube IDX CHANNEL"
+    },
+    {
      "t": "Kok Sungai Citarum Dibikinin Terowongan Kembar?",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=TUnMYB9pCFw",
      "r": "YouTube Heranesia"
-    },
-    {
-     "t": "PUTING BELIUNG TERJANG CIWIDEY BANDUNG! LEBIH DARI 50 RUMAH TERDAMPAK, PASAR CIBEUREUM RUSAK",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=qiuUbbfY3Ng",
-     "r": "YouTube GLOBAL ONE NEWS"
     }
    ],
    "v": {
     "s": [
      4,
      0,
-     8
+     10
     ],
     "w": [
+     4,
      2,
-     1,
-     9
+     10
     ]
    },
    "trend": {
@@ -442,21 +442,21 @@
      "Sen"
     ],
     "p": [
-     1,
      0,
+     2,
      1,
      0,
      3,
-     1,
+     2,
      0
     ],
     "g": [
-     4,
+     3,
      0,
-     4,
+     5,
      3,
      3,
-     3,
+     6,
      0
     ]
    }

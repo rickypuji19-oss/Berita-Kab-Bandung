@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:55:45.973553+07:00",
+ "updated": "2026-11-18T08:27:51.042406+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,19 +8,19 @@
  "portals": [
   [
    "Tribunjabar.id",
-   32
-  ],
-  [
-   "RRI.co.id",
-   19
+   30
   ],
   [
    "Ayo Bandung",
-   17
+   22
+  ],
+  [
+   "RRI.co.id",
+   21
   ],
   [
    "Kompas.com",
-   15
+   14
   ],
   [
    "Jurnal Soreang",
@@ -36,7 +36,7 @@
   ],
   [
    "Ketik",
-   7
+   6
   ],
   [
    "ANTARA News Jawa Barat",
@@ -44,14 +44,10 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   4
+   5
   ],
   [
    "Radar Bandung",
-   3
-  ],
-  [
-   "Radio PRFM",
    3
   ],
   [
@@ -59,11 +55,15 @@
    3
   ],
   [
-   "deJurnal.com",
+   "Depost Jabar",
    2
   ],
   [
    "Satumedia.id",
+   2
+  ],
+  [
+   "Berita KBB",
    2
   ]
  ],
@@ -79,10 +79,10 @@
    ],
    "h": [
     {
-     "t": "Angin Kencang Terjang Ciwidey dan Pasirjambu, Bupati Bandung Tetapkan Tanggap Darurat - deJurnal.com",
+     "t": "Angin Kencang Terjang Ciwidey dan Pasirjambu, Bupati Bandung Tetapkan Tanggap Darurat - Depost Jabar",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3ctUEoyMDBsall4TnR2QzhNd3VKWUJEVDNBaXYwMklFS3ZEVmV2U3RMQUVHSWlCaVE4NGtqUHloci1Rd1p1UURYY1JPR2ExUXlWRXdQaEl4SWNfWG04S25Nc1NINktCdHl1NmpyZHR3MXJaOXRpWHJPN2Z0QXh6THFjOTVmUkRVdk5CQm9WdGp2WGw0SGNyTVEwSmJkb01MbXprNUZrX2p6VVgzdGU3bU01Y3k?oc=5",
-     "r": "deJurnal.com"
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTJYTUpVekNYV3c5eWxXWWlYTG05di1HRGt5Q1dqMk9DQlZRU0RzZ25ySXlOSGVfdzBfbHpOZk9rUzhoWUJBcEdxR2tyVkEwMHdUUlJjdWExeTdrSHAyRW9QYUJpaEZVQUY5c3hDdVJzTTA0NUtzalRXNW1tTmxQVG9DSUJ5Snh4X19WdHRLSTROMFh3OF93QmZjelFIeG1hX2VNTGNKb3ktM094dzJOV2dNdWVEeEszcDFtVnUzc0FLbnRfY2lZMw?oc=5",
+     "r": "Depost Jabar"
     },
     {
      "t": "KDS Minta Camat Lebih Aktif Turun ke Lapangan - RRI.co.id",
@@ -116,8 +116,8 @@
      7
     ],
     "w": [
-     3,
-     34,
+     4,
+     33,
      7
     ]
    },
@@ -137,7 +137,7 @@
      0,
      1,
      0,
-     3,
+     4,
      0
     ],
     "g": [
@@ -175,7 +175,7 @@
     {
      "t": "PKB Kabupaten Bandung Bedah Sosialisme Islam, Tarya Witarsa: Politik Harus Berpihak kepada Rakyat Kecil - Koran Gala - Koran Gala",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbEx4SGF2Y0dSemE2c0ctWHdrMG04RUNGUVJIeXFCSXM2M0JtWTIzUWRaWk1WTkZPdFdXbTNISGJmdUdiR2IzTV9DQVlFZW82NkZlWVdQUWlVeTVzTnJMME9HTzcwQ1pGM0VQY3QyNVpVbDUxMUV0T1hOeGwyQ3NJdzFFRUtmeG9uZTVMejRBQ0pHZVYwYm1KYm5vWGFxcTh4c2VMZHc1U0VldzQtRTFYREcwbXBMOXNwM2plOHVaYmJ5VWxicUFGTVdIc0dTSDdCQ0hUNG5zTmZBN0t00gHiAUFVX3lxTE5lYzZTak1qcE4tbmptTDctSDJqM1FHOFd2LWlfYk5MalVJZW9Za0s2TEpscGJwZVFITVZZbUgwZUdGejhtRXlRRWFhUEZaa2ZFZjF5d0VLdVF4aXpCSWwwZXZwMVdSMnFzeUdQaGJKanhnckJhX0p3aElsX3JwU2tOdVl0WXpsbDJKdGFaOWxOWWZKZTJtQndqS2ZWeGFFNGdzQjFmc0c3YnJsek5vX3loWEJsaWFhakVaQ0RIamZwUXBMU1JjNTRzb0x2MUs4cTZobGxobHQ4VEpma2M5WTJ2ZVE?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWM2U2pNanBOLW5qbUw3LUgyajNRRzhXdi1pX2JOTGpVSWVvWWtLNkxKbHBicGVRSE1WWW1IMGVHRno4bUV5UUVhYVBGWmtmRWYxeXdFS3VReGl6QklsMGV2cDFXUjJxc3lHUGhiSmp4Z3JCYV9Kd2hJbF9ycFNrTnVZdFl6bGwySnRhWjlsTllmSmUybUJ3aktmVnhhRTRnc0IxZnNHN2JybHpOb195aFhCbGlhYWpFWkNESGpmcFFwTFNSYzU0c29MdjFLOHE2aGxsaGx0OFRKZmtjOVkydmVR0gHiAUFVX3lxTE5lYzZTak1qcE4tbmptTDctSDJqM1FHOFd2LWlfYk5MalVJZW9Za0s2TEpscGJwZVFITVZZbUgwZUdGejhtRXlRRWFhUEZaa2ZFZjF5d0VLdVF4aXpCSWwwZXZwMVdSMnFzeUdQaGJKanhnckJhX0p3aElsX3JwU2tOdVl0WXpsbDJKdGFaOWxOWWZKZTJtQndqS2ZWeGFFNGdzQjFmc0c3YnJsek5vX3loWEJsaWFhakVaQ0RIamZwUXBMU1JjNTRzb0x2MUs4cTZobGxobHQ4VEpma2M5WTJ2ZVE?oc=5",
      "r": "Koran Gala"
     },
     {
@@ -268,8 +268,8 @@
      0
     ],
     "w": [
-     8,
-     19,
+     7,
+     17,
      0
     ]
    },
@@ -287,7 +287,7 @@
      4,
      0,
      0,
-     2,
+     1,
      0,
      2,
      0
@@ -313,22 +313,22 @@
    ],
    "h": [
     {
-     "t": "Jelang Nataru 2026, Polresta Bandung Sasar Balap Liar dan Knalpot Brong - Radio PRFM",
+     "t": "Sidang Etik AS Berujung PTDH, LSP Dijadwalkan Disidang Pekan Depan - Berita KBB",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdXA4UlQ4Q2Eza1NRamxpWDBmd242ekNyb2VEdmdxSlZMd1RmcTJvRzBHVXRES0JxMWZaY2tTU1o0M0hlSzNqRUtiS2dUdjZSaTJPWTRBVnFNVV9nczN6UHpYQzFmUllPZXIzejlZR3JYYzU5NC0xR1JWdGRuSFZCNVNNdlNyaDZhd25aenNIamxmSU9adk42WkptZmlBR1lxVWhoZmEtU1lwVTBUdk1oazdyb1NyNUZKWHp1cHBUbGpqZzRyUFMtaUMxWG1hZw?oc=5",
-     "r": "Radio PRFM"
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnlyZnd0Q3NMLXotYTl2Q001a292V18zMm1VY19CQUpaTnBlbjRVT2FEcXE1TXFHOFpObURHZ0VINjREVUZxNlpOUkVvUGloTmNEbTMxazVmQlhVeGMwWl9IVktDSlo1UkZBTVg5M2ZzODJfTDVDZnZ3aEdVRHRTb2dPREc4M1IzRDV1eG1jWHBQSF9EdEItOVF1VFpwYUFzbGJiUF9XbFRReDFtcWJ1WUllSkZjVWR4U1dZR3FsdTc4Qk0?oc=5",
+     "r": "Berita KBB"
+    },
+    {
+     "t": "Pilih Damai, Kasus Penganiayaan Sopir Angkot di Lembang Tak Berlanjut ke Jalur Hukum - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnVUa1BVYld4M0M2bzVDOWtzOHlpV252aDdVcXJLTGpQeVFNLU5GcGVEVWN5d0lPT2pyVzZXdWRjMWV0eEJtVGRfMXpncHBsZEM4dGxLMVQ5a3VjVGdXQXlKMmlTRFNvcUdsS2YwYzNpX2FCcC1lU3ZBNE1mQnlfaHllMVZQTnFCdWtSd1QweXFWbTAySzkteTJERWFJS1NoTWhfUnd2UU5qTDMzajlORDAyNHZrdmEyUVFTV3hYY1dwTktm0gHKAUFVX3lxTE9FUDhiOTlaeHdrV1hidlF5cmMtQTdGNFFxX0l0MW9OOVg1bl9JbGpmNVRrZ3RoRjhManlSblVJQnd3MXhuSHJEWUxEMkdMWmRRbFhHQ21PNkpHRzZUQUNGbzE2bFU1NV9FUVBIUzlMaThJbHd1VERERWF0Ukx0QzRBVkM5T0pmU1R3b1Y5ZWptU0VHNXJocFN6R0lqUG9UUDdpakZwMFFadF9QdmlDWXViUV9xMUpjelF1ME1mZjdYM2J6dG9lTWo5U3c?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Vonis Kasus PT BDS Harus Jadi Pembelajaran Tata Kelola BUMD yang Profesional - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0dsSTk1NUQyeXB3NlVDUXpNYi1INkVVNlB2Z211QlhuZHZRZFhrN1hvUGtHekRxdkFoU2YzS1QtQ2dxWm5pa1NPRjZqd2RwR08zZ2ZFVEZkVzV6Q29mSzh3VUhFTFdZQ014QWhNRERVb1ZoUWdUd01SMjgyall0dWtSOUJsSEc0dFk4bWt4SFFTeEZ6ZzkySmFWcURRUFJnalQ4aWVsSTdXRXZNWWY2TTVfU0ZvdHhxNm54dXFCNA?oc=5",
      "r": "RRI.co.id"
-    },
-    {
-     "t": "Korban Penipuan Berharap Uang Kembali, Dirres Siber Polda Jabar Imbau Segera Lapor lewat IASC - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMGlOaWhsQWJXYmg4dERvRklvR05SbGkwRUd4R3NJTFNyVDhQbDB5anhoY2FhM3F2TWZWdmRRWndMSkNsejYzS3hfMkl0ZVVXWUphWHlvRUdvbXFQN1JvYy1URV80dV81M0R4a2pMUXNJYndOMDgzWF84MjlYLWh2NHA3N19IZ2FILWdZQklpSnN0cHF2dVlQRndvaWFPb0lab1RQM2FLdWZwQnJsb3ZEY3lsbHRDMGExMFFzUjZmdnJPb05JaGhSM1FiNjRfUFVQbkNBdTgtdTFtekE?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -338,9 +338,9 @@
      0
     ],
     "w": [
-     2,
-     19,
-     24
+     3,
+     21,
+     22
     ]
    },
    "trend": {
@@ -358,7 +358,7 @@
      0,
      0,
      1,
-     0,
+     1,
      1,
      0
     ],
@@ -367,7 +367,7 @@
      9,
      1,
      1,
-     9,
+     7,
      3,
      0
     ]
@@ -383,6 +383,12 @@
    ],
    "h": [
     {
+     "t": "Hujan Deras Picu Banjir dan Pohon Tumbang di Sejumlah Wilayah Bandung - Pikiran Rakyat Koran",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFNVd1htYzVWLUtQTUR6TE1hOXZhTjZUU0hlMnJRY1Itb2FNeTZSems0eDU2a3BwbzhfcnJ1ZS1KSm9WU0REOTM3SnFjZ2Nyakc4WWQweUwxYjJkZnBnSXdhY3hjTl81cm9jbm4zMEF4dzYtZElhWXEtaVRwbkhkclNkM0JiRGJkUEFtTy1fSE9HY3Z5ZFQ0YzJEOFUxb3U1bmxlSlZ6VzQxandoVXJJSmM1VGJUd2JXWjFrVzRLbw?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Pendataan dan Perbaikan Rumah Warga Terdampak Angin Kencang - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUksyUDY1c3dkb1hPdEdMUVJreUNQTVlFWEdsYktSQUJKRWg3VEQ3a2N3ajA2MmxBSVRaNXA0TDJXRUMyeXZITmt2SzBoMWRoTFZwT21oNVdheEZuMEZqVVFLdFBScFZNSV9aUTlvMnptVlFKVWNOQXdSd2FYQUhfcmpVbWlxTzg4WEJxVXJHUEdGLVRtMlV0eEUyRlUtRzZXd3FBRQ?oc=5",
@@ -395,22 +401,16 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Banjir Kerap Terjang Kopo Citarip Bandung, Pemkot Andalkan Rumah Pompa dan Pengerukan - Tribunjabar.id",
+     "t": "Banjir Rendam Kopo Bandung dan Sejumlah Desa di Melawi, Warga Terdampak | Liputan 6",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVm9LLVhmcEVlcElBOFl1ME9QaFl1M3NRUVJ6dkNJamJUZ0dEdS1ORndjdEpiWmdKeGpMa203ekhjTVZ6WXM3OUlGRmJQdU5hVzZiZWIxMmM3VjdaYTltbGxtVFNUYmMyU0pFcWJjMVRkck16eGtQTmtuN1dINFZCSVp1ODRXTFNTZlgwV2o2N2JpR1ZGLVc4ZS1qOURSREU1SjFZdWpLWFdLN2hvQUxrMkN5VXpSQTVzRlAwUkkzYTNFLUh3VHRzYjNiRHFDTktp?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://www.youtube.com/watch?v=0SlSHS1z9oM",
+     "r": "YouTube Liputan6"
     },
     {
      "t": "9 provinsi siaga, banjir Aceh Tamiang, puting beliung Kabupaten Bandung | badaiNET 17 Nov 2026",
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=IcQDDRqpmDw",
      "r": "YouTube badaiNET (Bahasa Indonesia)"
-    },
-    {
-     "t": "Jalan Kopo–Sayati Banjir Sore Ini",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=f2kSFI7Z_fk",
-     "r": "YouTube INFO BANDUNG"
     }
    ],
    "v": {
@@ -420,9 +420,9 @@
      6
     ],
     "w": [
-     2,
+     1,
      8,
-     10
+     12
     ]
    },
    "trend": {
@@ -438,7 +438,7 @@
     "p": [
      0,
      0,
-     1,
+     0,
      0,
      1,
      0,
@@ -447,11 +447,11 @@
     "g": [
      0,
      0,
-     2,
-     4,
-     4,
-     6,
-     0
+     1,
+     3,
+     5,
+     7,
+     2
     ]
    }
   },
@@ -465,6 +465,12 @@
    ],
    "h": [
     {
+     "t": "Sekolah Rakyat Terintegrasi Masih Butuh Guru Muatan Lokal dan Pengasuh - Pikiran Rakyat Koran",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWRyMG9lUU9RMHdMRDF4T0xJM2p0bGNIanl6V1FaZktHdUduWENpNVNaTFB5d3lnMzBlcjdMdU5EUGFfSF9fYnhweDMwNEtBR1pVNEVhNjJkOGVIdVNpRmY0MFFsOFYwR3RqOFlWZk52YXR2MlQ2dTZmUEF3akg2Rm0ydG55NVZjYXFoTHpDSDF4V3lialpCaVBUdEd3dG1fbUNnNnh3cHBIMmFoTWNwQk1sSFNsWG5BU29yMC1vVVpqYTJDcC14Ug?oc=5",
+     "r": "Pikiran Rakyat Koran"
+    },
+    {
      "t": "Pemkot Bandung Dorong Koordinasi Lintas Daerah untuk Perkuat Mitigasi Bencana - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2xIaEg3alo3dmVaUEowamFwRlNVRTBlVlUzMUczeUZVSzF3RnpyOWdpbkVhRXNhbnh2bmI3NS1lclBwYlI3ZGo4WmFEdm5DR01qV0lZX0QxWFJmXzBRNnpDOVJrSWIzLVdlcWszcm1OWUdOMmU3OFlkSVpQbXdndml1ZWJKUHNNLVFrZHRwYnd1dU44UDBsUi13YUlVTTE4aUU4bmNXRk1SWFVRZzVzTkpWWkViUW93ZlRhcQ?oc=5",
@@ -475,12 +481,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUMtamVqWFhHWGJPTG1MZkNKdUdxcmh4QTVFQkdtVjhYQ3pldUxkVDBYMlYzSzh1TV81WXVDdkNRVEhvdmFFVWY1c2xrX29ERXdGTnhyYUtEd2Q4VGtDLS0tZF9zWjhIeFRIMTk0UHFNS21OWEw5Y2JpM3RTZHV6TG44TFVKSmhmQlhDMUUzamZfeVdWTHFWYjdkcUlvYU5XcmY2ajMtOUNuMEtWN0J5WmV3S3BUNnFFTEZnc2JaZUdNalNQT3cwcWNQcDBPVHg3UlBB?oc=5",
      "r": "jabarekspres.com"
-    },
-    {
-     "t": "Hari Kedua Penanganan Bencana Puting Beliung, Polsek Ciwidey dan Polsek Pasirjambu Kembali Gelar Apel Gabungan - Katerciko -",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmNoMWlTaFI5YjZhY1FOZ1NOOG1ER3h4TEhBTGFPeDdhVnI3ZHNPdnppakNnRGRGYkc2WkQySlJ3RTZrSlgwVkFBeGJrVy1vYnNnRUkwYzBxaW5JVjRjQV9jWTl4Z0ZiMjV0UWV3bmhTT2J5ZEtoU0RWY2VWcnlVZWQ1WEVWaGhZVWZFc3dDUklneWFPUG9SU0U5SEZTMlhXR3lqTE1Yc2FqSTNjTG55Q1dyWC1lSy00ZVhxTE96dkxaelFOdTFsRlRmUGE?oc=5",
-     "r": "Katerciko -"
     },
     {
      "t": "Sekolah Rakyat Soreang, Kab. Bandung",
@@ -502,7 +502,7 @@
      0
     ],
     "w": [
-     1,
+     2,
      18,
      0
     ]
@@ -520,7 +520,7 @@
     "p": [
      1,
      0,
-     0,
+     1,
      0,
      0,
      1,

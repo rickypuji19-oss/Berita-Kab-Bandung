@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:52:09.732124+07:00",
+ "updated": "2026-11-20T07:04:55.809618+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,34 +8,38 @@
  "portals": [
   [
    "Tribunjabar.id",
-   30
+   32
   ],
   [
    "RRI.co.id",
-   24
+   26
   ],
   [
    "Jurnal Soreang",
-   16
+   14
   ],
   [
    "Ayo Bandung",
-   11
+   13
   ],
   [
    "Kompas.com",
    8
   ],
   [
-   "ANTARA News Jawa Barat",
-   6
+   "Ketik",
+   5
   ],
   [
    "Pemerintah Kabupaten Bandung",
    5
   ],
   [
-   "Pikiran Rakyat Koran",
+   "ANTARA News Jawa Barat",
+   5
+  ],
+  [
+   "Koran Gala",
    5
   ],
   [
@@ -47,16 +51,8 @@
    5
   ],
   [
-   "Ketik",
+   "Pikiran Rakyat Koran",
    4
-  ],
-  [
-   "Koran Gala",
-   4
-  ],
-  [
-   "Radio PRFM",
-   2
   ],
   [
    "| kejakimpolnews.com",
@@ -64,6 +60,10 @@
   ],
   [
    "Galamedia News",
+   2
+  ],
+  [
+   "Inilahkoran.id",
    2
   ]
  ],
@@ -79,6 +79,12 @@
    ],
    "h": [
     {
+     "t": "Raih 232 Medali di Porprov XV Jabar, Kabupaten Bandung Lampaui Target Rasionalisasi - Ketik",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2UyWDQwUUJMbWozLTg0WlBkay1mdHFZV3lYNE1oQjVORUJCWnVvdWkwcTVXREM3ODZnLW5KRGJBSmN6bU91Mllnekptbll6eXZxM1AyVW51Z2JWeU9VMkE5VkNzMHpMV3pSS2J0MWEyNVlZM2g3Zm1IQ25XUUtkSXZTRE82aHZwSU5rSWZjMDUyOGI4Z2Q0S2tlbWZRTHAxd2FnX1hELTc3bFc1QWRVZWZacWxGUEd00gGnAUFVX3lxTE1iZnJkM1ZvYmllenZaYmk0d2hmWkhrVFB5U3I2TUtTUXljd21jdXBMNlNqSWt0UGxsaWtwMTNIbWtKMUxISHpDOFVwYVNGZ0FLQmwwVEYtUks4NUgwWjVJUXVWeVU4YnliNDF1NXl1WTZYd0RHSjVvejRxMGxrX2xvWFB2WHN1NzIzd1IwT0p1QUVrVldkWjZZOVIyOEkwOWVQa1NjeS1z?oc=5",
+     "r": "Ketik"
+    },
+    {
      "t": "Lowongan AHLI TEKNIK MOBIL - Pemerintah Kabupaten Bandung",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hc2NRM0ljU1JCLWh2NDZVcVJONjBLWF9kNE5aOFB1emJ1bDRwT3kwc1hwcC1NcGpFMzRCMHFQS1Z5MWJwbmVIVG0yRHY1bzJ2azBlUW96X3J4NDNJcUY0NHpkTDUzYjN6?oc=5",
@@ -88,12 +94,6 @@
      "t": "Pemkab Bandung memperkuat pembiayaan UMKM melalui Kabandung Bangkit - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjkxcXBHRlZSZGRUbzhWN1o2LVc2VUFVRUhWVjJvaDhPUkhQSGhtVjZiMlcyNi1IVGN0aFI5RHhBMmF4VzdnMUJzZmU5X2pkNjhEbU9CcTJqX0tsdVZNWmNnNDF2RHZZRXEtNFFwaS14cTJGanJ0RTBTZWVBck9mX3M1b1ZDbHBTVzZFaHFYZ2hRMHdFM1JtWHJrdWxzaTJTTEx4QXNtSzAwSTFfU2400gG0AUFVX3lxTFBkekxJNE54dUhQYmd0ZVE0bmxKa0swdTdZTmlCWjc1N2Z4VFpGWVQ0UzVVS3NVeElFODFFYnppdG0tSHhGOGF3ZWZfUkU3RnFHZWV6V3FFLU1KNVBrQVJmSVBpMG80VjdFa2ZGcnhqWmdIS1BnNjV1SzZoVFZzWkx0V3RDd2p2Z1pNNFhSZ2RTVW9lWVZkWmFfZ3NBazJ2cGVadlFIS1BZYW9iYS1IdzlqWTBzNA?oc=5",
-     "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pemkab Bandung menyelaraskan pembangunan daerah dengan target SDGs 2030 - ANTARA News Jawa Barat",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORE52dUU0azA1QXh3dUVieC02ZlZueTFCTURTMlVESUxWbkxHM3FhWFpmcDlmd0VGT2dERVNMQnpNRlBSN2tJUmdVNEtqTUJTS0c4Y18zN0ZRVjlRRHBJaUplYmdRdkNnYVVxYzJ1YzBQTjR1ejBLak1pWjB4Zk1mQUtlMjdFUkFvR01kNEs1eGJaRjBRVjVwQnhyRi1jV2VuNENXNVFVMDFzX0wzTzEyX1VFakzSAboBQVVfeXFMTjhYc1BqMlltYkRnRmY1TEZmVGRzdHJYWThHV1U3NF9Bek1GUU0zT2J4OGxhYlZNcGZ2cHVqQV80Q0FjZ01SRjJ6YU8xNDRadnVIbXVzbXZKbmNvSDY0V0U5MjhYWW9faW80TEZ1REZLTExNQV9BSlEtU2dEM1d5cFlXVWxrT0pnZVc3bEo1Z0hGaDUtTF95cXR0R1FGeG1WUGNBdHVpMFNVZDFwRGhsclZZLWRPT24zTzJB?oc=5",
      "r": "ANTARA News Jawa Barat"
     },
     {
@@ -117,8 +117,8 @@
     ],
     "w": [
      7,
-     31,
-     4
+     30,
+     3
     ]
    },
    "trend": {
@@ -145,7 +145,7 @@
      2,
      4,
      1,
-     2,
+     1,
      2,
      0
     ]
@@ -193,7 +193,7 @@
     ],
     "w": [
      8,
-     10,
+     12,
      2
     ]
    },
@@ -243,16 +243,16 @@
      "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Program Kemandirian Lapas, Bupati : Nilai Tambah Ekonomi - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3FPTkF5LWVJcXlrc0cyOXlKRXJHejBKTF9YTlJ5cUdTU21GOV90cjVsVkxnRzhzandQY1pFUzJidXd4VlNXLWxheHBwZy1KUXJIeTlPV3I4VDBNYlU3Z1o3Qy1OT0Y0R0VwVUEzc2VaRFkzRVJIdmJSVjNTdkhEeUkwUjEwd1RwbmREam93RnhoZnREdktaeHU0NXg?oc=5",
+     "t": "Dinkes Jabar Raih Penghargaan STBM dan Pengampuan Layanan Kesehatan - RRI.co.id",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1ppTHdhZjA3UlE5NzZaR0xxSVN2N2tKNV9vNHFvbmEzeThoM3N3NDNtbDJvZGlQbFNrNzlaLWQ5X3czQjg3RFFadHNidlBJS3l5dmtsQml6YnRSVXE5WEQyNkVNX0hyM1phSFo3bHg1WjFzS29iWDE1VklmdF9CVkJSSy1nV0VrNGFBbHpCOUpxRmlhZWY0UWFGWkxaT0JIRV84M3UxQ3g0THpsYWlz?oc=5",
      "r": "RRI.co.id"
     },
     {
-     "t": "Pupuk Bersubsidi, KTNA : Mudah Diakses Petani - RRI.co.id",
+     "t": "Kabandung Bangkit Perkuat Ekonomi Inklusif, Pemkab Bandung Raih Tiga Besar I-SIM 2026 - Ketik",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN09rM09qSVNRS3A0UFJRNXpUVXBaYXJXaTZGcDhoZU5mN3hDbDF1ME9PSTlGNXo4aC1lS1BSUkxNZ09samMzTXYzWWw4ME5ZbkY0S05PelF3Qmxvd21MYTVxRHJMakVSTUlEUUxNeldkbVJ1eWE4R2tyUkhFQ0t4ZVZ4aWVydGVnWWRHTVlR?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU01uX1ItaGtFSXdaUzFyemRxZUlzbjE3RF9wZDlOM2NRWDdLZUtMVVVtNXoyUExKSjZtYTIwVHN2SnhNNDlBaEdUcnVZVG42dE1hdXowMUVqanRUMTZPLXpXRFF4cDhnZkI4dmMxa0M4Ni0tN1J5YlRiRjRzSlNOYm1CODhrQU4xZEZLWUFMYm9lZW84bThkdDVjYzZORmdJTVA2SE95RFIwd9IBqgFBVV95cUxNU01uX1ItaGtFSXdaUzFyemRxZUlzbjE3RF9wZDlOM2NRWDdLZUtMVVVtNXoyUExKSjZtYTIwVHN2SnhNNDlBaEdUcnVZVG42dE1hdXowMUVqanRUMTZPLXpXRFF4cDhnZkI4dmMxa0M4Ni0tN1J5YlRiRjRzSlNOYm1CODhrQU4xZEZLWUFMYm9lZW84bThkdDVjYzZORmdJTVA2SE95RFIwdw?oc=5",
+     "r": "Ketik"
     }
    ],
    "v": {
@@ -262,8 +262,8 @@
      0
     ],
     "w": [
-     5,
-     17,
+     6,
+     18,
      0
     ]
    },
@@ -283,7 +283,7 @@
      1,
      2,
      1,
-     0,
+     1,
      0
     ],
     "g": [
@@ -319,17 +319,29 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Ratusan Guru Besar dan Akademisi Hukum Tata Negara dari 37 Provinsi Bakal Kumpul di Bandung - Tribunjabar.id",
+     "t": "Densus 88 Tangkap 15 Tersangka Terorisme di Enam Provinsi - RRI.co.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1NJWmpzUWtpTWJvTElTaWtvZXdiTUluc01nWmtvdTlvXzNFb1hhREZwc0J6emcwNWg3WFU2TlJ1cEZDT05rTUJLd0J0UnpjOFRZY0U0eXBmMFZiNXhRbDl3WkV0WWtKNHNmR2ZlVGg5SFBtc3N6U3c3V3lrMzlUR3JpSTZETXpvTkhabkxYemNhZHhWQXFQYm5fSHAxaDhFYTZtdmtB?oc=5",
+     "r": "RRI.co.id"
+    },
+    {
+     "t": "VENDOR MENUNTUT HAK! SOROTI DUGAAN KEJANGGALAN LKPD KABUPATEN BANDUNG",
+     "s": "neg",
+     "u": "https://www.youtube.com/watch?v=bl5v43E9Dp8",
+     "r": "YouTube INFO FPPI"
+    },
+    {
+     "t": "Kapolda Jabar Bersama Kapolresta Bandung Melakukan Jumling di Wilayah Cileunyi Kabupaten Bandung ",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcG9oZlRvcGtraFNxMFFjX3cxODZqSHFlUjd5cVlCOWRfRk1RVEIyWjNJLVRsaUFKWEVnN0R6U0NjTWxRT05wTEVtRVc1d3UxaUFQenJxUExFWUVxSnIxZ2VOTkw5YjNsc2NKY1NiX19nRkdNMFVLMGMyUVU2UXhUdUdJNFR5Ym94UEl1TkhwaWFfQzRLSnZ1VnB4YmpmTGxISWY0bWRNRWpDVkFaUWRNNWFtMUkxYTBJbjQ0dVZ6bmphQ28wdFpZX0hfbmJmWDU2b05ndDVwNFBHUQ?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://www.youtube.com/watch?v=hyxN_PRqICM",
+     "r": "YouTube Ths Chanel TV "
     }
    ],
    "v": {
     "s": [
      0,
-     0,
-     0
+     1,
+     1
     ],
     "w": [
      1,
@@ -358,11 +370,11 @@
     ],
     "g": [
      0,
-     1,
-     5,
-     2,
-     2,
      0,
+     6,
+     2,
+     2,
+     1,
      0
     ]
    }
@@ -377,10 +389,10 @@
    ],
    "h": [
     {
-     "t": "Lantik Kepala DPMD, Kang Rey Optimistis Pilkades Berjalan Lancar - RRI.co.id",
+     "t": "Dari Bandung ke Panggung Nasional: Dadang Supriatna di AKKOPSI dan APKASI sebagai Ujian Kepemimpinan - Koran Gala - Koran Gala",
      "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmhNYmZrY1FqalhISVh2TUtuUHJKd19rQ2VJQ0RSUkp2dnplXy1Cdm4zXzJRblRMRmpZVmhDRXp5bkRPODZGX0JyVWlJWFNWR3Yzd0VFQlBYcHRsb3VUVUEwMWR5S2l1TnU4U1VPb3REVDBaVG9BeXQ5NFRkVUMwRnRwUU9Za2FYWXBURktiYVV3ZDRBSldrQzNrSU0tYlBiMUV0Z2NISDM2QQ?oc=5",
-     "r": "RRI.co.id"
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYmNUdWktUWxWLVRhNmZGa29MZkxkYVNqa3BPV1ZUZS01SU95OF82aTJTVnpUY2xtWHVPcVZ3dElnb0o2bGpCZWdkWEpITkJLU1NsLTZMbWtJa0pfX3pyQkZxNG9OdTFtNURnN2JxNnIzaURpeVU4OEFjWVE2VTVFWmFuV3ZrcDliWjZVUmRZMjBPQ0U2eVJIR0Y0NEljcGRpdGo4YkJqc3VYTmVmVHVxVnJScnROZkhaUUplQ3JUWjFwdXlVelhwRlV3bUpRa3VaUHdUMTRnQTFvMTA0Yko4ZFNYY9IB6AFBVV95cUxNcm5tR3JJMnptUWdSbnNmY3Fqdl9ibnp2Ry1EeGpoNWZEX3QzYlFfR1FqeXJwc0huZjJFXzk4anZjN3RtOFduY1d4ZUpaOUtydnItTC1fRTBoY0F1ZzdRcUtuLWRDcndZSnhKV25TSi10c0JqWkIzdnFVQTd2QkdfSW5QbndXS01kZTk1WDA2eHpqaEdHQ2IxU1J5MXhBWjVIbWFWS1FuYmtaT0FKN3hfdDc3VWJaOV84ZFkwN1IyQl9panBPRW1aOF9ZcjFjVDNuME9Gc3VyWUNDQ2U3SGZzZnpVRC04aTBs?oc=5",
+     "r": "Koran Gala"
     },
     {
      "t": "Foto : Banjir Kopo dan Cibaduyut Berulang, Pemkot Siapkan Sodetan dan Saluran Baru Halaman 1 - Kompas.com",
@@ -414,9 +426,9 @@
      2
     ],
     "w": [
-     1,
+     2,
      5,
-     16
+     15
     ]
    },
    "trend": {
@@ -433,7 +445,7 @@
      0,
      0,
      0,
-     0,
+     1,
      4,
      2,
      0
@@ -441,9 +453,9 @@
     "g": [
      0,
      1,
-     0,
-     7,
-     9,
+     1,
+     6,
+     8,
      1,
      0
     ]
@@ -471,9 +483,9 @@
      "r": "detikcom"
     },
     {
-     "t": "Seratus 17 Kepala Sekolah SMP Ikuti Jurnalis Goes to School Hadirkan Baskoro - RRI.co.id",
+     "t": "Gelar Karya Siswa Warnai Penguatan Budaya Ekologi di SMKN 5 Bandung - RRI.co.id",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjhIdW9RblFwUVYtTklDMTdOV1YtczFZaXc1QkI5SUpkcXJteXhlRHdJMk1lWGtBN2psVUx4RG1jbUZzcmt0X1NONE9DWTdrSExCY1hHWjg3LS1XUTA1bWxsNFdKNmxtMjJjOHhacHZuU19RX3RyTXhiZDdtR3piaWQ2NUFic2tFX0NrdUdvbi1KRGlEdWVsMEg4Wldscjcxc3RqcWFrYWdadk9paUdnVEZMTTBFaFRXYjJ3?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1VDMm5HbzJfN1VIdU5fZVdxc0ppUVNiMS1tMC1lamJsNzhxSDZEN2NfRVI1WlZaTWVCUTdNNWFFcU5GN2tEWGRJSUJnbmdTSTBKSXFIc2xEeUplc09OS3JTOGJtOEctV2k2Z3h6Y1NlTHBxZkZwS0ZFRlJiNmFKcHJmNWs3cFZxTEhOYWM0SnctTzlpMmJjNllOLTlaSGExalRUX1huZUJjUDg1U280?oc=5",
      "r": "RRI.co.id"
     },
     {
@@ -483,21 +495,21 @@
      "r": "YouTube Pondok Pesantren Modern Al-Ihsan Baleendah Bandung"
     },
     {
-     "t": "Sekolah Rakyat Soreang, Kab. Bandung",
-     "s": "pos",
-     "u": "https://www.youtube.com/watch?v=Um0RPkcUNKI",
-     "r": "YouTube pu_prasaranastrategis"
+     "t": "Pemilihan Calon Ketua dan Wakil Ketua OSIS SMP PGRI Pameungpeuk #sekolah #osissmp",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=YJFw53BdTDE",
+     "r": "YouTube SMP PGRI PAMEUNGPEUK KABUPATEN BANDUNG"
     }
    ],
    "v": {
     "s": [
      2,
-     0,
+     2,
      0
     ],
     "w": [
      0,
-     23,
+     22,
      2
     ]
    },

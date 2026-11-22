@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:39:28.040250+07:00",
+ "updated": "2026-11-22T11:19:44.218815+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,7 +8,7 @@
  "portals": [
   [
    "Tribunjabar.id",
-   29
+   27
   ],
   [
    "RRI.co.id",
@@ -16,7 +16,7 @@
   ],
   [
    "Ayo Bandung",
-   18
+   17
   ],
   [
    "Jurnal Soreang",
@@ -32,10 +32,6 @@
   ],
   [
    "Pikiran Rakyat Koran",
-   7
-  ],
-  [
-   "jabarekspres.com",
    6
   ],
   [
@@ -47,12 +43,12 @@
    5
   ],
   [
-   "dialogpublik.com",
-   4
+   "jabarekspres.com",
+   5
   ],
   [
-   "Ketik",
-   3
+   "dialogpublik.com",
+   4
   ],
   [
    "pantau.com",
@@ -60,6 +56,10 @@
   ],
   [
    "Koran Gala",
+   3
+  ],
+  [
+   "Pemerintah Kabupaten Bandung",
    3
   ],
   [
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Hj. Renie Rahayu Fauzi: Gerakan Pangan Murah Dirasakan Langsung Manfaatnya oleh Masyarakat - TemaNews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHJyQ0RBV0hVb3JXTFZHX0tkb1Q0dFhCZkdIR1gwWGdJUUYwTjdFTl9senRLYjBjRFVxY19DdjNGUHBIaWdPWUFCdXZfMzg0NDk1UExfd05GNlBiYzBHczhxVVg3QkdZTlBaOHE5VGpyQ2JpOFY0ZVVGZ1kyZE5vY2hfSHR2empMR0tsSEN1RG5hRDVEOWhNSXNxelVESVk4ZjNyWVhBTGJ2ZkdoZDRLSnpB?oc=5",
+     "r": "TemaNews"
+    },
+    {
      "t": "Pemprov Jabar Jamin Bangun Ulang Rumah Warga Pasirjambu dengan Mitigasi Bencana - republika.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkxxd3R4ZTd6aHZsV1QxSExJVXVXYVdlUFR6X0NIeENzdTdaRXY5M2NlUFpFbFBLelpXMlFvQTdtWnFQWGdqclpHb2xoNDc5aFBNLW82M0x5VzEwRy1sZnZ1bEZyMS1fM3NPTTF4ekJpVjNzekJZdmUyYU85VzluVjRKRXpuallQLUM1dTg0eVRzQW94LWgzdmZsaVZEVFAzb3BLanRSa1ZFWXJCS05uX0FIQ3RoTVkya2xGd2RNVFQwNHVjZUxERA?oc=5",
      "r": "republika.co.id"
     },
     {
-     "t": "KDS Minta Camat Siaga di Wilayah, OPD Kabupaten Bandung Percepat Anggaran Akhir Tahun - Giwangkara - Giwangkara",
+     "t": "KDS Tegaskan Karang Taruna Harus Hadir Beri Manfaat Nyata, Pemkab Bandung Siapkan Rp50 Miliar untuk Modal Usaha - Giwangkara - Giwangkara",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjBfNVFHNUtuTUF3OW84YkY4U2FDcW1wM1k5R1lzS0hnSTJUTkNQRUNqQ2JOVGc3S3dJUUtUbVFra2tVVWMwazBock9Vdnhrd1k4TWl4SzhaS014dmM5aHM0MFdYaTBvM1FrY3NKU0NHQ2ZzMFRDcGVOU0hHT2YxbmVic3ZPaVJzNWNQakNDc2tEN0xMdDNBZXVPVXl1Wl9ZeE1ZbUJCWmNLWGNCNV83LW5UQVowN1BHTUZDdUNHcGVOU0RXQ3BabVpSSdIB0AFBVV95cUxPVHhfbzhGYkhabjhxcTRXc3UwUjF0eVlrNjVDYVJLcVNqS3A0V1VjRW1jb3F4NEV1RW4temszUExycDZza0x5c1NZckk3M3RDNUhqUDNNRFNJZ2JUYkFUQ0wxNFBENXZObm1ZMUxQOW51b1d1WWFvZjNzLTFPcHU4VUsyWkVYOGNXSWFNMGtiXzNVVlZpUFRGUkJwQVhNZXRiQWVZWExiWWxZRDl2OFpqdzExdU84cnRhTzlPemlfWk5Vdi1zQ3dOMk00MmZPN3ll?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSGZyQUlFZWUxZzlweWdidy1wOG5Vd0NKaHpLbG1zQmU1THhvZ09ZMWRCM1RMbUVQWjliSWtOT3lnOUZLLW9YZUV5dmZ6T2VESmJCNE01QzNoN0NMZWZiS3NYOTNpMjBkM04zUF9IY0tNWHBVeWRZdVF6SW5lT2R1NGFZVk5LOGV0d0o2SnZtRlN0a1cxRzl6U05FcDIydWFaUTZXV2ZqaDB0dUtMa3RHVWwzS3F0MWRfUE41eDduN2hKc2JMRmpNejZ1S1BYQmVLOU1jSWdpVUh5b0IxR1FZVUhtTmRzU005WW9obGZB0gHzAUFVX3lxTE9hdWw1aldsdXkxaVRJODBFeE9RaXVVS0t4NGhjWEZIaFRkNDU3QWN1TVBfNDFtVnNoVnNILVA0cUlMaFF4RWlSVUhacDdCY0RmZVVZY19GcmFWWTFVQnVGMU8wbFY5VXlSZ2NrekVDYlluZWRHVXVyOVpwaHFUZk1GRmFPZlYxUER2Qm16V1QzaHRueEtuTE9IcXN3T0hndXMteG93RWp6cE1aLTdHMU1iNGVCck8yTjZ1UkFiTGo2Z3hJOVFuUzJHVUNpT21IWGNIU0ROVEpDZ0YzOVJRT1JMRUpLbDhIVmt2SE03Y3FIVEUtbw?oc=5",
      "r": "Giwangkara"
-    },
-    {
-     "t": "Pemkab Bandung Siapkan Rp50 Miliar untuk Pinjaman Modal Usaha Mikro Tanpa Bunga dan Jaminan - Radarbangsa.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE9mSVAtSmd3cGhfaDNtVW9VdURFdVVVb3RBaWduS1l0NkljUktfYW02cGQ4NTVuOXo5N3hfbHpPTkNEdXMzNXlJMVhHX1VzN1VjbXpMcy02OUlLcHo0S3dYUzVoVGkyN2pqTHcwWXloV2lhOFlnV0VmRTk3aUVWUmt6OWF2dGR6UlFhMmxvd0l5RGNsemRySzR5ZmZUSFl4Ykk0bEp4aVM0N2x5YUJGX05IMlE5QVZlS0dDZ2xraVBVTjNScGZ1dUV3?oc=5",
-     "r": "Radarbangsa.com"
     },
     {
      "t": "9 provinsi siaga, banjir Aceh Tamiang, puting beliung Kabupaten Bandung | badaiNET 17 Nov 2026",
@@ -116,8 +116,8 @@
      5
     ],
     "w": [
-     10,
-     27,
+     9,
+     30,
      2
     ]
    },
@@ -137,7 +137,7 @@
      0,
      0,
      1,
-     9,
+     8,
      0
     ],
     "g": [
@@ -161,6 +161,12 @@
    ],
    "h": [
     {
+     "t": "Hj. Renie Rahayu Fauzi: Gerakan Pangan Murah Dirasakan Langsung Manfaatnya oleh Masyarakat - TemaNews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHJyQ0RBV0hVb3JXTFZHX0tkb1Q0dFhCZkdIR1gwWGdJUUYwTjdFTl9senRLYjBjRFVxY19DdjNGUHBIaWdPWUFCdXZfMzg0NDk1UExfd05GNlBiYzBHczhxVVg3QkdZTlBaOHE5VGpyQ2JpOFY0ZVVGZ1kyZE5vY2hfSHR2empMR0tsSEN1RG5hRDVEOWhNSXNxelVESVk4ZjNyWVhBTGJ2ZkdoZDRLSnpB?oc=5",
+     "r": "TemaNews"
+    },
+    {
      "t": "DPRD Jabar Dorong Pemprov Eksekusi Dana BTT untuk Penanganan Banjir Cikapundung - RRI.co.id",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVk5bkh4cThuSm5vYkIyZUVYcWNNWHpKdlQ3ZFRRak9keXV3UU5fa1FFcmN4eWdMWExpeS1IM012NF9RUFRnWkdCWjAtbmxDbVF0cDBrTU00R3lHMnQzMUh1emJJNE5HYWIxZGoySEJFY2dCeTRoeWJDT1pSemViZnFwUkR5Vk9fdndHelVmdkhmNUU0X1dVM0ptYkpxOE1ZZzZkeFd2M0Z0aDRTRTBFVlVmREloZlhKSE9PVGV0WQ?oc=5",
@@ -171,12 +177,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY2JEVW9HLUhNaDlYbkVQZlRlVVo2ZFNTWVpNQi01ZjZRNi1uMF93NzdaeXFXTlFDeDlrLUdtdENGU0VrXzVwTGcwQnBNY2EyVGhBOE9ZREg1MFBqdXJvX1NqamMtZE50ZWRlcGYwbWdmaE1Xd2NPVGtMUFJBOXAyQUVmV05mM2hxazJBWVlXN0MtQUMtZ0RWaDhlN2pIRnN2bVp4dTRoR3ZDTUVMdzJuZjgzMTBJZlczX1BIVzVLY2k4ZEZ4eEdxUkxqTU9FX0tNQ2FXczExT1dDOUNlSjJlTw?oc=5",
      "r": "Tribunjabar.id"
-    },
-    {
-     "t": "232 Medali, Bukti Perjuangan Atlet Kabupaten Bandung Tak Sia-Sia - dialogpublik.com",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzV6Y1A1ZUxWVkY1azRmMy16Z29RRGhlOVhpYU5uVWdnTkw0U2RxU3FJY2tIdEU2US1VNFo2N3lLTWttOFF6aHpXcGcyNUF6dVp0MGhINnhSSTlhWFZ2WVIyTjBTbEl6ZkJXYy1ESDdKUVlVNkJ4WG9KTTJkOWxPSk53ZVNoNUg2T2NrMTNmTFJ6OFE?oc=5",
-     "r": "dialogpublik.com"
     }
    ],
    "v": {
@@ -187,7 +187,7 @@
     ],
     "w": [
      10,
-     12,
+     13,
      3
     ]
    },
@@ -231,6 +231,12 @@
    ],
    "h": [
     {
+     "t": "Jelang Pengumuman UMK 2027, Ini Daftar Lengkap UMK 2026 di 27 Daerah Jawa Barat Usai UMP Rp 3 Juta - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdW9uTThaSnY1Uk82djdRUloyanpXajVPN0dNcy1WdTdudEpjb1pRS0I2SlZlLVluM3NiVmllUGlFaGpZcUxONkhMYng1cGt2clNhWXlNaFBPV2VFa255elk3RXpBZHVsSjlQeDAtaVJhZTFDWHJqeTZyRXg4YksyaUs1QzZfbGhmOHVadVhUX0NBWGJnLW13Y1YzX3FodmhsMXBYRzJENHNpR1BhbzRGOUNjTTZyaGRETEtBV0ZXTDBWLVBOV3haVXd3MG9KV2tBcFNtWnNBc0J5WWVka1pwYXp3?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Pemkab Bandung menyediakan Rp50 miliar modal bergulir bagi UMKM - ANTARA News Jawa Barat",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFEtMlpNanF2T0pNNzNVREx3T1BGUGc1MXh0M3V1UTl1RlJuaUJ3UTRQSklhUGFha2t0TUludk5uNml3UGt5cmFHaXB3cGxRVjdhSDBQUW5wWkJhOFZjemlDemFSN0ZLY0JFTDJuNTYyajBrbGpoRzBPaWFka3VuVjRCV01oaGZKOGlVTkZBVVRYZENqVlVJRVhfV0w1WjRMbEdScm9OcHQ0d9IBrwFBVV95cUxNalgzTHBDTnNKaG1iUVRpakhNU1VXOWZuWl9hUlM0QTZWLUFqSjZGQnhobnc2Y1MxaF83SHFnRENCSG43QmpoV1R1ZHdGdGV1UjlBMFF3YmZOSF82M1NhQVo0Uk53bVhuQTItRmNLNmdzNDVHMlE1TnhRWDBNS1c5NlA1MUVhVVRSWGZhaDBscjE5UjVpSFdSV00tYkdncWhXTzRUdU9jRmtWdGdMRkd3?oc=5",
@@ -241,12 +247,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdDFjUlRBemM4RUNGTXhqdDF0cVZheTNuMzB1eUhxQUYxaWlnY1Y1SldsNTBaUDRrcGNzMGhhMU5RcldCa2YwLW5nZ1E1OUZDS3hPd3h1anQxaXFDb2cxcG1UV0NxR1AwRnp5V3dQMUQxU0xIUjc0eHRSR3ByZ2VOMmtFWWwtQmVYTjl6NlZ0ZEpUbVNLSDlPR3NXNFNiTW9DVWl1WG1fQUtIZ0lwcmd6NzdOVVIzWVVld05GeUtHWFVNY20zR0c4cFRGS2htYUVTTWEyLVh4a184X2hiYUh4dnpRc9IB6AFBVV95cUxOdDZmemdXRjBqOVpveFVkaDBSWjJMaThGSE5xYi10dC0tTDRrbU93RmY5eUc1OTF0N3BSSVVCLTN6LU1OUUNfS0xKVmtQUVVwbkdzeFBTdkI3UEpPckw5Q1hyZjdURlRqTGVnWDg1NVRsM19rOUhFdFFIMTJiY1JNc0ZsYVlHZDFUdHBpdHMtamRQVzAxYTVFZnNmOW0zNFN1eHdLLW5sa2ZpMVlTRUYwY3VfTGVJbzJPVXZ6NG9uQWg4U3pOOW9XdU1UUS1sMEdQMXVRNDJ0NzlfN20yNzhUOEF6MnVPNDAy?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Sudah Tembus Rp 3,9 Juta, UMK Kabupaten Bandung 2027 Masih Bisa Naik? Ini Kata Disnaker - Tribunjabar.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0hRRnV4WHdqUzdWRlozYUp6SDVCeVl3cTUtNUg2bmttTk9Ed2dvNlRzSVNwYm04OVJxT2FJaWdQNWhDR196dWhkRUJSM2wzNFQ0dElyWTNKS2MwRWNpNzNWYmN6WG90UTllVEs1enY1VVlselQ3YXBDNW90V1Z5MFJyZ1NVY2t0MDh4ZVVjMjVvTGpFSUNHR0lHQkRleEFEZUw3TWhOWFJsQjBrTTNIRTdUSDhSSjNNNWtYVy1BTF8xWjdVeVRVSGpKRWJwUnE2OXNtN3ZB?oc=5",
-     "r": "Tribunjabar.id"
     }
    ],
    "v": {
@@ -257,7 +257,7 @@
     ],
     "w": [
      1,
-     22,
+     21,
      4
     ]
    },
@@ -340,7 +340,7 @@
     "w": [
      2,
      22,
-     11
+     10
     ]
    },
    "trend": {
@@ -363,9 +363,9 @@
      0
     ],
     "g": [
-     7,
-     1,
-     1,
+     4,
+     2,
+     2,
      1,
      2,
      0,
@@ -422,7 +422,7 @@
     "w": [
      1,
      7,
-     15
+     16
     ]
    },
    "trend": {
@@ -445,7 +445,7 @@
      0
     ],
     "g": [
-     0,
+     1,
      5,
      7,
      2,
@@ -471,16 +471,16 @@
      "r": "RRI.co.id"
     },
     {
-     "t": "Jumlah Anak Tidak Sekolah di Jabar Turun 32,37 Persen Sepanjang 2026 - RRI.co.id",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOek54eVlPeE9LNXFzcnd2UngyUWhzYzJ0QzhrY0F6WExjZ0hWbEp3cTA0MWJ2MkZ4U0s0aU1MZGpDSmxMYlFSVEZtVWNBdXBZMzFtUFprSVNoMHB4REpjM1p4WEZYSTNQaHZDSkZrb2J5THQtWkFDWHZKU2M0eW5OeVg0ZUxfcTRZV3Y4S0EyeGpRM3FGTXk1OW1KOGc0cndTMVp6SnZwSEh6MnNRc3Y0?oc=5",
-     "r": "RRI.co.id"
-    },
-    {
      "t": "BMPS Jawa Barat Perkuat Kolaborasi dan Inovasi, Dorong Sekolah Swasta Kompetitif - RRI.co.id",
      "s": "pos",
      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEg3NHU2WWtENml2eWJmcmNWRmFXaFA2N1hxZXNlZC1PWG4yVHd0T1pEdkpUaVQ4V1lzR2Z5YVZHT1ZMWERnajREdlFzdHhOaVdnbmRib05ianN5eVBudmtQMXBPdkhaVHlVWVk4bXIzdUtTeWZ6ckdVQWpvWDJWcldJbXZZMmJ2Zlpab1REdnFsNEFaeHBQRWlLbGNFMkNibVVQdTdZd2RBaVBRVkNpeVpxaDkwSHk2OTlTVEVoVQ?oc=5",
      "r": "RRI.co.id"
+    },
+    {
+     "t": "Pemprov Jabar Menetapkan Status Siaga Darurat Bencana Mulai November 2026 hingga April 2027, Ini Kata Kepala Pelaksana BPBD Jawa Barat - Ayo Bandung - Ayo Bandung",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS2YxMzVPd21LWklZa3ZSMzQ2QVNTMThqcVBNc3lkbGlNZmtRTEVaSzRzWEZLSi1ZMVZMZTZxc1NJTVdqcGlMYldFNEFaWE40VGM4MkVfSFhrekdWZFFsMU5qWThna212eEFKTkVuU1ZMam53VF9KanYwc21hTE1qcWdRajdWaHpQRWctcE5odTBxb2FlMThHTGVpdUJhbDlMUERfQUwxZDZGS3VybGJVcE1GcmVVUTdjTjA2WHc2Qkl5d0tRODFWTUFoemU2SzNzdC1lVGp0SFRJVFpLLWJiQUJQNHlPYTBHVjJiYlVhVlZlQldyZUtaR1BwVUVMazNObWZCR013R1FDcXpOYU5YOFdn0gGXAkFVX3lxTE9CbTJRcnk1bjRzUTdqSFhsR3dGdDcwcnl4LVg4Y2NOVWtvbXhVWEFUWUZxOHJRNWRueUhuRS1lMXFDNGVuTHdjaGFuSEdELWw2Rm52LVJ5VDhhV3JGU21fTlppY21HbWlELTlJLVRzNVdwT0pCZVk5amZfUTBTR2x3UEljVTZpbC1Xc1E2bDEtMlk2YjdDY0hNcVdPTEZNUHVtem1KUnFTZ1JGLWsxSVI5ZThHZ29fbW5kTFdQdm1Yd2Zkd21kalkxS2ZMQUpTSWZOakNrbHhNSm5tN0hNN3VTSEh2RGtmTkFZNEhEX20taEd6XzZzTFhJUVdfb1ExWTgzd2dfT0pYa0UyWEY4cVBhSmpNd3FfSQ?oc=5",
+     "r": "Ayo Bandung"
     },
     {
      "t": "Pengawas dan K3S Cileunyi Perkuat Sinergi Persiapan Rekor MURI Pencak Silat",
@@ -503,7 +503,7 @@
     ],
     "w": [
      1,
-     22,
+     20,
      3
     ]
    },

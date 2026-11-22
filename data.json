@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:57:59.704723+07:00",
+ "updated": "2026-11-23T03:09:08.584400+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,62 +8,62 @@
  "portals": [
   [
    "Tribunjabar.id",
-   26
+   27
   ],
   [
    "RRI.co.id",
-   22
+   20
   ],
   [
    "Ayo Bandung",
-   17
+   11
   ],
   [
    "Jurnal Soreang",
-   13
-  ],
-  [
-   "Kompas.com",
-   13
-  ],
-  [
-   "ANTARA News Jawa Barat",
    9
   ],
   [
-   "Pikiran Rakyat Koran",
+   "Kompas.com",
+   8
+  ],
+  [
+   "ANTARA News Jawa Barat",
    7
   ],
   [
-   "jabarekspres.com",
-   6
-  ],
-  [
-   "detikcom",
+   "Pikiran Rakyat Koran",
    6
   ],
   [
    "TemaNews",
-   4
+   5
   ],
   [
-   "Jurnal Gaya",
-   4
+   "jabarekspres.com",
+   5
   ],
   [
-   "dialogpublik.com",
-   4
-  ],
-  [
-   "Giwangkara",
-   3
-  ],
-  [
-   "Sumedang Bagus",
-   3
+   "detikcom",
+   5
   ],
   [
    "pasjabar",
+   3
+  ],
+  [
+   "dialogpublik.com",
+   3
+  ],
+  [
+   "Jurnal Gaya",
+   3
+  ],
+  [
+   "Satumedia.id",
+   2
+  ],
+  [
+   "Giwangkara",
    2
   ]
  ],
@@ -101,53 +101,47 @@
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=IcQDDRqpmDw",
      "r": "YouTube badaiNET (Bahasa Indonesia)"
-    },
-    {
-     "t": "🔴LIVE: Ratusan Rumah Porak Poranda Kena Puting Beliung, Pemkab Bandung Tetapkan Tanggap Darurat",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=wq3tYdfJcNc",
-     "r": "YouTube Tribunnews"
     }
    ],
    "v": {
     "s": [
      0,
-     3,
-     5
+     0,
+     1
     ],
     "w": [
-     9,
-     28,
+     7,
+     27,
      2
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
-     7,
-     1
+     5,
+     1,
+     0
     ],
     "g": [
-     4,
      1,
      0,
      0,
      0,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -161,22 +155,22 @@
    ],
    "h": [
     {
-     "t": "Jabar Siaga Bencana, Ahmad Hidayat Pastikan DPRD Bakal Dukung Penuh - RRI.co.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2JZcmUyWDJZV19rOXZncUlITE5zNDhic0QzZDh0QVQxYlBGSElfdFhadVJvLXI2MmxjVDVnSm9SOTdMWFVKd01scDVUSHBMQzJ6ejdZU1FtenZ4RU5UTXVQNUxoRUtrUEFtRWVSaXdtTjg4VU1USDk1WFRfWVo0UHZZbmxQN1M1bHhnR1hlbWgyTEtYTEdGTDlCbFZXLWw2NVFmc2hyVTJiaXNR?oc=5",
-     "r": "RRI.co.id"
+     "t": "Sosialisme, Islam dan Abdurrahman Wahid - TemaNews",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMWIwUEVKcnRwLUZrbjlheHphT0ZiSEtoSDRkeE9xZmhtWGdQOEwtbTYyN09NUDliRWljd1NKV3ZvdnlPNTcyZUdxdUczajhaVVdVRnQ0eVRxQnBhaWh2eGNWY3FoMEhwU2JBYXI0Yw?oc=5",
+     "r": "TemaNews"
+    },
+    {
+     "t": "Ketua DPD LPKN Jhoni Pane Soroti Rehab Gedung DPRD Kab. Bandung - Bedanews",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGNBRF8wUFF1eGMtcS1qeVFHa3VWUW1sY0JPY2x4NjlqT3d3cFl6X2JndW9CMHM4dG9Uczg5bDdUcEg0YUpBOGhpbHJ0VlhITkNFSURiT3FuSTlDdm1MbWw4Qzc5OWNuWFlfekJOeFppejAxdEFvZFRkNUJJU19Kcy1jeE5ub0tEU05xQw?oc=5",
+     "r": "Bedanews"
     },
     {
      "t": "Hj. Renie Rahayu Fauzi: Gerakan Pangan Murah Dirasakan Langsung Manfaatnya oleh Masyarakat - TemaNews",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHJyQ0RBV0hVb3JXTFZHX0tkb1Q0dFhCZkdIR1gwWGdJUUYwTjdFTl9senRLYjBjRFVxY19DdjNGUHBIaWdPWUFCdXZfMzg0NDk1UExfd05GNlBiYzBHczhxVVg3QkdZTlBaOHE5VGpyQ2JpOFY0ZVVGZ1kyZE5vY2hfSHR2empMR0tsSEN1RG5hRDVEOWhNSXNxelVESVk4ZjNyWVhBTGJ2ZkdoZDRLSnpB?oc=5",
      "r": "TemaNews"
-    },
-    {
-     "t": "DPRD Jabar Dorong Pemprov Eksekusi Dana BTT untuk Penanganan Banjir Cikapundung - RRI.co.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVk5bkh4cThuSm5vYkIyZUVYcWNNWHpKdlQ3ZFRRak9keXV3UU5fa1FFcmN4eWdMWExpeS1IM012NF9RUFRnWkdCWjAtbmxDbVF0cDBrTU00R3lHMnQzMUh1emJJNE5HYWIxZGoySEJFY2dCeTRoeWJDT1pSemViZnFwUkR5Vk9fdndHelVmdkhmNUU0X1dVM0ptYkpxOE1ZZzZkeFd2M0Z0aDRTRTBFVlVmREloZlhKSE9PVGV0WQ?oc=5",
-     "r": "RRI.co.id"
     }
    ],
    "v": {
@@ -186,36 +180,36 @@
      0
     ],
     "w": [
-     11,
-     13,
-     3
+     10,
+     10,
+     2
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     1,
      0,
      3,
      0,
      6,
+     1,
      0,
-     1
+     0
     ],
     "g": [
-     2,
      0,
      0,
      0,
      0,
+     1,
      1,
      0
     ]
@@ -257,26 +251,26 @@
     ],
     "w": [
      1,
-     21,
-     3
+     18,
+     5
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
+     0,
      0,
      0
     ],
@@ -284,8 +278,8 @@
      0,
      0,
      0,
-     0,
-     3,
+     4,
+     1,
      0,
      0
     ]
@@ -339,35 +333,35 @@
     ],
     "w": [
      2,
-     23,
-     9
+     14,
+     3
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      1,
      0,
      0,
      2,
+     0,
      0,
      0
     ],
     "g": [
-     6,
      1,
      1,
      0,
      2,
+     0,
      0,
      0
     ]
@@ -383,6 +377,12 @@
    ],
    "h": [
     {
+     "t": "Satpol PP Tertibkan 70 Bangunan Liar di Jalan Suci Bandung, Pembongkaran Dilakukan Pemilik Sendiri - Tribunjabar.id",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3VqUW5TMmM5b25pWmh5VEZvRDVmVFJJSE5XTW9CRU9neFhRSmdhTklSTzVXNFo1THNlUGhEbzJhOVJlS19DQ1FfWkJ6a21oVlZSbHVDTEZWajlfbHU5X1lsT1RfeEs4cjlsNzFZQk5ZYTR4dUFXN2ZqbVZNY2tRellBaUJYeFFScU1tVzJHSWVxcjdOQVRZaERLaVpQSk1tVFktSzVQNWVFdlhzU2hVWEFXME5HYlhScFRfVjl1VXN6OTVsS3JkcjdNQkN0M014STJaaGhlVG51MjI0V2gwVVh3?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Minibus Terbalik usai Tabrak Pembatas Proyek BRT di Jalan Ahmad Yani Bandung - RRI.co.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2VfRzlFM3JrOTRubTNpeUZwUGs5NUlSZ2pIcUtjYnVBNTlVVDFzaW9aeC1LejI5SlJZbzlsd0Z5cHRxZWlMV1pUZkxJTFRoMjhnY21SNXQwaUdVMzV0dzloXy0tMzZ5ZVJvY29YbjRFTE5ScnJlMkFvaVNlVF9rYk1EWFlpWFE0VVdCSVFBWmZoYU9yaHU0cnk0cWJPa0ZUWVY2VFJQYVpqTTUyVzRQbVBWdnZCcWF5U3Br?oc=5",
@@ -393,12 +393,6 @@
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMElyS3NDRlhRcWhqTWRuZkxadzVSWFhmeUxZc3pFcmUyb3dwZGpRS3M4Y0NQWThuNlY2d1ZFWEhic0lod0ZteXdCNWJBdjVrOXp6eXV1ZkVwaXljSnBtRXNvNkY5SmVGMkFpX0JwVjlieUR2ekJvdm9fZ3p2dURFd2NQUjhYR0Y1UXVUdHEwMm9KZlpsU2kweXBmdkZMNkxyb0FUTEE3YWNrd3lBRkxJQWJaY0VPNTdZX2ZRWWl6bmNUVHB5Ny1WczB3NF9RUy11Rkx6bVVPM09INjJkRXRjSzh2NHJEZFhw0gHuAUFVX3lxTE4xSDVzNDliWUI4NEZMTFFnTzNXX29HQ2h5UUwyZ1dxNk91dG1OTnZQQ2dHUlNvZ2d4TzFsRnpoN1RPX2RqaEJxUVNUbG5vekl5bjhKLTBrdDdwODZFQzk3dWF1alMxdy1nT041RVZkd2l0SFdTSUQ0UnhjZWlKaTk5NlljdFNEOTVSWjNXWDlNWmpBUkRsa1pLd1VuVGNhRGoxb3UyNWdta0s3djVCZlR5WTFrODBwNjI2aG5HWFFDS0RGNE1HZkRGVEI0SXMwNUM0ZlRRZGpHSzRHeEc0NVJGRjJSNmMxb1lDYWdDeGc?oc=5",
      "r": "Ayo Bandung"
-    },
-    {
-     "t": "Pemobil Mabuk Tabrak Proyek Halte BRT di Jalan Ahmad Yani Bandung - detikcom",
-     "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmd6WUJ2ZFVBLXFGUG9MVkladF9wcXBEQU9pRDNPN004WE5yRE55Q09sTkE5OFRpd1lnS2x5aVo3dkwxWHpKZ0ZvU3cxbm1kamNuazdzdU5sRTE5WGExcjFvUEtoNTRQb0VYQTZURDV0SHo4RWdUNTBNZ1FoeFJOUUZOMXA4aEQ2MzAtWG5DZHJtb21SOUlqLXhTZG1QeGZmTmZoaDVjZzZMS3RzN3JV0gG0AUFVX3lxTE8xRXIySHZXVC0zb2Uwd1FzeDMxNFdMRnFmWUQ5aEZsUUE4SjBuU1BhN3Zad1VEWWtxcEV3XzFmRUtEQ1NWTWo4Nnh3T3YydFlxMWdRaDNfLXhTRnI5eVJBdEJiYmQ5VFZYZ2VubUpQOVAxdFRpUzBnS3RMdFg4d20xUHdlMXRqaGIwR2g5WmR3alYtX2VmODhNT2lPUFhXbjFzcXNYcUlrM1R1VXV1MmlVMzBwTw?oc=5",
-     "r": "detikcom"
     },
     {
      "t": "nanjung citarum",
@@ -422,34 +416,34 @@
     "w": [
      1,
      8,
-     13
+     15
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      0,
      4,
      2,
      0,
      1,
+     0,
      0
     ],
     "g": [
-     0,
      6,
-     6,
+     7,
      1,
-     2,
+     3,
+     0,
      0,
      0
     ]
@@ -483,16 +477,16 @@
      "r": "RRI.co.id"
     },
     {
+     "t": "🏫 Revitalisasi SDN CINUNUK 05, KAB. BANDUNG, PROV. JAWA BARAT",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=twnkPvr5f0U",
+     "r": "YouTube sdn cinunuk 05"
+    },
+    {
      "t": "Pengawas dan K3S Cileunyi Perkuat Sinergi Persiapan Rekor MURI Pencak Silat",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=v7__Q1qCub4",
      "r": "YouTube Info Burinyay"
-    },
-    {
-     "t": "💉 BULAN IMUNISASI ANAK SEKOLAH (BIAS) SLBN CILEUNYI",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=3Lv2a81ahZw",
-     "r": "YouTube SLB Negeri Cileunyi Kabupaten Bandung"
     }
    ],
    "v": {
@@ -503,35 +497,35 @@
     ],
     "w": [
      1,
-     25,
-     3
+     22,
+     2
     ]
    },
    "trend": {
     "d": [
-     "Sen",
      "Sel",
      "Rab",
      "Kam",
      "Jum",
      "Sab",
-     "Min"
+     "Min",
+     "Sen"
     ],
     "p": [
-     0,
      1,
      0,
      1,
      0,
      1,
+     0,
      0
     ],
     "g": [
      0,
+     1,
+     1,
      0,
-     1,
-     1,
-     1,
+     0,
      0,
      0
     ]

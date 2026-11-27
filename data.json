@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:32:45.425108+07:00",
+ "updated": "2026-11-28T06:06:14.610690+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -8,63 +8,63 @@
  "portals": [
   [
    "Tribunjabar.id",
-   25
+   28
   ],
   [
    "Ayo Bandung",
    15
   ],
   [
-   "Kompas.com",
-   14
-  ],
-  [
-   "RRI.co.id",
+   "jabarekspres.com",
    12
   ],
   [
-   "Jurnal Soreang",
-   11
-  ],
-  [
-   "jabarekspres.com",
-   9
-  ],
-  [
    "ANTARA News Jawa Barat",
-   8
+   10
+  ],
+  [
+   "RRI.co.id",
+   10
+  ],
+  [
+   "Ketik",
+   7
+  ],
+  [
+   "Jurnal Soreang",
+   7
   ],
   [
    "detikcom",
    7
   ],
   [
-   "Ketik",
+   "Giwangkara",
    6
   ],
   [
-   "Pikiran Rakyat Koran",
-   5
-  ],
-  [
-   "Giwangkara",
-   5
-  ],
-  [
    "Inilahkoran.id",
+   5
+  ],
+  [
+   "TemaNews",
    4
+  ],
+  [
+   "Pikiran Rakyat Koran",
+   4
+  ],
+  [
+   "Fokus Satu",
+   3
   ],
   [
    "dialogpublik.com",
    3
   ],
   [
-   "TemaNews",
+   "Pikiran-Rakyat.com",
    3
-  ],
-  [
-   "jurnalpolisi.co.id",
-   2
   ]
  ],
  "topics": [
@@ -79,75 +79,75 @@
    ],
    "h": [
     {
-     "t": "Cegah Banjir Berulang di Cilengkrang, Bupati Bandung Siapkan Normalisasi Sungai Sepanjang 2 Kilometer - Jurnal Soreang",
+     "t": "Pemkab Bandung menyiapkan pembangunan polder untuk atasi banjir Tegalluar - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLTNGVTJVV0xpWWFVUmhSSDZBbS1obXJ1M1l1Y1NwWWR6QTNFb0tWbmlDa1o5TWx6QnMtOG9IT3JSakZKOXZFa2JHMnVaUC1SVXdJTVpYSkhOekxjUHE1VGd5WVZZdUlDdkpiU2VveDZSRjRNaktJckJnLWs3b2xLdkRzOXVQSGFWN0pYb24tcGZTU0d2ZndOa293YUxYOENCdGc1djlZRXZ4S3RKbjFsdGlCM1d5Ukw4enVHT0hadlBNTV9OaXl4T3hyNjNzVVloNGJjS0xBWVFIbTNRa2IzUmNoVXc0RlNrOVc4Y3hzUGUtSFlL?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVJVZlgzRFRmYzJha2JucEF6TlBrTWxBMHUzRS1MR0NjTUdUNUJoSTNWLXZYZVc1TW9peVNaeWdma2RPdlhWaDZYaHY2LVptaEdJZTVOVkdPYmV5WW9xd0xlU0s3b2N0YldKeW9aOE02ZFJrZXFnbkhGTW1fVzc1ODRNY2Jka3FwRXRjUnZDTTRGcjhIRXJZZVJkdXU0WFI5SlJPWm1WdEd2aXdBM0VRYVJ6LWtmd0nSAbwBQVVfeXFMT3U2OTgxbEY0QkMxXzhFZjlRWGwxeUxtU3Y1aksxcHp1T2l2bTVUbU1VOF9oeE1uazVJVnVQZTlqa3g4VC1MMHphcV9Hd3VvamhoWk01VTU2Tkp0dG5xX3pjeDVZUV9LUHdzWnNQbEVXa1JjdENPaElmQ1dUanFIaC0zbVpHTFF1UW5tTk8xbU1wUk1SVkxIS2t2azNfWXRXb0FGb1hJNnNpd21UX2pleUdRemo0cDdtNUZ5Z2c?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Polder Tegalluar Segera Dibangun untuk Atasi Banjir Bojongsoang Usai Pemkab Bandung Terima Hibah - Tribunjabar.id",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeW95blhZTmJ0UG53NlJFTHkySjU5aDFmNFVDTmhyZUJvRzViZ1Q4dzUza05vY3RqM2dKVHFxUmttc2F2emNsSThBQml6Z0NNUzhWbzE1bExaSTNYajF3cndEVHdBeFllTXgtazVoX1RYMHpNcGRFWWZBTnVROTRva2EyOEJrTWFBcHRRRFNwXzFKTjVwM2xkNWc3TzV1TEdPX2Jpb0xpTXlBY1gxeEVOcnNDS3hGMk1vWFJEWElZYkhBa1FoYzBOWDg2SndpQVZuUkQ2cDN4VFZtMlZhcExkWWxPY0ZRQQ?oc=5",
-     "r": "Tribunjabar.id"
+     "t": "Pentahelix Normalisasi Sungai Cikeruh Tegalluar Percepat Aliran Sungai di Kawasan Rancakek, Warga: Terima Kasih Pak Bupati dan Bang Romy - TemaNews",
+     "s": "pos",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSzgwZVN6WEgtVUhBMGFOb2NZeGlwVkVuemd4UGZmZWd3eWRTN29zRlN6LWdRUU5ER0Z1SVNHUzN6cXJSMDU1SjBDbXV3azAydmxSRlFtWUNjYW5RcDU3YVlrWkRZLVJJc0YxeVJleXN0enM0Y203OTJlLXpic28wUmVFcWlrVDA3S1FzT1d2UkxRZnFWby1Ra3B2T2dWUHhjN014SW9uZmhEQ3Fnbzd2X2FZQzlISjdONUZHVHRaeWJLelNiQm5YbzdTNUJvcFFTNFIwUlh1UnlETG9OdDJQSVhYdk5NeG5VbVdULUlKaw?oc=5",
+     "r": "TemaNews"
     },
     {
-     "t": "Bupati KDS Lantik 57 Anggota BPD, Tekankan Sinergi untuk Kesejahteraan Desa - jurnalpolisi.co.id",
+     "t": "Tiga Rumah Warga Jebol Diterjang Banjir Bandang, KDS Minta Anak Sungai Cipanjalu Dinormalisasi - Ketik",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2NkOEd4dHBJR2oyalFRNjB0S1BvYmFZRi1Mb3F3TExrekV0WHdaMGM5NW5ZSmZmN3RHRTlCeUF3TDY1SDlUWXA4Q3FwOENoVEY2aUVYbUliRUJkOUItZjhNTXp0cDNpTWstUlF3SmtWWFhvajBBWngtV180c1ExRmhtdEh2VHZFWmlDZ0tLQUx0RjIyd21YTTJpb1lwUDRRcjFDMTZia2FNZ3BpVmhsUlVySXByUdIBtgFBVV95cUxQb2NkOEd4dHBJR2oyalFRNjB0S1BvYmFZRi1Mb3F3TExrekV0WHdaMGM5NW5ZSmZmN3RHRTlCeUF3TDY1SDlUWXA4Q3FwOENoVEY2aUVYbUliRUJkOUItZjhNTXp0cDNpTWstUlF3SmtWWFhvajBBWngtV180c1ExRmhtdEh2VHZFWmlDZ0tLQUx0RjIyd21YTTJpb1lwUDRRcjFDMTZia2FNZ3BpVmhsUlVySXByUQ?oc=5",
+     "r": "Ketik"
+    },
+    {
+     "t": "Bupati Bandung Resmikan 57 Anggota BPD! Pesannya Tegas Kades Bukan Atasan BPD",
      "s": "neu",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmFyVkRVYk92Vno3TWs3X1RYYW1nVTdCZmxTZER0QmZsQXQ2T1k1SFJNVFk2MDctOTg3UHJxU0U3a0YzOWh2Z2o4TS1iUlp2SUFjaG9rTFpSNVNvTm9xT0pxV2ptMGlYdjhOUDhsTWNvUElXN3N0VkE5RERrdGw1dGk5MlhyMzI4MkY1c1ppWDJRMGdTMnk0Y2ZJNmdCelhmUUd6dw?oc=5",
-     "r": "jurnalpolisi.co.id"
+     "u": "https://www.youtube.com/watch?v=vk2O0su9CPA",
+     "r": "YouTube Info Burinyay"
     },
     {
      "t": "JAGA ESTETIKA KOTA, PEMKAB BANDUNG RAPIHKAN KABEL LISTRIK DAN JARINGAN DI SEKITAR SOREANG",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=Kx-QJI5h8UI",
      "r": "YouTube Garuda TV Jabar"
-    },
-    {
-     "t": "Banjir Lumpur Kertasari: Bupati Bandung Gerak Cepat, Alat Berat Turun Hari Ini",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=ufKUNZlqZVU",
-     "r": "YouTube Kabar Jabar"
     }
    ],
    "v": {
     "s": [
-     2,
-     2,
+     0,
+     3,
      1
     ],
     "w": [
-     7,
-     39,
-     10
+     6,
+     35,
+     13
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
-     2,
      0,
      0,
-     3,
-     4
+     1,
+     5,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
-     2,
-     9
+     1,
+     12,
+     1
     ]
    }
   },
@@ -179,57 +179,57 @@
      "r": "Ayo Bandung"
     },
     {
+     "t": "DPC PRI Kabupaten.Bandung",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=803UWhyGGvY",
+     "r": "YouTube @tvrbandung"
+    },
+    {
      "t": "RESES JADI RUANG SERAP ASPIRASI, FAISAL RADI SUKMANA TAMPUNG KELUHAN WARGA",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=_fcqsg406z0",
      "r": "YouTube SWARHA  JABAR TV"
-    },
-    {
-     "t": "Jalan perbatasan kabupaten Garut menuju kabupaten bandung #pedesaanjawabarat",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=rXaitdmcwTo",
-     "r": "YouTube Sunda Garut Kidul"
     }
    ],
    "v": {
     "s": [
      0,
-     3,
+     4,
      0
     ],
     "w": [
      3,
      21,
-     4
+     3
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
-     0,
      1,
      2,
+     0,
      0
     ],
     "g": [
      1,
-     1,
      0,
      0,
      0,
      1,
-     1
+     1,
+     0
     ]
    }
   },
@@ -275,36 +275,36 @@
     ],
     "w": [
      1,
-     8,
+     5,
      1
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
-     0,
      0,
      0,
      1,
      0,
      0,
-     1
+     1,
+     0
     ],
     "g": [
      0,
      0,
      0,
      0,
-     0,
      1,
+     0,
      0
     ]
    }
@@ -341,35 +341,29 @@
      "s": "neg",
      "u": "https://www.youtube.com/watch?v=ng8tJSOlnw4",
      "r": "YouTube Allamah Alauddin Shiddiqy"
-    },
-    {
-     "t": "CIPTAKAN SEKOLAH AMAN BAGI ANAK, LBH BAPEKSI KAB BANDUNG HADIRKAN UNSUR PENDIDIK, ADVOKAT & PSIKOLOG",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=4nmilPoJ_bg",
-     "r": "YouTube ismartv"
     }
    ],
    "v": {
     "s": [
      0,
-     1,
+     0,
      1
     ],
     "w": [
      0,
-     15,
-     9
+     12,
+     8
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
@@ -382,12 +376,12 @@
     ],
     "g": [
      0,
-     0,
      2,
      0,
      1,
-     5,
-     2
+     4,
+     2,
+     0
     ]
    }
   },
@@ -407,69 +401,69 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "Cegah Banjir Berulang di Cilengkrang, Bupati Bandung Siapkan Normalisasi Sungai Sepanjang 2 Kilometer - Jurnal Soreang",
+     "t": "Pemkab Bandung menyiapkan pembangunan polder untuk atasi banjir Tegalluar - ANTARA News Jawa Barat",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLTNGVTJVV0xpWWFVUmhSSDZBbS1obXJ1M1l1Y1NwWWR6QTNFb0tWbmlDa1o5TWx6QnMtOG9IT3JSakZKOXZFa2JHMnVaUC1SVXdJTVpYSkhOekxjUHE1VGd5WVZZdUlDdkpiU2VveDZSRjRNaktJckJnLWs3b2xLdkRzOXVQSGFWN0pYb24tcGZTU0d2ZndOa293YUxYOENCdGc1djlZRXZ4S3RKbjFsdGlCM1d5Ukw4enVHT0hadlBNTV9OaXl4T3hyNjNzVVloNGJjS0xBWVFIbTNRa2IzUmNoVXc0RlNrOVc4Y3hzUGUtSFlL?oc=5",
-     "r": "Jurnal Soreang"
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVJVZlgzRFRmYzJha2JucEF6TlBrTWxBMHUzRS1MR0NjTUdUNUJoSTNWLXZYZVc1TW9peVNaeWdma2RPdlhWaDZYaHY2LVptaEdJZTVOVkdPYmV5WW9xd0xlU0s3b2N0YldKeW9aOE02ZFJrZXFnbkhGTW1fVzc1ODRNY2Jka3FwRXRjUnZDTTRGcjhIRXJZZVJkdXU0WFI5SlJPWm1WdEd2aXdBM0VRYVJ6LWtmd0nSAbwBQVVfeXFMT3U2OTgxbEY0QkMxXzhFZjlRWGwxeUxtU3Y1aksxcHp1T2l2bTVUbU1VOF9oeE1uazVJVnVQZTlqa3g4VC1MMHphcV9Hd3VvamhoWk01VTU2Tkp0dG5xX3pjeDVZUV9LUHdzWnNQbEVXa1JjdENPaElmQ1dUanFIaC0zbVpHTFF1UW5tTk8xbU1wUk1SVkxIS2t2azNfWXRXb0FGb1hJNnNpd21UX2pleUdRemo0cDdtNUZ5Z2c?oc=5",
+     "r": "ANTARA News Jawa Barat"
     },
     {
-     "t": "Polder Tegalluar Segera Dibangun untuk Atasi Banjir Bojongsoang Usai Pemkab Bandung Terima Hibah - Tribunjabar.id",
+     "t": "Sebanyak 5.940 Keluarga Terdampak Banjir Bandung - Validnews",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeW95blhZTmJ0UG53NlJFTHkySjU5aDFmNFVDTmhyZUJvRzViZ1Q4dzUza05vY3RqM2dKVHFxUmttc2F2emNsSThBQml6Z0NNUzhWbzE1bExaSTNYajF3cndEVHdBeFllTXgtazVoX1RYMHpNcGRFWWZBTnVROTRva2EyOEJrTWFBcHRRRFNwXzFKTjVwM2xkNWc3TzV1TEdPX2Jpb0xpTXlBY1gxeEVOcnNDS3hGMk1vWFJEWElZYkhBa1FoYzBOWDg2SndpQVZuUkQ2cDN4VFZtMlZhcExkWWxPY0ZRQQ?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczIyeFdHVXIyNXNNeE83VGl0VDV0cUduU2JMQmJqWGhkWHc2VDBVRW10d29DeXhQTHlKaHg0TjJYQURPYmFCTXBWZXhmX2JLNmFINmRzVFZ1bEFDNU12WkZycnQxMU03UHIwMmVBSTc0U3c1NF8zQ0NZWXRaUWVNUF9iQW9qNUNTdGhWS09TZnRJR09vUFdkdlp2R290NEU?oc=5",
+     "r": "Validnews"
     },
     {
-     "t": "BREAKING: Banjir Dayeuhkolot, Kab. Bandung — 26 Nov 2026 | Info Cuaca Harian",
+     "t": "Banjir Melanda Jatiendah Cilengkrang Akibat Sungai Meluap Usai Hujan, Satu Rumah Jebol",
      "s": "neg",
-     "u": "https://www.youtube.com/watch?v=klGFZ5-YGlk",
-     "r": "YouTube Info Cuaca Harian"
+     "u": "https://www.youtube.com/watch?v=wEngoNef36Q",
+     "r": "YouTube AYOBANDUNG"
     },
     {
-     "t": "BADAI, LONGSOR & BANJIR BANDUNG BARU SAJA! Kab Bandung-KotaBandung Porak Poranda DiTerjang Air 2026",
+     "t": "🔴 LIVE | Langganan Musim Hujan, Banjir Kembali Rendam Dayeuhkolot Bandung, Berdampak ke 9 Ribu Warga",
      "s": "neg",
-     "u": "https://www.youtube.com/watch?v=NvXx6-R6hL8",
-     "r": "YouTube Alex Xa Gokil News "
+     "u": "https://www.youtube.com/watch?v=qnCdRFWJWZM",
+     "r": "YouTube tribunjabar video"
     }
    ],
    "v": {
     "s": [
-     1,
+     0,
      0,
      18
     ],
     "w": [
-     2,
-     7,
-     32
+     1,
+     6,
+     31
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      1,
-     2
+     0,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
-     0,
-     17,
-     33
+     1,
+     15,
+     31,
+     2
     ]
    }
   },
@@ -483,6 +477,12 @@
    ],
    "h": [
     {
+     "t": "Sosok Dhoni, Kreator Konten yang Meninggal Usai Viralkan Penggusuran Guru - Tribunjabar.id",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndFQ1dDUWRfYjd2dW90MkNnNTMyc0F2N1FFR1hVc1NjRV9icnRtMi1kaUlHcm05M2R0bDdBc1djcGpqekpYeDNxNWh3RkhRRDJZMnNnWUYwNWZ6aURRRThSbVVMdDMxWDVYZ2hlRjNnakNTbW5zc0xiajlJVHhtbkR3SjVHS1RHVGZJd3d5WVlNblNCMFVZTW1HZDIzeVppT3NMaUFzNi1TZ0NzSkVrV0d4NXVHVXRBQXZrRmwtdUk?oc=5",
+     "r": "Tribunjabar.id"
+    },
+    {
      "t": "Hadapi Bencana Imbas Cuaca Ekstrem di Bandung, Dinsos Siagakan Dapur Umum dan Relawan - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdEtFSXVrZE1SM1lCbE12ZFJWdDBjUk5oRWVKdDVUN1VudlJjdG54dmpXTDZNaVQ3ekRGSmtWaERpdzV3OFF1RFVHYk13RHhlbWprNHgwMlA4cmM0Rmlpc1E3VGVldWxxRGhqNk8wbWZabzBfcmcwWE5XaFZwaWFzVkp0emRMMndNWmVUSTlhSHdkQnVIaDZxYzA5alZwMGhremVkWVpYMGRkaFFxNVQxZ203TU16dmhNZGlTX1dybEtsa0NfTk1XS1ZOSHVnZFI5?oc=5",
@@ -492,12 +492,6 @@
      "t": "Sebanyak 242.482 Guru PPPK Paruh Waktu Bakal Diangkat Penuh Waktu, DPR RI Kawal Kebijakannya - Tribunjabar.id",
      "s": "neu",
      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZmctNmluRGxVc0Q1d3g1Um1FclUwR0JpMG9ZMTR6X1ZCRldVbmc4ZEVWN3NaaWoxemtOVEMxOWVtNHYwSGk1cTRsNGtsU3EtTlhKUFl6d1pRU0RaY3VtZXdBOFJkOWwybGtIbGVuNHJxUkNSd3RoYkc0NV9UaWF5U3dPSWo2S2pCY0prOTExeWladUZDMnBRelE4M2daU3pGTVNfUnd4XzRab1R0NDlHZTFQenpRM1VSTmVfRl9FZ3lQZ1VRT3Bqd1ZDN19CWVJ0LUNFVkF3N0c?oc=5",
-     "r": "Tribunjabar.id"
-    },
-    {
-     "t": "Sempat Jadi ART karena Tak Bisa Sekolah, Siswi SRT 4 Soreang Juarai Ring Tinju dan Ingin Jadi Kowad - Tribunjabar.id",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWTEzRWI0UEdRR05vQXpEanVUZHRUUzB0Y1NrNUFic0lHUzJYN3k4ZzNINWxRLTluTUZrSGRhQWYtVGpER0U3WmtfM19rYlNWQUlfZGpnYlZYT2Izamt5eGtfR2F0b3BQRlVVbFN4TlU3dER0RHl4V1psMTUxZHI2WWlIWFNvVkpudkhDU21UN2luS0hoTjlLcm5IRXF0WDNsaXEzSnFzQTMwRXZsTGJmVjVqa21GZzlESGFlMWhKV0llbXlrVnRzRm5SaWR5SHNNYm5PNklHZU5Eei03SGpjMkhySUxKeXZC?oc=5",
      "r": "Tribunjabar.id"
     },
     {
@@ -516,41 +510,41 @@
    "v": {
     "s": [
      0,
-     6,
+     5,
      0
     ],
     "w": [
-     4,
-     24,
-     4
+     3,
+     25,
+     5
     ]
    },
    "trend": {
     "d": [
-     "Sab",
      "Min",
      "Sen",
      "Sel",
      "Rab",
      "Kam",
-     "Jum"
+     "Jum",
+     "Sab"
     ],
     "p": [
      0,
      0,
      0,
      0,
-     0,
      2,
-     2
+     1,
+     0
     ],
     "g": [
      0,
      0,
      0,
-     0,
-     0,
-     4,
+     1,
+     3,
+     1,
      0
     ]
    }

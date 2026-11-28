@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:06:14.610690+07:00",
+ "updated": "2026-11-28T12:42:06.821970+07:00",
  "sources": [
   "Google News RSS",
   "YouTube"
@@ -7,48 +7,52 @@
  "method": "model IndoRoBERTa, gratis",
  "portals": [
   [
+   "Kompas.com",
+   27
+  ],
+  [
    "Tribunjabar.id",
-   28
+   22
   ],
   [
    "Ayo Bandung",
-   15
-  ],
-  [
-   "jabarekspres.com",
-   12
-  ],
-  [
-   "ANTARA News Jawa Barat",
-   10
+   14
   ],
   [
    "RRI.co.id",
-   10
+   14
   ],
   [
-   "Ketik",
-   7
+   "ANTARA News Jawa Barat",
+   9
   ],
   [
    "Jurnal Soreang",
-   7
+   8
+  ],
+  [
+   "Ketik",
+   6
+  ],
+  [
+   "jabarekspres.com",
+   6
   ],
   [
    "detikcom",
-   7
+   6
   ],
   [
-   "Giwangkara",
-   6
+   "TemaNews",
+   5
   ],
   [
    "Inilahkoran.id",
    5
   ],
   [
-   "TemaNews",
-   4
+   "Giwangkara",
+   5
   ],
   [
    "Pikiran Rakyat Koran",
@@ -60,10 +64,6 @@
   ],
   [
    "dialogpublik.com",
-   3
-  ],
-  [
-   "Pikiran-Rakyat.com",
    3
   ]
  ],
@@ -79,22 +79,22 @@
    ],
    "h": [
     {
+     "t": "Ratusan Anak Ikuti FASI Kabupaten Bandung yang Dibuka Sekda dan Bunda PAUD, Inilah Lomba yang Dipertandingkan - Jurnal Soreang",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR2RNR2Z2RTI4NUFIT29HQm5CbWpCSklyNW1rZ1dweWFzZldDa0hpNC1NbmlrTU0wdG9zbWp4M05wSFJ5eE5TdWhEY1ZVaW9kY3BtV1FDVHFPWnZId2V3cDFiLWdMSFlueWdyNVc0aEdMc0FPcHpfVWo4U0NCUVBWV0lFaHBpcl9pN2tmeVI0ZGFydHBlM0VTRnp1T3ozSXJqTGdjdk82c0lOd0NqdXVxNElGVTlWWEJrRlJXaTdjVnhOZTF0TDJTNWhXUnJUbXY2NzUzQ3lpWW1FSkFIOTJBWU1sTTNjYm41eTZPTFNpemVJSlZKTEpadEZMTk5LNFk?oc=5",
+     "r": "Jurnal Soreang"
+    },
+    {
+     "t": "Tiga Rumah Warga Jebol Diterjang Banjir, KDS Minta Anak Sungai Cipanjalu Dinormalisasi - TemaNews",
+     "s": "neg",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjc0d3loN2tOc0diMWlRN0dib2ZCNWhsbGRVYUl0YU1GRGprRVFjUVpxWWN1b004bXF0X3VHVEtTOGtpMFdDd09BbVdOOEUzaTA2WlkwbUxncS05RGc0VmpVU0J5QVFKU3hMenFRMnpOZ1BCSTF1UjdPMlU1YlhEOEtQbllLdDRCTTViWndRV3Jvamk2ZjBHbGRCUXpSU1A0R0dmeTVxN0FOSjdNbWc?oc=5",
+     "r": "TemaNews"
+    },
+    {
      "t": "Pemkab Bandung menyiapkan pembangunan polder untuk atasi banjir Tegalluar - ANTARA News Jawa Barat",
      "s": "neg",
      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVJVZlgzRFRmYzJha2JucEF6TlBrTWxBMHUzRS1MR0NjTUdUNUJoSTNWLXZYZVc1TW9peVNaeWdma2RPdlhWaDZYaHY2LVptaEdJZTVOVkdPYmV5WW9xd0xlU0s3b2N0YldKeW9aOE02ZFJrZXFnbkhGTW1fVzc1ODRNY2Jka3FwRXRjUnZDTTRGcjhIRXJZZVJkdXU0WFI5SlJPWm1WdEd2aXdBM0VRYVJ6LWtmd0nSAbwBQVVfeXFMT3U2OTgxbEY0QkMxXzhFZjlRWGwxeUxtU3Y1aksxcHp1T2l2bTVUbU1VOF9oeE1uazVJVnVQZTlqa3g4VC1MMHphcV9Hd3VvamhoWk01VTU2Tkp0dG5xX3pjeDVZUV9LUHdzWnNQbEVXa1JjdENPaElmQ1dUanFIaC0zbVpHTFF1UW5tTk8xbU1wUk1SVkxIS2t2azNfWXRXb0FGb1hJNnNpd21UX2pleUdRemo0cDdtNUZ5Z2c?oc=5",
      "r": "ANTARA News Jawa Barat"
-    },
-    {
-     "t": "Pentahelix Normalisasi Sungai Cikeruh Tegalluar Percepat Aliran Sungai di Kawasan Rancakek, Warga: Terima Kasih Pak Bupati dan Bang Romy - TemaNews",
-     "s": "pos",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSzgwZVN6WEgtVUhBMGFOb2NZeGlwVkVuemd4UGZmZWd3eWRTN29zRlN6LWdRUU5ER0Z1SVNHUzN6cXJSMDU1SjBDbXV3azAydmxSRlFtWUNjYW5RcDU3YVlrWkRZLVJJc0YxeVJleXN0enM0Y203OTJlLXpic28wUmVFcWlrVDA3S1FzT1d2UkxRZnFWby1Ra3B2T2dWUHhjN014SW9uZmhEQ3Fnbzd2X2FZQzlISjdONUZHVHRaeWJLelNiQm5YbzdTNUJvcFFTNFIwUlh1UnlETG9OdDJQSVhYdk5NeG5VbVdULUlKaw?oc=5",
-     "r": "TemaNews"
-    },
-    {
-     "t": "Tiga Rumah Warga Jebol Diterjang Banjir Bandang, KDS Minta Anak Sungai Cipanjalu Dinormalisasi - Ketik",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2NkOEd4dHBJR2oyalFRNjB0S1BvYmFZRi1Mb3F3TExrekV0WHdaMGM5NW5ZSmZmN3RHRTlCeUF3TDY1SDlUWXA4Q3FwOENoVEY2aUVYbUliRUJkOUItZjhNTXp0cDNpTWstUlF3SmtWWFhvajBBWngtV180c1ExRmhtdEh2VHZFWmlDZ0tLQUx0RjIyd21YTTJpb1lwUDRRcjFDMTZia2FNZ3BpVmhsUlVySXByUdIBtgFBVV95cUxQb2NkOEd4dHBJR2oyalFRNjB0S1BvYmFZRi1Mb3F3TExrekV0WHdaMGM5NW5ZSmZmN3RHRTlCeUF3TDY1SDlUWXA4Q3FwOENoVEY2aUVYbUliRUJkOUItZjhNTXp0cDNpTWstUlF3SmtWWFhvajBBWngtV180c1ExRmhtdEh2VHZFWmlDZ0tLQUx0RjIyd21YTTJpb1lwUDRRcjFDMTZia2FNZ3BpVmhsUlVySXByUQ?oc=5",
-     "r": "Ketik"
     },
     {
      "t": "Bupati Bandung Resmikan 57 Anggota BPD! Pesannya Tegas Kades Bukan Atasan BPD",
@@ -112,13 +112,13 @@
    "v": {
     "s": [
      0,
-     3,
+     2,
      1
     ],
     "w": [
      6,
-     35,
-     13
+     36,
+     11
     ]
    },
    "trend": {
@@ -146,8 +146,8 @@
      0,
      0,
      1,
-     12,
-     1
+     9,
+     2
     ]
    }
   },
@@ -173,34 +173,34 @@
      "r": "Antarwaktu.com"
     },
     {
-     "t": "Dua Pria Ditangkap Tim Prabu saat Hendak Edarkan Tembakau Sintetis di Bandung - Ayo Bandung - Ayo Bandung",
-     "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR054ZjByN005amhuXzNHaWVqdDlOOEJ2bGlWR3ZhdFlfWWRhaVlCbFBkczNBQ2hVZENrNFA3c2pGeXBuakt0Skt1T0FfalFWMmRWNHVoVzM5bjhDc2RRbnBFalZLZ1ByMHdvbUdDWFBXVmxxSk5LdHNKcVBidjJBa3FpcE41WVFLY1d5elI0WjJzckZieFBsRW5UUGlGNGc2emszYnlsVWlwWnVCMUFxZXlLTFlCT2tvdE9Ya25uU1E5c01pMjZVbVdxY2jSAcwBQVVfeXFMUEdOeGYwcjdNOWpobl8zR2llanQ5TjhCdmxpVkd2YXRZX1lkYWlZQmxQZHMzQUNoVWRDazRQN3NqRnlwbmpLdEpLdU9BX2pRVjJkVjR1aFczOW44Q3NkUW5wRWpWS2dQcjB3b21HQ1hQV1ZscUpOS3RzSnFQYnYyQWtxaXBONVlRS2NXeXpSNFoyc3JGYnhQbEVuVFBpRjRnNnprM2J5bFVpcFp1QjFBcWV5S0xZQk9rb3RPWGtublNROXNNaTI2VW1XcWNo?oc=5",
-     "r": "Ayo Bandung"
+     "t": "APBD Kabupaten Bandung 2027 Menyusut Rp900 Miliar, Bupati Minta OPD Lebih Cermat Kelola Anggaran - deJurnal.com",
+     "s": "neu",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlEwRDdNUGNhQkJMWWZfWlhjOW9zRGdmWlNoVnFrMEhvcHByNVRDR3lteUtzMjFDeWlSRk50NnBYRHlqLUk0UkdING5wUHpreUxXT2ZzZXFQblhScGtZdTg4SFJYRFFFeEFBdW9vd2VxWEloRU9WR3k5eUNrdFRhLXVqVF9XSldRVTRMTk1oMGh2SnRFdHRkOFAxazZGekJTVlVKOVpHRjZ0R0NQY1ZpUUNGeDVORmtELWhQMUYtMFFmVEU?oc=5",
+     "r": "deJurnal.com"
+    },
+    {
+     "t": "Banjir Bisa Bertahan 14 Hari! Sosialisasi Destana Jadi Peringatan bagi Warga Desa Sukamanah",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=22eQ5GF_koY",
+     "r": "YouTube Info Burinyay"
     },
     {
      "t": "DPC PRI Kabupaten.Bandung",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=803UWhyGGvY",
      "r": "YouTube @tvrbandung"
-    },
-    {
-     "t": "RESES JADI RUANG SERAP ASPIRASI, FAISAL RADI SUKMANA TAMPUNG KELUHAN WARGA",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=_fcqsg406z0",
-     "r": "YouTube SWARHA  JABAR TV"
     }
    ],
    "v": {
     "s": [
-     0,
+     1,
      4,
      0
     ],
     "w": [
      3,
      21,
-     3
+     2
     ]
    },
    "trend": {
@@ -220,7 +220,7 @@
      1,
      2,
      0,
-     0
+     1
     ],
     "g": [
      1,
@@ -228,7 +228,7 @@
      0,
      0,
      1,
-     1,
+     0,
      0
     ]
    }
@@ -274,8 +274,8 @@
      0
     ],
     "w": [
-     1,
-     5,
+     3,
+     6,
      1
     ]
    },
@@ -293,8 +293,8 @@
      0,
      0,
      1,
-     0,
-     0,
+     1,
+     1,
      1,
      0
     ],
@@ -351,8 +351,8 @@
     ],
     "w": [
      0,
-     12,
-     8
+     11,
+     14
     ]
    },
    "trend": {
@@ -379,8 +379,8 @@
      2,
      0,
      1,
+     8,
      4,
-     2,
      0
     ]
    }
@@ -395,46 +395,46 @@
    ],
    "h": [
     {
-     "t": "Waspada Bandung Macet Akhir Pekan Ini 28–29 November 2026, Ada 8 Agenda Termasuk Festival Musik - Tribunjabar.id",
+     "t": "Banjir Dayeuhkolot Surut Sabtu Pagi, Warga Bersihkan Lumpur, Harap Tak Terus Berulang - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQlNWNlRtOU5JcHRFUUtUMVY2eGM2UWRzZVo4WlloM1VJbzRNMzl4Ym9RX1d3VTZjcThpblI4d3NyQl9TRVZkYTBGcUt3eU1RU1dmZEJPcGtMRUk4blFOVGw0VlNONk5tNE02bzg0NGpMcFFveTJQMHJSWnZ6aHdxN0FjUi1YVWI0bE9JM1hxcmJKSWNGZk5xRjZKTnlDUFNYR0pTRXl2LWdsSlBUWlVQNWNxRjAyN3N6LTByU1dZWWVnZzF3enlxbC1ZcW5fSzVhemFRX29haktTc2h1QWc?oc=5",
-     "r": "Tribunjabar.id"
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXp5RFZlNDZNVEhzY28wTTE4U1V2RURHTEtnR2lkZVYxWDVmdmhDTFE2ME9RenFoTExaWmdHYkZhWmU1bXI4N3JkV2YzNUYxSkctT2tHUC1nR2pvbWZlWnNjRDc2NTRHZy1qQXJESmdzaTV6TE9LVzdJRlNLMDYxWmRvMW9XRnRSSjlDN3FrMjl4UWlSeGpseU9OdkJIeG5nRW9OMjI4Y0J5aDBZWGNqSTEzcW13ZHR0b0Q5SU4xaWY1clFVZXc?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Pemkab Bandung menyiapkan pembangunan polder untuk atasi banjir Tegalluar - ANTARA News Jawa Barat",
+     "t": "Foto : 19.798 Jiwa di Kecamatan Dayeuhkolot Terdampak Banjir, 109 Warga Mengungsi Halaman 2 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVJVZlgzRFRmYzJha2JucEF6TlBrTWxBMHUzRS1MR0NjTUdUNUJoSTNWLXZYZVc1TW9peVNaeWdma2RPdlhWaDZYaHY2LVptaEdJZTVOVkdPYmV5WW9xd0xlU0s3b2N0YldKeW9aOE02ZFJrZXFnbkhGTW1fVzc1ODRNY2Jka3FwRXRjUnZDTTRGcjhIRXJZZVJkdXU0WFI5SlJPWm1WdEd2aXdBM0VRYVJ6LWtmd0nSAbwBQVVfeXFMT3U2OTgxbEY0QkMxXzhFZjlRWGwxeUxtU3Y1aksxcHp1T2l2bTVUbU1VOF9oeE1uazVJVnVQZTlqa3g4VC1MMHphcV9Hd3VvamhoWk01VTU2Tkp0dG5xX3pjeDVZUV9LUHdzWnNQbEVXa1JjdENPaElmQ1dUanFIaC0zbVpHTFF1UW5tTk8xbU1wUk1SVkxIS2t2azNfWXRXb0FGb1hJNnNpd21UX2pleUdRemo0cDdtNUZ5Z2c?oc=5",
-     "r": "ANTARA News Jawa Barat"
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYy1VcEtlOHR0SlZFTGJaZDlwMjFNSTdGbGJSU294a0M4TS1KVnFQVnE5UjE0SVNNdmJUdkNGaUdqSGo1ek5SVkJ2OGlEN1cwMHJrVXNqbnpyZzR6MUd1emVEby1VNmR3b2hCZzhKQ0JxU25JbDhXcHdWaUJuNmdnaEl5OEx0MVlKY3NoOTFITGxVTUJxZEp2T3FOM0JVVW5BWjVYZkNMUmN6aDc0eDQ0clluVzZyM3JaUG1hUk1ma1BVc0NwMkZtZGhwanlxUQ?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Sebanyak 5.940 Keluarga Terdampak Banjir Bandung - Validnews",
+     "t": "Foto : 19.798 Jiwa di Kecamatan Dayeuhkolot Terdampak Banjir, 109 Warga Mengungsi Halaman 1 - Kompas.com",
      "s": "neg",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczIyeFdHVXIyNXNNeE83VGl0VDV0cUduU2JMQmJqWGhkWHc2VDBVRW10d29DeXhQTHlKaHg0TjJYQURPYmFCTXBWZXhmX2JLNmFINmRzVFZ1bEFDNU12WkZycnQxMU03UHIwMmVBSTc0U3c1NF8zQ0NZWXRaUWVNUF9iQW9qNUNTdGhWS09TZnRJR09vUFdkdlp2R290NEU?oc=5",
-     "r": "Validnews"
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjZXWmJDME1NcWZDMHluMlNKeG9PbzZMM3RMMEs3LUtwNERhbi1KRGp4M3B3WGZRVEM3RzM1dG9JdjdnclpvbUtxaUVEdzB6MTFDVTMwTkw4MkhHMS0yU09qWm9pV24yMFVGMWxlbFRPU3I2UzZ2Z19iQjRWcnE0V0d6ak9haXFSdUxXNXdJdW9COW5EQlVydTdMdG55OW5Od0F0dGtBMmJUbkN4X1ByWHZYMWQzaTRKUm9tT196VWpoa1RqMjUzNFRmOTREZw?oc=5",
+     "r": "Kompas.com"
     },
     {
-     "t": "Banjir Melanda Jatiendah Cilengkrang Akibat Sungai Meluap Usai Hujan, Satu Rumah Jebol",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=wEngoNef36Q",
-     "r": "YouTube AYOBANDUNG"
+     "t": "Jalan Bojongsoang Sudah Bebas Banjir, Tapi Kondisi Permukiman Warga Masih Mengkhawatirkan!",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=UEqmmGhOvqE",
+     "r": "YouTube AZZAHRA VLOG"
     },
     {
-     "t": "🔴 LIVE | Langganan Musim Hujan, Banjir Kembali Rendam Dayeuhkolot Bandung, Berdampak ke 9 Ribu Warga",
-     "s": "neg",
-     "u": "https://www.youtube.com/watch?v=qnCdRFWJWZM",
-     "r": "YouTube tribunjabar video"
+     "t": "Banjir Bisa Bertahan 14 Hari! Sosialisasi Destana Jadi Peringatan bagi Warga Desa Sukamanah",
+     "s": "pos",
+     "u": "https://www.youtube.com/watch?v=22eQ5GF_koY",
+     "r": "YouTube Info Burinyay"
     }
    ],
    "v": {
     "s": [
+     2,
      0,
-     0,
-     18
+     15
     ],
     "w": [
-     1,
-     6,
-     31
+     2,
+     5,
+     35
     ]
    },
    "trend": {
@@ -453,17 +453,17 @@
      0,
      0,
      1,
-     0,
-     0
+     1,
+     2
     ],
     "g": [
      0,
      0,
      0,
-     1,
-     15,
-     31,
-     2
+     0,
+     13,
+     30,
+     7
     ]
    }
   },
@@ -495,28 +495,28 @@
      "r": "Tribunjabar.id"
     },
     {
-     "t": "PGRI Kec  Pasirjambu Peringati HUT ke 81 dan HGN 2026, Lepas 28 Guru Purnabakti serta Santuni Korban",
-     "s": "neu",
-     "u": "https://www.youtube.com/watch?v=H7pr9VljWNI",
-     "r": "YouTube Info Burinyay"
-    },
-    {
      "t": "Video Profil Debby Nurviani Herdiana, S.Pd., Gr. || Anugrah Sawala Cendekia Disdik Kab. Bandung 2026",
      "s": "neu",
      "u": "https://www.youtube.com/watch?v=98rG3e8LoaM",
      "r": "YouTube Debby Nurviani Herdiana"
+    },
+    {
+     "t": "SYAWAL ASRI NAILA ILMI I VIDEO PROFILE DUTA GENRE KABUPATEN BANDUNG",
+     "s": "neu",
+     "u": "https://www.youtube.com/watch?v=gZsmwpWLJZU",
+     "r": "YouTube Forum Genre Jawa Barat Channel"
     }
    ],
    "v": {
     "s": [
      0,
-     5,
+     4,
      0
     ],
     "w": [
      3,
-     25,
-     5
+     28,
+     4
     ]
    },
    "trend": {
@@ -542,7 +542,7 @@
      0,
      0,
      0,
-     1,
+     0,
      3,
      1,
      0
